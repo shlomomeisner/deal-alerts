@@ -178,6 +178,8 @@ def main():
     seen_list = load(SEEN, [])
     seen = set(seen_list)
     first_run = not seen_list
+    # A feed added later gets the same quiet first look, so old posts don't flood alerts.
+    known_feeds = {k.split("|", 1)[0] for k in seen_list}
     topic = os.environ.get("NTFY_TOPIC", "").strip()
     server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").strip() or "https://ntfy.sh"
     dry = os.environ.get("DRY_RUN") == "1" or not topic
@@ -194,7 +196,7 @@ def main():
             if key in seen:
                 continue
             new_ids.append(key)
-            if first_run:
+            if first_run or feed["name"] not in known_feeds:
                 continue  # first run only records what's already out there
             ok, why, urgent = evaluate(it, feed, cfg)
             if ok:

@@ -1,47 +1,376 @@
 {
   "feeds": [
-    {"name": "Slickdeals Frontpage", "category": "everything", "filter": "everything", "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals Popular", "category": "everything", "filter": "everything", "url": "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals: price mistake", "category": "everything", "filter": "all", "url": "https://slickdeals.net/newsearch.php?q=price+mistake&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals: Amazon", "category": "amazon", "filter": "everything", "url": "https://slickdeals.net/newsearch.php?q=amazon&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals: cologne", "category": "fragrance", "filter": "fragrance", "url": "https://slickdeals.net/newsearch.php?q=cologne&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals: fragrance", "category": "fragrance", "filter": "fragrance", "url": "https://slickdeals.net/newsearch.php?q=fragrance&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals: Gucci", "category": "fashion", "filter": "fashion", "url": "https://slickdeals.net/newsearch.php?q=gucci&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals: Ferragamo", "category": "fashion", "filter": "fashion", "url": "https://slickdeals.net/newsearch.php?q=ferragamo&searcharea=deals&searchin=first&rss=1"},
-    {"name": "Slickdeals: iPhone", "category": "tech", "filter": "tech", "url": "https://slickdeals.net/newsearch.php?q=iphone&searcharea=deals&searchin=first&rss=1"},
-    {"name": "DealNews", "category": "everything", "filter": "everything", "url": "https://www.dealnews.com/?rss=1&sort=time"},
-    {"name": "camelcamelcamel Amazon drops", "category": "amazon", "filter": "everything", "url": "https://camelcamelcamel.com/top_drops/feed"},
-    {"name": "9to5Toys", "category": "tech", "filter": "tech", "url": "https://9to5toys.com/feed/"},
-    {"name": "r/frugalmalefashion", "category": "fashion", "filter": "fashion", "url": "https://www.reddit.com/r/frugalmalefashion/new/.rss"},
-    {"name": "r/frugalfemalefashion", "category": "fashion", "filter": "fashion", "url": "https://www.reddit.com/r/frugalfemalefashion/new/.rss"},
-    {"name": "r/sneakerdeals", "category": "fashion", "filter": "fashion", "url": "https://www.reddit.com/r/sneakerdeals/new/.rss"},
-    {"name": "r/fragrancedeals", "category": "fragrance", "filter": "fragrance", "url": "https://www.reddit.com/r/fragrancedeals/new/.rss"},
-    {"name": "r/deals", "category": "everything", "filter": "everything", "url": "https://www.reddit.com/r/deals/new/.rss"},
-    {"name": "r/buildapcsales", "category": "tech", "filter": "tech", "url": "https://www.reddit.com/r/buildapcsales/new/.rss"},
-    {"name": "Secret Flying", "category": "flights", "filter": "flights", "url": "https://www.secretflying.com/feed/"},
-    {"name": "The Flight Deal", "category": "flights", "filter": "flights", "url": "https://www.theflightdeal.com/feed/"},
-    {"name": "Thrifty Traveler", "category": "flights", "filter": "flights", "url": "https://thriftytraveler.com/feed/"}
+    {
+      "name": "Slickdeals Frontpage",
+      "category": "everything",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals Popular",
+      "category": "everything",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: price mistake",
+      "category": "everything",
+      "filter": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=price+mistake&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Amazon",
+      "category": "amazon",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=amazon&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: cologne",
+      "category": "fragrance",
+      "filter": "fragrance",
+      "url": "https://slickdeals.net/newsearch.php?q=cologne&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: fragrance",
+      "category": "fragrance",
+      "filter": "fragrance",
+      "url": "https://slickdeals.net/newsearch.php?q=fragrance&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Gucci",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://slickdeals.net/newsearch.php?q=gucci&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Ferragamo",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://slickdeals.net/newsearch.php?q=ferragamo&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: iPhone",
+      "category": "tech",
+      "filter": "tech",
+      "url": "https://slickdeals.net/newsearch.php?q=iphone&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "DealNews",
+      "category": "everything",
+      "filter": "everything",
+      "url": "https://www.dealnews.com/?rss=1&sort=time"
+    },
+    {
+      "name": "camelcamelcamel Amazon drops",
+      "category": "amazon",
+      "filter": "everything",
+      "url": "https://camelcamelcamel.com/top_drops/feed"
+    },
+    {
+      "name": "9to5Toys",
+      "category": "tech",
+      "filter": "tech",
+      "url": "https://9to5toys.com/feed/"
+    },
+    {
+      "name": "r/frugalmalefashion",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://www.reddit.com/r/frugalmalefashion/new/.rss"
+    },
+    {
+      "name": "r/frugalfemalefashion",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://www.reddit.com/r/frugalfemalefashion/new/.rss"
+    },
+    {
+      "name": "r/sneakerdeals",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://www.reddit.com/r/sneakerdeals/new/.rss"
+    },
+    {
+      "name": "r/fragrancedeals",
+      "category": "fragrance",
+      "filter": "fragrance",
+      "url": "https://www.reddit.com/r/fragrancedeals/new/.rss"
+    },
+    {
+      "name": "r/deals",
+      "category": "everything",
+      "filter": "everything",
+      "url": "https://www.reddit.com/r/deals/new/.rss"
+    },
+    {
+      "name": "r/buildapcsales",
+      "category": "tech",
+      "filter": "tech",
+      "url": "https://www.reddit.com/r/buildapcsales/new/.rss"
+    },
+    {
+      "name": "Secret Flying",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.secretflying.com/feed/"
+    },
+    {
+      "name": "The Flight Deal",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.theflightdeal.com/feed/"
+    },
+    {
+      "name": "Thrifty Traveler",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://thriftytraveler.com/feed/"
+    },
+    {
+      "name": "Google: price mistake",
+      "category": "everything",
+      "filter": "all",
+      "url": "https://news.google.com/rss/search?q=%22price+mistake%22+OR+%22pricing+error%22+OR+%22price+glitch%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: error fare NYC",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=%22error+fare%22+OR+%22mistake+fare%22+New+York+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: Gucci sale",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://news.google.com/rss/search?q=Gucci+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: Ferragamo sale",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://news.google.com/rss/search?q=Ferragamo+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: designer sale",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://news.google.com/rss/search?q=designer+sale+%22extra%22+%22%25+off%22+Saks+OR+Nordstrom+OR+Neiman+OR+SSENSE+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: cologne deal",
+      "category": "fragrance",
+      "filter": "fragrance",
+      "url": "https://news.google.com/rss/search?q=cologne+OR+fragrance+deal+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: iPhone deal",
+      "category": "tech",
+      "filter": "tech",
+      "url": "https://news.google.com/rss/search?q=iPhone+OR+AirPods+OR+MacBook+%22lowest+price%22+OR+%22record+low%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: Amazon record low",
+      "category": "amazon",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Amazon+%22all-time+low%22+OR+%22record+low%22+deal+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    }
   ],
-
-  "home_airports": ["New York", "NYC", "JFK", "EWR", "LGA", "Newark"],
+  "home_airports": [
+    "New York",
+    "NYC",
+    "JFK",
+    "EWR",
+    "LGA",
+    "Newark"
+  ],
   "flight_max_price": 350,
-  "flight_class_words": ["business class", "first class", "premium economy", "lie-flat", "lie flat"],
-
-  "urgent_words": ["error fare", "mistake fare", "price mistake", "price error", "pricing error", "glitch", "fat finger"],
-  "exclude_words": ["expired", "[expired]", "sold out", "dead deal"],
-  "record_low_words": ["all-time low", "all time low", "record low", "lowest price ever", "lowest ever", "new low", "best price ever"],
-
-  "luxury_brands": ["Gucci", "Ferragamo", "Prada", "Saint Laurent", "YSL", "Bottega", "Loewe", "Balenciaga", "Valentino", "Burberry", "Tom Ford", "Loro Piana", "Moncler", "Cucinelli", "Louboutin", "Hermes", "Hermès", "Chanel", "Louis Vuitton", "Dior", "Cartier", "Zegna", "Canada Goose", "Stone Island", "Golden Goose", "Versace", "Givenchy", "Fendi", "Off-White", "Amiri", "Rolex", "Omega"],
+  "flight_class_words": [
+    "business class",
+    "first class",
+    "premium economy",
+    "lie-flat",
+    "lie flat"
+  ],
+  "urgent_words": [
+    "error fare",
+    "mistake fare",
+    "price mistake",
+    "price error",
+    "pricing error",
+    "glitch",
+    "fat finger"
+  ],
+  "exclude_words": [
+    "expired",
+    "[expired]",
+    "sold out",
+    "dead deal"
+  ],
+  "record_low_words": [
+    "all-time low",
+    "all time low",
+    "record low",
+    "lowest price ever",
+    "lowest ever",
+    "new low",
+    "best price ever"
+  ],
+  "luxury_brands": [
+    "Gucci",
+    "Ferragamo",
+    "Prada",
+    "Saint Laurent",
+    "YSL",
+    "Bottega",
+    "Loewe",
+    "Balenciaga",
+    "Valentino",
+    "Burberry",
+    "Tom Ford",
+    "Loro Piana",
+    "Moncler",
+    "Cucinelli",
+    "Louboutin",
+    "Hermes",
+    "Hermès",
+    "Chanel",
+    "Louis Vuitton",
+    "Dior",
+    "Cartier",
+    "Zegna",
+    "Canada Goose",
+    "Stone Island",
+    "Golden Goose",
+    "Versace",
+    "Givenchy",
+    "Fendi",
+    "Off-White",
+    "Amiri",
+    "Rolex",
+    "Omega"
+  ],
   "luxury_min_pct": 40,
-
-  "fashion_brands": ["Ralph Lauren", "Polo", "Hugo Boss", "Boss", "Theory", "Vince", "AllSaints", "Sandro", "Maje", "Reiss", "Club Monaco", "J.Crew", "Banana Republic", "Todd Snyder", "Suitsupply", "Arc'teryx", "Arcteryx", "Patagonia", "North Face", "Lululemon", "Nike", "Adidas", "New Balance", "Jordan", "Yeezy", "Uniqlo", "Zara", "COS", "ASOS", "Levi", "Ray-Ban", "Oakley", "Coach", "Michael Kors", "Kate Spade", "Tumi", "Barbour", "Allen Edmonds", "Cole Haan", "UGG", "On Running", "Hoka", "Saks", "Nordstrom", "Neiman", "Farfetch", "SSENSE", "Mr Porter", "Net-a-Porter", "Bloomingdale"],
+  "fashion_brands": [
+    "Ralph Lauren",
+    "Polo",
+    "Hugo Boss",
+    "Boss",
+    "Theory",
+    "Vince",
+    "AllSaints",
+    "Sandro",
+    "Maje",
+    "Reiss",
+    "Club Monaco",
+    "J.Crew",
+    "Banana Republic",
+    "Todd Snyder",
+    "Suitsupply",
+    "Arc'teryx",
+    "Arcteryx",
+    "Patagonia",
+    "North Face",
+    "Lululemon",
+    "Nike",
+    "Adidas",
+    "New Balance",
+    "Jordan",
+    "Yeezy",
+    "Uniqlo",
+    "Zara",
+    "COS",
+    "ASOS",
+    "Levi",
+    "Ray-Ban",
+    "Oakley",
+    "Coach",
+    "Michael Kors",
+    "Kate Spade",
+    "Tumi",
+    "Barbour",
+    "Allen Edmonds",
+    "Cole Haan",
+    "UGG",
+    "On Running",
+    "Hoka",
+    "Saks",
+    "Nordstrom",
+    "Neiman",
+    "Farfetch",
+    "SSENSE",
+    "Mr Porter",
+    "Net-a-Porter",
+    "Bloomingdale"
+  ],
   "fashion_min_pct": 50,
-
-  "fragrance_words": ["cologne", "fragrance", "eau de parfum", "eau de toilette", "parfum", "Creed", "Aventus", "Sauvage", "Bleu de Chanel", "Acqua di Gio", "Versace Eros", "Dior Homme", "Tom Ford", "Jo Malone", "Le Labo", "Byredo", "Maison Margiela", "Replica", "Parfums de Marly", "Kilian", "Xerjoff", "Viktor & Rolf", "Spicebomb", "YSL Y", "La Nuit", "Valentino Uomo", "Prada Luna Rossa", "Armani"],
+  "fragrance_words": [
+    "cologne",
+    "fragrance",
+    "eau de parfum",
+    "eau de toilette",
+    "parfum",
+    "Creed",
+    "Aventus",
+    "Sauvage",
+    "Bleu de Chanel",
+    "Acqua di Gio",
+    "Versace Eros",
+    "Dior Homme",
+    "Tom Ford",
+    "Jo Malone",
+    "Le Labo",
+    "Byredo",
+    "Maison Margiela",
+    "Replica",
+    "Parfums de Marly",
+    "Kilian",
+    "Xerjoff",
+    "Viktor & Rolf",
+    "Spicebomb",
+    "YSL Y",
+    "La Nuit",
+    "Valentino Uomo",
+    "Prada Luna Rossa",
+    "Armani"
+  ],
   "fragrance_min_pct": 35,
-
-  "tech_words": ["iPhone", "iPad", "MacBook", "Mac mini", "iMac", "AirPods", "Apple Watch", "Vision Pro", "Galaxy", "Pixel", "PS5", "PlayStation", "Xbox", "Nintendo Switch", "Switch 2", "Steam Deck", "OLED", "QLED", "TV", "Dyson", "Sonos", "Bose", "Sony WH", "GoPro", "DJI", "Canon", "Nikon", "Fujifilm", "Kindle", "Garmin", "Meta Quest", "RTX", "SSD", "monitor", "laptop"],
+  "tech_words": [
+    "iPhone",
+    "iPad",
+    "MacBook",
+    "Mac mini",
+    "iMac",
+    "AirPods",
+    "Apple Watch",
+    "Vision Pro",
+    "Galaxy",
+    "Pixel",
+    "PS5",
+    "PlayStation",
+    "Xbox",
+    "Nintendo Switch",
+    "Switch 2",
+    "Steam Deck",
+    "OLED",
+    "QLED",
+    "TV",
+    "Dyson",
+    "Sonos",
+    "Bose",
+    "Sony WH",
+    "GoPro",
+    "DJI",
+    "Canon",
+    "Nikon",
+    "Fujifilm",
+    "Kindle",
+    "Garmin",
+    "Meta Quest",
+    "RTX",
+    "SSD",
+    "monitor",
+    "laptop"
+  ],
   "tech_min_pct": 35,
-
   "any_min_pct": 70
 }
