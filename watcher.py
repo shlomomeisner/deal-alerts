@@ -7,6 +7,7 @@ push notification to your phone through ntfy (https://ntfy.sh).
 
 Runs every 5 minutes from GitHub Actions. Uses only the Python standard library.
 """
+import hashlib
 import json
 import os
 import re
@@ -20,6 +21,7 @@ from html import unescape
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CONFIG = os.path.join(ROOT, "config.json")
 SEEN = os.path.join(ROOT, "seen.json")
+DEALS = os.path.join(ROOT, "deals.json")
 UA = "deal-alerts/1.0 (personal deal watcher; github.com/shlomomeisner/deal-alerts)"
 MAX_SEEN = 5000
 MAX_ALERTS_PER_RUN = 15
@@ -213,6 +215,20 @@ def main():
                 time.sleep(1)
             except Exception as e:
                 errors.append(f"notify: {e}")
+
+    # Keep a rolling list of matched deals for the Deal Monitor app.
+    if alerts:
+        deals = load(DEALS, [])
+        now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        for urgent, feed, it, why in alerts:
+            deals.append({
+                "id": hashlib.sha1(f"{feed['name']}|{it['id']}".encode()).hexdigest()[:16],
+                "title": it["title"], "url": it["link"], "why": why,
+                "category": feed["category"], "source": feed["name"],
+                "urgent": urgent, "found_at": now,
+            })
+        with open(DEALS, "w", encoding="utf-8") as f:
+            json.dump(deals[-300:], f, indent=1, ensure_ascii=False)
 
     seen_list.extend(new_ids)
     with open(SEEN, "w", encoding="utf-8") as f:
