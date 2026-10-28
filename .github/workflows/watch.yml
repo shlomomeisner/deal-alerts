@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
       - name: Check feeds and send alerts
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || 'shlomo-deals-5b8e55ffde' }}
         run: python watcher.py
       - name: Save what was already seen
         run: |

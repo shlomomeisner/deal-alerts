@@ -6,7 +6,7 @@ Amazon price drops, iPhones and tech, and cheap / error-fare flights from NYC.
 
 ## Get alerts on your phone
 1. Install **ntfy** from the App Store.
-2. Tap **+**, subscribe to the topic stored in this repo's `NTFY_TOPIC` secret.
+2. Tap **+**, subscribe to `shlomo-deals-5b8e55ffde` (set in .github/workflows/watch.yml, or override with an `NTFY_TOPIC` repo secret).
 3. Done — 🚨 = error fare / price mistake, 🔥 = big deal. Tap an alert to open it.
 
 ## Change what it watches
