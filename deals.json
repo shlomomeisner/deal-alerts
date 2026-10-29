@@ -1,44 +1,5 @@
 [
  {
-  "id": "37f67bd320aa2097",
-  "title": "Deals: Galaxy Z Fold 8 trades – $600 back + $350 gift card, 2026 Surface Laptop at $600 off, charger deals, more",
-  "url": "https://9to5google.com/2026/07/30/deals-galaxy-z-fold-8-trade-deals-2026-surface-laptop/",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 600.0,
-  "found_at": "2026-10-29T17:41:36Z"
- },
- {
-  "id": "1a8efa2f375f580d",
-  "title": "Deals: Galaxy Tab S11 Ultra up to $515 off, FREE buds, official Fold 8/Ultra cases 30% off, OmniBook X Copilot+ PC $550 off, more",
-  "url": "https://9to5google.com/2026/07/29/deals-galaxy-tab-s11-ultra-fold-8-cases-omnibook-x-pc/",
-  "why": "Galaxy — new low",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 30,
-  "price": 515.0,
-  "found_at": "2026-10-29T17:41:36Z"
- },
- {
-  "id": "08e14bcb22443dcd",
-  "title": "Deals: Fold 8/Galaxy Watch, Galaxy A57 at $425 low, NXTPAPER 11 tab $160, Best Buy back to school sale, more",
-  "url": "https://9to5google.com/2026/07/27/deals-fold-8-galaxy-watch-galaxy-a57-nxtpaper-11/",
-  "why": "Watch deal",
-  "category": "watches",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 425.0,
-  "found_at": "2026-10-29T17:41:36Z"
- },
- {
   "id": "11daf14ce8f7d856",
   "title": "Deals: Galaxy Fold 8/Ultra up to $1,230 off, FREE $200 credit, FREE buds, Galaxy Watch Ultra 2 $300 off, more",
   "url": "https://9to5google.com/2026/07/22/best-galaxy-fold-8-ultra-preorder-deals/",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 29.95,
   "found_at": "2026-10-29T19:55:55Z"
+ },
+ {
+  "id": "cc641a7d44c9e112",
+  "title": "13.6\" Apple MacBook Air M5: 16GB/1TB $1399, 16GB/512GB $1099 & More + Free S&H",
+  "url": "https://slickdeals.net/f/20226018-1099-99-13-inch-apple-macbook-air-laptop-with-m5-chip-16gb-ram-512gb-ssd-silver-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 139.0,
+  "found_at": "2026-10-29T20:01:10Z"
+ },
+ {
+  "id": "32e62f5ea5c13a6d",
+  "title": "REI Outlet Cold Weather Deals: Up to 70% off + free shipping w/ $100",
+  "url": "https://www.dealnews.com/REI-Outlet-Cold-Weather-Deals-Up-to-70-off-free-shipping-w-100/22324968.html?iref=rss",
+  "why": "Arc'Teryx 70% off",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 70,
+  "price": 100.0,
+  "found_at": "2026-10-29T20:01:10Z"
+ },
+ {
+  "id": "147d5f87479c653d",
+  "title": "Ray-Ban, Oakley, Costa, Under Armour Sunglasses (Non & Polarized) Up to 60% Off + Free Shipping",
+  "url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Ray-Ban 60% off",
+  "category": "fashion",
+  "source": "Slickdeals: Oakley",
+  "urgent": false,
+  "hot": true,
+  "pct": 60,
+  "price": null,
+  "found_at": "2026-10-29T20:01:10Z"
  }
 ]
