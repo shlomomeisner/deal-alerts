@@ -1,31 +1,5 @@
 [
  {
-  "id": "6eb88430e1a0600f",
-  "title": "Deals: Galaxy S26/Ultra up to $510 off, Lenovo IdeaPad 2K touchscreen laptop $250 off, Anker chargers, more",
-  "url": "https://9to5google.com/2026/10/09/deals-galaxy-s26-ultra-lenovo-ideapad-2k-pc-anker/",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 510.0,
-  "found_at": "2026-10-29T20:27:38Z"
- },
- {
-  "id": "75a99058f79b7d48",
-  "title": "Deals: Galaxy Z Fold 8 up to $628 off, Pixel 11 Pro up to nearly $400 off, Nothing Headphone (a) 35% off, more",
-  "url": "https://9to5google.com/2026/10/08/deals-galaxy-z-fold-8-pixel-11-pro-nothing-headphone-a/",
-  "why": "Ipad — 35% off",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 35,
-  "price": 628.0,
-  "found_at": "2026-10-29T20:27:38Z"
- },
- {
   "id": "4b67aa7f3a2bd641",
   "title": "Prime Day 2 deals – Last chance: Galaxy Tab S12 up to $650 off w/ trade, S11 $355 off, Galaxy Z Fold 8 all-time low, more",
   "url": "https://9to5google.com/2026/10/07/samsung-galaxy-tab-s12ultra-launch-deals-now-live-up-to-650-off/",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 29.95,
   "found_at": "2026-10-29T21:43:24Z"
+ },
+ {
+  "id": "13a5f781cff34454",
+  "title": "Citizen Men's Classic Corso Eco-Drive Watch, Chronograph, 12/24 Hour Time, Date, Sapphire Crystal, Stainless/ Blue Dial $318.75",
+  "url": "https://slickdeals.net/f/20229123-citizen-men-s-classic-corso-eco-drive-watch-chronograph-12-24-hour-time-date-sapphire-crystal-stainless-blue-dial-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 318.75,
+  "found_at": "2026-10-29T21:48:35Z"
+ },
+ {
+  "id": "a68862346b6bc06c",
+  "title": "Roku’s impressive 65″ OLED Pro Series TV spotted at its lowest price ever on Amazon - PC Guide",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXd5b2tPd1ZhLVl4NkY4b3g4TzRQUS1vM0o4dVd1c1hWVERHZGJTUXA1NEZLaWd6MzdQOWNDSTZIY2I0ZWR2M3dHTktBZ3NOaFZjanJXQzVwa2pjbGkxeGQ2VW54RFRxZmVjdmlaR294dHQ0Tlk5bGU1Z0RwY0xpYjI2bW5lQUViRko3YldwMHRNQy1WQUg3dlUzbHhrS2FDekt2UnpnWktRZmlOMnhDdjBn?oc=5",
+  "why": "Oled — lowest price ever",
+  "category": "tech",
+  "source": "Google: PS5 deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-29T21:48:35Z"
  }
 ]
