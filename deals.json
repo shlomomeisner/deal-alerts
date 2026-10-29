@@ -1,44 +1,5 @@
 [
  {
-  "id": "0bf69e1c9d8e10b2",
-  "title": "TAG Heuer Connected Calibre E4 Golf Edition $849",
-  "url": "https://slickdeals.net/f/20039055-tag-heuer-connected-calibre-e4-golf-edition-849?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Tag Heuer",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 849.0,
-  "found_at": "2026-10-29T09:08:44Z"
- },
- {
-  "id": "d43675818439b908",
-  "title": "TAG Heuer Smart Watch, Fitness Watch, Connected Calibre E4 45 mm Golf Edition $949",
-  "url": "https://slickdeals.net/f/20039049-tag-heuer-smart-watch-fitness-watch-connected-calibre-e4-45-mm-golf-edition-949?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Tag Heuer",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 949.0,
-  "found_at": "2026-10-29T09:08:44Z"
- },
- {
-  "id": "ca51630c80b9b114",
-  "title": "Rolex Day-Date 40 Meteorite Diamond Automatic Diamond Men's Watch $124500",
-  "url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Rolex",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 124.0,
-  "found_at": "2026-10-29T09:14:25Z"
- },
- {
   "id": "b4dd93b59ee85d70",
   "title": "BULOVA Super Seville 262 kHz sweeper Blue Dial Item No. 96B440 $379 @JOMASHOP",
   "url": "https://slickdeals.net/f/20068209-bulova-super-seville-262-khz-sweeper-blue-dial-item-no-96b440-379-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 16.99,
   "found_at": "2026-10-29T14:35:39Z"
+ },
+ {
+  "id": "70a207a1f01fb7e2",
+  "title": "Carpets for Kids Pixel Perfect...ating Rug 8ft x 12ft Rectangle - down 9.49% ($43.65) to $416.30 from $459.95",
+  "url": "https://camelcamelcamel.com/product/B00YP1ZOL0",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 43.65,
+  "found_at": "2026-10-29T14:40:44Z"
+ },
+ {
+  "id": "dbcbf9f5552f9b88",
+  "title": "8BitDo Ultimate 2C Bluetooth Wireless Gaming Controller for Nintendo Switch (Transparent Black) - $23.99 @ Best Buy",
+  "url": "https://slickdeals.net/f/20211657-8bitdo-ultimate-2c-bluetooth-wireless-gaming-controller-for-nintendo-switch-transparent-black-23-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 23.99,
+  "found_at": "2026-10-29T14:40:44Z"
+ },
+ {
+  "id": "c8665a43d3b2f432",
+  "title": "Apple iPad mini 128GB A20 Pro 8.5\" OLED WiFi Tablet $699",
+  "url": "https://www.amazon.com/Apple-iPad-mini-A20-Pro/dp/B0HPBW4WL3",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-10-29T14:40:44Z"
  }
 ]
