@@ -1,31 +1,5 @@
 [
  {
-  "id": "0232225337867deb",
-  "title": "Deals: Pixel Watch 5 up to $108 off, TCL NXTPAPER phone $200, Anker’s new Smart Display Hub, more from $20",
-  "url": "https://9to5google.com/2026/10/14/deals-pixel-watch-5-tcl-nxtpaper-anker-display-hub/",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 108.0,
-  "found_at": "2026-10-29T20:27:38Z"
- },
- {
-  "id": "e6ab3dae48f0dc06",
-  "title": "Deals: Nothing Phone (3) $280 off, Headphone (a) 40% off, Pixel 11 devices up to $365 off, Lenovo Idea Tab $142, more",
-  "url": "https://9to5google.com/2026/10/13/deals-nothing-phone-3-headphone-a-pixel-11-idea-tab/",
-  "why": "Pixel — all-time low",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 40,
-  "price": 280.0,
-  "found_at": "2026-10-29T20:27:38Z"
- },
- {
   "id": "b4430ac6f90e6b18",
   "title": "Deals: Samsung Galaxy Tab S12 + $200 Amazon gift card, Nothing Ear (3a), LG TVs up to $1,200 off w/ 10% back, more",
   "url": "https://9to5google.com/2026/10/12/deals-samsung-galaxy-tab-s12-noting-ear-3a-lg-tv/",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 29.95,
   "found_at": "2026-10-29T21:26:47Z"
+ },
+ {
+  "id": "13a5f781cff34454",
+  "title": "Citizen Men's Classic Corso Eco-Drive Watch, Chronograph, 12/24 Hour Time, Date, Sapphire Crystal, Stainless/ Blue Dial $318.75",
+  "url": "https://slickdeals.net/f/20229123-citizen-men-s-classic-corso-eco-drive-watch-chronograph-12-24-hour-time-date-sapphire-crystal-stainless-blue-dial-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 318.75,
+  "found_at": "2026-10-29T21:32:00Z"
+ },
+ {
+  "id": "7dae12b8cd75df49",
+  "title": "Lenovo's OLED touchscreen Yoga Slim 7x with Snapdragon X2 Elite chip hits new all-time low at $700 off - 9to5Toys",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3ZUVDJaVnJHTnc1aE1maWktcUhJblNkTDdOSlhZbGdiOXNXbGJaUG80MDV0WmctLVhTd2tmNFNsbVNkY2Q5U2twVXVmSFBvVkNLZjdsYkhIczNzUU5WTGppRG1RWDU1emVQZ1ZTNkdhQnIza0pPc1Q1d0dfbWRqcGlLRzN2ZzVPaGtGOE80aVcxOWhxZ2JoSUZCT2ZMNmUzYWptOG5oQTdxSXNCZUpEcnk1NUNta2VnMnd3MVlfc2kxNjFnM0xBXzRmMA?oc=5",
+  "why": "Oled — all-time low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 700.0,
+  "found_at": "2026-10-29T21:32:00Z"
  }
 ]
