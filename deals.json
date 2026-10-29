@@ -1,44 +1,5 @@
 [
  {
-  "id": "7a17c5443a07a7e6",
-  "title": "Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more",
-  "url": "https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/",
-  "why": "Apple Watch 25% off",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 25,
-  "price": 120.0,
-  "found_at": "2026-10-29T17:09:47Z"
- },
- {
-  "id": "b86d3afd3d76f6ae",
-  "title": "Deals: AirPods Pro 3/Max 2, all-time lows on M6 Mac mini, Apple Watch Series 12, 18 Pro cases, more",
-  "url": "https://9to5mac.com/2026/10/08/deals-airpods-m6-mac-mini-apple-watch-series-12/",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-29T17:09:47Z"
- },
- {
-  "id": "6fcba512a8264dfb",
-  "title": "All of the best fall Prime Day deals: AirPods, Mac mini, MacBook, chargers, cases, more",
-  "url": "https://9to5mac.com/2026/10/07/best-fall-prime-day-apple-deals-live/",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-29T17:09:47Z"
- },
- {
   "id": "aa0bb7c8860407d0",
   "title": "Last chance: Apple’s flagship AirPods now up to $120 off for Prime Day",
   "url": "https://9to5mac.com/2026/10/07/apples-flagship-airpods-now-up-to-120-off-for-prime-day/",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 40.0,
   "found_at": "2026-10-29T18:35:09Z"
+ },
+ {
+  "id": "8b3941db3f733363",
+  "title": "T-Mobile: Apple iPhone 18 Pro On Us or $1,200 Off iPhone Duo w/ Qualifying Plan",
+  "url": "https://slickdeals.net/f/20228784-t-mobile-apple-iphone-18-pro-on-us-or-1-200-off-iphone-duo-w-qualifying-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1200.0,
+  "found_at": "2026-10-29T18:45:25Z"
+ },
+ {
+  "id": "615c018e6eb5007e",
+  "title": "T-Mobile: Apple iPhone 18 Pro On Us or $1,200 Off iPhone Duo w/ Qualifying Plan",
+  "url": "https://slickdeals.net/f/20228784-t-mobile-apple-iphone-18-pro-on-us-or-1-200-off-iphone-duo-w-qualifying-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1200.0,
+  "found_at": "2026-10-29T18:45:25Z"
+ },
+ {
+  "id": "ba5fb0d2c1b28044",
+  "title": "This OLED Samsung monitor just hit an all-time low price on Amazon - ZDNET",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sNkEwMzBreEN4Y1BZQU1GbGJ3TWNhd3VyT0lURXZFNmRFNkxLRnJRQ1FIVXRuREVrb3ZmaEpwUndSZmg4dXA5VmV4eW0zOE5EQlhUaEEtckw0ZVNmNENtVUxkSHNtWTdWUVlpRG5WSVctZF85?oc=5",
+  "why": "Oled — all-time low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-29T18:45:25Z"
  }
 ]
