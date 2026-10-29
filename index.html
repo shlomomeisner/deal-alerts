@@ -297,7 +297,7 @@ async function load(){
   const [w,h,st]=await Promise.all([getJSON("deals.json"),getJSON("hunted.json"),getJSON("status.json")]);
   const now=Date.now(),byId=new Map();
   for(const d of (Array.isArray(h)?h:[]))if(d&&d.id)byId.set(d.id,d);                    // hand-checked by the hourly hunter
-  for(const d of (Array.isArray(w)?w:[]))if(d&&d.id&&!byId.has(d.id)&&now-new Date(d.found_at)<2*86400000)byId.set(d.id,d); // 5-minute scan, last 2 days
+  for(const d of (Array.isArray(w)?w:[]))if(d&&d.id&&!byId.has(d.id))byId.set(d.id,d); // 5-minute scan; stays until the hunter confirms it is gone
   if(!w&&!h){$("statusText").textContent="Couldn't load deals — pull to refresh";return}
   deals=[...byId.values()].sort((a,b)=>String(b.found_at).localeCompare(String(a.found_at))).slice(0,500);
   dealsLoaded=true;
