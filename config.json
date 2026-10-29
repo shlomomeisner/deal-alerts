@@ -575,6 +575,1920 @@
       "filter": "everything",
       "save": "all",
       "url": "https://slickdeals.net/newsearch.php?q=ray-ban&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Alexander Mcqueen",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=alexander+mcqueen&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Celine",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=celine&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Miu Miu",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=miu+miu&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Jil Sander",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=jil+sander&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Maison Margiela",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=maison+margiela&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Rick Owens",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=rick+owens&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Thom Browne",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=thom+browne&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Acne Studios",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=acne+studios&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Amiri",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=amiri&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Off-White",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=off-white&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dolce Gabbana",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dolce+gabbana&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Balmain",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=balmain&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Kenzo",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=kenzo&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Moschino",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=moschino&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Marni",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=marni&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Etro",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=etro&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Brioni",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=brioni&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Kiton",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=kiton&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Berluti",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=berluti&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tod'S",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tod%27s&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Church'S Shoes",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=church%27s+shoes&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: John Lobb",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=john+lobb&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Crockett Jones",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=crockett+jones&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Allen Edmonds",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=allen+edmonds&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Common Projects",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=common+projects&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Jimmy Choo",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=jimmy+choo&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Manolo Blahnik",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=manolo+blahnik&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Aquazzura",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=aquazzura&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bally",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bally&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Goyard",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=goyard&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Chloe",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=chloe&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Isabel Marant",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=isabel+marant&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Max Mara",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=max+mara&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Mackage",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=mackage&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Moose Knuckles",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=moose+knuckles&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Barbour",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=barbour&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Belstaff",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=belstaff&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Mulberry",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=mulberry&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Coach Leather",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=coach+leather&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tumi",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tumi&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Rimowa",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=rimowa&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Polo Ralph Lauren",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=polo+ralph+lauren&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ralph Lauren Purple Label",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ralph+lauren+purple+label&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Vince",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=vince&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Theory",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=theory&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sandro",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sandro&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Maje",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=maje&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Reiss",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=reiss&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Allsaints",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=allsaints&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Suitsupply",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=suitsupply&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Todd Snyder",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=todd+snyder&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Brooks Brothers",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=brooks+brothers&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Hugo Boss",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=hugo+boss&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Arc'Teryx",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=arc%27teryx&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Patagonia",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=patagonia&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Lululemon",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=lululemon&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: On Running",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=on+running&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Hoka",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=hoka&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Jordan",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=jordan&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Yeezy",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=yeezy&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dunks",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dunks&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Louis Vuitton",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=louis+vuitton&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Hermes",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=hermes&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Chanel",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=chanel&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bvlgari",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bvlgari&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tiffany",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tiffany&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: David Yurman",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=david+yurman&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Van Cleef",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=van+cleef&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Net-A-Porter",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=net-a-porter&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Cettire",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=cettire&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Italist",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=italist&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: The Realreal",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=the+realreal&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Fashionphile",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=fashionphile&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Rebag",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=rebag&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Vestiaire",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=vestiaire&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Gilt",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=gilt&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Touch Of Modern",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=touch+of+modern&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: End Clothing",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=end+clothing&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Nordstrom Rack Designer",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=nordstrom+rack+designer&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Last Call Neiman",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=last+call+neiman&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bloomingdales",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bloomingdales&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Century 21",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=century+21&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ssense Sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ssense+sale&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Farfetch Sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=farfetch+sale&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Lyst",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=lyst&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Omega Seamaster",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=omega+seamaster&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Omega Speedmaster",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=omega+speedmaster&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tudor Black Bay",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tudor+black+bay&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tudor Pelagos",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tudor+pelagos&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Cartier Tank",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=cartier+tank&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Cartier Santos",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=cartier+santos&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Breitling Navitimer",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=breitling+navitimer&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tag Heuer Carrera",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tag+heuer+carrera&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Iwc",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=iwc&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Panerai",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=panerai&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Seiko",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=seiko&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Longines",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=longines&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Oris",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=oris&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Zenith",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=zenith&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Hamilton Khaki",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=hamilton+khaki&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tissot Prx",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tissot+prx&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Jomashop",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=jomashop&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ashford Watches",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ashford+watches&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Chrono24",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=chrono24&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bob'S Watches",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bob%27s+watches&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Crown And Caliber",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=crown+and+caliber&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sinn Watch",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sinn+watch&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Nomos",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=nomos&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Frederique Constant",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=frederique+constant&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bulova",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bulova&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Citizen Eco-Drive",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=citizen+eco-drive&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: G-Shock",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=g-shock&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Garmin Fenix",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=garmin+fenix&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Apple Watch Ultra",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=apple+watch+ultra&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Creed Aventus",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=creed+aventus&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Byredo",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=byredo&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Xerjoff",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=xerjoff&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Maison Francis Kurkdjian",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=maison+francis+kurkdjian&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Baccarat Rouge",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=baccarat+rouge&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Initio",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=initio&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Amouage",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=amouage&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tom Ford Oud",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tom+ford+oud&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tobacco Vanille",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tobacco+vanille&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dior Sauvage",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dior+sauvage&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bleu De Chanel",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bleu+de+chanel&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ysl Y",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ysl+y&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Versace Eros",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=versace+eros&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Acqua Di Gio",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=acqua+di+gio&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Valentino Uomo",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=valentino+uomo&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Prada Luna Rossa",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=prada+luna+rossa&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Jo Malone",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=jo+malone&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Diptyque",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=diptyque&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Fragrancenet",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=fragrancenet&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sephora Sale",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sephora+sale&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ulta Fragrance",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ulta+fragrance&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Iphone 17",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=iphone+17&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Iphone 16",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=iphone+16&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Iphone Pro",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=iphone+pro&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ipad Pro",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ipad+pro&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ipad Air",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ipad+air&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ipad Mini",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ipad+mini&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Macbook Pro",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=macbook+pro&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Macbook Air",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=macbook+air&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Mac Mini",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=mac+mini&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Imac",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=imac&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Airpods Pro",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=airpods+pro&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Airpods Max",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=airpods+max&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Airpods 4",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=airpods+4&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Apple Watch Series",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=apple+watch+series&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Airtag",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=airtag&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Galaxy S25",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=galaxy+s25&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Galaxy S26",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=galaxy+s26&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Galaxy Z Fold",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=galaxy+z+fold&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Galaxy Z Flip",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=galaxy+z+flip&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Galaxy Watch",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=galaxy+watch&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Galaxy Buds",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=galaxy+buds&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Pixel 10",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=pixel+10&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Pixel 9",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=pixel+9&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sony Wh-1000Xm",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sony+wh-1000xm&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sony A7",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sony+a7&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bose Quietcomfort",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bose+quietcomfort&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sonos",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sonos&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Bang Olufsen",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=bang+olufsen&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Beats",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=beats&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Ps5 Pro",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=ps5+pro&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Playstation 5",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=playstation+5&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Xbox Series X",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=xbox+series+x&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Nintendo Switch 2",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=nintendo+switch+2&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Steam Deck",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=steam+deck&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Meta Quest",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=meta+quest&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Lg Oled",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=lg+oled&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Lg C5",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=lg+c5&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sony Bravia",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sony+bravia&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Samsung S95",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=samsung+s95&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Samsung Frame Tv",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=samsung+frame+tv&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dyson V15",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dyson+v15&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dyson Airwrap",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dyson+airwrap&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dyson Supersonic",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dyson+supersonic&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dji Mini",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dji+mini&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Dji Osmo",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=dji+osmo&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Gopro Hero",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=gopro+hero&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Garmin Forerunner",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=garmin+forerunner&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Kindle Scribe",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=kindle+scribe&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Canon Eos",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=canon+eos&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Nikon Z",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=nikon+z&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Fujifilm X100",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=fujifilm+x100&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Leica",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=leica&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Apple Refurbished",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=apple+refurbished&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Best Buy Apple",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=best+buy+apple&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Costco Apple",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=costco+apple&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: B&H Deal",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=b%26h+deal&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Woot Apple",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=woot+apple&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Oliver Peoples",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=oliver+peoples&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Persol",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=persol&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Oakley",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=oakley&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Maui Jim",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=maui+jim&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Gucci Sunglasses",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=gucci+sunglasses&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Prada Sunglasses",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=prada+sunglasses&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Tom Ford Sunglasses",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=tom+ford+sunglasses&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Saint Laurent Sunglasses",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=saint+laurent+sunglasses&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Cartier Sunglasses",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=cartier+sunglasses&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Sunglass Hut Sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://slickdeals.net/newsearch.php?q=sunglass+hut+sale&searcharea=deals&searchin=first&rss=1",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Google: luxury sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=luxury+designer+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Saks Off 5th",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=%22Saks+Off+5th%22+sale+%22extra%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Nordstrom Rack designer",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=%22Nordstrom+Rack%22+designer+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Neiman Marcus sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=%22Neiman+Marcus%22+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: SSENSE sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=SSENSE+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Farfetch sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Farfetch+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Mr Porter sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=%22Mr+Porter%22+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Prada sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Prada+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Moncler sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Moncler+sale+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Rolex price",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Rolex+price+drop+OR+%22below+retail%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Omega deal",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Omega+watch+deal+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Jomashop deal",
+      "category": "watches",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Jomashop+deal+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: fragrance sale",
+      "category": "fragrance",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=fragrance+sale+%22%25+off%22+Creed+OR+%22Tom+Ford%22+OR+Dior+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Apple deal",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Apple+deal+%22lowest+price%22+OR+%22record+low%22+OR+%22all-time+low%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Samsung deal",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Samsung+Galaxy+deal+%22lowest+price%22+OR+%22record+low%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: OLED TV deal",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=OLED+TV+deal+%22lowest+price%22+OR+%22record+low%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: PS5 deal",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=PS5+OR+%22Nintendo+Switch+2%22+deal+%22lowest+price%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Dyson deal",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Dyson+deal+%22lowest+price%22+OR+%22record+low%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: sunglasses sale",
+      "category": "fashion",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=sunglasses+sale+%22%25+off%22+Ray-Ban+OR+Persol+OR+%22Oliver+Peoples%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Amazon luxury deal",
+      "category": "amazon",
+      "filter": "everything",
+      "url": "https://news.google.com/rss/search?q=Amazon+deal+designer+OR+luxury+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: JFK deal",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=JFK+cheap+flights+OR+%22flight+deal%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: Newark deal",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=Newark+EWR+cheap+flights+OR+%22flight+deal%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: business class deal NYC",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=%22business+class%22+deal+New+York+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "Google: airline sale",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=airline+sale+fares+New+York+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "tier": "rotate"
+    },
+    {
+      "name": "TechBargains",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://www.techbargains.com/rss.xml",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "Ben's Bargains",
+      "category": "everything",
+      "filter": "everything",
+      "url": "https://bensbargains.com/rss/",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "9to5Mac deals",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://9to5mac.com/guides/deals/feed/",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "9to5Google deals",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://9to5google.com/guides/deals/feed/",
+      "tier": "rotate",
+      "save": "all"
+    },
+    {
+      "name": "MacRumors deals",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://www.macrumors.com/macrumors.xml",
+      "tier": "rotate"
+    },
+    {
+      "name": "AppleInsider deals",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://appleinsider.com/rss/news/",
+      "tier": "rotate"
+    },
+    {
+      "name": "Fly4free USA",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.fly4free.com/flight-deals/usa/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "Secret Flying USA",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.secretflying.com/usa-deals/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "Travel Off Path",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.traveloffpath.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "The Points Guy deals",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://thepointsguy.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "One Mile at a Time",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://onemileatatime.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "View from the Wing",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://viewfromthewing.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "Monochrome Watches",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://monochrome-watches.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "Worn & Wound",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://wornandwound.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "Fratello",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://www.fratellowatches.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "Highsnobiety",
+      "category": "fashion",
+      "filter": "fashion",
+      "url": "https://www.highsnobiety.com/feed/",
+      "tier": "rotate"
+    },
+    {
+      "name": "r/Watchexchange",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://www.reddit.com/r/Watchexchange/new/.rss",
+      "tier": "rotate"
+    },
+    {
+      "name": "r/AppleWatchDeals",
+      "category": "tech",
+      "filter": "everything",
+      "url": "https://www.reddit.com/r/deals/search.rss?q=apple&restrict_sr=1&sort=new",
+      "tier": "rotate"
     }
   ],
   "home_airports": [
@@ -931,52 +2845,129 @@
     "Cartier sunglasses",
     "Garrett Leight",
     "Moscot",
-    "sunglasses"
+    "sunglasses",
+    "Kenzo",
+    "Moschino",
+    "Marni",
+    "Church's",
+    "John Lobb",
+    "Crockett",
+    "Allen Edmonds",
+    "Manolo",
+    "Aquazzura",
+    "Moose Knuckles",
+    "Barbour",
+    "Belstaff",
+    "Mulberry",
+    "Coach",
+    "Tumi",
+    "Rimowa",
+    "Polo Ralph Lauren",
+    "Ralph Lauren",
+    "Vince",
+    "Theory",
+    "Sandro",
+    "Maje",
+    "Reiss",
+    "AllSaints",
+    "Suitsupply",
+    "Todd Snyder",
+    "Brooks Brothers",
+    "Hugo Boss",
+    "Arc'teryx",
+    "Arcteryx",
+    "Patagonia",
+    "Lululemon",
+    "On Cloud",
+    "Hoka",
+    "Air Jordan",
+    "Jordan 1",
+    "Jordan 4",
+    "Yeezy",
+    "Dunk",
+    "Sinn",
+    "Nomos",
+    "Frederique Constant",
+    "Bulova",
+    "Citizen",
+    "G-Shock",
+    "Seiko",
+    "Hamilton",
+    "Tissot",
+    "Garmin Fenix",
+    "Apple Watch Ultra",
+    "Versace Eros",
+    "Acqua di Gio",
+    "Valentino Uomo",
+    "Luna Rossa",
+    "cologne",
+    "eau de parfum",
+    "eau de toilette"
   ],
   "keep_tech": true,
   "keep_flights": true,
   "tech_keep_words": [
-    "iPhone",
-    "iPad",
-    "MacBook",
-    "Mac mini",
-    "iMac",
     "AirPods",
-    "Apple Watch",
+    "AirPods 4",
+    "AirPods Max",
     "AirTag",
-    "Vision Pro",
-    "Galaxy S",
-    "Galaxy Z",
-    "Galaxy Watch",
-    "Galaxy Buds",
-    "Pixel",
-    "PS5",
-    "PlayStation 5",
-    "Xbox Series",
-    "Nintendo Switch",
-    "Switch 2",
-    "Steam Deck",
-    "OLED",
-    "QLED",
-    "Sony",
-    "Bose",
-    "Sonos",
+    "Airwrap",
+    "Apple Watch",
+    "Apple refurbished",
     "Bang & Olufsen",
     "Beats",
-    "Dyson",
-    "DJI",
-    "GoPro",
-    "Garmin",
-    "Meta Quest",
-    "Kindle Scrigner",
+    "Bose",
+    "Bravia",
     "Canon EOS",
-    "Nikon Z",
+    "DJI",
+    "Dyson",
+    "Frame TV",
     "Fujifilm",
-    "Leica",
+    "Fujifilm X100",
+    "Galaxy Buds",
+    "Galaxy S",
+    "Galaxy Tab",
+    "Galaxy Watch",
+    "Galaxy Z",
+    "Garmin",
+    "GoPro",
+    "Kindle Paperwhite",
+    "Kindle Scribe",
     "LG C",
     "LG G",
+    "LG OLED",
+    "Leica",
+    "Mac Studio",
+    "Mac mini",
+    "MacBook",
+    "Meta Quest",
+    "Nikon Z",
+    "Nintendo Switch",
+    "OLED",
+    "PS5",
+    "Pixel",
+    "Pixel 10",
+    "Pixel 9",
+    "PlayStation 5",
+    "QLED",
+    "Quest 3",
+    "ROG Ally",
+    "Samsung QN",
     "Samsung S9",
-    "Samsung QN"
+    "Sonos",
+    "Sony",
+    "Sony A7",
+    "Sony WF-1000XM",
+    "Sony WH-1000XM",
+    "Steam Deck",
+    "Studio Display",
+    "Supersonic",
+    "Switch 2",
+    "Vision Pro",
+    "Xbox Series",
+    "iMac",
+    "iPad",
+    "iPhone"
   ],
   "junk_words": [
     "movie",

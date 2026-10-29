@@ -16,6 +16,7 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from html import unescape
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -229,11 +230,30 @@ def main():
     dry = os.environ.get("DRY_RUN") == "1" or not topic
 
     alerts, found, new_ids, errors = [], [], [], []
+    # Core feeds every scan; "rotate" feeds split into 3 groups, one group per scan
+    # (so each is checked every ~15 min) to stay polite to the sites.
+    slot = int(time.time() // 300) % 3
+    todo, k = [], 0
     for feed in cfg["feeds"]:
+        if feed.get("tier") == "rotate":
+            k += 1
+            if k % 3 != slot:
+                continue
+        todo.append(feed)
+
+    def grab(feed):
         try:
-            items = parse_feed(fetch(feed["url"]))
+            return feed, parse_feed(fetch(feed["url"])), None
         except Exception as e:  # one bad feed never stops the rest
-            errors.append(f"{feed['name']}: {e}")
+            return feed, [], e
+
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        results = list(pool.map(grab, todo))
+    print(f"checked {len(todo)} of {len(cfg['feeds'])} sources this scan")
+
+    for feed, items, err in results:
+        if err is not None:
+            errors.append(f"{feed['name']}: {err}")
             continue
         for it in items:
             key = f"{feed['name']}|{it['id']}"
