@@ -3092,5 +3092,31 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-10-29T04:21:26Z"
+ },
+ {
+  "id": "608d0e1a2269bb04",
+  "title": "Apple MacBook Pro: 14.2\", M5, 32GB RAM, 1TB SSD $1999",
+  "url": "https://slickdeals.net/f/20225862-apple-macbook-pro-14-2-m5-32gb-ram-1tb-ssd-1999?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: B&H Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-10-29T04:26:29Z"
+ },
+ {
+  "id": "34190e7b23ec92d1",
+  "title": "Roku’s impressive 65″ OLED Pro Series TV spotted at its lowest price ever on Amazon - PC Guide",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXd5b2tPd1ZhLVl4NkY4b3g4TzRQUS1vM0o4dVd1c1hWVERHZGJTUXA1NEZLaWd6MzdQOWNDSTZIY2I0ZWR2M3dHTktBZ3NOaFZjanJXQzVwa2pjbGkxeGQ2VW54RFRxZmVjdmlaR294dHQ0Tlk5bGU1Z0RwY0xpYjI2bW5lQUViRko3YldwMHRNQy1WQUg3dlUzbHhrS2FDekt2UnpnWktRZmlOMnhDdjBn?oc=5",
+  "why": "Oled — lowest price ever",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-29T04:26:29Z"
  }
 ]
