@@ -186,6 +186,18 @@ def first_price(title):
     return float(m.group(1).replace(",", "")) if m else None
 
 
+def allowed(text, feed, cfg):
+    if has_any(text, cfg.get("junk_words", [])):
+        return False
+    if has_any(text, cfg["luxury_words"]):
+        return True
+    if cfg.get("keep_tech") and has_any(text, cfg.get("tech_keep_words", [])):
+        return True
+    if cfg.get("keep_flights") and feed["category"] == "flights":
+        return True
+    return False
+
+
 def notify(topic, server, title, body, link, urgent, tags):
     data = body.encode("utf-8")
     headers = {
@@ -230,8 +242,8 @@ def main():
             new_ids.append(key)
             if first_run or feed["name"] not in known_feeds:
                 continue  # first run only records what's already out there
-            if cfg.get("luxury_only") and not has_any(f"{it['title']} {it['text']}", cfg["luxury_words"]):
-                continue  # luxury only for now
+            if cfg.get("luxury_only") and not allowed(f"{it['title']} {it['text']}", feed, cfg):
+                continue  # luxury, premium tech, sunglasses and flights only; no junk
             ok, why, urgent = evaluate(it, feed, cfg)
             if ok:
                 alerts.append((urgent, feed, it, why))

@@ -440,6 +440,141 @@
       "filter": "everything",
       "save": "all",
       "url": "https://slickdeals.net/newsearch.php?q=amazon+cologne&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "9to5Toys",
+      "category": "tech",
+      "filter": "tech",
+      "url": "https://9to5toys.com/feed/"
+    },
+    {
+      "name": "Secret Flying",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.secretflying.com/feed/"
+    },
+    {
+      "name": "The Flight Deal",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.theflightdeal.com/feed/"
+    },
+    {
+      "name": "Thrifty Traveler",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://thriftytraveler.com/feed/"
+    },
+    {
+      "name": "Google: error fare NYC",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=%22error+fare%22+OR+%22mistake+fare%22+New+York+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Slickdeals: Iphone",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=iphone&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Macbook",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=macbook&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Ipad",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=ipad&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Airpods",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=airpods&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Apple Watch",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=apple+watch&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Ps5",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=ps5&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Nintendo Switch",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=nintendo+switch&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Oled Tv",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=oled+tv&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Samsung Galaxy",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=samsung+galaxy&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Sony Headphones",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=sony+headphones&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Bose",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=bose&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Dyson",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=dyson&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Garmin",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=garmin&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Sunglasses",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=sunglasses&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Ray-Ban",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=ray-ban&searcharea=deals&searchin=first&rss=1"
     }
   ],
   "home_airports": [
@@ -787,6 +922,104 @@
     "Xerjoff",
     "YSL",
     "Zegna",
-    "Zenith"
+    "Zenith",
+    "Ray-Ban",
+    "Oliver Peoples",
+    "Persol",
+    "Oakley",
+    "Maui Jim",
+    "Cartier sunglasses",
+    "Garrett Leight",
+    "Moscot",
+    "sunglasses"
+  ],
+  "keep_tech": true,
+  "keep_flights": true,
+  "tech_keep_words": [
+    "iPhone",
+    "iPad",
+    "MacBook",
+    "Mac mini",
+    "iMac",
+    "AirPods",
+    "Apple Watch",
+    "AirTag",
+    "Vision Pro",
+    "Galaxy S",
+    "Galaxy Z",
+    "Galaxy Watch",
+    "Galaxy Buds",
+    "Pixel",
+    "PS5",
+    "PlayStation 5",
+    "Xbox Series",
+    "Nintendo Switch",
+    "Switch 2",
+    "Steam Deck",
+    "OLED",
+    "QLED",
+    "Sony",
+    "Bose",
+    "Sonos",
+    "Bang & Olufsen",
+    "Beats",
+    "Dyson",
+    "DJI",
+    "GoPro",
+    "Garmin",
+    "Meta Quest",
+    "Kindle Scrigner",
+    "Canon EOS",
+    "Nikon Z",
+    "Fujifilm",
+    "Leica",
+    "LG C",
+    "LG G",
+    "Samsung S9",
+    "Samsung QN"
+  ],
+  "junk_words": [
+    "movie",
+    "blu-ray",
+    "bluray",
+    "dvd",
+    "4k uhd blu",
+    "digital code",
+    "paperback",
+    "hardcover",
+    "kindle edition",
+    "audiobook",
+    "ebook",
+    "soap",
+    "shampoo",
+    "conditioner",
+    "body wash",
+    "detergent",
+    "toothpaste",
+    "paper towel",
+    "toilet paper",
+    "trash bag",
+    "diapers",
+    "wipes",
+    "vitamin",
+    "supplement",
+    "protein powder",
+    "snack",
+    "coffee pods",
+    "k-cup",
+    "cereal",
+    "grocery",
+    "pet food",
+    "cat litter",
+    "dog food",
+    "lightbulb",
+    "light bulb",
+    "batteries",
+    "phone case",
+    "screen protector",
+    "usb-c cable",
+    "charging cable",
+    "t-shirt 3-pack",
+    "socks"
   ]
 }
