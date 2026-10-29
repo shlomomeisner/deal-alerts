@@ -154,6 +154,25 @@ def evaluate(item, rule, cfg):
     return False, "", False
 
 
+def guess_category(text, feed, cfg):
+    if feed["category"] == "flights" or has_any(text, ["flight", "airfare", "round-trip", "roundtrip", "nonstop"]):
+        return "flights"
+    if has_any(text, cfg["fragrance_words"]):
+        return "fragrance"
+    if has_any(text, cfg["luxury_brands"]) or has_any(text, cfg["fashion_brands"]) or has_any(text, ["shoes", "sneakers", "jacket", "coat", "jeans", "shirt", "dress", "boots", "loafers", "hoodie", "handbag", "wallet", "belt", "sunglasses", "watch"]):
+        return "fashion"
+    if has_any(text, cfg["tech_words"]):
+        return "tech"
+    if has_any(text, ["amazon"]) or feed["category"] == "amazon":
+        return "amazon"
+    return feed["category"] if feed["category"] in ("fashion", "fragrance", "tech", "flights") else "everything"
+
+
+def first_price(title):
+    m = re.search(r"\$\s?(\d{1,3}(?:,\d{3})*(?:\.\d{2})?)", title)
+    return float(m.group(1).replace(",", "")) if m else None
+
+
 def notify(topic, server, title, body, link, urgent, tags):
     data = body.encode("utf-8")
     headers = {
@@ -184,7 +203,7 @@ def main():
     server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").strip() or "https://ntfy.sh"
     dry = os.environ.get("DRY_RUN") == "1" or not topic
 
-    alerts, new_ids, errors = [], [], []
+    alerts, found, new_ids, errors = [], [], [], []
     for feed in cfg["feeds"]:
         try:
             items = parse_feed(fetch(feed["url"]))
@@ -201,6 +220,8 @@ def main():
             ok, why, urgent = evaluate(it, feed, cfg)
             if ok:
                 alerts.append((urgent, feed, it, why))
+            if ok or feed.get("save") == "all":
+                found.append((urgent, feed, it, why))
 
     alerts.sort(key=lambda a: not a[0])  # urgent first
     sent = 0
@@ -218,19 +239,25 @@ def main():
             except Exception as e:
                 errors.append(f"notify: {e}")
 
-    # Keep a rolling list of matched deals for the Deal Monitor app.
-    if alerts:
+    # Every deal from curated deal sites (plus every alert) goes to the Steal Watch app.
+    if found:
         deals = load(DEALS, [])
+        have = {d["id"] for d in deals}
         now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-        for urgent, feed, it, why in alerts:
+        for urgent, feed, it, why in found:
+            did = hashlib.sha1(f"{feed['name']}|{it['id']}".encode()).hexdigest()[:16]
+            if did in have:
+                continue
+            full = f"{it['title']} {it['text']}"
             deals.append({
-                "id": hashlib.sha1(f"{feed['name']}|{it['id']}".encode()).hexdigest()[:16],
-                "title": it["title"], "url": it["link"], "why": why,
-                "category": feed["category"], "source": feed["name"],
-                "urgent": urgent, "found_at": now,
+                "id": did, "title": it["title"], "url": it["link"],
+                "why": why or "", "category": guess_category(full, feed, cfg),
+                "source": feed["name"], "urgent": urgent, "hot": bool(why) or urgent,
+                "pct": max_percent_off(full) or None, "price": first_price(it["title"]),
+                "found_at": now,
             })
         with open(DEALS, "w", encoding="utf-8") as f:
-            json.dump(deals[-300:], f, indent=1, ensure_ascii=False)
+            json.dump(deals[-600:], f, indent=1, ensure_ascii=False)
 
     seen_list.extend(new_ids)
     with open(SEEN, "w", encoding="utf-8") as f:
