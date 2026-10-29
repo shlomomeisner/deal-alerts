@@ -1,57 +1,5 @@
 [
  {
-  "id": "f537925b6317230f",
-  "title": "13.6\" Apple MacBook Air Laptop (2026): M5 10-Core Chip, 24GB RAM, 512GB SSD - $1349 + Free S/H @ B&H Photo",
-  "url": "https://slickdeals.net/f/20211795-13-6-apple-macbook-air-laptop-2026-m5-10-core-chip-24gb-ram-512gb-ssd-1349-free-s-h-b-h-photo?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 134.0,
-  "found_at": "2026-10-29T16:42:32Z"
- },
- {
-  "id": "6be4492617907027",
-  "title": "Apple MacBook Air (Early 2026): 13.6\", M5, 24GB RAM, 1TB SSD $1529.99",
-  "url": "https://slickdeals.net/f/20211696-apple-macbook-air-early-2026-13-6-m5-24gb-ram-1tb-ssd-1529-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 152.0,
-  "found_at": "2026-10-29T16:42:32Z"
- },
- {
-  "id": "e5ee862cdc8f7bfb",
-  "title": "13.6″ Apple MacBook Air Laptop: M5 Chip, 16GB RAM, 512GB SSD $1099 + FS & More @ B&H Photo",
-  "url": "https://slickdeals.net/f/20211663-13-6-apple-macbook-air-laptop-m5-chip-16gb-ram-512gb-ssd-1099-fs-more-b-h-photo?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 109.0,
-  "found_at": "2026-10-29T16:42:32Z"
- },
- {
-  "id": "7dde331b5e697aa6",
-  "title": "Apple MacBook Air (Early 2026): 15.3\", M5, 24GB RAM, 1TB SSD, & More $1699.99",
-  "url": "https://slickdeals.net/f/20211648-apple-macbook-air-early-2026-15-3-m5-24gb-ram-1tb-ssd-more-1699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 169.0,
-  "found_at": "2026-10-29T16:42:32Z"
- },
- {
   "id": "231396b4fed83f51",
   "title": "$1349.00 | 15″ Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Midnight) at Amazon",
   "url": "https://slickdeals.net/f/20208687-1349-00-15-apple-macbook-air-laptop-with-m5-chip-16gb-ram-512gb-ssd-midnight-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 96.0,
   "found_at": "2026-10-29T17:46:51Z"
+ },
+ {
+  "id": "011dd31d72c6e955",
+  "title": "Acer A740 4K Webcam for $50 + free shipping",
+  "url": "https://www.dealnews.com/Acer-A740-4-K-Webcam-for-50-free-shipping/22324981.html?iref=rss",
+  "why": "",
+  "category": "amazon",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-10-29T18:03:14Z"
+ },
+ {
+  "id": "58465336f6dedca3",
+  "title": "$47.99* | Star Wars Zero Company (PS5 / Xbox Series X) at Amazon",
+  "url": "https://slickdeals.net/f/20228556-47-99-star-wars-zero-company-ps5-xbox-series-x-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 47.99,
+  "found_at": "2026-10-29T18:03:14Z"
+ },
+ {
+  "id": "d3d5bdb487170959",
+  "title": "jetBlue: New York – Punta Cana, Dominican Republic. $324 (Basic Economy) / $394 (Regular Economy). Roundtrip, including all Taxes",
+  "url": "https://www.theflightdeal.com/2026/10/29/jetblue-new-york-punta-cana-dominican-republic-327-basic-economy-397-regular-economy-roundtrip-including-all-taxes-2/",
+  "why": "$324 from NEW YORK",
+  "category": "flights",
+  "source": "The Flight Deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 324.0,
+  "found_at": "2026-10-29T18:03:14Z"
+ },
+ {
+  "id": "5b8c67e799b322b7",
+  "title": "$47.99* | Star Wars Zero Company (PS5 / Xbox Series X) at Amazon",
+  "url": "https://slickdeals.net/f/20228556-47-99-star-wars-zero-company-ps5-xbox-series-x-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ps5",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 47.99,
+  "found_at": "2026-10-29T18:03:14Z"
  }
 ]
