@@ -224,6 +224,181 @@
       "category": "watches",
       "filter": "all",
       "url": "https://news.google.com/rss/search?q=watch+%22price+error%22+OR+%22pricing+error%22+OR+%22price+mistake%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Slickdeals: Prada",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=prada&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Saint Laurent",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=saint+laurent&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Burberry",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=burberry&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Moncler",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=moncler&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Canada Goose",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=canada+goose&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Ralph Lauren",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=ralph+lauren&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Hugo Boss",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=hugo+boss&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Nike",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=nike&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Adidas",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=adidas&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: New Balance",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=new+balance&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: North Face",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=north+face&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Coach",
+      "category": "fashion",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=coach&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Tom Ford",
+      "category": "fragrance",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=tom+ford&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Creed",
+      "category": "fragrance",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=creed&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Dior",
+      "category": "fragrance",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=dior&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Macbook",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=macbook&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Ipad",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=ipad&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Airpods",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=airpods&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Apple Watch",
+      "category": "watches",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=apple+watch&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Rolex",
+      "category": "watches",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=rolex&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Garmin",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=garmin&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Dyson",
+      "category": "everything",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=dyson&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Nintendo Switch",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=nintendo+switch&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Ps5",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=ps5&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: Oled Tv",
+      "category": "tech",
+      "filter": "everything",
+      "save": "all",
+      "url": "https://slickdeals.net/newsearch.php?q=oled+tv&searcharea=deals&searchin=first&rss=1"
     }
   ],
   "home_airports": [

@@ -1,8 +1,11 @@
 name: Deal watcher
 
+# GitHub runs scheduled jobs late and rarely on small repos, so each run stays
+# alive for ~55 minutes and scans every 5 minutes itself. The schedule below
+# just makes sure a new run starts as soon as the last one ends.
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes (GitHub's fastest schedule)
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -15,23 +18,27 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 62
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Check feeds and send alerts
+      - name: Scan every 5 minutes for ~55 minutes
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || 'shlomo-deals-5b8e55ffde' }}
-        run: python watcher.py
-      - name: Save what was already seen
         run: |
-          if [ -n "$(git status --porcelain seen.json deals.json)" ]; then
-            git config user.name "deal-watcher"
-            git config user.email "deal-watcher@users.noreply.github.com"
-            git add seen.json deals.json 2>/dev/null; git add seen.json
-            git commit -m "update seen deals" -q
-            git pull --rebase -q || true
-            git push -q || true
-          fi
+          git config user.name "deal-watcher"
+          git config user.email "deal-watcher@users.noreply.github.com"
+          for i in $(seq 1 11); do
+            echo "::group::Scan $i at $(date -u +%H:%M)"
+            python watcher.py || echo "scan failed, trying again next round"
+            if [ -n "$(git status --porcelain seen.json deals.json)" ]; then
+              git add seen.json deals.json 2>/dev/null || git add seen.json
+              git commit -q -m "update seen deals"
+              git pull --rebase -q || { git rebase --abort; git pull --no-rebase -q -X ours; }
+              git push -q || echo "push failed, will retry next round"
+            fi
+            echo "::endgroup::"
+            if [ "$i" -lt 11 ]; then sleep 290; fi
+          done
