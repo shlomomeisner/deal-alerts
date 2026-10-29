@@ -1,57 +1,5 @@
 [
  {
-  "id": "bca34760f3c86886",
-  "title": "$13.49 | Hi-Fi RUSH (PS5 Digital Download) at Playstation Store",
-  "url": "https://slickdeals.net/f/20186571-13-49-hi-fi-rush-ps5-digital-download-at-playstation-store?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Ps5 — 55% off",
-  "category": "tech",
-  "source": "Slickdeals: Ps5 Pro",
-  "urgent": false,
-  "hot": true,
-  "pct": 55,
-  "price": 13.49,
-  "found_at": "2026-10-29T08:00:47Z"
- },
- {
-  "id": "ca63768567a44304",
-  "title": "$1.99 | Tomb Raider: Anniversary PS4 & PS5 (PS4/PS5 Digital Download) at Playstation Store",
-  "url": "https://slickdeals.net/f/20186568-1-99-tomb-raider-anniversary-ps4-ps5-ps4-ps5-digital-download-at-playstation-store?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "90% off",
-  "category": "tech",
-  "source": "Slickdeals: Ps5 Pro",
-  "urgent": false,
-  "hot": true,
-  "pct": 90,
-  "price": 1.99,
-  "found_at": "2026-10-29T08:00:47Z"
- },
- {
-  "id": "9a426dd8e18c878c",
-  "title": "It Takes Two PS4 / PS5 (Digital) $11.99",
-  "url": "https://slickdeals.net/f/20180802-it-takes-two-ps4-ps5-digital-11-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Ps5 Pro",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 11.99,
-  "found_at": "2026-10-29T08:00:47Z"
- },
- {
-  "id": "73097abefc1108c4",
-  "title": "007 First Light PS5 (Digital) - $48.99",
-  "url": "https://slickdeals.net/f/20180754-007-first-light-ps5-digital-48-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Ps5 Pro",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 48.99,
-  "found_at": "2026-10-29T08:00:47Z"
- },
- {
   "id": "1e04312717c169b1",
   "title": "$19.99 | Darksiders Warmastered (PlayStation 5) at Amazon",
   "url": "https://slickdeals.net/f/20180208-19-99-darksiders-warmastered-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 34.99,
   "found_at": "2026-10-29T14:19:20Z"
+ },
+ {
+  "id": "3e8344d72f782f88",
+  "title": "Anker Nano Charger Neo 65W USB-C Charger for $20 + free shipping w/ Prime",
+  "url": "https://www.dealnews.com/Anker-Nano-Charger-Neo-65-W-USB-C-Charger-for-20-free-shipping-w-Prime/22324756.html?iref=rss",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.0,
+  "found_at": "2026-10-29T14:24:28Z"
+ },
+ {
+  "id": "0c6892f7a2de8d0a",
+  "title": "$39.99* | DRAGON QUEST VII Reimagined (Switch / Switch 2, Xbox Series X) at Amazon",
+  "url": "https://slickdeals.net/f/20209848-39-99-dragon-quest-vii-reimagined-switch-switch-2-xbox-series-x-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Stone Island",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-10-29T14:24:28Z"
+ },
+ {
+  "id": "4c816c78803af428",
+  "title": "[Prime]$28.69: DRAGON QUEST VII Reimagined - PlayStation 5 at Amazon",
+  "url": "https://slickdeals.net/f/20110830-prime-28-69-dragon-quest-vii-reimagined-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Stone Island",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 28.69,
+  "found_at": "2026-10-29T14:24:28Z"
+ },
+ {
+  "id": "3abb4a5c3a1b3d0b",
+  "title": "NHL Vancouver Canucks Wrap Sunglasses, Navy Blue, Adult - down 10.06% ($0.65) to $5.81 from $6.46",
+  "url": "https://camelcamelcamel.com/product/B0116NYEUG",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 0.65,
+  "found_at": "2026-10-29T14:24:28Z"
  }
 ]
