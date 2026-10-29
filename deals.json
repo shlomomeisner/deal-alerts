@@ -1,44 +1,5 @@
 [
  {
-  "id": "33f7800df1e7d3ad",
-  "title": "INIU VR Link Cable with 16' Charging for Meta Quest $10.09",
-  "url": "https://www.amazon.com/gp/product/B0FZRYX5YD/ref=ox_sc_act_title_1?smid=A3AW474BVTVVB0&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 10.09,
-  "found_at": "2026-10-29T03:14:21Z"
- },
- {
-  "id": "7ada39155ff2d826",
-  "title": "LG Evo AI W6 77\" 4K 120Hz OLED Smart TV $3699.99",
-  "url": "https://www.amazon.com/gp/product/B0GRJV2MS7/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 369.0,
-  "found_at": "2026-10-29T03:14:21Z"
- },
- {
-  "id": "b1bf61b741791eb3",
-  "title": "Philips 50\" Class QLED 4K Google Smart TV (50PQL7456/F7) $228.00",
-  "url": "https://www.walmart.com/ip/seort/18104524997",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 228.0,
-  "found_at": "2026-10-29T03:14:21Z"
- },
- {
   "id": "1ddfe3b41a22446a",
   "title": "Hamilton Beach 6qt Stoneware Crock with Removable Pot $29.95",
   "url": "https://www.walmart.com/ip/seort/305203053",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 300.0,
   "found_at": "2026-10-29T09:45:21Z"
+ },
+ {
+  "id": "def8456bc64a969a",
+  "title": "Common Projects - Black Original Achilles Low Sneakers",
+  "url": "https://slickdeals.net/e/14670281-common-projects-black-original-achilles-low-sneakers?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ssense",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-29T09:50:27Z"
+ },
+ {
+  "id": "40c0fec337ee6b83",
+  "title": "Chloé Pink Faye Wallet Bag $525 + Free Shipping & Free Return",
+  "url": "https://slickdeals.net/e/14210015-chlo-pink-faye-wallet-bag-525-free-shipping-free-return?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ssense",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 525.0,
+  "found_at": "2026-10-29T09:50:27Z"
+ },
+ {
+  "id": "d1da83649696fd2b",
+  "title": "Beats 360 Get First Price Drop Alongside Return of Record Low for AirPods 4 - MacRumors",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83bWlkQmNNUk5LYlVGbENnX2FqcUpOSVFHa0NGX2ZTWHBIcmRZMk12NnpXdUxqeDhLUkwyUi1YcHZfOHpZZkRYV2oyTzIza1F5bVZKRC1IVmRSTEZ0T2FvSDNUTTA3eWt1U2dYS0Y0Tnhhdw?oc=5",
+  "why": "Airpods — record low",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-29T09:50:27Z"
  }
 ]
