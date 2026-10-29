@@ -1,57 +1,5 @@
 [
  {
-  "id": "ed6e0a2920ef50f3",
-  "title": "Ralph Lauren 2-Piece World of Polo Eau de Toilette Gift Set $21.00",
-  "url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: Polo Ralph Lauren",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 21.0,
-  "found_at": "2026-10-29T06:05:14Z"
- },
- {
-  "id": "eaf366d6a1da19c7",
-  "title": "$35.75: 3-Pack Polo Ralph Lauren Men's Classic Fit Cotton Crew Tee (Various Colors/Sizes)",
-  "url": "https://slickdeals.net/f/20126877-35-75-3-pack-polo-ralph-lauren-men-s-classic-fit-cotton-crew-tee-various-colors-sizes?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Polo Ralph Lauren",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 35.75,
-  "found_at": "2026-10-29T06:05:14Z"
- },
- {
-  "id": "a68862346b6bc06c",
-  "title": "Roku’s impressive 65″ OLED Pro Series TV spotted at its lowest price ever on Amazon - PC Guide",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXd5b2tPd1ZhLVl4NkY4b3g4TzRQUS1vM0o4dVd1c1hWVERHZGJTUXA1NEZLaWd6MzdQOWNDSTZIY2I0ZWR2M3dHTktBZ3NOaFZjanJXQzVwa2pjbGkxeGQ2VW54RFRxZmVjdmlaR294dHQ0Tlk5bGU1Z0RwY0xpYjI2bW5lQUViRko3YldwMHRNQy1WQUg3dlUzbHhrS2FDekt2UnpnWktRZmlOMnhDdjBn?oc=5",
-  "why": "Oled — lowest price ever",
-  "category": "tech",
-  "source": "Google: PS5 deal",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-29T06:05:14Z"
- },
- {
-  "id": "27080b5bbc7ae656",
-  "title": "Yu-Gi-Oh! EARLY DAYS COLLECTION (Nintendo Switch) - $20 @ Best Buy",
-  "url": "https://slickdeals.net/f/20219541-yu-gi-oh-early-days-collection-nintendo-switch-20-best-buy?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals Popular",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 20.0,
-  "found_at": "2026-10-29T06:10:28Z"
- },
- {
   "id": "b5b08b188f500d1c",
   "title": "Moose Knuckles Mens Dugald Quilted Down Puffer Vest $271.97 with free shipping $271.95",
   "url": "https://slickdeals.net/f/17359515-moose-knuckles-mens-dugald-quilted-down-puffer-vest-271-97-with-free-shipping-271-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 802.0,
   "found_at": "2026-10-29T12:22:04Z"
+ },
+ {
+  "id": "44eb1e0a7ef164a9",
+  "title": "(NEW) Apple Watch Ultra 2 Smartwatch [GPS + Cellular] $569.99",
+  "url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 569.99,
+  "found_at": "2026-10-29T12:27:09Z"
+ },
+ {
+  "id": "f93619537279d68c",
+  "title": "(NEW) Apple Watch Ultra 3 Smartwatch (GPS + Cellular) $649.99",
+  "url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 649.99,
+  "found_at": "2026-10-29T12:27:09Z"
+ },
+ {
+  "id": "8438c1019c277e59",
+  "title": "(NEW) Apple Watch Ultra 2 Smartwatch [GPS + Cellular] $569.99",
+  "url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 569.99,
+  "found_at": "2026-10-29T12:27:09Z"
+ },
+ {
+  "id": "3014f379c29ab913",
+  "title": "(NEW) Apple Watch Ultra 3 Smartwatch (GPS + Cellular) $649.99",
+  "url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 649.99,
+  "found_at": "2026-10-29T12:27:09Z"
  }
 ]
