@@ -1,18 +1,5 @@
 [
  {
-  "id": "ff1b4efb10211663",
-  "title": "UGREEN 240W USB C Cable with Digital Display, PD 100W Fast Charging, 3.3ft $14.99",
-  "url": "https://slickdeals.net/f/20223834-ugreen-240w-usb-c-cable-with-digital-display-pd-100w-fast-charging-3-3ft-14-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone 17",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 14.99,
-  "found_at": "2026-10-29T12:06:31Z"
- },
- {
   "id": "52a4055d37fad914",
   "title": "UGREEN 100W USB C to USB C Cable, Fast Charging, 2-Pack, 3.3ft, Black $8.99",
   "url": "https://slickdeals.net/f/20223786-ugreen-100w-usb-c-to-usb-c-cable-fast-charging-2-pack-3-3ft-black-8-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 248.0,
   "found_at": "2026-10-29T15:43:50Z"
+ },
+ {
+  "id": "402f64aa04d860da",
+  "title": "Grandia HD Collection - Nintendo Switch (Digital) - $19.99",
+  "url": "https://slickdeals.net/f/20218494-grandia-hd-collection-nintendo-switch-digital-19-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-10-29T15:48:59Z"
  }
 ]
