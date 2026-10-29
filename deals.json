@@ -1,18 +1,5 @@
 [
  {
-  "id": "5b701b94a6422bba",
-  "title": "UGREEN 100W USB C to USB C Cable, Fast Charging, 2-Pack, 3.3ft, Black $8.99",
-  "url": "https://slickdeals.net/f/20223786-ugreen-100w-usb-c-to-usb-c-cable-fast-charging-2-pack-3-3ft-black-8-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 8.99,
-  "found_at": "2026-10-29T20:44:03Z"
- },
- {
   "id": "bf8e492f284bf074",
   "title": "Targus - HyperShield Case for MacBook Neo - Clear $19.99 Bestbuy.com",
   "url": "https://slickdeals.net/f/20214477-targus-hypershield-case-for-macbook-neo-clear-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 420.0,
   "found_at": "2026-10-29T22:14:54Z"
+ },
+ {
+  "id": "7dae12b8cd75df49",
+  "title": "Lenovo's OLED touchscreen Yoga Slim 7x with Snapdragon X2 Elite chip hits new all-time low at $700 off - 9to5Toys",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3ZUVDJaVnJHTnc1aE1maWktcUhJblNkTDdOSlhZbGdiOXNXbGJaUG80MDV0WmctLVhTd2tmNFNsbVNkY2Q5U2twVXVmSFBvVkNLZjdsYkhIczNzUU5WTGppRG1RWDU1emVQZ1ZTNkdhQnIza0pPc1Q1d0dfbWRqcGlLRzN2ZzVPaGtGOE80aVcxOWhxZ2JoSUZCT2ZMNmUzYWptOG5oQTdxSXNCZUpEcnk1NUNta2VnMnd3MVlfc2kxNjFnM0xBXzRmMA?oc=5",
+  "why": "Oled — all-time low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 700.0,
+  "found_at": "2026-10-29T22:20:02Z"
  }
 ]
