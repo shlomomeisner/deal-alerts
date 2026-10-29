@@ -1,44 +1,5 @@
 [
  {
-  "id": "e6d5ee784f212edb",
-  "title": "YMMV Google Pixel 11 Pro XL $700 discount for existing Google Fi Customers Only $599",
-  "url": "https://slickdeals.net/f/20171370-ymmv-google-pixel-11-pro-xl-700-discount-for-existing-google-fi-customers-only-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Pixel 10",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 700.0,
-  "found_at": "2026-10-29T20:38:06Z"
- },
- {
-  "id": "874844f89263f5e1",
-  "title": "Amazon – Pixel Panda 3M Thinsulate Winter Gloves - $7.79–$8.39 w/ Code",
-  "url": "https://slickdeals.net/f/20163687-amazon-pixel-panda-3m-thinsulate-winter-gloves-7-79-8-39-w-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Pixel 10",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 7.79,
-  "found_at": "2026-10-29T20:38:06Z"
- },
- {
-  "id": "8f705ccf99f6b8d8",
-  "title": "56800mAh, 22.5W Fast Charging Power Bank with LED Display $28.98",
-  "url": "https://slickdeals.net/f/20155419-56800mah-22-5w-fast-charging-power-bank-with-led-display-28-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Pixel 10",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 28.98,
-  "found_at": "2026-10-29T20:38:06Z"
- },
- {
   "id": "8714947d8f05142d",
   "title": "$47.99* | Star Wars Zero Company (PS5 / Xbox Series X) at Amazon",
   "url": "https://slickdeals.net/f/20228556-47-99-star-wars-zero-company-ps5-xbox-series-x-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 473.0,
   "found_at": "2026-10-29T21:59:04Z"
+ },
+ {
+  "id": "093b0a4c24d2fa2d",
+  "title": "Allen Edmonds Final Sale: Up to 60% off + free shipping",
+  "url": "https://www.dealnews.com/Allen-Edmonds-Final-Sale-Up-to-60-off-free-shipping/22325139.html?iref=rss",
+  "why": "Allen Edmonds 60% off",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 60,
+  "price": null,
+  "found_at": "2026-10-29T22:04:22Z"
+ },
+ {
+  "id": "1b59cc0fe8dcd678",
+  "title": "$34.99* | Mouse: P.I. For Hire (Switch 2) at Amazon",
+  "url": "https://slickdeals.net/f/20229459-34-99-mouse-p-i-for-hire-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.99,
+  "found_at": "2026-10-29T22:04:22Z"
+ },
+ {
+  "id": "93c16bc18edd28c2",
+  "title": "Dyson PencilWash™ Cordless Wet Cleaner | Bright Copper $199.99",
+  "url": "https://slickdeals.net/f/20223270-dyson-pencilwash-cordless-wet-cleaner-bright-copper-199-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-10-29T22:04:22Z"
  }
 ]
