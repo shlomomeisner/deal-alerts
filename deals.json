@@ -1,31 +1,5 @@
 [
  {
-  "id": "82d044252683d10b",
-  "title": "Vampyr (DRM-Free PC Download) $3.99",
-  "url": "https://slickdeals.net/f/20211339-vampyr-drm-free-pc-download-3-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "why": "",
-  "category": "everything",
-  "source": "Slickdeals Popular",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 3.99,
-  "found_at": "2026-10-29T02:11:08Z"
- },
- {
-  "id": "e77c8a2f7900514d",
-  "title": "10'6\" FunWater Inflatable Stand Up Paddle Board w/ Paddle, Pump, Backpack & Accessories (Light Blue Tiki) $75.99 w/ S&S + Free Shipping",
-  "url": "https://slickdeals.net/f/20224044-10-6-funwater-inflatable-stand-up-paddle-board-w-paddle-pump-backpack-accessories-light-blue-tiki-75-99-w-s-s-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Slickdeals Popular",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 75.99,
-  "found_at": "2026-10-29T02:11:08Z"
- },
- {
   "id": "6d4d98e711287ca8",
   "title": "Shokz OpenFit Air True Wireless Open-Ear Earbuds: New $54; Open-Box Excellent $26",
   "url": "https://slickdeals.net/f/20223612-shokz-openfit-air-true-wireless-open-ear-earbuds-new-54-open-box-excellent-26?utm_source=rss&utm_content=ht&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 10.0,
   "found_at": "2026-10-29T08:10:59Z"
+ },
+ {
+  "id": "0cbb64bfb1de4d68",
+  "title": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹ - Nouvelle Silver $399.99 Bestbuy.com",
+  "url": "https://slickdeals.net/f/20225988-hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life-nouvelle-silver-399-99-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.99,
+  "found_at": "2026-10-29T08:16:17Z"
+ },
+ {
+  "id": "ea5c6ea7638d8448",
+  "title": "Jomashop Pre-Holiday Sale: Up to 75% off + free shipping w/ $100",
+  "url": "https://www.dealnews.com/Jomashop-Pre-Holiday-Sale-Up-to-75-off-free-shipping-w-100/22322565.html?iref=rss",
+  "why": "Cartier 75% off",
+  "category": "fragrance",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 75,
+  "price": 100.0,
+  "found_at": "2026-10-29T08:16:17Z"
  }
 ]
