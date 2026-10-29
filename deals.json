@@ -1,31 +1,5 @@
 [
  {
-  "id": "e5ee862cdc8f7bfb",
-  "title": "13.6″ Apple MacBook Air Laptop: M5 Chip, 16GB RAM, 512GB SSD $1099 + FS & More @ B&H Photo",
-  "url": "https://slickdeals.net/f/20211663-13-6-apple-macbook-air-laptop-m5-chip-16gb-ram-512gb-ssd-1099-fs-more-b-h-photo?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 109.0,
-  "found_at": "2026-10-29T18:56:46Z"
- },
- {
-  "id": "7dde331b5e697aa6",
-  "title": "Apple MacBook Air (Early 2026): 15.3\", M5, 24GB RAM, 1TB SSD, & More $1699.99",
-  "url": "https://slickdeals.net/f/20211648-apple-macbook-air-early-2026-15-3-m5-24gb-ram-1tb-ssd-more-1699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 169.0,
-  "found_at": "2026-10-29T18:56:46Z"
- },
- {
   "id": "231396b4fed83f51",
   "title": "$1339.00 | 15″ Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Midnight) at Amazon",
   "url": "https://slickdeals.net/f/20208687-1339-00-15-apple-macbook-air-laptop-with-m5-chip-16gb-ram-512gb-ssd-midnight-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 420.0,
   "found_at": "2026-10-29T20:27:38Z"
+ },
+ {
+  "id": "ade36a78ba67b3b2",
+  "title": "Resident Evil 7 (PS4/PS5 Digital Download) - $7.99",
+  "url": "https://slickdeals.net/f/20226786-resident-evil-7-ps4-ps5-digital-download-7-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "Ps5 — 60% off",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": true,
+  "pct": 60,
+  "price": 7.99,
+  "found_at": "2026-10-29T20:32:46Z"
+ },
+ {
+  "id": "dbe2e64929d7dca0",
+  "title": "Citizen Men's Classic Corso Eco-Drive Watch, Chronograph, 12/24 Hour Time, Date, Sapphire Crystal, Stainless/ Blue Dial $318.75",
+  "url": "https://slickdeals.net/f/20229123-citizen-men-s-classic-corso-eco-drive-watch-chronograph-12-24-hour-time-date-sapphire-crystal-stainless-blue-dial-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 318.75,
+  "found_at": "2026-10-29T20:32:46Z"
  }
 ]
