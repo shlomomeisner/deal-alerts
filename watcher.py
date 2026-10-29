@@ -133,6 +133,12 @@ def evaluate(item, rule, cfg):
             return True, f"{thing.title()} — {why}", urgent
         return False, "", False
 
+    if kind == "watches":
+        w = has_any(full, cfg.get("watch_words", []))
+        if w and (pct >= cfg.get("watch_min_pct", 35) or urgent or has_any(full, cfg["record_low_words"])):
+            return True, f"{w.title()} {pct}% off" if pct else f"{w.title()} deal", urgent
+        return False, "", False
+
     if kind == "fragrance":
         f = has_any(full, cfg["fragrance_words"])
         if f and (pct >= cfg["fragrance_min_pct"] or urgent or has_any(full, cfg["record_low_words"])):
@@ -140,7 +146,7 @@ def evaluate(item, rule, cfg):
         return False, "", False
 
     if kind == "everything":
-        for sub in ("fashion", "fragrance", "tech"):
+        for sub in ("watches", "fashion", "fragrance", "tech"):
             ok, why, urg = evaluate(item, {"filter": sub}, cfg)
             if ok:
                 return ok, why, urg
@@ -159,7 +165,9 @@ def guess_category(text, feed, cfg):
         return "flights"
     if has_any(text, cfg["fragrance_words"]):
         return "fragrance"
-    if has_any(text, cfg["luxury_brands"]) or has_any(text, cfg["fashion_brands"]) or has_any(text, ["shoes", "sneakers", "jacket", "coat", "jeans", "shirt", "dress", "boots", "loafers", "hoodie", "handbag", "wallet", "belt", "sunglasses", "watch"]):
+    if feed["category"] == "watches" or has_any(text, cfg.get("watch_words", [])):
+        return "watches"
+    if has_any(text, cfg["luxury_brands"]) or has_any(text, cfg["fashion_brands"]) or has_any(text, ["shoes", "sneakers", "jacket", "coat", "jeans", "shirt", "dress", "boots", "loafers", "hoodie", "handbag", "wallet", "belt", "sunglasses"]):
         return "fashion"
     if has_any(text, cfg["tech_words"]):
         return "tech"

@@ -191,6 +191,39 @@
       "category": "amazon",
       "filter": "everything",
       "url": "https://news.google.com/rss/search?q=Amazon+%22all-time+low%22+OR+%22record+low%22+deal+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Slickdeals: watch",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://slickdeals.net/newsearch.php?q=watch&searcharea=deals&searchin=first&rss=1",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Seiko",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://slickdeals.net/newsearch.php?q=seiko&searcharea=deals&searchin=first&rss=1",
+      "save": "all"
+    },
+    {
+      "name": "Slickdeals: Omega",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://slickdeals.net/newsearch.php?q=omega+watch&searcharea=deals&searchin=first&rss=1",
+      "save": "all"
+    },
+    {
+      "name": "Google: watch deal",
+      "category": "watches",
+      "filter": "watches",
+      "url": "https://news.google.com/rss/search?q=%28Rolex+OR+Omega+OR+Tudor+OR+Cartier+OR+Seiko+OR+Tissot+OR+%22TAG+Heuer%22%29+watch+deal+%22%25+off%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: watch price error",
+      "category": "watches",
+      "filter": "all",
+      "url": "https://news.google.com/rss/search?q=watch+%22price+error%22+OR+%22pricing+error%22+OR+%22price+mistake%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     }
   ],
   "home_airports": [
@@ -390,5 +423,45 @@
     "laptop"
   ],
   "tech_min_pct": 35,
-  "any_min_pct": 70
+  "any_min_pct": 70,
+  "watch_words": [
+    "Rolex",
+    "Omega",
+    "Tudor",
+    "Cartier",
+    "Breitling",
+    "TAG Heuer",
+    "Tag Heuer",
+    "IWC",
+    "Panerai",
+    "Grand Seiko",
+    "Seiko",
+    "Tissot",
+    "Longines",
+    "Hamilton",
+    "Oris",
+    "Zenith",
+    "Jaeger",
+    "Audemars",
+    "Patek",
+    "Hublot",
+    "Bulova",
+    "Citizen",
+    "Casio G-Shock",
+    "G-Shock",
+    "Garmin Fenix",
+    "Apple Watch",
+    "Speedmaster",
+    "Seamaster",
+    "Submariner",
+    "Datejust",
+    "Black Bay",
+    "Santos",
+    "wristwatch",
+    "chronograph",
+    "automatic watch",
+    "dive watch",
+    "watch"
+  ],
+  "watch_min_pct": 35
 }
