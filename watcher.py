@@ -82,6 +82,11 @@ def has_any(text, words):
 def max_percent_off(text):
     """Largest 'NN% off' figure mentioned (ignores 'extra 10% off' style small codes only if lower)."""
     nums = [int(n) for n in re.findall(r"(\d{1,2})\s?%\s?(?:off|discount|savings|below)", text, re.I)]
+    # "$189 (reg $350)", "$189, was $350", "$189 (list $350)", "$189 retail $350"
+    for now, was in re.findall(r"\$\s?([\d,]+(?:\.\d{2})?)[^$]{0,25}?\b(?:reg\.?|regularly|was|list|retail|orig\.?|msrp)\b[^$\d]{0,6}\$\s?([\d,]+(?:\.\d{2})?)", text, re.I):
+        n, w = float(now.replace(",", "")), float(was.replace(",", ""))
+        if 0 < n < w:
+            nums.append(int(round((1 - n / w) * 100)))
     return max(nums) if nums else 0
 
 
