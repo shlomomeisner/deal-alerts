@@ -230,6 +230,8 @@ def main():
             new_ids.append(key)
             if first_run or feed["name"] not in known_feeds:
                 continue  # first run only records what's already out there
+            if cfg.get("luxury_only") and not has_any(f"{it['title']} {it['text']}", cfg["luxury_words"]):
+                continue  # luxury only for now
             ok, why, urgent = evaluate(it, feed, cfg)
             if ok:
                 alerts.append((urgent, feed, it, why))
