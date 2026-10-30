@@ -1,18 +1,5 @@
 [
  {
-  "id": "354e3c130b2bf1b2",
-  "title": "Final Fantasy VII Rebirth (PS5 Digital Download) $14.99",
-  "url": "https://slickdeals.net/f/20224089-final-fantasy-vii-rebirth-ps5-digital-download-14-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Ps5",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 14.99,
-  "found_at": "2026-10-29T23:24:25Z"
- },
- {
   "id": "43b448523215986f",
   "title": "$19.99* | Final Fantasy VII Remake Intergrade (PS5) at Amazon",
   "url": "https://slickdeals.net/f/20224011-19-99-final-fantasy-vii-remake-intergrade-ps5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 473.0,
   "found_at": "2026-10-30T01:56:50Z"
+ },
+ {
+  "id": "7dae12b8cd75df49",
+  "title": "Lenovo's OLED touchscreen Yoga Slim 7x with Snapdragon X2 Elite chip hits new all-time low at $700 off - 9to5Toys",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3ZUVDJaVnJHTnc1aE1maWktcUhJblNkTDdOSlhZbGdiOXNXbGJaUG80MDV0WmctLVhTd2tmNFNsbVNkY2Q5U2twVXVmSFBvVkNLZjdsYkhIczNzUU5WTGppRG1RWDU1emVQZ1ZTNkdhQnIza0pPc1Q1d0dfbWRqcGlLRzN2ZzVPaGtGOE80aVcxOWhxZ2JoSUZCT2ZMNmUzYWptOG5oQTdxSXNCZUpEcnk1NUNta2VnMnd3MVlfc2kxNjFnM0xBXzRmMA?oc=5",
+  "why": "Oled — all-time low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 700.0,
+  "found_at": "2026-10-30T02:01:55Z"
  }
 ]
