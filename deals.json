@@ -1,44 +1,5 @@
 [
  {
-  "id": "98e9b2bb21b467cf",
-  "title": "3-in-1 Esr MagSafe Wireless Charging Station for iPhone, Apple Watch & AirPods (Blk, Grey or White) $12.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Off-White",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 12.99,
-  "found_at": "2026-10-30T15:21:34Z"
- },
- {
-  "id": "7e9790c6b7cc7730",
-  "title": "Deals: Week 1 early Black Friday Doorbusters, AirTag 2 $17 ea, HomeView, Apple Watch Ultra 4, more",
-  "url": "https://9to5mac.com/2026/10/30/deals-black-friday-doorbusters-airtag-2-homeview-ultra-4/",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 17.0,
-  "found_at": "2026-10-30T15:21:34Z"
- },
- {
-  "id": "fb388dfe58b855a9",
-  "title": "Pumpkin Jack (Nintendo Switch Digital Download) - $2.99",
-  "url": "https://slickdeals.net/f/20232066-pumpkin-jack-nintendo-switch-digital-download-2-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "why": "90% off",
-  "category": "tech",
-  "source": "Slickdeals Popular",
-  "urgent": false,
-  "hot": true,
-  "pct": 90,
-  "price": 2.99,
-  "found_at": "2026-10-30T15:26:50Z"
- },
- {
   "id": "3913d9e14cf189c0",
   "title": "Giorgio Men's Acqua di Giò Profondo Eau de Parfum Spray, 6.7 oz.",
   "url": "https://slickdeals.net/f/19648728-giorgio-men-s-acqua-di-gi-profondo-eau-de-parfum-spray-6-7-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 229.99,
   "found_at": "2026-10-30T17:18:34Z"
+ },
+ {
+  "id": "44eb1e0a7ef164a9",
+  "title": "(NEW) Apple Watch Ultra 2 Smartwatch [GPS + Cellular] $569.99",
+  "url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 569.99,
+  "found_at": "2026-10-30T17:23:44Z"
+ },
+ {
+  "id": "4f11ef6e3f7f2fd7",
+  "title": "$47.71* | Nioh 3: SteelBook Launch Edition (PS5) at Amazon",
+  "url": "https://slickdeals.net/f/20233287-47-71-nioh-3-steelbook-launch-edition-ps5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 47.71,
+  "found_at": "2026-10-30T17:23:44Z"
+ },
+ {
+  "id": "89aab29289e7aecf",
+  "title": "$47.71* | Nioh 3: SteelBook Launch Edition (PS5) at Amazon",
+  "url": "https://slickdeals.net/f/20233287-47-71-nioh-3-steelbook-launch-edition-ps5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ps5",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 47.71,
+  "found_at": "2026-10-30T17:23:44Z"
  }
 ]
