@@ -1,57 +1,5 @@
 [
  {
-  "id": "9285b60f6bb95e7b",
-  "title": "Nordstrom Rack: Extra 25% off Sunglasses!",
-  "url": "https://slickdeals.net/e/13324612-nordstrom-rack-extra-25-off-sunglasses?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Balenciaga",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": null,
-  "found_at": "2026-10-30T07:43:47Z"
- },
- {
-  "id": "588e924bd4c9bebb",
-  "title": "CENTURY 21: BALENCIAGA Handbags 70% Off + free s/h",
-  "url": "https://slickdeals.net/e/12584854-century-21-balenciaga-handbags-70-off-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Balenciaga 70% off",
-  "category": "fashion",
-  "source": "Slickdeals: Balenciaga",
-  "urgent": false,
-  "hot": true,
-  "pct": 70,
-  "price": null,
-  "found_at": "2026-10-30T07:43:47Z"
- },
- {
-  "id": "82577faaf61ab279",
-  "title": "Balenciaga Soft lambskin large shopping bag, $1669",
-  "url": "https://slickdeals.net/e/11647859-balenciaga-soft-lambskin-large-shopping-bag-1669?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Balenciaga",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 166.0,
-  "found_at": "2026-10-30T07:43:47Z"
- },
- {
-  "id": "8b3941db3f733363",
-  "title": "T-Mobile: Apple iPhone 18 Pro On Us or $1,200 Off iPhone Duo w/ Qualifying Plan",
-  "url": "https://slickdeals.net/f/20228784-t-mobile-apple-iphone-18-pro-on-us-or-1-200-off-iphone-duo-w-qualifying-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 1200.0,
-  "found_at": "2026-10-30T07:43:47Z"
- },
- {
   "id": "7f9eb9116cdff370",
   "title": "UGREEN 100W USB C to USB C Cable, Fast Charging, 2-Pack, 3.3ft, Black $8.99",
   "url": "https://slickdeals.net/f/20223786-ugreen-100w-usb-c-to-usb-c-cable-fast-charging-2-pack-3-3ft-black-8-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-30T09:02:06Z"
+ },
+ {
+  "id": "0b59708e510332ae",
+  "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery $799",
+  "url": "https://slickdeals.net/f/20231433-google-pixel-11-pro-unlocked-smartphone-gemini-256-gb-obsidian-android-gemini-intelligence-30-hour-battery-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.0,
+  "found_at": "2026-10-30T09:07:08Z"
+ },
+ {
+  "id": "67525c72a77ffc6c",
+  "title": "[4 Pack] 20W USB C Charger Block Fast Charging Multiport Adapter | for iPhone 18/Duo/17/16/15/14, Galaxy, Pixel, iPad & more, PD 20W USB-C & USB-A $9.98",
+  "url": "https://slickdeals.net/f/20219631-4-pack-20w-usb-c-charger-block-fast-charging-multiport-adapter-for-iphone-18-duo-17-16-15-14-galaxy-pixel-ipad-more-pd-20w-usb-c-usb-a-9-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.98,
+  "found_at": "2026-10-30T09:07:08Z"
+ },
+ {
+  "id": "98e9b2bb21b467cf",
+  "title": "3-in-1 Esr MagSafe Wireless Charging Station for iPhone, Apple Watch & AirPods (Blk, Grey or White) $12.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Off-White",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.99,
+  "found_at": "2026-10-30T09:07:08Z"
+ },
+ {
+  "id": "0eaa45014da209d9",
+  "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery $799",
+  "url": "https://slickdeals.net/f/20231433-google-pixel-11-pro-unlocked-smartphone-gemini-256-gb-obsidian-android-gemini-intelligence-30-hour-battery-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Pixel 10",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.0,
+  "found_at": "2026-10-30T09:07:08Z"
  }
 ]
