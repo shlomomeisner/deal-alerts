@@ -1,44 +1,5 @@
 [
  {
-  "id": "b53e27a5de9a2493",
-  "title": "Deals: Galaxy Z Fold 7 up to $790 off, Pixel Watch 4 $130 off, Sonos Ace headphones $120 off, more",
-  "url": "https://9to5google.com/2026/07/08/deals-galaxy-z-fold-pixel-watch-4-sonos-ace/",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 790.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
-  "id": "9d4a4feed95315e7",
-  "title": "Deals: Galaxy Buds 4 Pro up to $112 off, Galaxy S26 Ultra $369 off, Anker charging gear, more",
-  "url": "https://9to5google.com/2026/07/07/deals-galaxy-buds-4-pro-galaxy-s26-ultra-anker/",
-  "why": "77% off",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 77,
-  "price": 112.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
-  "id": "810aa562271a63d1",
-  "title": "Deals: Galaxy Z Fold 7 $750 off, TCL NXTPAPER 70 $280, Anker Smart Display charger, picture frame Google TVs, more",
-  "url": "https://9to5google.com/2026/07/06/deals-galaxy-fold-tcl-nxtpaper-70-280-anker-charger/",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 750.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
   "id": "e57871486ee0e6c0",
   "title": "Deals: Galaxy Tab S11 Ultra up to $456 off, LG C6 and G6 OLED TVs up to $700 off + $250 gift card, Copilot+ PCs, more",
   "url": "https://9to5google.com/2026/07/02/deals-galaxy-tab-s11-ultra-lg-c6-oled-tv/",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-10-30T06:12:31Z"
+ },
+ {
+  "id": "2c177fe971012290",
+  "title": "$169* | Bose QuietComfort ANC Over Ear Headphones (Various) at Amazon",
+  "url": "https://slickdeals.net/f/20231037-169-bose-quietcomfort-anc-over-ear-headphones-various-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.0,
+  "found_at": "2026-10-30T06:17:51Z"
+ },
+ {
+  "id": "58decef421135eb4",
+  "title": "$199 | Bose QuietComfort Headphones (2nd Gen) at Amazon",
+  "url": "https://slickdeals.net/f/20231022-199-bose-quietcomfort-headphones-2nd-gen-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-10-30T06:17:51Z"
+ },
+ {
+  "id": "34a186c27f3fbcaa",
+  "title": "$169* | Bose QuietComfort ANC Over Ear Headphones (Various) at Amazon",
+  "url": "https://slickdeals.net/f/20231037-169-bose-quietcomfort-anc-over-ear-headphones-various-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Bose",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.0,
+  "found_at": "2026-10-30T06:17:51Z"
  }
 ]
