@@ -1,31 +1,5 @@
 [
  {
-  "id": "d1b8d6d20e174a06",
-  "title": "$150* | Apple Magic Keyboard Folio: iPad Keyboard & Case (A16 & 10th Generation) at Amazon",
-  "url": "https://slickdeals.net/f/20206317-150-apple-magic-keyboard-folio-ipad-keyboard-case-a16-10th-generation-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Ipad Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 150.0,
-  "found_at": "2026-10-29T23:29:35Z"
- },
- {
-  "id": "cf104eb136da74d6",
-  "title": "$199 | Apple Magic Keyboard for 13\" iPad Pro (M4 & M5) (Pristine) & More at Woot!",
-  "url": "https://slickdeals.net/f/20191023-199-apple-magic-keyboard-for-13-ipad-pro-m4-m5-pristine-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Ipad Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 199.0,
-  "found_at": "2026-10-29T23:29:35Z"
- },
- {
   "id": "dd760d3e20532e97",
   "title": "UGREEN Nexode 200W GaN USB C Charging Station $74.99",
   "url": "https://slickdeals.net/f/20188971-ugreen-nexode-200w-gan-usb-c-charging-station-74-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 9.98,
   "found_at": "2026-10-30T03:36:22Z"
+ },
+ {
+  "id": "4ef91079d9387b1a",
+  "title": "Citizen’s ‘Elegant and Classy’ Calendar Watch Is Now Nearly 50% Off at Macy’s - Men's Journal",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEVQb053ZC13eUJCYW9BYzB1aVVFUEt6XzVaTXl0S1g4ZnhkZENyUk1VZm1iM1g4eWtDanV3QjhvemJEekJyZXg5dlo2MFlwN3Q2M2hQNUw0cUJmSVJEQnhZbmVRdTAzQWRnckNodjFXX1d6WHM0b1k4cG54ZkRacHZrVC1mRUlSRms1UGtOOVlBd2lzUUR6SmxZLVhQRS1LTjBIbWkwdDI?oc=5",
+  "why": "Citizen 50% off",
+  "category": "watches",
+  "source": "Google: watch deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": null,
+  "found_at": "2026-10-30T03:41:26Z"
+ },
+ {
+  "id": "c3342b15c44ac0ea",
+  "title": "WITHit Vince Camuto Fashion Ba...sts (42/44/45mm, Navy - Nylon) - down 5.01% ($1.63) to $30.88 from $32.51",
+  "url": "https://camelcamelcamel.com/product/B09L57F1KX",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1.63,
+  "found_at": "2026-10-30T03:41:26Z"
  }
 ]
