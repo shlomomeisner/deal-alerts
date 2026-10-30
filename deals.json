@@ -1,57 +1,5 @@
 [
  {
-  "id": "c9c6ffea7de71403",
-  "title": "Pit Viper Polarized & Non Polarized Sunglasses from $40 + Free Shipping",
-  "url": "https://slickdeals.net/f/20229960-pit-viper-polarized-non-polarized-sunglasses-from-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Sunglasses",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 40.0,
-  "found_at": "2026-10-30T01:09:53Z"
- },
- {
-  "id": "263715bf609418a4",
-  "title": "2-Pack Seasky 31.5\"-17.7\" Expandable Pot & Pan Lid Organizer Rack $19.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20217858-2-pack-seasky-31-5-17-7-expandable-pot-pan-lid-organizer-rack-19-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Off-White 50% off",
-  "category": "fashion",
-  "source": "Slickdeals: Off-White",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 19.99,
-  "found_at": "2026-10-30T01:09:53Z"
- },
- {
-  "id": "98e9b2bb21b467cf",
-  "title": "3-in-1 Esr MagSafe Wireless Charging Station for iPhone, Apple Watch & AirPods (Blk, Grey or White) $12.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Off-White",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 12.99,
-  "found_at": "2026-10-30T01:25:12Z"
- },
- {
-  "id": "3a54d09475a28240",
-  "title": "AsperX 140W USB C MacBook Charger Block,4-Port GaN Type C Laptop Charger $39.99",
-  "url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone 17",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 39.99,
-  "found_at": "2026-10-30T01:25:12Z"
- },
- {
   "id": "52a4055d37fad914",
   "title": "UGREEN 100W USB C to USB C Cable, Fast Charging, 2-Pack, 3.3ft, Black $8.99",
   "url": "https://slickdeals.net/f/20223786-ugreen-100w-usb-c-to-usb-c-cable-fast-charging-2-pack-3-3ft-black-8-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 105.0,
   "found_at": "2026-10-30T05:05:29Z"
+ },
+ {
+  "id": "790849639923e1bf",
+  "title": "Arc'teryx Men's Squamish Hoody Windbreaker (Limited Sizes, Blue) $120 + Free S&H",
+  "url": "https://slickdeals.net/f/20214684-arc-teryx-men-s-squamish-hoody-windbreaker-blue-119-83-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 120.0,
+  "found_at": "2026-10-30T05:10:31Z"
+ },
+ {
+  "id": "0b423772bb5b39c0",
+  "title": "$189.99 | Dyson SV29 Outsize Extra Cordless Vacuum (Factory Reconditioned) at Woot!",
+  "url": "https://slickdeals.net/f/20230761-189-99-dyson-sv29-outsize-extra-cordless-vacuum-factory-reconditioned-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 189.99,
+  "found_at": "2026-10-30T05:10:31Z"
+ },
+ {
+  "id": "bf50391d22e7472f",
+  "title": "$189.99 | Dyson SV29 Outsize Extra Cordless Vacuum (Factory Reconditioned) at Woot!",
+  "url": "https://slickdeals.net/f/20230761-189-99-dyson-sv29-outsize-extra-cordless-vacuum-factory-reconditioned-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 189.99,
+  "found_at": "2026-10-30T05:10:31Z"
+ },
+ {
+  "id": "b1bdb2960764eab7",
+  "title": "Garmin inReach Mini 2 SOS Satellite Communicator (Renewed) $199.99",
+  "url": "https://www.amazon.com/gp/product/B0HKKF3LC2/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-10-30T05:10:31Z"
  }
 ]
