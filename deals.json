@@ -1,44 +1,5 @@
 [
  {
-  "id": "300c2bd312d37922",
-  "title": "8Bitdo Pro 2 Bluetooth Controller for Switch, Windows, macOS, Android, and Steam Deck (Black) - $37.99 @ Best Buy",
-  "url": "https://slickdeals.net/f/20208378-8bitdo-pro-2-bluetooth-controller-for-switch-windows-macos-android-and-steam-deck-black-37-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 37.99,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
-  "id": "ca8aad15966e70c0",
-  "title": "Apple AirTag 4 pack (2nd generation) $89",
-  "url": "https://slickdeals.net/f/20207547-apple-airtag-4-pack-2nd-generation-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 89.0,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
-  "id": "0189c83cc8f9b91c",
-  "title": "Apple AirTag 1 pack (2nd generation) $23",
-  "url": "https://slickdeals.net/f/20207544-apple-airtag-1-pack-2nd-generation-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 23.0,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
   "id": "31ac4fb911255633",
   "title": "Apple MacBook Air: 15\", M5, 16GB RAM, 512GB SSD $1349",
   "url": "https://slickdeals.net/f/20207526-apple-macbook-air-15-m5-16gb-ram-512gb-ssd-1349?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 845.0,
   "found_at": "2026-10-30T10:30:28Z"
+ },
+ {
+  "id": "452154f898baa4b8",
+  "title": "Disney Epic Mickey: Rebrushed (Nintendo Switch) $24.88 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20230644-disney-epic-mickey-rebrushed-nintendo-switch-24-88-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.88,
+  "found_at": "2026-10-30T10:35:32Z"
+ },
+ {
+  "id": "542eb3dc9bd83a20",
+  "title": "$69.99* | 4-Pk Apple AirTag (2nd Generation) at Amazon",
+  "url": "https://slickdeals.net/f/20231412-69-99-4-pk-apple-airtag-2nd-generation-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-10-30T10:35:32Z"
+ },
+ {
+  "id": "9649f176ca9f3a3d",
+  "title": "$69.99* | 4-Pk Apple AirTag (2nd Generation) at Amazon",
+  "url": "https://slickdeals.net/f/20231412-69-99-4-pk-apple-airtag-2nd-generation-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-10-30T10:35:32Z"
  }
 ]
