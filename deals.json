@@ -1,44 +1,5 @@
 [
  {
-  "id": "8ae2afb3e416e766",
-  "title": "Brooks Brothers Now Extra 10% Off Your Order 40% Off Sitewide Up to 60% Off Clearance",
-  "url": "https://slickdeals.net/f/19042255-brooks-brothers-now-extra-10-off-your-order-40-off-sitewide-up-to-60-off-clearance?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Brooks Brothers",
-  "urgent": false,
-  "hot": false,
-  "pct": 60,
-  "price": null,
-  "found_at": "2026-10-30T15:52:57Z"
- },
- {
-  "id": "bc45efc29bc1afc2",
-  "title": "Brooks Brothers Now Up to 60% Off Clearance",
-  "url": "https://slickdeals.net/f/19024399-brooks-brothers-now-up-to-60-off-clearance?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Brooks Brothers",
-  "urgent": false,
-  "hot": false,
-  "pct": 60,
-  "price": null,
-  "found_at": "2026-10-30T15:52:57Z"
- },
- {
-  "id": "0e8b640925b05567",
-  "title": "Brooks Brothers Semi Annual Sale 40% Off Sitewide",
-  "url": "https://slickdeals.net/f/19014421-brooks-brothers-semi-annual-sale-40-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Brooks Brothers",
-  "urgent": false,
-  "hot": false,
-  "pct": 40,
-  "price": null,
-  "found_at": "2026-10-30T15:52:57Z"
- },
- {
   "id": "7c6ae0cbac039259",
   "title": "Brooks Brothers Extra 25% Off Clearance",
   "url": "https://slickdeals.net/f/18993298-brooks-brothers-extra-25-off-clearance?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 699.0,
   "found_at": "2026-10-30T17:44:46Z"
+ },
+ {
+  "id": "00fa795387c5d9c9",
+  "title": "Nintendo eShop Holiday Sale: Haven $7.49; Sifu $10; Dave the Diver $12; No Man's Sky $24 & More (Switch 1 & 2 Digital Games)",
+  "url": "https://slickdeals.net/f/19006729-nintendo-eshop-holiday-sale-haven-7-49-sifu-10-dave-the-diver-12-no-man-s-sky-24-more-switch-1-2-digital-games?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Stone Island",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.49,
+  "found_at": "2026-10-30T17:50:02Z"
+ },
+ {
+  "id": "54a20a5cc9491208",
+  "title": "Neiman Marcus: 70% Off Select Beauty Styles (Include Estee Lauder, Dior, Bobbi Brown, Kiehls, Lancome)",
+  "url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Dior 70% off",
+  "category": "fashion",
+  "source": "Slickdeals: Neiman Marcus",
+  "urgent": false,
+  "hot": true,
+  "pct": 70,
+  "price": null,
+  "found_at": "2026-10-30T17:50:02Z"
+ },
+ {
+  "id": "82a4b44a5f09449f",
+  "title": "Why Buy the M6 Mac Mini Directly From Apple When Amazon Is Selling It at a Record Low? - Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXpXZFV3dGVhNkFVbkRrWC1LNnF5bzdpVUlGUEVZTFVJbS1OYk1PVXJfMkFobXpVVTlEZlZ0MGdUcktyTDAweXpWSU5nQThNSjdmODhEVTlOOG9MNE9xRFRVVUVZUF93Vm9fOGhEdFBacUp3bW9JdTBzc0VjOHhzak80Wi1VVmJWVjNDbmRuUEcxZnlzY1NLTTVSOS00aS0takpVVW5EWE01RVFwYi12NEVPcHhhQTQ?oc=5",
+  "why": "Mac Mini — record low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T17:50:02Z"
  }
 ]
