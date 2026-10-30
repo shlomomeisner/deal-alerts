@@ -1,44 +1,5 @@
 [
  {
-  "id": "ef6ddc4a98c16e8c",
-  "title": "Apple Watch Trail Loop - 49mm",
-  "url": "https://slickdeals.net/f/20200365-apple-watch-trail-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-30T12:57:12Z"
- },
- {
-  "id": "0abf3da5182b86cc",
-  "title": "Joyroom Magnetic Fast Charging Apple Watch Dock Stand (Silver or Black) $5.39 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20194851-joyroom-magnetic-fast-charging-apple-watch-dock-stand-silver-or-black-5-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 5.39,
-  "found_at": "2026-10-30T12:57:12Z"
- },
- {
-  "id": "b3f6e91ce5c3493b",
-  "title": "Apple Watch Series 11 (GPS + Cellular) 42mm Case with Sport Band (Size S/M), Hypertension Notifications, Sleep Score, Advanced Workout Metrics $349.97",
-  "url": "https://slickdeals.net/f/20194017-apple-watch-series-11-gps-cellular-42mm-case-with-sport-band-size-s-m-hypertension-notifications-sleep-score-advanced-workout-metrics-349-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 349.97,
-  "found_at": "2026-10-30T12:57:12Z"
- },
- {
   "id": "ce0ebd2319884a6a",
   "title": "Apple Watch Ultra 2 Brand New at Woot - $549.99 FS",
   "url": "https://slickdeals.net/f/20188950-apple-watch-ultra-2-brand-new-at-woot-549-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": 50,
   "price": 9.5,
   "found_at": "2026-10-30T14:59:12Z"
+ },
+ {
+  "id": "03a742a826c4b3ae",
+  "title": "KALIYADI Polarized Sunglasses $13.19 AC",
+  "url": "https://slickdeals.net/f/20232681-kaliyadi-polarized-sunglasses-13-19-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.19,
+  "found_at": "2026-10-30T15:04:30Z"
+ },
+ {
+  "id": "51c1874efad33e3d",
+  "title": "KALIYADI Polarized Sunglasses $13.19 AC",
+  "url": "https://slickdeals.net/f/20232681-kaliyadi-polarized-sunglasses-13-19-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.19,
+  "found_at": "2026-10-30T15:04:30Z"
+ },
+ {
+  "id": "2b23486ab16cec53",
+  "title": "Pugo Top Stainless Steel Band for Apple Watch (various) from $9.50 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20224668-pugo-top-stainless-steel-band-for-apple-watch-various-from-9-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Apple Watch 50% off",
+  "category": "watches",
+  "source": "Slickdeals: Apple Watch Ultra",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 9.5,
+  "found_at": "2026-10-30T15:04:30Z"
  }
 ]
