@@ -1,44 +1,5 @@
 [
  {
-  "id": "dd26d4bd9c637599",
-  "title": "iPhone 17/18 Pro Translucent Matte Case (Pink) $1.36 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20221479-iphone-17-18-pro-translucent-matte-case-pink-1-36-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone 17",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 1.36,
-  "found_at": "2026-10-30T05:51:51Z"
- },
- {
-  "id": "f1052e11682722f4",
-  "title": "[4 Pack] 20W USB C Charger Block Fast Charging Multiport Adapter | for iPhone 18/Duo/17/16/15/14, Galaxy, Pixel, iPad & more, PD 20W USB-C & USB-A $9.98",
-  "url": "https://slickdeals.net/f/20219631-4-pack-20w-usb-c-charger-block-fast-charging-multiport-adapter-for-iphone-18-duo-17-16-15-14-galaxy-pixel-ipad-more-pd-20w-usb-c-usb-a-9-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone 17",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 9.98,
-  "found_at": "2026-10-30T05:51:51Z"
- },
- {
-  "id": "5823f33880cf0474",
-  "title": "Tech21 iPhone 17 Air EvoLite Case – Slim Protective Case $3.99",
-  "url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone 17",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 3.99,
-  "found_at": "2026-10-30T05:51:51Z"
- },
- {
   "id": "08f820a3f21d2780",
   "title": "Tech21 EvoClear Case for iPhone 17 Air – Clear $3.99",
   "url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 209.99,
   "found_at": "2026-10-30T07:59:13Z"
+ },
+ {
+  "id": "95c936878c4381ea",
+  "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
+  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-10-30T08:04:25Z"
+ },
+ {
+  "id": "f91707f7b692b5b3",
+  "title": "Amazon just dropped the 24GB M6 Mac mini back to all-time low pricing at nearly $150 off - 9to5Toys",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9seGZfRjdLSjZ2aXZwSVlvMTNPMkJDNXB3RU0tWDFueF9JYTk5eFRER1NETXItMXpxdThHZ0E4cGFyYjVHb0xySXU4SFZ2b2NuaVVSX0lNYWw0UXRFem9XM0dpZWRodGZmLUpWUzFzZmdDc1Z4b0E?oc=5",
+  "why": "Mac Mini — all-time low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 150.0,
+  "found_at": "2026-10-30T08:04:25Z"
+ },
+ {
+  "id": "7dae12b8cd75df49",
+  "title": "Lenovo's OLED touchscreen Yoga Slim 7x with Snapdragon X2 Elite chip hits new all-time low at $700 off - 9to5Toys",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3ZUVDJaVnJHTnc1aE1maWktcUhJblNkTDdOSlhZbGdiOXNXbGJaUG80MDV0WmctLVhTd2tmNFNsbVNkY2Q5U2twVXVmSFBvVkNLZjdsYkhIczNzUU5WTGppRG1RWDU1emVQZ1ZTNkdhQnIza0pPc1Q1d0dfbWRqcGlLRzN2ZzVPaGtGOE80aVcxOWhxZ2JoSUZCT2ZMNmUzYWptOG5oQTdxSXNCZUpEcnk1NUNta2VnMnd3MVlfc2kxNjFnM0xBXzRmMA?oc=5",
+  "why": "Oled — all-time low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 700.0,
+  "found_at": "2026-10-30T08:04:25Z"
  }
 ]
