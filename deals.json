@@ -1,18 +1,5 @@
 [
  {
-  "id": "31ac4fb911255633",
-  "title": "Apple MacBook Air: 15\", M5, 16GB RAM, 512GB SSD $1349",
-  "url": "https://slickdeals.net/f/20207526-apple-macbook-air-15-m5-16gb-ram-512gb-ssd-1349?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 134.0,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
   "id": "165ba31a529a57c2",
   "title": "13.6\" Apple MacBook Air Laptop (2026): M5 Chip, 24GB RAM, 1TB SSD (Various) $1599 + Free S&H",
   "url": "https://slickdeals.net/f/20199135-13-6-apple-macbook-air-laptop-2026-m5-chip-24gb-ram-1tb-ssd-various-1599-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-10-30T10:35:32Z"
+ },
+ {
+  "id": "cf7873b5dbd36b7a",
+  "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
+  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Xbox Series X",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-10-30T10:40:35Z"
  }
 ]
