@@ -1,44 +1,5 @@
 [
  {
-  "id": "250fdde30a602a5b",
-  "title": "Seiko Men's Le Grand Solar Chronograph Watch w/ Leather Strap $149.95 + Free Shipping",
-  "url": "https://slickdeals.net/e/12172666-seiko-men-s-le-grand-solar-chronograph-watch-w-leather-strap-149-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Grand Seiko",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 149.95,
-  "found_at": "2026-10-30T13:34:12Z"
- },
- {
-  "id": "394879e905c63d5a",
-  "title": "Seiko 5 SNKK27 for $57 free shipping with Prime (Prime day deal)",
-  "url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Grand Seiko",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 57.0,
-  "found_at": "2026-10-30T13:34:12Z"
- },
- {
-  "id": "d38437de2f1ac1fc",
-  "title": "Seiko Astron Jet Setter Giveaway ~ 3/31/15",
-  "url": "https://slickdeals.net/e/7361166-seiko-astron-jet-setter-giveaway-3-31-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Grand Seiko",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-30T13:34:12Z"
- },
- {
   "id": "c94021cd19153c1e",
   "title": "Seiko Square Off Sweepstakes ~ 4/30/14",
   "url": "https://slickdeals.net/e/6803498-seiko-square-off-sweepstakes-4-30-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-30T15:42:19Z"
+ },
+ {
+  "id": "b0ebf035656556bd",
+  "title": "Google Pixel Watch 5",
+  "url": "https://slickdeals.net/f/20231499-google-pixel-watch-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T15:47:41Z"
+ },
+ {
+  "id": "f80f7a5fefc0a7ee",
+  "title": "$329.99 | 45mm Google Pixel Watch 5 - Obsidian - Wi-Fi at Amazon",
+  "url": "https://slickdeals.net/f/20231133-329-99-45mm-google-pixel-watch-5-obsidian-wi-fi-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 329.99,
+  "found_at": "2026-10-30T15:47:41Z"
+ },
+ {
+  "id": "82a4b44a5f09449f",
+  "title": "Why Buy the M6 Mac Mini Directly From Apple When Amazon Is Selling It at a Record Low? - Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXpXZFV3dGVhNkFVbkRrWC1LNnF5bzdpVUlGUEVZTFVJbS1OYk1PVXJfMkFobXpVVTlEZlZ0MGdUcktyTDAweXpWSU5nQThNSjdmODhEVTlOOG9MNE9xRFRVVUVZUF93Vm9fOGhEdFBacUp3bW9JdTBzc0VjOHhzak80Wi1VVmJWVjNDbmRuUEcxZnlzY1NLTTVSOS00aS0takpVVW5EWE01RVFwYi12NEVPcHhhQTQ?oc=5",
+  "why": "Mac Mini — record low",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T15:47:41Z"
  }
 ]
