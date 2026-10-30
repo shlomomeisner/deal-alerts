@@ -1,18 +1,5 @@
 [
  {
-  "id": "8b3941db3f733363",
-  "title": "T-Mobile: Apple iPhone 18 Pro On Us or $1,200 Off iPhone Duo w/ Qualifying Plan",
-  "url": "https://slickdeals.net/f/20228784-t-mobile-apple-iphone-18-pro-on-us-or-1-200-off-iphone-duo-w-qualifying-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 1200.0,
-  "found_at": "2026-10-29T23:07:51Z"
- },
- {
   "id": "7f9eb9116cdff370",
   "title": "UGREEN 100W USB C to USB C Cable, Fast Charging, 2-Pack, 3.3ft, Black $8.99",
   "url": "https://slickdeals.net/f/20223786-ugreen-100w-usb-c-to-usb-c-cable-fast-charging-2-pack-3-3ft-black-8-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 1.56,
   "found_at": "2026-10-30T03:05:31Z"
+ },
+ {
+  "id": "fd01f76dc2ae6ae1",
+  "title": "United: San Francisco – Newark (and vice versa). $257 (Basic Economy) / $387 (Regular Economy). Roundtrip, including all Taxes",
+  "url": "https://www.theflightdeal.com/2026/10/29/united-san-francisco-newark-and-vice-versa-257-basic-economy-387-regular-economy-roundtrip-including-all-taxes/",
+  "why": "$257 from NEWARK",
+  "category": "flights",
+  "source": "The Flight Deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 257.0,
+  "found_at": "2026-10-30T03:10:36Z"
  }
 ]
