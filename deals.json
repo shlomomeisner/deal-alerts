@@ -1,57 +1,5 @@
 [
  {
-  "id": "ae89c4fb008276fc",
-  "title": "Deals: Galaxy S26 Ultra $350 off, Galaxy Watch Ultra 50% off, Hisense Google smart TVs up to $2,200 off, more",
-  "url": "https://9to5google.com/2026/07/01/deals-s26-ultra-galaxy-watch-ultra-hisense-google-tv/",
-  "why": "Watch 50% off",
-  "category": "watches",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 350.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
-  "id": "f791449672f40c1c",
-  "title": "Deals: Google Home Speaker at 50% off w/ purchase, Nest Cam 30% off, up to $700 off LG monitors, Lenovo PCs, more",
-  "url": "https://9to5google.com/2026/06/30/deals-google-home-speaker-nest-cam-lg-monitors/",
-  "why": "Oled — all-time low",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 700.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
-  "id": "d681c3fe3ba0e53d",
-  "title": "Deals: Best Buy 4th of July sale, Copilot+ PCs up to $830 off, Galaxy Tab S11 $350 off, more",
-  "url": "https://9to5google.com/2026/06/29/deals-best-buy-4th-of-july-sale-galaxy-tab-s11/",
-  "why": "Galaxy — 45% off",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 45,
-  "price": 830.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
-  "id": "c646b64a824a1b03",
-  "title": "Prime Day deals – Last chance: Pixel 10 $519, NXTPAPER tab $140, Google TV Streamer $72 low, Echo, Galaxy, TVs, more",
-  "url": "https://9to5google.com/2026/06/26/prime-day-deals-last-chance-pixel-10/",
-  "why": "Galaxy — all-time low",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 519.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
   "id": "b9c15b96b1df1109",
   "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Last Day Update]",
   "url": "https://9to5google.com/2026/06/26/best-prime-day-deals-pixel-galaxy/",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-10-30T06:23:33Z"
+ },
+ {
+  "id": "c55c35f5927703f1",
+  "title": "37\" Ackima 3-In-1 Magnetic Selfie Stick Tripod for iPhone w/ Wireless Remote $12.50",
+  "url": "https://slickdeals.net/f/20227431-37-ackima-3-in-1-magnetic-selfie-stick-tripod-for-iphone-w-wireless-remote-12-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "Iphone — 50% off",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 12.5,
+  "found_at": "2026-10-30T06:28:42Z"
+ },
+ {
+  "id": "fb669c272f9204dd",
+  "title": "$199* | Bose TV Speaker Bluetooth Soundbar at Amazon",
+  "url": "https://slickdeals.net/f/20231058-199-bose-tv-speaker-bluetooth-soundbar-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-10-30T06:28:42Z"
+ },
+ {
+  "id": "4585a50cf945bd96",
+  "title": "Chloe Street Sign Childrens Na...gn | Indoor/Outdoor | 18\" Wide - down 23.94% ($2.83) to $8.99 from $11.82",
+  "url": "https://camelcamelcamel.com/product/B0049WAFRS",
+  "why": "",
+  "category": "amazon",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2.83,
+  "found_at": "2026-10-30T06:28:42Z"
+ },
+ {
+  "id": "593875abcfb2efea",
+  "title": "$199* | Bose TV Speaker Bluetooth Soundbar at Amazon",
+  "url": "https://slickdeals.net/f/20231058-199-bose-tv-speaker-bluetooth-soundbar-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Bose",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-10-30T06:28:42Z"
  }
 ]
