@@ -1,57 +1,5 @@
 [
  {
-  "id": "a0e28afcccaa0dd0",
-  "title": "2.5-Oz Ralph Lauren Polo 67 Eau de Parfum Cologne for Men $40 + Free Shipping",
-  "url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: Polo Ralph Lauren",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 40.0,
-  "found_at": "2026-10-30T09:02:06Z"
- },
- {
-  "id": "a7d159734a4b7862",
-  "title": "$69.99* | 4-Pk Apple AirTag (2nd Generation) at Amazon",
-  "url": "https://slickdeals.net/f/20231412-69-99-4-pk-apple-airtag-2nd-generation-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Slickdeals: Airtag",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 69.99,
-  "found_at": "2026-10-30T09:02:06Z"
- },
- {
-  "id": "025d2d42fe591858",
-  "title": "2-Pk Hyperkin Joy-Track Duo Mouse Grips for Nintendo Switch 2 Joy-Con 2 $2.39 + Free S&H w/ Prime",
-  "url": "https://slickdeals.net/f/20231112-2-pk-hyperkin-joy-track-duo-mouse-grips-for-nintendo-switch-2-joy-con-2-2-39-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Nintendo Switch 2",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 2.39,
-  "found_at": "2026-10-30T09:02:06Z"
- },
- {
-  "id": "13fc98d411034556",
-  "title": "R.D.S. INDUSTRIES, INC. Game Traveler Deluxe Licensed Crossbody Bag Designed for Nintendo Switch, Nintendo Switch 2, OLED, Black Vertical (MC16) $10",
-  "url": "https://slickdeals.net/f/20230749-r-d-s-industries-inc-game-traveler-deluxe-licensed-crossbody-bag-designed-for-nintendo-switch-nintendo-switch-2-oled-black-vertical-mc16-10?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Nintendo Switch 2",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 10.0,
-  "found_at": "2026-10-30T09:02:06Z"
- },
- {
   "id": "09ea972389804306",
   "title": "$479 or less | Nintendo Switch 2 - Choose Your Game Bundle at Woot!",
   "url": "https://slickdeals.net/f/20230728-479-or-less-nintendo-switch-2-choose-your-game-bundle-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-10-30T11:59:29Z"
+ },
+ {
+  "id": "bd10016e5a139e7f",
+  "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
+  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 179.99,
+  "found_at": "2026-10-30T12:04:35Z"
+ },
+ {
+  "id": "77061b1ebaf0f377",
+  "title": "$67.59 | Nintendo Switch 2 Pro Controller at Woot!",
+  "url": "https://slickdeals.net/f/20231091-67-59-nintendo-switch-2-pro-controller-at-woot?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 67.59,
+  "found_at": "2026-10-30T12:04:35Z"
+ },
+ {
+  "id": "3d5f6debf1882989",
+  "title": "Apple AirTag 4-Pack for $70 + free shipping",
+  "url": "https://www.dealnews.com/products/Apple/Apple-Air-Tag-4-Pack/501879.html?iref=rss",
+  "why": "",
+  "category": "watches",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 70.0,
+  "found_at": "2026-10-30T12:04:35Z"
+ },
+ {
+  "id": "22feecca17955511",
+  "title": "$67.59 | Nintendo Switch 2 Pro Controller at Woot!",
+  "url": "https://slickdeals.net/f/20231091-67-59-nintendo-switch-2-pro-controller-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch 2",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 67.59,
+  "found_at": "2026-10-30T12:04:35Z"
  }
 ]
