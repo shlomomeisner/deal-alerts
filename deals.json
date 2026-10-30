@@ -1,31 +1,5 @@
 [
  {
-  "id": "ddafe3f5dc01d539",
-  "title": "Targus - HyperShield Case for MacBook Neo - Clear $19.99 Bestbuy.com",
-  "url": "https://slickdeals.net/f/20214477-targus-hypershield-case-for-macbook-neo-clear-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Ipad Pro",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 19.99,
-  "found_at": "2026-10-30T03:21:04Z"
- },
- {
-  "id": "444c17f09504a147",
-  "title": "Apple iPad mini Wi-Fi 128GB with A17 Pro Chip qualified buyers",
-  "url": "https://slickdeals.net/f/20213982-apple-ipad-mini-wi-fi-128gb-with-a17-pro-chip-qualified-buyers?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Ipad Pro",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-30T03:21:04Z"
- },
- {
   "id": "ce6548c6a7d56c9f",
   "title": "Best Buy essentials - 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smartphones & other USB-C Devices - Black - $11.99 + FS",
   "url": "https://slickdeals.net/f/20211972-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smartphones-other-usb-c-devices-black-11-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 2.39,
   "found_at": "2026-10-30T06:54:44Z"
+ },
+ {
+  "id": "00c97d4b4f986e53",
+  "title": "Sephora Holiday Perfume Sampler Set w/ Redeemable Voucher From $95 use Code SAVEGIFTS for 20% Off Final Sale Free Shipping",
+  "url": "https://slickdeals.net/f/18944767-sephora-holiday-perfume-sampler-set-w-redeemable-voucher-from-95-use-code-savegifts-for-20-off-final-sale-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Saint Laurent",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 95.0,
+  "found_at": "2026-10-30T06:59:55Z"
+ },
+ {
+  "id": "ef9d14137eac08ba",
+  "title": "ESR Cyber Tough iPhone 18/17 Pro Max Case w/ Flex Stand (Black) $17.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20224788-esr-cyber-tough-iphone-18-17-pro-max-case-w-flex-stand-black-17-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Iphone — 40% off",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": 17.99,
+  "found_at": "2026-10-30T06:59:55Z"
  }
 ]
