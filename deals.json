@@ -1,44 +1,5 @@
 [
  {
-  "id": "937cc667cd87d653",
-  "title": "Nordstrom Rack: Designer Sunglasses and Eyewear Sale",
-  "url": "https://slickdeals.net/e/14099414-nordstrom-rack-designer-sunglasses-and-eyewear-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Nordstrom 80% off",
-  "category": "fashion",
-  "source": "Slickdeals: Nordstrom Rack Designer",
-  "urgent": false,
-  "hot": true,
-  "pct": 80,
-  "price": null,
-  "found_at": "2026-10-29T22:52:13Z"
- },
- {
-  "id": "b836e6fed82092bf",
-  "title": "Up to 80% off Designer Sunglasses at Nordstrom Rack - Gucci, Fendi, Marc Jacobs, Cole Haan & More",
-  "url": "https://slickdeals.net/e/13818170-up-to-80-off-designer-sunglasses-at-nordstrom-rack-gucci-fendi-marc-jacobs-cole-haan-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Gucci 80% off",
-  "category": "fashion",
-  "source": "Slickdeals: Nordstrom Rack Designer",
-  "urgent": false,
-  "hot": true,
-  "pct": 80,
-  "price": null,
-  "found_at": "2026-10-29T22:52:13Z"
- },
- {
-  "id": "1ed6c7433644d7b6",
-  "title": "54mm Small Nola Aviator Sunglasses for $67.47 @ nordstromrack",
-  "url": "https://slickdeals.net/e/13320259-54mm-small-nola-aviator-sunglasses-for-67-47-nordstromrack?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Nordstrom Rack Designer",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": 67.47,
-  "found_at": "2026-10-29T22:52:13Z"
- },
- {
   "id": "52a4055d37fad914",
   "title": "UGREEN 100W USB C to USB C Cable, Fast Charging, 2-Pack, 3.3ft, Black $8.99",
   "url": "https://slickdeals.net/f/20223786-ugreen-100w-usb-c-to-usb-c-cable-fast-charging-2-pack-3-3ft-black-8-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 100.0,
   "found_at": "2026-10-30T00:17:27Z"
+ },
+ {
+  "id": "895af9eb6cc8740e",
+  "title": "$34.99* | Mouse: P.I. For Hire (Switch 2) at Amazon",
+  "url": "https://slickdeals.net/f/20229459-34-99-mouse-p-i-for-hire-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.99,
+  "found_at": "2026-10-30T00:22:33Z"
+ },
+ {
+  "id": "1865ce79d962ade6",
+  "title": "ASUS ROG Azoth Extreme Wireless Mechanical Gaming Keyboard – 75% TKL, ROG NX Storm Clicky Switches, PBT Keycaps $389.99",
+  "url": "https://slickdeals.net/f/20229927-asus-rog-azoth-extreme-wireless-mechanical-gaming-keyboard-75-tkl-rog-nx-storm-clicky-switches-pbt-keycaps-389-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 389.99,
+  "found_at": "2026-10-30T00:22:33Z"
+ },
+ {
+  "id": "4f0fad52a1b84b5a",
+  "title": "$29.94 | BRAVELY DEFAULT FLYING FAIRY HD Remaster (Nintendo Switch 2) at Amazon",
+  "url": "https://slickdeals.net/f/20215254-29-94-bravely-default-flying-fairy-hd-remaster-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 29.94,
+  "found_at": "2026-10-30T00:22:33Z"
  }
 ]
