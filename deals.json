@@ -1,31 +1,5 @@
 [
  {
-  "id": "c9beae3b13a88b7d",
-  "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic, Silver-Tone (Model: BI1030-53A) $106.95",
-  "url": "https://slickdeals.net/f/20231385-citizen-quartz-mens-watch-stainless-steel-classic-silver-tone-model-bi1030-53a-106-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Amazon watch",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 106.95,
-  "found_at": "2026-10-30T08:36:16Z"
- },
- {
-  "id": "8aa733bd6641b404",
-  "title": "$279 | Bose New Lifestyle Ultra Speaker, Wireless Home Speaker at Amazon",
-  "url": "https://slickdeals.net/f/20231379-279-bose-new-lifestyle-ultra-speaker-wireless-home-speaker-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Bose",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 279.0,
-  "found_at": "2026-10-30T08:36:16Z"
- },
- {
   "id": "de3af35d57d5ec74",
   "title": "[NEW] $4.88 | Creed - Greatest Hits (Audio CD w/ AutoRip MP3) at Amazon",
   "url": "https://slickdeals.net/f/20143023-new-4-88-creed-greatest-hits-audio-cd-w-autorip-mp3-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 100.0,
   "found_at": "2026-10-30T11:01:30Z"
+ },
+ {
+  "id": "d79ba425147bb633",
+  "title": "Logitech Flip Folio Keyboard Case 13-inch iPad Pro and Air, various colors",
+  "url": "https://slickdeals.net/f/20231619-logitech-flip-folio-keyboard-case-13-inch-ipad-pro-and-air-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Off-White",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T11:06:38Z"
+ },
+ {
+  "id": "a3208de10b12f471",
+  "title": "Best gaming monitor deal: LG's 27-inch 240Hz OLED hits all-time low - Mashable",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
+  "why": "Oled — all-time low",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T11:06:38Z"
  }
 ]
