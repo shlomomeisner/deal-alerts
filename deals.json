@@ -1,44 +1,5 @@
 [
  {
-  "id": "165ba31a529a57c2",
-  "title": "13.6\" Apple MacBook Air Laptop (2026): M5 Chip, 24GB RAM, 1TB SSD (Various) $1599 + Free S&H",
-  "url": "https://slickdeals.net/f/20199135-13-6-apple-macbook-air-laptop-2026-m5-chip-24gb-ram-1tb-ssd-various-1599-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 159.0,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
-  "id": "7202613b79e50995",
-  "title": "$1399 | 13-Inch Apple MacBook Air Laptop with M5 chip (16GB RAM, 1TB SSD, Starlight) at Amazon",
-  "url": "https://slickdeals.net/f/20198316-1399-13-inch-apple-macbook-air-laptop-with-m5-chip-16gb-ram-1tb-ssd-starlight-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 139.0,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
-  "id": "99ca5ab2082c6f30",
-  "title": "Apple Mac Studio M5 Max - Micro Center $1999",
-  "url": "https://slickdeals.net/f/20196219-apple-mac-studio-m5-max-micro-center-1999?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 199.0,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
   "id": "423487baceb5bf06",
   "title": "Apple MacBook Air: 13\", M5, 16GB RAM, 512GB SSD, & More $1149",
   "url": "https://slickdeals.net/f/20186187-apple-macbook-air-13-m5-16gb-ram-512gb-ssd-more-1149?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 11.99,
   "found_at": "2026-10-30T10:40:35Z"
+ },
+ {
+  "id": "4bc3c3f1b6b0f1b3",
+  "title": "Logitech Flip Folio Keyboard Case 13-inch iPad Pro and Air, various colors",
+  "url": "https://slickdeals.net/f/20231619-logitech-flip-folio-keyboard-case-13-inch-ipad-pro-and-air-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T10:45:44Z"
+ },
+ {
+  "id": "12083d0db9d9a6ae",
+  "title": "Logitech Flip Folio Keyboard Case 13-inch iPad Pro and Air, various colors",
+  "url": "https://slickdeals.net/f/20231619-logitech-flip-folio-keyboard-case-13-inch-ipad-pro-and-air-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ipad",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T10:45:44Z"
+ },
+ {
+  "id": "347ec5cbd7808bb7",
+  "title": "$69.99* | 4-Pk Apple AirTag (2nd Generation) at Amazon",
+  "url": "https://slickdeals.net/f/20231412-69-99-4-pk-apple-airtag-2nd-generation-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Apple Watch Ultra",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-10-30T10:45:44Z"
  }
 ]
