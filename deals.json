@@ -1,44 +1,5 @@
 [
  {
-  "id": "423487baceb5bf06",
-  "title": "Apple MacBook Air: 13\", M5, 16GB RAM, 512GB SSD, & More $1149",
-  "url": "https://slickdeals.net/f/20186187-apple-macbook-air-13-m5-16gb-ram-512gb-ssd-more-1149?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 114.0,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
-  "id": "4880756224ceae62",
-  "title": "Open-Box Excellent: Pelican - Marine Case for Apple Airpods Pro 3rd Generation - Black - $9.99 + FS",
-  "url": "https://slickdeals.net/f/20184717-open-box-excellent-pelican-marine-case-for-apple-airpods-pro-3rd-generation-black-9-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 9.99,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
-  "id": "afd545040eadec5c",
-  "title": "Speck Balance Folio for 11\" iPad Air M2/M3/M4 & Select iPad Pro $20.99",
-  "url": "https://slickdeals.net/f/20183475-speck-balance-folio-for-11-ipad-air-m2-m3-m4-select-ipad-pro-20-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Best Buy Apple",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 20.99,
-  "found_at": "2026-10-30T08:31:08Z"
- },
- {
   "id": "b5a3433eeb9c9007",
   "title": "$4.99, FS, Speck - Presidio Lux Case with MagSafe for Apple iPhone 15 Pro - Clear/Gold Glitter",
   "url": "https://slickdeals.net/f/20182092-4-99-fs-speck-presidio-lux-case-with-magsafe-for-apple-iphone-15-pro-clear-gold-glitter?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-10-30T10:45:44Z"
+ },
+ {
+  "id": "d1357979fb5eb650",
+  "title": "Pixel Watch 5 hits all-time low at $100 off today (All colors, sizes, and Steph Curry Edition)",
+  "url": "https://9to5toys.com/2026/10/30/pixel-watch-5-all-time-low-doorbuster-deals/",
+  "why": "Pixel — all-time low",
+  "category": "watches",
+  "source": "9to5Toys",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-10-30T10:50:48Z"
+ },
+ {
+  "id": "d79ba425147bb633",
+  "title": "Logitech Flip Folio Keyboard Case 13-inch iPad Pro and Air, various colors",
+  "url": "https://slickdeals.net/f/20231619-logitech-flip-folio-keyboard-case-13-inch-ipad-pro-and-air-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Off-White",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T10:50:48Z"
+ },
+ {
+  "id": "9743850da205e84e",
+  "title": "Logitech Flip Folio Keyboard Case 13-inch iPad Pro and Air, various colors",
+  "url": "https://slickdeals.net/f/20231619-logitech-flip-folio-keyboard-case-13-inch-ipad-pro-and-air-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ipad Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-30T10:50:48Z"
  }
 ]
