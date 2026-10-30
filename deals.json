@@ -1,18 +1,5 @@
 [
  {
-  "id": "e57871486ee0e6c0",
-  "title": "Deals: Galaxy Tab S11 Ultra up to $456 off, LG C6 and G6 OLED TVs up to $700 off + $250 gift card, Copilot+ PCs, more",
-  "url": "https://9to5google.com/2026/07/02/deals-galaxy-tab-s11-ultra-lg-c6-oled-tv/",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Google deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 456.0,
-  "found_at": "2026-10-30T03:00:26Z"
- },
- {
   "id": "ae89c4fb008276fc",
   "title": "Deals: Galaxy S26 Ultra $350 off, Galaxy Watch Ultra 50% off, Hisense Google smart TVs up to $2,200 off, more",
   "url": "https://9to5google.com/2026/07/01/deals-s26-ultra-galaxy-watch-ultra-hisense-google-tv/",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-10-30T06:17:51Z"
+ },
+ {
+  "id": "8657535beec67b7a",
+  "title": "65\" LG 120Hz G6 OLED evo AI 4K Smart TV $1999.99 + Free Store Pickup at Best Buy",
+  "url": "https://slickdeals.net/f/20231052-65-lg-120hz-g6-oled-evo-ai-4k-smart-tv-1999-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Oled Tv",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-10-30T06:23:33Z"
  }
 ]
