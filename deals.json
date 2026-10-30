@@ -1,57 +1,5 @@
 [
  {
-  "id": "4e27f5c422522a87",
-  "title": "Eletiuo 100% Bamboo Wood Multi-angle iPad Stand $29.99",
-  "url": "https://www.amazon.com/gp/product/B08ZH78QC1/ref=ox_sc_act_title_1?smid=A16FOIQM5Q7ALS&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 29.99,
-  "found_at": "2026-10-30T11:59:29Z"
- },
- {
-  "id": "876baebc3fcc9864",
-  "title": "Alplug Men's Solid Cologne Gift Set (6-Pack) $4.94",
-  "url": "https://www.amazon.com/gp/product/B0GWLY568H/ref=ox_sc_act_title_1?smid=A3551SWH8VW8VJ&psc=1",
-  "why": "",
-  "category": "fragrance",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 4.94,
-  "found_at": "2026-10-30T11:59:29Z"
- },
- {
-  "id": "aed8a4f65b9247e0",
-  "title": "Samsung P9 Express 512GB microSDXC Express Card (Switch 2 Compatible, 800MB/s) $99.00",
-  "url": "https://www.amazon.com/gp/product/B0FT995SPF/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 99.0,
-  "found_at": "2026-10-30T11:59:29Z"
- },
- {
-  "id": "a92f7de01b1103e0",
-  "title": "PM Studios Bluey's Quest for The Gold Pen Game - Nintendo Switch $24.88",
-  "url": "https://www.amazon.com/gp/product/B0FX5ZKFXJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 24.88,
-  "found_at": "2026-10-30T11:59:29Z"
- },
- {
   "id": "84caa80127d17d8f",
   "title": "ecozy 2.4G WiFi Smart Sunrise Alarm Clock w/ Dual Speakers & DIY Pixel GIFs $59.99",
   "url": "https://www.amazon.com/gp/product/B0H4TVMP67/ref=ox_sc_act_title_1?smid=A14CZEOAGFEOBX&psc=1",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 24.0,
   "found_at": "2026-10-30T13:34:12Z"
+ },
+ {
+  "id": "8f6b34ee710a3cfc",
+  "title": "Ends 10/31: Kingdom Come Deliverance: Royal Edition (Nintendo Switch Digital Download) $4.99",
+  "url": "https://slickdeals.net/f/20232186-ends-10-31-kingdom-come-deliverance-royal-edition-nintendo-switch-digital-download-4-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "90% off",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": true,
+  "pct": 90,
+  "price": 4.99,
+  "found_at": "2026-10-30T13:39:17Z"
+ },
+ {
+  "id": "3ef2276a7177534a",
+  "title": "Tom Ford Lip Color Matte #15 W...nger, 3g/0.1 Ounce (TFT0T3150) - down 20.75% ($12.24) to $46.76 from $59.00",
+  "url": "https://camelcamelcamel.com/product/B005MZQ04I",
+  "why": "",
+  "category": "fragrance",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.24,
+  "found_at": "2026-10-30T13:39:17Z"
+ },
+ {
+  "id": "d6fc55b00383b54a",
+  "title": "Garmin Nuvi 2000 Series (2200,... 2450, 2450LM, 2460LT, 2460LMT - down 7.69% ($0.40) to $4.80 from $5.20",
+  "url": "https://camelcamelcamel.com/product/B005CA4EOG",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 0.4,
+  "found_at": "2026-10-30T13:39:17Z"
+ },
+ {
+  "id": "1e999a653fbaa137",
+  "title": "Citizen Quartz Mens Watch, Stainless Steel with Leather strap, Casual, Black (Model: BI5000-01A) $112.95",
+  "url": "https://slickdeals.net/f/20231400-citizen-quartz-mens-watch-stainless-steel-with-leather-strap-casual-black-model-bi5000-01a-112-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 112.95,
+  "found_at": "2026-10-30T13:39:17Z"
  }
 ]
