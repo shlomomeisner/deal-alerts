@@ -1,57 +1,5 @@
 [
  {
-  "id": "d497233e3176304b",
-  "title": "Apple Watch Series 10 GPS + Cellular Smartwatch: 46mm $325, 42mm $300 + Free S&H w/ Prime",
-  "url": "https://slickdeals.net/f/20212818-apple-watch-series-10-gps-cellular-smartwatch-46mm-325-42mm-300-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 325.0,
-  "found_at": "2026-10-29T23:29:35Z"
- },
- {
-  "id": "d1496835f91b778e",
-  "title": "GETPALS Wireless Charger iPhone Charging Station for Apple Multiple Devices $9.17 AC",
-  "url": "https://slickdeals.net/f/20210610-getpals-wireless-charger-iphone-charging-station-for-apple-multiple-devices-9-17-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 9.17,
-  "found_at": "2026-10-29T23:29:35Z"
- },
- {
-  "id": "0f58df27a7c02bf0",
-  "title": "Apple AirTag 1 pack (2nd generation) $23",
-  "url": "https://slickdeals.net/f/20207544-apple-airtag-1-pack-2nd-generation-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 23.0,
-  "found_at": "2026-10-29T23:29:35Z"
- },
- {
-  "id": "30e11f7595e6313b",
-  "title": "Samsung EDU/EPP Unlocked Samsung Galaxy S26 Ultra 256 GB plus $300 for accessories $879.99",
-  "url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Galaxy Watch",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 300.0,
-  "found_at": "2026-10-29T23:29:35Z"
- },
- {
   "id": "f05a92a5f5968d90",
   "title": "Samsung EDU/EPP Unlocked Galaxy Z fold8 256GB plus $400 for accessories $1404.99",
   "url": "https://slickdeals.net/f/20224902-samsung-edu-epp-unlocked-galaxy-z-fold8-256gb-plus-400-for-accessories-1404-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 84.0,
   "found_at": "2026-10-30T03:52:42Z"
+ },
+ {
+  "id": "5245bf1d242f83f3",
+  "title": "EPP/EDU: 27\" Samsung Odyssey G80SH 4K 240Hz OLED Gaming Monitor w/ 98W USB-C $500 + Free S&H",
+  "url": "https://slickdeals.net/f/20229042-epp-edu-27-samsung-odyssey-g80sh-4k-240hz-oled-gaming-monitor-w-98w-usb-c-499-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 500.0,
+  "found_at": "2026-10-30T03:57:45Z"
+ },
+ {
+  "id": "75f428bcc72634cf",
+  "title": "Bulova Men's Marine Star Two-Tone Stainless Steel Chronograph Quartz Watch, Blue Dial Style: 98H37 $296.08",
+  "url": "https://slickdeals.net/f/20229144-bulova-men-s-marine-star-two-tone-stainless-steel-chronograph-quartz-watch-blue-dial-style-98h37-296-08?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Bulova",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 296.08,
+  "found_at": "2026-10-30T03:57:45Z"
+ },
+ {
+  "id": "574596136ca9f349",
+  "title": "Bulova Men's Marine Star 'Series B' Silver Stainless Steel Quartz Watch, Blue Leather and Black Silicone Strap, 43mm Style: 96B419 $242.24",
+  "url": "https://slickdeals.net/f/20229135-bulova-men-s-marine-star-series-b-silver-stainless-steel-quartz-watch-blue-leather-and-black-silicone-strap-43mm-style-96b419-242-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Bulova",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 242.24,
+  "found_at": "2026-10-30T03:57:45Z"
+ },
+ {
+  "id": "5d6846b2cad575c7",
+  "title": "Bulova Men's Classic 3-Hand Calendar Date Quartz Leather Strap Watch, Buckle, 37mm Style:97B100 $209.99",
+  "url": "https://slickdeals.net/f/20215749-bulova-men-s-classic-3-hand-calendar-date-quartz-leather-strap-watch-buckle-37mm-style-97b100-209-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Bulova",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 209.99,
+  "found_at": "2026-10-30T03:57:45Z"
  }
 ]
