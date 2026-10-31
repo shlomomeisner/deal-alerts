@@ -1,57 +1,5 @@
 [
  {
-  "id": "4239df8ec87e36c3",
-  "title": "Friday’s iOS app deals and freebies: Bendy, Down in Bermuda, Maneater, more",
-  "url": "https://9to5toys.com/2026/10/30/app-store-deals-grim-fandango-remastered/",
-  "why": "Macbook — all-time low",
-  "category": "tech",
-  "source": "9to5Toys",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-31T12:44:20Z"
- },
- {
-  "id": "105a0b40492ff415",
-  "title": "Pixel Buds Pro 2 hit one of the best prices of 2026 at over 25% off, Olive set at new Amazon low",
-  "url": "https://9to5toys.com/2026/10/30/google-pixel-buds-pro-2-early-black-friday-deal/",
-  "why": "Pixel — best price ever",
-  "category": "watches",
-  "source": "9to5Toys",
-  "urgent": false,
-  "hot": true,
-  "pct": 25,
-  "price": null,
-  "found_at": "2026-10-31T12:44:20Z"
- },
- {
-  "id": "23b4be28414349d4",
-  "title": "Latest Bose Lifestyle Ultra Home Speaker with AirPlay and Google Cast hits all-time low at $70 off",
-  "url": "https://9to5toys.com/2026/10/30/latest-bose-lifestyle-ultra-home-speaker-airplay-google-cast-lowest-price/",
-  "why": "Bose — all-time low",
-  "category": "tech",
-  "source": "9to5Toys",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 70.0,
-  "found_at": "2026-10-31T12:44:20Z"
- },
- {
-  "id": "6af3b70e854032dd",
-  "title": "Official Google Pixelsnap cases for Pixel 11 series drop back to Amazon all-time lows today",
-  "url": "https://9to5toys.com/2026/10/30/google-pixelsnap-cases-for-pixel/",
-  "why": "Pixel — all-time low",
-  "category": "watches",
-  "source": "9to5Toys",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-31T12:44:20Z"
- },
- {
   "id": "d1357979fb5eb650",
   "title": "Pixel Watch 5 hits all-time low at $100 off today (All colors, sizes, and Steph Curry Edition)",
   "url": "https://9to5toys.com/2026/10/30/pixel-watch-5-all-time-low-doorbuster-deals/",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 109.0,
   "found_at": "2026-10-31T14:29:16Z"
+ },
+ {
+  "id": "2401e88691c6ea9d",
+  "title": "$57.59 | 3.4-Oz Versace Eros Energy Pour Homme Eau de Parfum at Woot!",
+  "url": "https://slickdeals.net/f/20231649-57-59-3-4-oz-versace-eros-energy-pour-homme-eau-de-parfum-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Le Labo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 57.59,
+  "found_at": "2026-10-31T14:34:27Z"
+ },
+ {
+  "id": "0d3b83a9cff4f58b",
+  "title": "3.38-Oz Charlotte Tilbury Magic Energy Eau de Parfum $75 + Free Shipping",
+  "url": "https://slickdeals.net/f/20216409-3-38-oz-charlotte-tilbury-magic-energy-eau-de-parfum-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Le Labo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 75.0,
+  "found_at": "2026-10-31T14:34:27Z"
+ },
+ {
+  "id": "4a8afe66f1be41c8",
+  "title": "$54.99* | 3.4-Oz Versace Eros Energy Pour Homme Eau de Parfum at Amazon",
+  "url": "https://slickdeals.net/f/20171211-54-99-3-4-oz-versace-eros-energy-pour-homme-eau-de-parfum-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Le Labo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.99,
+  "found_at": "2026-10-31T14:34:27Z"
+ },
+ {
+  "id": "4308ef8bbb0bbadd",
+  "title": "1.6-Oz Hugo Boss Bottled Absolu Parfum Intense $59.97 ~ Nordstrom Rack",
+  "url": "https://slickdeals.net/f/20149407-1-6-oz-hugo-boss-bottled-absolu-parfum-intense-59-97-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Le Labo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.97,
+  "found_at": "2026-10-31T14:34:27Z"
  }
 ]
