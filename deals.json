@@ -1,44 +1,5 @@
 [
  {
-  "id": "f69e32f4a83cfbac",
-  "title": "100$ patagonia gift",
-  "url": "https://slickdeals.net/f/20075610-100-patagonia-gift?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Patagonia",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-31T05:25:06Z"
- },
- {
-  "id": "d3da9aa84ae3a6c8",
-  "title": "Patagonia Men's P-6 LoPro Trucker Hat (Black) $18.83 + Free Store Pickup at REI or Free Shipping on $60+",
-  "url": "https://slickdeals.net/f/20065365-patagonia-men-s-p-6-lopro-trucker-hat-black-18-83-free-store-pickup-at-rei-or-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Patagonia",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 18.83,
-  "found_at": "2026-10-31T05:25:06Z"
- },
- {
-  "id": "5698539c98c75da4",
-  "title": "Earn $100 Patagonia credit when you help get out the vote Did this and already got my $100 code. Easy!",
-  "url": "https://slickdeals.net/f/20064108-earn-100-patagonia-credit-when-you-help-get-out-the-vote-did-this-and-already-got-my-100-code-easy?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Patagonia",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 100.0,
-  "found_at": "2026-10-31T05:25:06Z"
- },
- {
   "id": "3b9eab2152ca41bf",
   "title": "Patagonia Airfarer Cap (Chouinard Crest/Yellow) $18.83 + Free Store Pickup at REI or Free Shipping on $60+",
   "url": "https://slickdeals.net/f/20048685-patagonia-airfarer-cap-chouinard-crest-yellow-18-83-free-store-pickup-at-rei-or-free-shipping-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 799.0,
   "found_at": "2026-10-31T07:16:12Z"
+ },
+ {
+  "id": "c7223690d3fc92a9",
+  "title": "Kingdom Come Deliverance: Royal Edition (Switch Digital Download) $5",
+  "url": "https://slickdeals.net/f/20232186-ends-10-31-kingdom-come-deliverance-royal-edition-nintendo-switch-digital-download-4-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "90% off",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": true,
+  "pct": 90,
+  "price": 5.0,
+  "found_at": "2026-10-31T07:21:25Z"
+ },
+ {
+  "id": "9ebc701df92b3029",
+  "title": "Baseus Inspire XC1 Open Ear Clip-On Earbuds w/ Sound by Bose & Dolby Spatial Audio $79.99 + Free Shipping",
+  "url": "https://slickdeals.net/f/20222349-baseus-inspire-xc1-open-ear-clip-on-earbuds-w-sound-by-bose-dolby-spatial-audio-79-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-10-31T07:21:25Z"
+ },
+ {
+  "id": "484f8660595ec593",
+  "title": "CRKD ULT PRO Wireless Gaming Controller for Switch 2",
+  "url": "https://slickdeals.net/f/20235456-crkd-ult-pro-wireless-gaming-controller-for-switch-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": 21,
+  "price": null,
+  "found_at": "2026-10-31T07:21:25Z"
  }
 ]
