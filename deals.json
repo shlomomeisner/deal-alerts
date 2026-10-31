@@ -1,31 +1,5 @@
 [
  {
-  "id": "5ba3756ebb38d0ac",
-  "title": "Tom Ford Soleil Neige Eau de Parfum Travel Spray $37.50 + Free Shipping",
-  "url": "https://slickdeals.net/f/18329203-tom-ford-soleil-neige-eau-de-parfum-travel-spray-37-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: Tom Ford Oud",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 37.5,
-  "found_at": "2026-10-30T22:27:17Z"
- },
- {
-  "id": "299fab8f8f3ffc1b",
-  "title": "[WOOT] Armani Acqua di Gio Parfum 3.3 oz Men - $95.99 after 20% extra discount",
-  "url": "https://slickdeals.net/f/20060397-woot-armani-acqua-di-gio-parfum-3-3-oz-men-95-99-after-20-extra-discount?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: Acqua Di Gio",
-  "urgent": false,
-  "hot": false,
-  "pct": 20,
-  "price": 95.99,
-  "found_at": "2026-10-30T22:27:17Z"
- },
- {
   "id": "bd3b83354309a823",
   "title": "Armani 2-Pc. Acqua Di Gio Eau de Parfum Spray Intense (3.4oz) and Travel Spray( 0.33 oz) $82.5",
   "url": "https://slickdeals.net/f/19774044-armani-2-pc-acqua-di-gio-eau-de-parfum-spray-intense-3-4oz-and-travel-spray-0-33-oz-82-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T00:19:55Z"
+ },
+ {
+  "id": "280b33612df586ce",
+  "title": "Bose - QuietComfort Headphones (2nd Gen) - Wireless, Over Ear, Active Noise Cancelling, Immersive Audio, USB-C Charging - Hazelnut Taupe",
+  "url": "https://slickdeals.net/f/20234193-bose-quietcomfort-headphones-2nd-gen-wireless-over-ear-active-noise-cancelling-immersive-audio-usb-c-charging-hazelnut-taupe?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Bose",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-31T00:25:01Z"
+ },
+ {
+  "id": "4d5e94bfb12558c4",
+  "title": "Bose - QuietComfort Wireless Noise Cancelling Over-the-Ear Bluetooth Headphones - Sandstone $169",
+  "url": "https://slickdeals.net/f/20234175-bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-sandstone-169?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Bose",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.0,
+  "found_at": "2026-10-31T00:25:01Z"
  }
 ]
