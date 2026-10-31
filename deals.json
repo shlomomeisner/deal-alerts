@@ -1,31 +1,5 @@
 [
  {
-  "id": "3b5e8d8eda24e890",
-  "title": "TOM FORD Beau de Jour Eau de Parfum Fragrance 3.4 oz/ 100 mL $120",
-  "url": "https://slickdeals.net/f/18546340-tom-ford-beau-de-jour-eau-de-parfum-fragrance-3-4-oz-100-ml-120?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: Tom Ford Oud",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 120.0,
-  "found_at": "2026-10-31T08:26:01Z"
- },
- {
-  "id": "a522e7ee9dc78ed1",
-  "title": "Costco Members: 3.4 fl oz Tom Ford Black Orchid or Grey Vetiver Eau de Parfum $100 each",
-  "url": "https://slickdeals.net/f/18504598-costco-members-3-4-fl-oz-tom-ford-black-orchid-or-grey-vetiver-eau-de-parfum-100-each?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: Tom Ford Oud",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 100.0,
-  "found_at": "2026-10-31T08:26:01Z"
- },
- {
   "id": "48a062c01d26937f",
   "title": "Tom Ford Black Orchid Eau de Parfum $137.72",
   "url": "https://slickdeals.net/f/18492601-tom-ford-black-orchid-eau-de-parfum-137-72?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T11:20:00Z"
+ },
+ {
+  "id": "3b227c4127a115e1",
+  "title": "2 day Sale: Parfums De Marly Fragrances Sale Event from $96.99+Free Shipping",
+  "url": "https://slickdeals.net/f/16120693-2-day-sale-parfums-de-marly-fragrances-sale-event-from-96-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Fragrance 44% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Parfums De Marly",
+  "urgent": false,
+  "hot": true,
+  "pct": 44,
+  "price": 96.99,
+  "found_at": "2026-10-31T11:25:12Z"
+ },
+ {
+  "id": "fc40d5dcc4ee9ca6",
+  "title": "Pre-Owned Hermes Birkin Handbag Grey Togo with Palladium Hardware 35 at Nordstrom, Size Medium",
+  "url": "https://slickdeals.net/f/20199510-pre-owned-hermes-birkin-handbag-grey-togo-with-palladium-hardware-35-at-nordstrom-size-medium?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Nordstrom Designer",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-10-31T11:25:12Z"
  }
 ]
