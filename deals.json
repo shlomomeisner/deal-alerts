@@ -1,57 +1,5 @@
 [
  {
-  "id": "350226c4d0aa6a77",
-  "title": "13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD $1399 + Free SH",
-  "url": "https://slickdeals.net/f/20233869-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-1399-free-sh?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 139.0,
-  "found_at": "2026-10-31T01:12:29Z"
- },
- {
-  "id": "34e018ebd0829041",
-  "title": "Targus - HyperShield Magnetic Privacy Screen for MacBook Neo - Black $19.99 Bestbuy.com",
-  "url": "https://slickdeals.net/f/20225973-targus-hypershield-magnetic-privacy-screen-for-macbook-neo-black-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 19.99,
-  "found_at": "2026-10-31T01:12:29Z"
- },
- {
-  "id": "d552da446ed44b56",
-  "title": "(NEW) Apple Watch Series 11 Smartwatch [GPS + Cellular] - Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant $338.53",
-  "url": "https://slickdeals.net/f/20232045-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-338-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 338.53,
-  "found_at": "2026-10-31T01:12:29Z"
- },
- {
-  "id": "10a3d2c2600a4551",
-  "title": "Pugo Top Stainless Steel Band for Apple Watch (various) from $9.50 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20224668-pugo-top-stainless-steel-band-for-apple-watch-various-from-9-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Apple Watch 50% off",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Series",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 9.5,
-  "found_at": "2026-10-31T01:12:29Z"
- },
- {
   "id": "a2a4fa7178389ad2",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
   "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-10-31T04:11:29Z"
+ },
+ {
+  "id": "2ab2a59cffe5447c",
+  "title": "Unlocked Google Pixel 11 Pro 6.3\" 256GB Smartphone for $799 + free shipping",
+  "url": "https://www.dealnews.com/Unlocked-Google-Pixel-11-Pro-6-3-256-GB-Smartphone-for-799-free-shipping/22328028.html?iref=rss",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.0,
+  "found_at": "2026-10-31T04:16:39Z"
+ },
+ {
+  "id": "1e490e55ac652037",
+  "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic, Silver-Tone (Model: BI1030-53A) $106.95",
+  "url": "https://slickdeals.net/f/20231385-citizen-quartz-mens-watch-stainless-steel-classic-silver-tone-model-bi1030-53a-106-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 106.95,
+  "found_at": "2026-10-31T04:16:39Z"
+ },
+ {
+  "id": "506f55da4848b0fa",
+  "title": "Citizen Analog Black Dial Men's Watch-BI5017-50E $89",
+  "url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.0,
+  "found_at": "2026-10-31T04:16:39Z"
+ },
+ {
+  "id": "1a826a23ec204049",
+  "title": "Apple MacBook Air (13-inch) with Apple M5, 16GB RAM, 512GB SSD $1099.99",
+  "url": "https://slickdeals.net/f/20235189-apple-macbook-air-13-inch-with-apple-m5-16gb-ram-512gb-ssd-1099-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 109.0,
+  "found_at": "2026-10-31T04:16:39Z"
  }
 ]
