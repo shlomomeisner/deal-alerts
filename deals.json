@@ -1,18 +1,5 @@
 [
  {
-  "id": "df9280e19aa77f92",
-  "title": "Insane Pricing - Creality K3 Multi-Material 3D Printer $721.65",
-  "url": "https://slickdeals.net/f/20182452-insane-pricing-creality-k3-multi-material-3d-printer-721-65?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Beats",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 721.65,
-  "found_at": "2026-10-31T17:43:27Z"
- },
- {
   "id": "56746cf992e80e01",
   "title": "$7.60* | Beats USB-C to USB-C Woven Short Cable (8 in, 20 cm) - Bolt Black at Amazon",
   "url": "https://slickdeals.net/f/20161383-7-60-beats-usb-c-to-usb-c-woven-short-cable-8-in-20-cm-bolt-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 4.94,
   "found_at": "2026-10-31T19:29:09Z"
+ },
+ {
+  "id": "5a0f96be7ca84055",
+  "title": "DIPTYQUE L'OMBRE DANS L'EAU by Diptyque, EDT SPRAY 3.4 OZ - down 15.08% ($27.95) to $157.44 from $185.39",
+  "url": "https://camelcamelcamel.com/product/B0C16HQ38P",
+  "why": "",
+  "category": "amazon",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 27.95,
+  "found_at": "2026-10-31T19:34:15Z"
  }
 ]
