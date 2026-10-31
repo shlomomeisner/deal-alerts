@@ -1,0 +1,46 @@
+name: Deal watcher
+
+# GitHub runs scheduled jobs late and rarely on small repos, so each run stays
+# alive for ~55 minutes and scans every 5 minutes itself. The schedule below
+# just makes sure a new run starts as soon as the last one ends.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deal-watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 62
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scan every 5 minutes for ~55 minutes
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || 'shlomo-deals-5b8e55ffde' }}
+        run: |
+          git config user.name "deal-watcher"
+          git config user.email "deal-watcher@users.noreply.github.com"
+          for i in $(seq 1 11); do
+            echo "::group::Scan $i at $(date -u +%H:%M)"
+            python watcher.py || echo "scan failed, trying again next round"
+            python cleanup.py || echo "cleanup failed, trying again next round"
+            python pricewatch.py || echo "price alerts failed, trying again next round"
+            if [ -n "$(git status --porcelain seen.json deals.json hunted.json status.json watches.json)" ]; then
+              git add seen.json deals.json hunted.json status.json watches.json 2>/dev/null || git add seen.json
+              git commit -q -m "update seen deals"
+              git pull --rebase -q || { git rebase --abort; git pull --no-rebase -q -X ours; }
+              git push -q || echo "push failed, will retry next round"
+            fi
+            echo "::endgroup::"
+            if [ "$i" -lt 11 ]; then sleep 290; fi
+          done

@@ -304,7 +304,7 @@ def main():
                 "found_at": now,
             })
         with open(DEALS, "w", encoding="utf-8") as f:
-            json.dump(deals[-600:], f, indent=1, ensure_ascii=False)
+            json.dump(deals[-2000:], f, indent=1, ensure_ascii=False)
 
     seen_list.extend(new_ids)
     with open(SEEN, "w", encoding="utf-8") as f:
