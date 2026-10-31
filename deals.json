@@ -1,57 +1,5 @@
 [
  {
-  "id": "c34560029a931d78",
-  "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 256GB, White, 2026, US 1 Year Warranty",
-  "url": "https://slickdeals.net/f/20182113-samsung-galaxy-s26-ultra-unlocked-android-smartphone-256gb-white-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Galaxy S26",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
-  "id": "bd600f4d60d3fb89",
-  "title": "PRIME MEMBERS: GREPRO 100W Laptop Power Bank, 20000mAh 130W Total Aluminum Alloy USB C Fast Charging Portable Charger $29.99 AC + Free Shipping",
-  "url": "https://slickdeals.net/f/20181012-prime-members-grepro-100w-laptop-power-bank-20000mah-130w-total-aluminum-alloy-usb-c-fast-charging-portable-charger-29-99-ac-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Galaxy S26",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 29.99,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
-  "id": "966a68a3690f799b",
-  "title": "KPON for Samsung 3 in 1 Charging Station, Magnetic Wireless Charger Stand for MagSafe $15.74 AC",
-  "url": "https://slickdeals.net/f/20177712-kpon-for-samsung-3-in-1-charging-station-magnetic-wireless-charger-stand-for-magsafe-15-74-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Galaxy S26",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.74,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
-  "id": "65ff4661a3935252",
-  "title": "UGREEN 130W USB C Car Charger with Cable, Type C Cigarette Lighter Adapter $22.47",
-  "url": "https://slickdeals.net/f/20174235-ugreen-130w-usb-c-car-charger-with-cable-type-c-cigarette-lighter-adapter-22-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Galaxy S26",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 22.47,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
   "id": "ad2e9ce807b54e2e",
   "title": "UGREEN 240W USB C Cable 2-Pack, Fast Charging for Laptops & Phones, 6.6ft $13.99",
   "url": "https://slickdeals.net/f/20171553-ugreen-240w-usb-c-cable-2-pack-fast-charging-for-laptops-phones-6-6ft-13-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-10-31T16:03:48Z"
+ },
+ {
+  "id": "f9e0c4854f9817c0",
+  "title": "40%off TOM FORD Men's Suede-Leather Sartorial Blazer $5814",
+  "url": "https://slickdeals.net/f/16241629-40-off-tom-ford-men-s-suede-leather-sartorial-blazer-5814?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Tom Ford 40% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Neiman Marcus",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": 581.0,
+  "found_at": "2026-10-31T16:08:56Z"
+ },
+ {
+  "id": "086873fa9721c914",
+  "title": "Wilton Bath Towel in the color Vintage Sky for $15",
+  "url": "https://slickdeals.net/f/16163620-wilton-bath-towel-in-the-color-vintage-sky-for-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Neiman Marcus",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.0,
+  "found_at": "2026-10-31T16:08:56Z"
+ },
+ {
+  "id": "a1eb753ad86d4d62",
+  "title": "Lancome Idole Perfume, Mother’s Day Gift Set ($175 Value) - $108 Clearance Price!",
+  "url": "https://slickdeals.net/f/15940465-lancome-idole-perfume-mother-s-day-gift-set-175-value-108-clearance-price?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Neiman Marcus",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 175.0,
+  "found_at": "2026-10-31T16:08:56Z"
+ },
+ {
+  "id": "718890424da4fabc",
+  "title": "Google Pixel 11 drops to $699, its lowest price ever - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkY2eWswcl91UjVITW5aNTdaalJXV2xzRDZwMzZOSUlkWllNY3c0ZkU4WUVEY0xsd2NPbVVZa2R5Vm5aU0J0aGV1NjFoQnFMcGxkaVJiVlVDX1NFaTRIQ2pMMEJLZlFmdHFOTy1ZdlRFdC1acEJXcTZoTWRCMEhBemdnX2dYYjlUVEE4NWlPT2JuSFJnZHlRZEtUT0s2Vy1ReFV4RXZjS0pXUWlGNmtsN28xQnNxX2pD?oc=5",
+  "why": "Pixel — lowest price ever",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-10-31T16:08:56Z"
  }
 ]
