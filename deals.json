@@ -1,44 +1,5 @@
 [
  {
-  "id": "037fdf6a4f3cb30a",
-  "title": "[NEW] $79.99 | GoPro The Remote - Official GoPro Accessory at Amazon",
-  "url": "https://slickdeals.net/f/19907718-new-79-99-gopro-the-remote-official-gopro-accessory-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Gopro Hero",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 79.99,
-  "found_at": "2026-10-31T05:51:24Z"
- },
- {
-  "id": "2858ff340c9077da",
-  "title": "GoPro HERO13 Black Action Camera Bundle $354.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/19890483-gopro-hero13-black-action-camera-bundle-354-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Gopro Hero",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 354.99,
-  "found_at": "2026-10-31T05:51:24Z"
- },
- {
-  "id": "4faf03bc8fa1ba94",
-  "title": "GoPro HERO13 Black + HB-Series Lens Collection - Includes Macro Lens, Ultra Wide Lens, 4 ND Filters, Anamorphic Lens, and Premium Case $599.99",
-  "url": "https://slickdeals.net/f/19888413-gopro-hero13-black-hb-series-lens-collection-includes-macro-lens-ultra-wide-lens-4-nd-filters-anamorphic-lens-and-premium-case-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Gopro Hero",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 599.99,
-  "found_at": "2026-10-31T05:51:24Z"
- },
- {
   "id": "5642f221fc6c2cfa",
   "title": "$354.99* | GoPro HERO13 Black Accessory Bundle at Amazon",
   "url": "https://slickdeals.net/f/19888029-354-99-gopro-hero13-black-accessory-bundle-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-10-31T07:10:31Z"
+ },
+ {
+  "id": "02d428532837c41b",
+  "title": "Slim Metal Band for Apple Watch for $11 + free shipping w/ Prime",
+  "url": "https://www.dealnews.com/Slim-Metal-Band-for-Apple-Watch-for-11-free-shipping-w-Prime/22327348.html?iref=rss",
+  "why": "",
+  "category": "watches",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.0,
+  "found_at": "2026-10-31T07:15:40Z"
+ },
+ {
+  "id": "7e0f8b61c2adcc72",
+  "title": "Stiroll Slim Leather Apple Watch Band for $7.59 w/ Prime + free shipping w/ Prime",
+  "url": "https://www.dealnews.com/Stiroll-Slim-Leather-Apple-Watch-Band-for-7-59-w-Prime-free-shipping-w-Prime/22327350.html?iref=rss",
+  "why": "",
+  "category": "watches",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.59,
+  "found_at": "2026-10-31T07:15:40Z"
+ },
+ {
+  "id": "0e574d6c14c23138",
+  "title": "lululemon We Made Too Much Specials: Up to 84% off + free shipping",
+  "url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Specials-Up-to-84-off-free-shipping/22327334.html?iref=rss",
+  "why": "Lululemon 84% off",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 84,
+  "price": null,
+  "found_at": "2026-10-31T07:15:40Z"
  }
 ]
