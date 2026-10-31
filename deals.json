@@ -1,31 +1,5 @@
 [
  {
-  "id": "84decdc4ecaebf70",
-  "title": "Bose QC SC over ear headphones YMMV @Costco",
-  "url": "https://slickdeals.net/f/20194647-bose-qc-sc-over-ear-headphones-ymmv-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Bose",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-10-31T19:50:14Z"
- },
- {
-  "id": "d7c77422aa7cd2be",
-  "title": "Bose QuietComfort Ultra Headphones (2nd Gen) - Refurbished $279 Various Colors",
-  "url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Bose",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 279.0,
-  "found_at": "2026-10-31T19:50:14Z"
- },
- {
   "id": "ef9e3e1a10494a5b",
   "title": "Maui Jim Polarized Sunglasses (Various Styles & Colors) $99",
   "url": "https://slickdeals.net/f/20237034-maui-jim-polarized-sunglasses-various-styles-colors-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 33.75,
   "found_at": "2026-10-31T21:04:31Z"
+ },
+ {
+  "id": "ca4f1dda3f1567f9",
+  "title": "Bose QuietComfort ANC Over Ear Headphones (Various) $169 + Free S&H",
+  "url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.0,
+  "found_at": "2026-10-31T21:09:37Z"
+ },
+ {
+  "id": "edb53ad9fd1e28d2",
+  "title": "GUESS Seductive Noir for Men Eau de Toilette, 1.7 Fl Oz - down 51.73% ($18.10) to $16.89 from $34.99",
+  "url": "https://camelcamelcamel.com/product/B09RD41XHS",
+  "why": "",
+  "category": "fragrance",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 18.1,
+  "found_at": "2026-10-31T21:09:37Z"
  }
 ]
