@@ -1,31 +1,5 @@
 [
  {
-  "id": "334928998847f8dd",
-  "title": "$133.70: Ray-Ban RB3025 Classic Aviator Sunglasses, Sand Transparent Grey/G-15 Green, 62 mm",
-  "url": "https://slickdeals.net/f/19594503-133-70-ray-ban-rb3025-classic-aviator-sunglasses-sand-transparent-grey-g-15-green-62-mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Ray-Ban",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 133.7,
-  "found_at": "2026-10-31T05:25:06Z"
- },
- {
-  "id": "66e8edb0e19119c7",
-  "title": "Ray-Ban Women's Erika Round Sunglasses (Rubber Black/Light Grey Gradient Dark, RB4171) $79 + Free Shipping",
-  "url": "https://slickdeals.net/f/19580658-ray-ban-women-s-erika-round-sunglasses-rubber-black-light-grey-gradient-dark-rb4171-79-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Ray-Ban",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 79.0,
-  "found_at": "2026-10-31T05:25:06Z"
- },
- {
   "id": "c0569232af210404",
   "title": "Refurbished (Excellent): Ray-Ban Meta Wayfarer (Gen 1), Matte Black / Gradient Graphite Polar + Free Shipping $197",
   "url": "https://slickdeals.net/f/19560705-refurbished-excellent-ray-ban-meta-wayfarer-gen-1-matte-black-gradient-graphite-polar-free-shipping-197?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 3.0,
   "found_at": "2026-10-31T06:49:37Z"
+ },
+ {
+  "id": "c975c22e78eda003",
+  "title": "256GB Apple iPhone Air Unlocked Smartphone (Various Colors) $800 + Free S&H",
+  "url": "https://slickdeals.net/f/20232726-apple-iphone-air-256gb-unlocked-space-black-799?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 800.0,
+  "found_at": "2026-10-31T06:54:42Z"
+ },
+ {
+  "id": "718890424da4fabc",
+  "title": "Google Pixel 11 drops to $699, its lowest price ever - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkY2eWswcl91UjVITW5aNTdaalJXV2xzRDZwMzZOSUlkWllNY3c0ZkU4WUVEY0xsd2NPbVVZa2R5Vm5aU0J0aGV1NjFoQnFMcGxkaVJiVlVDX1NFaTRIQ2pMMEJLZlFmdHFOTy1ZdlRFdC1acEJXcTZoTWRCMEhBemdnX2dYYjlUVEE4NWlPT2JuSFJnZHlRZEtUT0s2Vy1ReFV4RXZjS0pXUWlGNmtsN28xQnNxX2pD?oc=5",
+  "why": "Pixel — lowest price ever",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-10-31T06:54:42Z"
  }
 ]
