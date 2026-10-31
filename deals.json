@@ -1,44 +1,5 @@
 [
  {
-  "id": "9d2dec4d35bd10d6",
-  "title": "Mario + Rabbids Kingdom Battle & Sparks of Hope (Nintendo Switch, Code in a Box) - $14.99 @ Amazon",
-  "url": "https://slickdeals.net/f/20234097-mario-rabbids-kingdom-battle-sparks-of-hope-nintendo-switch-code-in-a-box-14-99-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Amazon",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 14.99,
-  "found_at": "2026-10-30T23:47:17Z"
- },
- {
-  "id": "29dc342ec10dd095",
-  "title": "Hamilton Beach Commercial QS85...d Sound Enclosure, Transparent - down 7.21% ($7.94) to $102.17 from $110.11",
-  "url": "https://camelcamelcamel.com/product/B01NC26SCC",
-  "why": "",
-  "category": "watches",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 7.94,
-  "found_at": "2026-10-30T23:47:17Z"
- },
- {
-  "id": "073a82e107dcc787",
-  "title": "13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD $1399 + Free SH",
-  "url": "https://slickdeals.net/f/20233869-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-1399-free-sh?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 139.0,
-  "found_at": "2026-10-30T23:47:17Z"
- },
- {
   "id": "30470123ad1318fa",
   "title": "Pre-Order: Metroid Ravenous (Nintendo Switch 2) $59.88 @ Walmart",
   "url": "https://slickdeals.net/f/20234136-pre-order-metroid-ravenous-nintendo-switch-2-59-88-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7759,44 @@
   "pct": null,
   "price": 13.19,
   "found_at": "2026-10-31T03:34:34Z"
+ },
+ {
+  "id": "3df6a34eff01d7d4",
+  "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic, Silver-Tone (Model: BI1030-53A) $106.95",
+  "url": "https://slickdeals.net/f/20231385-citizen-quartz-mens-watch-stainless-steel-classic-silver-tone-model-bi1030-53a-106-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 106.95,
+  "found_at": "2026-10-31T03:39:45Z"
+ },
+ {
+  "id": "032d85a3e6398f4c",
+  "title": "007 FIRST LIGHT - LEGACY EDITION - PlayStation 5 or Xbox Series X",
+  "url": "https://slickdeals.net/f/20234955-007-first-light-legacy-edition-playstation-5-or-xbox-series-x?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-31T03:39:45Z"
+ },
+ {
+  "id": "718890424da4fabc",
+  "title": "Google Pixel 11 drops to $699, its lowest price ever - Android Headlines",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkY2eWswcl91UjVITW5aNTdaalJXV2xzRDZwMzZOSUlkWllNY3c0ZkU4WUVEY0xsd2NPbVVZa2R5Vm5aU0J0aGV1NjFoQnFMcGxkaVJiVlVDX1NFaTRIQ2pMMEJLZlFmdHFOTy1ZdlRFdC1acEJXcTZoTWRCMEhBemdnX2dYYjlUVEE4NWlPT2JuSFJnZHlRZEtUT0s2Vy1ReFV4RXZjS0pXUWlGNmtsN28xQnNxX2pD?oc=5",
+  "why": "Pixel — lowest price ever",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-10-31T03:39:45Z"
  }
 ]
