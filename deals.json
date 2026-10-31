@@ -1,57 +1,5 @@
 [
  {
-  "id": "a62f48c2ce324324",
-  "title": "Samsung Galaxy S9 Case - Pelic...amsung Galaxy S9 (Clear/Black) - down 6.93% ($0.57) to $7.65 from $8.22",
-  "url": "https://camelcamelcamel.com/product/B07BFGLTG1",
-  "why": "",
-  "category": "tech",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 0.57,
-  "found_at": "2026-10-31T16:03:48Z"
- },
- {
-  "id": "099ec68293017eab",
-  "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount - MacRumors",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JODlqbnoxcllBQklma1c1bHRJQ0RsN18wTXpfaEJJM2wtbGlWOHhUampIdlRMSk5ybWFyRWlDNExEX3B3QXFnbWZSUmZjOGxySUZFeWdGYjhPSjJIZVFyRDVwUmFWcDBySkg4RnVjNmtCZHNPTjlMVHhB?oc=5",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "Google: Apple deal",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 99.0,
-  "found_at": "2026-10-31T16:03:48Z"
- },
- {
-  "id": "f097ce2cb1c30435",
-  "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
-  "url": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "MacRumors deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 99.0,
-  "found_at": "2026-10-31T16:03:48Z"
- },
- {
-  "id": "f9e0c4854f9817c0",
-  "title": "40%off TOM FORD Men's Suede-Leather Sartorial Blazer $5814",
-  "url": "https://slickdeals.net/f/16241629-40-off-tom-ford-men-s-suede-leather-sartorial-blazer-5814?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Tom Ford 40% off",
-  "category": "fragrance",
-  "source": "Slickdeals: Neiman Marcus",
-  "urgent": false,
-  "hot": true,
-  "pct": 40,
-  "price": 581.0,
-  "found_at": "2026-10-31T16:08:56Z"
- },
- {
   "id": "086873fa9721c914",
   "title": "Wilton Bath Towel in the color Vintage Sky for $15",
   "url": "https://slickdeals.net/f/16163620-wilton-bath-towel-in-the-color-vintage-sky-for-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7746,57 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-10-31T17:27:46Z"
+ },
+ {
+  "id": "5eb7ec309477c767",
+  "title": "14\" Apple MacBook Pro: 3024x1964 120Hz, M5 10-Core Chip, 16GB RAM, 1TB SSD $1350 + Free S&H",
+  "url": "https://slickdeals.net/f/20235504-14-apple-macbook-pro-3024x1964-120hz-m5-10-core-chip-16gb-ram-1tb-ssd-1350-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 135.0,
+  "found_at": "2026-10-31T17:32:52Z"
+ },
+ {
+  "id": "e3e6d72c0bb5b58a",
+  "title": "Unlocked Apple iPhone Air 256GB Smartphone for $800 + free shipping",
+  "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 800.0,
+  "found_at": "2026-10-31T17:32:52Z"
+ },
+ {
+  "id": "8e50b6cec8ca27cd",
+  "title": "$13.99* | JSAUX Hard PC Carrying Case for Nintendo Switch 2 (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20236647-13-99-jsaux-hard-pc-carrying-case-for-nintendo-switch-2-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.99,
+  "found_at": "2026-10-31T17:32:52Z"
+ },
+ {
+  "id": "132c58903d5c4a5c",
+  "title": "$13.99* | JSAUX Hard PC Carrying Case for Nintendo Switch 2 (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20236647-13-99-jsaux-hard-pc-carrying-case-for-nintendo-switch-2-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.99,
+  "found_at": "2026-10-31T17:32:52Z"
  }
 ]
