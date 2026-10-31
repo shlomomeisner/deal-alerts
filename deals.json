@@ -1,31 +1,5 @@
 [
  {
-  "id": "4a93c606604573c0",
-  "title": "13.6\" Apple MacBook Air Laptop (2026): M5 Chip, 24GB RAM, 1TB SSD (Various) $1599 + Free S&H",
-  "url": "https://slickdeals.net/f/20199135-13-6-apple-macbook-air-laptop-2026-m5-chip-24gb-ram-1tb-ssd-various-1599-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 159.0,
-  "found_at": "2026-10-30T22:27:17Z"
- },
- {
-  "id": "e796154dcf530893",
-  "title": "$1399 | 13-Inch Apple MacBook Air Laptop with M5 chip (16GB RAM, 1TB SSD, Starlight) at Amazon",
-  "url": "https://slickdeals.net/f/20198316-1399-13-inch-apple-macbook-air-laptop-with-m5-chip-16gb-ram-1tb-ssd-starlight-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 139.0,
-  "found_at": "2026-10-30T22:27:17Z"
- },
- {
   "id": "84936227c02b6d0e",
   "title": "(NEW) Apple Watch Series 11 Smartwatch [GPS + Cellular] - Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant $399.99",
   "url": "https://slickdeals.net/f/20226912-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 24.88,
   "found_at": "2026-10-31T01:12:29Z"
+ },
+ {
+  "id": "1f93e19421ee2d6a",
+  "title": "Walmart FS $70 (or $60 ac with code - YMMV) Apple AirTag (2nd Generation) – 4 Pack",
+  "url": "https://slickdeals.net/f/20234550-walmart-fs-70-or-60-ac-with-code-ymmv-apple-airtag-2nd-generation-4-pack?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airtag",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 70.0,
+  "found_at": "2026-10-31T01:17:36Z"
+ },
+ {
+  "id": "b83507b7b209e300",
+  "title": "$3 FS Best Buy Rewards: Insignia™ - 20W 4 ft. Car Charger Kit for Apple iPhone, iPad and iPod - Black (also open box $2 at some B&Ms)",
+  "url": "https://slickdeals.net/f/20234511-3-fs-best-buy-rewards-insignia-20w-4-ft-car-charger-kit-for-apple-iphone-ipad-and-ipod-black-also-open-box-2-at-some-b-ms?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Best Buy Apple",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3.0,
+  "found_at": "2026-10-31T01:17:36Z"
  }
 ]
