@@ -1,31 +1,5 @@
 [
  {
-  "id": "ad2e9ce807b54e2e",
-  "title": "UGREEN 240W USB C Cable 2-Pack, Fast Charging for Laptops & Phones, 6.6ft $13.99",
-  "url": "https://slickdeals.net/f/20171553-ugreen-240w-usb-c-cable-2-pack-fast-charging-for-laptops-phones-6-6ft-13-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Galaxy S26",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 13.99,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
-  "id": "7beaed91c60e601f",
-  "title": "AMZDM Silicone Controller Grip Covers w/ Knuckle Straps & Thumbstick Covers for Meta Quest 3 & 3S $6.95 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20070912-amzdm-silicone-controller-grip-covers-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-95-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Meta Quest",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 6.95,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
   "id": "141ad93fed849505",
   "title": "$2.99: AMZDM Silicone Face Cover for Meta Quest 3, Washable VR Cover with Lens Protectors, Cover Only at Woot!",
   "url": "https://slickdeals.net/f/20060559-2-99-amzdm-silicone-face-cover-for-meta-quest-3-washable-vr-cover-with-lens-protectors-cover-only-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 699.0,
   "found_at": "2026-10-31T16:08:56Z"
+ },
+ {
+  "id": "546275454820ea25",
+  "title": "Samsung Galaxy S26, Unlocked Android Smartphone, 512GB, Cobalt Violet | Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, US 1 Year Warranty",
+  "url": "https://slickdeals.net/f/20235939-samsung-galaxy-s26-unlocked-android-smartphone-512gb-cobalt-violet-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Galaxy S26",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-10-31T16:14:07Z"
+ },
+ {
+  "id": "bfd96dadde4f540f",
+  "title": "Apple AirPods Pro 3 Active Noise Cancellation Wireless Earbuds $199",
+  "url": "https://www.amazon.com/gp/product/B0FQFB8FMG/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-10-31T16:14:07Z"
  }
 ]
