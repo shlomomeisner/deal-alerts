@@ -1,18 +1,5 @@
 [
  {
-  "id": "dc3f5e5242073aca",
-  "title": "Apple Watch Ultra 3 [GPS + Cellular 49mm], various colors $649",
-  "url": "https://slickdeals.net/f/20218329-apple-watch-ultra-3-gps-cellular-49mm-various-colors-649?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Apple Watch Ultra",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 649.0,
-  "found_at": "2026-10-31T17:01:45Z"
- },
- {
   "id": "a44eb090a6084b86",
   "title": "LISEN Qi2.2 25W 3-in-1 Foldable MagSafe Charging Station w/ 45W Adapter $24 + Free S&H",
   "url": "https://slickdeals.net/f/20216415-lisen-qi2-2-25w-3-in-1-foldable-magsafe-charging-station-w-45w-adapter-24-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7785,18 @@
   "pct": null,
   "price": 199.99,
   "found_at": "2026-10-31T18:42:20Z"
+ },
+ {
+  "id": "4a8246b343141f39",
+  "title": "Apple Mac mini M6 12-Core CPU; 24GB Unified Memory; 512GB Solid State Drive $1100",
+  "url": "https://slickdeals.net/f/20236851-apple-mac-mini-m6-12-core-cpu-24gb-unified-memory-512gb-solid-state-drive-1100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Mac Mini",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 110.0,
+  "found_at": "2026-10-31T18:47:26Z"
  }
 ]
