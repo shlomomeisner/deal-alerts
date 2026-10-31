@@ -1,31 +1,5 @@
 [
  {
-  "id": "141ad93fed849505",
-  "title": "$2.99: AMZDM Silicone Face Cover for Meta Quest 3, Washable VR Cover with Lens Protectors, Cover Only at Woot!",
-  "url": "https://slickdeals.net/f/20060559-2-99-amzdm-silicone-face-cover-for-meta-quest-3-washable-vr-cover-with-lens-protectors-cover-only-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Meta Quest",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 2.99,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
-  "id": "388688a9d77a82e2",
-  "title": "Meta Quest Compact Charging Dock — Works with Meta Quest 3/3S $36.02",
-  "url": "https://slickdeals.net/f/19960413-meta-quest-compact-charging-dock-works-with-meta-quest-3-3s-36-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "Meta Quest — 40% off",
-  "category": "tech",
-  "source": "Slickdeals: Meta Quest",
-  "urgent": false,
-  "hot": true,
-  "pct": 40,
-  "price": 36.02,
-  "found_at": "2026-10-31T13:41:57Z"
- },
- {
   "id": "d526993848badec4",
   "title": "Gamestop - Meta Quest gift cards 15% off",
   "url": "https://slickdeals.net/f/19883901-gamestop-meta-quest-gift-cards-15-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -7798,5 +7772,31 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-10-31T16:14:07Z"
+ },
+ {
+  "id": "43fa238c4ba04db3",
+  "title": "$19.99 | Monopoly Star Wars Heroes vs. Villains (Nintendo Switch 2) at Amazon",
+  "url": "https://slickdeals.net/f/20236503-19-99-monopoly-star-wars-heroes-vs-villains-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-10-31T16:19:16Z"
+ },
+ {
+  "id": "4fbe215cd7ca750a",
+  "title": "$19.99 | Monopoly Star Wars Heroes vs. Villains (Nintendo Switch 2) at Amazon",
+  "url": "https://slickdeals.net/f/20236503-19-99-monopoly-star-wars-heroes-vs-villains-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-10-31T16:19:16Z"
  }
 ]
