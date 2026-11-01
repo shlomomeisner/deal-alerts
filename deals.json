@@ -10801,5 +10801,31 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:36:25Z"
+ },
+ {
+  "id": "9d582847cdce3451",
+  "title": "Saks off 5th Designer Sunglasses BOGO Free",
+  "url": "https://slickdeals.net/f/16689245-saks-off-5th-designer-sunglasses-bogo-free?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Saks 50% off",
+  "category": "fashion",
+  "source": "Slickdeals: Saks Off 5Th",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": null,
+  "found_at": "2026-11-01T00:41:45Z"
+ },
+ {
+  "id": "5c042ff697cb242a",
+  "title": "25% off $150+ including Beauty & Fragrances at Saks Fifth Avenue Off 5th",
+  "url": "https://slickdeals.net/e/14076182-25-off-150-including-beauty-fragrances-at-saks-fifth-avenue-off-5th?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Saks Off 5Th",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": 150.0,
+  "found_at": "2026-11-01T00:41:45Z"
  }
 ]
