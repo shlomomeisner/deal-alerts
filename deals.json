@@ -8033,7 +8033,7 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T05:54:25Z"
+  "checked_at": "2026-11-01T15:28:49Z"
  },
  {
   "id": "c052cf7adba2f2a0",
@@ -8049,7 +8049,7 @@
   "found_at": "2026-10-31T23:59:15Z",
   "link_tried2": true,
   "link_tried3": true,
-  "checked_at": "2026-11-01T05:54:27Z"
+  "checked_at": "2026-11-01T15:28:51Z"
  },
  {
   "id": "021138da7ac582e2",
@@ -8066,7 +8066,7 @@
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20154771-garmin-010-02091-51-gpsmap-8610xsv-with-mapping-and-sonar-10-navionics-2299-99-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
-  "checked_at": "2026-11-01T05:54:28Z"
+  "checked_at": "2026-11-01T15:28:52Z"
  },
  {
   "id": "14e1e403c605142c",
@@ -8083,7 +8083,7 @@
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20144541-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-99-99-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
-  "checked_at": "2026-11-01T05:54:30Z"
+  "checked_at": "2026-11-01T15:28:54Z"
  },
  {
   "id": "0bd8e54e80483cfa",
@@ -8100,7 +8100,7 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20144085-garmin-epix-gen-2-gps-smartwatch-47mm-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T05:54:31Z"
+  "checked_at": "2026-11-01T15:28:55Z"
  },
  {
   "id": "389baf5a25d84f1e",
@@ -8117,7 +8117,7 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T05:54:32Z"
+  "checked_at": "2026-11-01T15:28:57Z"
  },
  {
   "id": "d789ebeeea993a43",
@@ -10120,7 +10120,7 @@
  {
   "id": "299fab8f8f3ffc1b",
   "title": "[WOOT] Armani Acqua di Gio Parfum 3.3 oz Men - $95.99 after 20% extra discount",
-  "url": "https://slickdeals.net/f/20060397-woot-armani-acqua-di-gio-parfum-3-3-oz-men-95-99-after-20-extra-discount?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Armani+Acqua+di+Gio+Parfum+3.3+oz+Men+-",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -10132,7 +10132,8 @@
   "link_tried": true,
   "source_url": "https://slickdeals.net/f/20060397-woot-armani-acqua-di-gio-parfum-3-3-oz-men-95-99-after-20-extra-discount?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Woot",
-  "checked_at": "2026-11-01T06:39:39Z"
+  "checked_at": "2026-11-01T06:39:39Z",
+  "link_tried3": true
  },
  {
   "id": "bd3b83354309a823",
@@ -10602,7 +10603,7 @@
  {
   "id": "85e005ca4d62c651",
   "title": "[WTS][WTT] Dior Homme Sport 75ml (Bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpgtu/wtswtt_dior_homme_sport_75ml_bottle/",
+  "url": "https://www.google.com/search?tbm=shop&q=Dior+Homme+Sport+75ml",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -10614,7 +10615,8 @@
   "link_tried": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpgtu/wtswtt_dior_homme_sport_75ml_bottle/",
   "store": "Google",
-  "checked_at": "2026-11-01T06:53:02Z"
+  "checked_at": "2026-11-01T06:53:02Z",
+  "link_tried3": true
  },
  {
   "id": "1ed3b9a5a8af6c9f",
@@ -22547,10 +22549,10 @@
   "pct": null,
   "price": 69.97,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20239983-open-box-dji-osmo-mobile-8-smartphone-gimbal-stabilizer-69-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:50Z"
+  "checked_at": "2026-11-01T15:20:50Z",
+  "link_tried3": true
  },
  {
   "id": "147d5f87479c653d",
@@ -22564,10 +22566,10 @@
   "pct": 60,
   "price": null,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:51Z"
+  "checked_at": "2026-11-01T15:20:51Z",
+  "link_tried3": true
  },
  {
   "id": "a95e2f9d52be0c48",
@@ -22581,10 +22583,10 @@
   "pct": null,
   "price": 18.99,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:52Z"
+  "checked_at": "2026-11-01T15:20:52Z",
+  "link_tried3": true
  },
  {
   "id": "84be02714a03d73d",
@@ -22598,10 +22600,10 @@
   "pct": null,
   "price": 56.99,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:53Z"
+  "checked_at": "2026-11-01T15:20:53Z",
+  "link_tried3": true
  },
  {
   "id": "2053beb34eadd1f1",
@@ -22615,10 +22617,10 @@
   "pct": null,
   "price": 16.0,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20116122-prime-oakley-men-s-si-cotton-cap-various-lg-xl-from-16-free-shipping-16-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:54Z"
+  "checked_at": "2026-11-01T15:20:54Z",
+  "link_tried3": true
  },
  {
   "id": "7c8a146ea7325dec",
@@ -22632,10 +22634,10 @@
   "pct": 30,
   "price": null,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:55Z"
+  "checked_at": "2026-11-01T15:20:55Z",
+  "link_tried3": true
  },
  {
   "id": "8fffa76aeec20a14",
@@ -22649,10 +22651,10 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:56Z"
+  "checked_at": "2026-11-01T15:20:56Z",
+  "link_tried3": true
  },
  {
   "id": "a1b0e0ab61b0901e",
@@ -22666,10 +22668,10 @@
   "pct": null,
   "price": 100.0,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:57Z"
+  "checked_at": "2026-11-01T15:20:57Z",
+  "link_tried3": true
  },
  {
   "id": "98ee2219db3a0988",
@@ -22683,10 +22685,10 @@
   "pct": 22,
   "price": null,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:58Z"
+  "checked_at": "2026-11-01T15:20:58Z",
+  "link_tried3": true
  },
  {
   "id": "6016dba37bf94473",
@@ -22700,10 +22702,10 @@
   "pct": null,
   "price": 29.06,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:20:59Z"
+  "checked_at": "2026-11-01T15:20:59Z",
+  "link_tried3": true
  },
  {
   "id": "79c9b49b804bbd7d",
@@ -22717,10 +22719,10 @@
   "pct": null,
   "price": 29.98,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19714995-oakley-men-s-dry-os-knit-sneaker-2-colors-29-98-oakley-men-s-os-lx-sneaker-3-colors-35-98-free-store-pick-up-at-nordstrom-rack-or-fs-on-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:21:00Z"
+  "checked_at": "2026-11-01T15:21:00Z",
+  "link_tried3": true
  },
  {
   "id": "49bb29d9e325df2a",
@@ -22734,10 +22736,10 @@
   "pct": null,
   "price": 30.0,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:21:01Z"
+  "checked_at": "2026-11-01T15:21:01Z",
+  "link_tried3": true
  },
  {
   "id": "b2d271285c69e4ac",
@@ -22751,10 +22753,10 @@
   "pct": 25,
   "price": null,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19652295-extra-20-off-on-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:21:02Z"
+  "checked_at": "2026-11-01T15:21:02Z",
+  "link_tried3": true
  },
  {
   "id": "0311a434f8a74583",
@@ -22768,10 +22770,10 @@
   "pct": 25,
   "price": 79.99,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19651938-men-s-women-s-ray-ban-oakley-more-sunglasses-extra-20-off-oakley-men-s-sutro-rectangular-sunglasses-79-99-more-fs-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
-  "checked_at": "2026-11-01T15:21:04Z"
+  "checked_at": "2026-11-01T15:21:04Z",
+  "link_tried3": true
  },
  {
   "id": "e2a621ddb574b853",
@@ -22800,9 +22802,10 @@
   "pct": null,
   "price": 40.0,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19608867-30l-oakley-blade-backpack-blackout-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true,
+  "checked_at": "2026-11-01T15:28:37Z"
  },
  {
   "id": "8512cf5aad1ad8ca",
@@ -22816,7 +22819,8 @@
   "pct": 50,
   "price": 87.5,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T15:28:39Z"
  },
  {
   "id": "f8c9124907ae872b",
@@ -22830,9 +22834,10 @@
   "pct": 15,
   "price": null,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19596303-extra-10-off-on-sunnies-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true,
+  "checked_at": "2026-11-01T15:28:40Z"
  },
  {
   "id": "7eef97d677815e71",
@@ -22846,7 +22851,8 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T15:28:41Z"
  },
  {
   "id": "8e0e58136182551f",
@@ -22860,7 +22866,8 @@
   "pct": null,
   "price": 400.0,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T15:28:43Z"
  },
  {
   "id": "d1c1011d57a18e9b",
@@ -22874,6 +22881,58 @@
   "pct": null,
   "price": 52.5,
   "found_at": "2026-11-01T15:18:31Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T15:28:44Z"
+ },
+ {
+  "id": "6ad995dc588cae52",
+  "title": "DJI Mic Mini (1 TX + 1 RX) Wireless Lavalier Microphone System $33.60 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mic+Mini+Wireless+Lavalier+Microphone+System",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 33.6,
+  "found_at": "2026-11-01T15:26:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T15:28:46Z"
+ },
+ {
+  "id": "cbb4354389726147",
+  "title": "27\" MSI PRO MAX 271QPX14G QHD 1440P 144Hz OLED Monitor $246 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=27+MSI+PRO+MAX+271QPX14G+QHD+1440P+144Hz+OLED+Monitor",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 246.0,
+  "found_at": "2026-11-01T15:26:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238762-27-msi-pro-max-271qpx14g-qhd-1440p-144hz-oled-monitor-246-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T15:28:47Z"
+ },
+ {
+  "id": "aa69ea250d2dbd02",
+  "title": "27\" Acer X27 V1bmiipprx 4K 165Hz QD-OLED Gaming Monitor $499.99",
+  "url": "https://www.amazon.com/s?k=27+Acer+X27+V1bmiipprx+4K+165Hz+QD-OLED+Gaming+Monitor",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 499.99,
+  "found_at": "2026-11-01T15:26:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20240064-27-acer-x27-v1bmiipprx-4k-165hz-qd-oled-gaming-monitor-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "checked_at": "2026-11-01T15:28:47Z"
  }
 ]
