@@ -3300,7 +3300,8 @@
   "hot": false,
   "pct": null,
   "price": 284.75,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:31:30Z"
  },
  {
   "id": "972e0004939955d6",
@@ -3313,7 +3314,8 @@
   "hot": false,
   "pct": null,
   "price": 149.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:32Z"
  },
  {
   "id": "ccccb91a3f6fea78",
@@ -3326,7 +3328,8 @@
   "hot": false,
   "pct": null,
   "price": 120.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:33Z"
  },
  {
   "id": "e4c50c6e6ae43ac9",
@@ -3339,7 +3342,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:34Z"
  },
  {
   "id": "5a8592f80300bd49",
@@ -3352,7 +3356,8 @@
   "hot": false,
   "pct": null,
   "price": 79.79,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:36Z"
  },
  {
   "id": "3321cc5f80b29bd2",
@@ -3365,7 +3370,8 @@
   "hot": false,
   "pct": null,
   "price": 260.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:37Z"
  },
  {
   "id": "775a9ec7f05fb97d",
@@ -3378,7 +3384,8 @@
   "hot": false,
   "pct": null,
   "price": 140.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:39Z"
  },
  {
   "id": "7b1d5c4012026752",
@@ -3391,7 +3398,8 @@
   "hot": false,
   "pct": null,
   "price": 120.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:41Z"
  },
  {
   "id": "0ebefbd34a130429",
@@ -3404,7 +3412,8 @@
   "hot": false,
   "pct": null,
   "price": 39.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:42Z"
  },
  {
   "id": "c23bdae5e09d668f",
@@ -3417,7 +3426,8 @@
   "hot": false,
   "pct": null,
   "price": 1.36,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:43Z"
  },
  {
   "id": "3a0057e47267c27e",
@@ -3430,7 +3440,8 @@
   "hot": false,
   "pct": null,
   "price": 3.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:44Z"
  },
  {
   "id": "53c99f9d13451c0d",
@@ -3443,7 +3454,8 @@
   "hot": false,
   "pct": null,
   "price": 3.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:45Z"
  },
  {
   "id": "8ca2ea1647ab5046",
@@ -3456,7 +3468,8 @@
   "hot": false,
   "pct": null,
   "price": 5.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:46Z"
  },
  {
   "id": "d481f40d96b9152b",
@@ -3469,7 +3482,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:47Z"
  },
  {
   "id": "0d890e0331061cfe",
@@ -3482,7 +3496,8 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:31:48Z"
  },
  {
   "id": "bf8e492f284bf074",
@@ -6134,12 +6149,13 @@
   "hot": false,
   "pct": null,
   "price": 86.5,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "a7e1813e585eee24",
   "title": "Giorgio Armani Sunglasses, AR6118 62 - HAVANA BROWN $184.5",
-  "url": "https://slickdeals.net/f/19629873-giorgio-armani-sunglasses-ar6118-62-havana-brown-184-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.macys.com/shop/featured/Giorgio%20Armani%20Sunglasses%20AR6118%2062%20-%20HAVANA%20BROWN",
   "why": "Armani 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -6147,7 +6163,10 @@
   "hot": true,
   "pct": 50,
   "price": 184.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19629873-giorgio-armani-sunglasses-ar6118-62-havana-brown-184-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys"
  },
  {
   "id": "64e101c27ed75b40",
@@ -6160,12 +6179,13 @@
   "hot": false,
   "pct": 64,
   "price": null,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "9c5be835912e7f38",
   "title": "Prime Members: BIRCEN Womens Acetate Sunglasses (Various Colors) $12 + Free Shipping",
-  "url": "https://slickdeals.net/f/19582773-prime-members-bircen-womens-acetate-sunglasses-various-colors-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Prime+Members+BIRCEN+Womens+Acetate+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Prada",
@@ -6173,7 +6193,10 @@
   "hot": false,
   "pct": null,
   "price": 12.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19582773-prime-members-bircen-womens-acetate-sunglasses-various-colors-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "2f90c02bc295424e",
@@ -6186,12 +6209,13 @@
   "hot": false,
   "pct": null,
   "price": 4.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "30c3ae8e258c8438",
   "title": "GOLDYIPE USB-C SD Card Reader for iPhone, iPad & MacBook $4.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20232909-goldyipe-usb-c-sd-card-reader-for-iphone-ipad-macbook-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=GOLDYIPE+USB-C+SD+Card+Reader+for+iPhone+iPad+%26+MacBook",
   "why": "Iphone — 50% off",
   "category": "tech",
   "source": "Slickdeals: Iphone 16",
@@ -6199,12 +6223,15 @@
   "hot": true,
   "pct": 50,
   "price": 4.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20232909-goldyipe-usb-c-sd-card-reader-for-iphone-ipad-macbook-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "d90d45f7aa739c6b",
   "title": "Apple - Geek Squad Refurbished Good - 13-inch iPad Air M3 chip Built for Apple Intelligence Wi-Fi 256GB - Blue $764.99",
-  "url": "https://slickdeals.net/f/20233980-apple-geek-squad-refurbished-good-13-inch-ipad-air-m3-chip-built-for-apple-intelligence-wi-fi-256gb-blue-764-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+Geek+Squad+Refurbished+Good+-+13-inch+iPad+Air+M3+chip+Built+for+Apple+I",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ipad Air",
@@ -6212,12 +6239,15 @@
   "hot": false,
   "pct": null,
   "price": 764.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20233980-apple-geek-squad-refurbished-good-13-inch-ipad-air-m3-chip-built-for-apple-intelligence-wi-fi-256gb-blue-764-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "218e2e435ddff89b",
   "title": "AsperX 140W USB C MacBook Charger Block,4-Port GaN Type C Laptop Charger $39.99",
-  "url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=AsperX+140W+USB+C+MacBook+Charger+Block+4-Port+GaN+Type+C+Laptop+Charger",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ipad Air",
@@ -6225,12 +6255,15 @@
   "hot": false,
   "pct": null,
   "price": 39.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "23e26c06b9d0695b",
   "title": "Targus - HyperShield Case for MacBook Neo - Clear $19.99 Bestbuy.com",
-  "url": "https://slickdeals.net/f/20214477-targus-hypershield-case-for-macbook-neo-clear-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Targus+-+HyperShield+Case+for+MacBook+Neo+-+Clear",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ipad Air",
@@ -6238,12 +6271,15 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20214477-targus-hypershield-case-for-macbook-neo-clear-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "ad3ba8e3c37a4998",
   "title": "AsperX 140W USB C MacBook Charger Block,4-Port GaN Type C Laptop Charger $39.99",
-  "url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=AsperX+140W+USB+C+MacBook+Charger+Block+4-Port+GaN+Type+C+Laptop+Charger",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook Air",
@@ -6251,12 +6287,15 @@
   "hot": false,
   "pct": null,
   "price": 39.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "b33c878e1639f717",
   "title": "Apple AirPods Pro 3 with 2 years of AppleCare+ and free delivery $199",
-  "url": "https://slickdeals.net/f/20228721-apple-airpods-pro-3-with-2-years-of-applecare-and-free-delivery-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20with%202%20years%20of%20AppleCare%2B%20and%20free%20delivery",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -6264,7 +6303,10 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20228721-apple-airpods-pro-3-with-2-years-of-applecare-and-free-delivery-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "3fe77c648dcc6c51",
@@ -6789,7 +6831,7 @@
  {
   "id": "7d069c973c33ecdc",
   "title": "Mario + Rabbids Kingdom Battle & Sparks of Hope (Nintendo Switch, Code in a Box) - $14.99 @ Amazon",
-  "url": "https://slickdeals.net/f/20234097-mario-rabbids-kingdom-battle-sparks-of-hope-nintendo-switch-code-in-a-box-14-99-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Mario+%2B+Rabbids+Kingdom+Battle+%26+Sparks+of+Hope+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -6797,7 +6839,10 @@
   "hot": false,
   "pct": null,
   "price": 14.99,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234097-mario-rabbids-kingdom-battle-sparks-of-hope-nintendo-switch-code-in-a-box-14-99-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "2ba07e2bf8c1a786",
@@ -6810,7 +6855,8 @@
   "hot": false,
   "pct": null,
   "price": 47.71,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true
  },
  {
   "id": "5b1b43e548588b46",
@@ -6823,7 +6869,8 @@
   "hot": false,
   "pct": null,
   "price": 847.0,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true
  },
  {
   "id": "a89b62068311f816",
@@ -6836,7 +6883,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true
  },
  {
   "id": "9442dc6c1f8981e6",
@@ -6849,12 +6897,13 @@
   "hot": false,
   "pct": null,
   "price": 4600.0,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true
  },
  {
   "id": "368a336cc7525392",
   "title": "Rolex Datejust 41 Blue Dial Men’s Watch $10,650 + Free Shipping $10650",
-  "url": "https://slickdeals.net/f/18570373-rolex-datejust-41-blue-dial-men-s-watch-10-650-free-shipping-10650?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Rolex+Datejust+41+Blue+Dial+Men+s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6862,12 +6911,15 @@
   "hot": false,
   "pct": null,
   "price": 10650.0,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18570373-rolex-datejust-41-blue-dial-men-s-watch-10-650-free-shipping-10650?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "10151142ded12006",
   "title": "Carl F. Bucherer Adamavi Automatic Men's Watch, $650",
-  "url": "https://slickdeals.net/f/18489877-carl-f-bucherer-adamavi-automatic-men-s-watch-650?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Carl+F.+Bucherer+Adamavi+Automatic+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6875,12 +6927,15 @@
   "hot": false,
   "pct": null,
   "price": 650.0,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18489877-carl-f-bucherer-adamavi-automatic-men-s-watch-650?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "f7c2554b9c62c81b",
   "title": "Pre-Owned Rolex 16013 Men's 36mm Datejust Watch Custom Black Diamond Dial & Bezel (3 Year Warranty) (Good) - Walmart.com $7150",
-  "url": "https://slickdeals.net/f/18273667-pre-owned-rolex-16013-men-s-36mm-datejust-watch-custom-black-diamond-dial-bezel-3-year-warranty-good-walmart-com-7150?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Pre-Owned+Rolex+16013+Men%27s+36mm+Datejust+Watch+Custom+Black+Diamond+Dial+%26+Beze",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6888,12 +6943,15 @@
   "hot": false,
   "pct": null,
   "price": 715.0,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18273667-pre-owned-rolex-16013-men-s-36mm-datejust-watch-custom-black-diamond-dial-bezel-3-year-warranty-good-walmart-com-7150?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  },
  {
   "id": "479c14d50f53772b",
   "title": "Rolex - Black Friday Special $6,850",
-  "url": "https://slickdeals.net/f/17928477-rolex-black-friday-special-6-850?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Rolex+-+Black+Friday+Special",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6901,7 +6959,10 @@
   "hot": false,
   "pct": null,
   "price": 6850.0,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/17928477-rolex-black-friday-special-6-850?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  },
  {
   "id": "714332e8bbd56f4d",
@@ -6914,7 +6975,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true
  },
  {
   "id": "fff9cfd4135343df",
@@ -6927,12 +6989,13 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true
  },
  {
   "id": "73d428c789acf26b",
   "title": "Breitling Superocean Heritage II Automatic Chronometer 42 mm Black Dial Men's Watch AB2010121B1A1 - $3900.00",
-  "url": "https://slickdeals.net/f/16440349-breitling-superocean-heritage-ii-automatic-chronometer-42-mm-black-dial-men-s-watch-ab2010121b1a1-3900-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Breitling+Superocean+Heritage+II+Automatic+Chronometer+42+mm+Black+Dial+Men%27s+Wa",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6940,7 +7003,10 @@
   "hot": false,
   "pct": null,
   "price": 390.0,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/16440349-breitling-superocean-heritage-ii-automatic-chronometer-42-mm-black-dial-men-s-watch-ab2010121b1a1-3900-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "fbfac18e4b0e3610",
@@ -6953,12 +7019,13 @@
   "hot": false,
   "pct": null,
   "price": 4.99,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true
  },
  {
   "id": "7f83c35c67938ef7",
   "title": "Select Belkin accessories for phone and AirTag® as low as $5.99 Bestbuy.com",
-  "url": "https://slickdeals.net/f/20140920-select-belkin-accessories-for-phone-and-airtag-as-low-as-5-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Select+Belkin+accessories+for+phone+and+AirTag+as+low+as",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airtag",
@@ -6966,12 +7033,15 @@
   "hot": false,
   "pct": null,
   "price": 5.99,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20140920-select-belkin-accessories-for-phone-and-airtag-as-low-as-5-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "9526cd6be945bf29",
   "title": "Prime: 4-Pk Elevation Lab Waterproof Extended AA Battery Case for Apple AirTag $33.75 + Free S&H",
-  "url": "https://slickdeals.net/f/20107509-prime-4-pk-elevation-lab-waterproof-extended-aa-battery-case-for-apple-airtag-33-75-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Prime%204-Pk%20Elevation%20Lab%20Waterproof%20Extended%20AA%20Battery%20Case%20for%20Apple%20AirTag",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Airtag",
@@ -6979,7 +7049,10 @@
   "hot": false,
   "pct": null,
   "price": 33.75,
-  "found_at": "2026-10-31T23:48:15Z"
+  "found_at": "2026-10-31T23:48:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20107509-prime-4-pk-elevation-lab-waterproof-extended-aa-battery-case-for-apple-airtag-33-75-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "ca4f1dda3f1567f9",
@@ -7008,7 +7081,8 @@
   "hot": false,
   "pct": null,
   "price": 222.0,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true
  },
  {
   "id": "6eba1a48273955ab",
@@ -7021,7 +7095,8 @@
   "hot": false,
   "pct": null,
   "price": 292.0,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true
  },
  {
   "id": "02eee2dfaa118e29",
@@ -7034,12 +7109,13 @@
   "hot": false,
   "pct": null,
   "price": 705.0,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true
  },
  {
   "id": "b366527eed39afd5",
   "title": "Tissot Carson Automatic Blue Dial Men's Watch $270",
-  "url": "https://slickdeals.net/f/20003610-tissot-carson-automatic-blue-dial-men-s-watch-270?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Tissot+Carson+Automatic+Blue+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7047,12 +7123,15 @@
   "hot": false,
   "pct": null,
   "price": 270.0,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20003610-tissot-carson-automatic-blue-dial-men-s-watch-270?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "d363115e89104e46",
   "title": "Citizen Radiocontrolado Perpetual Chronograph Quartz Green Dial Men's Watch Item No. BY1010-81X $594.24",
-  "url": "https://slickdeals.net/f/19781841-citizen-radiocontrolado-perpetual-chronograph-quartz-green-dial-men-s-watch-item-no-by1010-81x-594-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Citizen+Radiocontrolado+Perpetual+Chronograph+Quartz+Green+Dial+Men%27s+Watch+Item",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7060,7 +7139,10 @@
   "hot": false,
   "pct": null,
   "price": 594.24,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19781841-citizen-radiocontrolado-perpetual-chronograph-quartz-green-dial-men-s-watch-item-no-by1010-81x-594-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "98fc4a19171d29c5",
@@ -7073,7 +7155,8 @@
   "hot": false,
   "pct": null,
   "price": 429.0,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true
  },
  {
   "id": "bac1dbbb4a874208",
@@ -7086,7 +7169,8 @@
   "hot": false,
   "pct": null,
   "price": 449.0,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true
  },
  {
   "id": "e77eb2c1696f5550",
@@ -11424,5 +11508,105 @@
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/18314791-maui-jim-sunglasses-unisex-breakwall-hcl-bronze-wrap-sunglasses-100-10-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Jomashop"
+ },
+ {
+  "id": "fc4538f0df8513a3",
+  "title": "PS5 Need for Speed™ Unbound - $20.99 - PlayStation Store",
+  "url": "https://direct.playstation.com/en-us/search?q=PS5+Need+for+Speed+Unbound+-",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Balmain",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.99,
+  "found_at": "2026-11-01T03:30:36Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/16642994-ps5-need-for-speed-unbound-20-99-playstation-store?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Playstation"
+ },
+ {
+  "id": "84a186027f7f7ab4",
+  "title": "Balmain Sunglasses $50 @Neiman Marcus Last Call",
+  "url": "https://slickdeals.net/e/14306459-balmain-sunglasses-50-neiman-marcus-last-call?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Neiman 60% off",
+  "category": "fashion",
+  "source": "Slickdeals: Balmain",
+  "urgent": false,
+  "hot": true,
+  "pct": 60,
+  "price": 50.0,
+  "found_at": "2026-11-01T03:30:36Z",
+  "link_tried2": true
+ },
+ {
+  "id": "97d8cd01b7446f47",
+  "title": "Up to 80%+ Off Outnet Designer Clothes + Extra 40% off for Winter Sale",
+  "url": "https://slickdeals.net/e/13850555-up-to-80-off-outnet-designer-clothes-extra-40-off-for-winter-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Gucci 40% off",
+  "category": "fashion",
+  "source": "Slickdeals: Balmain",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": null,
+  "found_at": "2026-11-01T03:30:36Z",
+  "link_tried2": true
+ },
+ {
+  "id": "b61967a722365c7e",
+  "title": "Extra 40% OFF Designer Clothes at Outnet + extra 15% off for new shoppers",
+  "url": "https://slickdeals.net/e/13849544-extra-40-off-designer-clothes-at-outnet-extra-15-off-for-new-shoppers?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Gucci 40% off",
+  "category": "fashion",
+  "source": "Slickdeals: Balmain",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": null,
+  "found_at": "2026-11-01T03:30:36Z",
+  "link_tried2": true
+ },
+ {
+  "id": "ae2caf08fc81ebfc",
+  "title": "Up to 79% off Designer Sunglasses at Century 21 (Balmain, Dior, Ray Ban, & more)",
+  "url": "https://slickdeals.net/e/13371166-up-to-79-off-designer-sunglasses-at-century-21-balmain-dior-ray-ban-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Dior 79% off",
+  "category": "fashion",
+  "source": "Slickdeals: Balmain",
+  "urgent": false,
+  "hot": true,
+  "pct": 79,
+  "price": null,
+  "found_at": "2026-11-01T03:30:36Z",
+  "link_tried2": true
+ },
+ {
+  "id": "c4f1a33539b1437d",
+  "title": "L'Oreal Paris Cosmetics X Balmain Lipstick (various colors) from $6",
+  "url": "https://slickdeals.net/e/12117643-l-oreal-paris-cosmetics-x-balmain-lipstick-various-colors-from-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Balmain",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.0,
+  "found_at": "2026-11-01T03:30:36Z",
+  "link_tried2": true
+ },
+ {
+  "id": "10987c81673ee819",
+  "title": "Harper's Bazaar ShopBAZAAR Editor’s Pick Giveaway 10/13/13",
+  "url": "https://slickdeals.net/e/6300982-harper-s-bazaar-shopbazaar-editor-s-pick-giveaway-10-13-13?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balmain",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T03:30:36Z",
+  "link_tried2": true
  }
 ]
