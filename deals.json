@@ -9773,7 +9773,8 @@
   "price": 998.0,
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T06:28:27Z"
  },
  {
   "id": "e7afd8643fb489d0",
@@ -9789,7 +9790,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20227728-select-epp-edu-samsung-oled-s95h-4k-165hz-smart-tv-w-music-studio-5-77-2248-83-3713-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsung"
+  "store": "Samsung",
+  "checked_at": "2026-11-01T06:28:28Z"
  },
  {
   "id": "412d141f08a76fb0",
@@ -9805,7 +9807,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T06:28:30Z"
  },
  {
   "id": "c683234180eaefca",
@@ -9820,7 +9823,8 @@
   "price": 329.0,
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T06:28:31Z"
  },
  {
   "id": "fd40cc2f482b061f",
@@ -9835,7 +9839,8 @@
   "price": 239.0,
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T06:28:32Z"
  },
  {
   "id": "59f354c7f6224287",
@@ -9851,7 +9856,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20208231-lg-83-inch-class-lg-oled-evo-ai-w6-4k-smart-tv-2026-with-wallpaper-design-wallpaper-design-with-zero-connect-hyper-radiant-color-tech-5299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T06:28:33Z"
  },
  {
   "id": "c6dcff6e4fac28b9",
@@ -9866,7 +9872,8 @@
   "price": 369.0,
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T06:28:35Z"
  },
  {
   "id": "a12267ef63a1ed92",
@@ -9881,7 +9888,8 @@
   "price": 134.0,
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T06:28:36Z"
  },
  {
   "id": "2fc36ef8bed7fb57",
@@ -9897,7 +9905,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20203578-lg-48-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-01T06:28:37Z"
  },
  {
   "id": "f90fe589b0de49e9",
@@ -9913,7 +9922,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20235939-samsung-galaxy-s26-unlocked-android-smartphone-512gb-cobalt-violet-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T06:28:38Z"
  },
  {
   "id": "8e5966f527b4be5e",
@@ -9929,7 +9939,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20234244-samsung-galaxy-watch5-pro-45mm-wifi-bluetooth-cellular-r920-r925-good-66?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Ebay"
+  "store": "Ebay",
+  "checked_at": "2026-11-01T06:28:39Z"
  },
  {
   "id": "e83fb3981dcc4859",
@@ -9945,7 +9956,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20231436-samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlocked-android-ai-photo-edits-large-screen-long-battery-life-2025-us-1-yr-manufacturer-warranty-mint-1349-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T06:28:40Z"
  },
  {
   "id": "951c68da8e76426a",
@@ -9961,7 +9973,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20229699-samsung-edu-epp-unlocked-galaxy-z-fold8-ultra-green-shadow-512-gb-plus-400-for-accessories-1584-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsung"
+  "store": "Samsung",
+  "checked_at": "2026-11-01T06:28:41Z"
  },
  {
   "id": "6297a6ca6fe76394",
@@ -9977,7 +9990,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20227758-samsung-galaxy-s26-ultra-unlocked-android-smartphone-512gb-cobalt-violet-1127?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsung"
+  "store": "Samsung",
+  "checked_at": "2026-11-01T06:28:42Z"
  },
  {
   "id": "4baef7006c098d70",
@@ -9993,7 +10007,8 @@
   "found_at": "2026-11-01T00:04:39Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsung"
+  "store": "Samsung",
+  "checked_at": "2026-11-01T06:28:44Z"
  },
  {
   "id": "21c5eb060dec8654",
@@ -15215,5 +15230,133 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20212818-apple-watch-series-10-gps-cellular-smartwatch-46mm-325-42mm-300-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Woot"
+ },
+ {
+  "id": "0e73d3585e60704d",
+  "title": "Suitsupply Outlet now live, various discounts on suits",
+  "url": "https://www.google.com/search?tbm=shop&q=Suitsupply+Outlet+now+live+various+discounts+on+suits",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14609917-suitsupply-outlet-now-live-various-discounts-on-suits?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "a6153b05d96aaa12",
+  "title": "SuitSupply BF Outlet is OPEN",
+  "url": "https://www.google.com/search?tbm=shop&q=SuitSupply+BF+Outlet+is+OPEN",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14592976-suitsupply-bf-outlet-is-open?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e53fff198223e1fa",
+  "title": "Jomers Italian Wool, Half Canvas Grey Suit (Slim Fit) - $200",
+  "url": "https://www.google.com/search?tbm=shop&q=Jomers+Italian+Wool+Half+Canvas+Grey+Suit+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 200.0,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14454449-jomers-italian-wool-half-canvas-grey-suit-slim-fit-200?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "0579f5cfcc40a0cc",
+  "title": "Suitsupply Outlet Semiannual sale",
+  "url": "https://www.google.com/search?tbm=shop&q=Suitsupply+Outlet+Semiannual",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13796081-suitsupply-outlet-semiannual-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "3b8abfd7b59aabeb",
+  "title": "Suitsupply Outlet Semiannual sale (Heads Up)",
+  "url": "https://www.google.com/search?tbm=shop&q=Suitsupply+Outlet+Semiannual",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13250635-suitsupply-outlet-semiannual-sale-heads-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e63e393888a66078",
+  "title": "Suitsupply Outlet Semiannual sale",
+  "url": "https://www.google.com/search?tbm=shop&q=Suitsupply+Outlet+Semiannual",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12602827-suitsupply-outlet-semiannual-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "582e46c42f8d6c4f",
+  "title": "Suitsupply Outlet Semiannual sale open",
+  "url": "https://www.google.com/search?tbm=shop&q=Suitsupply+Outlet+Semiannual+open",
+  "why": "Suitsupply 50% off",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": null,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/11813299-suitsupply-outlet-semiannual-sale-open?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "4dd200a03d1d09b6",
+  "title": "SEMIANNUALSuitsupply Outlet Sale",
+  "url": "https://www.google.com/search?tbm=shop&q=SEMIANNUALSuitsupply+Outlet",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Suitsupply",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T06:28:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/11138887-semiannualsuitsupply-outlet-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  }
 ]
