@@ -640,7 +640,8 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T02:01:53Z"
  },
  {
   "id": "a13148fe40fbb433",
@@ -653,7 +654,8 @@
   "hot": false,
   "pct": null,
   "price": 899.95,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T02:01:55Z"
  },
  {
   "id": "bf4163afae00646c",
@@ -666,7 +668,8 @@
   "hot": false,
   "pct": null,
   "price": 599.95,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T02:01:56Z"
  },
  {
   "id": "3891a50ee378dbbb",
@@ -679,7 +682,8 @@
   "hot": false,
   "pct": null,
   "price": 720.0,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T02:01:58Z"
  },
  {
   "id": "3495a8789aeb570c",
@@ -692,7 +696,8 @@
   "hot": false,
   "pct": null,
   "price": 337.0,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T02:02:00Z"
  },
  {
   "id": "8aa0844b18ee08a7",
@@ -705,7 +710,8 @@
   "hot": true,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T02:02:00Z"
  },
  {
   "id": "a72dabfae1d947d5",
@@ -718,7 +724,8 @@
   "hot": false,
   "pct": null,
   "price": 810.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:00Z"
  },
  {
   "id": "26054cf8d9c36cfc",
@@ -731,7 +738,8 @@
   "hot": true,
   "pct": 77,
   "price": 39.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:00Z"
  },
  {
   "id": "79d4a488e6173c99",
@@ -744,7 +752,8 @@
   "hot": false,
   "pct": null,
   "price": 7.96,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:00Z"
  },
  {
   "id": "d7241eabedfa9993",
@@ -757,7 +766,8 @@
   "hot": false,
   "pct": null,
   "price": 190.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:01Z"
  },
  {
   "id": "9f26d70a90ec9e36",
@@ -770,7 +780,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:02Z"
  },
  {
   "id": "e089b72a737d8dd7",
@@ -783,7 +794,8 @@
   "hot": false,
   "pct": null,
   "price": 139.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:04Z"
  },
  {
   "id": "d825ca6b818400db",
@@ -796,7 +808,8 @@
   "hot": false,
   "pct": null,
   "price": 349.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:06Z"
  },
  {
   "id": "8e38002f772deb56",
@@ -809,7 +822,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:07Z"
  },
  {
   "id": "1fbc3005f7add17f",
@@ -822,7 +836,8 @@
   "hot": false,
   "pct": null,
   "price": 179.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:02:08Z"
  },
  {
   "id": "280b33612df586ce",
@@ -10156,7 +10171,8 @@
   "hot": false,
   "pct": null,
   "price": 27.38,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "8030c850b93854cd",
@@ -10169,7 +10185,8 @@
   "hot": false,
   "pct": null,
   "price": 72.99,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "e849de1032aefea9",
@@ -10182,7 +10199,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "55c09e7ec0e72076",
@@ -10195,7 +10213,8 @@
   "hot": false,
   "pct": null,
   "price": 40.28,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "f14d331a98a0032f",
@@ -10208,7 +10227,8 @@
   "hot": false,
   "pct": null,
   "price": 35.91,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "8a8dcab629f1833c",
@@ -10221,7 +10241,8 @@
   "hot": false,
   "pct": 10,
   "price": 18.88,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "c39a4e1228bc4be6",
@@ -10234,7 +10255,8 @@
   "hot": false,
   "pct": null,
   "price": 80.85,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "baa89341839ef173",
@@ -10247,7 +10269,8 @@
   "hot": true,
   "pct": 50,
   "price": 4.99,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "ec6425c43b124e16",
@@ -10260,7 +10283,8 @@
   "hot": false,
   "pct": null,
   "price": 11.88,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "2166c37bb67dbb96",
@@ -10816,7 +10840,8 @@
   "hot": false,
   "pct": null,
   "price": 49.99,
-  "found_at": "2026-11-01T01:55:41Z"
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
  },
  {
   "id": "7417785aec0c3da9",
@@ -10829,6 +10854,21 @@
   "hot": false,
   "pct": null,
   "price": 595.0,
-  "found_at": "2026-11-01T01:55:41Z"
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "11157469b7139697",
+  "title": "Bose QuietComfort ANC Over Ear Headphones (Various) $169 + Free S&H",
+  "url": "https://slickdeals.net/f/20231037-169-bose-quietcomfort-anc-over-ear-headphones-various-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.0,
+  "found_at": "2026-11-01T02:01:32Z",
+  "link_tried": true
  }
 ]
