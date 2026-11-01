@@ -4266,7 +4266,8 @@
   "hot": false,
   "pct": null,
   "price": 74.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:23:58Z"
  },
  {
   "id": "5022092e765248eb",
@@ -4279,7 +4280,8 @@
   "hot": false,
   "pct": null,
   "price": 59.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:23:59Z"
  },
  {
   "id": "f0008d0f42f8915d",
@@ -4292,7 +4294,8 @@
   "hot": false,
   "pct": null,
   "price": 91.85,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:04Z"
  },
  {
   "id": "90588cdd798b9f87",
@@ -4305,7 +4308,8 @@
   "hot": false,
   "pct": null,
   "price": 242.24,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:06Z"
  },
  {
   "id": "32897a90cf1dc6bf",
@@ -4318,7 +4322,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:08Z"
  },
  {
   "id": "887cc93dd86828a5",
@@ -4331,7 +4336,8 @@
   "hot": false,
   "pct": null,
   "price": 340.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:08Z"
  },
  {
   "id": "6e975af6e20951ff",
@@ -4344,7 +4350,8 @@
   "hot": false,
   "pct": null,
   "price": 330.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:09Z"
  },
  {
   "id": "d7e15c988a6eb821",
@@ -4357,7 +4364,8 @@
   "hot": true,
   "pct": 36,
   "price": 270.93,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:10Z"
  },
  {
   "id": "f49527c6c652b2c3",
@@ -4370,7 +4378,8 @@
   "hot": false,
   "pct": null,
   "price": 318.75,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:11Z"
  },
  {
   "id": "250fdde30a602a5b",
@@ -4383,7 +4392,8 @@
   "hot": false,
   "pct": null,
   "price": 149.95,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:12Z"
  },
  {
   "id": "63383ec7e99adc67",
@@ -4396,7 +4406,8 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:13Z"
  },
  {
   "id": "82993a07001c2885",
@@ -4409,7 +4420,8 @@
   "hot": false,
   "pct": null,
   "price": 16.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:14Z"
  },
  {
   "id": "538805e62f3f7a61",
@@ -4422,7 +4434,8 @@
   "hot": false,
   "pct": null,
   "price": 519.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:16Z"
  },
  {
   "id": "441dfa8a2678b140",
@@ -4435,7 +4448,8 @@
   "hot": false,
   "pct": null,
   "price": 28.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:17Z"
  },
  {
   "id": "d2978188b5ea00c8",
@@ -4448,7 +4462,8 @@
   "hot": false,
   "pct": null,
   "price": 24.88,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:24:19Z"
  },
  {
   "id": "35a57af996b2bfbd",
@@ -5629,7 +5644,7 @@
  {
   "id": "4320ac292dfd9260",
   "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $86.50 + Free Shipping",
-  "url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -5638,7 +5653,10 @@
   "pct": null,
   "price": 86.5,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "a7e1813e585eee24",
@@ -5659,7 +5677,7 @@
  {
   "id": "64e101c27ed75b40",
   "title": "Costa Del Mar Sunglasses Sale - Men's and Women's - Up to 64% off",
-  "url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Prada",
@@ -5668,7 +5686,10 @@
   "pct": 64,
   "price": null,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "9c5be835912e7f38",
@@ -5698,7 +5719,8 @@
   "pct": null,
   "price": 4.99,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "30c3ae8e258c8438",
@@ -5808,7 +5830,8 @@
   "pct": null,
   "price": 89.99,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "b27c61d089e688b2",
@@ -5838,7 +5861,8 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "d6cb96d191fabd85",
@@ -5916,7 +5940,8 @@
   "pct": null,
   "price": 429.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "594a091f281a86a9",
@@ -6218,12 +6243,13 @@
   "pct": null,
   "price": 549.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "1db20685730e12f9",
   "title": "Check emails: Member benefit: Save 25% on Pixel 11 series phones $674",
-  "url": "https://slickdeals.net/f/20191638-check-emails-member-benefit-save-25-on-pixel-11-series-phones-674?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Check+emails+Member+benefit+Save+25+on+Pixel+11+series+phones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6232,12 +6258,15 @@
   "pct": 25,
   "price": 674.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20191638-check-emails-member-benefit-save-25-on-pixel-11-series-phones-674?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "53642ae383a8fcef",
   "title": "Unlocked Pixel 10 Pro 128 GB $599 | 120 days of service required",
-  "url": "https://slickdeals.net/f/20189790-unlocked-pixel-10-pro-128-gb-599-120-days-of-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Unlocked+Pixel+10+Pro+128+GB",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6246,7 +6275,10 @@
   "pct": null,
   "price": 599.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20189790-unlocked-pixel-10-pro-128-gb-599-120-days-of-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "07c6d139d2e2ad9e",
@@ -6426,7 +6458,7 @@
  {
   "id": "a89b62068311f816",
   "title": "Rolex GMT-Master II",
-  "url": "https://www.google.com/search?tbm=shop&q=Rolex+GMT-Master+II",
+  "url": "https://slickdeals.net/f/18813574-rolex-gmt-master-ii?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6435,7 +6467,6 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:48:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18813574-rolex-gmt-master-ii?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6443,7 +6474,7 @@
  {
   "id": "9442dc6c1f8981e6",
   "title": "Rolex Day-Date 40 Meteorite Diamond Automatic Diamond Men's Watch ($4,600 Coupon) $129,950",
-  "url": "https://www.google.com/search?tbm=shop&q=Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/18697057-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-4-600-coupon-129-950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6452,7 +6483,6 @@
   "pct": null,
   "price": 4600.0,
   "found_at": "2026-10-31T23:48:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18697057-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-4-600-coupon-129-950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6524,7 +6554,7 @@
  {
   "id": "714332e8bbd56f4d",
   "title": "ForeverWick Rolex Sweepstakes 9-30-23",
-  "url": "https://slickdeals.net/f/16830116-foreverwick-rolex-sweepstakes-9-30-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=ForeverWick+Rolex+Sweepstakes+9-30-23",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6533,12 +6563,15 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:48:15Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16830116-foreverwick-rolex-sweepstakes-9-30-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "fff9cfd4135343df",
   "title": "Watch Gang Rolex Giveaway 5/12/2023",
-  "url": "https://slickdeals.net/f/16637984-watch-gang-rolex-giveaway-5-12-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Watch+Gang+Rolex+Giveaway+5+12+2023",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6547,7 +6580,10 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:48:15Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16637984-watch-gang-rolex-giveaway-5-12-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "73d428c789acf26b",
@@ -6577,7 +6613,8 @@
   "pct": null,
   "price": 4.99,
   "found_at": "2026-10-31T23:48:15Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "7f83c35c67938ef7",
@@ -6630,7 +6667,7 @@
  {
   "id": "6e15b3c1c41e1ec5",
   "title": "New Longines HydroConquest GMT Automatic Blue Dial Men's Watch $2221.75",
-  "url": "https://www.google.com/search?tbm=shop&q=Longines+HydroConquest+GMT+Automatic+Blue+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/20141883-new-longines-hydroconquest-gmt-automatic-blue-dial-men-s-watch-2221-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6639,7 +6676,6 @@
   "pct": null,
   "price": 222.0,
   "found_at": "2026-10-31T23:53:20Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20141883-new-longines-hydroconquest-gmt-automatic-blue-dial-men-s-watch-2221-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6647,7 +6683,7 @@
  {
   "id": "6eba1a48273955ab",
   "title": "New Longines Conquest Automatic Chronograph Brown Men's Watch L3.835.4.32.6 $2920",
-  "url": "https://www.google.com/search?tbm=shop&q=Longines+Conquest+Automatic+Chronograph+Brown+Men%27s+Watch+L3.835.4.32.6",
+  "url": "https://slickdeals.net/f/20101776-new-longines-conquest-automatic-chronograph-brown-men-s-watch-l3-835-4-32-6-2920?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6656,7 +6692,6 @@
   "pct": null,
   "price": 292.0,
   "found_at": "2026-10-31T23:53:20Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20101776-new-longines-conquest-automatic-chronograph-brown-men-s-watch-l3-835-4-32-6-2920?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6664,7 +6699,7 @@
  {
   "id": "02eee2dfaa118e29",
   "title": "New Breitling Superocean Heritage B01 Chronograph 42 Men's Watch UB0156H11B1A1 $7052",
-  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Superocean+Heritage+B01+Chronograph+42+Men%27s+Watch+UB0156H11B1A1",
+  "url": "https://slickdeals.net/f/20101743-new-breitling-superocean-heritage-b01-chronograph-42-men-s-watch-ub0156h11b1a1-7052?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6673,7 +6708,6 @@
   "pct": null,
   "price": 705.0,
   "found_at": "2026-10-31T23:53:20Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20101743-new-breitling-superocean-heritage-b01-chronograph-42-men-s-watch-ub0156h11b1a1-7052?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6713,7 +6747,7 @@
  {
   "id": "98fc4a19171d29c5",
   "title": "Hamilton Khaki Aviation Men's Automatic Watch on Bracelet + Extra Strap $429 + free s/h",
-  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Aviation+Men%27s+Automatic+Watch+on+Bracelet+%2B+Extra+Strap",
+  "url": "https://slickdeals.net/f/18140257-hamilton-khaki-aviation-men-s-automatic-watch-on-bracelet-extra-strap-429-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -6722,7 +6756,6 @@
   "pct": null,
   "price": 429.0,
   "found_at": "2026-10-31T23:53:20Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18140257-hamilton-khaki-aviation-men-s-automatic-watch-on-bracelet-extra-strap-429-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6730,7 +6763,7 @@
  {
   "id": "bac1dbbb4a874208",
   "title": "Hamilton Khaki Aviation Men's Automatic Watch on Bracelet $449 + free s/h",
-  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Aviation+Men%27s+Automatic+Watch+on+Bracelet",
+  "url": "https://slickdeals.net/f/18035301-hamilton-khaki-aviation-men-s-automatic-watch-on-bracelet-449-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -6739,7 +6772,6 @@
   "pct": null,
   "price": 449.0,
   "found_at": "2026-10-31T23:53:20Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18035301-hamilton-khaki-aviation-men-s-automatic-watch-on-bracelet-449-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6747,7 +6779,7 @@
  {
   "id": "e77eb2c1696f5550",
   "title": "Google Pixel Watch 5 41mm WiFi Smartwatch for $300 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+Watch+5+41mm+WiFi+Smartwatch+for",
+  "url": "https://www.dealnews.com/Google-Pixel-Watch-5-41-mm-Wi-Fi-Smartwatch-for-300-free-shipping/22330452.html?iref=rss",
   "why": "Watch deal",
   "category": "tech",
   "source": "DealNews",
@@ -6756,7 +6788,6 @@
   "pct": null,
   "price": 300.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/Google-Pixel-Watch-5-41-mm-Wi-Fi-Smartwatch-for-300-free-shipping/22330452.html?iref=rss",
   "store": "Google"
@@ -6780,7 +6811,7 @@
  {
   "id": "e30e4a0c107f4446",
   "title": "Women's Breitling Premier Automatic Brown Dial Watch - Free Shipping - $1375",
-  "url": "https://www.google.com/search?tbm=shop&q=Women%27s+Breitling+Premier+Automatic+Brown+Dial+Watch+-+-",
+  "url": "https://slickdeals.net/f/19618596-women-s-breitling-premier-automatic-brown-dial-watch-free-shipping-1375?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6789,7 +6820,6 @@
   "pct": null,
   "price": 137.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19618596-women-s-breitling-premier-automatic-brown-dial-watch-free-shipping-1375?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6797,7 +6827,7 @@
  {
   "id": "9219ac90f8727fba",
   "title": "38mm Breitling Endurance Pro Chronograph Quartz Watch $1850 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=38mm+Breitling+Endurance+Pro+Chronograph+Quartz+Watch",
+  "url": "https://slickdeals.net/f/19597770-38mm-breitling-endurance-pro-chronograph-quartz-watch-1850-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6806,7 +6836,6 @@
   "pct": null,
   "price": 185.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19597770-38mm-breitling-endurance-pro-chronograph-quartz-watch-1850-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6862,7 +6891,7 @@
  {
   "id": "88b8745da58fdcea",
   "title": "Deep Blue Daynight diver tritium automatic watch $150",
-  "url": "https://www.google.com/search?tbm=shop&q=Deep+Blue+Daynight+diver+tritium+automatic+watch",
+  "url": "https://slickdeals.net/f/19516425-deep-blue-daynight-diver-tritium-automatic-watch-150?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6871,7 +6900,6 @@
   "pct": null,
   "price": 150.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19516425-deep-blue-daynight-diver-tritium-automatic-watch-150?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6879,7 +6907,7 @@
  {
   "id": "92f39eddb85189d2",
   "title": "Citizen Promaster Sky Perpetual World Time Brown Dial Men's Watch $234",
-  "url": "https://www.google.com/search?tbm=shop&q=Citizen+Promaster+Sky+Perpetual+World+Time+Brown+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/19501602-citizen-promaster-sky-perpetual-world-time-brown-dial-men-s-watch-234?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6888,7 +6916,6 @@
   "pct": null,
   "price": 234.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19501602-citizen-promaster-sky-perpetual-world-time-brown-dial-men-s-watch-234?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6896,7 +6923,7 @@
  {
   "id": "93714543a93cd437",
   "title": "Breitling Men's Navitimer Automatic 41 Watch $3695",
-  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Men%27s+Navitimer+Automatic+41+Watch",
+  "url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -6905,7 +6932,6 @@
   "pct": null,
   "price": 369.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6945,7 +6971,7 @@
  {
   "id": "d355af4d7911ce6c",
   "title": "Bose lifestyle ultra soundbar $809 or $734 with AMEX coupon",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+lifestyle+ultra+soundbar",
+  "url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -6954,7 +6980,6 @@
   "pct": 10,
   "price": 809.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7102,7 +7127,7 @@
  {
   "id": "56fc85e341abd406",
   "title": "[GOVX] Garmin Forerunner 970 Watch",
-  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+Watch",
+  "url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7111,7 +7136,6 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7166,7 +7190,7 @@
  {
   "id": "0bd8e54e80483cfa",
   "title": "Garmin epix Gen 2 GPS Smartwatch 47mm $399",
-  "url": "https://www.google.com/search?tbm=shop&q=Garmin+epix+Gen+2+GPS+Smartwatch+47mm",
+  "url": "https://slickdeals.net/f/20144085-garmin-epix-gen-2-gps-smartwatch-47mm-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7175,7 +7199,6 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20144085-garmin-epix-gen-2-gps-smartwatch-47mm-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7183,7 +7206,7 @@
  {
   "id": "389baf5a25d84f1e",
   "title": "Garmin 51mm Fenix 8 Smartwatch",
-  "url": "https://www.google.com/search?tbm=shop&q=Garmin+51mm+Fenix+8+Smartwatch",
+  "url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7192,7 +7215,6 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7231,7 +7253,7 @@
  {
   "id": "99ff24864936dfc8",
   "title": "Gucci Sunglasses $87.00",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Sunglasses",
+  "url": "https://slickdeals.net/e/13208866-gucci-sunglasses-87-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Gucci 50% off",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -7240,7 +7262,6 @@
   "pct": 50,
   "price": 87.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13208866-gucci-sunglasses-87-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7311,7 +7332,7 @@
  {
   "id": "5eb03916cab62a2c",
   "title": "Tom Ford Black Orchid Eau de Parfum, 3.4 fl oz $129.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+Eau+de+Parfum+3.4+fl+oz",
+  "url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7320,7 +7341,6 @@
   "pct": null,
   "price": 129.99,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7328,7 +7348,7 @@
  {
   "id": "91ee70f6d79a8c9c",
   "title": "Carolina Herrera Bad Boy Cobalt Eau de Parfum, 3.4fl oz - 96.99 + free ship w/ Prime $96.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Carolina+Herrera+Bad+Boy+Cobalt+Eau+de+Parfum+3.4fl+oz+-+96.99+%2B+free+ship+w+Pri",
+  "url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7337,7 +7357,6 @@
   "pct": null,
   "price": 96.99,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7345,7 +7364,7 @@
  {
   "id": "1b270425119796e2",
   "title": "Tom Ford Black Orchid EDP, 3.4 fl oz $99.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+EDP+3.4+fl+oz",
+  "url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7354,7 +7373,6 @@
   "pct": null,
   "price": 99.99,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7458,7 +7476,7 @@
  {
   "id": "3d0c15ca2ef142f2",
   "title": "3.4-Oz Tom Ford Noir Extreme Eau de Parfum $112.99 + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Tom+Ford+Noir+Extreme+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/18590095-3-4-oz-tom-ford-noir-extreme-eau-de-parfum-112-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7467,7 +7485,6 @@
   "pct": null,
   "price": 112.99,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18590095-3-4-oz-tom-ford-noir-extreme-eau-de-parfum-112-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7491,7 +7508,7 @@
  {
   "id": "3b5e8d8eda24e890",
   "title": "TOM FORD Beau de Jour Eau de Parfum Fragrance 3.4 oz/ 100 mL $120",
-  "url": "https://www.google.com/search?tbm=shop&q=TOM+FORD+Beau+de+Jour+Eau+de+Parfum+Fragrance+3.4+oz+100+mL",
+  "url": "https://slickdeals.net/f/18546340-tom-ford-beau-de-jour-eau-de-parfum-fragrance-3-4-oz-100-ml-120?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7500,7 +7517,6 @@
   "pct": null,
   "price": 120.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18546340-tom-ford-beau-de-jour-eau-de-parfum-fragrance-3-4-oz-100-ml-120?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7588,7 +7604,7 @@
  {
   "id": "bc5b4754bafa4b5a",
   "title": "3.4-Oz Tom Ford Men's Beau De Jour Eau de Parfum $120 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Tom+Ford+Men%27s+Beau+De+Jour+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/18332719-3-4-oz-tom-ford-men-s-beau-de-jour-eau-de-parfum-120-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7597,7 +7613,6 @@
   "pct": null,
   "price": 120.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18332719-3-4-oz-tom-ford-men-s-beau-de-jour-eau-de-parfum-120-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7605,7 +7620,7 @@
  {
   "id": "7986538a5c1ee600",
   "title": "ARMANI Acqua di Gioia Eau de Parfum - 1.7 oz $60",
-  "url": "https://www.google.com/search?tbm=shop&q=ARMANI+Acqua+di+Gioia+Eau+de+Parfum+-+1.7+oz",
+  "url": "https://slickdeals.net/f/20228511-armani-acqua-di-gioia-eau-de-parfum-1-7-oz-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -7614,7 +7629,6 @@
   "pct": null,
   "price": 60.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20228511-armani-acqua-di-gioia-eau-de-parfum-1-7-oz-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -7749,7 +7763,7 @@
  {
   "id": "a2a4fa7178389ad2",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
+  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -7758,7 +7772,6 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-10-31T23:59:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -8761,7 +8774,7 @@
  {
   "id": "0bc0830081b92f9b",
   "title": "HackMotion Sensor 4 $70-$200 off $275",
-  "url": "https://www.google.com/search?tbm=shop&q=HackMotion+Sensor+4",
+  "url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8770,7 +8783,6 @@
   "pct": null,
   "price": 70.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -11543,7 +11555,7 @@
  {
   "id": "5d6039434c1fac48",
   "title": "DJI Osmo Pocket 3 1-Inch CMOS Gimbal Camera 4K/120fps $263 + F/S",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+1-Inch+CMOS+Gimbal+Camera+4K+120fps",
+  "url": "https://slickdeals.net/f/20238099-dji-osmo-pocket-3-1-inch-cmos-gimbal-camera-4k-120fps-263-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -11555,5 +11567,453 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238099-dji-osmo-pocket-3-1-inch-cmos-gimbal-camera-4k-120fps-263-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
+ },
+ {
+  "id": "2ab5fbb0143fc02f",
+  "title": "Bang & Olufsen Beoplay H9 Wireless Over the Ear Headphones (3rd Gen) $300",
+  "url": "https://www.google.com/search?tbm=shop&q=Bang+%26+Olufsen+Beoplay+H9+Wireless+Over+the+Ear+Headphones",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ssense",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 300.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15532738-bang-olufsen-beoplay-h9-wireless-over-the-ear-headphones-3rd-gen-300?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "def8456bc64a969a",
+  "title": "Common Projects - Black Original Achilles Low Sneakers",
+  "url": "https://www.google.com/search?tbm=shop&q=Common+Projects+-+Black+Original+Achilles+Low+Sneakers",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ssense",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14670281-common-projects-black-original-achilles-low-sneakers?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "40c0fec337ee6b83",
+  "title": "Chloé Pink Faye Wallet Bag $525 + Free Shipping & Free Return",
+  "url": "https://www.google.com/search?tbm=shop&q=Chlo+Pink+Faye+Wallet+Bag",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ssense",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 525.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14210015-chlo-pink-faye-wallet-bag-525-free-shipping-free-return?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "31655b537d3c7682",
+  "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
+  "why": "Gucci 40% off",
+  "category": "fashion",
+  "source": "Slickdeals: Century 21",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "7091ff206d5be99d",
+  "title": "Century 21: 2-Days Only! Take Up to 40% Off TUMI, Valid until 11/15",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+2-Days+Only+Take+Up+to+40+Off+TUMI+Valid+until+11+15",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Century 21",
+  "urgent": false,
+  "hot": false,
+  "pct": 40,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13561984-century-21-2-days-only-take-up-to-40-off-tumi-valid-until-11-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "282349b843af11d1",
+  "title": "DJI Osmo Pocket 3 1-Inch CMOS Gimbal Camera 4K/120fps $263 + F/S",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+1-Inch+CMOS+Gimbal+Camera+4K+120fps",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Pixel 10",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 263.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238099-dji-osmo-pocket-3-1-inch-cmos-gimbal-camera-4k-120fps-263-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "695ccdef830425b8",
+  "title": "Maui Jim Polarized Sunglasses (Various styles/Colors) from $99 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "3b9656feff013e68",
+  "title": "Maui Jim Men's Polarized Sunglasses (Various) $99.99 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.99,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "5e096280de0d59e9",
+  "title": "Woot! - Sunglasses: Maui Jim & More",
+  "url": "https://www.woot.com/search?query=Woot+-+Sunglasses+Maui+Jim+%26+More",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20128317-woot-sunglasses-maui-jim-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "9adb906f3f94960a",
+  "title": "Sunglasses: Maui Jim, Serengeti, & More at Woot!",
+  "url": "https://www.woot.com/search?query=Sunglasses+Maui+Jim+Serengeti+%26+More",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20041857-sunglasses-maui-jim-serengeti-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "c1bf1aec98fe109e",
+  "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses (and others) $90 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 90.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "0e8ef148d0570440",
+  "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 109.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "6610a21537e7eb67",
+  "title": "Maui Jim Makaha Polarized Sunglasses (Unisex, Black/Grey) $149 + $10 Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Makaha+Polarized+Sunglasses",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19855038-maui-jim-makaha-polarized-sunglasses-unisex-black-grey-149-10-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "3cc0b0b46950abef",
+  "title": "Serengeti, Maui Jim, & More Sunglasses! at Woot!",
+  "url": "https://www.woot.com/search?query=Serengeti+Maui+Jim+%26+More+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19848660-serengeti-maui-jim-more-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "84e8976b29cfd82f",
+  "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses $94.50 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 94.5,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "a1d65816b42f67c0",
+  "title": "Maui Jim $50 off",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "5056c82321becc5c",
+  "title": "Eyewear: Serengeti, Maui Jim, & More! at Woot!",
+  "url": "https://www.woot.com/search?query=Eyewear+Serengeti+Maui+Jim+%26+More",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19739349-eyewear-serengeti-maui-jim-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "f21480cfbda19ea3",
+  "title": "Maui Jim 'Akau Polarized Rimless Rectangle Sport Sunglasses $109 & More + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+%27Akau+Polarized+Rimless+Rectangle+Sport+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 109.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19619520-maui-jim-akau-polarized-rimless-rectangle-sport-sunglasses-109-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "9010c44cfd892444",
+  "title": "Serengeti Anzio II Polarized Sunglasses is $99 on Costco.com ($92 in store) after $30 coupon + FS",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Serengeti+Anzio+II+Polarized+Sunglasses+is",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19552656-serengeti-anzio-ii-polarized-sunglasses-is-99-on-costco-com-92-in-store-after-30-coupon-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "0a1c4ded68de52a5",
+  "title": "Maui Jim Men's Hookipa Polarized Sunglasses (Blue) $105",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Hookipa+Polarized+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 105.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19526013-maui-jim-men-s-hookipa-polarized-sunglasses-blue-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "8820e6880e11f240",
+  "title": "Maui Jim Men's Polarized Sunglasses (2 Styles) $105 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 105.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19503774-maui-jim-men-s-polarized-sunglasses-2-styles-105-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "1ae3d50550a553ee",
+  "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 109.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19441032-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "86d65b30aadd35dd",
+  "title": "Maui Jim Women's Blossom Polarized Cat Eye Sunglasses, Havana W/Peach/Hcl® Bronze Polarized, Medium Fit $239.85",
+  "url": "https://www.amazon.com/s?k=Maui+Jim+Women%27s+Blossom+Polarized+Cat+Eye+Sunglasses+Havana+Peach+Hcl+Bronze+Po",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 239.85,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19364214-maui-jim-women-s-blossom-polarized-cat-eye-sunglasses-havana-w-peach-hcl-bronze-polarized-medium-fit-239-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "57e225595bf241b6",
+  "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 109.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19253737-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "7a0513eafa1bb950",
+  "title": "Maui Jim Sugar Beach Polarized Sunglasses $92.4",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Sugar+Beach+Polarized+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 92.0,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19201549-maui-jim-sugar-beach-polarized-sunglasses-92-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "3e5235699ad4a2d8",
+  "title": "Sunglasses (Maui, Oakley, Carrera, Kate Spade etc.) Carrera Unisex 63mm Sunglasses $39.99 & More + Free Shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Carrera+Unisex+63mm+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18608866-sunglasses-maui-oakley-carrera-kate-spade-etc-carrera-unisex-63mm-sunglasses-39-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "227ccf686ae99374",
+  "title": "Men's Jomashop Summer Sunglasses Sale Burberry, Maui Jim, Hugo Boss, Under Armour starting $21.69 and more + $5.99 Shipping or Free w/$100+",
+  "url": "https://www.jomashop.com/search?q=Men%27s+Jomashop+Summer+Sunglasses+Burberry+Maui+Jim+Hugo+Boss+Under+Armour+starti",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 21.69,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18393493-men-s-jomashop-summer-sunglasses-sale-burberry-maui-jim-hugo-boss-under-armour-starting-21-69-and-more-5-99-shipping-or-free-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "2132af159f731523",
+  "title": "Woot! Maui Jim Sale 37%-39% (I've never seen Kahuna's on sale B4)",
+  "url": "https://www.woot.com/search?query=Woot+Maui+Jim+37+-39",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": 39,
+  "price": null,
+  "found_at": "2026-11-01T04:22:46Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18389092-woot-maui-jim-sale-37-39-i-ve-never-seen-kahuna-s-on-sale-b4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  }
 ]
