@@ -3510,7 +3510,8 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:51Z"
  },
  {
   "id": "a549830d62228df2",
@@ -3523,7 +3524,8 @@
   "hot": false,
   "pct": null,
   "price": 154.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:52Z"
  },
  {
   "id": "0a4d14c32780c6ee",
@@ -3536,7 +3538,8 @@
   "hot": false,
   "pct": null,
   "price": 134.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:53Z"
  },
  {
   "id": "7afabb56f314f4d0",
@@ -3549,7 +3552,8 @@
   "hot": false,
   "pct": null,
   "price": 152.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:54Z"
  },
  {
   "id": "b8f09d54f4863f25",
@@ -3562,7 +3566,8 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:55Z"
  },
  {
   "id": "0468c282b49368af",
@@ -3575,7 +3580,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:56Z"
  },
  {
   "id": "842ab856da426942",
@@ -3588,7 +3594,8 @@
   "hot": false,
   "pct": null,
   "price": 133.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:57Z"
  },
  {
   "id": "3c388a247bfc9c99",
@@ -3601,7 +3608,8 @@
   "hot": false,
   "pct": null,
   "price": 134.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:58Z"
  },
  {
   "id": "84936227c02b6d0e",
@@ -3614,7 +3622,8 @@
   "hot": false,
   "pct": null,
   "price": 399.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:37:59Z"
  },
  {
   "id": "84be3500b1490d37",
@@ -3627,7 +3636,8 @@
   "hot": false,
   "pct": null,
   "price": 12.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:38:00Z"
  },
  {
   "id": "7224de2600b9219a",
@@ -3640,7 +3650,8 @@
   "hot": false,
   "pct": null,
   "price": 4.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:38:02Z"
  },
  {
   "id": "0e734b02ba8bf0f8",
@@ -3653,7 +3664,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:38:03Z"
  },
  {
   "id": "d497233e3176304b",
@@ -3666,7 +3678,8 @@
   "hot": false,
   "pct": null,
   "price": 325.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:38:04Z"
  },
  {
   "id": "0f58df27a7c02bf0",
@@ -3679,7 +3692,8 @@
   "hot": false,
   "pct": null,
   "price": 23.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:38:05Z"
  },
  {
   "id": "4583c6ed20239a00",
@@ -3692,7 +3706,8 @@
   "hot": false,
   "pct": null,
   "price": 23.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:38:06Z"
  },
  {
   "id": "39e87a77daa28e69",
@@ -6319,12 +6334,13 @@
   "hot": false,
   "pct": null,
   "price": 89.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "b27c61d089e688b2",
   "title": "Apple AirPods 4 Wireless Earbuds w/ USB-C Case - $99 + FS",
-  "url": "https://slickdeals.net/f/20222082-apple-airpods-4-wireless-earbuds-w-usb-c-case-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Apple+AirPods+4+Wireless+Earbuds+w+USB-C+Case+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -6332,7 +6348,10 @@
   "hot": false,
   "pct": 23,
   "price": 99.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20222082-apple-airpods-4-wireless-earbuds-w-usb-c-case-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  },
  {
   "id": "310e4e7888ac1f71",
@@ -6345,12 +6364,13 @@
   "hot": false,
   "pct": null,
   "price": 99.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "d6cb96d191fabd85",
   "title": "3-in-1 Esr MagSafe Wireless Charging Station for iPhone, Apple Watch & AirPods (Blk, Grey or White) $12.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=3-in-1+Esr+MagSafe+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+AirPods",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -6358,12 +6378,15 @@
   "hot": false,
   "pct": null,
   "price": 12.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "65eecb420c76f47e",
   "title": "(Good Refurbished) Apple AirPods Pro 3 Wireless Active Noise Canceling Earbuds (MFHP4LL/A) $123.29 + Free Shipping",
-  "url": "https://slickdeals.net/f/20212419-good-refurbished-apple-airpods-pro-3-wireless-active-noise-canceling-earbuds-mfhp4ll-a-123-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20Wireless%20Active%20Noise%20Canceling%20Earbuds",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -6371,12 +6394,15 @@
   "hot": false,
   "pct": null,
   "price": 123.29,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20212419-good-refurbished-apple-airpods-pro-3-wireless-active-noise-canceling-earbuds-mfhp4ll-a-123-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "3408232f03d15675",
   "title": "Open-Box Excellent: Pelican - Marine Case for Apple Airpods Pro 3rd Generation - Black - $9.99 + FS",
-  "url": "https://slickdeals.net/f/20184717-open-box-excellent-pelican-marine-case-for-apple-airpods-pro-3rd-generation-black-9-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Open-Box+Excellent+Pelican+-+Marine+Case+for+Apple+Airpods+Pro+3rd+Generation+-+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -6384,12 +6410,15 @@
   "hot": false,
   "pct": null,
   "price": 9.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20184717-open-box-excellent-pelican-marine-case-for-apple-airpods-pro-3rd-generation-black-9-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "b96bd3fbf1d1e7a0",
   "title": "3-in-1 Ucomx Nano Foldable Wireless Charging Station for iPhone, Apple Watch & AirPods (White) $7.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20181198-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/3-in-1%20Ucomx%20Nano%20Foldable%20Wireless%20Charging%20Station%20for%20iPhone%20Apple%20Watch%20%26%20Ai",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -6397,7 +6426,10 @@
   "hot": false,
   "pct": null,
   "price": 7.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20181198-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "2d84e464dd306bd6",
@@ -6410,12 +6442,13 @@
   "hot": false,
   "pct": null,
   "price": 429.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "594a091f281a86a9",
   "title": "Minthouz 3-in-1 Wireless Charging Station for iPhone, Apple Watch & AirPods w/ Multi-Color Night Light $9.89 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20169480-minthouz-3-in-1-wireless-charging-station-for-iphone-apple-watch-airpods-w-multi-color-night-light-9-89-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Minthouz+3-in-1+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+AirPods+w+Mul",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -6423,12 +6456,15 @@
   "hot": false,
   "pct": 30,
   "price": 9.89,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20169480-minthouz-3-in-1-wireless-charging-station-for-iphone-apple-watch-airpods-w-multi-color-night-light-9-89-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "92294b88701ed83f",
   "title": "Apple Watch Alpine Loop - 49mm",
-  "url": "https://slickdeals.net/f/20200368-apple-watch-alpine-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Alpine%20Loop%20-%2049mm",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -6436,12 +6472,15 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20200368-apple-watch-alpine-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "ef6ddc4a98c16e8c",
   "title": "Apple Watch Trail Loop - 49mm",
-  "url": "https://slickdeals.net/f/20200365-apple-watch-trail-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Apple+Watch+Trail+Loop+-+49mm",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -6449,12 +6488,15 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20200365-apple-watch-trail-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "b3f6e91ce5c3493b",
   "title": "Apple Watch Series 11 (GPS + Cellular) 42mm Case with Sport Band (Size S/M), Hypertension Notifications, Sleep Score, Advanced Workout Metrics $349.97",
-  "url": "https://slickdeals.net/f/20194017-apple-watch-series-11-gps-cellular-42mm-case-with-sport-band-size-s-m-hypertension-notifications-sleep-score-advanced-workout-metrics-349-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Series%2011%2042mm%20Case%20with%20Sport%20Band%20Hypertension%20Notifications%20Sleep",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -6462,12 +6504,15 @@
   "hot": false,
   "pct": null,
   "price": 349.97,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20194017-apple-watch-series-11-gps-cellular-42mm-case-with-sport-band-size-s-m-hypertension-notifications-sleep-score-advanced-workout-metrics-349-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "ce0ebd2319884a6a",
   "title": "Apple Watch Ultra 2 Brand New at Woot - $549.99 FS",
-  "url": "https://slickdeals.net/f/20188950-apple-watch-ultra-2-brand-new-at-woot-549-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Apple+Watch+Ultra+2+Brand",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -6475,12 +6520,15 @@
   "hot": false,
   "pct": null,
   "price": 549.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20188950-apple-watch-ultra-2-brand-new-at-woot-549-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "fe029a86d342aa69",
   "title": "TreasureMax Stretchy Nylon Apple Watch Sport Band w/ Magnetic Clasp (38-49mm, Various Colors) $4.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20187504-treasuremax-stretchy-nylon-apple-watch-sport-band-w-magnetic-clasp-38-49mm-various-colors-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/TreasureMax%20Stretchy%20Nylon%20Apple%20Watch%20Sport%20Band%20w%20Magnetic%20Clasp",
   "why": "Apple Watch 50% off",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -6488,12 +6536,15 @@
   "hot": true,
   "pct": 50,
   "price": 4.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20187504-treasuremax-stretchy-nylon-apple-watch-sport-band-w-magnetic-clasp-38-49mm-various-colors-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "a0562efcda8b3b45",
   "title": "3-in-1 Ucomx Nano Foldable Wireless Charging Station for iPhone, Apple Watch & AirPods (White) $7.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20181198-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/3-in-1%20Ucomx%20Nano%20Foldable%20Wireless%20Charging%20Station%20for%20iPhone%20Apple%20Watch%20%26%20Ai",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -6501,12 +6552,15 @@
   "hot": false,
   "pct": null,
   "price": 7.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20181198-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "39eaa8c089b9a702",
   "title": "Samsung EDU/EPP Unlocked Galaxy Z fold8 Ultra Green Shadow 512 GB plus $400 for accessories $1584.99",
-  "url": "https://slickdeals.net/f/20229699-samsung-edu-epp-unlocked-galaxy-z-fold8-ultra-green-shadow-512-gb-plus-400-for-accessories-1584-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Galaxy+Z+fold8+Ultra+Green+Shadow+512+GB+plus",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Galaxy Watch",
@@ -6514,12 +6568,15 @@
   "hot": false,
   "pct": null,
   "price": 400.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20229699-samsung-edu-epp-unlocked-galaxy-z-fold8-ultra-green-shadow-512-gb-plus-400-for-accessories-1584-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "30e11f7595e6313b",
   "title": "Samsung EDU/EPP Unlocked Samsung Galaxy S26 Ultra 256 GB plus $300 for accessories $879.99",
-  "url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+S26+Ultra+256+GB+plus",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Galaxy Watch",
@@ -6527,12 +6584,15 @@
   "hot": false,
   "pct": null,
   "price": 300.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "f05a92a5f5968d90",
   "title": "Samsung EDU/EPP Unlocked Galaxy Z fold8 256GB plus $400 for accessories $1404.99",
-  "url": "https://slickdeals.net/f/20224902-samsung-edu-epp-unlocked-galaxy-z-fold8-256gb-plus-400-for-accessories-1404-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Galaxy+Z+fold8+256GB+plus",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Galaxy Watch",
@@ -6540,12 +6600,15 @@
   "hot": false,
   "pct": null,
   "price": 400.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20224902-samsung-edu-epp-unlocked-galaxy-z-fold8-256gb-plus-400-for-accessories-1404-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "150f3ca81f0c1767",
   "title": "Galaxy Watch Ultra 2 $195 + tax with EPP & ultra trade in YMMV",
-  "url": "https://slickdeals.net/f/20207142-galaxy-watch-ultra-2-195-tax-with-epp-ultra-trade-in-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Galaxy+Watch+Ultra+2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6553,12 +6616,15 @@
   "hot": false,
   "pct": null,
   "price": 195.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20207142-galaxy-watch-ultra-2-195-tax-with-epp-ultra-trade-in-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "c576cf799b41a0dc",
   "title": "Samsung Galaxy Watch Ultra (GPS + Cellular) $344.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20196729-samsung-galaxy-watch-ultra-gps-cellular-344-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Samsung+Galaxy+Watch+Ultra",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6566,12 +6632,15 @@
   "hot": false,
   "pct": null,
   "price": 344.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20196729-samsung-galaxy-watch-ultra-gps-cellular-344-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "0f82e08c963d328e",
   "title": "Amazon - Smart Watch 3 Bands for Women Men, Bluetooth Call, 40mm AMOLED Fitness Watch for iPhone/Android/Samsung - $22.99",
-  "url": "https://slickdeals.net/f/20192427-amazon-smart-watch-3-bands-for-women-men-bluetooth-call-40mm-amoled-fitness-watch-for-iphone-android-samsung-22-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Amazon+-+Smart+Watch+3+Bands+for+Women+Men+Bluetooth+Call+40mm+AMOLED+Fitness+Wa",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6579,12 +6648,15 @@
   "hot": false,
   "pct": null,
   "price": 22.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20192427-amazon-smart-watch-3-bands-for-women-men-bluetooth-call-40mm-amoled-fitness-watch-for-iphone-android-samsung-22-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "ace7a7d05dceacb9",
   "title": "Samsung EDU/EPP Galaxy Watch 9 bluetooth 40 mm $212.99 plus $50 for accessories $212.99 $212.86",
-  "url": "https://slickdeals.net/f/20189583-samsung-edu-epp-galaxy-watch-9-bluetooth-40-mm-212-99-plus-50-for-accessories-212-99-212-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Galaxy+Watch+9+bluetooth+40+mm",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6592,12 +6664,15 @@
   "hot": false,
   "pct": null,
   "price": 212.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20189583-samsung-edu-epp-galaxy-watch-9-bluetooth-40-mm-212-99-plus-50-for-accessories-212-99-212-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "68bd4775025f5394",
   "title": "Samsung EDU/EPP Samsung Galaxy Watch Ultra 2 plus $100 for accessories $444.99",
-  "url": "https://slickdeals.net/f/20189571-samsung-edu-epp-samsung-galaxy-watch-ultra-2-plus-100-for-accessories-444-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Samsung+Galaxy+Watch+Ultra+2+plus",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6605,12 +6680,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20189571-samsung-edu-epp-samsung-galaxy-watch-ultra-2-plus-100-for-accessories-444-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "fc79f5ed6d66bbbc",
   "title": "(NEW) Samsung Galaxy Watch 7 [GPS + Cellular] - $199.99 - Free shipping for Prime members",
-  "url": "https://slickdeals.net/f/20187375-new-samsung-galaxy-watch-7-gps-cellular-199-99-free-shipping-for-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Samsung+Galaxy+Watch+7+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6618,12 +6696,15 @@
   "hot": false,
   "pct": null,
   "price": 199.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20187375-new-samsung-galaxy-watch-7-gps-cellular-199-99-free-shipping-for-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "fc651e27540e0c8a",
   "title": "Smart Watch for Women with 2 Bands works with iPhone and Android, $22.99 w/ coupon and code",
-  "url": "https://slickdeals.net/f/20183040-smart-watch-for-women-with-2-bands-works-with-iphone-and-android-22-99-w-coupon-and-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Smart+Watch+for+Women+with+2+Bands+works+with+iPhone+and+Android",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6631,12 +6712,15 @@
   "hot": false,
   "pct": null,
   "price": 22.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20183040-smart-watch-for-women-with-2-bands-works-with-iphone-and-android-22-99-w-coupon-and-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "6a2eed3a29e6f270",
   "title": "Save up to $200 on select Galaxy Watch8 Classic Bestbuy.com",
-  "url": "https://slickdeals.net/f/20181528-save-up-to-200-on-select-galaxy-watch8-classic-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Save+up+to",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy Watch",
@@ -6644,7 +6728,10 @@
   "hot": false,
   "pct": null,
   "price": 200.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20181528-save-up-to-200-on-select-galaxy-watch8-classic-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "1e66f05c179f039a",
@@ -11608,5 +11695,205 @@
   "price": null,
   "found_at": "2026-11-01T03:30:36Z",
   "link_tried2": true
+ },
+ {
+  "id": "acb932b7c0887269",
+  "title": "[NEW, AC] $1472.59 | Frederique Constant Mens Swiss Automatic Highlife COSC Silver-Tone Stainless Steel Watch with Bracelet and Additional Navy Rubber Strap at Amazon",
+  "url": "https://slickdeals.net/f/19866486-new-ac-1472-59-frederique-constant-mens-swiss-automatic-highlife-cosc-silver-tone-stainless-steel-watch-with-bracelet-and-additional-navy-rubber-strap-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 147.0,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "5d935ad06e608c91",
+  "title": "Frederique Constant Men's Classic Swiss Made Automatic Silver Stainless Steel Watch $680",
+  "url": "https://slickdeals.net/f/18987919-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-680?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 680.0,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "b224a3ba926962f2",
+  "title": "Frederique Constant Men's Classic Swiss Made Automatic Silver Stainless Steel Watch $799.99",
+  "url": "https://slickdeals.net/f/18962188-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.99,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "e9c27f70f1659175",
+  "title": "Frederique Constant Men's Watch - Slimline Automatic Black Leather Strap | 723GR3S6 Sale: $998.01 with code NYS2520",
+  "url": "https://slickdeals.net/f/18045150-frederique-constant-men-s-watch-slimline-automatic-black-leather-strap-723gr3s6-sale-998-01-with-code-nys2520?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 998.01,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "bb798663026440f7",
+  "title": "Frederique Constant Men's Watch (Slimline Automatic) $940.96",
+  "url": "https://slickdeals.net/f/17873613-frederique-constant-men-s-watch-slimline-automatic-940-96?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 940.96,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "f370138ad676fad7",
+  "title": "Frederique Constant Men's Watch: Slimline Power Reserve (Silver Tone Dial) $999",
+  "url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 999.0,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "a5c41220b4865c73",
+  "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299.99",
+  "url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 299.99,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "3ce191795bf97bd1",
+  "title": "Frederique Constant: Men's Quartz Grey Dial $275, Slimline Small Seconds Quartz Watch $349 & More + Free Shipping",
+  "url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 275.0,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "9f19bf3d5ca9508f",
+  "title": "Frederique Constant Quartz Grey Dial $309.95, Classics Automatic Blue Dial Men's Watch $495.95 & More + Free Shipping",
+  "url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 309.95,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "5a59460e116f2306",
+  "title": "FREDERIQUE CONSTANT - Automatic Silver Dial Ladies Watch - $339.99 after coupon - Jomashop **FREE SHIPPING**",
+  "url": "https://www.jomashop.com/search?q=FREDERIQUE+CONSTANT+-+Automatic+Silver+Dial+Ladies+Watch+-",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 339.99,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "2cfc93e6fa1b6494",
+  "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299",
+  "url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 299.0,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "15e6b9cfd596c4c3",
+  "title": "Frederique Constant Horological 34mm Quartz Ladies Smartwatch FC-281WH3ER6B $199",
+  "url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "e94c903d2e374d6b",
+  "title": "Frederique Constant Watches Sale-Classics Silver Dial Watch $299.99/Horological Quartz Smart Watch $249/Classics Quartz Silver Dial $249 + Free Shipping",
+  "url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Watch 77% off",
+  "category": "tech",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": true,
+  "pct": 77,
+  "price": 299.99,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true
+ },
+ {
+  "id": "70ebe705c6317f04",
+  "title": "TechnoMarine Ocean Manta Chronograph Quartz Men's Watch $66.99, Tissot Mother of Pearl Ladies Watch $149 & More + Free Shipping",
+  "url": "https://www.jomashop.com/search?q=TechnoMarine+Ocean+Manta+Chronograph+Quartz+Men%27s+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Frederique Constant",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 66.99,
+  "found_at": "2026-11-01T03:36:57Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  }
 ]
