@@ -4197,12 +4197,13 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:17:25Z"
+  "checked_at": "2026-11-01T04:17:25Z",
+  "link_tried3": true
  },
  {
   "id": "4e7fddc082ac4e58",
   "title": "Guilty Intense by Gucci for Women - 3 oz EDP Spray $93.93",
-  "url": "https://slickdeals.net/f/20049954-guilty-intense-by-gucci-for-women-3-oz-edp-spray-93-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Guilty+Intense+by+Gucci+for+Women+-+3+oz+EDP+Spray",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci",
@@ -4211,7 +4212,10 @@
   "pct": null,
   "price": 93.93,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:17:27Z"
+  "checked_at": "2026-11-01T04:17:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20049954-guilty-intense-by-gucci-for-women-3-oz-edp-spray-93-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "baa7af10244d3567",
@@ -4225,7 +4229,8 @@
   "pct": null,
   "price": 69.51,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:17:29Z"
+  "checked_at": "2026-11-01T04:17:29Z",
+  "link_tried3": true
  },
  {
   "id": "08752cc1baeb4428",
@@ -4239,12 +4244,13 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:17:31Z"
+  "checked_at": "2026-11-01T04:17:31Z",
+  "link_tried3": true
  },
  {
   "id": "227069bfce85f8a2",
   "title": "Gucci Guilty Pour Homme Eau de Parfum, 3.0 fl oz $69,99 free shipping Costco.com",
-  "url": "https://slickdeals.net/f/20022672-gucci-guilty-pour-homme-eau-de-parfum-3-0-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Homme+Eau+de+Parfum+3.0+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -4253,12 +4259,15 @@
   "pct": null,
   "price": 69.0,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:17:32Z"
+  "checked_at": "2026-11-01T04:17:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20022672-gucci-guilty-pour-homme-eau-de-parfum-3-0-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "3f0d1b1bdc8070cc",
   "title": "Gucci Flora Gorgeous Gardenia Eau de Parfum, 3.3 fl oz $74.99 Free Shipping Costco.com",
-  "url": "https://slickdeals.net/f/19844367-gucci-flora-gorgeous-gardenia-eau-de-parfum-3-3-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Gucci+Flora+Gorgeous+Gardenia+Eau+de+Parfum+3.3+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -4267,12 +4276,15 @@
   "pct": null,
   "price": 74.99,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:23:58Z"
+  "checked_at": "2026-11-01T04:23:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19844367-gucci-flora-gorgeous-gardenia-eau-de-parfum-3-3-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "5022092e765248eb",
   "title": "Designer fragrances at Costco B&M $59.99 YMMV",
-  "url": "https://slickdeals.net/f/19840698-designer-fragrances-at-costco-b-m-59-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Designer+fragrances",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -4281,7 +4293,10 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:23:59Z"
+  "checked_at": "2026-11-01T04:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19840698-designer-fragrances-at-costco-b-m-59-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "f0008d0f42f8915d",
@@ -4295,12 +4310,13 @@
   "pct": null,
   "price": 91.85,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:04Z"
+  "checked_at": "2026-11-01T04:24:04Z",
+  "link_tried3": true
  },
  {
   "id": "90588cdd798b9f87",
   "title": "Bulova Men's Marine Star 'Series B' Silver Stainless Steel Quartz Watch, Blue Leather and Black Silicone Strap, 43mm Style: 96B419 $242.24",
-  "url": "https://slickdeals.net/f/20229135-bulova-men-s-marine-star-series-b-silver-stainless-steel-quartz-watch-blue-leather-and-black-silicone-strap-43mm-style-96b419-242-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Bulova+Men%27s+Marine+Star+%27Series+B%27+Silver+Stainless+Steel+Quartz+Watch+Blue+Lea",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -4309,12 +4325,15 @@
   "pct": null,
   "price": 242.24,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:06Z"
+  "checked_at": "2026-11-01T04:24:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20229135-bulova-men-s-marine-star-series-b-silver-stainless-steel-quartz-watch-blue-leather-and-black-silicone-strap-43mm-style-96b419-242-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "32897a90cf1dc6bf",
   "title": "Bruce Lee Seiko Watch Sweepstakes ~ 11/13/2023",
-  "url": "https://slickdeals.net/f/17007496-bruce-lee-seiko-watch-sweepstakes-11-13-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bruce+Lee+Seiko+Watch+Sweepstakes+11+13+2023",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4323,12 +4342,15 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:08Z"
+  "checked_at": "2026-11-01T04:24:08Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17007496-bruce-lee-seiko-watch-sweepstakes-11-13-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "887cc93dd86828a5",
   "title": "Seiko Men's Japanese-Automatic Watch (Model: SARB035) $340",
-  "url": "https://slickdeals.net/e/14011691-seiko-men-s-japanese-automatic-watch-model-sarb035-340?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/product-reviews/B001AE9XS0/",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4337,12 +4359,15 @@
   "pct": null,
   "price": 340.0,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:08Z"
+  "checked_at": "2026-11-01T04:24:08Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14011691-seiko-men-s-japanese-automatic-watch-model-sarb035-340?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "6e975af6e20951ff",
   "title": "Seiko SARB033 / SARB035 $330 on Amazon (sold by Amazon) + FS",
-  "url": "https://slickdeals.net/e/13788707-seiko-sarb033-sarb035-330-on-amazon-sold-by-amazon-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Seiko+SARB033+SARB035",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4351,12 +4376,15 @@
   "pct": null,
   "price": 330.0,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:09Z"
+  "checked_at": "2026-11-01T04:24:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13788707-seiko-sarb033-sarb035-330-on-amazon-sold-by-amazon-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "d7e15c988a6eb821",
   "title": "Men's Automatic Presage Black Leather Strap watch 40.5mm - $270.93 + Free Shipping | (36% off)",
-  "url": "https://slickdeals.net/e/13479637-men-s-automatic-presage-black-leather-strap-watch-40-5mm-270-93-free-shipping-36-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.macys.com/shop/product/seiko-mens-automatic-presage-black-leather-strap-watch-40.5mm?ID=5865494&amp%3BPartnerID=LINKSHARE&amp%3Bcm_mmc=LINKSHARE-_-1-_-18-_-MP118&amp%3BranMID=3184&amp%3BranEAID=J84DHJLQkR4&amp%3BranSiteID=J84DHJLQkR4-siJfwRx5l1P7xQDj7jCtlg&amp%3BLinkshareID=J84DHJLQkR4-siJfwRx5l1P7xQDj7jCtlg&amp%3Bm_sc=aff&amp%3BPartnerID=LINKSHARE",
   "why": "Seiko 36% off",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4365,12 +4393,15 @@
   "pct": 36,
   "price": 270.93,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:10Z"
+  "checked_at": "2026-11-01T04:24:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13479637-men-s-automatic-presage-black-leather-strap-watch-40-5mm-270-93-free-shipping-36-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys"
  },
  {
   "id": "f49527c6c652b2c3",
   "title": "Seiko Automatic JDM - SARB035 (white) and SARB033 (black) - $318.75",
-  "url": "https://slickdeals.net/e/12395923-seiko-automatic-jdm-sarb035-white-and-sarb033-black-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Automatic+JDM+-+SARB035+and+SARB033+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4379,12 +4410,15 @@
   "pct": null,
   "price": 318.75,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:11Z"
+  "checked_at": "2026-11-01T04:24:11Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12395923-seiko-automatic-jdm-sarb035-white-and-sarb033-black-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "250fdde30a602a5b",
   "title": "Seiko Men's Le Grand Solar Chronograph Watch w/ Leather Strap $149.95 + Free Shipping",
-  "url": "https://slickdeals.net/e/12172666-seiko-men-s-le-grand-solar-chronograph-watch-w-leather-strap-149-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Le+Grand+Solar+Chronograph+Watch+w+Leather+Strap",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4393,7 +4427,10 @@
   "pct": null,
   "price": 149.95,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:12Z"
+  "checked_at": "2026-11-01T04:24:12Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12172666-seiko-men-s-le-grand-solar-chronograph-watch-w-leather-strap-149-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "63383ec7e99adc67",
@@ -4407,7 +4444,8 @@
   "pct": null,
   "price": 129.0,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:13Z"
+  "checked_at": "2026-11-01T04:24:13Z",
+  "link_tried3": true
  },
  {
   "id": "82993a07001c2885",
@@ -4421,12 +4459,13 @@
   "pct": null,
   "price": 16.99,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:14Z"
+  "checked_at": "2026-11-01T04:24:14Z",
+  "link_tried3": true
  },
  {
   "id": "538805e62f3f7a61",
   "title": "Available 11/5: Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition Console $519.99",
-  "url": "https://slickdeals.net/f/20233665-available-11-5-nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-console-519-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.target.com/s?searchTerm=Available+11+5+Nintendo+Switch+2+The+Legend+of+Zelda+40th+Anniversary+Edition+Co",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -4435,12 +4474,15 @@
   "pct": null,
   "price": 519.99,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:16Z"
+  "checked_at": "2026-11-01T04:24:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20233665-available-11-5-nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-console-519-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Target"
  },
  {
   "id": "441dfa8a2678b140",
   "title": "HORI Nintendo Switch Split Pad Compact Controller (Pikachu & Mimikyu Edition) - $28.99 @ Newegg",
-  "url": "https://slickdeals.net/f/20233572-hori-nintendo-switch-split-pad-compact-controller-pikachu-mimikyu-edition-28-99-newegg?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.newegg.com/p/pl?d=HORI+Nintendo+Switch+Split+Pad+Compact+Controller+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -4449,7 +4491,10 @@
   "pct": null,
   "price": 28.99,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:17Z"
+  "checked_at": "2026-11-01T04:24:17Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20233572-hori-nintendo-switch-split-pad-compact-controller-pikachu-mimikyu-edition-28-99-newegg?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Newegg"
  },
  {
   "id": "d2978188b5ea00c8",
@@ -4463,12 +4508,13 @@
   "pct": null,
   "price": 24.88,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:24:19Z"
+  "checked_at": "2026-11-01T04:24:19Z",
+  "link_tried3": true
  },
  {
   "id": "35a57af996b2bfbd",
   "title": "Geek Squad Refurbished Nintendo Switch OLED Console (Good Condition) – $179.99 + Free Shipping at Best Buy",
-  "url": "https://slickdeals.net/f/20231307-geek-squad-refurbished-nintendo-switch-oled-console-good-condition-179-99-free-shipping-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Geek+Squad+Refurbished+Nintendo+Switch+OLED+Console",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -4477,7 +4523,10 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-10-31T23:32:29Z",
-  "checked_at": "2026-11-01T04:30:47Z"
+  "checked_at": "2026-11-01T04:30:47Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20231307-geek-squad-refurbished-nintendo-switch-oled-console-good-condition-179-99-free-shipping-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "fe2ca9a62f8833c8",
@@ -5003,7 +5052,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20088618-parfums-de-marly-layton-eau-de-parfum-parfum-for-men-4-2-fl-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T04:44:13Z"
  },
  {
   "id": "06fc7692c1554030",
@@ -5019,7 +5069,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/19577274-ultimate-top-10-elite-fragrance-on-sale-shortlist-on-sale-at-jomashop-fathers-day-deals-on-men-s-cologne-120-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Jomashop"
+  "store": "Jomashop",
+  "checked_at": "2026-11-01T04:44:14Z"
  },
  {
   "id": "5619f6fe2abb766f",
@@ -5033,7 +5084,10 @@
   "pct": 20,
   "price": 11.99,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19139761-al-haramain-detour-noir-intense-3-33-oz-edp-unisex-11-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T04:44:16Z"
  },
  {
   "id": "60114ae1d8236971",
@@ -5049,7 +5103,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/17812773-sam-s-club-members-2-5-oz-parfum-de-marly-layton-eau-de-parfum-150-free-shipping-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsclub"
+  "store": "Samsclub",
+  "checked_at": "2026-11-01T04:44:17Z"
  },
  {
   "id": "fa151544999298ff",
@@ -5065,7 +5120,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/17604873-costco-members-men-s-cologne-6-7-oz-versace-man-eros-eau-de-toilette-60-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco"
+  "store": "Costco",
+  "checked_at": "2026-11-01T04:44:19Z"
  },
  {
   "id": "d4851a5a2bb3b89e",
@@ -5079,12 +5135,15 @@
   "pct": null,
   "price": 259.99,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17515668-creed-aventus-edp-spray-3-3-oz-259-99-le-labo-santal-33-1-7oz-179-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T04:44:20Z"
  },
  {
   "id": "3bb81fb6f03d6097",
   "title": "4 fl oz Mancera Cedrat Boise Eau de Parfum $70 & More + F/S ~ Costco",
-  "url": "https://slickdeals.net/f/17505093-4-fl-oz-mancera-cedrat-boise-eau-de-parfum-70-more-f-s-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=4+fl+oz+Mancera+Cedrat+Boise+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5092,12 +5151,16 @@
   "hot": false,
   "pct": null,
   "price": 70.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17505093-4-fl-oz-mancera-cedrat-boise-eau-de-parfum-70-more-f-s-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "checked_at": "2026-11-01T04:44:22Z"
  },
  {
   "id": "ef22ae8285eec4ed",
   "title": "Parfums de Marly Godolphin Eau De Parfum 4.2 oz $189.99 Woot!",
-  "url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
   "why": "Eau De Parfum 48% off",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5105,12 +5168,16 @@
   "hot": true,
   "pct": 48,
   "price": 189.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot",
+  "checked_at": "2026-11-01T04:44:23Z"
  },
  {
   "id": "dc9a6c86c40444a2",
   "title": "Costco: 4.2 fl oz (125 ml) PARFUME DE MARLY Pegasus Eau de Parume $204.99",
-  "url": "https://slickdeals.net/f/17285875-costco-4-2-fl-oz-125-ml-parfume-de-marly-pegasus-eau-de-parume-204-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+4.2+fl+oz+PARFUME+DE+MARLY+Pegasus+Eau+de+Parume",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5118,12 +5185,16 @@
   "hot": false,
   "pct": null,
   "price": 204.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17285875-costco-4-2-fl-oz-125-ml-parfume-de-marly-pegasus-eau-de-parume-204-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "checked_at": "2026-11-01T04:44:25Z"
  },
  {
   "id": "b330492603134842",
   "title": "Jomashop: 2.5 oz (75 ml) PARFUMS DE MARLY Ladies Delina EDP Spray $195 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Jomashop+2.5+oz+PARFUMS+DE+MARLY+Ladies+Delina+EDP+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5131,12 +5202,16 @@
   "hot": false,
   "pct": null,
   "price": 195.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop",
+  "checked_at": "2026-11-01T04:44:26Z"
  },
  {
   "id": "78da46cff7ae9cba",
   "title": "Jomashop: CITIZEN Quartz Blue Dial Stainless Steel Men's Watch $65 & More + Shipping ($6)",
-  "url": "https://slickdeals.net/f/17091859-jomashop-citizen-quartz-blue-dial-stainless-steel-men-s-watch-65-more-shipping-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Jomashop+CITIZEN+Quartz+Blue+Dial+Stainless+Steel+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Parfums De Marly",
@@ -5144,12 +5219,16 @@
   "hot": false,
   "pct": null,
   "price": 65.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17091859-jomashop-citizen-quartz-blue-dial-stainless-steel-men-s-watch-65-more-shipping-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop",
+  "checked_at": "2026-11-01T04:44:28Z"
  },
  {
   "id": "a5451b9fb18e6ba9",
   "title": "Citizen Men's Automatic Promaster Sea Dive Watch $255",
-  "url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Automatic+Promaster+Sea+Dive+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Amazon watch",
@@ -5157,12 +5236,15 @@
   "hot": false,
   "pct": null,
   "price": 255.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "afb24bc00e7791c3",
   "title": "New Apple Watch Ultra 4 just dropped back to all-time low at nearly $100 off [Updated]",
-  "url": "https://9to5toys.com/2026/10/31/new-black-apple-watch-ultra-4-best-price/",
+  "url": "https://use.typekit.net",
   "why": "Airpods — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -5170,12 +5252,15 @@
   "hot": true,
   "pct": 13,
   "price": 100.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://9to5toys.com/2026/10/31/new-black-apple-watch-ultra-4-best-price/",
+  "store": "Typekit"
  },
  {
   "id": "4b8ff962df48a14a",
   "title": "[Costco Members] - Apple Macboook Pro PROLED XDR Display 14\" & 16\" - Receive $100 Costco Shop Card & 1-year AppleCare+ Included",
-  "url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=-+Apple+Macboook+Pro+PROLED+XDR+Display+14+%26+16+-+Receive",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook",
@@ -5183,12 +5268,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "6964559054fcf823",
   "title": "Garmin Dash Cam™ Mini 3, Ultracompact 1080p HD Dash Cam with a 140-degree Field of View, Built In Clarity™ Polarizer, Voice Controlled, Automatic Recording $99.99",
-  "url": "https://slickdeals.net/f/20233128-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-with-a-140-degree-field-of-view-built-in-clarity-polarizer-voice-controlled-automatic-recording-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Garmin+Dash+Cam+Mini+3+Ultracompact+1080p+HD+Dash+Cam+with+a+140-degree+Field+of",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -5196,12 +5284,15 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20233128-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-with-a-140-degree-field-of-view-built-in-clarity-polarizer-voice-controlled-automatic-recording-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  },
  {
   "id": "b0605e77cb0ff61a",
   "title": "Nitro Z19 XL Pro 19ft. 3in. Bass Boat, Mercury 200 L Pro XS 4-Stroke, Dual Garmin Livescope ECHOMAP, Garmin Force Pro Trolling Motor, Tandem Trailer + Free Shipping $39,379",
-  "url": "https://slickdeals.net/f/20224626-nitro-z19-xl-pro-19ft-3in-bass-boat-mercury-200-l-pro-xs-4-stroke-dual-garmin-livescope-echomap-garmin-force-pro-trolling-motor-tandem-trailer-free-shipping-39-379?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Nitro+Z19+XL+Pro+19ft.+3in.+Bass+Boat+Mercury+200+L+Pro+XS+4-Stroke+Dual+Garmin+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -5209,7 +5300,10 @@
   "hot": false,
   "pct": null,
   "price": 39379.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20224626-nitro-z19-xl-pro-19ft-3in-bass-boat-mercury-200-l-pro-xs-4-stroke-dual-garmin-livescope-echomap-garmin-force-pro-trolling-motor-tandem-trailer-free-shipping-39-379?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "1aa28653287ac77c",
@@ -5222,7 +5316,10 @@
   "hot": false,
   "pct": null,
   "price": 599.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "e85c3a9afc85d927",
@@ -5235,7 +5332,8 @@
   "hot": false,
   "pct": null,
   "price": 149.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true
  },
  {
   "id": "5575e32ebf3580ad",
@@ -5248,7 +5346,8 @@
   "hot": false,
   "pct": null,
   "price": 229.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true
  },
  {
   "id": "b4e2c023027daec5",
@@ -5261,12 +5360,15 @@
   "hot": false,
   "pct": null,
   "price": 923.12,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "4a9b98cb681e2ad8",
   "title": "Hamilton Khaki Field Murph 42mm + Bracelet Bundle - $1,015 After 15% Signup Discount + $250 Loyalist Cash (Effective $765) @ Bloomingdale's",
-  "url": "https://slickdeals.net/f/20150121-hamilton-khaki-field-murph-42mm-bracelet-bundle-1-015-after-15-signup-discount-250-loyalist-cash-effective-765-bloomingdale-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bloomingdales.com/shop/search?keyword=Hamilton+Khaki+Field+Murph+42mm+%2B+Bracelet+Bundle+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5274,7 +5376,10 @@
   "hot": false,
   "pct": 15,
   "price": 1015.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20150121-hamilton-khaki-field-murph-42mm-bracelet-bundle-1-015-after-15-signup-discount-250-loyalist-cash-effective-765-bloomingdale-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bloomingdales"
  },
  {
   "id": "d20d39a6f7c0d585",
@@ -5287,7 +5392,10 @@
   "hot": false,
   "pct": null,
   "price": 799.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20083566-hamilton-khaki-38mm-automatic-field-watch-w-black-dial-leather-strap-799-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "94072a5aed8c3909",
@@ -5300,7 +5408,10 @@
   "hot": false,
   "pct": null,
   "price": 569.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "5cf1c0a1cb1cd863",
@@ -5313,7 +5424,10 @@
   "hot": false,
   "pct": null,
   "price": 367.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "cd1bdc7be6b8caf1",
@@ -5326,7 +5440,10 @@
   "hot": false,
   "pct": null,
   "price": 367.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1f4e48017a84a658",
@@ -5339,7 +5456,8 @@
   "hot": false,
   "pct": null,
   "price": 123.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true
  },
  {
   "id": "751d1ea5d662896c",
@@ -5352,7 +5470,10 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "e0fe981eb4d4cb63",
@@ -5365,7 +5486,10 @@
   "hot": false,
   "pct": null,
   "price": 549.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19879521-hamilton-men-s-khaki-aviation-x-wind-46mm-quartz-watch-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0935d1275902f678",
@@ -5378,7 +5502,10 @@
   "hot": false,
   "pct": null,
   "price": 569.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19878093-hamilton-men-s-khaki-navy-41mm-black-dial-automatic-watch-569?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "6de368c66e3721e1",
@@ -5391,7 +5518,10 @@
   "hot": false,
   "pct": null,
   "price": 579.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19792779-hamilton-jazzmaster-automatic-white-dial-men-s-watch-579?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "ab223f1b858124e4",
@@ -5404,7 +5534,10 @@
   "hot": true,
   "pct": 73,
   "price": 442.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19591560-hamilton-men-s-automatic-watch-36mm-jazzmaster-442-38mm-42mm-american-classic-from-351-10-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "3f29bc8403f5b638",
@@ -5417,7 +5550,10 @@
   "hot": false,
   "pct": null,
   "price": 499.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19494378-hamilton-men-s-jazzmaster-automatic-watch-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "5d241c6d0f6bb9cb",
@@ -5430,7 +5566,10 @@
   "hot": false,
   "pct": null,
   "price": 351.12,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19459029-hamilton-men-s-american-classic-watch-351-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "f54977912b551faa",
@@ -5443,7 +5582,10 @@
   "hot": false,
   "pct": null,
   "price": 579.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19366911-hamilton-men-s-khaki-navy-automatic-watch-579-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "6f2da1271cfdbc03",
@@ -5456,7 +5598,10 @@
   "hot": false,
   "pct": null,
   "price": 492.15,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19172281-hamilton-american-classic-men-s-automatic-silver-dial-watch-492-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1150a0dbb818d6b4",
@@ -5469,12 +5614,15 @@
   "hot": false,
   "pct": null,
   "price": 493.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18732838-hamilton-khaki-field-mechanical-black-dial-493?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "4fbe3d3123f7b865",
   "title": "Hamilton American Classic Chrono $594.99",
-  "url": "https://slickdeals.net/f/18421336-hamilton-american-classic-chrono-594-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+American+Classic+Chrono",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5482,12 +5630,15 @@
   "hot": false,
   "pct": null,
   "price": 594.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18421336-hamilton-american-classic-chrono-594-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1a106f27ba17acd4",
   "title": "Hamilton Khaki Field Men's Quartz Watch w/ Leather Strap $188 + free s/h",
-  "url": "https://slickdeals.net/f/18309607-hamilton-khaki-field-men-s-quartz-watch-w-leather-strap-188-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Field+Men%27s+Quartz+Watch+w+Leather+Strap",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5495,12 +5646,15 @@
   "hot": false,
   "pct": null,
   "price": 188.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18309607-hamilton-khaki-field-men-s-quartz-watch-w-leather-strap-188-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "cb54c581303deebd",
   "title": "Hamilton Khaki King 40MM Series Automatic Men's Watch $455 + Free Shipping",
-  "url": "https://slickdeals.net/f/18176566-hamilton-khaki-king-40mm-series-automatic-men-s-watch-455-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Hamilton+Khaki+King+40MM+Series+Automatic+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5508,12 +5662,15 @@
   "hot": false,
   "pct": null,
   "price": 455.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18176566-hamilton-khaki-king-40mm-series-automatic-men-s-watch-455-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "107c0713aa13fe74",
   "title": "LG 48\" Class C5 Series OLED evo AI Smart TV -$699",
-  "url": "https://slickdeals.net/f/19908558-lg-48-class-c5-series-oled-evo-ai-smart-tv-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+48+Class+C5+Series+OLED+evo+AI+Smart+TV+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5521,12 +5678,15 @@
   "hot": false,
   "pct": null,
   "price": 699.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19908558-lg-48-class-c5-series-oled-evo-ai-smart-tv-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "2cdaac4c88759683",
   "title": "Select Areas: LG Partner: 77\" LG C5 OLED evo AI 4K 120Hz TV + S40TY Sound Bar $1530 + Free Delivery",
-  "url": "https://slickdeals.net/f/19840506-select-areas-lg-partner-77-lg-c5-oled-evo-ai-4k-120hz-tv-s40ty-sound-bar-1530-free-delivery?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+77+LG+C5+OLED+evo+AI+4K+120Hz+TV+%2B+S40TY+Sound+Bar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5534,12 +5694,15 @@
   "hot": false,
   "pct": null,
   "price": 153.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19840506-select-areas-lg-partner-77-lg-c5-oled-evo-ai-4k-120hz-tv-s40ty-sound-bar-1530-free-delivery?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "20358cea31b195b4",
   "title": "Select Areas: LG Partner: 65\" C5 OLED evo 4K TV + S40T Soundbar + Installation $1052.99",
-  "url": "https://slickdeals.net/f/19840500-select-areas-lg-partner-65-c5-oled-evo-4k-tv-s40t-soundbar-installation-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+65+C5+OLED+evo+4K+TV+%2B+S40T+Soundbar+%2B+Installation",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5547,12 +5710,15 @@
   "hot": false,
   "pct": null,
   "price": 105.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19840500-select-areas-lg-partner-65-c5-oled-evo-4k-tv-s40t-soundbar-installation-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "52509d84f8833abe",
   "title": "Select Areas: LG Partner: 65\" LG C5 OLED evo AI 4K 120Hz TV + S40T Sound Bar $1052.99",
-  "url": "https://slickdeals.net/f/19827018-select-areas-lg-partner-65-lg-c5-oled-evo-ai-4k-120hz-tv-s40t-sound-bar-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+65+LG+C5+OLED+evo+AI+4K+120Hz+TV+%2B+S40T+Sound+Bar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5560,12 +5726,15 @@
   "hot": false,
   "pct": null,
   "price": 105.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19827018-select-areas-lg-partner-65-lg-c5-oled-evo-ai-4k-120hz-tv-s40t-sound-bar-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "ba478760dcb5f20a",
   "title": "LG Partner Store: 77 Inch Class LG OLED evo AI C5 4K Smart TV + S40T Soundbar $1529.99",
-  "url": "https://slickdeals.net/f/19827015-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40t-soundbar-1529-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+77+Inch+Class+LG+OLED+evo+AI+C5+4K+Smart+TV+%2B+S40T+Soundbar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5573,12 +5742,15 @@
   "hot": false,
   "pct": null,
   "price": 152.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19827015-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40t-soundbar-1529-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "fce48d8217815498",
   "title": "YMMV - LG Partner Store: 65 Inch Class LG OLED evo AI C5 4K Smart TV + S40TY Sound Bar $1070.99",
-  "url": "https://slickdeals.net/f/19787145-ymmv-lg-partner-store-65-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40ty-sound-bar-1070-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=-+LG+Partner+Store+65+Inch+Class+LG+OLED+evo+AI+C5+4K+Smart+TV+%2B+S40TY+Sound+Bar",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Lg C5",
@@ -5586,12 +5758,15 @@
   "hot": false,
   "pct": null,
   "price": 107.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19787145-ymmv-lg-partner-store-65-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40ty-sound-bar-1070-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "b39038a805094778",
   "title": "LG Partner Store: 77 Inch Class LG OLED evo AI C5 4K Smart TV + S40TY Soundbar $1529.99",
-  "url": "https://slickdeals.net/f/19781358-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40ty-soundbar-1529-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+77+Inch+Class+LG+OLED+evo+AI+C5+4K+Smart+TV+%2B+S40TY+Soundbar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5599,12 +5774,15 @@
   "hot": false,
   "pct": null,
   "price": 152.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19781358-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40ty-soundbar-1529-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "b28ef6411d6499a0",
   "title": "LG Partner Store: 77 Inch Class LG OLED evo AI C5 4K Smart TV + S40TY Soundbar $1619.99",
-  "url": "https://slickdeals.net/f/19766544-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40ty-soundbar-1619-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+77+Inch+Class+LG+OLED+evo+AI+C5+4K+Smart+TV+%2B+S40TY+Soundbar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5612,12 +5790,15 @@
   "hot": false,
   "pct": null,
   "price": 161.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19766544-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40ty-soundbar-1619-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "dd83a8d3a6c0a89d",
   "title": "Panasonic Z8BAP Z8 77 Inch OLED 4K Smart Fire TV, 144Hz TV-77Z8BAP Bundle with 4 YR CPS Enhanced Protection, WN10 Wireless TV Neck Speaker, HDMI Cable & Deco Gear HT Book $1377.49",
-  "url": "https://slickdeals.net/f/19764588-panasonic-z8bap-z8-77-inch-oled-4k-smart-fire-tv-144hz-tv-77z8bap-bundle-with-4-yr-cps-enhanced-protection-wn10-wireless-tv-neck-speaker-hdmi-cable-deco-gear-ht-book-1377-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Panasonic+Z8BAP+Z8+77+Inch+OLED+4K+Smart+Fire+TV+144Hz+TV-77Z8BAP+Bundle+with+4+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5625,12 +5806,15 @@
   "hot": false,
   "pct": null,
   "price": 137.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19764588-panasonic-z8bap-z8-77-inch-oled-4k-smart-fire-tv-144hz-tv-77z8bap-bundle-with-4-yr-cps-enhanced-protection-wn10-wireless-tv-neck-speaker-hdmi-cable-deco-gear-ht-book-1377-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0afcfaf0bf9813aa",
   "title": "LG Partner: C5 OLED evo AI 4K Smart TV + S40T Soundbar: 65: $1008, 77\" $1584 + Free S&H",
-  "url": "https://slickdeals.net/f/19747071-lg-partner-c5-oled-evo-ai-4k-smart-tv-s40t-soundbar-65-1008-77-1584-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+Partner+C5+OLED+evo+AI+4K+Smart+TV+%2B+S40T+Soundbar+65",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5638,12 +5822,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19747071-lg-partner-c5-oled-evo-ai-4k-smart-tv-s40t-soundbar-65-1008-77-1584-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "a1a28b3363d6d622",
   "title": "Costco - LG C5 55\" OLED TV $799.97 in store only YMMV",
-  "url": "https://slickdeals.net/f/19704846-costco-lg-c5-55-oled-tv-799-97-in-store-only-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+-+LG+C5+55+OLED+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5651,12 +5838,15 @@
   "hot": false,
   "pct": null,
   "price": 799.97,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19704846-costco-lg-c5-55-oled-tv-799-97-in-store-only-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "0cdbdfc5165a042e",
   "title": "LG Partner: 65\" C5 OLED evo 4K TV + S40T Soundbar + Installation + $100 Rinse $972 (Select Locations) + Free S&H",
-  "url": "https://slickdeals.net/f/19691502-lg-partner-65-c5-oled-evo-4k-tv-s40t-soundbar-installation-100-rinse-972-select-locations-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+Partner+65+C5+OLED+evo+4K+TV+%2B+S40T+Soundbar+%2B+Installation+%2B",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5664,12 +5854,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19691502-lg-partner-65-c5-oled-evo-4k-tv-s40t-soundbar-installation-100-rinse-972-select-locations-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "3937abf807008521",
   "title": "65\" LG C5 OLED evo AI 4K UHD Smart TV $1099.99 + Free Shipping at Best Buy",
-  "url": "https://slickdeals.net/f/19690293-65-lg-c5-oled-evo-ai-4k-uhd-smart-tv-1099-99-free-shipping-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=65+LG+C5+OLED+evo+AI+4K+UHD+Smart+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5677,12 +5870,15 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19690293-65-lg-c5-oled-evo-ai-4k-uhd-smart-tv-1099-99-free-shipping-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "e417d1371e70e831",
   "title": "LG 65-Inch Class OLED evo AI 4K C5 Series Smart TV w/Dolby Atmos, Dolby Vision, HDR10, AI Super Upscaling 4K, Filmmaker Mode, Wow Orchestra OLED65C5PUA, 2025) $1099.99",
-  "url": "https://slickdeals.net/f/19690020-lg-65-inch-class-oled-evo-ai-4k-c5-series-smart-tv-w-dolby-atmos-dolby-vision-hdr10-ai-super-upscaling-4k-filmmaker-mode-wow-orchestra-oled65c5pua-2025-1099-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+65-Inch+Class+OLED+evo+AI+4K+C5+Series+Smart+TV+Dolby+Atmos+Dolby+Vision+HDR1",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -5690,7 +5886,10 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19690020-lg-65-inch-class-oled-evo-ai-4k-c5-series-smart-tv-w-dolby-atmos-dolby-vision-hdr10-ai-super-upscaling-4k-filmmaker-mode-wow-orchestra-oled65c5pua-2025-1099-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "4320ac292dfd9260",
