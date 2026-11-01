@@ -4689,7 +4689,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20233035-patagonia-men-s-re-tool-high-pile-fleece-jacket-99-49-free-shipping-w-rei-membership?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Rei"
+  "store": "Rei",
+  "checked_at": "2026-11-01T04:46:34Z"
  },
  {
   "id": "f78b1dc7a02f20d0",
@@ -4704,7 +4705,8 @@
   "price": 66.29,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:46:35Z"
  },
  {
   "id": "33c953eb837b56c0",
@@ -4719,7 +4721,8 @@
   "price": 93.89,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:46:37Z"
  },
  {
   "id": "c754ff826e490ecf",
@@ -4734,7 +4737,8 @@
   "price": 96.02,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:46:38Z"
  },
  {
   "id": "c28020e00099e076",
@@ -4749,7 +4753,8 @@
   "price": 85.65,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:46:39Z"
  },
  {
   "id": "6ab40f5e21fe4a6a",
@@ -4764,7 +4769,8 @@
   "price": 67.99,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:46:41Z"
  },
  {
   "id": "dd764215b93e4649",
@@ -4780,12 +4786,13 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/19642482-fragrance-testers-and-gift-sets-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T04:46:43Z"
  },
  {
   "id": "6a58f4cfa3c94520",
   "title": "Gucci Guilty Parfum Pour Homme 6.7 Oz $129.97",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Guilty+Parfum+Pour+Homme+6.7+Oz",
+  "url": "https://slickdeals.net/f/19599561-gucci-guilty-parfum-pour-homme-6-7-oz-129-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -4794,10 +4801,10 @@
   "pct": null,
   "price": 129.97,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19599561-gucci-guilty-parfum-pour-homme-6-7-oz-129-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T04:46:44Z"
  },
  {
   "id": "0e574d6c14c23138",
@@ -4813,7 +4820,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Specials-Up-to-84-off-free-shipping/22327334.html?iref=rss",
-  "store": "Lululemon"
+  "store": "Lululemon",
+  "checked_at": "2026-11-01T04:46:44Z"
  },
  {
   "id": "e3e6d72c0bb5b58a",
@@ -4829,7 +4837,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss",
-  "store": "Apple"
+  "store": "Apple",
+  "checked_at": "2026-11-01T04:46:44Z"
  },
  {
   "id": "86f001a1eaaffcef",
@@ -4845,7 +4854,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T04:46:46Z"
  },
  {
   "id": "c2acd11324ab2621",
@@ -4861,12 +4871,13 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20229144-bulova-men-s-marine-star-two-tone-stainless-steel-chronograph-quartz-watch-blue-dial-style-98h37-296-08?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T04:46:47Z"
  },
  {
   "id": "394879e905c63d5a",
   "title": "Seiko 5 SNKK27 for $57 free shipping with Prime (Prime day deal)",
-  "url": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
+  "url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4875,15 +4886,15 @@
   "pct": null,
   "price": 57.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T04:46:48Z"
  },
  {
   "id": "d38437de2f1ac1fc",
   "title": "Seiko Astron Jet Setter Giveaway ~ 3/31/15",
-  "url": "https://slickdeals.net/e/7361166-seiko-astron-jet-setter-giveaway-3-31-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Astron+Jet+Setter+Giveaway+3+31+15",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4892,12 +4903,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/7361166-seiko-astron-jet-setter-giveaway-3-31-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T04:46:49Z"
  },
  {
   "id": "c94021cd19153c1e",
   "title": "Seiko Square Off Sweepstakes ~ 4/30/14",
-  "url": "https://slickdeals.net/e/6803498-seiko-square-off-sweepstakes-4-30-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Square+Off+Sweepstakes+4+30+14",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4906,12 +4921,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/6803498-seiko-square-off-sweepstakes-4-30-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T04:46:49Z"
  },
  {
   "id": "14b30175880ed07a",
   "title": "Seiko Astron $10,000 Dream Vacation Sweepstakes 03/31/2014",
-  "url": "https://slickdeals.net/e/6346414-seiko-astron-10-000-dream-vacation-sweepstakes-03-31-2014?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Astron",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4920,7 +4939,10 @@
   "pct": null,
   "price": 10000.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/6346414-seiko-astron-10-000-dream-vacation-sweepstakes-03-31-2014?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "a74247bbbc159d81",
@@ -4934,7 +4956,8 @@
   "pct": null,
   "price": 265.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "8cc836ac10d932f4",
@@ -4948,7 +4971,8 @@
   "pct": null,
   "price": 230.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "378d77ad676255d5",
@@ -4962,7 +4986,8 @@
   "pct": null,
   "price": 270.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "41361f18784729fd",
@@ -6305,7 +6330,7 @@
  {
   "id": "07c6d139d2e2ad9e",
   "title": "T-mobile Pixel 11 pro xl 256gb $800, pro $600, standard $400",
-  "url": "https://www.google.com/search?tbm=shop&q=T-mobile+Pixel+11+pro+xl+256gb",
+  "url": "https://slickdeals.net/f/20182512-t-mobile-pixel-11-pro-xl-256gb-800-pro-600-standard-400?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6314,7 +6339,6 @@
   "pct": null,
   "price": 800.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20182512-t-mobile-pixel-11-pro-xl-256gb-800-pro-600-standard-400?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6322,7 +6346,7 @@
  {
   "id": "8417ea87b982254f",
   "title": "Google Pixel 10 Pro - Unlocked - Obsidian - 128 GB - $699",
-  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+10+Pro+-+Unlocked+-+Obsidian+-+128+GB+-",
+  "url": "https://slickdeals.net/f/20174718-google-pixel-10-pro-unlocked-obsidian-128-gb-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6331,7 +6355,6 @@
   "pct": null,
   "price": 699.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20174718-google-pixel-10-pro-unlocked-obsidian-128-gb-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6354,7 +6377,7 @@
  {
   "id": "99a9c22d73b3b350",
   "title": "50% off service when you bring a pixel phone to google Fi",
-  "url": "https://www.google.com/search?tbm=shop&q=50+off+service+when+you+bring+a+pixel+phone+to+google+Fi",
+  "url": "https://slickdeals.net/f/20171865-50-off-service-when-you-bring-a-pixel-phone-to-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Pixel — 50% off",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6363,7 +6386,6 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20171865-50-off-service-when-you-bring-a-pixel-phone-to-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6371,7 +6393,7 @@
  {
   "id": "41441624577741e8",
   "title": "YMMV Google Pixel 11 Pro XL $700 discount for existing Google Fi Customers Only $599",
-  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+Pro+XL",
+  "url": "https://slickdeals.net/f/20171370-ymmv-google-pixel-11-pro-xl-700-discount-for-existing-google-fi-customers-only-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6380,7 +6402,6 @@
   "pct": null,
   "price": 700.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20171370-ymmv-google-pixel-11-pro-xl-700-discount-for-existing-google-fi-customers-only-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6436,7 +6457,7 @@
  {
   "id": "10590acc59694253",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
+  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -6445,7 +6466,6 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -12073,7 +12093,7 @@
  {
   "id": "d3690a9952fcf85e",
   "title": "Gucci Black Sunglasses $149.95 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12137,7 +12157,7 @@
  {
   "id": "b5ec68403e633a9b",
   "title": "Gucci Men's Navigator Aviator-Style Acetate Sunglasses (Black) $149 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Men%27s+Navigator+Aviator-Style+Acetate+Sunglasses",
+  "url": "https://slickdeals.net/f/17512515-gucci-men-s-navigator-aviator-style-acetate-sunglasses-black-149-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12169,7 +12189,7 @@
  {
   "id": "4e2583393024f7f7",
   "title": "OAKLEY Prizm Sunglasses $72, RAY-BAN Caravan Green Classic G-15 Sunglasses $82 & More + Free Shipping w/ $100+",
-  "url": "https://www.google.com/search?tbm=shop&q=OAKLEY+Prizm+Sunglasses",
+  "url": "https://slickdeals.net/f/16825979-oakley-prizm-sunglasses-72-ray-ban-caravan-green-classic-g-15-sunglasses-82-more-free-shipping-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12185,7 +12205,7 @@
  {
   "id": "edb9ba7346813daf",
   "title": "Oakley Men's CMDN Prizm Grey Browline Sunglasses $63, COSTA DEL MARANAA Ladies Sunglasses $66 & More + Free Shipping on $100+",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+CMDN+Prizm+Grey+Browline+Sunglasses",
+  "url": "https://slickdeals.net/f/16617164-oakley-men-s-cmdn-prizm-grey-browline-sunglasses-63-costa-del-maranaa-ladies-sunglasses-66-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12281,7 +12301,7 @@
  {
   "id": "8c5525dcfe6b44fb",
   "title": "VERY YMMV CVS Optometry Clearance 60%-80% Designer Brands",
-  "url": "https://www.google.com/search?tbm=shop&q=VERY+CVS+Optometry+Clearance+60+-80+Designer+Brands",
+  "url": "https://slickdeals.net/f/15915235-very-ymmv-cvs-optometry-clearance-60-80-designer-brands?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "80% off",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12297,7 +12317,7 @@
  {
   "id": "a064e9da18ecd909",
   "title": "Extra 50% Off Sunglasses (various styles): Costa from $59, Ray-Ban from $61, Gucci from $118, Fendi from $75.5",
-  "url": "https://www.google.com/search?tbm=shop&q=Extra+50+Off+Sunglasses+Costa+from",
+  "url": "https://slickdeals.net/f/15686962-extra-50-off-sunglasses-various-styles-costa-from-59-ray-ban-from-61-gucci-from-118-fendi-from-75-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Gucci 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12313,7 +12333,7 @@
  {
   "id": "6b0ad2c252c199c3",
   "title": "Sunglasses Super Sale: Dior, Fendi, Gucci, Ray-Ban- Extra 50% Off: Starting at $14",
-  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Super+Dior+Fendi+Gucci+Ray-Ban-+Extra+50+Off+Starting+at",
+  "url": "https://slickdeals.net/f/15664330-sunglasses-super-sale-dior-fendi-gucci-ray-ban-extra-50-off-starting-at-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Gucci 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12329,7 +12349,7 @@
  {
   "id": "f883f6bc8a247eab",
   "title": "HUGE DESIGNER SUNGLASSES SALE (YSL, Gucci, Prada) $100",
-  "url": "https://www.google.com/search?tbm=shop&q=HUGE+DESIGNER+SUNGLASSES",
+  "url": "https://slickdeals.net/f/15572227-huge-designer-sunglasses-sale-ysl-gucci-prada-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12345,7 +12365,7 @@
  {
   "id": "f69802d27c3c4cc1",
   "title": "GUCCI Grey Gradient Sunglasses $195 + Free Shipping $195.99",
-  "url": "https://www.google.com/search?tbm=shop&q=GUCCI+Grey+Gradient+Sunglasses",
+  "url": "https://slickdeals.net/f/15390922-gucci-grey-gradient-sunglasses-195-free-shipping-195-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12361,7 +12381,7 @@
  {
   "id": "bc31142af5ef3884",
   "title": "Joma Shop: Extra 30% Off Blowout Sale - Designer Sunglasses & Eyeglasses under $100",
-  "url": "https://www.google.com/search?tbm=shop&q=Joma+Shop+Extra+30+Off+Blowout+-+Designer+Sunglasses+%26+Eyeglasses+under",
+  "url": "https://slickdeals.net/f/15347245-joma-shop-extra-30-off-blowout-sale-designer-sunglasses-eyeglasses-under-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12377,7 +12397,7 @@
  {
   "id": "8f9d7134897b5d8d",
   "title": "CELINE Geometric Ladies Sunglasses CL40069U30N61 for $159.99 + FS",
-  "url": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
+  "url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12425,7 +12445,7 @@
  {
   "id": "ce310f9bd6e31531",
   "title": "EXOTIC! 2 in 1 trip from Berlin to New York and Bermuda 🌴 for €684",
-  "url": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Berlin%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC684",
+  "url": "https://www.fly4free.com/flight-deals/europe/flights-from-berlin-new-york-and-bermuda/",
   "why": "🌴 NEW YORK → Bermuda",
   "category": "flights",
   "source": "Fly4free USA",
@@ -12441,7 +12461,7 @@
  {
   "id": "78a26aa3ae70e338",
   "title": "EXOTIC! 2 in 1 trip from Budapest to New York and Bermuda 🌴 for €797",
-  "url": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Budapest%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC797",
+  "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-new-york-and-bermuda/",
   "why": "🌴 NEW YORK → Bermuda",
   "category": "flights",
   "source": "Fly4free USA",
@@ -12452,6 +12472,534 @@
   "found_at": "2026-11-01T04:29:35Z",
   "link_tried3": true,
   "source_url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-new-york-and-bermuda/",
+  "route_fixed": true
+ },
+ {
+  "id": "f2d4dfc55a02a1c7",
+  "title": "Fragrances from D&G, Creed and More! at Woot!",
+  "url": "https://www.woot.com/search?query=Fragrances+from+D%26G+Creed+and+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "989ba2f316a5d5f9",
+  "title": "Jean Paul Gaultier Le Beau, Eau de Toilette, 4.2 fl oz",
+  "url": "https://www.google.com/search?tbm=shop&q=Jean+Paul+Gaultier+Le+Beau+Eau+de+Toilette+4.2+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20213646-jean-paul-gaultier-le-beau-eau-de-toilette-4-2-fl-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "44454cfe444c9b55",
+  "title": "Pre-Owned Hermes Birkin Handbag Grey Togo with Palladium Hardware 35 at Nordstrom, Size Medium",
+  "url": "https://www.nordstrom.com/sr?keyword=Pre-Owned+Hermes+Birkin+Handbag+Grey+Togo+with+Palladium+Hardware+35",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20199510-pre-owned-hermes-birkin-handbag-grey-togo-with-palladium-hardware-35-at-nordstrom-size-medium?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom"
+ },
+ {
+  "id": "bc51119d0f9fb70b",
+  "title": "[AC] $64.97 | Terre D'Hermes by Hermes for Men 3.3 oz Eau de Parfum Intense Refillable Spray at Amazon",
+  "url": "https://slickdeals.net/f/20137164-ac-64-97-terre-d-hermes-by-hermes-for-men-3-3-oz-eau-de-parfum-intense-refillable-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 64.97,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "7e0498a72c5dfaa6",
+  "title": "20% Off Hermes New / Pre-owned Handbags Deals at eBay",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=20+Off+Hermes+Pre-owned+Handbags+Deals",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20130552-20-off-hermes-new-pre-owned-handbags-deals-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
+ },
+ {
+  "id": "d90cd8ca2fa4e5c2",
+  "title": "[NEW] $50 | 3.3-Oz Hermès Terre D'Herm Eau Intense Vetiver Eau De Parfum for Men at Amazon",
+  "url": "https://slickdeals.net/f/20055141-new-50-3-3-oz-herm-s-terre-d-herm-eau-intense-vetiver-eau-de-parfum-for-men-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "d65613acafe25714",
+  "title": "Fragrances from Creed, Azarro and More! at Woot!",
+  "url": "https://www.woot.com/search?query=Fragrances+from+Creed+Azarro+and+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20046936-fragrances-from-creed-azarro-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "ac9577de7298847e",
+  "title": "$73.52 | Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce at Amazon",
+  "url": "https://slickdeals.net/f/20012523-73-52-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 73.52,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "8eaaba1cb63f791b",
+  "title": "Calvin Klein CK One Eau de Toilette $70",
+  "url": "https://www.samsclub.com/s/Calvin%20Klein%20CK%20One%20Eau%20de%20Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 70.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19976439-calvin-klein-ck-one-eau-de-toilette-70?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsclub"
+ },
+ {
+  "id": "528591e49f580414",
+  "title": "$61.37* | 3.3oz HERMES Le Jardin De Monsieur Li for Unisex Eau de Toilette Spray at Amazon",
+  "url": "https://slickdeals.net/f/19974039-61-37-3-3oz-hermes-le-jardin-de-monsieur-li-for-unisex-eau-de-toilette-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 61.37,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "bfc8d949906bdf0b",
+  "title": "Woot – 2-Pack Hermès Terre d’Hermès Eau de Toilette 0.42-oz - $46.99",
+  "url": "https://www.woot.com/search?query=Woot+2-Pack+Herm+s+Terre+d+Herm+s+Eau+de+Toilette+0.42-oz+-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 46.99,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19930275-woot-2-pack-herm-s-terre-d-herm-s-eau-de-toilette-0-42-oz-46-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "69a9922edfaee651",
+  "title": "Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce $77.12",
+  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 77.12,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e0088342e9fc62c1",
+  "title": "Tissot Chemin des Tourelles Powermatic 80 39 mm $714.47",
+  "url": "https://www.amazon.com/s?k=Tissot+Chemin+des+Tourelles+Powermatic+80+39+mm",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 714.47,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19817976-tissot-chemin-des-tourelles-powermatic-80-39-mm-714-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "87b3b60adcd16959",
+  "title": "Sam's Club: Men's Cologne 3.4-oz Prada Luna Rossa Black Eau De Parfum $68.80 & More + F/S $50+ Plus Members",
+  "url": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 68.8,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsclub"
+ },
+ {
+  "id": "9b1550883f4e4778",
+  "title": "[$1649] Beelink SER10 MAX OpenClaw Mini PC, Ryzen AI 9 HX470, 64G DDR5 + 2TB SSD Mini Computer, WIFI-6/BT5.2/10G LAN, HDMI+DP+USB4 Triple-Display, Dual-System Mini Gaming PC",
+  "url": "https://slickdeals.net/f/19774956-1649-beelink-ser10-max-openclaw-mini-pc-ryzen-ai-9-hx470-64g-ddr5-2tb-ssd-mini-computer-wifi-6-bt5-2-10g-lan-hdmi-dp-usb4-triple-display-dual-system-mini-gaming-pc?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 164.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "d458e0661e437b0b",
+  "title": "Hermes Terre D'Hermes Eau de Toilette, 3.3 fl oz $69.99 Free Shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Hermes",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19756947-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "7349aa9efd8f33ff",
+  "title": "DJI Osmo Nano Action Camera Standard Combo: 64GB $120, 128GB $136 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Action+Camera+Standard+Combo+64GB",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 120.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238270-dji-osmo-nano-action-camera-standard-combo-64gb-120-128gb-136-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "84f7f7eb8298c05a",
+  "title": "(refurb) DJI Osmo Action 5 Pro Camer $191 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+Camer",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 191.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238243-refurb-dji-osmo-action-5-pro-camer-191-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "f6a957ad3dd9966f",
+  "title": "AOCHUAN Smart X3 360° Pan Rotation Gimbal Stabilizer for iPhone w/ Magnetic Remote (Black) $36.48 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=AOCHUAN+Smart+X3+360+Pan+Rotation+Gimbal+Stabilizer+for+iPhone+w+Magnetic+Remote",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.48,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20232960-aochuan-smart-x3-360-pan-rotation-gimbal-stabilizer-for-iphone-w-magnetic-remote-black-36-48-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "860914d548b05301",
+  "title": "DJI Osmo Action 4 Motorcycling/Mountain Cycling Combo, Action Camera 4K with 155º FOV, 1/1.3-Inch Sensor, Stabilization, with Chest Strap Mount $264.15",
+  "url": "https://www.amazon.com/s?k=DJI+Osmo+Action+4+Motorcycling+Mountain+Cycling+Combo+Action+Camera+4K+with+155+",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 264.15,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20229951-dji-osmo-action-4-motorcycling-mountain-cycling-combo-action-camera-4k-with-155-fov-1-1-3-inch-sensor-stabilization-with-chest-strap-mount-264-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "6fd3704cba70d0c9",
+  "title": "$181* | DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera at Amazon",
+  "url": "https://slickdeals.net/f/20212308-181-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 181.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "57e38771f8d510b7",
+  "title": "$495* | DJI Osmo Pocket 3 Creator Combo Vlogging Camera w/ 1'' CMOS & 4K/120fps at Amazon",
+  "url": "https://slickdeals.net/f/20198847-495-dji-osmo-pocket-3-creator-combo-vlogging-camera-w-1-cmos-4k-120fps-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 495.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "6947038e18855f13",
+  "title": "DJI Osmo Mobile 8 Standard Combo 3-Axis Phone Gimbal Stabilizer $89.00 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=DJI+Osmo+Mobile+8+Standard+Combo+3-Axis+Phone+Gimbal+Stabilizer",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20163306-dji-osmo-mobile-8-standard-combo-3-axis-phone-gimbal-stabilizer-89-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "c8ade38a67f0eba9",
+  "title": "$495* | DJI Osmo Pocket 3 Creator Combo Vlogging Camera w/ 1'' CMOS & 4K/120fps at Amazon",
+  "url": "https://slickdeals.net/f/20161950-495-dji-osmo-pocket-3-creator-combo-vlogging-camera-w-1-cmos-4k-120fps-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 495.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true
+ },
+ {
+  "id": "cd5fd12e89b2a8ac",
+  "title": "Refurb: DJI Osmo 360 Camera 1-Inch 360° 8K Video 105GB Storage 120MP Photo $222 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+360+Camera+1-Inch+360+8K+Video+105GB+Storage+120MP+Photo",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 222.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20157150-refurb-dji-osmo-360-camera-1-inch-360-8k-video-105gb-storage-120mp-photo-222-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "8d3dd325612f76f6",
+  "title": "Refurb: DJI Osmo Nano Action Camera Standard Combo 64GB $193 / 128G $205 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Nano+Action+Camera+Standard+Combo+64GB",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 193.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20152197-refurb-dji-osmo-nano-action-camera-standard-combo-64gb-193-128g-205-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "3672e3d3535727b3",
+  "title": "Refurb: DJI Osmo Nano Action Camera Standard Combo 64GB $193 / 128G $205 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Nano+Action+Camera+Standard+Combo+64GB",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 193.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20157477-refurb-dji-osmo-nano-action-camera-standard-combo-64gb-193-128g-205-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e445014e4d5ee286",
+  "title": "DJI Osmo Action 4 Standard Combo, Waterproof Action Camera Vlogging Camera $191.00",
+  "url": "https://www.amazon.com/s?k=DJI+Osmo+Action+4+Standard+Combo+Waterproof+Action+Camera+Vlogging+Camera",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 191.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20130786-dji-osmo-action-4-standard-combo-waterproof-action-camera-vlogging-camera-191-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "0e5d9c6c912afca6",
+  "title": "Hohem iSteady M7 Smartphone Gimbal Stabilizer, AI Tracking Sensor with Fill Light, 1.4\" Full Color Detachable Touchscreen $199.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Hohem+iSteady+M7+Smartphone+Gimbal+Stabilizer+AI+Tracking+Sensor+with+Fill+Light",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20128419-hohem-isteady-m7-smartphone-gimbal-stabilizer-ai-tracking-sensor-with-fill-light-1-4-full-color-detachable-touchscreen-199-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "fd42925f9b24bd2c",
+  "title": "DJI Osmo Pocket 3 Creator Combo 4K 3-Axis Stabilized Vlog Camera $495 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=DJI+Osmo+Pocket+3+Creator+Combo+4K+3-Axis+Stabilized+Vlog+Camera",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 495.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20124252-dji-osmo-pocket-3-creator-combo-4k-3-axis-stabilized-vlog-camera-495-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
+ },
+ {
+  "id": "85457891a7ed4047",
+  "title": "Prime: DJI Osmo Action 4 Standard Combo, Waterproof Action Camera Vlogging Camera $174",
+  "url": "https://www.google.com/search?tbm=shop&q=Prime+DJI+Osmo+Action+4+Standard+Combo+Waterproof+Action+Camera+Vlogging+Camera",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 174.0,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20118558-prime-dji-osmo-action-4-standard-combo-waterproof-action-camera-vlogging-camera-174?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "84cfc0ae19c466d6",
+  "title": "DJI Osmo Pocket 3 Filter Bundle - $390.99",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+Filter+Bundle+-",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 390.99,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20112852-dji-osmo-pocket-3-filter-bundle-390-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "4798b09f06c2a9e8",
+  "title": "United Airlines Flight Connects St. Croix to Newark - St. Thomas Source",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20St%20Thomas%20Source",
+  "why": "🌴 NEWARK → St. Thomas",
+  "category": "flights",
+  "source": "Google: NYC Caribbean flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
+  "route_fixed": true
+ },
+ {
+  "id": "66347da080d4b2bb",
+  "title": "Governor Bryan Celebrates New United Airlines Nonstop Service Between Newark and St. Croix as Milestone in Territory's Airlift Expansion Strategy - Government of the United States Virgin Islands (.gov)",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Governor%20Bryan%20Celebrates%20New%20United%20Airlines%20%20Service%20Between%20Newark%20and%20St.%20Croix%20as%20Milestone%20in%20Territory%27s%20Airlift%20Expansion%20Strategy%20-%20Government%20of%20the%20United%20States%20Virgin%20Islands%20%28.gov%29",
+  "why": "🌴 NEWARK → St. Croix",
+  "category": "flights",
+  "source": "Google: NYC Caribbean flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:45:33Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMTQ1MjRFQlZSWmdiMHl1dHd4ZVZfbzhIYnVpX3Q2MXZjdXBldktIR0VFdXo5WjFuYkJOQ2tXRHRDa0dEWXBaYlZQdk1IWXlpU3FsXzZ3bnRMYkdwY3NiMGpqaVkxTGxWUXE5OThuQ3Rmb1E2dW1fUVdyM1FCZW9tZU1FQnp6ZEhRNkpJRmhBUDVMcE1qT21NWFFxa1ZPVEd1VzFRZy1rbEJoLVBhVEFaUGxUM1I3d1c3Yy1VV0ViVjdjNVNTN1lfOFc2ZE8yZkp6Q1drTnVGbXFaUWNFazB3dUhiLTY3bkRmUTZSMjVIM3FIeVowbWc?oc=5",
   "route_fixed": true
  }
 ]
