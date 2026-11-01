@@ -1480,7 +1480,8 @@
   "hot": false,
   "pct": 30,
   "price": 94.04,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:15Z"
  },
  {
   "id": "8d8be1bdd9765542",
@@ -1493,7 +1494,8 @@
   "hot": false,
   "pct": null,
   "price": 32.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:16Z"
  },
  {
   "id": "0dd35b7b8d658c63",
@@ -1506,7 +1508,8 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:17Z"
  },
  {
   "id": "d7c1b9ffecb2e761",
@@ -1519,7 +1522,8 @@
   "hot": false,
   "pct": null,
   "price": 74.99,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:18Z"
  },
  {
   "id": "a91cee69f7214e92",
@@ -1532,7 +1536,8 @@
   "hot": false,
   "pct": null,
   "price": 24.95,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:19Z"
  },
  {
   "id": "5ccc5d0b502cf484",
@@ -1545,7 +1550,8 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:20Z"
  },
  {
   "id": "e1890378844e3186",
@@ -1558,7 +1564,8 @@
   "hot": true,
   "pct": 50,
   "price": 4.99,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:21Z"
  },
  {
   "id": "aa6b1835e8024e1f",
@@ -1571,7 +1578,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:22Z"
  },
  {
   "id": "01ed40b40c7a085b",
@@ -1584,7 +1592,8 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:23Z"
  },
  {
   "id": "a2585f6f3043b103",
@@ -1597,7 +1606,8 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:24Z"
  },
  {
   "id": "208a28a20340c7dd",
@@ -1610,7 +1620,8 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:26Z"
  },
  {
   "id": "672fa0ebfe14c5e8",
@@ -1623,7 +1634,8 @@
   "hot": false,
   "pct": null,
   "price": 24.99,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:27Z"
  },
  {
   "id": "0f4a8ffc983b43b5",
@@ -1636,7 +1648,8 @@
   "hot": false,
   "pct": null,
   "price": 69.96,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:28Z"
  },
  {
   "id": "a06e006b99c488c0",
@@ -1649,7 +1662,8 @@
   "hot": false,
   "pct": null,
   "price": 39.99,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:29Z"
  },
  {
   "id": "12bc3c73fd0c1353",
@@ -1662,7 +1676,8 @@
   "hot": false,
   "pct": null,
   "price": 11.99,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:41:31Z"
  },
  {
   "id": "f1b9488dfb1a1f1e",
@@ -9710,7 +9725,8 @@
   "hot": false,
   "pct": null,
   "price": 6.03,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "e082e9f18ea67e84",
@@ -9723,7 +9739,8 @@
   "hot": false,
   "pct": null,
   "price": 500.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "6bd74c25ecea4211",
@@ -9736,7 +9753,8 @@
   "hot": false,
   "pct": null,
   "price": 50.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "468ad71e32ee2d20",
@@ -9749,7 +9767,8 @@
   "hot": true,
   "pct": 60,
   "price": 50.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "163d90b063ca7050",
@@ -9762,7 +9781,8 @@
   "hot": true,
   "pct": 60,
   "price": 40.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "5ba3756ebb38d0ac",
@@ -9775,7 +9795,8 @@
   "hot": false,
   "pct": null,
   "price": 37.5,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "299fab8f8f3ffc1b",
@@ -9788,7 +9809,8 @@
   "hot": false,
   "pct": 20,
   "price": 95.99,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "bd3b83354309a823",
@@ -9801,7 +9823,8 @@
   "hot": false,
   "pct": null,
   "price": 82.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "441f38be5ce8d1a6",
@@ -11301,6 +11324,62 @@
   "pct": null,
   "price": 255.0,
   "found_at": "2026-11-01T02:18:46Z",
+  "link_tried": true
+ },
+ {
+  "id": "be7ff648e21aa554",
+  "title": "65\" VIZIO Mini LED Quantum 4K QLED HDR Smart TV (VQM65C-10) - $358 @ Walmart w/ Free Shipping",
+  "url": "https://slickdeals.net/f/20218134-65-vizio-mini-led-quantum-4k-qled-hdr-smart-tv-vqm65c-10-358-walmart-w-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 358.0,
+  "found_at": "2026-11-01T02:41:02Z",
+  "link_tried": true
+ },
+ {
+  "id": "6d6bb11dff660fda",
+  "title": "INNOCN 27\" Gaming Monitor QD-OLED QHD 2560 x 1440P 240Hz 0.03ms, HDR $299.99 AC",
+  "url": "https://slickdeals.net/f/20229564-innocn-27-gaming-monitor-qd-oled-qhd-2560-x-1440p-240hz-0-03ms-hdr-299-99-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 299.99,
+  "found_at": "2026-11-01T02:41:02Z",
+  "link_tried": true
+ },
+ {
+  "id": "e92c1b32dc52b856",
+  "title": "Patagonia Men's Snowdrifter Jacket (Molasses Brown) $169.99 + Free Shipping",
+  "url": "https://slickdeals.net/f/20226483-patagonia-men-s-snowdrifter-jacket-molasses-brown-169-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.99,
+  "found_at": "2026-11-01T02:41:02Z",
+  "link_tried": true
+ },
+ {
+  "id": "a1f7fce5b6373a36",
+  "title": "Best monitor deal: Take 44% off the LG Ultragear OLED gaming monitor - Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
+  "why": "Oled — 44% off",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 44,
+  "price": null,
+  "found_at": "2026-11-01T02:41:02Z",
   "link_tried": true
  }
 ]
