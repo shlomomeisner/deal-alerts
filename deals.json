@@ -2670,7 +2670,8 @@
   "hot": false,
   "pct": null,
   "price": 318.75,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:10Z"
  },
  {
   "id": "6ec32f529344ad65",
@@ -2683,7 +2684,8 @@
   "hot": true,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:10Z"
  },
  {
   "id": "4e692b96f8fdd02b",
@@ -2696,7 +2698,8 @@
   "hot": true,
   "pct": null,
   "price": 310.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:10Z"
  },
  {
   "id": "f9105b8da2c705c4",
@@ -2709,7 +2712,8 @@
   "hot": false,
   "pct": null,
   "price": 70.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:11Z"
  },
  {
   "id": "87261c6a524b83b7",
@@ -2722,7 +2726,8 @@
   "hot": false,
   "pct": null,
   "price": 11.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:12Z"
  },
  {
   "id": "da67d90d098649fe",
@@ -2735,7 +2740,8 @@
   "hot": false,
   "pct": null,
   "price": 36.48,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:14Z"
  },
  {
   "id": "83a1681c947a218d",
@@ -2748,7 +2754,8 @@
   "hot": true,
   "pct": 50,
   "price": 4.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:15Z"
  },
  {
   "id": "44582705e865fb96",
@@ -2761,7 +2768,8 @@
   "hot": false,
   "pct": null,
   "price": 799.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:17Z"
  },
  {
   "id": "616121fc2502f7a5",
@@ -2774,7 +2782,8 @@
   "hot": false,
   "pct": null,
   "price": 539.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:18Z"
  },
  {
   "id": "8b3941db3f733363",
@@ -2787,7 +2796,8 @@
   "hot": false,
   "pct": null,
   "price": 1200.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:19Z"
  },
  {
   "id": "74e96bf5271322d9",
@@ -2800,7 +2810,8 @@
   "hot": true,
   "pct": 50,
   "price": 12.49,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:20Z"
  },
  {
   "id": "3c3ba289485e45c5",
@@ -2813,7 +2824,8 @@
   "hot": false,
   "pct": null,
   "price": 135.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:21Z"
  },
  {
   "id": "073a82e107dcc787",
@@ -2826,7 +2838,8 @@
   "hot": false,
   "pct": null,
   "price": 139.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:22Z"
  },
  {
   "id": "acea289f610fcaf9",
@@ -2839,7 +2852,8 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:23Z"
  },
  {
   "id": "ff0eb60babbb4e18",
@@ -2852,7 +2866,8 @@
   "hot": false,
   "pct": null,
   "price": 44.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:44:24Z"
  },
  {
   "id": "77ffb1e3d96d8371",
@@ -8294,7 +8309,7 @@
  {
   "id": "b5e70b6525df36d1",
   "title": "NOW LIVE! Best Buy announces massive month-long 2026 Black Friday sale, here’s the details",
-  "url": "https://9to5toys.com/2026/10/30/best-buy-announces-2026-black-friday-sale/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Iphone — lowest price ever",
   "category": "tech",
   "source": "9to5Toys",
@@ -8302,12 +8317,15 @@
   "hot": true,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/best-buy-announces-2026-black-friday-sale/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "ce51489798c5ff51",
   "title": "Woot’s huge gaming sale is back with up to 85% off Switch/PS5 games and gear from just $3 (Extra 30% off)",
-  "url": "https://9to5toys.com/2026/10/30/woot-huge-gaming-sale-is-back-with-up-to-85-off-switch-ps5-games-gear/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Ps5 — 85% off",
   "category": "tech",
   "source": "9to5Toys",
@@ -8315,12 +8333,15 @@
   "hot": true,
   "pct": 85,
   "price": 3.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/woot-huge-gaming-sale-is-back-with-up-to-85-off-switch-ps5-games-gear/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "4239df8ec87e36c3",
   "title": "Friday’s iOS app deals and freebies: Bendy, Down in Bermuda, Maneater, more",
-  "url": "https://9to5toys.com/2026/10/30/app-store-deals-grim-fandango-remastered/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Macbook — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8328,12 +8349,15 @@
   "hot": true,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/app-store-deals-grim-fandango-remastered/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "105a0b40492ff415",
   "title": "Pixel Buds Pro 2 hit one of the best prices of 2026 at over 25% off, Olive set at new Amazon low",
-  "url": "https://9to5toys.com/2026/10/30/google-pixel-buds-pro-2-early-black-friday-deal/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Pixel — best price ever",
   "category": "watches",
   "source": "9to5Toys",
@@ -8341,12 +8365,15 @@
   "hot": true,
   "pct": 25,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/google-pixel-buds-pro-2-early-black-friday-deal/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "23b4be28414349d4",
   "title": "Latest Bose Lifestyle Ultra Home Speaker with AirPlay and Google Cast hits all-time low at $70 off",
-  "url": "https://9to5toys.com/2026/10/30/latest-bose-lifestyle-ultra-home-speaker-airplay-google-cast-lowest-price/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Bose — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8354,12 +8381,15 @@
   "hot": true,
   "pct": null,
   "price": 70.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/latest-bose-lifestyle-ultra-home-speaker-airplay-google-cast-lowest-price/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "6af3b70e854032dd",
   "title": "Official Google Pixelsnap cases for Pixel 11 series drop back to Amazon all-time lows today",
-  "url": "https://9to5toys.com/2026/10/30/google-pixelsnap-cases-for-pixel/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Pixel — all-time low",
   "category": "watches",
   "source": "9to5Toys",
@@ -8367,12 +8397,15 @@
   "hot": true,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/google-pixelsnap-cases-for-pixel/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "d1357979fb5eb650",
   "title": "Pixel Watch 5 hits all-time low at $100 off today (All colors, sizes, and Steph Curry Edition)",
-  "url": "https://9to5toys.com/2026/10/30/pixel-watch-5-all-time-low-doorbuster-deals/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8380,12 +8413,15 @@
   "hot": true,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/pixel-watch-5-all-time-low-doorbuster-deals/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "de09be3aba6d10e9",
   "title": "Costco Members: 14.2\" Apple MacBook Pro Laptop: 3024x1964, M5 Chip, 16GB, 1TB $1350 + Free S&H",
-  "url": "https://slickdeals.net/f/20235876-costco-members-14-2-apple-macbook-pro-laptop-3024x1964-m5-chip-16gb-1tb-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+14.2+Apple+MacBook+Pro+Laptop+3024x1964+M5+Chip+16GB+1TB",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook",
@@ -8393,7 +8429,10 @@
   "hot": false,
   "pct": null,
   "price": 135.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20235876-costco-members-14-2-apple-macbook-pro-laptop-3024x1964-m5-chip-16gb-1tb-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "ded60f82e3b10955",
@@ -8406,12 +8445,13 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "da1d731be3d0f562",
   "title": "Apple MacBook Air (15-inch) with Apple M5, 16GB RAM, 512GB SSD $1299.99",
-  "url": "https://slickdeals.net/f/20235198-apple-macbook-air-15-inch-with-apple-m5-16gb-ram-512gb-ssd-1299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Apple%20MacBook%20Air%20with%20Apple%20M5%2016GB%20RAM%20512GB%20SSD",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook",
@@ -8419,12 +8459,15 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20235198-apple-macbook-air-15-inch-with-apple-m5-16gb-ram-512gb-ssd-1299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "1a826a23ec204049",
   "title": "Apple MacBook Air (13-inch) with Apple M5, 16GB RAM, 512GB SSD $1099.99 @Costco",
-  "url": "https://slickdeals.net/f/20235189-apple-macbook-air-13-inch-with-apple-m5-16gb-ram-512gb-ssd-1099-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Apple+MacBook+Air+with+Apple+M5+16GB+RAM+512GB+SSD",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook",
@@ -8432,12 +8475,15 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20235189-apple-macbook-air-13-inch-with-apple-m5-16gb-ram-512gb-ssd-1099-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "f356f7bf49a1deac",
   "title": "LG - 55\" Class C6 OLED evo AI 4K Smart webOS TV with Perfect Black, Perfect Color and Brightness Booster (2026) $999.99",
-  "url": "https://slickdeals.net/f/20233896-lg-55-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+55+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -8445,7 +8491,10 @@
   "hot": false,
   "pct": null,
   "price": 999.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20233896-lg-55-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "bd3e075918c17ea7",
@@ -8458,12 +8507,13 @@
   "hot": false,
   "pct": null,
   "price": 139.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "39e16dd0af655193",
   "title": "LG 48\" B6 Series OLED 120Hz 4K TV with Perfect Black, Vivid Color and Magic Remote (2026) $599.99",
-  "url": "https://slickdeals.net/f/20231310-lg-48-b6-series-oled-120hz-4k-tv-with-perfect-black-vivid-color-and-magic-remote-2026-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+48+B6+Series+OLED+120Hz+4K+TV+with+Perfect+Black+Vivid+Color+and+Magic+Remote",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -8471,7 +8521,10 @@
   "hot": false,
   "pct": null,
   "price": 599.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231310-lg-48-b6-series-oled-120hz-4k-tv-with-perfect-black-vivid-color-and-magic-remote-2026-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "ba30634463ad596a",
@@ -8484,12 +8537,13 @@
   "hot": false,
   "pct": null,
   "price": 179.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "8657535beec67b7a",
   "title": "65\" LG 120Hz G6 OLED evo AI 4K Smart TV $1999.99 + Free Store Pickup at Best Buy",
-  "url": "https://slickdeals.net/f/20231052-65-lg-120hz-g6-oled-evo-ai-4k-smart-tv-1999-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=65+LG+120Hz+G6+OLED+evo+AI+4K+Smart+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -8497,7 +8551,10 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231052-65-lg-120hz-g6-oled-evo-ai-4k-smart-tv-1999-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "0097213927d56793",
@@ -8510,12 +8567,13 @@
   "hot": false,
   "pct": null,
   "price": 998.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "e7afd8643fb489d0",
   "title": "[Select EPP/EDU] Samsung OLED S95H 4K 165Hz Smart TV w/ Music Studio 5: 77\" $2248; 83\" $3713 + Free S/H",
-  "url": "https://slickdeals.net/f/20227728-select-epp-edu-samsung-oled-s95h-4k-165hz-smart-tv-w-music-studio-5-77-2248-83-3713-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+OLED+S95H+4K+165Hz+Smart+TV+w+Music+Studio+5+77",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -8523,7 +8581,10 @@
   "hot": false,
   "pct": null,
   "price": 224.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20227728-select-epp-edu-samsung-oled-s95h-4k-165hz-smart-tv-w-music-studio-5-77-2248-83-3713-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "412d141f08a76fb0",
@@ -8536,7 +8597,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "c683234180eaefca",
@@ -8549,7 +8611,8 @@
   "hot": false,
   "pct": null,
   "price": 329.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "fd40cc2f482b061f",
@@ -8562,12 +8625,13 @@
   "hot": false,
   "pct": null,
   "price": 239.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "59f354c7f6224287",
   "title": "LG 83 inch Class LG OLED evo AI W6 4K Smart TV 2026 with Wallpaper Design | Wallpaper Design with Zero Connect, Hyper Radiant Color Tech $5299.99",
-  "url": "https://slickdeals.net/f/20208231-lg-83-inch-class-lg-oled-evo-ai-w6-4k-smart-tv-2026-with-wallpaper-design-wallpaper-design-with-zero-connect-hyper-radiant-color-tech-5299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=LG+83+inch+Class+LG+OLED+evo+AI+W6+4K+Smart+TV+2026+with+Wallpaper+Design+Wallpa",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -8575,7 +8639,10 @@
   "hot": false,
   "pct": null,
   "price": 529.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20208231-lg-83-inch-class-lg-oled-evo-ai-w6-4k-smart-tv-2026-with-wallpaper-design-wallpaper-design-with-zero-connect-hyper-radiant-color-tech-5299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "c6dcff6e4fac28b9",
@@ -8588,7 +8655,8 @@
   "hot": false,
   "pct": null,
   "price": 369.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "a12267ef63a1ed92",
@@ -8601,12 +8669,13 @@
   "hot": false,
   "pct": null,
   "price": 134.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "2fc36ef8bed7fb57",
   "title": "LG - 48\" Class C6 OLED evo AI 4K Smart webOS TV with Perfect Black, Perfect Color and Brightness Booster (2026) $999.99 Bestbuy .com",
-  "url": "https://slickdeals.net/f/20203578-lg-48-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+48+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -8614,12 +8683,15 @@
   "hot": false,
   "pct": null,
   "price": 999.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20203578-lg-48-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "f90fe589b0de49e9",
   "title": "Samsung Galaxy S26, Unlocked Android Smartphone, 512GB, Cobalt Violet | Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, US 1 Year Warranty",
-  "url": "https://slickdeals.net/f/20235939-samsung-galaxy-s26-unlocked-android-smartphone-512gb-cobalt-violet-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+512GB+Cobalt+Violet+Powerful+Proc",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8627,12 +8699,15 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20235939-samsung-galaxy-s26-unlocked-android-smartphone-512gb-cobalt-violet-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "8e5966f527b4be5e",
   "title": "Samsung Galaxy Watch5 Pro 45mm WiFi + Bluetooth + Cellular R920/R925 - Good $66",
-  "url": "https://slickdeals.net/f/20234244-samsung-galaxy-watch5-pro-45mm-wifi-bluetooth-cellular-r920-r925-good-66?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+Watch5+Pro+45mm+WiFi+%2B+Bluetooth+%2B+Cellular+R920+R925+-+Good",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8640,12 +8715,15 @@
   "hot": false,
   "pct": null,
   "price": 66.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234244-samsung-galaxy-watch5-pro-45mm-wifi-bluetooth-cellular-r920-r925-good-66?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "e83fb3981dcc4859",
   "title": "Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life, 2025, US 1 Yr Manufacturer Warranty, Mint $1349.98",
-  "url": "https://slickdeals.net/f/20231436-samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlocked-android-ai-photo-edits-large-screen-long-battery-life-2025-us-1-yr-manufacturer-warranty-mint-1349-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold7+Cell+Phone+256GB+AI+Smartphone+Unlocked+Android+AI+Photo+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8653,12 +8731,15 @@
   "hot": false,
   "pct": null,
   "price": 134.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231436-samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlocked-android-ai-photo-edits-large-screen-long-battery-life-2025-us-1-yr-manufacturer-warranty-mint-1349-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "951c68da8e76426a",
   "title": "Samsung EDU/EPP Unlocked Galaxy Z fold8 Ultra Green Shadow 512 GB plus $400 for accessories $1584.99",
-  "url": "https://slickdeals.net/f/20229699-samsung-edu-epp-unlocked-galaxy-z-fold8-ultra-green-shadow-512-gb-plus-400-for-accessories-1584-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Galaxy+Z+fold8+Ultra+Green+Shadow+512+GB+plus",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8666,12 +8747,15 @@
   "hot": false,
   "pct": null,
   "price": 400.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20229699-samsung-edu-epp-unlocked-galaxy-z-fold8-ultra-green-shadow-512-gb-plus-400-for-accessories-1584-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "6297a6ca6fe76394",
   "title": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 512GB, Cobalt Violet $1127",
-  "url": "https://slickdeals.net/f/20227758-samsung-galaxy-s26-ultra-unlocked-android-smartphone-512gb-cobalt-violet-1127?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+S26+Ultra+Unlocked+Android+Smartphone+512GB+Cobalt+Violet",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8679,12 +8763,15 @@
   "hot": false,
   "pct": null,
   "price": 112.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20227758-samsung-galaxy-s26-ultra-unlocked-android-smartphone-512gb-cobalt-violet-1127?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "4baef7006c098d70",
   "title": "Samsung EDU/EPP Unlocked Samsung Galaxy S26 Ultra 256 GB plus $300 for accessories $879.99",
-  "url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+S26+Ultra+256+GB+plus",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8692,12 +8779,15 @@
   "hot": false,
   "pct": null,
   "price": 300.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "21c5eb060dec8654",
   "title": "Samsung EDU/EPP Unlocked Galaxy Z fold8 256GB plus $400 for accessories $1404.99",
-  "url": "https://slickdeals.net/f/20224902-samsung-edu-epp-unlocked-galaxy-z-fold8-256gb-plus-400-for-accessories-1404-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Galaxy+Z+fold8+256GB+plus",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8705,12 +8795,15 @@
   "hot": false,
   "pct": null,
   "price": 400.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20224902-samsung-edu-epp-unlocked-galaxy-z-fold8-256gb-plus-400-for-accessories-1404-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "6ade67d008ff0e5d",
   "title": "Unlocked Samsung Galaxy S25 Ultra 256 GB Titanium Gray $799",
-  "url": "https://slickdeals.net/f/20223687-unlocked-samsung-galaxy-s25-ultra-256-gb-titanium-gray-nbsp-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Unlocked+Samsung+Galaxy+S25+Ultra+256+GB+Titanium+Gray",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8718,12 +8811,15 @@
   "hot": false,
   "pct": null,
   "price": 799.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20223687-unlocked-samsung-galaxy-s25-ultra-256-gb-titanium-gray-nbsp-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "df3e850c3e5d0e4a",
   "title": "T-Mobile: Get Samsung Galaxy w/ Trade-In or Activation",
-  "url": "https://slickdeals.net/f/20219619-t-mobile-get-samsung-galaxy-w-trade-in-or-activation?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=T-Mobile+Get+Samsung+Galaxy+w+Trade-In+or+Activation",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8731,12 +8827,15 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20219619-t-mobile-get-samsung-galaxy-w-trade-in-or-activation?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  },
  {
   "id": "a86554f5c28b3b4a",
   "title": "Samsung - Galaxy S26 256GB (Unlocked) - Black - Open Box - Excellent",
-  "url": "https://slickdeals.net/f/20218752-samsung-galaxy-s26-256gb-unlocked-black-open-box-excellent?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung+-+Galaxy+S26+256GB+-+Black+-+Open+Box+-+Excellent",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -8744,7 +8843,10 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20218752-samsung-galaxy-s26-256gb-unlocked-black-open-box-excellent?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "0bc0830081b92f9b",
@@ -8757,12 +8859,13 @@
   "hot": false,
   "pct": null,
   "price": 70.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "08eb4132d419e62d",
   "title": "Apple - iPhone Air 256GB (Unlocked) - Space Black $799",
-  "url": "https://slickdeals.net/f/20232726-apple-iphone-air-256gb-unlocked-space-black-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+iPhone+Air+256GB+-+Space+Black",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8770,12 +8873,15 @@
   "hot": false,
   "pct": null,
   "price": 799.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20232726-apple-iphone-air-256gb-unlocked-space-black-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "615c018e6eb5007e",
   "title": "T-Mobile: Apple iPhone 18 Pro On Us or $1,200 Off iPhone Duo w/ Qualifying Plan",
-  "url": "https://slickdeals.net/f/20228784-t-mobile-apple-iphone-18-pro-on-us-or-1-200-off-iphone-duo-w-qualifying-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/T-Mobile%20Apple%20iPhone%2018%20Pro%20On%20Us%20or",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8783,7 +8889,10 @@
   "hot": false,
   "pct": null,
   "price": 1200.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20228784-t-mobile-apple-iphone-18-pro-on-us-or-1-200-off-iphone-duo-w-qualifying-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "0d755bf45923d15b",
@@ -11049,5 +11158,35 @@
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/19431000-cate-chloe-18k-white-or-yellow-gold-plated-mom-necklace-16-20-ac-on-walmart-com-fs-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart"
+ },
+ {
+  "id": "44b397bd66d5b167",
+  "title": "Apple Mac mini M6 12-Core CPU; 24GB Unified Memory; 512GB Solid State Drive $1100",
+  "url": "https://www.apple.com/us/search/Apple%20Mac%20mini%20M6%2012-Core%20CPU%2024GB%20Unified%20Memory%20512GB%20Solid%20State%20Drive",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 110.0,
+  "found_at": "2026-11-01T03:43:17Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20236851-apple-mac-mini-m6-12-core-cpu-24gb-unified-memory-512gb-solid-state-drive-1100?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Apple"
+ },
+ {
+  "id": "24e0f7bfe99f4ad5",
+  "title": "Oakley & Ray-Ban Sunglasses Deals at Zulily $56.99",
+  "url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 56.99,
+  "found_at": "2026-11-01T03:43:17Z",
+  "link_tried2": true
  }
 ]
