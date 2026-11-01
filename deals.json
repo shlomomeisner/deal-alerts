@@ -3090,7 +3090,8 @@
   "hot": false,
   "pct": null,
   "price": 4.92,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:08Z"
  },
  {
   "id": "57dc9f3878b9370f",
@@ -3103,7 +3104,8 @@
   "hot": false,
   "pct": null,
   "price": 11.0,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:10Z"
  },
  {
   "id": "398d3cef807d36ae",
@@ -3116,7 +3118,8 @@
   "hot": false,
   "pct": null,
   "price": 4.47,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:11Z"
  },
  {
   "id": "b922b9ae41f83bc3",
@@ -3129,7 +3132,8 @@
   "hot": false,
   "pct": null,
   "price": 73.97,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:12Z"
  },
  {
   "id": "e83d9bcd3a450580",
@@ -3142,7 +3146,8 @@
   "hot": false,
   "pct": null,
   "price": 96.97,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:14Z"
  },
  {
   "id": "39f5e74303a38722",
@@ -3155,7 +3160,8 @@
   "hot": false,
   "pct": null,
   "price": 59.99,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:15Z"
  },
  {
   "id": "5e11f665a1101447",
@@ -3168,7 +3174,8 @@
   "hot": false,
   "pct": null,
   "price": 449.99,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:16Z"
  },
  {
   "id": "7ebac24583f19bac",
@@ -3181,7 +3188,8 @@
   "hot": false,
   "pct": null,
   "price": 11.0,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:18Z"
  },
  {
   "id": "9ee4c7ba905bcb9d",
@@ -3194,7 +3202,8 @@
   "hot": false,
   "pct": null,
   "price": 65.97,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:19Z"
  },
  {
   "id": "0e85d1ef3f61904b",
@@ -3207,7 +3216,8 @@
   "hot": false,
   "pct": null,
   "price": 63.73,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:20Z"
  },
  {
   "id": "e65b6800dfd896c6",
@@ -3220,7 +3230,8 @@
   "hot": false,
   "pct": null,
   "price": 345.0,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:21Z"
  },
  {
   "id": "de3af35d57d5ec74",
@@ -3233,7 +3244,8 @@
   "hot": false,
   "pct": null,
   "price": 4.88,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:23Z"
  },
  {
   "id": "8ee192587d9926a7",
@@ -3246,7 +3258,8 @@
   "hot": false,
   "pct": null,
   "price": 270.0,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:25Z"
  },
  {
   "id": "bc48fc522eea8ac9",
@@ -3259,7 +3272,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:26Z"
  },
  {
   "id": "ed36b8a053b0ed1e",
@@ -3272,7 +3286,8 @@
   "hot": false,
   "pct": null,
   "price": 51.75,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:25:27Z"
  },
  {
   "id": "0ff0a8fe20d44d29",
@@ -6969,7 +6984,7 @@
  {
   "id": "ca4f1dda3f1567f9",
   "title": "Bose QuietComfort ANC Over Ear Headphones (Various) $169 + Free S&H",
-  "url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Bose+QuietComfort+ANC+Over+Ear+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -6977,7 +6992,10 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T23:53:20Z"
+  "found_at": "2026-10-31T23:53:20Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "6e15b3c1c41e1ec5",
@@ -7535,7 +7553,7 @@
  {
   "id": "bd9b830da62c56f5",
   "title": "women’s Nike logo essential tank $8.50",
-  "url": "https://slickdeals.net/e/13108738-women-s-nike-logo-essential-tank-8-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.nike.com/w?q=women+s+Nike+logo+essential+tank",
   "why": "Vince 75% off",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -7543,12 +7561,15 @@
   "hot": true,
   "pct": 75,
   "price": 8.5,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/e/13108738-women-s-nike-logo-essential-tank-8-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nike"
  },
  {
   "id": "d5c3cfada6b246b7",
   "title": "3.4oz Tom Ford Ombre Leather Eau de Parfum $119.99. ~ Costco",
-  "url": "https://slickdeals.net/f/19558260-3-4oz-tom-ford-ombre-leather-eau-de-parfum-119-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=3.4oz+Tom+Ford+Ombre+Leather+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7556,12 +7577,15 @@
   "hot": false,
   "pct": null,
   "price": 119.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19558260-3-4oz-tom-ford-ombre-leather-eau-de-parfum-119-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "605783b465cec8c5",
   "title": "Tom Ford Noir Extreme Men Eau De Parfum Spray, 5.0 Ounce/150ml $208.99",
-  "url": "https://slickdeals.net/f/19512639-tom-ford-noir-extreme-men-eau-de-parfum-spray-5-0-ounce-150ml-208-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Tom+Ford+Noir+Extreme+Men+Eau+De+Parfum+Spray+5.0+Ounce+150ml",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7569,7 +7593,10 @@
   "hot": false,
   "pct": null,
   "price": 208.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19512639-tom-ford-noir-extreme-men-eau-de-parfum-spray-5-0-ounce-150ml-208-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "3ab693be4901e96c",
@@ -7582,7 +7609,8 @@
   "hot": false,
   "pct": null,
   "price": 18.98,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "5eb03916cab62a2c",
@@ -7595,7 +7623,8 @@
   "hot": false,
   "pct": null,
   "price": 129.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "91ee70f6d79a8c9c",
@@ -7608,7 +7637,8 @@
   "hot": false,
   "pct": null,
   "price": 96.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "1b270425119796e2",
@@ -7621,12 +7651,13 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "8ed21719e64eca9f",
   "title": "2-Piece Valentino Donna Born In Roma Eau de Parfum Travel Gift Set $25 + Free Store Pickup at Ulta or FS $35+",
-  "url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ulta.com/search?search=2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
   "why": "Valentino 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7634,12 +7665,15 @@
   "hot": true,
   "pct": 50,
   "price": 25.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ulta"
  },
  {
   "id": "a285ab2c0cad84f9",
   "title": "Tom Ford Ombre Leather Eau de Parfum 3.4 oz $139.99 Woot.com Free Shipping Prime Members",
-  "url": "https://slickdeals.net/f/18954397-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-139-99-woot-com-free-shipping-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Tom+Ford+Ombre+Leather+Eau+de+Parfum+3.4+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7647,12 +7681,15 @@
   "hot": false,
   "pct": null,
   "price": 139.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18954397-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-139-99-woot-com-free-shipping-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "e073bf6bc882a1b5",
   "title": "3.4-Oz Tom Ford Ombre Leather Men's Eau De Parfum $112 ~ Woot",
-  "url": "https://slickdeals.net/f/18931168-3-4-oz-tom-ford-ombre-leather-men-s-eau-de-parfum-112-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=3.4-Oz+Tom+Ford+Ombre+Leather+Men%27s+Eau+De+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7660,12 +7697,15 @@
   "hot": false,
   "pct": null,
   "price": 112.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18931168-3-4-oz-tom-ford-ombre-leather-men-s-eau-de-parfum-112-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "adfafccf8b80291a",
   "title": "Costco Members: 3.4-Oz Tom Ford Black Orchid Eau De Parfum Spray $100",
-  "url": "https://slickdeals.net/f/18917443-costco-members-3-4-oz-tom-ford-black-orchid-eau-de-parfum-spray-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3.4-Oz+Tom+Ford+Black+Orchid+Eau+De+Parfum+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7673,12 +7713,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18917443-costco-members-3-4-oz-tom-ford-black-orchid-eau-de-parfum-spray-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "a9c25b19efbcfba2",
   "title": "Tom Ford Noir Extreme Eau de Parfum 3.4 oz (100ml)w/free S&H for Costco members $129.99",
-  "url": "https://slickdeals.net/f/18897073-tom-ford-noir-extreme-eau-de-parfum-3-4-oz-100ml-w-free-s-h-for-costco-members-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Tom+Ford+Noir+Extreme+Eau+de+Parfum+3.4+oz+free+S%26H+for+Costco+members",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7686,12 +7729,15 @@
   "hot": false,
   "pct": null,
   "price": 129.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18897073-tom-ford-noir-extreme-eau-de-parfum-3-4-oz-100ml-w-free-s-h-for-costco-members-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "33da9e63897a3cde",
   "title": "Tom Ford Ombre Leather Eau de Parfum 3.4 oz $130 free S&H for Costco members $129.99",
-  "url": "https://slickdeals.net/f/18897034-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-130-free-s-h-for-costco-members-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Tom+Ford+Ombre+Leather+Eau+de+Parfum+3.4+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7699,7 +7745,10 @@
   "hot": false,
   "pct": null,
   "price": 130.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18897034-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-130-free-s-h-for-costco-members-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "3d0c15ca2ef142f2",
@@ -7712,12 +7761,13 @@
   "hot": false,
   "pct": null,
   "price": 112.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "5f6085cbeaa31e3d",
   "title": "Woot - Tom Ford Ombre Leather Eau de Parfum 3.4 oz - $133 + free shipping with Prime $132.99",
-  "url": "https://slickdeals.net/f/18550585-woot-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-133-free-shipping-with-prime-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Woot+-+Tom+Ford+Ombre+Leather+Eau+de+Parfum+3.4+oz+-",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7725,7 +7775,10 @@
   "hot": false,
   "pct": null,
   "price": 133.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18550585-woot-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-133-free-shipping-with-prime-132-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "3b5e8d8eda24e890",
@@ -7738,12 +7791,13 @@
   "hot": false,
   "pct": null,
   "price": 120.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "a522e7ee9dc78ed1",
   "title": "Costco Members: 3.4 fl oz Tom Ford Black Orchid or Grey Vetiver Eau de Parfum $100 each",
-  "url": "https://slickdeals.net/f/18504598-costco-members-3-4-fl-oz-tom-ford-black-orchid-or-grey-vetiver-eau-de-parfum-100-each?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3.4+fl+oz+Tom+Ford+Black+Orchid+or+Grey+Vetiver+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7751,12 +7805,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18504598-costco-members-3-4-fl-oz-tom-ford-black-orchid-or-grey-vetiver-eau-de-parfum-100-each?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "48a062c01d26937f",
   "title": "Tom Ford Black Orchid Eau de Parfum $137.72",
-  "url": "https://slickdeals.net/f/18492601-tom-ford-black-orchid-eau-de-parfum-137-72?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.target.com/s?searchTerm=Tom+Ford+Black+Orchid+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7764,12 +7821,15 @@
   "hot": false,
   "pct": null,
   "price": 137.72,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18492601-tom-ford-black-orchid-eau-de-parfum-137-72?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Target"
  },
  {
   "id": "9b9d181e81c1276c",
   "title": "Woot!: Select Tom Ford & More Fragrances: Tom Ford Oud Wood All Over Body Spray, 4 oz $50.39 & More + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/18433813-woot-select-tom-ford-more-fragrances-tom-ford-oud-wood-all-over-body-spray-4-oz-50-39-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Woot+Select+Tom+Ford+%26+More+Fragrances+Tom+Ford+Oud+Wood+All+Over+Body+Spray+4+o",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7777,12 +7837,15 @@
   "hot": false,
   "pct": 20,
   "price": 50.39,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18433813-woot-select-tom-ford-more-fragrances-tom-ford-oud-wood-all-over-body-spray-4-oz-50-39-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "e7ef52dd5c357a58",
   "title": "Costco Members: 3.4 oz Tom Ford Noir Extreme Eau de Parfum $100",
-  "url": "https://slickdeals.net/f/18430558-costco-members-3-4-oz-tom-ford-noir-extreme-eau-de-parfum-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3.4+oz+Tom+Ford+Noir+Extreme+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7790,12 +7853,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18430558-costco-members-3-4-oz-tom-ford-noir-extreme-eau-de-parfum-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "6d4b0a38791c8bf4",
   "title": "Tom Ford Oud Wood Eau de Parfum, 3.4 fl oz Costco - $190",
-  "url": "https://slickdeals.net/f/18341773-tom-ford-oud-wood-eau-de-parfum-3-4-fl-oz-costco-190?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Tom+Ford+Oud+Wood+Eau+de+Parfum+3.4+fl+oz+Costco+-",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -7803,7 +7869,10 @@
   "hot": false,
   "pct": null,
   "price": 190.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18341773-tom-ford-oud-wood-eau-de-parfum-3-4-fl-oz-costco-190?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "bc5b4754bafa4b5a",
@@ -7816,7 +7885,8 @@
   "hot": false,
   "pct": null,
   "price": 120.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "7986538a5c1ee600",
@@ -7829,7 +7899,8 @@
   "hot": false,
   "pct": null,
   "price": 60.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "f7a848ffebe4914d",
@@ -7842,12 +7913,13 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "4ea66fce23282e0f",
   "title": "Apple MacBook Air (15-inch) with Apple M5, 16GB RAM, 512GB SSD $1299.99",
-  "url": "https://slickdeals.net/f/20235198-apple-macbook-air-15-inch-with-apple-m5-16gb-ram-512gb-ssd-1299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Apple%20MacBook%20Air%20with%20Apple%20M5%2016GB%20RAM%20512GB%20SSD",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook Air",
@@ -7855,12 +7927,15 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20235198-apple-macbook-air-15-inch-with-apple-m5-16gb-ram-512gb-ssd-1299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
  },
  {
   "id": "1ee15803b3f71445",
   "title": "Apple MacBook Air (13-inch) with Apple M5, 16GB RAM, 512GB SSD $1099.99 @Costco",
-  "url": "https://slickdeals.net/f/20235189-apple-macbook-air-13-inch-with-apple-m5-16gb-ram-512gb-ssd-1099-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Apple+MacBook+Air+with+Apple+M5+16GB+RAM+512GB+SSD",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook Air",
@@ -7868,12 +7943,15 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20235189-apple-macbook-air-13-inch-with-apple-m5-16gb-ram-512gb-ssd-1099-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "350226c4d0aa6a77",
   "title": "13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD $1399 + Free SH",
-  "url": "https://slickdeals.net/f/20233869-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-1399-free-sh?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=13.6+Apple+MacBook+Air+M5+Chip+16GB+RAM+1TB+SSD",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook Air",
@@ -7881,12 +7959,15 @@
   "hot": false,
   "pct": null,
   "price": 139.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20233869-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-1399-free-sh?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "34e018ebd0829041",
   "title": "Targus - HyperShield Magnetic Privacy Screen for MacBook Neo - Black $19.99 Bestbuy.com",
-  "url": "https://slickdeals.net/f/20225973-targus-hypershield-magnetic-privacy-screen-for-macbook-neo-black-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Targus+-+HyperShield+Magnetic+Privacy+Screen+for+MacBook+Neo+-+Black",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook Air",
@@ -7894,12 +7975,15 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20225973-targus-hypershield-magnetic-privacy-screen-for-macbook-neo-black-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "d552da446ed44b56",
   "title": "(NEW) Apple Watch Series 11 Smartwatch [GPS + Cellular] - Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant $338.53",
-  "url": "https://slickdeals.net/f/20232045-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-338-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Apple+Watch+Series+11+Smartwatch+-+Sleep+Score+Fitness+Tracker+Health+Monitoring",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -7907,12 +7991,15 @@
   "hot": false,
   "pct": null,
   "price": 338.53,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20232045-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-338-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "10a3d2c2600a4551",
   "title": "Pugo Top Stainless Steel Band for Apple Watch (various) from $9.50 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20224668-pugo-top-stainless-steel-band-for-apple-watch-various-from-9-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Pugo+Top+Stainless+Steel+Band+for+Apple+Watch+from",
   "why": "Apple Watch 50% off",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -7920,12 +8007,15 @@
   "hot": true,
   "pct": 50,
   "price": 9.5,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20224668-pugo-top-stainless-steel-band-for-apple-watch-various-from-9-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "5ce2ec883aeaf7e4",
   "title": "Samsung Galaxy S26, Unlocked Android Smartphone, 256GB, Black | Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, US 1 Year Warranty $789",
-  "url": "https://slickdeals.net/f/20237241-samsung-galaxy-s26-unlocked-android-smartphone-256gb-black-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty-789?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+256GB+Black+Powerful+Processor+Ga",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Galaxy S26",
@@ -7933,7 +8023,10 @@
   "hot": false,
   "pct": null,
   "price": 789.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20237241-samsung-galaxy-s26-unlocked-android-smartphone-256gb-black-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty-789?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "a2a4fa7178389ad2",
@@ -7946,12 +8039,13 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "5246f79f9da2202c",
   "title": "Bose QuietComfort Ultra Earbuds (2nd Gen) Various Colors $229 + Free S&H at Amazon",
-  "url": "https://slickdeals.net/f/20231214-bose-quietcomfort-ultra-earbuds-2nd-gen-various-colors-229-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Earbuds+Various+Colors",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -7959,7 +8053,10 @@
   "hot": false,
   "pct": null,
   "price": 229.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231214-bose-quietcomfort-ultra-earbuds-2nd-gen-various-colors-229-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "16b1cf9b984d42c3",
@@ -7972,12 +8069,13 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "0ebdd2d7b05f31f7",
   "title": "Beats Solo 4 Wireless On-Ear Headphones (Black, Blue, Pink) - $129.99 @ Best Buy",
-  "url": "https://slickdeals.net/f/20233122-beats-solo-4-wireless-on-ear-headphones-black-blue-pink-129-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Beats+Solo+4+Wireless+On-Ear+Headphones+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Beats",
@@ -7985,12 +8083,15 @@
   "hot": false,
   "pct": null,
   "price": 129.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20233122-beats-solo-4-wireless-on-ear-headphones-black-blue-pink-129-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "6926b5ff4039f63a",
   "title": "MLB The Show 26 (Xbox Series X) $30 + Free Shipping w/ Prime or on orders over $35",
-  "url": "https://slickdeals.net/f/20230803-mlb-the-show-26-xbox-series-x-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=MLB+The+Show+26",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Xbox Series X",
@@ -7998,12 +8099,15 @@
   "hot": false,
   "pct": null,
   "price": 30.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20230803-mlb-the-show-26-xbox-series-x-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "ec5579811003fb14",
   "title": "Nikon Z30 Mirrorless Camera with 16-50mm f/3.5-6.3 Lens and Basic Bundle $596.95",
-  "url": "https://slickdeals.net/f/20237007-nikon-z30-mirrorless-camera-with-16-50mm-f-3-5-6-3-lens-and-basic-bundle-596-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bhphotovideo.com/c/search?q=Nikon+Z30+Mirrorless+Camera+with+16-50mm+f+3.5-6.3+Lens+and+Basic+Bundle",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nikon Z",
@@ -8011,12 +8115,15 @@
   "hot": false,
   "pct": null,
   "price": 596.95,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20237007-nikon-z30-mirrorless-camera-with-16-50mm-f-3-5-6-3-lens-and-basic-bundle-596-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bhphotovideo"
  },
  {
   "id": "7b5848c95127c2bc",
   "title": "Nikon Z30 Mirrorless Camera with 16-50mm f/3.5-6.3 Lens and Basic Bundle $596.95",
-  "url": "https://slickdeals.net/f/20237007-nikon-z30-mirrorless-camera-with-16-50mm-f-3-5-6-3-lens-and-basic-bundle-596-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bhphotovideo.com/c/search?q=Nikon+Z30+Mirrorless+Camera+with+16-50mm+f+3.5-6.3+Lens+and+Basic+Bundle",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: B&H Deal",
@@ -8024,7 +8131,10 @@
   "hot": false,
   "pct": null,
   "price": 596.95,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20237007-nikon-z30-mirrorless-camera-with-16-50mm-f-3-5-6-3-lens-and-basic-bundle-596-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bhphotovideo"
  },
  {
   "id": "edc3f9c2de0f5fcc",
@@ -11298,5 +11408,21 @@
   "price": 56.99,
   "found_at": "2026-11-01T03:18:04Z",
   "link_tried2": true
+ },
+ {
+  "id": "ff0f92ddac9f4445",
+  "title": "Maui Jim Sunglasses: Unisex Breakwall HCL Bronze Wrap Sunglasses $100.10 & More + Free Shipping",
+  "url": "https://www.jomashop.com/search?q=Maui+Jim+Sunglasses+Unisex+Breakwall+HCL+Bronze+Wrap+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 100.1,
+  "found_at": "2026-11-01T03:24:13Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18314791-maui-jim-sunglasses-unisex-breakwall-hcl-bronze-wrap-sunglasses-100-10-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  }
 ]
