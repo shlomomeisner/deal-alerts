@@ -23,9 +23,9 @@ FILES = [os.path.join(ROOT, "deals.json"), os.path.join(ROOT, "hunted.json")]
 CONFIG = os.path.join(ROOT, "config.json")
 BROWSER = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
-LINK_FIXES_PER_SCAN = 40
+LINK_FIXES_PER_SCAN = 150
 RECHECKS_PER_SCAN = 15
-DEADLINE = time.time() + 150  # keep each scan short
+DEADLINE = time.time() + 200  # keep each scan short
 
 POST_HOSTS = ("slickdeals.net", "dealnews.com", "9to5toys.com", "9to5mac.com", "macrumors.com",
               "dealsplus.com", "bradsdeals.com", "techbargains.com", "reddit.com", "news.google.com",
@@ -49,8 +49,9 @@ GONE_STORE = re.compile(r"(schema\.org/(OutOfStock|SoldOut|Discontinued)|current
 # chargers, cables, docks... are junk unless the deal is really for a headphone, TV, speaker etc.
 GAME = re.compile(r"\((?:[^)]*\b)?(ps5|ps4|playstation [45]|switch 2|nintendo switch|xbox series x\|?s?|xbox one|pc|steam)"
                   r"\b[^)]*\)|\bdigital (code|download)\b|\bvideo game\b", re.I)
-HARDWARE = re.compile(r"\b(console|controller|dualsense|headset|bundle|portal|pro edition|digital edition|disc edition|"
-                      r"oled model|vr2?)\b", re.I)
+HARDWARE = re.compile(r"\b(console|controller|dualsense|headset|bundle|portal|pro|slim|system|joy-?con|digital edition|"
+                      r"disc edition|oled|vr2?)\b", re.I)
+PLATFORM = re.compile(r"\b(nintendo switch|switch 2|ps5|ps4|playstation [45]|xbox( series [xs]| one)?)\b|\[digital\]|pre-purchase", re.I)
 CHEAP_JEWELRY = re.compile(r"\b(gold|silver|rhodium)[- ]plated\b|\bcate (&|and) chloe\b|\bsimulated\b|"
                            r"\bfashion jewelry\b", re.I)
 ACCESSORY = re.compile(r"\b(charger|charging|cable|adapter|power bank|dock|mount|stand)\b", re.I)
@@ -80,7 +81,7 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 OPENER = urllib.request.build_opener(NoRedirect)
 
 
-def get(url, timeout=15):
+def get(url, timeout=8):
     """Return (status, final_html_or_location)."""
     req = urllib.request.Request(url, headers={"User-Agent": BROWSER, "Accept": "text/html,*/*",
                                                "Accept-Language": "en-US,en;q=0.9"})
@@ -140,11 +141,13 @@ def follow(url, hops=8):
 
 
 LAST_HINT = {"store": ""}
+DOUBT = re.compile(r"(woot\.com/search|jomashop\.com/search|ulta\.com/search|staples\.com/|fragrancenet\.com/search|"
+                   r"saksfifthavenue\.com/search|typekit|fonts\.|videoplayer|\.(css|js|png|jpe?g|gif|webp)(\?|$))", re.I)
 
 
 BAD_HOST = re.compile(r"(^|\.)(twitter|x|facebook|youtube|instagram|google|apple\.news|wp|wordpress|gravatar|"
                       r"videoplayerhub|jwplayer|vimeo|tiktok|pinterest|reddit|threads|bsky|disqus|feedburner|"
-                      r"gstatic|cloudfront|doubleclick|9to5mac|9to5google|9to5toys|electrek|dronedj|space\.com)"
+                      r"gstatic|cloudfront|doubleclick|typekit|fonts|9to5mac|9to5google|9to5toys|electrek|dronedj|space\.com)"
                       r"(\.|$)|videoplayer|cdn\.|static\.|img\.|\.(jpg|png|gif|webp)$", re.I)
 
 
@@ -161,8 +164,7 @@ def store_link_from_post(post_url):
     h = host(post_url)
     cands = []
     if "slickdeals.net" in h:
-        cands = [x for x in hrefs if "/click?" in x and "Main%20CTA" in x] + \
-                [x for x in hrefs if "/click?" in x and "Image" not in x]
+        return None   # Slickdeals blocks following its buttons; the store name (hint) is enough
     elif "dealnews.com" in h:
         cands = [x for x in hrefs if "/lw/click" in x or "/lw/" in x and "click" in x]
     elif "9to5toys.com" in h or "9to5mac.com" in h or "macrumors.com" in h:
@@ -181,7 +183,7 @@ def unescape_amp(s):
 
 
 STORES = {  # name in the deal -> the store's own search page
-    "amazon": "https://www.amazon.com/s?k={q}", "woot": "https://www.woot.com/search?query={q}",
+    "amazon": "https://www.amazon.com/s?k={q}", "woot": "https://www.google.com/search?q=site%3Awoot.com+{q}",
     "best buy": "https://www.bestbuy.com/site/searchpage.jsp?st={q}", "bestbuy": "https://www.bestbuy.com/site/searchpage.jsp?st={q}",
     "walmart": "https://www.walmart.com/search?q={q}", "target": "https://www.target.com/s?searchTerm={q}",
     "costco": "https://www.costco.com/CatalogSearch?keyword={q}", "samsung": "https://www.samsung.com/us/search/searchMain/?searchTerm={q}",
@@ -191,17 +193,17 @@ STORES = {  # name in the deal -> the store's own search page
     "macys": "https://www.macys.com/shop/featured/{q}", "nordstrom rack": "https://www.nordstromrack.com/sr?keyword={q}",
     "nordstrom": "https://www.nordstrom.com/sr?keyword={q}", "kohl's": "https://www.kohls.com/search.jsp?search={q}",
     "kohls": "https://www.kohls.com/search.jsp?search={q}", "gamestop": "https://www.gamestop.com/search/?q={q}",
-    "sephora": "https://www.sephora.com/search?keyword={q}", "ulta": "https://www.ulta.com/search?search={q}",
-    "dell": "https://www.dell.com/en-us/search/{q}", "lenovo": "https://www.lenovo.com/us/en/search?text={q}",
+    "sephora": "https://www.sephora.com/search?keyword={q}", "ulta": "https://www.google.com/search?q=site%3Aulta.com+{q}",
+    "dell": "https://www.google.com/search?q=site%3Adell.com+{q}", "lenovo": "https://www.google.com/search?q=site%3Alenovo.com+{q}",
     "home depot": "https://www.homedepot.com/s/{q}", "lowe's": "https://www.lowes.com/search?searchTerm={q}",
     "rei": "https://www.rei.com/search?q={q}", "zappos": "https://www.zappos.com/search?term={q}",
-    "saks": "https://www.saksfifthavenue.com/search?q={q}", "bloomingdale's": "https://www.bloomingdales.com/shop/search?keyword={q}",
-    "jomashop": "https://www.jomashop.com/search?q={q}", "fragrancenet": "https://www.fragrancenet.com/search?q={q}",
+    "saks": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+{q}", "bloomingdale's": "https://www.bloomingdales.com/shop/search?keyword={q}",
+    "jomashop": "https://www.google.com/search?q=site%3Ajomashop.com+{q}", "fragrancenet": "https://www.google.com/search?q=site%3Afragrancenet.com+{q}",
     "lululemon": "https://shop.lululemon.com/search?Ntt={q}", "nike": "https://www.nike.com/w?q={q}",
-    "adidas": "https://www.adidas.com/us/search?q={q}", "microsoft": "https://www.microsoft.com/en-us/search/shop?q={q}",
-    "playstation": "https://direct.playstation.com/en-us/search?q={q}", "verizon": "https://www.verizon.com/search/results/?q={q}",
-    "sam's club": "https://www.samsclub.com/s/{q}", "bjs": "https://www.bjs.com/search/{q}",
-    "p.c. richard": "https://www.pcrichard.com/search?q={q}", "staples": "https://www.staples.com/{q}/directory_{q}",
+    "adidas": "https://www.adidas.com/us/search?q={q}", "microsoft": "https://www.google.com/search?q=site%3Amicrosoft.com+{q}",
+    "playstation": "https://www.google.com/search?q=site%3Adirect.playstation.com+{q}", "verizon": "https://www.google.com/search?q=site%3Averizon.com+{q}",
+    "sam's club": "https://www.samsclub.com/s/{q}", "bjs": "https://www.google.com/search?q=site%3Abjs.com+{q}",
+    "p.c. richard": "https://www.google.com/search?q=site%3Apcrichard.com+{q}", "staples": "https://www.google.com/search?q=site%3Astaples.com+{q}",
 }
 
 
@@ -237,7 +239,68 @@ ROUTE = re.compile(r"(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\
                    r"([A-Za-z\u00c0-\u017f .,'&()/-]{2,60}?)(?=\s+(?:for|from|in|on|only|starting|\$)|\s*[.$:|!]|\s+[\u2013-]\s|$)", re.I)
 
 
+MONTHS = {m: i + 1 for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
+MON = r"(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)"
+SAMPLE = re.compile(MON + r"\.?\s+(\d{1,2})(?:st|nd|rd|th)?\s*(?:[-\u2013\u2014]|to|through)\s*(?:" + MON + r"\.?\s+)?(\d{1,2})(?:st|nd|rd|th)?,?\s*(20\d\d)?", re.I)
+
+
+def page_text(html):
+    html = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", html)
+    html = re.sub(r"(?i)<br\s*/?>|</(p|li|div|h\d)>", "\n", html)
+    from html import unescape
+    return unescape(re.sub(r"<[^>]+>", " ", html))
+
+
+def flight_dates(post_url):
+    """Read the deal post for its travel window and a sample round-trip date."""
+    status, html = get(post_url)
+    if status != 200 or not html:
+        return {}
+    text = re.sub(r"[ \t\xa0]+", " ", page_text(html))
+    out = {}
+    w = re.search(r"(?i)(valid for travel|travel (?:dates?|period|window)|dates?|travel)\s*(?:is|are|:)?\s*((?:in|from|between|during)?[^\n.]{0,10}" + MON + r"[^\n.]{0,90})", text)
+    if w:
+        out["window"] = re.sub(r"\s+", " ", w.group(2)).strip(" :-")[:110]
+    i = re.search(r"(?i)sample travel dates?", text)
+    m = SAMPLE.search(text, i.end() if i else 0) if i else None
+    if m:
+        m1, d1, m2, d2, yr = m.groups()
+        mo1 = MONTHS[m1[:3].lower()]
+        mo2 = MONTHS[m2[:3].lower()] if m2 else mo1
+        now = time.gmtime()
+        y1 = int(yr) if yr else (now.tm_year if mo1 >= now.tm_mon else now.tm_year + 1)
+        y2 = y1 + (1 if mo2 < mo1 else 0)
+        if yr and mo2 < mo1:
+            y1 -= 1
+            y2 = int(yr)
+        out["depart"] = f"{y1:04d}-{mo1:02d}-{int(d1):02d}"
+        out["return"] = f"{y2:04d}-{mo2:02d}-{int(d2):02d}"
+    return out
+
+
+def shopping(d):
+    q = re.sub(r"\$\s?[\d,.]+.*$", "", d.get("title", ""))
+    q = re.sub(r"\([^)]*\)|\[[^]]*\]", " ", q)
+    q = re.sub(r"\s+", " ", q).strip()[:80]
+    return "https://www.google.com/search?tbm=shop&q=" + urllib.parse.quote_plus(q)
+
+
+def verified(url, d):
+    """Open the link like a phone would; a dead store link (404) becomes a Google Shopping search."""
+    if "google.com/" in url:
+        return url
+    status, _ = get(url)
+    return shopping(d) if status in (404, 410) else url
+
+
 def flight_link(d):
+    base = _flight_route_link(d)
+    if d.get("depart") and d.get("return") and "%20through%20" not in base:
+        base += urllib.parse.quote(f" on {d['depart']} through {d['return']}")
+    return base
+
+
+def _flight_route_link(d):
     m = ROUTE.search(re.sub(r"\b(St|Ste|Mt|Ft|Pt)\.", r"\1", d.get("title", "")))
     if m:
         dest = re.sub(r"\([^)]*\)", "", m.group(2)).strip(" ,.-")
@@ -265,6 +328,10 @@ def recheck(d):
                 return "GONE"
             return "LIVE"
     url = d.get("url", "")
+    if url and "google.com/" not in url and re.search(r"search|/s\?|/sr\?|[?&](q|k|keyword|st|term|query|_nkw)=|/featured/", url, re.I):
+        status, _ = get(url)
+        if status in (404, 410):
+            return "DEADLINK"
     if url and not is_post(url) and d.get("category") != "flights" and not re.search(r"search|/s\?|/sr\?|[?&](q|k|keyword|st|term|query|_nkw)=|/featured/", url, re.I):
         status, html = get(url)
         if status in (404, 410):
@@ -294,7 +361,7 @@ def main():
             t = (d.get("title") or "").lower()
             if (any(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", t) for w in junk)
                     or (ACCESSORY.search(t) and not REAL_PRODUCT.search(t))
-                    or (GAME.search(t) and not HARDWARE.search(t))
+                    or ((GAME.search(t) or PLATFORM.search(t)) and not HARDWARE.search(t))
                     or CHEAP_JEWELRY.search(t)):
                 removed += 1
                 changed = True
@@ -312,10 +379,18 @@ def main():
     everything = [d for deals in lists.values() for d in deals]
 
     # 1. store links for new deals (newest first)
-    for d in everything:   # links saved by an older version that point at a video player, image, etc.
-        if d.get("source_url") and BAD_HOST.search(host(d.get("url", ""))):
+    for d in everything:   # links saved by an older version that point at a video player, font, bad search page...
+        if d.get("source_url") and (BAD_HOST.search(host(d.get("url", ""))) or DOUBT.search(d.get("url", ""))):
             d["url"], changed = d["source_url"], True
             d.pop("link_tried2", None)
+            d.pop("link_tried3", None)
+    for d in everything:   # travel dates from the flight post (once per deal)
+        if d.get("category") == "flights" and not d.get("dates_tried") and time.time() < DEADLINE:
+            post = d.get("source_url") or (d["url"] if is_post(d.get("url", "")) else None)
+            if post and "news.google.com" not in post:
+                d.update(flight_dates(post))
+                d["route_fixed"] = False
+            d["dates_tried"], changed = True, True
     for d in everything:
         if d.get("category") == "flights" and d.get("source_url") and not d.get("route_fixed"):
             d["url"], d["route_fixed"], changed = flight_link(d), True, True
@@ -334,6 +409,7 @@ def main():
         if not target:
             target, _ = store_search(d, LAST_HINT["store"])
         if target:
+            target = verified(target, d)
             d["source_url"], d["url"] = d["url"], target
             fixed += 1
             if not d.get("store"):
@@ -346,6 +422,11 @@ def main():
         if time.time() > DEADLINE:
             break
         verdict = recheck(d)
+        if verdict == "DEADLINK":
+            d["url"] = shopping(d)
+            d["checked_at"] = now_iso()
+            changed = True
+            continue
         if verdict == "GONE":
             gone.add(d["id"])
         else:

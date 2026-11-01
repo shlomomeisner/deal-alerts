@@ -76,6 +76,28 @@ button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer}
 .route .line i{display:block;width:22px;border-top:2px dashed currentColor;opacity:.6}
 .route .palm{position:absolute;top:-9px;right:12px;font:700 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;background:#0ea5a4;color:#fff;padding:5px 8px;border-radius:999px}
 .deal.trop{border-color:color-mix(in srgb,#0ea5a4 45%,var(--line))}
+.finder{margin-top:14px;display:flex;flex-direction:column;gap:10px}
+.sbox{display:flex;align-items:center;gap:10px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:0 14px;box-shadow:0 1px 0 color-mix(in srgb,var(--ink) 4%,transparent)}
+.sbox:focus-within{border-color:var(--accent)}
+.sbox svg{flex:none;color:var(--muted)}
+.sbox input{flex:1;min-width:0;border:0;background:transparent;color:var(--ink);font:500 16px var(--body);padding:13px 0;outline:none}
+.sbox input::-webkit-search-cancel-button{display:none}
+.sbox .clr{border:0;background:transparent;color:var(--muted);font:600 13px var(--body);padding:6px;cursor:pointer}
+.watchrow{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.wnew{display:flex;align-items:center;gap:8px;flex-wrap:wrap;background:var(--accent-soft);border-radius:14px;padding:10px 12px;font-size:14px}
+.wnew b{font-weight:700}
+.wnew input{width:86px;font:600 15px var(--mono);border:1px solid var(--line);border-radius:10px;padding:7px 8px;background:var(--surface);color:var(--ink)}
+.wnew button,.wchip{font:700 13px var(--body);border-radius:999px;padding:8px 13px;cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.wnew button{background:var(--accent);border-color:var(--accent);color:#fff}
+.wchip{display:inline-flex;align-items:center;gap:6px}
+.wchip .n{font-family:var(--mono);color:var(--muted)}
+.wchip .n.hot{color:#fff;background:var(--accent);border-radius:999px;padding:1px 7px}
+.wchip .x{color:var(--muted);font-weight:500;margin-left:2px}
+.flag.watch{background:var(--accent-soft);color:var(--accent)}
+.shops{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:12px}
+.shops a{font:700 14px var(--body);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:9px 14px;background:var(--surface);color:var(--ink)}
+.fdates{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px;color:var(--muted);margin-top:-2px}
+.fdates b{color:var(--ink);font-weight:700}
 .deal{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px;position:relative;min-width:0;transition:transform .15s,box-shadow .15s}
 @media (hover:hover){.deal:hover{transform:translateY(-2px);box-shadow:0 10px 26px -14px color-mix(in srgb,var(--ink) 35%,transparent)}}
 .deal.urgent{border-color:color-mix(in srgb,var(--urgent) 55%,var(--line))}
@@ -136,6 +158,11 @@ footer{margin-top:30px;font-size:12px;color:var(--muted);display:flex;gap:8px 16
     <button type="button" class="stat" id="keptStat"><b id="sKept">0</b><span>Kept</span></button>
   </section>
 
+  <section class="finder" aria-label="Search">
+    <label class="sbox"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" enterkeyhint="search" autocomplete="off" placeholder="What do you want? AirPods, Gucci, Aruba…" aria-label="Search deals"><button type="button" class="clr" id="qclr" hidden>Clear</button></label>
+    <div id="watchbar" class="watchrow"></div>
+  </section>
   <section id="spot" hidden></section>
   <nav class="rail" id="rail" aria-label="Categories"></nav>
   <main class="list" id="list" aria-live="polite"></main>
@@ -236,11 +263,17 @@ function keepBtn(d){
   return b;
 }
 const esc=x=>String(x).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function fmtTrip(a,b){
+  const f=x=>{const [y,m,d]=x.split("-").map(Number);return {y,m,d,t:new Date(Date.UTC(y,m-1,d)).toLocaleDateString("en-US",{month:"short",day:"numeric",timeZone:"UTC"})}};
+  const A=f(a);if(!b)return A.t+", "+A.y;const B=f(b);
+  return A.m===B.m&&A.y===B.y?`${A.t} – ${B.d}, ${B.y}`:`${A.t} – ${B.t}, ${B.y}`;
+}
 function card(d){
   const el=document.createElement("article");
   el.className="deal"+(d.urgent?" urgent":"")+(d.ended?" ended":"")+(d.tropical?" trop":"");
-  el.innerHTML=`<div class="top"><span class="cat">${svg(d.category||"everything")}</span><span class="store"></span>${d.ended?'<span class="flag gone">Ended</span>':d.urgent?'<span class="flag">Price error</span>':""}<span class="when">${ago(d.found_at)}</span></div>
+  el.innerHTML=`<div class="top"><span class="cat">${svg(d.category||"everything")}</span><span class="store"></span>${d.ended?'<span class="flag gone">Ended</span>':d.urgent?'<span class="flag">Price error</span>':myWatch(d)?'<span class="flag watch">🎯 Your watch</span>':""}<span class="when">${ago(d.found_at)}</span></div>
   ${d.route?`<div class="route"><span class="code">${esc(d.route.from)}</span><span class="line"><i></i>${svg("flights",' width="18" height="18"')}<i></i></span><span class="dest">${esc(d.route.to.split(",")[0])}${d.route.to.includes(",")?`<small>${esc(d.route.to.split(",").slice(1).join(",").trim())}</small>`:""}</span>${d.tropical?'<span class="palm">🌴 Tropical</span>':""}</div>`:""}
+  ${d.category==="flights"&&(d.depart||d.window)?`<div class="fdates">${d.depart?`<span>📅 <b>${esc(fmtTrip(d.depart,d.return))}</b> sample dates</span>`:""}${d.window?`<span>🗓 Travel ${esc(d.window)}</span>`:""}</div>`:""}
   <div class="title"><a target="_blank" rel="noopener"></a></div>
   <div class="why"></div>
   ${priceHTML(d,"pricebar")}
@@ -273,13 +306,53 @@ function spotlight(){
   s.querySelector(".sub").textContent=[best.store,best.why].filter(Boolean).join(" · ");
   s.querySelector(".go").append(keepBtn(best));
 }
+let query="",watches=[];
+try{watches=JSON.parse(localStorage.getItem("sw.watches")||"[]")}catch(e){}
+const saveWatches=()=>{try{localStorage.setItem("sw.watches",JSON.stringify(watches))}catch(e){}};
+const words=q=>String(q).toLowerCase().split(/[^a-z0-9]+/).filter(w=>w.length>1&&!["the","and","for","with","new"].includes(w));
+const hay=d=>(String(d.title||"")+" "+(d.store||"")+" "+(d.route?d.route.to:"")).toLowerCase();
+const hits=(d,q)=>{const w=words(q);return w.length>0&&w.every(x=>hay(d).includes(x))};
+const priceNum=d=>typeof d.price==="number"?d.price:parseFloat(d.price);
+const watchHit=(d,w)=>hits(d,w.q)&&(!w.max||(priceNum(d)>0&&priceNum(d)<=w.max));
+const myWatch=d=>watches.find(w=>watchHit(d,w));
+function watchbar(){
+  const box=$("watchbar"),v=live(),parts=[];
+  if(query.trim()&&!watches.some(w=>w.q.toLowerCase()===query.trim().toLowerCase())){
+    const el=document.createElement("div");el.className="wnew";
+    el.innerHTML=`<span>🎯 Watch for <b></b> up to</span><input id="wmax" type="number" inputmode="decimal" placeholder="$ any"><button type="button" id="wadd">Watch it</button>`;
+    el.querySelector("b").textContent="“"+query.trim()+"”";
+    el.querySelector("#wadd").onclick=()=>{const mx=parseFloat(el.querySelector("#wmax").value);watches.push({q:query.trim(),max:mx>0?mx:null,seen:v.filter(d=>watchHit(d,{q:query.trim(),max:mx>0?mx:null})).map(d=>d.id)});saveWatches();render()};
+    parts.push(el);
+  }
+  for(const w of watches){
+    const m=v.filter(d=>watchHit(d,w)),fresh=m.filter(d=>!w.seen.includes(d.id)).length;
+    const c=document.createElement("button");c.type="button";c.className="wchip";
+    c.innerHTML=`🎯 <span class="t"></span><span class="n${fresh?" hot":""}">${fresh?fresh+" new":m.length}</span><span class="x" aria-label="Stop watching">✕</span>`;
+    c.querySelector(".t").textContent=w.q+(w.max?" ≤ $"+w.max:"");
+    c.onclick=e=>{if(e.target.classList.contains("x")){watches=watches.filter(x=>x!==w);saveWatches();render();return}
+      w.seen=[...new Set([...w.seen,...m.map(d=>d.id)])].slice(-500);saveWatches();$("q").value=query=w.q;cat="all";render()};
+    parts.push(c);
+  }
+  box.replaceChildren(...parts);
+}
+$("q").addEventListener("input",e=>{query=e.target.value;$("qclr").hidden=!query;render()});
+$("qclr").onclick=()=>{$("q").value=query="";$("qclr").hidden=true;render()};
 function render(){
   const v=live();
+  watchbar();
   $("sToday").textContent=v.filter(recent).length;
   $("sErr").textContent=v.filter(d=>d.urgent&&recent(d)).length;
   $("sKept").textContent=Object.keys(mine.kept).length;
   rail();spotlight();
   let rows=cat==="kept"?keptList():cat==="all"?v:v.filter(d=>inCat(d,cat));
+  if(query.trim())rows=rows.filter(d=>hits(d,query));
+  $("spot").hidden=!!query.trim()||$("spot").hidden;
+  if(!rows.length&&query.trim()){
+    const q=encodeURIComponent(query.trim()),e=document.createElement("div");e.className="empty";
+    e.innerHTML=`<h2>No deals on <span></span> yet</h2><p>Tap “Watch it” above and it'll be flagged 🎯 the moment one shows up. Or check prices now:</p><div class="shops"><a target="_blank" rel="noopener" href="https://www.google.com/search?tbm=shop&q=${q}">Google Shopping</a><a target="_blank" rel="noopener" href="https://www.amazon.com/s?k=${q}">Amazon</a><a target="_blank" rel="noopener" href="https://www.walmart.com/search?q=${q}">Walmart</a><a target="_blank" rel="noopener" href="https://www.bestbuy.com/site/searchpage.jsp?st=${q}">Best Buy</a></div>`;
+    e.querySelector("h2 span").textContent="“"+query.trim()+"”";
+    $("list").replaceChildren(e);return;
+  }
   if(!rows.length){
     const e=document.createElement("div");e.className="empty";
     if(cat==="kept")e.innerHTML=`<h2>Nothing kept yet</h2><p>Tap Keep on any deal and it stays here for good, on your phone and your computer.</p>`;
@@ -304,9 +377,10 @@ render();status();setInterval(()=>{status();render()},60000);
 
 const RAW="https://raw.githubusercontent.com/shlomomeisner/deal-alerts/main/";
 const POSTS=/(slickdeals\.net|dealnews\.com|theflightdeal\.com|secretflying\.com|fly4free\.com|thriftytraveler\.com|9to5toys\.com|reddit\.com|news\.google\.com)/i;
-const GAME=/\((?:[^)]*\b)?(ps5|ps4|playstation [45]|switch 2|nintendo switch|xbox[^)]*|pc)\b[^)]*\)/i,HW=/\b(console|controller|dualsense|headset|bundle)\b/i,PLATED=/\b(gold|silver)[- ]plated\b/i;
-const isJunk=t=>JUNK.test(t)||(GAME.test(t)&&!HW.test(t))||PLATED.test(t);
-const JUNK=/\b(digital download|video game|old navy|devil wears prada|nintendo switch\)|ps5 game|game key|kids'|toddler)\b/i;
+const GAME=/\((?:[^)]*\b)?(ps5|ps4|playstation [45]|switch 2|nintendo switch|xbox[^)]*|pc)\b[^)]*\)/i,HW=/\b(console|controller|dualsense|headset|bundle|portal|slim|pro|system|oled|joy-?con|digital edition|disc edition)\b/i,PLATED=/\b(gold|silver)[- ]plated\b/i;
+const PLAT=/\b(nintendo switch|switch 2|ps5|ps4|playstation [45]|xbox( series [xs]| one)?)\b|\[digital\]|pre-purchase/i;
+const isJunk=t=>JUNK.test(t)||((GAME.test(t)||PLAT.test(t))&&!HW.test(t))||PLATED.test(t);
+const JUNK=/\b(free sample|samples?\b|giveaway|sweepstakes|digital download|video game|old navy|devil wears prada|nintendo switch\)|ps5 game|game key|kids'|toddler)\b/i;
 const TROP=/\b(st\.? ?maarten|sint maarten|st\.? ?martin|saint martin|sxm|turks|caicos|providenciales|aruba|cura[cç]ao|bonaire|barbados|jamaica|montego bay|nassau|bahamas|exuma|punta cana|santo domingo|dominican republic|puerto rico|san juan|st\.? ?thomas|st\.? ?croix|virgin islands|antigua|st\.? ?lucia|saint lucia|grenada|trinidad|tobago|cayman|anguilla|st\.? ?kitts|nevis|st\.? ?barts|st\.? ?barth|martinique|guadeloupe|dominica|bermuda|caribbean|canc[uú]n|tulum|cozumel|cabo|puerto vallarta|costa rica|liberia|belize|roatan|panama|cartagena|hawaii|honolulu|maui|kona|kauai|key west|miami|fort lauderdale|bali|phuket|maldives|fiji|tahiti|bora bora|seychelles|mauritius|zanzibar|thailand)\b/i;
 const ROUTE=/(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\s*\([A-Z]{3}\))?\s*(?:to|-|\u2013|\u2014|\u2192|>)\s*([A-Za-z\u00c0-\u017f .,'&()\/-]{2,60}?)(?=\s+(?:for|from|in|on|only|starting|\$)|\s*[.$:|!]|\s+[\u2013-]\s|$)/i;
 function routeOf(title){
@@ -323,7 +397,17 @@ function fixDeal(d){
     const t=String(d.title||"").replace(/\$\s?[\d,]+.*$/,"").replace(/\b(round[- ]?trip|nonstop|only)\b/gi,"").trim();
     d={...d,source_url:d.source_url||d.url,url:"https://www.google.com/travel/flights?q="+encodeURIComponent("Flights "+t)};
   }
+  else if(POSTS.test(d.url)||DOUBT.test(d.url)){d={...d,source_url:d.source_url||d.url,url:storeSearch(d)}}  // never open a deal blog
   return d;
+}
+const DOUBT=/(woot\.com\/search|jomashop\.com\/search|ulta\.com\/search|staples\.com\/|fragrancenet\.com\/search|saksfifthavenue\.com\/search|typekit|fonts\.|videoplayer|\.(css|js|png|jpe?g|gif|webp)(\?|$))/i;
+const SHOPS={"amazon":"https://www.amazon.com/s?k=","walmart":"https://www.walmart.com/search?q=","best buy":"https://www.bestbuy.com/site/searchpage.jsp?st=","target":"https://www.target.com/s?searchTerm=","costco":"https://www.costco.com/CatalogSearch?keyword=","woot":"https://www.google.com/search?q=site%3Awoot.com+","ebay":"https://www.ebay.com/sch/i.html?_nkw=","macy":"https://www.macys.com/shop/featured/","nordstrom rack":"https://www.nordstromrack.com/sr?keyword=","nordstrom":"https://www.nordstrom.com/sr?keyword=","sephora":"https://www.sephora.com/search?keyword=","ulta":"https://www.google.com/search?q=site%3Aulta.com+","jomashop":"https://www.google.com/search?q=site%3Ajomashop.com+","b&h":"https://www.bhphotovideo.com/c/search?q=","newegg":"https://www.newegg.com/p/pl?d=","kohl":"https://www.kohls.com/search.jsp?search=","sam's club":"https://www.samsclub.com/s/","gamestop":"https://www.gamestop.com/search/?q=","apple":"https://www.apple.com/us/search/","samsung":"https://www.samsung.com/us/search/searchMain/?searchTerm=","zappos":"https://www.zappos.com/search?term=","saks":"https://www.google.com/search?q=site%3Asaksfifthavenue.com+","fragrancenet":"https://www.google.com/search?q=site%3Afragrancenet.com+"};
+function storeSearch(d){
+  const t=String(d.title||"");
+  let q=t.replace(/^\[[^\]]*\]\s*/,"").replace(/^\$[\d,.]+\*?\s*\|\s*/,"").replace(/\$\s?[\d,.]+.*$/,"").replace(/\([^)]*\)/g," ").replace(/\b(at|@|from|via)\s+[A-Z][\w'&. ]*$/,"").replace(/\s+/g," ").trim().slice(0,80);
+  const hay=(t+" "+(d.store||"")).toLowerCase();
+  const shop=Object.keys(SHOPS).sort((a,b)=>b.length-a.length).find(k=>new RegExp("(^|[^a-z])"+k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"([^a-z]|$)").test(hay));
+  return shop?SHOPS[shop]+encodeURIComponent(q):"https://www.google.com/search?tbm=shop&q="+encodeURIComponent(q);
 }
 const getJSON=f=>fetch(RAW+f+"?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null);
 async function load(){
