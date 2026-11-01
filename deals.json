@@ -11,7 +11,7 @@
   "pct": null,
   "price": 13.23,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:44:23Z",
+  "checked_at": "2026-11-01T11:02:01Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224545-ziploc-brand-gallon-freezer-storage-bags-152-ct-13-23-sams-club?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsclub"
@@ -28,7 +28,7 @@
   "pct": null,
   "price": 109.99,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:44:25Z",
+  "checked_at": "2026-11-01T11:02:03Z",
   "link_tried3": true
  },
  {
@@ -21128,5 +21128,22 @@
   "source_url": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
   "route_fixed": true,
   "checked_at": "2026-11-01T10:51:31Z"
+ },
+ {
+  "id": "5e0aa6a68f62ed75",
+  "title": "Stunning 65″ LG C6 OLED TV drops to its lowest price ever on Amazon - PC Guide",
+  "url": "https://www.amazon.com/s?k=Stunning+65+LG+C6+OLED+TV+drops+to+its+lowest+price+ever+on+Amazon+-+PC+Guide",
+  "why": "Oled — lowest price ever",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T11:01:58Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdy04Y3ViQlZYS3Z4YU15cUJCQWZjMzJ5YUFPdXBhQldMa05pZjlMcFIyZzRPQTdZMHo2SzRpcWdUdmQzSnE3RlRhSjZ2YlpOMm9KYWgwZWZuTnlJQjFGbWtNekF5ekJJZFJOLUxkTXpma2Q3TjYtc0JlRC1TZHRldjViVkpUWlp0U1RMQ2RVUkMtS0ViLTF5UXFtSlEwUQ?oc=5",
+  "store": "Amazon",
+  "checked_at": "2026-11-01T11:01:58Z"
  }
 ]
