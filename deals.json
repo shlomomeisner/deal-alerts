@@ -17124,7 +17124,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20149407-1-6-oz-hugo-boss-bottled-absolu-parfum-intense-59-97-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Nordstromrack"
+  "store": "Nordstromrack",
+  "checked_at": "2026-11-01T09:19:49Z"
  },
  {
   "id": "b4634cd1ca5cb581",
@@ -17140,7 +17141,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20140914-fragrances-49-99-or-less-mont-blanc-ck-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T09:19:51Z"
  },
  {
   "id": "7efc0ca8fd083c5d",
@@ -17156,7 +17158,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20108241-hugo-boss-bottled-eau-de-toilette-woody-men-s-cologne-with-notes-of-apple-cinnamon-wood-for-122-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:19:52Z"
  },
  {
   "id": "93c53d58c7bf10af",
@@ -17172,7 +17175,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20091009-hugo-by-hugo-boss-men-s-modern-fit-wool-blend-2-piece-suit-249-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:19:53Z"
  },
  {
   "id": "b8f5f7877acb0b0d",
@@ -17188,7 +17192,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20015364-hugo-boss-sunglasses-various-styles-38-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:19:54Z"
  },
  {
   "id": "97c8a1810b78d56b",
@@ -17204,7 +17209,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19681608-hugo-boss-bottled-beyond-eau-de-parfum-3-3-oz-108-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "86f36723b04fc5c5",
@@ -17217,7 +17223,8 @@
   "hot": false,
   "pct": null,
   "price": 5.58,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "c986260c1627b2a5",
@@ -17230,7 +17237,8 @@
   "hot": false,
   "pct": null,
   "price": 999.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "024b0a23cfb0dd23",
@@ -17243,7 +17251,8 @@
   "hot": false,
   "pct": null,
   "price": 4.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "858ea0213f51e571",
@@ -17256,7 +17265,8 @@
   "hot": false,
   "pct": null,
   "price": 159.0,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "3a007e17a7789ae7",
@@ -17269,7 +17279,8 @@
   "hot": false,
   "pct": null,
   "price": 339.0,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "a234b59373a3867a",
@@ -17282,33 +17293,8 @@
   "hot": false,
   "pct": null,
   "price": 39.99,
-  "found_at": "2026-11-01T07:44:28Z"
- },
- {
-  "id": "56b88083c4b7550b",
-  "title": "Nubwo HG04L Wired Gaming Headset (PS5/PS4, Xbox Series X|S, PC) $11.99",
-  "url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 11.99,
-  "found_at": "2026-11-01T07:44:28Z"
- },
- {
-  "id": "cb16ca36775576a5",
-  "title": "Citizen 100M Water-Resistant Men's Luxury Eco-Drive Chronograph Watch $337.50",
-  "url": "https://www.amazon.com/gp/product/B0B916MQGN/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "watches",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 337.5,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "f132bf31b56e7ba1",
@@ -17321,7 +17307,8 @@
   "hot": false,
   "pct": null,
   "price": 79.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:59Z"
  },
  {
   "id": "75ba5689eb1f5e51",
@@ -17334,7 +17321,8 @@
   "hot": false,
   "pct": null,
   "price": 749.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:08Z"
  },
  {
   "id": "a6653d8925ee4459",
@@ -17347,7 +17335,8 @@
   "hot": false,
   "pct": null,
   "price": 199.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:08Z"
  },
  {
   "id": "b3f6cccb8fd75f7e",
@@ -17360,7 +17349,8 @@
   "hot": false,
   "pct": null,
   "price": 399.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:09Z"
  },
  {
   "id": "b1bdb2960764eab7",
@@ -17373,20 +17363,8 @@
   "hot": false,
   "pct": null,
   "price": 199.99,
-  "found_at": "2026-11-01T07:44:28Z"
- },
- {
-  "id": "e61701ee35e536da",
-  "title": "AOC Q27GAZD 27\" QD 2560x1440 OLED Gaming Monitor $329.99",
-  "url": "https://www.amazon.com/gp/product/B0GT2JP76J/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 329.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:09Z"
  },
  {
   "id": "876baebc3fcc9864",
@@ -17399,7 +17377,8 @@
   "hot": false,
   "pct": null,
   "price": 4.94,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:10Z"
  },
  {
   "id": "81e69fea67679d2a",
@@ -17415,7 +17394,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20237253-citizen-cz-smart-pq2-44mm-sport-smartwatch-with-youq-app-with-ibm-watson-ai-and-nasa-research-wear-os-by-google-263-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:25:11Z"
  },
  {
   "id": "d592b6b639b314b3",
@@ -17429,7 +17409,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T07:49:55Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:25:12Z"
  },
  {
   "id": "233cade56756af59",
@@ -17445,7 +17426,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://camelcamelcamel.com/product/B0CBVXDX99",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:25:12Z"
  },
  {
   "id": "9b638ebea21b129d",
@@ -17461,7 +17443,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco"
+  "store": "Costco",
+  "checked_at": "2026-11-01T09:25:13Z"
  },
  {
   "id": "8b6338beb2d03ed1",
@@ -17475,7 +17458,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T07:49:55Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:25:14Z"
  },
  {
   "id": "36190fbed623a3e0",
@@ -17491,7 +17475,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235456-crkd-ult-pro-wireless-gaming-controller-for-switch-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:25:15Z"
  },
  {
   "id": "df97e1728cd17f10",
@@ -17507,7 +17492,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/e/3469268-vogue-s-london-getaway-sweepstakes-11-30-11?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:25:15Z"
  },
  {
   "id": "2c6085064f6b36dd",
@@ -17521,7 +17507,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T07:49:55Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:25:16Z"
  },
  {
   "id": "da01bdd363314355",
@@ -17537,7 +17524,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238999-xenoblade-chronicles-2-expansion-pass-dlc-bundle-nintendo-switch-digital-38-19-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:25:17Z"
  },
  {
   "id": "54a20a5cc9491208",
@@ -17553,7 +17541,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:30:27Z"
  },
  {
   "id": "e789cfe279e183ea",
@@ -17569,7 +17558,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:30:28Z"
  },
  {
   "id": "65ee083a514a6160",
@@ -17585,7 +17575,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:30:30Z"
  },
  {
   "id": "d7ba0fc871f0cfad",
@@ -17601,7 +17592,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17476674-acqua-di-gio-parfum-men-s-cologne-2-5-oz-96?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:30:31Z"
  },
  {
   "id": "83b90e344940a7c7",
@@ -17615,7 +17607,8 @@
   "pct": null,
   "price": 500.0,
   "found_at": "2026-11-01T07:55:41Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:30:32Z"
  },
  {
   "id": "3715d7e165b51d11",
@@ -17631,7 +17624,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19640040-2-piece-hugo-boss-boss-bottled-beyond-eau-de-parfum-gift-set-25-90-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Macys"
+  "store": "Macys",
+  "checked_at": "2026-11-01T09:30:34Z"
  },
  {
   "id": "c6997a45cc4dcb2e",
@@ -17647,7 +17641,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19585512-fragrances-from-polo-hugo-boss-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T09:30:35Z"
  },
  {
   "id": "b9d8ad42143f189b",
@@ -17663,7 +17658,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19583727-hugo-iced-eau-de-toilette-spray-2-5oz-for-men-scent-woody-by-hugo-boss-sold-shipped-by-walmart-31-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:30:37Z"
  },
  {
   "id": "74f41f364a8cb041",
@@ -17679,7 +17675,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19561482-best-selling-fragrances-from-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T09:30:38Z"
  },
  {
   "id": "97020fd56f62dbff",
@@ -17695,7 +17692,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19467591-fragrances-from-hugo-boss-polo-burberry-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T09:30:39Z"
  },
  {
   "id": "adc6a11504452709",
@@ -17709,7 +17707,8 @@
   "pct": null,
   "price": 34.99,
   "found_at": "2026-11-01T07:55:41Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:30:40Z"
  },
  {
   "id": "376ce7916b6996a8",
@@ -17725,7 +17724,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19252714-hugo-boss-bottled-bold-citrus-eau-de-parfum-200-ml-6-7oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:30:42Z"
  },
  {
   "id": "7db7b8eaf70a34c7",
@@ -17741,7 +17741,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19037758-hugo-man-by-hugo-boss-cologne-for-men-edt-6-7-6-8-oz-new-with-box-for-46-41?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Ebay"
+  "store": "Ebay",
+  "checked_at": "2026-11-01T09:30:43Z"
  },
  {
   "id": "c64e02128094f5d1",
@@ -17757,7 +17758,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19037509-hugo-boss-bottled-beyond-eau-de-parfum-woody-men-s-cologne-with-notes-of-ginger-leather-long-lasting-fragrance-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:30:45Z"
  },
  {
   "id": "f9bbeb492ae7daac",
@@ -17771,7 +17773,8 @@
   "pct": null,
   "price": 85.5,
   "found_at": "2026-11-01T07:55:41Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:30:46Z"
  },
  {
   "id": "6e9e42de23999aee",
@@ -17787,7 +17790,8 @@
   "found_at": "2026-11-01T07:55:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18994441-xx2i-polarized-19-bmw-polarized-19-suncloud-polarized-20-sunglasses-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:36:09Z"
  },
  {
   "id": "3d45a492b9f771ca",
@@ -17801,7 +17805,8 @@
   "pct": null,
   "price": 83.12,
   "found_at": "2026-11-01T07:55:41Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:36:11Z"
  },
  {
   "id": "acc1d60a34841477",
@@ -17817,7 +17822,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16813154-10-oz-dior-sauvage-fragrance-refill-eau-de-toilette-117-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:36:13Z"
  },
  {
   "id": "e2b00d8598cad55a",
@@ -17833,7 +17839,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:36:14Z"
  },
  {
   "id": "f9e0c4854f9817c0",
@@ -17849,7 +17856,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16241629-40-off-tom-ford-men-s-suede-leather-sartorial-blazer-5814?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:36:15Z"
  },
  {
   "id": "086873fa9721c914",
@@ -17865,7 +17873,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16163620-wilton-bath-towel-in-the-color-vintage-sky-for-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:36:16Z"
  },
  {
   "id": "a1eb753ad86d4d62",
@@ -17881,7 +17890,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15940465-lancome-idole-perfume-mother-s-day-gift-set-175-value-108-clearance-price?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:36:18Z"
  },
  {
   "id": "0a0368c9fa9dec63",
@@ -17895,7 +17905,8 @@
   "pct": null,
   "price": 237.03,
   "found_at": "2026-11-01T08:01:47Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:36:19Z"
  },
  {
   "id": "55b8c2e17153059c",
@@ -17911,7 +17922,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://camelcamelcamel.com/product/B0DBX7Q921",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:36:19Z"
  },
  {
   "id": "93707d570ebc0e4c",
@@ -17927,7 +17939,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20236095-crash-bandicoot-4-it-s-about-time-physical-playstation-4-19-93-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:36:20Z"
  },
  {
   "id": "a543a8ff91ce401c",
@@ -17943,7 +17956,8 @@
   "found_at": "2026-11-01T08:01:47Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20236095-crash-bandicoot-4-it-s-about-time-physical-playstation-4-19-93-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:36:21Z"
  },
  {
   "id": "ad8526df61fe5da6",
@@ -17957,7 +17971,8 @@
   "pct": null,
   "price": 237.03,
   "found_at": "2026-11-01T08:01:47Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:36:22Z"
  },
  {
   "id": "6d877acfd2a5cf20",
@@ -17971,7 +17986,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T08:07:26Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:36:23Z"
  },
  {
   "id": "af03eed17e5dd31b",
@@ -17987,7 +18003,8 @@
   "found_at": "2026-11-01T08:07:26Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20239143-dji-power-1000-v2-portable-power-station-1024wh-lfp-battery-2600w-stable-output-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:36:24Z"
  },
  {
   "id": "6dfc8b2b1c522f2a",
@@ -18001,7 +18018,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T08:07:26Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:36:25Z"
  },
  {
   "id": "027fa52a8fbf2a0d",
@@ -18017,7 +18035,8 @@
   "found_at": "2026-11-01T08:07:26Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20236095-crash-bandicoot-4-it-s-about-time-physical-playstation-4-19-93-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:41:46Z"
  },
  {
   "id": "836f71f8283f832e",
@@ -18033,7 +18052,8 @@
   "found_at": "2026-11-01T08:07:26Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20125623-dyson-supersonic-nural-hair-dryer-refurbished-183-99-at-dysonofficial-via-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Ebay"
+  "store": "Ebay",
+  "checked_at": "2026-11-01T09:41:48Z"
  },
  {
   "id": "b93ae0601543322a",
@@ -18049,7 +18069,8 @@
   "found_at": "2026-11-01T08:07:26Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20101893-dyson-supersonic-travel-hair-dryer-240-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:41:49Z"
  },
  {
   "id": "7e0e97360775a6ab",
@@ -18065,7 +18086,8 @@
   "found_at": "2026-11-01T08:07:26Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20079705-dyson-supersonic-nural-hair-dryer-with-chitosan-post-style-serum-329-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco"
+  "store": "Costco",
+  "checked_at": "2026-11-01T09:41:50Z"
  },
  {
   "id": "bba47c7acea558c8",
@@ -18081,7 +18103,8 @@
   "found_at": "2026-11-01T08:13:03Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235930-select-accounts-apple-airpods-4-w-usb-c-charging-case-filler-item-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:41:51Z"
  },
  {
   "id": "a94d4c1165479474",
@@ -18097,7 +18120,8 @@
   "found_at": "2026-11-01T08:13:03Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20218746-google-pixel-10-pro-xl-256gb-unlocked-obsidian-open-box-excellent-695-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:41:52Z"
  },
  {
   "id": "5b620a0bb9988408",
@@ -18113,7 +18137,8 @@
   "found_at": "2026-11-01T08:13:03Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20239143-dji-power-1000-v2-portable-power-station-1024wh-lfp-battery-2600w-stable-output-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:41:54Z"
  },
  {
   "id": "c6b2829737b377c0",
@@ -18129,7 +18154,8 @@
   "found_at": "2026-11-01T08:18:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20180808-ralph-lauren-2-piece-polo-red-eau-de-parfum-extreme-gift-set?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:41:55Z"
  },
  {
   "id": "ed6e0a2920ef50f3",
@@ -18145,7 +18171,8 @@
   "found_at": "2026-11-01T08:18:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:41:56Z"
  },
  {
   "id": "eaf366d6a1da19c7",
@@ -18159,7 +18186,8 @@
   "pct": null,
   "price": 35.75,
   "found_at": "2026-11-01T08:18:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:41:58Z"
  },
  {
   "id": "2dfde85c8cb790fa",
@@ -18175,7 +18203,8 @@
   "found_at": "2026-11-01T08:18:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20083674-6-pack-polo-ralph-lauren-men-s-classic-fit-cotton-boxer-briefs-47-70-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Macys"
+  "store": "Macys",
+  "checked_at": "2026-11-01T09:41:59Z"
  },
  {
   "id": "d0d0d7d0edba501c",
@@ -18191,7 +18220,8 @@
   "found_at": "2026-11-01T08:18:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20061591-6-pack-polo-ralph-lauren-men-s-classic-fit-cotton-boxer-briefs-50-08-8-34-each-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Macys"
+  "store": "Macys",
+  "checked_at": "2026-11-01T09:42:00Z"
  },
  {
   "id": "05c2d6e1560cf9d7",
@@ -18207,7 +18237,8 @@
   "found_at": "2026-11-01T08:18:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:42:01Z"
  },
  {
   "id": "33441fa64da2b591",
@@ -18223,7 +18254,8 @@
   "found_at": "2026-11-01T08:18:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19954443-tanger-polo-ralph-lauren-sweepstakes-9-8-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:42:04Z"
  },
  {
   "id": "14b2ce91e5885eee",
@@ -18239,7 +18271,8 @@
   "found_at": "2026-11-01T08:18:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19951128-polo-ralph-lauren-striped-polo-40-93-fs-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Macys"
+  "store": "Macys",
+  "checked_at": "2026-11-01T09:42:05Z"
  },
  {
   "id": "b1ebdf55eed88ae0",
