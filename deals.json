@@ -20956,7 +20956,8 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18763813-amex-offer-allen-edmonds-earn-50-when-you-spend-250-expires-12-24-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:21Z"
  },
  {
   "id": "b4c796eab29c5d2b",
@@ -20972,7 +20973,8 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18306346-allen-edmonds-verona-ii-italian-bit-loafer-walnut-brown-leather-200-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:23Z"
  },
  {
   "id": "1e189b0602f71f33",
@@ -20988,7 +20990,8 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18057483-allen-edmonds-miles-boat-shoe-69-97-clearance-final-sale-two-colors-most-sizes-available?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:24Z"
  },
  {
   "id": "e6017c660e6dc146",
@@ -21004,7 +21007,8 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17931810-allen-edmonds-up-to-50-off-black-friday-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:26Z"
  },
  {
   "id": "5fc866ebb30636d6",
@@ -21020,7 +21024,8 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:27Z"
  },
  {
   "id": "770ed84fcf49fe2f",
@@ -21036,7 +21041,8 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:29Z"
  },
  {
   "id": "dde59d55c8a2dbd4",
@@ -21052,7 +21058,8 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17339421-allen-edmonds-men-s-shoes-round-toe-oxford-119-99-hendrix-leather-brogue-oxfords-149-99-eli-leather-penny-loafers-149-99-more-free-shipping-on-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:30Z"
  },
  {
   "id": "aac2cef4d3df7ada",
@@ -21068,7 +21075,8 @@
   "found_at": "2026-11-01T10:40:17Z",
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/eBay-Fall-Fashion-Promo-Code-Extra-15-off-free-shipping/22332880.html?iref=rss",
-  "store": "Ebay"
+  "store": "Ebay",
+  "checked_at": "2026-11-01T10:51:30Z"
  },
  {
   "id": "48e3262c079d3256",
@@ -21084,7 +21092,8 @@
   "found_at": "2026-11-01T10:40:17Z",
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/Refurb-Apple-Outlet-at-Best-Buy-Up-to-81-off-free-shipping/22304514.html?iref=rss",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-01T10:51:30Z"
  },
  {
   "id": "e835358c6c8a8ceb",
@@ -21100,7 +21109,8 @@
   "found_at": "2026-11-01T10:40:17Z",
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Classic-Fit-Cotton-Polo-Shirt-for-40-free-shipping/22302542.html?iref=rss",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:51:31Z"
  },
  {
   "id": "666935a40fe2185b",
@@ -21116,6 +21126,7 @@
   "found_at": "2026-11-01T10:40:17Z",
   "link_tried3": true,
   "source_url": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
-  "route_fixed": true
+  "route_fixed": true,
+  "checked_at": "2026-11-01T10:51:31Z"
  }
 ]
