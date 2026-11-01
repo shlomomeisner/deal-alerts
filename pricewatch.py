@@ -90,6 +90,11 @@ def apply_requests(watches, reqs):
     for r in reqs:
         if not isinstance(r, dict):
             continue
+        if r.get("action") == "search":
+            q = re.sub(r"\s+", " ", str(r.get("q", ""))).strip()[:60]
+            if len(words(q)) and not any(x["q"].lower() == q.lower() for x in SEARCHES):
+                SEARCHES.append({"q": q, "at": now_iso(), "done": 0})
+            continue
         wid = str(r.get("id", ""))[:40]
         if not re.match(r"^[A-Za-z0-9_-]{4,40}$", wid):
             continue
@@ -120,6 +125,59 @@ def apply_requests(watches, reqs):
         print(f"new price alert: {q!r} under ${mx}")
 
 
+SEARCHES = []
+
+
+def run_searches(state):
+    """Search requests typed on the page: pull matching deal posts into deals.json (free)."""
+    from watcher import load as wload, first_price, guess_category, max_percent_off
+    cfg = wload(os.path.join(ROOT, "config.json"), {})
+    junk = [j.lower() for j in cfg.get("junk_words", [])]
+    keep = [x for x in state.get("searches", []) + SEARCHES
+            if x["at"] >= time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(time.time() - 7 * 86400))]
+    uniq = {}
+    for x in keep:
+        uniq.setdefault(x["q"].lower(), x)
+    state["searches"] = list(uniq.values())[-60:]
+    todo = sorted(state["searches"], key=lambda x: x.get("last", ""))[:8]
+    if not todo:
+        return 0
+    deals = wload(DEALS, [])
+    have = {d["id"] for d in deals}
+    added = 0
+    for x in todo:
+        q = urllib.parse.quote_plus(" ".join(words(x["q"])))
+        items = []
+        for url in (f"https://slickdeals.net/newsearch.php?q={q}&searcharea=deals&searchin=first&rss=1",
+                    f"https://news.google.com/rss/search?q={q}+deal+OR+sale+when:14d&hl=en-US&gl=US&ceid=US%3Aen"):
+            try:
+                items += parse_feed(fetch(url))
+            except Exception as e:
+                print("WARN search feed", e)
+        for it in items[:25]:
+            t = it["title"]
+            if not matches(t, x["q"]) or not re.search(r"\$\s?\d|\d+%\s*off", t, re.I):
+                continue
+            if any(re.search(r"(?<![a-z0-9])" + re.escape(j) + r"(?![a-z0-9])", t.lower()) for j in junk):
+                continue
+            did = hashlib.sha1(("search|" + it["id"]).encode()).hexdigest()[:16]
+            if did in have:
+                continue
+            have.add(did)
+            full = f"{t} {it['text']}"
+            deals.append({"id": did, "title": t, "url": it["link"], "why": f"Found for your search “{x['q']}”",
+                          "category": guess_category(full, {"category": "everything"}, cfg),
+                          "source": "Search: " + x["q"], "urgent": False, "hot": False,
+                          "pct": max_percent_off(full) or None, "price": first_price(t), "found_at": now_iso()})
+            added += 1
+        x["last"] = now_iso()
+    if added:
+        with open(DEALS, "w", encoding="utf-8") as f:
+            json.dump(deals[-2000:], f, indent=1, ensure_ascii=False)
+    print(f"searches: {len(todo)} run, {added} deals added")
+    return added
+
+
 def candidates(w, collected):
     """Deal posts for this watch: Slickdeals search feed + everything already collected."""
     items = []
@@ -141,6 +199,7 @@ def main():
         state = {"since": "", "watches": state}
     watches = state["watches"]
     apply_requests(watches, pull_requests(state))
+    run_searches(state)
 
     collected = load(DEALS, []) + load(HUNTED, [])
     watches.sort(key=lambda w: w.get("checked", ""))

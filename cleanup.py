@@ -27,7 +27,8 @@ LINK_FIXES_PER_SCAN = 150
 RECHECKS_PER_SCAN = 15
 DEADLINE = time.time() + 200  # keep each scan short
 
-POST_HOSTS = ("slickdeals.net", "dealnews.com", "9to5toys.com", "9to5mac.com", "macrumors.com",
+POST_HOSTS = ("spaceexplored.com", "electrek.co", "dronedj.com", "appleinsider.com", "9to5google.com", "engadget.com", "theverge.com", "tomsguide.com", "bgr.com",
+              "thepointsguy.com", "onemileatatime.com", "viewfromthewing.com", "traveloffpath.com", "slickdeals.net", "dealnews.com", "9to5toys.com", "9to5mac.com", "macrumors.com",
               "dealsplus.com", "bradsdeals.com", "techbargains.com", "reddit.com", "news.google.com",
               "fly4free.com", "theflightdeal.com", "secretflying.com", "camelcamelcamel.com")
 REDIRECT_HOSTS = POST_HOSTS + ("go.redirectingat.com", "redirect.viglink.com", "click.linksynergy.com",
@@ -147,7 +148,7 @@ DOUBT = re.compile(r"(woot\.com/search|jomashop\.com/search|ulta\.com/search|sta
 
 BAD_HOST = re.compile(r"(^|\.)(twitter|x|facebook|youtube|instagram|google|apple\.news|wp|wordpress|gravatar|"
                       r"videoplayerhub|jwplayer|vimeo|tiktok|pinterest|reddit|threads|bsky|disqus|feedburner|"
-                      r"gstatic|cloudfront|doubleclick|typekit|fonts|9to5mac|9to5google|9to5toys|electrek|dronedj|space\.com)"
+                      r"gstatic|cloudfront|doubleclick|typekit|fonts|9to5mac|9to5google|9to5toys|electrek|dronedj|spaceexplored|space\.com)"
                       r"(\.|$)|videoplayer|cdn\.|static\.|img\.|\.(jpg|png|gif|webp)$", re.I)
 
 
@@ -235,7 +236,7 @@ def store_search(d, store_hint=""):
 
 
 
-ROUTE = re.compile(r"(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\s*\([A-Z]{3}\))?\s*(?:to|-|\u2013|\u2014|\u2192|>)\s*"
+ROUTE = re.compile(r"(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\s*\([A-Z]{3}\))?\s*(?:to|-|\u2013|\u2014|\u2192|\u2194|>)\s*"
                    r"([A-Za-z\u00c0-\u017f .,'&()/-]{2,60}?)(?=\s+(?:for|from|in|on|only|starting|\$)|\s*[.$:|!]|\s+[\u2013-]\s|$)", re.I)
 
 
@@ -273,8 +274,10 @@ def flight_dates(post_url):
         if yr and mo2 < mo1:
             y1 -= 1
             y2 = int(yr)
-        out["depart"] = f"{y1:04d}-{mo1:02d}-{int(d1):02d}"
-        out["return"] = f"{y2:04d}-{mo2:02d}-{int(d2):02d}"
+        dep = f"{y1:04d}-{mo1:02d}-{int(d1):02d}"
+        if dep >= time.strftime("%Y-%m-%d", time.gmtime()):   # never a date in the past
+            out["depart"] = dep
+            out["return"] = f"{y2:04d}-{mo2:02d}-{int(d2):02d}"
     return out
 
 
@@ -379,6 +382,10 @@ def main():
     everything = [d for deals in lists.values() for d in deals]
 
     # 1. store links for new deals (newest first)
+    for d in everything:   # camelcamelcamel price pages -> the Amazon product itself
+        m = re.search(r"camelcamelcamel\.com/(?:[^/]+/)?product/([A-Z0-9]{10})", d.get("url", ""), re.I)
+        if m:
+            d["source_url"], d["url"], changed = d["url"], "https://www.amazon.com/dp/" + m.group(1).upper(), True
     for d in everything:   # links saved by an older version that point at a video player, font, bad search page...
         if d.get("source_url") and (BAD_HOST.search(host(d.get("url", ""))) or DOUBT.search(d.get("url", ""))):
             d["url"], changed = d["source_url"], True

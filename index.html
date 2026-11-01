@@ -86,7 +86,7 @@ button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer}
 .watchrow{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .wnew{display:flex;align-items:center;gap:8px;flex-wrap:wrap;background:var(--accent-soft);border-radius:14px;padding:10px 12px;font-size:14px}
 .wnew b{font-weight:700}
-.wnew input{width:86px;font:600 15px var(--mono);border:1px solid var(--line);border-radius:10px;padding:7px 8px;background:var(--surface);color:var(--ink)}
+.wnew input{width:90px;font:600 16px var(--mono);border:1px solid var(--line);border-radius:10px;padding:7px 8px;background:var(--surface);color:var(--ink)}
 .wnew button,.wchip{font:700 13px var(--body);border-radius:999px;padding:8px 13px;cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
 .wnew button{background:var(--accent);border-color:var(--accent);color:#fff}
 .wchip{display:inline-flex;align-items:center;gap:6px}
@@ -98,6 +98,7 @@ button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer}
 .shops a{font:700 14px var(--body);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:9px 14px;background:var(--surface);color:var(--ink)}
 .fdates{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px;color:var(--muted);margin-top:-2px}
 .fdates b{color:var(--ink);font-weight:700}
+.more{display:block;width:100%;margin-top:6px;font:700 15px var(--body);padding:15px;border-radius:14px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
 .deal{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px;position:relative;min-width:0;transition:transform .15s,box-shadow .15s}
 @media (hover:hover){.deal:hover{transform:translateY(-2px);box-shadow:0 10px 26px -14px color-mix(in srgb,var(--ink) 35%,transparent)}}
 .deal.urgent{border-color:color-mix(in srgb,var(--urgent) 55%,var(--line))}
@@ -306,7 +307,7 @@ function spotlight(){
   s.querySelector(".sub").textContent=[best.store,best.why].filter(Boolean).join(" · ");
   s.querySelector(".go").append(keepBtn(best));
 }
-let query="",watches=[];
+let query="",watches=[],limit=100,lastKey="";
 try{watches=JSON.parse(localStorage.getItem("sw.watches")||"[]")}catch(e){}
 const saveWatches=()=>{try{localStorage.setItem("sw.watches",JSON.stringify(watches))}catch(e){}};
 const words=q=>String(q).toLowerCase().split(/[^a-z0-9]+/).filter(w=>w.length>1&&!["the","and","for","with","new"].includes(w));
@@ -315,13 +316,22 @@ const hits=(d,q)=>{const w=words(q);return w.length>0&&w.every(x=>hay(d).include
 const priceNum=d=>typeof d.price==="number"?d.price:parseFloat(d.price);
 const watchHit=(d,w)=>hits(d,w.q)&&(!w.max||(priceNum(d)>0&&priceNum(d)<=w.max));
 const myWatch=d=>watches.find(w=>watchHit(d,w));
+const WANTS="steal-watch-wants-c7e2a80833";
+let asked={};try{asked=JSON.parse(localStorage.getItem("sw.asked")||"{}")}catch(e){}
+let askTimer=null;
+function askWeb(q,found){  // ask the scanner to search Slickdeals & Google for this item (free, no login)
+  const k=q.toLowerCase();if(k.length<3||found>=8||(asked[k]&&Date.now()-asked[k]<6*36e5))return;
+  clearTimeout(askTimer);askTimer=setTimeout(()=>{
+    fetch("https://ntfy.sh/"+WANTS,{method:"POST",body:JSON.stringify({action:"search",q})}).then(r=>{if(r.ok){asked[k]=Date.now();try{localStorage.setItem("sw.asked",JSON.stringify(asked))}catch(e){}}}).catch(()=>{});
+  },1500);
+}
 function watchbar(){
   const box=$("watchbar"),v=live(),parts=[];
   if(query.trim()&&!watches.some(w=>w.q.toLowerCase()===query.trim().toLowerCase())){
     const el=document.createElement("div");el.className="wnew";
     el.innerHTML=`<span>🎯 Watch for <b></b> up to</span><input id="wmax" type="number" inputmode="decimal" placeholder="$ any"><button type="button" id="wadd">Watch it</button>`;
     el.querySelector("b").textContent="“"+query.trim()+"”";
-    el.querySelector("#wadd").onclick=()=>{const mx=parseFloat(el.querySelector("#wmax").value);watches.push({q:query.trim(),max:mx>0?mx:null,seen:v.filter(d=>watchHit(d,{q:query.trim(),max:mx>0?mx:null})).map(d=>d.id)});saveWatches();render()};
+    el.querySelector("#wadd").onclick=()=>{const mx=parseFloat(el.querySelector("#wmax").value);askWeb(query.trim(),0);watches.push({q:query.trim(),max:mx>0?mx:null,seen:v.filter(d=>watchHit(d,{q:query.trim(),max:mx>0?mx:null})).map(d=>d.id)});saveWatches();render()};
     parts.push(el);
   }
   for(const w of watches){
@@ -338,6 +348,7 @@ function watchbar(){
 $("q").addEventListener("input",e=>{query=e.target.value;$("qclr").hidden=!query;render()});
 $("qclr").onclick=()=>{$("q").value=query="";$("qclr").hidden=true;render()};
 function render(){
+  const key=cat+"|"+query;if(key!==lastKey){limit=100;lastKey=key}
   const v=live();
   watchbar();
   $("sToday").textContent=v.filter(recent).length;
@@ -345,11 +356,12 @@ function render(){
   $("sKept").textContent=Object.keys(mine.kept).length;
   rail();spotlight();
   let rows=cat==="kept"?keptList():cat==="all"?v:v.filter(d=>inCat(d,cat));
-  if(query.trim())rows=rows.filter(d=>hits(d,query));
+  if(query.trim())rows=(cat==="kept"?keptList():v).filter(d=>hits(d,query));
+  if(query.trim())askWeb(query.trim(),rows.length);
   $("spot").hidden=!!query.trim()||$("spot").hidden;
   if(!rows.length&&query.trim()){
     const q=encodeURIComponent(query.trim()),e=document.createElement("div");e.className="empty";
-    e.innerHTML=`<h2>No deals on <span></span> yet</h2><p>Tap “Watch it” above and it'll be flagged 🎯 the moment one shows up. Or check prices now:</p><div class="shops"><a target="_blank" rel="noopener" href="https://www.google.com/search?tbm=shop&q=${q}">Google Shopping</a><a target="_blank" rel="noopener" href="https://www.amazon.com/s?k=${q}">Amazon</a><a target="_blank" rel="noopener" href="https://www.walmart.com/search?q=${q}">Walmart</a><a target="_blank" rel="noopener" href="https://www.bestbuy.com/site/searchpage.jsp?st=${q}">Best Buy</a></div>`;
+    e.innerHTML=`<h2>No deals on <span></span> yet</h2><p>🔎 Searching deal sites for it now — new finds land here within about 10 minutes. Tap “Watch it” to get them flagged 🎯. Or check prices now:</p><div class="shops"><a target="_blank" rel="noopener" href="https://www.google.com/search?tbm=shop&q=${q}">Google Shopping</a><a target="_blank" rel="noopener" href="https://www.amazon.com/s?k=${q}">Amazon</a><a target="_blank" rel="noopener" href="https://www.walmart.com/search?q=${q}">Walmart</a><a target="_blank" rel="noopener" href="https://www.bestbuy.com/site/searchpage.jsp?st=${q}">Best Buy</a></div>`;
     e.querySelector("h2 span").textContent="“"+query.trim()+"”";
     $("list").replaceChildren(e);return;
   }
@@ -366,7 +378,10 @@ function render(){
       <li><span class="cat">${svg("flights")}</span>Error fares and cheap flights from JFK, EWR, LGA</li></ul>`;
     $("list").replaceChildren(e);return;
   }
-  $("list").replaceChildren(...rows.map(card));
+  const shown=rows.slice(0,limit);
+  const nodes=shown.map(card);
+  if(rows.length>shown.length){const m=document.createElement("button");m.type="button";m.className="more";m.textContent=`Show more deals (${rows.length-shown.length} left)`;m.onclick=()=>{limit+=100;render()};nodes.push(m)}
+  $("list").replaceChildren(...nodes);
 }
 function status(){
   $("statusText").textContent=lastRun?`Updated ${ago(lastRun)}`:"Waiting for first scan";
@@ -376,28 +391,48 @@ $("keptStat").onclick=()=>{cat="kept";saveLocal();render();$("rail").scrollIntoV
 render();status();setInterval(()=>{status();render()},60000);
 
 const RAW="https://raw.githubusercontent.com/shlomomeisner/deal-alerts/main/";
-const POSTS=/(slickdeals\.net|dealnews\.com|theflightdeal\.com|secretflying\.com|fly4free\.com|thriftytraveler\.com|9to5toys\.com|reddit\.com|news\.google\.com)/i;
+const POSTS=/(spaceexplored\.com|electrek\.co|dronedj\.com|appleinsider\.com|9to5mac\.com|9to5google\.com|macrumors\.com|engadget\.com|theverge\.com|tomsguide\.com|bgr\.com|dealsplus\.com|bradsdeals\.com|techbargains\.com|thepointsguy\.com|onemileatatime\.com|viewfromthewing\.com|traveloffpath\.com|slickdeals\.net|dealnews\.com|theflightdeal\.com|secretflying\.com|fly4free\.com|thriftytraveler\.com|9to5toys\.com|reddit\.com|news\.google\.com)/i;
 const GAME=/\((?:[^)]*\b)?(ps5|ps4|playstation [45]|switch 2|nintendo switch|xbox[^)]*|pc)\b[^)]*\)/i,HW=/\b(console|controller|dualsense|headset|bundle|portal|slim|pro|system|oled|joy-?con|digital edition|disc edition)\b/i,PLATED=/\b(gold|silver)[- ]plated\b/i;
 const PLAT=/\b(nintendo switch|switch 2|ps5|ps4|playstation [45]|xbox( series [xs]| one)?)\b|\[digital\]|pre-purchase/i;
 const isJunk=t=>JUNK.test(t)||((GAME.test(t)||PLAT.test(t))&&!HW.test(t))||PLATED.test(t);
 const JUNK=/\b(free sample|samples?\b|giveaway|sweepstakes|digital download|video game|old navy|devil wears prada|nintendo switch\)|ps5 game|game key|kids'|toddler)\b/i;
 const TROP=/\b(st\.? ?maarten|sint maarten|st\.? ?martin|saint martin|sxm|turks|caicos|providenciales|aruba|cura[cç]ao|bonaire|barbados|jamaica|montego bay|nassau|bahamas|exuma|punta cana|santo domingo|dominican republic|puerto rico|san juan|st\.? ?thomas|st\.? ?croix|virgin islands|antigua|st\.? ?lucia|saint lucia|grenada|trinidad|tobago|cayman|anguilla|st\.? ?kitts|nevis|st\.? ?barts|st\.? ?barth|martinique|guadeloupe|dominica|bermuda|caribbean|canc[uú]n|tulum|cozumel|cabo|puerto vallarta|costa rica|liberia|belize|roatan|panama|cartagena|hawaii|honolulu|maui|kona|kauai|key west|miami|fort lauderdale|bali|phuket|maldives|fiji|tahiti|bora bora|seychelles|mauritius|zanzibar|thailand)\b/i;
-const ROUTE=/(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\s*\([A-Z]{3}\))?\s*(?:to|-|\u2013|\u2014|\u2192|>)\s*([A-Za-z\u00c0-\u017f .,'&()\/-]{2,60}?)(?=\s+(?:for|from|in|on|only|starting|\$)|\s*[.$:|!]|\s+[\u2013-]\s|$)/i;
+const ROUTE=/(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\s*\([A-Z]{3}\))?\s*(?:to|-|\u2013|\u2014|\u2192|\u2194|<->|>)\s*([A-Za-z\u00c0-\u017f .,'&()\/-]{2,60}?)(?=\s+(?:for|from|in|on|only|starting|\$)|\s*[.$:|!]|\s+[\u2013-]\s|$)/i;
+const STOPW=/\s+(very|few|limited|round[- ]?trip|r\/?t|nonstop|non-stop|airfares?|fares?|flights?|on|with|w\/|in|for|from|starting|only|deal|sale|basic|economy|business|first|premium|\d.*)\b.*$/i;
 function routeOf(title){
-  const m=ROUTE.exec(String(title||"").replace(/\b(St|Ste|Mt|Ft|Pt)\./g,"$1"));
-  if(!m)return null;
-  const from={jfk:"JFK",ewr:"EWR",lga:"LGA",newark:"EWR"}[m[1].toLowerCase()]||"NYC";
-  const to=m[2].replace(/\([^)]*\)/g,"").replace(/\b(St|Ste|Mt|Ft|Pt)\b(?!\.)/g,"$1.").trim().replace(/[ ,.-]+$/,"");
-  return to?{from,to}:null;
+  const t=String(title||"").replace(/\b(St|Ste|Mt|Ft|Pt)\./g,"$1");
+  let from=null,to=null;
+  const m=ROUTE.exec(t);
+  if(m){from=m[1];to=m[2]}
+  else{const k=/\b(new york|nyc|jfk|ewr|lga|newark)\b[^\u2013\u2014]*?\s[\u2013\u2014]\s([^.$|(]+)/i.exec(t);if(k){from=k[1];to=k[2]}}
+  if(!to)return null;
+  to=to.replace(/\([^)]*\)/g,"").replace(STOPW,"").replace(/\b(St|Ste|Mt|Ft|Pt)\b(?!\.)/g,"$1.").replace(/\s*\/\s*/g," / ").trim().replace(/[ ,.\/-]+$/,"");
+  if(!to||to.length<3)return null;
+  to=to.replace(/^([A-Z][a-z]+(?: [A-Z][a-z]+)*) (Japan|France|Italy|Spain|Mexico|Brazil|Greece|Portugal|Germany|Ireland|Iceland|Thailand|Colombia|Peru|Chile|Argentina|Morocco|Turkey|Egypt|India|China|Korea|Vietnam|Australia)$/,"$1, $2");
+  return {from:{jfk:"JFK",ewr:"EWR",lga:"LGA",newark:"EWR"}[from.toLowerCase()]||"NYC",to};
 }
+function flightURL(d){
+  const r=d.route;if(!r)return "https://www.google.com/search?q="+encodeURIComponent(String(d.title||"").replace(/\$.*$/,"")+" flights");
+  let q=`flights from ${r.from==="NYC"?"New York":r.from} to ${r.to.split(" / ")[0]}`;
+  if(d.depart)q+=` ${fmtDay(d.depart)} to ${fmtDay(d.return||d.depart)}`;
+  return "https://www.google.com/search?q="+encodeURIComponent(q);
+}
+const fmtDay=x=>{const [y,m,dd]=x.split("-").map(Number);return new Date(Date.UTC(y,m-1,dd)).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric",timeZone:"UTC"})};
+const cleanWindow=w=>{if(!w)return "";w=String(w).split(/\s+(?:for|on|with|and must|must|when)\s+/i)[0].replace(/\b20\d\d-\d\d-\d\d\b/g,"").replace(/\)[^(]*$/,"").replace(/[()]/g,"").replace(/\s*[-\u2013]\s*$/,"").replace(/\s+/g," ").trim();return w.length>4?w:""};
 function fixDeal(d){
   if(!d||!d.url)return d;
-  if(d.category==="flights"){d={...d,route:routeOf(d.title),tropical:TROP.test(d.title||"")}}
-  if(d.category==="flights"&&POSTS.test(d.url)){            // open the ticket search, not the blog
-    const t=String(d.title||"").replace(/\$\s?[\d,]+.*$/,"").replace(/\b(round[- ]?trip|nonstop|only)\b/gi,"").trim();
-    d={...d,source_url:d.source_url||d.url,url:"https://www.google.com/travel/flights?q="+encodeURIComponent("Flights "+t)};
+  if(d.category==="flights"&&!/\b(flights?|fares?|airfares?|airlines?|airways|air|round[- ]?trip|one[- ]?way|nonstop|business class|first class|economy)\b/i.test(d.title||""))d={...d,category:"tech"};  // e.g. a DJI drone "flight"
+  if(d.category==="flights"&&!/\$\s?\d/.test(d.title||""))return null;   // travel news, not a fare
+  if(d.category==="flights"){
+    if(d.depart&&new Date(d.depart+"T12:00:00Z")<new Date())d={...d,depart:null,return:null};
+    d={...d,route:routeOf(d.title),tropical:TROP.test((d.title||"").replace(/hawaiian airlines?/ig,"")),window:cleanWindow(d.window)};
+    const post=POSTS.test(d.url)?d.url:d.source_url;
+    d={...d,source_url:post||d.source_url,url:flightURL(d)};   // Google flight search for that route + dates
+    return d;
   }
-  else if(POSTS.test(d.url)||DOUBT.test(d.url)){d={...d,source_url:d.source_url||d.url,url:storeSearch(d)}}  // never open a deal blog
+  const camel=/camelcamelcamel\.com\/(?:[^/]+\/)?product\/([A-Z0-9]{10})/i.exec(d.url);
+  if(camel)return {...d,source_url:d.url,url:"https://www.amazon.com/dp/"+camel[1].toUpperCase()};
+  if(POSTS.test(d.url)||DOUBT.test(d.url)){d={...d,source_url:d.source_url||d.url,url:storeSearch(d)}}  // never open a deal blog
   return d;
 }
 const DOUBT=/(woot\.com\/search|jomashop\.com\/search|ulta\.com\/search|staples\.com\/|fragrancenet\.com\/search|saksfifthavenue\.com\/search|typekit|fonts\.|videoplayer|\.(css|js|png|jpe?g|gif|webp)(\?|$))/i;
@@ -414,9 +449,10 @@ async function load(){
   const [w,h,st]=await Promise.all([getJSON("deals.json"),getJSON("hunted.json"),getJSON("status.json")]);
   const now=Date.now(),byId=new Map();
   for(const d0 of (Array.isArray(h)?h:[])){const d=fixDeal(d0);if(d&&d.id&&!isJunk(d.title||""))byId.set(d.id,d)}                    // hand-checked by the hourly hunter
-  for(const d0 of (Array.isArray(w)?w:[])){const d=fixDeal(d0);if(d&&d.id&&!byId.has(d.id)&&!isJunk(d.title||""))byId.set(d.id,d)} // 5-minute scan; stays until the hunter confirms it is gone
+  for(const d0 of (Array.isArray(w)?w:[])){const d=fixDeal(d0);if(d&&d.id&&!byId.has(d.id)&&!isJunk(d.title||""))byId.set(d.id,d)}
+  {const seenT=new Set();for(const [k,d] of [...byId].sort((a,b)=>String(b[1].found_at).localeCompare(String(a[1].found_at)))){const t=String(d.title||"").toLowerCase().replace(/[\u2013\u2014-]\s*the flight deal.*$/,"").replace(/[^a-z0-9$]+/g," ").trim().slice(0,90);if(seenT.has(t))byId.delete(k);else seenT.add(t)}} // 5-minute scan; stays until the hunter confirms it is gone
   if(!w&&!h){$("statusText").textContent="Couldn't load deals — pull to refresh";return}
-  deals=[...byId.values()].sort((a,b)=>String(b.found_at).localeCompare(String(a.found_at))).slice(0,500);
+  deals=[...byId.values()].sort((a,b)=>String(b.found_at).localeCompare(String(a.found_at))).slice(0,2000);
   dealsLoaded=true;
   lastRun=[st&&st.last_run,...deals.map(d=>d.checked_at||d.found_at)].filter(Boolean).sort().pop()||null;
   render();status();
