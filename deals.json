@@ -17124,7 +17124,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20149407-1-6-oz-hugo-boss-bottled-absolu-parfum-intense-59-97-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Nordstromrack"
+  "store": "Nordstromrack",
+  "checked_at": "2026-11-01T09:19:49Z"
  },
  {
   "id": "b4634cd1ca5cb581",
@@ -17140,7 +17141,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20140914-fragrances-49-99-or-less-mont-blanc-ck-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T09:19:51Z"
  },
  {
   "id": "7efc0ca8fd083c5d",
@@ -17156,7 +17158,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20108241-hugo-boss-bottled-eau-de-toilette-woody-men-s-cologne-with-notes-of-apple-cinnamon-wood-for-122-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:19:52Z"
  },
  {
   "id": "93c53d58c7bf10af",
@@ -17172,7 +17175,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20091009-hugo-by-hugo-boss-men-s-modern-fit-wool-blend-2-piece-suit-249-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:19:53Z"
  },
  {
   "id": "b8f5f7877acb0b0d",
@@ -17188,7 +17192,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20015364-hugo-boss-sunglasses-various-styles-38-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:19:54Z"
  },
  {
   "id": "97c8a1810b78d56b",
@@ -17204,7 +17209,8 @@
   "found_at": "2026-11-01T07:44:28Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19681608-hugo-boss-bottled-beyond-eau-de-parfum-3-3-oz-108-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "86f36723b04fc5c5",
@@ -17217,7 +17223,8 @@
   "hot": false,
   "pct": null,
   "price": 5.58,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "c986260c1627b2a5",
@@ -17230,7 +17237,8 @@
   "hot": false,
   "pct": null,
   "price": 999.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "024b0a23cfb0dd23",
@@ -17243,7 +17251,8 @@
   "hot": false,
   "pct": null,
   "price": 4.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "858ea0213f51e571",
@@ -17256,7 +17265,8 @@
   "hot": false,
   "pct": null,
   "price": 159.0,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "3a007e17a7789ae7",
@@ -17269,7 +17279,8 @@
   "hot": false,
   "pct": null,
   "price": 339.0,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "a234b59373a3867a",
@@ -17282,33 +17293,8 @@
   "hot": false,
   "pct": null,
   "price": 39.99,
-  "found_at": "2026-11-01T07:44:28Z"
- },
- {
-  "id": "56b88083c4b7550b",
-  "title": "Nubwo HG04L Wired Gaming Headset (PS5/PS4, Xbox Series X|S, PC) $11.99",
-  "url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 11.99,
-  "found_at": "2026-11-01T07:44:28Z"
- },
- {
-  "id": "cb16ca36775576a5",
-  "title": "Citizen 100M Water-Resistant Men's Luxury Eco-Drive Chronograph Watch $337.50",
-  "url": "https://www.amazon.com/gp/product/B0B916MQGN/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "watches",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 337.5,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:56Z"
  },
  {
   "id": "f132bf31b56e7ba1",
@@ -17321,7 +17307,8 @@
   "hot": false,
   "pct": null,
   "price": 79.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:19:59Z"
  },
  {
   "id": "75ba5689eb1f5e51",
@@ -20258,7 +20245,7 @@
  {
   "id": "b839b4c03390e61e",
   "title": "Jimmy Choo Urban Hero Gold EDP Spray 3.3 Oz (100 Ml) (M) $44.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Jimmy+Choo+Urban+Hero+Gold+EDP+Spray+3.3+Oz",
+  "url": "https://slickdeals.net/f/18652354-jimmy-choo-urban-hero-gold-edp-spray-3-3-oz-100-ml-m-44-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Jimmy Choo",
@@ -20296,5 +20283,19 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-01T09:14:07Z"
+ },
+ {
+  "id": "09a2eb32ff068d7f",
+  "title": "$19.99 | Turtle Beach Afterglow Wired RGB Gaming Controller, Nintendo Switch 2, Lite at Amazon",
+  "url": "https://slickdeals.net/f/20239308-19-99-turtle-beach-afterglow-wired-rgb-gaming-controller-nintendo-switch-2-lite-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch 2",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-01T09:19:47Z",
+  "link_tried3": true
  }
 ]
