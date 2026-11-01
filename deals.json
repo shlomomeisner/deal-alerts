@@ -17321,7 +17321,8 @@
   "hot": false,
   "pct": null,
   "price": 749.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:08Z"
  },
  {
   "id": "a6653d8925ee4459",
@@ -17334,7 +17335,8 @@
   "hot": false,
   "pct": null,
   "price": 199.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:08Z"
  },
  {
   "id": "b3f6cccb8fd75f7e",
@@ -17347,7 +17349,8 @@
   "hot": false,
   "pct": null,
   "price": 399.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:09Z"
  },
  {
   "id": "b1bdb2960764eab7",
@@ -17360,20 +17363,8 @@
   "hot": false,
   "pct": null,
   "price": 199.99,
-  "found_at": "2026-11-01T07:44:28Z"
- },
- {
-  "id": "e61701ee35e536da",
-  "title": "AOC Q27GAZD 27\" QD 2560x1440 OLED Gaming Monitor $329.99",
-  "url": "https://www.amazon.com/gp/product/B0GT2JP76J/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 329.99,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:09Z"
  },
  {
   "id": "876baebc3fcc9864",
@@ -17386,7 +17377,8 @@
   "hot": false,
   "pct": null,
   "price": 4.94,
-  "found_at": "2026-11-01T07:44:28Z"
+  "found_at": "2026-11-01T07:44:28Z",
+  "checked_at": "2026-11-01T09:25:10Z"
  },
  {
   "id": "81e69fea67679d2a",
@@ -17402,7 +17394,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20237253-citizen-cz-smart-pq2-44mm-sport-smartwatch-with-youq-app-with-ibm-watson-ai-and-nasa-research-wear-os-by-google-263-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:25:11Z"
  },
  {
   "id": "d592b6b639b314b3",
@@ -17416,7 +17409,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T07:49:55Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:25:12Z"
  },
  {
   "id": "233cade56756af59",
@@ -17432,7 +17426,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://camelcamelcamel.com/product/B0CBVXDX99",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:25:12Z"
  },
  {
   "id": "9b638ebea21b129d",
@@ -17448,7 +17443,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco"
+  "store": "Costco",
+  "checked_at": "2026-11-01T09:25:13Z"
  },
  {
   "id": "8b6338beb2d03ed1",
@@ -17462,7 +17458,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T07:49:55Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:25:14Z"
  },
  {
   "id": "36190fbed623a3e0",
@@ -17478,7 +17475,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235456-crkd-ult-pro-wireless-gaming-controller-for-switch-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:25:15Z"
  },
  {
   "id": "df97e1728cd17f10",
@@ -17494,7 +17492,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/e/3469268-vogue-s-london-getaway-sweepstakes-11-30-11?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:25:15Z"
  },
  {
   "id": "2c6085064f6b36dd",
@@ -17508,7 +17507,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T07:49:55Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:25:16Z"
  },
  {
   "id": "da01bdd363314355",
@@ -17524,7 +17524,8 @@
   "found_at": "2026-11-01T07:49:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238999-xenoblade-chronicles-2-expansion-pass-dlc-bundle-nintendo-switch-digital-38-19-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:25:17Z"
  },
  {
   "id": "54a20a5cc9491208",
