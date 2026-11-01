@@ -850,7 +850,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:27Z"
  },
  {
   "id": "4d5e94bfb12558c4",
@@ -863,7 +864,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:28Z"
  },
  {
   "id": "1fbb4a94c7751f10",
@@ -876,7 +878,8 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:30Z"
  },
  {
   "id": "41513b3ef3ed3d18",
@@ -889,7 +892,8 @@
   "hot": false,
   "pct": null,
   "price": 179.99,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:31Z"
  },
  {
   "id": "8aa733bd6641b404",
@@ -902,7 +906,8 @@
   "hot": false,
   "pct": null,
   "price": 279.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:33Z"
  },
  {
   "id": "6f13edb6c69b21cf",
@@ -915,7 +920,8 @@
   "hot": false,
   "pct": null,
   "price": 179.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:33Z"
  },
  {
   "id": "35cde0a3d8bdf63c",
@@ -928,7 +934,8 @@
   "hot": false,
   "pct": null,
   "price": 229.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:35Z"
  },
  {
   "id": "4e8266c9d7884c9a",
@@ -941,7 +948,8 @@
   "hot": false,
   "pct": null,
   "price": 649.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:36Z"
  },
  {
   "id": "d3d95fc9786eafe6",
@@ -954,7 +962,8 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:37Z"
  },
  {
   "id": "593875abcfb2efea",
@@ -967,7 +976,8 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:39Z"
  },
  {
   "id": "34a186c27f3fbcaa",
@@ -980,7 +990,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:40Z"
  },
  {
   "id": "782a0baab9990587",
@@ -993,7 +1004,8 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:42Z"
  },
  {
   "id": "ab4a99f4d7de4072",
@@ -1006,7 +1018,8 @@
   "hot": false,
   "pct": null,
   "price": 179.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:43Z"
  },
  {
   "id": "1ddfe80a3875501d",
@@ -1019,7 +1032,8 @@
   "hot": false,
   "pct": null,
   "price": 79.99,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:44Z"
  },
  {
   "id": "bfe8efb7cbbdb4ff",
@@ -1032,7 +1046,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:07:45Z"
  },
  {
   "id": "ab717996e2482186",
@@ -10106,7 +10121,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:20:27Z"
+  "found_at": "2026-11-01T00:20:27Z",
+  "link_tried": true
  },
  {
   "id": "236f39a87658743b",
@@ -10119,7 +10135,8 @@
   "hot": false,
   "pct": 20,
   "price": 50.0,
-  "found_at": "2026-11-01T00:20:27Z"
+  "found_at": "2026-11-01T00:20:27Z",
+  "link_tried": true
  },
  {
   "id": "1ed3b9a5a8af6c9f",
@@ -10132,7 +10149,8 @@
   "hot": true,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:20:27Z"
+  "found_at": "2026-11-01T00:20:27Z",
+  "link_tried": true
  },
  {
   "id": "43eb0d902f7dee56",
@@ -10145,7 +10163,8 @@
   "hot": false,
   "pct": 20,
   "price": 50.9,
-  "found_at": "2026-11-01T00:52:21Z"
+  "found_at": "2026-11-01T00:52:21Z",
+  "link_tried": true
  },
  {
   "id": "198daa64f80a15e0",
@@ -10158,7 +10177,8 @@
   "hot": false,
   "pct": null,
   "price": 35.0,
-  "found_at": "2026-11-01T00:57:43Z"
+  "found_at": "2026-11-01T00:57:43Z",
+  "link_tried": true
  },
  {
   "id": "724a88ee28fcd065",
@@ -10297,7 +10317,8 @@
   "hot": true,
   "pct": 45,
   "price": 4.94,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "e32abe3d5ea545b6",
@@ -10310,7 +10331,8 @@
   "hot": false,
   "pct": null,
   "price": 11.79,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "81edb2ccf7413335",
@@ -10323,7 +10345,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T01:03:01Z"
+  "found_at": "2026-11-01T01:03:01Z",
+  "link_tried": true
  },
  {
   "id": "389ba0ba5139b1b2",
@@ -10869,6 +10892,62 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-11-01T02:01:32Z",
+  "link_tried": true
+ },
+ {
+  "id": "c7488c267096402b",
+  "title": "Citizen Men's AN8194-51L 42mm Two-Tone Stainless Steel Quartz Chronograph Dress Watch (Blue Dial) $160.84 + Free Shipping",
+  "url": "https://slickdeals.net/f/20234673-citizen-men-s-an8194-51l-42mm-two-tone-stainless-steel-quartz-chronograph-dress-watch-blue-dial-160-84-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 160.84,
+  "found_at": "2026-11-01T02:07:15Z",
+  "link_tried": true
+ },
+ {
+  "id": "a460bb788635eea3",
+  "title": "[NEW] $87.50 | 3.4-Oz Salvatore Ferragamo Spicy Leather Parfum Pour Homme, Cologne Spray for Men at Amazon",
+  "url": "https://slickdeals.net/f/20162688-new-87-50-3-4-oz-salvatore-ferragamo-spicy-leather-parfum-pour-homme-cologne-spray-for-men-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 87.5,
+  "found_at": "2026-11-01T02:07:15Z",
+  "link_tried": true
+ },
+ {
+  "id": "5a40dfc8ae8c3445",
+  "title": "Ferragamo Oversized Classic Rectangle Sunglasses $59 + Free Shipping",
+  "url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.0,
+  "found_at": "2026-11-01T02:07:15Z",
+  "link_tried": true
+ },
+ {
+  "id": "de21b130a850d51d",
+  "title": "Best monitor deal: Take 44% off the LG Ultragear OLED gaming monitor - Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
+  "why": "Oled — 44% off",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 44,
+  "price": null,
+  "found_at": "2026-11-01T02:07:15Z",
   "link_tried": true
  }
 ]
