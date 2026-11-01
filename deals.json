@@ -18521,7 +18521,8 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-11-01T08:24:29Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:53:58Z"
  },
  {
   "id": "d1c807c5cda07a19",
@@ -18535,7 +18536,8 @@
   "pct": null,
   "price": 78.3,
   "found_at": "2026-11-01T08:24:29Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:54:00Z"
  },
  {
   "id": "d7544fc6970d00ec",
@@ -18551,7 +18553,8 @@
   "found_at": "2026-11-01T08:24:29Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20234955-007-first-light-legacy-edition-playstation-5-or-xbox-series-x-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-01T09:54:02Z"
  },
  {
   "id": "6935d82d6791bf52",
@@ -18565,7 +18568,8 @@
   "pct": null,
   "price": 34.99,
   "found_at": "2026-11-01T08:24:29Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:54:03Z"
  },
  {
   "id": "1a0da6de543b3da8",
@@ -18581,7 +18585,8 @@
   "found_at": "2026-11-01T08:24:29Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224068-final-fantasy-vii-rebirth-physical-playstation-5-19-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T09:54:04Z"
  },
  {
   "id": "b9999313716870ba",
@@ -18597,7 +18602,8 @@
   "found_at": "2026-11-01T08:24:29Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20219898-target-in-store-ymmv-madden-or-nhl-26-ps5-14-99-clearance?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Target"
+  "store": "Target",
+  "checked_at": "2026-11-01T09:54:06Z"
  },
  {
   "id": "2a4c110f37ab05e0",
@@ -18611,7 +18617,8 @@
   "pct": null,
   "price": 56.85,
   "found_at": "2026-11-01T08:24:29Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:54:07Z"
  },
  {
   "id": "086960c23a971660",
@@ -18627,7 +18634,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238093-dji-mini-5-pro-fly-more-combo-w-rc2-816-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:54:08Z"
  },
  {
   "id": "6d64b44e962e8823",
@@ -18643,7 +18651,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:54:09Z"
  },
  {
   "id": "f89456044edaffb1",
@@ -18659,7 +18668,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:54:11Z"
  },
  {
   "id": "f87f64256bfc7a01",
@@ -18675,7 +18685,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:54:12Z"
  },
  {
   "id": "78ad0eb583f44be6",
@@ -18691,7 +18702,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:54:15Z"
  },
  {
   "id": "3e0146970f45744a",
@@ -18705,7 +18717,8 @@
   "pct": null,
   "price": 108.97,
   "found_at": "2026-11-01T08:44:19Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:54:16Z"
  },
  {
   "id": "f9622b11b360a6b0",
@@ -18721,7 +18734,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:54:18Z"
  },
  {
   "id": "5997ad6df2ceff4a",
@@ -18735,7 +18749,8 @@
   "pct": null,
   "price": 110.93,
   "found_at": "2026-11-01T08:44:19Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:54:19Z"
  },
  {
   "id": "a41cd0cdfb502f02",
@@ -20358,5 +20373,21 @@
   "price": 19.99,
   "found_at": "2026-11-01T09:48:11Z",
   "link_tried3": true
+ },
+ {
+  "id": "fb037fab9d89fd57",
+  "title": "DJI Mic Mini (1 TX + 1 RX) Wireless Microphone $37 + FS",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mic+Mini+Wireless+Microphone",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 37.0,
+  "found_at": "2026-11-01T09:53:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google"
  }
 ]
