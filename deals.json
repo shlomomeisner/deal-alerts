@@ -4689,7 +4689,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20233035-patagonia-men-s-re-tool-high-pile-fleece-jacket-99-49-free-shipping-w-rei-membership?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Rei"
+  "store": "Rei",
+  "checked_at": "2026-11-01T04:37:27Z"
  },
  {
   "id": "f78b1dc7a02f20d0",
@@ -4704,7 +4705,8 @@
   "price": 66.29,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:37:29Z"
  },
  {
   "id": "33c953eb837b56c0",
@@ -4719,7 +4721,8 @@
   "price": 93.89,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:37:31Z"
  },
  {
   "id": "c754ff826e490ecf",
@@ -4734,7 +4737,8 @@
   "price": 96.02,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:37:32Z"
  },
  {
   "id": "c28020e00099e076",
@@ -4749,7 +4753,8 @@
   "price": 85.65,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:37:34Z"
  },
  {
   "id": "6ab40f5e21fe4a6a",
@@ -4764,7 +4769,8 @@
   "price": 67.99,
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T04:37:35Z"
  },
  {
   "id": "dd764215b93e4649",
@@ -4780,12 +4786,13 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/19642482-fragrance-testers-and-gift-sets-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T04:37:37Z"
  },
  {
   "id": "6a58f4cfa3c94520",
   "title": "Gucci Guilty Parfum Pour Homme 6.7 Oz $129.97",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Guilty+Parfum+Pour+Homme+6.7+Oz",
+  "url": "https://slickdeals.net/f/19599561-gucci-guilty-parfum-pour-homme-6-7-oz-129-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -4794,10 +4801,10 @@
   "pct": null,
   "price": 129.97,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19599561-gucci-guilty-parfum-pour-homme-6-7-oz-129-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T04:37:38Z"
  },
  {
   "id": "0e574d6c14c23138",
@@ -4813,7 +4820,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Specials-Up-to-84-off-free-shipping/22327334.html?iref=rss",
-  "store": "Lululemon"
+  "store": "Lululemon",
+  "checked_at": "2026-11-01T04:37:38Z"
  },
  {
   "id": "e3e6d72c0bb5b58a",
@@ -4829,7 +4837,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss",
-  "store": "Apple"
+  "store": "Apple",
+  "checked_at": "2026-11-01T04:37:38Z"
  },
  {
   "id": "86f001a1eaaffcef",
@@ -4845,7 +4854,8 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T04:37:39Z"
  },
  {
   "id": "c2acd11324ab2621",
@@ -4861,12 +4871,13 @@
   "found_at": "2026-10-31T23:37:48Z",
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/20229144-bulova-men-s-marine-star-two-tone-stainless-steel-chronograph-quartz-watch-blue-dial-style-98h37-296-08?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T04:37:41Z"
  },
  {
   "id": "394879e905c63d5a",
   "title": "Seiko 5 SNKK27 for $57 free shipping with Prime (Prime day deal)",
-  "url": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
+  "url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4875,15 +4886,15 @@
   "pct": null,
   "price": 57.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T04:37:42Z"
  },
  {
   "id": "d38437de2f1ac1fc",
   "title": "Seiko Astron Jet Setter Giveaway ~ 3/31/15",
-  "url": "https://slickdeals.net/e/7361166-seiko-astron-jet-setter-giveaway-3-31-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Astron+Jet+Setter+Giveaway+3+31+15",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4892,12 +4903,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/7361166-seiko-astron-jet-setter-giveaway-3-31-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T04:37:42Z"
  },
  {
   "id": "c94021cd19153c1e",
   "title": "Seiko Square Off Sweepstakes ~ 4/30/14",
-  "url": "https://slickdeals.net/e/6803498-seiko-square-off-sweepstakes-4-30-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Square+Off+Sweepstakes+4+30+14",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4906,12 +4921,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/6803498-seiko-square-off-sweepstakes-4-30-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T04:37:43Z"
  },
  {
   "id": "14b30175880ed07a",
   "title": "Seiko Astron $10,000 Dream Vacation Sweepstakes 03/31/2014",
-  "url": "https://slickdeals.net/e/6346414-seiko-astron-10-000-dream-vacation-sweepstakes-03-31-2014?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Astron",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4920,7 +4939,10 @@
   "pct": null,
   "price": 10000.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/6346414-seiko-astron-10-000-dream-vacation-sweepstakes-03-31-2014?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "a74247bbbc159d81",
@@ -4934,7 +4956,8 @@
   "pct": null,
   "price": 265.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "8cc836ac10d932f4",
@@ -4948,7 +4971,8 @@
   "pct": null,
   "price": 230.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "378d77ad676255d5",
@@ -4962,7 +4986,8 @@
   "pct": null,
   "price": 270.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "41361f18784729fd",
@@ -4999,7 +5024,7 @@
  {
   "id": "5619f6fe2abb766f",
   "title": "Al Haramain Detour Noir Intense 3.33 oz EDP (Unisex) $11.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/19139761-al-haramain-detour-noir-intense-3-33-oz-edp-unisex-11-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Al+Haramain+Detour+Noir+Intense+3.33+oz+EDP",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5008,7 +5033,10 @@
   "pct": 20,
   "price": 11.99,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19139761-al-haramain-detour-noir-intense-3-33-oz-edp-unisex-11-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "60114ae1d8236971",
@@ -5045,7 +5073,7 @@
  {
   "id": "d4851a5a2bb3b89e",
   "title": "CREED Aventus EDP Spray 3.3 oz $259.99, Le Labo Santal 33 1.7oz $179 & More + Free Shipping on $100+",
-  "url": "https://slickdeals.net/f/17515668-creed-aventus-edp-spray-3-3-oz-259-99-le-labo-santal-33-1-7oz-179-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=CREED+Aventus+EDP+Spray+3.3+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5054,12 +5082,15 @@
   "pct": null,
   "price": 259.99,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17515668-creed-aventus-edp-spray-3-3-oz-259-99-le-labo-santal-33-1-7oz-179-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "3bb81fb6f03d6097",
   "title": "4 fl oz Mancera Cedrat Boise Eau de Parfum $70 & More + F/S ~ Costco",
-  "url": "https://slickdeals.net/f/17505093-4-fl-oz-mancera-cedrat-boise-eau-de-parfum-70-more-f-s-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=4+fl+oz+Mancera+Cedrat+Boise+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5067,12 +5098,15 @@
   "hot": false,
   "pct": null,
   "price": 70.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17505093-4-fl-oz-mancera-cedrat-boise-eau-de-parfum-70-more-f-s-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "ef22ae8285eec4ed",
   "title": "Parfums de Marly Godolphin Eau De Parfum 4.2 oz $189.99 Woot!",
-  "url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
   "why": "Eau De Parfum 48% off",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5080,12 +5114,15 @@
   "hot": true,
   "pct": 48,
   "price": 189.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "dc9a6c86c40444a2",
   "title": "Costco: 4.2 fl oz (125 ml) PARFUME DE MARLY Pegasus Eau de Parume $204.99",
-  "url": "https://slickdeals.net/f/17285875-costco-4-2-fl-oz-125-ml-parfume-de-marly-pegasus-eau-de-parume-204-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+4.2+fl+oz+PARFUME+DE+MARLY+Pegasus+Eau+de+Parume",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5093,12 +5130,15 @@
   "hot": false,
   "pct": null,
   "price": 204.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17285875-costco-4-2-fl-oz-125-ml-parfume-de-marly-pegasus-eau-de-parume-204-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "b330492603134842",
   "title": "Jomashop: 2.5 oz (75 ml) PARFUMS DE MARLY Ladies Delina EDP Spray $195 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Jomashop+2.5+oz+PARFUMS+DE+MARLY+Ladies+Delina+EDP+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5106,12 +5146,15 @@
   "hot": false,
   "pct": null,
   "price": 195.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "78da46cff7ae9cba",
   "title": "Jomashop: CITIZEN Quartz Blue Dial Stainless Steel Men's Watch $65 & More + Shipping ($6)",
-  "url": "https://slickdeals.net/f/17091859-jomashop-citizen-quartz-blue-dial-stainless-steel-men-s-watch-65-more-shipping-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Jomashop+CITIZEN+Quartz+Blue+Dial+Stainless+Steel+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Parfums De Marly",
@@ -5119,12 +5162,15 @@
   "hot": false,
   "pct": null,
   "price": 65.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17091859-jomashop-citizen-quartz-blue-dial-stainless-steel-men-s-watch-65-more-shipping-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "a5451b9fb18e6ba9",
   "title": "Citizen Men's Automatic Promaster Sea Dive Watch $255",
-  "url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Automatic+Promaster+Sea+Dive+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Amazon watch",
@@ -5132,12 +5178,15 @@
   "hot": false,
   "pct": null,
   "price": 255.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "afb24bc00e7791c3",
   "title": "New Apple Watch Ultra 4 just dropped back to all-time low at nearly $100 off [Updated]",
-  "url": "https://9to5toys.com/2026/10/31/new-black-apple-watch-ultra-4-best-price/",
+  "url": "https://use.typekit.net",
   "why": "Airpods — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -5145,12 +5194,15 @@
   "hot": true,
   "pct": 13,
   "price": 100.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://9to5toys.com/2026/10/31/new-black-apple-watch-ultra-4-best-price/",
+  "store": "Typekit"
  },
  {
   "id": "4b8ff962df48a14a",
   "title": "[Costco Members] - Apple Macboook Pro PROLED XDR Display 14\" & 16\" - Receive $100 Costco Shop Card & 1-year AppleCare+ Included",
-  "url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=-+Apple+Macboook+Pro+PROLED+XDR+Display+14+%26+16+-+Receive",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook",
@@ -5158,12 +5210,15 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "6964559054fcf823",
   "title": "Garmin Dash Cam™ Mini 3, Ultracompact 1080p HD Dash Cam with a 140-degree Field of View, Built In Clarity™ Polarizer, Voice Controlled, Automatic Recording $99.99",
-  "url": "https://slickdeals.net/f/20233128-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-with-a-140-degree-field-of-view-built-in-clarity-polarizer-voice-controlled-automatic-recording-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Garmin+Dash+Cam+Mini+3+Ultracompact+1080p+HD+Dash+Cam+with+a+140-degree+Field+of",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -5171,12 +5226,15 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20233128-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-with-a-140-degree-field-of-view-built-in-clarity-polarizer-voice-controlled-automatic-recording-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  },
  {
   "id": "b0605e77cb0ff61a",
   "title": "Nitro Z19 XL Pro 19ft. 3in. Bass Boat, Mercury 200 L Pro XS 4-Stroke, Dual Garmin Livescope ECHOMAP, Garmin Force Pro Trolling Motor, Tandem Trailer + Free Shipping $39,379",
-  "url": "https://slickdeals.net/f/20224626-nitro-z19-xl-pro-19ft-3in-bass-boat-mercury-200-l-pro-xs-4-stroke-dual-garmin-livescope-echomap-garmin-force-pro-trolling-motor-tandem-trailer-free-shipping-39-379?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Nitro+Z19+XL+Pro+19ft.+3in.+Bass+Boat+Mercury+200+L+Pro+XS+4-Stroke+Dual+Garmin+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -5184,12 +5242,15 @@
   "hot": false,
   "pct": null,
   "price": 39379.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20224626-nitro-z19-xl-pro-19ft-3in-bass-boat-mercury-200-l-pro-xs-4-stroke-dual-garmin-livescope-echomap-garmin-force-pro-trolling-motor-tandem-trailer-free-shipping-39-379?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "1aa28653287ac77c",
   "title": "Garmin Fenix 8 AMOLED 51mm $599.99 at Bass Pro Shop",
-  "url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -5197,7 +5258,10 @@
   "hot": false,
   "pct": null,
   "price": 599.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "e85c3a9afc85d927",
@@ -5210,7 +5274,8 @@
   "hot": false,
   "pct": null,
   "price": 149.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true
  },
  {
   "id": "5575e32ebf3580ad",
@@ -5223,12 +5288,13 @@
   "hot": false,
   "pct": null,
   "price": 229.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true
  },
  {
   "id": "b4e2c023027daec5",
   "title": "Hamilton Khaki Aviation 45mm Black Dial Men's Automatic Watch $923.12",
-  "url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Aviation+45mm+Black+Dial+Men%27s+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5236,12 +5302,15 @@
   "hot": false,
   "pct": null,
   "price": 923.12,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "4a9b98cb681e2ad8",
   "title": "Hamilton Khaki Field Murph 42mm + Bracelet Bundle - $1,015 After 15% Signup Discount + $250 Loyalist Cash (Effective $765) @ Bloomingdale's",
-  "url": "https://slickdeals.net/f/20150121-hamilton-khaki-field-murph-42mm-bracelet-bundle-1-015-after-15-signup-discount-250-loyalist-cash-effective-765-bloomingdale-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bloomingdales.com/shop/search?keyword=Hamilton+Khaki+Field+Murph+42mm+%2B+Bracelet+Bundle+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5249,12 +5318,15 @@
   "hot": false,
   "pct": 15,
   "price": 1015.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20150121-hamilton-khaki-field-murph-42mm-bracelet-bundle-1-015-after-15-signup-discount-250-loyalist-cash-effective-765-bloomingdale-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bloomingdales"
  },
  {
   "id": "d20d39a6f7c0d585",
   "title": "Hamilton Khaki 38mm Automatic Field Watch w/ Black Dial & Leather Strap $799 + Free Shipping",
-  "url": "https://slickdeals.net/f/20083566-hamilton-khaki-38mm-automatic-field-watch-w-black-dial-leather-strap-799-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+38mm+Automatic+Field+Watch+w+Black+Dial+%26+Leather+Strap",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5262,12 +5334,15 @@
   "hot": false,
   "pct": null,
   "price": 799.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20083566-hamilton-khaki-38mm-automatic-field-watch-w-black-dial-leather-strap-799-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "94072a5aed8c3909",
   "title": "Hamilton Khaki Navy Frogman Black Dial Men's Automatic Watch (Various) $569 + Free S&H",
-  "url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+Black+Dial+Men%27s+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5275,12 +5350,15 @@
   "hot": false,
   "pct": null,
   "price": 569.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "5cf1c0a1cb1cd863",
   "title": "HAMILTON Khaki Navy Scuba 37mm White Dial Unisex Quartz Watch $367",
-  "url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5288,12 +5366,15 @@
   "hot": false,
   "pct": null,
   "price": 367.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "cd1bdc7be6b8caf1",
   "title": "HAMILTON American Classic Intra-Matic 38mm Black and Brown Dial Men's Automatic Watch $367",
-  "url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+American+Classic+Intra-Matic+38mm+Black+and+Brown+Dial+Men%27s+Automatic+",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5301,7 +5382,10 @@
   "hot": false,
   "pct": null,
   "price": 367.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1f4e48017a84a658",
@@ -5314,12 +5398,13 @@
   "hot": false,
   "pct": null,
   "price": 123.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true
  },
  {
   "id": "751d1ea5d662896c",
   "title": "Hamilton Khaki Navy Frogman 46mm Black Dial Men's Automatic Watch",
-  "url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+46mm+Black+Dial+Men%27s+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5327,12 +5412,15 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "e0fe981eb4d4cb63",
   "title": "Hamilton Men's Khaki Aviation X-Wind 46mm Quartz Watch $549",
-  "url": "https://slickdeals.net/f/19879521-hamilton-men-s-khaki-aviation-x-wind-46mm-quartz-watch-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Khaki+Aviation+X-Wind+46mm+Quartz+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5340,12 +5428,15 @@
   "hot": false,
   "pct": null,
   "price": 549.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19879521-hamilton-men-s-khaki-aviation-x-wind-46mm-quartz-watch-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0935d1275902f678",
   "title": "Hamilton Men's Khaki Navy 41mm Black Dial Automatic Watch $569",
-  "url": "https://slickdeals.net/f/19878093-hamilton-men-s-khaki-navy-41mm-black-dial-automatic-watch-569?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Khaki+Navy+41mm+Black+Dial+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5353,12 +5444,15 @@
   "hot": false,
   "pct": null,
   "price": 569.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19878093-hamilton-men-s-khaki-navy-41mm-black-dial-automatic-watch-569?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "6de368c66e3721e1",
   "title": "Hamilton Jazzmaster Automatic White Dial Men's Watch $579",
-  "url": "https://slickdeals.net/f/19792779-hamilton-jazzmaster-automatic-white-dial-men-s-watch-579?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Jazzmaster+Automatic+White+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5366,12 +5460,15 @@
   "hot": false,
   "pct": null,
   "price": 579.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19792779-hamilton-jazzmaster-automatic-white-dial-men-s-watch-579?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "ab223f1b858124e4",
   "title": "Hamilton Men's Automatic Watch: 36mm Jazzmaster $442, 38mm/42mm American Classic from $351.10 + Free S&H & More",
-  "url": "https://slickdeals.net/f/19591560-hamilton-men-s-automatic-watch-36mm-jazzmaster-442-38mm-42mm-american-classic-from-351-10-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Automatic+Watch+36mm+Jazzmaster",
   "why": "Hamilton 73% off",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5379,12 +5476,15 @@
   "hot": true,
   "pct": 73,
   "price": 442.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19591560-hamilton-men-s-automatic-watch-36mm-jazzmaster-442-38mm-42mm-american-classic-from-351-10-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "3f29bc8403f5b638",
   "title": "Hamilton Men's Jazzmaster Automatic Watch $499",
-  "url": "https://slickdeals.net/f/19494378-hamilton-men-s-jazzmaster-automatic-watch-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Jazzmaster+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5392,12 +5492,15 @@
   "hot": false,
   "pct": null,
   "price": 499.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19494378-hamilton-men-s-jazzmaster-automatic-watch-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "5d241c6d0f6bb9cb",
   "title": "Hamilton Men's American Classic Watch $351.12",
-  "url": "https://slickdeals.net/f/19459029-hamilton-men-s-american-classic-watch-351-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+American+Classic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5405,12 +5508,15 @@
   "hot": false,
   "pct": null,
   "price": 351.12,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19459029-hamilton-men-s-american-classic-watch-351-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "f54977912b551faa",
   "title": "Hamilton Men's Khaki Navy Automatic Watch $579.99",
-  "url": "https://slickdeals.net/f/19366911-hamilton-men-s-khaki-navy-automatic-watch-579-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Khaki+Navy+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5418,12 +5524,15 @@
   "hot": false,
   "pct": null,
   "price": 579.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19366911-hamilton-men-s-khaki-navy-automatic-watch-579-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "6f2da1271cfdbc03",
   "title": "Hamilton American Classic Men's Automatic Silver Dial Watch $492.15",
-  "url": "https://slickdeals.net/f/19172281-hamilton-american-classic-men-s-automatic-silver-dial-watch-492-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+American+Classic+Men%27s+Automatic+Silver+Dial+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5431,12 +5540,15 @@
   "hot": false,
   "pct": null,
   "price": 492.15,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19172281-hamilton-american-classic-men-s-automatic-silver-dial-watch-492-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1150a0dbb818d6b4",
   "title": "HAMILTON Khaki Field Mechanical Black Dial $493",
-  "url": "https://slickdeals.net/f/18732838-hamilton-khaki-field-mechanical-black-dial-493?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Field+Mechanical+Black+Dial",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -5444,7 +5556,10 @@
   "hot": false,
   "pct": null,
   "price": 493.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18732838-hamilton-khaki-field-mechanical-black-dial-493?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "4fbe3d3123f7b865",
@@ -6305,7 +6420,7 @@
  {
   "id": "07c6d139d2e2ad9e",
   "title": "T-mobile Pixel 11 pro xl 256gb $800, pro $600, standard $400",
-  "url": "https://www.google.com/search?tbm=shop&q=T-mobile+Pixel+11+pro+xl+256gb",
+  "url": "https://slickdeals.net/f/20182512-t-mobile-pixel-11-pro-xl-256gb-800-pro-600-standard-400?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6314,7 +6429,6 @@
   "pct": null,
   "price": 800.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20182512-t-mobile-pixel-11-pro-xl-256gb-800-pro-600-standard-400?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6322,7 +6436,7 @@
  {
   "id": "8417ea87b982254f",
   "title": "Google Pixel 10 Pro - Unlocked - Obsidian - 128 GB - $699",
-  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+10+Pro+-+Unlocked+-+Obsidian+-+128+GB+-",
+  "url": "https://slickdeals.net/f/20174718-google-pixel-10-pro-unlocked-obsidian-128-gb-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6331,7 +6445,6 @@
   "pct": null,
   "price": 699.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20174718-google-pixel-10-pro-unlocked-obsidian-128-gb-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6354,7 +6467,7 @@
  {
   "id": "99a9c22d73b3b350",
   "title": "50% off service when you bring a pixel phone to google Fi",
-  "url": "https://www.google.com/search?tbm=shop&q=50+off+service+when+you+bring+a+pixel+phone+to+google+Fi",
+  "url": "https://slickdeals.net/f/20171865-50-off-service-when-you-bring-a-pixel-phone-to-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Pixel — 50% off",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6363,7 +6476,6 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20171865-50-off-service-when-you-bring-a-pixel-phone-to-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6371,7 +6483,7 @@
  {
   "id": "41441624577741e8",
   "title": "YMMV Google Pixel 11 Pro XL $700 discount for existing Google Fi Customers Only $599",
-  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+Pro+XL",
+  "url": "https://slickdeals.net/f/20171370-ymmv-google-pixel-11-pro-xl-700-discount-for-existing-google-fi-customers-only-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6380,7 +6492,6 @@
   "pct": null,
   "price": 700.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20171370-ymmv-google-pixel-11-pro-xl-700-discount-for-existing-google-fi-customers-only-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6436,7 +6547,7 @@
  {
   "id": "10590acc59694253",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
+  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -6445,7 +6556,6 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -12073,7 +12183,7 @@
  {
   "id": "d3690a9952fcf85e",
   "title": "Gucci Black Sunglasses $149.95 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12137,7 +12247,7 @@
  {
   "id": "b5ec68403e633a9b",
   "title": "Gucci Men's Navigator Aviator-Style Acetate Sunglasses (Black) $149 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Men%27s+Navigator+Aviator-Style+Acetate+Sunglasses",
+  "url": "https://slickdeals.net/f/17512515-gucci-men-s-navigator-aviator-style-acetate-sunglasses-black-149-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12169,7 +12279,7 @@
  {
   "id": "4e2583393024f7f7",
   "title": "OAKLEY Prizm Sunglasses $72, RAY-BAN Caravan Green Classic G-15 Sunglasses $82 & More + Free Shipping w/ $100+",
-  "url": "https://www.google.com/search?tbm=shop&q=OAKLEY+Prizm+Sunglasses",
+  "url": "https://slickdeals.net/f/16825979-oakley-prizm-sunglasses-72-ray-ban-caravan-green-classic-g-15-sunglasses-82-more-free-shipping-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12185,7 +12295,7 @@
  {
   "id": "edb9ba7346813daf",
   "title": "Oakley Men's CMDN Prizm Grey Browline Sunglasses $63, COSTA DEL MARANAA Ladies Sunglasses $66 & More + Free Shipping on $100+",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+CMDN+Prizm+Grey+Browline+Sunglasses",
+  "url": "https://slickdeals.net/f/16617164-oakley-men-s-cmdn-prizm-grey-browline-sunglasses-63-costa-del-maranaa-ladies-sunglasses-66-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12281,7 +12391,7 @@
  {
   "id": "8c5525dcfe6b44fb",
   "title": "VERY YMMV CVS Optometry Clearance 60%-80% Designer Brands",
-  "url": "https://www.google.com/search?tbm=shop&q=VERY+CVS+Optometry+Clearance+60+-80+Designer+Brands",
+  "url": "https://slickdeals.net/f/15915235-very-ymmv-cvs-optometry-clearance-60-80-designer-brands?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "80% off",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12297,7 +12407,7 @@
  {
   "id": "a064e9da18ecd909",
   "title": "Extra 50% Off Sunglasses (various styles): Costa from $59, Ray-Ban from $61, Gucci from $118, Fendi from $75.5",
-  "url": "https://www.google.com/search?tbm=shop&q=Extra+50+Off+Sunglasses+Costa+from",
+  "url": "https://slickdeals.net/f/15686962-extra-50-off-sunglasses-various-styles-costa-from-59-ray-ban-from-61-gucci-from-118-fendi-from-75-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Gucci 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12313,7 +12423,7 @@
  {
   "id": "6b0ad2c252c199c3",
   "title": "Sunglasses Super Sale: Dior, Fendi, Gucci, Ray-Ban- Extra 50% Off: Starting at $14",
-  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Super+Dior+Fendi+Gucci+Ray-Ban-+Extra+50+Off+Starting+at",
+  "url": "https://slickdeals.net/f/15664330-sunglasses-super-sale-dior-fendi-gucci-ray-ban-extra-50-off-starting-at-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Gucci 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12329,7 +12439,7 @@
  {
   "id": "f883f6bc8a247eab",
   "title": "HUGE DESIGNER SUNGLASSES SALE (YSL, Gucci, Prada) $100",
-  "url": "https://www.google.com/search?tbm=shop&q=HUGE+DESIGNER+SUNGLASSES",
+  "url": "https://slickdeals.net/f/15572227-huge-designer-sunglasses-sale-ysl-gucci-prada-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12345,7 +12455,7 @@
  {
   "id": "f69802d27c3c4cc1",
   "title": "GUCCI Grey Gradient Sunglasses $195 + Free Shipping $195.99",
-  "url": "https://www.google.com/search?tbm=shop&q=GUCCI+Grey+Gradient+Sunglasses",
+  "url": "https://slickdeals.net/f/15390922-gucci-grey-gradient-sunglasses-195-free-shipping-195-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12361,7 +12471,7 @@
  {
   "id": "bc31142af5ef3884",
   "title": "Joma Shop: Extra 30% Off Blowout Sale - Designer Sunglasses & Eyeglasses under $100",
-  "url": "https://www.google.com/search?tbm=shop&q=Joma+Shop+Extra+30+Off+Blowout+-+Designer+Sunglasses+%26+Eyeglasses+under",
+  "url": "https://slickdeals.net/f/15347245-joma-shop-extra-30-off-blowout-sale-designer-sunglasses-eyeglasses-under-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12377,7 +12487,7 @@
  {
   "id": "8f9d7134897b5d8d",
   "title": "CELINE Geometric Ladies Sunglasses CL40069U30N61 for $159.99 + FS",
-  "url": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
+  "url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Gucci Sunglasses",
@@ -12425,7 +12535,7 @@
  {
   "id": "ce310f9bd6e31531",
   "title": "EXOTIC! 2 in 1 trip from Berlin to New York and Bermuda 🌴 for €684",
-  "url": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Berlin%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC684",
+  "url": "https://www.fly4free.com/flight-deals/europe/flights-from-berlin-new-york-and-bermuda/",
   "why": "🌴 NEW YORK → Bermuda",
   "category": "flights",
   "source": "Fly4free USA",
@@ -12441,7 +12551,7 @@
  {
   "id": "78a26aa3ae70e338",
   "title": "EXOTIC! 2 in 1 trip from Budapest to New York and Bermuda 🌴 for €797",
-  "url": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Budapest%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC797",
+  "url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-new-york-and-bermuda/",
   "why": "🌴 NEW YORK → Bermuda",
   "category": "flights",
   "source": "Fly4free USA",
@@ -12452,6 +12562,38 @@
   "found_at": "2026-11-01T04:29:35Z",
   "link_tried3": true,
   "source_url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-new-york-and-bermuda/",
+  "route_fixed": true
+ },
+ {
+  "id": "4798b09f06c2a9e8",
+  "title": "United Airlines Flight Connects St. Croix to Newark - St. Thomas Source",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20St%20Thomas%20Source",
+  "why": "🌴 NEWARK → St. Thomas",
+  "category": "flights",
+  "source": "Google: NYC Caribbean flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:36:22Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
+  "route_fixed": true
+ },
+ {
+  "id": "66347da080d4b2bb",
+  "title": "Governor Bryan Celebrates New United Airlines Nonstop Service Between Newark and St. Croix as Milestone in Territory's Airlift Expansion Strategy - Government of the United States Virgin Islands (.gov)",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Governor%20Bryan%20Celebrates%20New%20United%20Airlines%20%20Service%20Between%20Newark%20and%20St.%20Croix%20as%20Milestone%20in%20Territory%27s%20Airlift%20Expansion%20Strategy%20-%20Government%20of%20the%20United%20States%20Virgin%20Islands%20%28.gov%29",
+  "why": "🌴 NEWARK → St. Croix",
+  "category": "flights",
+  "source": "Google: NYC Caribbean flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:36:22Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMTQ1MjRFQlZSWmdiMHl1dHd4ZVZfbzhIYnVpX3Q2MXZjdXBldktIR0VFdXo5WjFuYkJOQ2tXRHRDa0dEWXBaYlZQdk1IWXlpU3FsXzZ3bnRMYkdwY3NiMGpqaVkxTGxWUXE5OThuQ3Rmb1E2dW1fUVdyM1FCZW9tZU1FQnp6ZEhRNkpJRmhBUDVMcE1qT21NWFFxa1ZPVEd1VzFRZy1rbEJoLVBhVEFaUGxUM1I3d1c3Yy1VV0ViVjdjNVNTN1lfOFc2ZE8yZkp6Q1drTnVGbXFaUWNFazB3dUhiLTY3bkRmUTZSMjVIM3FIeVowbWc?oc=5",
   "route_fixed": true
  }
 ]
