@@ -3720,7 +3720,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:48Z"
  },
  {
   "id": "980ca080ce43df3d",
@@ -3733,7 +3734,8 @@
   "hot": false,
   "pct": null,
   "price": 112.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:49Z"
  },
  {
   "id": "f8e95c6d71b853f9",
@@ -3746,7 +3748,8 @@
   "hot": false,
   "pct": null,
   "price": 300.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:50Z"
  },
  {
   "id": "be5bb74a675cd57a",
@@ -3759,7 +3762,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:52Z"
  },
  {
   "id": "52195f7a9a95b637",
@@ -3772,7 +3776,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:53Z"
  },
  {
   "id": "986c56fbf0ec8593",
@@ -3785,7 +3790,8 @@
   "hot": false,
   "pct": null,
   "price": 930.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:54Z"
  },
  {
   "id": "35073a1e58cbd9e2",
@@ -3798,7 +3804,8 @@
   "hot": true,
   "pct": 50,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:56Z"
  },
  {
   "id": "c34560029a931d78",
@@ -3811,7 +3818,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:50:59Z"
  },
  {
   "id": "7beaed91c60e601f",
@@ -3824,7 +3832,8 @@
   "hot": false,
   "pct": null,
   "price": 6.95,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:51:01Z"
  },
  {
   "id": "141ad93fed849505",
@@ -3837,7 +3846,8 @@
   "hot": false,
   "pct": null,
   "price": 2.99,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:51:03Z"
  },
  {
   "id": "d526993848badec4",
@@ -3850,7 +3860,8 @@
   "hot": false,
   "pct": 15,
   "price": null,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:51:04Z"
  },
  {
   "id": "9992819dd07e5da0",
@@ -3863,7 +3874,8 @@
   "hot": false,
   "pct": null,
   "price": 25.0,
-  "found_at": "2026-10-31T23:11:44Z"
+  "found_at": "2026-10-31T23:11:44Z",
+  "checked_at": "2026-11-01T03:51:06Z"
  },
  {
   "id": "beb5eb13957136ef",
@@ -3876,7 +3888,8 @@
   "hot": false,
   "pct": null,
   "price": 9.99,
-  "found_at": "2026-10-31T23:16:55Z"
+  "found_at": "2026-10-31T23:16:55Z",
+  "checked_at": "2026-11-01T03:51:08Z"
  },
  {
   "id": "a2e1a27774ffeda1",
@@ -3889,7 +3902,8 @@
   "hot": false,
   "pct": null,
   "price": 75.0,
-  "found_at": "2026-10-31T23:16:55Z"
+  "found_at": "2026-10-31T23:16:55Z",
+  "checked_at": "2026-11-01T03:51:10Z"
  },
  {
   "id": "e0be10baeb0c7f3e",
@@ -3902,7 +3916,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:16:55Z"
+  "found_at": "2026-10-31T23:16:55Z",
+  "checked_at": "2026-11-01T03:51:12Z"
  },
  {
   "id": "9f1a04adb07a6c19",
@@ -5220,7 +5235,7 @@
  {
   "id": "da025bbed05d492a",
   "title": "Patagonia Men’s Re-Tool High-Pile Fleece Jacket (El Cap Khaki) $99.50 + Free S&H on $100+",
-  "url": "https://slickdeals.net/f/20233035-patagonia-men-s-re-tool-high-pile-fleece-jacket-99-49-free-shipping-w-rei-membership?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "url": "https://www.rei.com/search?q=Patagonia+Men+s+Re-Tool+High-Pile+Fleece+Jacket",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals Frontpage",
@@ -5228,7 +5243,10 @@
   "hot": false,
   "pct": null,
   "price": 99.5,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20233035-patagonia-men-s-re-tool-high-pile-fleece-jacket-99-49-free-shipping-w-rei-membership?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Rei"
  },
  {
   "id": "f78b1dc7a02f20d0",
@@ -5241,7 +5259,8 @@
   "hot": false,
   "pct": null,
   "price": 66.29,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "33c953eb837b56c0",
@@ -5254,7 +5273,8 @@
   "hot": false,
   "pct": null,
   "price": 93.89,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "c754ff826e490ecf",
@@ -5267,7 +5287,8 @@
   "hot": false,
   "pct": null,
   "price": 96.02,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "c28020e00099e076",
@@ -5280,7 +5301,8 @@
   "hot": false,
   "pct": null,
   "price": 85.65,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "6ab40f5e21fe4a6a",
@@ -5293,12 +5315,13 @@
   "hot": false,
   "pct": null,
   "price": 67.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "dd764215b93e4649",
   "title": "Fragrance Testers and Gift Sets at Woot!",
-  "url": "https://slickdeals.net/f/19642482-fragrance-testers-and-gift-sets-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Fragrance+Testers+and+Gift+Sets",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -5306,7 +5329,10 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19642482-fragrance-testers-and-gift-sets-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "6a58f4cfa3c94520",
@@ -5319,12 +5345,13 @@
   "hot": false,
   "pct": null,
   "price": 129.97,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "0e574d6c14c23138",
   "title": "lululemon We Made Too Much Specials: Up to 84% off + free shipping",
-  "url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Specials-Up-to-84-off-free-shipping/22327334.html?iref=rss",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+We+Made+Too+Much+Specials+Up+to+84+off+%2B",
   "why": "Lululemon 84% off",
   "category": "fashion",
   "source": "DealNews",
@@ -5332,12 +5359,15 @@
   "hot": true,
   "pct": 84,
   "price": null,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Specials-Up-to-84-off-free-shipping/22327334.html?iref=rss",
+  "store": "Lululemon"
  },
  {
   "id": "e3e6d72c0bb5b58a",
   "title": "Unlocked Apple iPhone Air 256GB Smartphone for $800 + free shipping",
-  "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss",
+  "url": "https://www.apple.com/us/search/Unlocked%20Apple%20iPhone%20Air%20256GB%20Smartphone%20for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -5345,12 +5375,15 @@
   "hot": false,
   "pct": null,
   "price": 800.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss",
+  "store": "Apple"
  },
  {
   "id": "86f001a1eaaffcef",
   "title": "Citizen Men's Automatic Promaster Sea Dive Watch $255",
-  "url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Automatic+Promaster+Sea+Dive+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -5358,12 +5391,15 @@
   "hot": false,
   "pct": null,
   "price": 255.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "c2acd11324ab2621",
   "title": "Bulova Men's Marine Star Two-Tone Stainless Steel Chronograph Quartz Watch, Blue Dial Style: 98H37 $296.08",
-  "url": "https://slickdeals.net/f/20229144-bulova-men-s-marine-star-two-tone-stainless-steel-chronograph-quartz-watch-blue-dial-style-98h37-296-08?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Bulova+Men%27s+Marine+Star+Two-Tone+Stainless+Steel+Chronograph+Quartz+Watch+Blue+",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -5371,7 +5407,10 @@
   "hot": false,
   "pct": null,
   "price": 296.08,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20229144-bulova-men-s-marine-star-two-tone-stainless-steel-chronograph-quartz-watch-blue-dial-style-98h37-296-08?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "394879e905c63d5a",
@@ -5384,7 +5423,8 @@
   "hot": false,
   "pct": null,
   "price": 57.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "d38437de2f1ac1fc",
@@ -5397,7 +5437,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "c94021cd19153c1e",
@@ -5410,7 +5451,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "14b30175880ed07a",
@@ -5423,7 +5465,8 @@
   "hot": false,
   "pct": null,
   "price": 10000.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "a74247bbbc159d81",
@@ -5436,7 +5479,8 @@
   "hot": false,
   "pct": null,
   "price": 265.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "8cc836ac10d932f4",
@@ -5449,7 +5493,8 @@
   "hot": false,
   "pct": null,
   "price": 230.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "378d77ad676255d5",
@@ -5462,12 +5507,13 @@
   "hot": false,
   "pct": null,
   "price": 270.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "41361f18784729fd",
   "title": "Parfums de Marly Layton Eau de Parfum – Parfum for Men – 4.2 Fl $290",
-  "url": "https://slickdeals.net/f/20088618-parfums-de-marly-layton-eau-de-parfum-parfum-for-men-4-2-fl-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Parfums+de+Marly+Layton+Eau+de+Parfum+Parfum+for+Men+4.2+Fl",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5475,12 +5521,15 @@
   "hot": false,
   "pct": null,
   "price": 290.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20088618-parfums-de-marly-layton-eau-de-parfum-parfum-for-men-4-2-fl-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "06fc7692c1554030",
   "title": "Ultimate Top 10 Elite Fragrance on sale Shortlist on sale at Jomashop Fathers day deals on Men's cologne. $120.89",
-  "url": "https://slickdeals.net/f/19577274-ultimate-top-10-elite-fragrance-on-sale-shortlist-on-sale-at-jomashop-fathers-day-deals-on-men-s-cologne-120-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Ultimate+Top+10+Elite+Fragrance+on+Shortlist+on",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5488,7 +5537,10 @@
   "hot": false,
   "pct": null,
   "price": 120.89,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19577274-ultimate-top-10-elite-fragrance-on-sale-shortlist-on-sale-at-jomashop-fathers-day-deals-on-men-s-cologne-120-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "5619f6fe2abb766f",
@@ -5501,12 +5553,13 @@
   "hot": false,
   "pct": 20,
   "price": 11.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "60114ae1d8236971",
   "title": "Sam's Club Members: 2.5-Oz Parfum de Marly Layton Eau de Parfum $150 + Free Shipping Plus Members",
-  "url": "https://slickdeals.net/f/17812773-sam-s-club-members-2-5-oz-parfum-de-marly-layton-eau-de-parfum-150-free-shipping-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsclub.com/s/Sam%27s%20Club%20Members%202.5-Oz%20Parfum%20de%20Marly%20Layton%20Eau%20de%20Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5514,12 +5567,15 @@
   "hot": false,
   "pct": null,
   "price": 150.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/17812773-sam-s-club-members-2-5-oz-parfum-de-marly-layton-eau-de-parfum-150-free-shipping-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsclub"
  },
  {
   "id": "fa151544999298ff",
   "title": "Costco Members: Men's Cologne: 6.7-Oz Versace Man Eros Eau de Toilette $60 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17604873-costco-members-men-s-cologne-6-7-oz-versace-man-eros-eau-de-toilette-60-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Men%27s+Cologne+6.7-Oz+Versace+Man+Eros+Eau+de+Toilette",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -5527,7 +5583,10 @@
   "hot": false,
   "pct": null,
   "price": 60.0,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/17604873-costco-members-men-s-cologne-6-7-oz-versace-man-eros-eau-de-toilette-60-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "d4851a5a2bb3b89e",
@@ -5540,7 +5599,8 @@
   "hot": false,
   "pct": null,
   "price": 259.99,
-  "found_at": "2026-10-31T23:37:48Z"
+  "found_at": "2026-10-31T23:37:48Z",
+  "link_tried2": true
  },
  {
   "id": "3bb81fb6f03d6097",
@@ -6744,7 +6804,8 @@
   "hot": false,
   "pct": null,
   "price": 549.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "1db20685730e12f9",
@@ -6757,7 +6818,8 @@
   "hot": false,
   "pct": 25,
   "price": 674.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "53642ae383a8fcef",
@@ -6770,7 +6832,8 @@
   "hot": false,
   "pct": null,
   "price": 599.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "07c6d139d2e2ad9e",
@@ -6783,7 +6846,8 @@
   "hot": false,
   "pct": null,
   "price": 800.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "8417ea87b982254f",
@@ -6796,7 +6860,8 @@
   "hot": false,
   "pct": null,
   "price": 699.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "36ed91b584713d76",
@@ -6809,7 +6874,8 @@
   "hot": false,
   "pct": null,
   "price": 849.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "99a9c22d73b3b350",
@@ -6822,7 +6888,8 @@
   "hot": true,
   "pct": 50,
   "price": null,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "41441624577741e8",
@@ -6835,12 +6902,13 @@
   "hot": false,
   "pct": null,
   "price": 700.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "8e40cc33490f3dae",
   "title": "Bose Quietcomfort Headphones (2nd Gen) $179 Costco",
-  "url": "https://slickdeals.net/f/20234856-bose-quietcomfort-headphones-2nd-gen-179-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Bose+Quietcomfort+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -6848,12 +6916,15 @@
   "hot": false,
   "pct": null,
   "price": 179.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234856-bose-quietcomfort-headphones-2nd-gen-179-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "27a2ae092466f068",
   "title": "Bose - QuietComfort Headphones (2nd Gen) - Wireless, Over Ear, Active Noise Cancelling, Immersive Audio, USB-C Charging - Hazelnut Taupe",
-  "url": "https://slickdeals.net/f/20234193-bose-quietcomfort-headphones-2nd-gen-wireless-over-ear-active-noise-cancelling-immersive-audio-usb-c-charging-hazelnut-taupe?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Bose+-+QuietComfort+Headphones+-+Wireless+Over+Ear+Active+Noise+Cancelling+Immer",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -6861,12 +6932,15 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234193-bose-quietcomfort-headphones-2nd-gen-wireless-over-ear-active-noise-cancelling-immersive-audio-usb-c-charging-hazelnut-taupe?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "95bf18149ce8b0ff",
   "title": "Bose QuietComfort ANC Over Ear Headphones (Various) $169 + Free S&H",
-  "url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Bose+QuietComfort+ANC+Over+Ear+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -6874,7 +6948,10 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
  },
  {
   "id": "10590acc59694253",
@@ -6887,7 +6964,8 @@
   "hot": false,
   "pct": null,
   "price": 179.99,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "f1d3736852d49171",
@@ -6900,7 +6978,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "f57ce334228a2fe6",
@@ -6913,7 +6992,8 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-10-31T23:43:03Z"
+  "found_at": "2026-10-31T23:43:03Z",
+  "link_tried2": true
  },
  {
   "id": "7d069c973c33ecdc",
@@ -11565,5 +11645,21 @@
   "price": 56.99,
   "found_at": "2026-11-01T03:43:17Z",
   "link_tried2": true
+ },
+ {
+  "id": "28132470d9f6a233",
+  "title": "Apple AirTag 1st Gen Bluetooth Tracker, 4/Pack (MX542AM/A)",
+  "url": "https://www.staples.com/Apple%20AirTag%201st%20Gen%20Bluetooth%20Tracker%204%20Pack/directory_Apple%20AirTag%201st%20Gen%20Bluetooth%20Tracker%204%20Pack",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airtag",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T03:49:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20237973-apple-airtag-1st-gen-bluetooth-tracker-4-pack-mx542am-a?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Staples"
  }
 ]
