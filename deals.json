@@ -20242,7 +20242,8 @@
   "pct": null,
   "price": 33.72,
   "found_at": "2026-11-01T09:03:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:34:05Z"
  },
  {
   "id": "e95068480481041f",
@@ -20256,7 +20257,8 @@
   "pct": null,
   "price": 65.25,
   "found_at": "2026-11-01T09:03:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:34:06Z"
  },
  {
   "id": "1779c0ff55065665",
@@ -20272,7 +20274,8 @@
   "found_at": "2026-11-01T09:03:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19993899-dolce-gabbana-pour-homme-eau-de-toilette-spray-cologne-for-men-4-2-oz-50-18?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-01T10:34:08Z"
  },
  {
   "id": "1e48dd3b6364cc5d",
@@ -20288,7 +20291,8 @@
   "found_at": "2026-11-01T09:03:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19960971-azzaro-the-most-wanted-eau-de-parfum-intense-warm-amber-cologne-for-men-88?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T10:34:09Z"
  },
  {
   "id": "65d909f484a3c256",
@@ -20304,7 +20308,8 @@
   "found_at": "2026-11-01T09:03:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19921239-1-million-by-paco-rabanne-for-men-s-eau-de-toilette-tester?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:34:10Z"
  },
  {
   "id": "e5d8679a92dcf8db",
@@ -20318,7 +20323,8 @@
   "pct": null,
   "price": 79.0,
   "found_at": "2026-11-01T09:03:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:34:13Z"
  },
  {
   "id": "9219f5b269578a16",
@@ -20334,7 +20340,8 @@
   "found_at": "2026-11-01T09:03:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19774419-2-pack-0-99-oz-armani-beauty-stronger-with-you-intensely-eau-de-parfum-for-men-travel-set-25-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:34:14Z"
  },
  {
   "id": "615d0b001b04db66",
@@ -20348,7 +20355,8 @@
   "pct": null,
   "price": 50.4,
   "found_at": "2026-11-01T09:03:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:34:16Z"
  },
  {
   "id": "05f9fca6f3a225e1",
@@ -20362,7 +20370,8 @@
   "pct": null,
   "price": 26.99,
   "found_at": "2026-11-01T09:03:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:34:18Z"
  },
  {
   "id": "b7574f332df28dd1",
@@ -20376,7 +20385,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T09:42:31Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:34:19Z"
  },
  {
   "id": "6fa91351b68f2c9e",
@@ -20390,7 +20400,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T09:42:31Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:34:20Z"
  },
  {
   "id": "b839b4c03390e61e",
@@ -20406,7 +20417,8 @@
   "found_at": "2026-11-01T09:42:31Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18652354-jimmy-choo-urban-hero-gold-edp-spray-3-3-oz-100-ml-m-44-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:34:22Z"
  },
  {
   "id": "1d82d551cfd55814",
@@ -20419,20 +20431,8 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-11-01T09:42:31Z"
- },
- {
-  "id": "3920de761a3a88ed",
-  "title": "Bose QuietComfort Gen2 Headphones with Active Noise Cancellation $199.00",
-  "url": "https://www.amazon.com/gp/product/B0H5RLCXG8/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 199.0,
-  "found_at": "2026-11-01T09:42:31Z"
+  "found_at": "2026-11-01T09:42:31Z",
+  "checked_at": "2026-11-01T10:34:22Z"
  },
  {
   "id": "9801c4e37a46d393",
@@ -20448,7 +20448,8 @@
   "found_at": "2026-11-01T09:48:11Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231436-samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlocked-android-ai-photo-edits-large-screen-long-battery-life-2025-us-1-yr-manufacturer-warranty-mint-1349-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T10:34:24Z"
  },
  {
   "id": "09a2eb32ff068d7f",
@@ -20657,6 +20658,370 @@
   "found_at": "2026-11-01T10:21:36Z",
   "link_tried3": true,
   "source_url": "https://camelcamelcamel.com/product/366247705X",
+  "store": "Google"
+ },
+ {
+  "id": "48e3262c079d3256",
+  "title": "Refurb Apple Outlet at Best Buy: Up to 81% off + free shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Refurb+Apple+Outlet",
+  "why": "81% off",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 81,
+  "price": null,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Refurb-Apple-Outlet-at-Best-Buy-Up-to-81-off-free-shipping/22304514.html?iref=rss",
+  "store": "Bestbuy"
+ },
+ {
+  "id": "e835358c6c8a8ceb",
+  "title": "Polo Ralph Lauren Men's Classic-Fit Cotton Polo Shirt for $40 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Classic-Fit+Cotton+Polo+Shirt+for",
+  "why": "",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 40.0,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Classic-Fit-Cotton-Polo-Shirt-for-40-free-shipping/22302542.html?iref=rss",
+  "store": "Google"
+ },
+ {
+  "id": "aea0ced96cccf3b8",
+  "title": "Cool Basketball Pixel Art Black Gift For Boys or Girls - down 14.98% ($2.24) to $12.71 from $14.95",
+  "url": "https://www.google.com/search?tbm=shop&q=Cool+Basketball+Pixel+Art+Black+Gift+For+Boys+or+Girls+-+down+14.98",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2.24,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://camelcamelcamel.com/product/B07G6KNQ73",
+  "store": "Google"
+ },
+ {
+  "id": "666935a40fe2185b",
+  "title": "Alaska Air: Seattle / Las Vegas / Los Angeles / New York / Phoenix / Portland / Sacramento / San Diego / San Francisco – Tokyo / Osaka, Japan. Starting $195 (Basic Economy) / $355 (Regular Economy). Roundtrip, including all Taxes",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Alaska%20Air%3A%20Seattle%20/%20Las%20Vegas%20/%20Los%20Angeles%20/%20New%20York%20/%20Phoenix%20/%20Portland%20/%20Sacramento%20/%20San%20Diego%20/%20San%20Francisco%20%E2%80%93%20Tokyo%20/%20Osaka%2C%20Japan.%20Starting",
+  "why": "$195 from NEW YORK",
+  "category": "flights",
+  "source": "The Flight Deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 195.0,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
+  "route_fixed": true
+ },
+ {
+  "id": "5e6bf377774fb23e",
+  "title": "Allen Edmonds Summer Warehouse Sale Save up to 70% Off",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Summer+Warehouse+Save+up+to+70+Off",
+  "why": "Allen Edmonds 70% off",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": true,
+  "pct": 70,
+  "price": null,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19725162-allen-edmonds-summer-warehouse-sale-save-up-to-70-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "0c0b70d55bec0f66",
+  "title": "Allen Edmonds Shoe Bank Extra 20% Off Sale",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Shoe+Bank+Extra+20+Off",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19547877-allen-edmonds-shoe-bank-extra-20-off-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "2a44384ff584ee08",
+  "title": "$235.42: Allen Edmonds Randolph, Chocolate Suede, Size 15 ONLY",
+  "url": "https://slickdeals.net/f/19461768-235-42-allen-edmonds-randolph-chocolate-suede-size-15-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 235.42,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true
+ },
+ {
+  "id": "777d6d5f60d00762",
+  "title": "$122.54: Allen Edmonds Strandmok, Brown Nubuck, Size 8.5 ONLY",
+  "url": "https://slickdeals.net/f/19461759-122-54-allen-edmonds-strandmok-brown-nubuck-size-8-5-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 122.54,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true
+ },
+ {
+  "id": "a2dd9d7b8be82569",
+  "title": "Amex Offer: Allen Edmonds: Earn $50 When You Spend $250+ (expires 3/29) YMMV",
+  "url": "https://www.google.com/search?tbm=shop&q=Amex+Offer+Allen+Edmonds+Earn",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19219933-amex-offer-allen-edmonds-earn-50-when-you-spend-250-expires-3-29-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "d691d26eccefb891",
+  "title": "Allen Edmonds Suede Carson Hybrid Chukka in Brown or Blue $97.48",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Suede+Carson+Hybrid+Chukka+in+Brown+or+Blue",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 97.48,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19106728-allen-edmonds-suede-carson-hybrid-chukka-in-brown-or-blue-97-48?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "2b063ebd480bd8f0",
+  "title": "Barbour Prestbury Waxed Cotton Jacket Olive Green Size Small $216.97 AllenEdmonds.com",
+  "url": "https://www.google.com/search?tbm=shop&q=Barbour+Prestbury+Waxed+Cotton+Jacket+Olive+Green+Size+Small",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 216.97,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19102225-barbour-prestbury-waxed-cotton-jacket-olive-green-size-small-216-97-allenedmonds-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "c1710e396443eafe",
+  "title": "Barbour Chelsea Quilted Jacket Navy $141.97 AllenEdmonds.com",
+  "url": "https://www.google.com/search?tbm=shop&q=Barbour+Chelsea+Quilted+Jacket+Navy",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 141.97,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19102207-barbour-chelsea-quilted-jacket-navy-141-97-allenedmonds-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "604bdeb2776ed53a",
+  "title": "Allen Edmonds Carson Lace-up Hybrid Wingtip Oxford (4 colors) $97.48 Final Sale",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Carson+Lace-up+Hybrid+Wingtip+Oxford",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 97.48,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19098289-allen-edmonds-carson-lace-up-hybrid-wingtip-oxford-4-colors-97-48-final-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "ac82977671c9002a",
+  "title": "Allen Edmonds Shoe Bank Factory Seconds Sale Extra 25% Off",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Shoe+Bank+Factory+Seconds+Extra+25+Off",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": null,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19087735-allen-edmonds-shoe-bank-factory-seconds-sale-extra-25-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "d39cfc7b7ef794e7",
+  "title": "Allen Edmonds Fifth Avenue Cap-toe Oxford Dress Shoe $269 less 10% off (new Signup) = $242 less $50 AMEX PROMO ( Spend $250 earn $50 back) Final Price $192 plus tax",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Fifth+Avenue+Cap-toe+Oxford+Dress+Shoe",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": 269.0,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18944170-allen-edmonds-fifth-avenue-cap-toe-oxford-dress-shoe-269-less-10-off-new-signup-242-less-50-amex-promo-spend-250-earn-50-back-final-price-192-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "9b82e6d82da8ed5d",
+  "title": "Allen Edmonds Cyber Monday Sale Extra 25% Off Sale Price Use Code CYBER",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Cyber+Monday+Extra+25+Off+Price+Use+Code+CYBER",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": null,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18914059-allen-edmonds-cyber-monday-sale-extra-25-off-sale-price-use-code-cyber?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e8e1dc76cf612fcb",
+  "title": "Amex Offer: Allen Edmonds: Earn $50 When You Spend $250+ (expires 12/24) YMMV",
+  "url": "https://www.google.com/search?tbm=shop&q=Amex+Offer+Allen+Edmonds+Earn",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18763813-amex-offer-allen-edmonds-earn-50-when-you-spend-250-expires-12-24-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "b4c796eab29c5d2b",
+  "title": "Allen Edmonds Verona II Italian Bit Loafer (Walnut Brown Leather) $200 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Verona+II+Italian+Bit+Loafer",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 200.0,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18306346-allen-edmonds-verona-ii-italian-bit-loafer-walnut-brown-leather-200-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "1e189b0602f71f33",
+  "title": "Allen Edmonds Miles Boat Shoe $69.97 Clearance Final Sale Two Colors/Most Sizes Available",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Miles+Boat+Shoe",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.97,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18057483-allen-edmonds-miles-boat-shoe-69-97-clearance-final-sale-two-colors-most-sizes-available?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e6017c660e6dc146",
+  "title": "Allen Edmonds up to 50% off Black Friday Sale",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+up+to+50+off+Black+Friday",
+  "why": "Allen Edmonds 50% off",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": null,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17931810-allen-edmonds-up-to-50-off-black-friday-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "5fc866ebb30636d6",
+  "title": "Allen Edmonds Strand Leather Oxfords (black) - $166.40 in cart",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Strand+Leather+Oxfords+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 166.4,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "770ed84fcf49fe2f",
+  "title": "Neiman Marcus: Allen Edmonds Park Avenue Leather Oxford Shoes - Walnut color $166.38",
+  "url": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+Allen+Edmonds+Park+Avenue+Leather+Oxford+Shoes+-+Walnut+color",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 166.38,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "dde59d55c8a2dbd4",
+  "title": "Allen Edmonds Men's Shoes: Round Toe Oxford $119.99, Hendrix Leather Brogue Oxfords $149.99, Eli Leather Penny Loafers $149.99, More + Free Shipping on $99+",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Men%27s+Shoes+Round+Toe+Oxford",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Allen Edmonds",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": 119.99,
+  "found_at": "2026-11-01T10:33:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17339421-allen-edmonds-men-s-shoes-round-toe-oxford-119-99-hendrix-leather-brogue-oxfords-149-99-eli-leather-penny-loafers-149-99-more-free-shipping-on-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
  }
 ]
