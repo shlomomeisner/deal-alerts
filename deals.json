@@ -277,7 +277,7 @@
   "pct": null,
   "price": 499.0,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:50:35Z",
+  "checked_at": "2026-11-01T11:13:01Z",
   "link_tried3": true
  },
  {
@@ -292,7 +292,7 @@
   "pct": null,
   "price": 5.92,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:06Z",
+  "checked_at": "2026-11-01T11:13:03Z",
   "link_tried3": true
  },
  {
@@ -307,7 +307,7 @@
   "pct": null,
   "price": 297.49,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:08Z",
+  "checked_at": "2026-11-01T11:13:06Z",
   "link_tried3": true
  },
  {
@@ -322,7 +322,7 @@
   "pct": null,
   "price": 439.99,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:09Z",
+  "checked_at": "2026-11-01T11:13:07Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20105577-refurb-meta-quest-3-512gb-439-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -339,7 +339,7 @@
   "pct": null,
   "price": 255.99,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:11Z",
+  "checked_at": "2026-11-01T11:13:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20105574-refurb-meta-quest-3s-128gb-255-99-256gb-327-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -356,7 +356,7 @@
   "pct": null,
   "price": 6.24,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:12Z",
+  "checked_at": "2026-11-01T11:13:10Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20105511-amzdm-silicone-controller-grip-cover-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-24-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -373,7 +373,7 @@
   "pct": null,
   "price": 6.6,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:13Z",
+  "checked_at": "2026-11-01T11:13:11Z",
   "link_tried3": true
  },
  {
@@ -388,7 +388,7 @@
   "pct": null,
   "price": 996.95,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:15Z",
+  "checked_at": "2026-11-01T11:13:14Z",
   "link_tried3": true
  },
  {
@@ -403,7 +403,7 @@
   "pct": null,
   "price": 596.95,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:18Z",
+  "checked_at": "2026-11-01T11:13:15Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20184300-nikon-z-30-with-wide-angle-zoom-lens-our-most-compact-lightweight-mirrorless-stills-video-camera-with-16-50mm-zoom-lens-nikon-usa-model-596-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo"
@@ -420,7 +420,7 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:19Z",
+  "checked_at": "2026-11-01T11:13:17Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20181306-nikon-fall-savings-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -437,7 +437,7 @@
   "pct": null,
   "price": 996.95,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:21Z",
+  "checked_at": "2026-11-01T11:13:18Z",
   "link_tried3": true
  },
  {
@@ -452,7 +452,7 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:22Z",
+  "checked_at": "2026-11-01T11:13:20Z",
   "link_tried3": true
  },
  {
@@ -467,7 +467,7 @@
   "pct": null,
   "price": 649.0,
   "found_at": "2026-10-31T22:13:58Z",
-  "checked_at": "2026-11-01T01:56:23Z",
+  "checked_at": "2026-11-01T11:13:21Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154489-nikon-z50-refurb-2-lens-kit-649?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -21162,5 +21162,39 @@
   "source_url": "https://9to5toys.com/2026/11/01/top-10-early-black-friday-deals-now-live-2/",
   "store": "Typekit",
   "checked_at": "2026-11-01T11:07:16Z"
+ },
+ {
+  "id": "63c9999deaffef87",
+  "title": "Pit Viper Polarized & Non Polarized Sunglasses from $40 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Pit+Viper+Polarized+%26+Non+Polarized+Sunglasses+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 40.0,
+  "found_at": "2026-11-01T11:12:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20229960-pit-viper-polarized-non-polarized-sunglasses-from-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google",
+  "checked_at": "2026-11-01T11:12:59Z"
+ },
+ {
+  "id": "1608a865241ee4aa",
+  "title": "Stunning 65″ LG C6 OLED TV drops to its lowest price ever on Amazon - PC Guide",
+  "url": "https://www.amazon.com/s?k=Stunning+65+LG+C6+OLED+TV+drops+to+its+lowest+price+ever+on+Amazon+-+PC+Guide",
+  "why": "Oled — lowest price ever",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T11:12:57Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdy04Y3ViQlZYS3Z4YU15cUJCQWZjMzJ5YUFPdXBhQldMa05pZjlMcFIyZzRPQTdZMHo2SzRpcWdUdmQzSnE3RlRhSjZ2YlpOMm9KYWgwZWZuTnlJQjFGbWtNekF5ekJJZFJOLUxkTXpma2Q3TjYtc0JlRC1TZHRldjViVkpUWlp0U1RMQ2RVUkMtS0ViLTF5UXFtSlEwUQ?oc=5",
+  "store": "Amazon",
+  "checked_at": "2026-11-01T11:12:59Z"
  }
 ]
