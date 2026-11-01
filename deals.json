@@ -2460,7 +2460,8 @@
   "hot": true,
   "pct": null,
   "price": 699.0,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:06:31Z"
  },
  {
   "id": "6f580376b10472b2",
@@ -2473,7 +2474,8 @@
   "hot": false,
   "pct": null,
   "price": 24.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:32Z"
  },
  {
   "id": "32a9ef33235082d9",
@@ -2486,7 +2488,8 @@
   "hot": false,
   "pct": 21,
   "price": null,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:33Z"
  },
  {
   "id": "a8529d73fd2bef20",
@@ -2499,7 +2502,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:33Z"
  },
  {
   "id": "77b2f5a9d7fb2874",
@@ -2512,7 +2516,8 @@
   "hot": false,
   "pct": null,
   "price": 160.84,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:34Z"
  },
  {
   "id": "267758c6d4d7abb2",
@@ -2525,7 +2530,8 @@
   "hot": false,
   "pct": null,
   "price": 176.14,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:35Z"
  },
  {
   "id": "9b5455f8b31e9c6b",
@@ -2538,7 +2544,8 @@
   "hot": false,
   "pct": null,
   "price": 699.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:36Z"
  },
  {
   "id": "542eb3dc9bd83a20",
@@ -2551,7 +2558,8 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:37Z"
  },
  {
   "id": "1e999a653fbaa137",
@@ -2564,7 +2572,8 @@
   "hot": false,
   "pct": null,
   "price": 112.95,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:38Z"
  },
  {
   "id": "c9beae3b13a88b7d",
@@ -2577,7 +2586,8 @@
   "hot": false,
   "pct": null,
   "price": 106.95,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:39Z"
  },
  {
   "id": "3b7083491926a70d",
@@ -2590,7 +2600,8 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:40Z"
  },
  {
   "id": "73d794cf50744629",
@@ -2603,7 +2614,8 @@
   "hot": false,
   "pct": null,
   "price": 300.0,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:40Z"
  },
  {
   "id": "f80f7a5fefc0a7ee",
@@ -2616,7 +2628,8 @@
   "hot": false,
   "pct": null,
   "price": 329.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:41Z"
  },
  {
   "id": "1f7785c8f12f8bf8",
@@ -2629,7 +2642,8 @@
   "hot": false,
   "pct": null,
   "price": 296.08,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:43Z"
  },
  {
   "id": "e900606d040d9261",
@@ -2642,7 +2656,8 @@
   "hot": false,
   "pct": null,
   "price": 242.24,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:06:44Z"
  },
  {
   "id": "b9af13ab077fda70",
@@ -7925,7 +7940,7 @@
  {
   "id": "edc3f9c2de0f5fcc",
   "title": "Best Buy Half-Price (or Better) Deals: At least 50% off everything + free shipping",
-  "url": "https://www.dealnews.com/Best-Buy-Half-Price-or-Better-Deals-At-least-50-off-everything-free-shipping/22330567.html?iref=rss",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+Half-Price+Deals+At+least+50+off+everything+%2B",
   "why": "Monitor — 50% off",
   "category": "tech",
   "source": "DealNews",
@@ -7933,7 +7948,10 @@
   "hot": true,
   "pct": 50,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://www.dealnews.com/Best-Buy-Half-Price-or-Better-Deals-At-least-50-off-everything-free-shipping/22330567.html?iref=rss",
+  "store": "Bestbuy"
  },
  {
   "id": "c05f6c3ab0e25e6e",
@@ -7946,12 +7964,13 @@
   "hot": false,
   "pct": 40,
   "price": 49.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "bfa8e48d207d264c",
   "title": "Woot Open Box Shoe & Apparel Clearance Deals: Up to 70% off + free shipping w/ Prime",
-  "url": "https://www.dealnews.com/Woot-Open-Box-Shoe-Apparel-Clearance-Deals-Up-to-70-off-free-shipping-w-Prime/22315562.html?iref=rss",
+  "url": "https://www.woot.com/search?query=Woot+Open+Box+Shoe+%26+Apparel+Clearance+Deals+Up+to+70+off+%2B+w+Prime",
   "why": "Adidas 70% off",
   "category": "fashion",
   "source": "DealNews",
@@ -7959,7 +7978,10 @@
   "hot": true,
   "pct": 70,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://www.dealnews.com/Woot-Open-Box-Shoe-Apparel-Clearance-Deals-Up-to-70-off-free-shipping-w-Prime/22315562.html?iref=rss",
+  "store": "Woot"
  },
  {
   "id": "5e5a1c73d2b580f7",
@@ -7972,12 +7994,13 @@
   "hot": false,
   "pct": null,
   "price": 24.95,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "7e597854e3598b5d",
   "title": "Citizen Men's AN8194-51L 42mm Two-Tone Stainless Steel Quartz Chronograph Dress Watch (Blue Dial) $160.84 + Free Shipping",
-  "url": "https://slickdeals.net/f/20234673-citizen-men-s-an8194-51l-42mm-two-tone-stainless-steel-quartz-chronograph-dress-watch-blue-dial-160-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+AN8194-51L+42mm+Two-Tone+Stainless+Steel+Quartz+Chronograph+Dress+",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -7985,12 +8008,15 @@
   "hot": false,
   "pct": null,
   "price": 160.84,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234673-citizen-men-s-an8194-51l-42mm-two-tone-stainless-steel-quartz-chronograph-dress-watch-blue-dial-160-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "488544b6867ba9b0",
   "title": "Citizen Men's Eco-Drive Classic 42mm Stainless Steel Bracelet Watch (AW0081-54L) $176.14 + Free Shipping",
-  "url": "https://slickdeals.net/f/20234430-citizen-men-s-eco-drive-classic-42mm-stainless-steel-bracelet-watch-aw0081-54l-176-14-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Classic+42mm+Stainless+Steel+Bracelet+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -7998,12 +8024,15 @@
   "hot": false,
   "pct": null,
   "price": 176.14,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234430-citizen-men-s-eco-drive-classic-42mm-stainless-steel-bracelet-watch-aw0081-54l-176-14-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "e1fd452785f1d1f2",
   "title": "(NEW) Apple Watch Series 11 Smartwatch [GPS + Cellular] - Sleep Score, Fitness Tracker, Health Monitoring, Always-On Display, Water Resistant $338.53",
-  "url": "https://slickdeals.net/f/20232045-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-338-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Apple+Watch+Series+11+Smartwatch+-+Sleep+Score+Fitness+Tracker+Health+Monitoring",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: watch",
@@ -8011,7 +8040,10 @@
   "hot": false,
   "pct": null,
   "price": 338.53,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20232045-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-338-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "a0aeb13094e3c8b1",
@@ -8024,7 +8056,8 @@
   "hot": false,
   "pct": null,
   "price": 95.73,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "b0ebf035656556bd",
@@ -8037,12 +8070,13 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "5ee5ad4882c5905a",
   "title": "Citizen Quartz Mens Watch, Stainless Steel with Leather strap, Casual, Black (Model: BI5000-01A) $112.95",
-  "url": "https://slickdeals.net/f/20231400-citizen-quartz-mens-watch-stainless-steel-with-leather-strap-casual-black-model-bi5000-01a-112-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+with+Leather+strap+Casual+Black",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -8050,12 +8084,15 @@
   "hot": false,
   "pct": null,
   "price": 112.95,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231400-citizen-quartz-mens-watch-stainless-steel-with-leather-strap-casual-black-model-bi5000-01a-112-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "1e490e55ac652037",
   "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic, Silver-Tone (Model: BI1030-53A) $106.95",
-  "url": "https://slickdeals.net/f/20231385-citizen-quartz-mens-watch-stainless-steel-classic-silver-tone-model-bi1030-53a-106-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic+Silver-Tone",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -8063,12 +8100,15 @@
   "hot": false,
   "pct": null,
   "price": 106.95,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231385-citizen-quartz-mens-watch-stainless-steel-classic-silver-tone-model-bi1030-53a-106-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "506f55da4848b0fa",
   "title": "Citizen Analog Black Dial Men's Watch-BI5017-50E $89",
-  "url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5017-50E",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -8076,12 +8116,15 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "a65a783553dc1473",
   "title": "Google Pixel Watch 5 Smartwatch from $300 + Free S&H",
-  "url": "https://slickdeals.net/f/20231271-google-pixel-watch-5-smartwatch-from-300-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Google+Pixel+Watch+5+Smartwatch+from",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: watch",
@@ -8089,7 +8132,10 @@
   "hot": false,
   "pct": null,
   "price": 300.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20231271-google-pixel-watch-5-smartwatch-from-300-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "e518516cd611ff94",
@@ -8102,12 +8148,13 @@
   "hot": false,
   "pct": null,
   "price": 329.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "48fa92524b44b63a",
   "title": "Wild Fable Women's Short Faux Fur Jacket w/ Side Pockets $21 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/20171922-wild-fable-women-s-short-faux-fur-jacket-w-side-pockets-21-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Wild+Fable+Women%27s+Short+Faux+Fur+Jacket+w+Side+Pockets",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Prada",
@@ -8115,7 +8162,10 @@
   "hot": false,
   "pct": null,
   "price": 21.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20171922-wild-fable-women-s-short-faux-fur-jacket-w-side-pockets-21-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "ff3d1fe6cd0b300f",
@@ -8128,7 +8178,8 @@
   "hot": false,
   "pct": 30,
   "price": 59.46,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "74b2008d9f2b632c",
@@ -8141,12 +8192,13 @@
   "hot": false,
   "pct": null,
   "price": 90.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "e134b83c53511510",
   "title": "1.6-Ounce Prada Paradigme Eau de Parfum Rechargeable Spray $81.80 + Free Shipping",
-  "url": "https://slickdeals.net/f/19890237-1-6-ounce-prada-paradigme-eau-de-parfum-rechargeable-spray-81-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=1.6-Ounce+Prada+Paradigme+Eau+de+Parfum+Rechargeable+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -8154,12 +8206,15 @@
   "hot": false,
   "pct": null,
   "price": 81.8,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19890237-1-6-ounce-prada-paradigme-eau-de-parfum-rechargeable-spray-81-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "b60cf3741d1a7fa2",
   "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $87.60 + Free Shipping",
-  "url": "https://slickdeals.net/f/19854645-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-87-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -8167,12 +8222,15 @@
   "hot": false,
   "pct": null,
   "price": 87.6,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19854645-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-87-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "009f37304165615e",
   "title": "Sam's Club: Men's Cologne 3.4-oz Prada Luna Rossa Black Eau De Parfum $68.80 & More + F/S $50+ Plus Members",
-  "url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -8180,12 +8238,15 @@
   "hot": false,
   "pct": null,
   "price": 68.8,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsclub"
  },
  {
   "id": "cf865e5b421d678b",
   "title": "Pixel 11 early Black Friday Doorbuster deals now live at up to $350 off, all Pixel Watch 5 models $100 off",
-  "url": "https://9to5toys.com/2026/10/31/pixel-11-early-black-friday-doorbuster-deals-live-watch-5/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8193,12 +8254,15 @@
   "hot": true,
   "pct": null,
   "price": 350.0,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/31/pixel-11-early-black-friday-doorbuster-deals-live-watch-5/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "1758e96e08f4838b",
   "title": "Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
-  "url": "https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Pixel — all-time low",
   "category": "watches",
   "source": "9to5Toys",
@@ -8206,12 +8270,15 @@
   "hot": true,
   "pct": 25,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "690980bc2d660b75",
   "title": "Friday’s Apple TV deals up to 75% off: Conjuring bundle, Big Lebowski, Fear and Loathing, much more",
-  "url": "https://9to5toys.com/2026/10/30/apple-tv-movie-deals-harold-kumar-go-to-white-castle/",
+  "url": "https://9to5mac-com.videoplayerhub.com",
   "why": "Macbook — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8219,7 +8286,10 @@
   "hot": true,
   "pct": 75,
   "price": null,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://9to5toys.com/2026/10/30/apple-tv-movie-deals-harold-kumar-go-to-white-castle/",
+  "store": "Videoplayerhub"
  },
  {
   "id": "b5e70b6525df36d1",
@@ -8822,7 +8892,7 @@
  {
   "id": "ca51630c80b9b114",
   "title": "Rolex Day-Date 40 Meteorite Diamond Automatic Diamond Men's Watch $124500",
-  "url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -8830,12 +8900,15 @@
   "hot": false,
   "pct": null,
   "price": 124.0,
-  "found_at": "2026-11-01T00:09:49Z"
+  "found_at": "2026-11-01T00:09:49Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "b4dd93b59ee85d70",
   "title": "BULOVA Super Seville 262 kHz sweeper Blue Dial Item No. 96B440 $379 @JOMASHOP",
-  "url": "https://slickdeals.net/f/20068209-bulova-super-seville-262-khz-sweeper-blue-dial-item-no-96b440-379-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=BULOVA+Super+Seville+262+kHz+sweeper+Blue+Dial+Item+No.+96B440",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -8843,12 +8916,15 @@
   "hot": false,
   "pct": null,
   "price": 379.0,
-  "found_at": "2026-11-01T00:09:49Z"
+  "found_at": "2026-11-01T00:09:49Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20068209-bulova-super-seville-262-khz-sweeper-blue-dial-item-no-96b440-379-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "3286c4bace3a2773",
   "title": "Datejust 41 Blue Dial Stainless Steel Men's Watch 126300BLSO Item No. M126300-0001",
-  "url": "https://slickdeals.net/f/19976469-datejust-41-blue-dial-stainless-steel-men-s-watch-126300blso-item-no-m126300-0001?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Datejust+41+Blue+Dial+Stainless+Steel+Men%27s+Watch+126300BLSO+Item+No.+M126300-00",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -8856,12 +8932,15 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:09:49Z"
+  "found_at": "2026-11-01T00:09:49Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19976469-datejust-41-blue-dial-stainless-steel-men-s-watch-126300blso-item-no-m126300-0001?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "20f520485dc10848",
   "title": "Rolex Datejust Boiler Dial Gold & Steel 36mm Automatic Men’s Watch $6495",
-  "url": "https://slickdeals.net/f/19974882-rolex-datejust-boiler-dial-gold-steel-36mm-automatic-men-s-watch-6495?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Rolex+Datejust+Boiler+Dial+Gold+%26+Steel+36mm+Automatic+Men+s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -8869,7 +8948,10 @@
   "hot": false,
   "pct": null,
   "price": 649.0,
-  "found_at": "2026-11-01T00:09:49Z"
+  "found_at": "2026-11-01T00:09:49Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19974882-rolex-datejust-boiler-dial-gold-steel-36mm-automatic-men-s-watch-6495?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "8a347d76666f4837",
@@ -8882,7 +8964,8 @@
   "hot": true,
   "pct": null,
   "price": 1.99,
-  "found_at": "2026-11-01T00:09:49Z"
+  "found_at": "2026-11-01T00:09:49Z",
+  "link_tried2": true
  },
  {
   "id": "a2d212deee549176",
@@ -9275,12 +9358,13 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true
  },
  {
   "id": "5446cdc05672ec33",
   "title": "Bose QC SC over ear headphones YMMV @Costco",
-  "url": "https://slickdeals.net/f/20194647-bose-qc-sc-over-ear-headphones-ymmv-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Bose+QC+SC+over+ear+headphones+Costco",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9288,7 +9372,10 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20194647-bose-qc-sc-over-ear-headphones-ymmv-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "79de3e1f1cc72225",
@@ -9301,12 +9388,13 @@
   "hot": false,
   "pct": null,
   "price": 279.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true
  },
  {
   "id": "bcf256a83c228134",
   "title": "Comply Premium Memory Foam Replacement Ear Pads for Bose QuietComfort Ultra Gen 1 & 2 Headphones | $4.99 w/ Free Ship from Woot using Prime",
-  "url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9314,7 +9402,10 @@
   "hot": false,
   "pct": null,
   "price": 4.99,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "4dd503e4302b7f49",
@@ -9327,7 +9418,8 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true
  },
  {
   "id": "839456d831c6b7b0",
@@ -9340,12 +9432,13 @@
   "hot": false,
   "pct": null,
   "price": 123.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true
  },
  {
   "id": "6e55ef14ea99ab4c",
   "title": "Bose QuietComfort Ultra Headphones Gen2 $369.99 Black or White plus $70 Gift Card Free Shipping Costco.com",
-  "url": "https://slickdeals.net/f/20140035-bose-quietcomfort-ultra-headphones-gen2-369-99-black-or-white-plus-70-gift-card-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Bose+QuietComfort+Ultra+Headphones+Gen2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9353,7 +9446,10 @@
   "hot": false,
   "pct": null,
   "price": 369.99,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20140035-bose-quietcomfort-ultra-headphones-gen2-369-99-black-or-white-plus-70-gift-card-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "9a9ca5a0089f328d",
@@ -9366,7 +9462,8 @@
   "hot": false,
   "pct": 20,
   "price": 8.79,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true
  },
  {
   "id": "bee7053d2281723e",
@@ -9379,7 +9476,8 @@
   "hot": false,
   "pct": null,
   "price": 199.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true
  },
  {
   "id": "c3e85c7a32ebfb04",
@@ -9392,12 +9490,13 @@
   "hot": false,
   "pct": null,
   "price": 105.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true
  },
  {
   "id": "c5d3da41e28180b7",
   "title": "ACEMAGIC M5 Mini PC Core 5 220H (Beats 13500H) 16GB 512GB up to 4.9GHZ $494.45",
-  "url": "https://slickdeals.net/f/20228616-acemagic-m5-mini-pc-core-5-220h-beats-13500h-16gb-512gb-up-to-4-9ghz-494-45?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=ACEMAGIC+M5+Mini+PC+Core+5+220H+16GB+512GB+up+to+4.9GHZ",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Beats",
@@ -9405,7 +9504,10 @@
   "hot": false,
   "pct": 12,
   "price": 494.45,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20228616-acemagic-m5-mini-pc-core-5-220h-beats-13500h-16gb-512gb-up-to-4-9ghz-494-45?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "85e005ca4d62c651",
@@ -10931,5 +11033,21 @@
   "price": 44.99,
   "found_at": "2026-11-01T02:59:17Z",
   "link_tried2": true
+ },
+ {
+  "id": "980a6514f5a3d9e9",
+  "title": "Cate & Chloe 18k White or Yellow Gold Plated Mom Necklace $16.20 ac on Walmart.com FS Walmart+",
+  "url": "https://www.walmart.com/search?q=Cate+%26+Chloe+18k+White+or+Yellow+Gold+Plated+Mom+Necklace",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 16.2,
+  "found_at": "2026-11-01T03:05:42Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19431000-cate-chloe-18k-white-or-yellow-gold-plated-mom-necklace-16-20-ac-on-walmart-com-fs-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  }
 ]
