@@ -20463,7 +20463,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-01T09:48:11Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:39:31Z"
  },
  {
   "id": "fb037fab9d89fd57",
@@ -20479,7 +20480,8 @@
   "found_at": "2026-11-01T09:53:55Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:39:32Z"
  },
  {
   "id": "c5f8211fa317a4eb",
@@ -20495,7 +20497,8 @@
   "found_at": "2026-11-01T09:59:39Z",
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/DTIRD-AI-Smart-Sunglasses-for-23-free-shipping-w-35/22290903.html?iref=rss",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:39:32Z"
  },
  {
   "id": "6946b74c857c0183",
@@ -20511,7 +20514,8 @@
   "found_at": "2026-11-01T09:59:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19493613-20-cash-back-on-sephora-with-paypal-pay-later?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Sephora"
+  "store": "Sephora",
+  "checked_at": "2026-11-01T10:39:34Z"
  },
  {
   "id": "56b88083c4b7550b",
@@ -20524,7 +20528,8 @@
   "hot": false,
   "pct": null,
   "price": 11.99,
-  "found_at": "2026-11-01T09:59:39Z"
+  "found_at": "2026-11-01T09:59:39Z",
+  "checked_at": "2026-11-01T10:39:34Z"
  },
  {
   "id": "cb16ca36775576a5",
@@ -20537,7 +20542,8 @@
   "hot": false,
   "pct": null,
   "price": 337.5,
-  "found_at": "2026-11-01T09:59:39Z"
+  "found_at": "2026-11-01T09:59:39Z",
+  "checked_at": "2026-11-01T10:39:34Z"
  },
  {
   "id": "e61701ee35e536da",
@@ -20550,7 +20556,8 @@
   "hot": false,
   "pct": null,
   "price": 329.99,
-  "found_at": "2026-11-01T09:59:39Z"
+  "found_at": "2026-11-01T09:59:39Z",
+  "checked_at": "2026-11-01T10:39:34Z"
  },
  {
   "id": "0ebf1762e5cebbe9",
@@ -20566,7 +20573,8 @@
   "found_at": "2026-11-01T10:10:33Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235813-16-99-spigen-dual-grip-for-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T10:39:35Z"
  },
  {
   "id": "89420ae062d71c7b",
@@ -20582,7 +20590,8 @@
   "found_at": "2026-11-01T10:10:33Z",
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/Refurb-Apple-iPhone-Apple-Watch-Deals-at-Woot-for-From-75-free-shipping-w-Prime/22318361.html?iref=rss",
-  "store": "Woot"
+  "store": "Woot",
+  "checked_at": "2026-11-01T10:39:35Z"
  },
  {
   "id": "69b8f1f4b5f20203",
@@ -20596,7 +20605,8 @@
   "pct": null,
   "price": 237.03,
   "found_at": "2026-11-01T10:16:08Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:39:36Z"
  },
  {
   "id": "6628ce3eb2689e2f",
@@ -20610,7 +20620,8 @@
   "pct": null,
   "price": 16.99,
   "found_at": "2026-11-01T10:16:08Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T10:39:37Z"
  },
  {
   "id": "f3bbd02323ef4e94",
@@ -20626,7 +20637,8 @@
   "found_at": "2026-11-01T10:16:08Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19741938-allen-edmonds-men-s-carlyle-oxford-black-9-d-340-41?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T10:39:38Z"
  },
  {
   "id": "cdbedecfac74f05a",
@@ -20642,7 +20654,8 @@
   "found_at": "2026-11-01T10:21:36Z",
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/Apple-iPhone-16-Silicone-Case-w-Mag-Safe-for-25-free-shipping-w-Prime/22332846.html?iref=rss",
-  "store": "Apple"
+  "store": "Apple",
+  "checked_at": "2026-11-01T10:39:38Z"
  },
  {
   "id": "8344a6dceb6bb0bb",
@@ -20658,7 +20671,8 @@
   "found_at": "2026-11-01T10:21:36Z",
   "link_tried3": true,
   "source_url": "https://camelcamelcamel.com/product/366247705X",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T10:39:38Z"
  },
  {
   "id": "48e3262c079d3256",
@@ -20674,12 +20688,13 @@
   "found_at": "2026-11-01T10:33:32Z",
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/Refurb-Apple-Outlet-at-Best-Buy-Up-to-81-off-free-shipping/22304514.html?iref=rss",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-01T10:39:38Z"
  },
  {
   "id": "e835358c6c8a8ceb",
   "title": "Polo Ralph Lauren Men's Classic-Fit Cotton Polo Shirt for $40 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Classic-Fit+Cotton+Polo+Shirt+for",
+  "url": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Classic-Fit-Cotton-Polo-Shirt-for-40-free-shipping/22302542.html?iref=rss",
   "why": "",
   "category": "fashion",
   "source": "DealNews",
@@ -20695,7 +20710,7 @@
  {
   "id": "aea0ced96cccf3b8",
   "title": "Cool Basketball Pixel Art Black Gift For Boys or Girls - down 14.98% ($2.24) to $12.71 from $14.95",
-  "url": "https://www.google.com/search?tbm=shop&q=Cool+Basketball+Pixel+Art+Black+Gift+For+Boys+or+Girls+-+down+14.98",
+  "url": "https://camelcamelcamel.com/product/B07G6KNQ73",
   "why": "",
   "category": "tech",
   "source": "camelcamelcamel Amazon drops",
@@ -20711,7 +20726,7 @@
  {
   "id": "666935a40fe2185b",
   "title": "Alaska Air: Seattle / Las Vegas / Los Angeles / New York / Phoenix / Portland / Sacramento / San Diego / San Francisco – Tokyo / Osaka, Japan. Starting $195 (Basic Economy) / $355 (Regular Economy). Roundtrip, including all Taxes",
-  "url": "https://www.google.com/travel/flights?q=Flights%20Alaska%20Air%3A%20Seattle%20/%20Las%20Vegas%20/%20Los%20Angeles%20/%20New%20York%20/%20Phoenix%20/%20Portland%20/%20Sacramento%20/%20San%20Diego%20/%20San%20Francisco%20%E2%80%93%20Tokyo%20/%20Osaka%2C%20Japan.%20Starting",
+  "url": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
   "why": "$195 from NEW YORK",
   "category": "flights",
   "source": "The Flight Deal",
@@ -20727,7 +20742,7 @@
  {
   "id": "5e6bf377774fb23e",
   "title": "Allen Edmonds Summer Warehouse Sale Save up to 70% Off",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Summer+Warehouse+Save+up+to+70+Off",
+  "url": "https://slickdeals.net/f/19725162-allen-edmonds-summer-warehouse-sale-save-up-to-70-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Allen Edmonds 70% off",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20743,7 +20758,7 @@
  {
   "id": "0c0b70d55bec0f66",
   "title": "Allen Edmonds Shoe Bank Extra 20% Off Sale",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Shoe+Bank+Extra+20+Off",
+  "url": "https://slickdeals.net/f/19547877-allen-edmonds-shoe-bank-extra-20-off-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20787,7 +20802,7 @@
  {
   "id": "a2dd9d7b8be82569",
   "title": "Amex Offer: Allen Edmonds: Earn $50 When You Spend $250+ (expires 3/29) YMMV",
-  "url": "https://www.google.com/search?tbm=shop&q=Amex+Offer+Allen+Edmonds+Earn",
+  "url": "https://slickdeals.net/f/19219933-amex-offer-allen-edmonds-earn-50-when-you-spend-250-expires-3-29-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20803,7 +20818,7 @@
  {
   "id": "d691d26eccefb891",
   "title": "Allen Edmonds Suede Carson Hybrid Chukka in Brown or Blue $97.48",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Suede+Carson+Hybrid+Chukka+in+Brown+or+Blue",
+  "url": "https://slickdeals.net/f/19106728-allen-edmonds-suede-carson-hybrid-chukka-in-brown-or-blue-97-48?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20819,7 +20834,7 @@
  {
   "id": "2b063ebd480bd8f0",
   "title": "Barbour Prestbury Waxed Cotton Jacket Olive Green Size Small $216.97 AllenEdmonds.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Barbour+Prestbury+Waxed+Cotton+Jacket+Olive+Green+Size+Small",
+  "url": "https://slickdeals.net/f/19102225-barbour-prestbury-waxed-cotton-jacket-olive-green-size-small-216-97-allenedmonds-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20835,7 +20850,7 @@
  {
   "id": "c1710e396443eafe",
   "title": "Barbour Chelsea Quilted Jacket Navy $141.97 AllenEdmonds.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Barbour+Chelsea+Quilted+Jacket+Navy",
+  "url": "https://slickdeals.net/f/19102207-barbour-chelsea-quilted-jacket-navy-141-97-allenedmonds-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20851,7 +20866,7 @@
  {
   "id": "604bdeb2776ed53a",
   "title": "Allen Edmonds Carson Lace-up Hybrid Wingtip Oxford (4 colors) $97.48 Final Sale",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Carson+Lace-up+Hybrid+Wingtip+Oxford",
+  "url": "https://slickdeals.net/f/19098289-allen-edmonds-carson-lace-up-hybrid-wingtip-oxford-4-colors-97-48-final-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20867,7 +20882,7 @@
  {
   "id": "ac82977671c9002a",
   "title": "Allen Edmonds Shoe Bank Factory Seconds Sale Extra 25% Off",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Shoe+Bank+Factory+Seconds+Extra+25+Off",
+  "url": "https://slickdeals.net/f/19087735-allen-edmonds-shoe-bank-factory-seconds-sale-extra-25-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20883,7 +20898,7 @@
  {
   "id": "d39cfc7b7ef794e7",
   "title": "Allen Edmonds Fifth Avenue Cap-toe Oxford Dress Shoe $269 less 10% off (new Signup) = $242 less $50 AMEX PROMO ( Spend $250 earn $50 back) Final Price $192 plus tax",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Fifth+Avenue+Cap-toe+Oxford+Dress+Shoe",
+  "url": "https://slickdeals.net/f/18944170-allen-edmonds-fifth-avenue-cap-toe-oxford-dress-shoe-269-less-10-off-new-signup-242-less-50-amex-promo-spend-250-earn-50-back-final-price-192-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20899,7 +20914,7 @@
  {
   "id": "9b82e6d82da8ed5d",
   "title": "Allen Edmonds Cyber Monday Sale Extra 25% Off Sale Price Use Code CYBER",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Cyber+Monday+Extra+25+Off+Price+Use+Code+CYBER",
+  "url": "https://slickdeals.net/f/18914059-allen-edmonds-cyber-monday-sale-extra-25-off-sale-price-use-code-cyber?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20915,7 +20930,7 @@
  {
   "id": "e8e1dc76cf612fcb",
   "title": "Amex Offer: Allen Edmonds: Earn $50 When You Spend $250+ (expires 12/24) YMMV",
-  "url": "https://www.google.com/search?tbm=shop&q=Amex+Offer+Allen+Edmonds+Earn",
+  "url": "https://slickdeals.net/f/18763813-amex-offer-allen-edmonds-earn-50-when-you-spend-250-expires-12-24-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20931,7 +20946,7 @@
  {
   "id": "b4c796eab29c5d2b",
   "title": "Allen Edmonds Verona II Italian Bit Loafer (Walnut Brown Leather) $200 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Verona+II+Italian+Bit+Loafer",
+  "url": "https://slickdeals.net/f/18306346-allen-edmonds-verona-ii-italian-bit-loafer-walnut-brown-leather-200-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20947,7 +20962,7 @@
  {
   "id": "1e189b0602f71f33",
   "title": "Allen Edmonds Miles Boat Shoe $69.97 Clearance Final Sale Two Colors/Most Sizes Available",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Miles+Boat+Shoe",
+  "url": "https://slickdeals.net/f/18057483-allen-edmonds-miles-boat-shoe-69-97-clearance-final-sale-two-colors-most-sizes-available?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20963,7 +20978,7 @@
  {
   "id": "e6017c660e6dc146",
   "title": "Allen Edmonds up to 50% off Black Friday Sale",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+up+to+50+off+Black+Friday",
+  "url": "https://slickdeals.net/f/17931810-allen-edmonds-up-to-50-off-black-friday-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Allen Edmonds 50% off",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20979,7 +20994,7 @@
  {
   "id": "5fc866ebb30636d6",
   "title": "Allen Edmonds Strand Leather Oxfords (black) - $166.40 in cart",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Strand+Leather+Oxfords+-",
+  "url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -20995,7 +21010,7 @@
  {
   "id": "770ed84fcf49fe2f",
   "title": "Neiman Marcus: Allen Edmonds Park Avenue Leather Oxford Shoes - Walnut color $166.38",
-  "url": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+Allen+Edmonds+Park+Avenue+Leather+Oxford+Shoes+-+Walnut+color",
+  "url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
@@ -21011,7 +21026,7 @@
  {
   "id": "dde59d55c8a2dbd4",
   "title": "Allen Edmonds Men's Shoes: Round Toe Oxford $119.99, Hendrix Leather Brogue Oxfords $149.99, Eli Leather Penny Loafers $149.99, More + Free Shipping on $99+",
-  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Men%27s+Shoes+Round+Toe+Oxford",
+  "url": "https://slickdeals.net/f/17339421-allen-edmonds-men-s-shoes-round-toe-oxford-119-99-hendrix-leather-brogue-oxfords-149-99-eli-leather-penny-loafers-149-99-more-free-shipping-on-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Allen Edmonds",
