@@ -126,6 +126,33 @@ def apply_requests(watches, reqs):
 
 
 SEARCHES = []
+AUTO_PER_SCAN = 12
+BRANDS = ["Rolex", "Breitling", "Omega", "Tudor", "Cartier", "TAG Heuer", "IWC", "Valentino", "Gucci", "Prada",
+          "Saint Laurent", "Bottega Veneta", "Ferragamo", "Balenciaga", "Burberry", "Tom Ford", "Moncler",
+          "Canada Goose", "Golden Goose", "Loro Piana", "Brunello Cucinelli", "Louboutin", "Versace", "Fendi",
+          "Givenchy", "Dior", "Chanel", "Hermes", "Celine", "Loewe", "Montblanc", "Stone Island", "Amiri",
+          "Common Projects", "Ralph Lauren", "UGG", "Birkenstock", "Allen Edmonds", "On Cloud", "Hoka",
+          "Ray-Ban", "Oakley", "Persol", "Oliver Peoples", "Maui Jim", "Lululemon", "Alo Yoga", "Creed",
+          "Parfums de Marly", "Le Labo", "Byredo", "Maison Francis Kurkdjian", "Xerjoff", "Kilian"]
+TECH = ["AirPods Pro", "AirPods Max", "iPhone", "iPad Pro", "MacBook Air", "MacBook Pro", "Apple Watch Ultra",
+        "Beats", "JBL", "Sony WH-1000XM", "Bose QuietComfort", "Sonos", "PS5 Pro", "PlayStation 5", "Xbox Series X",
+        "Nintendo Switch 2", "DualSense", "Ray-Ban Meta", "LG OLED", "Sony Bravia OLED", "Samsung Galaxy S",
+        "Dyson", "DJI", "GoPro", "Garmin", "Trek bike", "Specialized bike", "Lectric e-bike", "Aventon e-bike"]
+TRIPS = ["St Maarten", "Turks and Caicos", "Aruba", "Punta Cana", "Jamaica", "Bahamas", "Puerto Rico", "Cancun",
+         "St Lucia", "Barbados", "Curacao", "Costa Rica", "Hawaii", "Cayman Islands", "Virgin Islands"]
+
+
+def auto_queries():
+    q = []
+    for b in BRANDS:
+        q += [f"{b} sale", f"{b} price drop"]
+    for t in TECH:
+        q += [f"{t} deal", f"{t} record low"]
+    for t in TRIPS:
+        q += [f"New York to {t} flight deal"]
+    q += ["designer sale extra off", "luxury watch price drop", "error fare New York", "lululemon we made too much",
+          "Nordstrom designer sale", "Saks designer sale", "Woot Apple deal", "Costco watch deal"]
+    return q
 
 
 def run_searches(state):
@@ -140,8 +167,11 @@ def run_searches(state):
         uniq.setdefault(x["q"].lower(), x)
     state["searches"] = list(uniq.values())[-60:]
     todo = sorted(state["searches"], key=lambda x: x.get("last", ""))[:8]
-    if not todo:
-        return 0
+    allq = auto_queries()   # plus a never-ending rotation through every brand, gadget and trip
+    i = int(state.get("auto_i", 0)) % len(allq)
+    auto = [{"q": allq[(i + k) % len(allq)], "auto": True} for k in range(AUTO_PER_SCAN)]
+    state["auto_i"] = (i + AUTO_PER_SCAN) % len(allq)
+    todo = todo + auto
     deals = wload(DEALS, [])
     have = {d["id"] for d in deals}
     added = 0
@@ -149,15 +179,22 @@ def run_searches(state):
         q = urllib.parse.quote_plus(" ".join(words(x["q"])))
         items = []
         for url in (f"https://slickdeals.net/newsearch.php?q={q}&searcharea=deals&searchin=first&rss=1",
-                    f"https://news.google.com/rss/search?q={q}+deal+OR+sale+when:14d&hl=en-US&gl=US&ceid=US%3Aen"):
+                    f"https://news.google.com/rss/search?q={q}+when:7d&hl=en-US&gl=US&ceid=US%3Aen",
+                    f"https://www.bing.com/news/search?q={q}&format=rss&qft=interval%3d%228%22"):
             try:
                 items += parse_feed(fetch(url))
             except Exception as e:
                 print("WARN search feed", e)
+        need = x["q"]
+        if x.get("auto"):
+            need = re.sub(r"(?i)\b(sale|price drop|deal|record low|flight deal|extra off)\b", "", need).strip()
+            need = re.sub(r"(?i)^new york to ", "", need)
         for it in items[:25]:
             t = it["title"]
-            if not matches(t, x["q"]) or not re.search(r"\$\s?\d|\d+%\s*off", t, re.I):
+            if not matches(t, need) or not re.search(r"\$\s?\d|\d+%\s*off", t, re.I):
                 continue
+            if x.get("auto") and re.search(r"(?i)\b(best|top \d+|\d+ best|review|vs\.?|how to|guide|stock|shares|earnings|lawsuit)\b", t):
+                continue   # articles, not deals
             if any(re.search(r"(?<![a-z0-9])" + re.escape(j) + r"(?![a-z0-9])", t.lower()) for j in junk):
                 continue
             did = hashlib.sha1(("search|" + it["id"]).encode()).hexdigest()[:16]
@@ -165,12 +202,13 @@ def run_searches(state):
                 continue
             have.add(did)
             full = f"{t} {it['text']}"
-            deals.append({"id": did, "title": t, "url": it["link"], "why": f"Found for your search “{x['q']}”",
+            deals.append({"id": did, "title": t, "url": it["link"], "why": "" if x.get("auto") else f"Found for your search “{x['q']}”",
                           "category": guess_category(full, {"category": "everything"}, cfg),
-                          "source": "Search: " + x["q"], "urgent": False, "hot": False,
+                          "source": ("Web search: " if x.get("auto") else "Search: ") + x["q"], "urgent": False, "hot": False,
                           "pct": max_percent_off(full) or None, "price": first_price(t), "found_at": now_iso()})
             added += 1
-        x["last"] = now_iso()
+        if not x.get("auto"):
+            x["last"] = now_iso()
     if added:
         with open(DEALS, "w", encoding="utf-8") as f:
             json.dump(deals[-2000:], f, indent=1, ensure_ascii=False)

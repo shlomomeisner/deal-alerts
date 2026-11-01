@@ -99,6 +99,8 @@ button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer}
 .fdates{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px;color:var(--muted);margin-top:-2px}
 .fdates b{color:var(--ink);font-weight:700}
 .more{display:block;width:100%;margin-top:6px;font:700 15px var(--body);padding:15px;border-radius:14px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.top .src{font-size:12.5px;color:var(--muted);margin-left:auto;margin-right:10px;text-underline-offset:3px}
+.top .src+.when{margin-left:0}
 .deal{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px;position:relative;min-width:0;transition:transform .15s,box-shadow .15s}
 @media (hover:hover){.deal:hover{transform:translateY(-2px);box-shadow:0 10px 26px -14px color-mix(in srgb,var(--ink) 35%,transparent)}}
 .deal.urgent{border-color:color-mix(in srgb,var(--urgent) 55%,var(--line))}
@@ -236,7 +238,7 @@ const hiddenSet=()=>new Set(mine.hidden);
 const live=()=>{const h=hiddenSet();return deals.filter(d=>!h.has(d.id))};
 // Kept items show the latest version of the deal (e.g. updated links); if the hunter removed it as expired, it stays here marked "Ended".
 const keptList=()=>{const byId=new Map(deals.map(d=>[d.id,d]));return Object.values(mine.kept).map(k=>{const cur=byId.get(k.id);return cur?{...k,...cur}:{...k,ended:dealsLoaded}}).sort((a,b)=>String(b.kept_at||b.found_at).localeCompare(String(a.kept_at||a.found_at)))};
-const recent=d=>Date.now()-new Date(d.found_at)<86400000;
+const recent=d=>{const m=new Date();m.setHours(0,0,0,0);return new Date(d.found_at)>=m};
 
 function toggleKeep(d){
   if(isKept(d.id)){delete mine.kept[d.id];toast("Removed from Kept")}
@@ -252,6 +254,25 @@ function rail(){
     b.setAttribute("aria-pressed",c===cat);b.innerHTML=`${svg(c)}${l}<span class="n">${count(c)}</span>`;
     b.onclick=()=>{cat=c;saveLocal();render()};return b}));
 }
+const SHOPNAME={"amazon.com":"Amazon","walmart.com":"Walmart","bestbuy.com":"Best Buy","target.com":"Target","costco.com":"Costco","woot.com":"Woot","ebay.com":"eBay","macys.com":"Macy's","nordstromrack.com":"Nordstrom Rack","nordstrom.com":"Nordstrom","sephora.com":"Sephora","ulta.com":"Ulta","jomashop.com":"Jomashop","bhphotovideo.com":"B&H","newegg.com":"Newegg","kohls.com":"Kohl's","samsclub.com":"Sam's Club","gamestop.com":"GameStop","apple.com":"Apple","samsung.com":"Samsung","zappos.com":"Zappos","saksfifthavenue.com":"Saks","mrporter.com":"Mr Porter","farfetch.com":"Farfetch","ssense.com":"SSENSE","lyst.com":"Lyst","nike.com":"Nike","rei.com":"REI","shop.lululemon.com":"lululemon","aloyoga.com":"Alo","bloomingdales.com":"Bloomingdale's","touchofmodern.com":"Touch of Modern","gilt.com":"Gilt","bobswatches.com":"Bob's Watches","chrono24.com":"Chrono24"};
+function linkKind(d){   // be honest about where the button goes
+  let u;try{u=new URL(d.url)}catch(e){return {label:"Open deal",store:""}}
+  const h=u.hostname.replace(/^www\./,"");
+  if(d.category==="flights")return {label:"Find tickets",store:""};
+  if(h==="google.com"&&/tbm=shop/.test(u.search))return {label:"Compare prices",store:"",search:true};
+  if(h==="google.com")return {label:"Search store",store:(/site%3A([a-z.]+)|site:([a-z.]+)/i.exec(d.url)||[]).slice(1).filter(Boolean)[0]||"",search:true};
+  const name=Object.keys(SHOPNAME).find(k=>h===k||h.endsWith("."+k));
+  const store=name?SHOPNAME[name]:h.split(".").slice(-2,-1)[0].replace(/^./,c=>c.toUpperCase());
+  const isSearch=/search|\/s\?|\/s\/|\/sr\?|[?&](q|k|st|keyword|searchTerm|_nkw|term|Ntt|d)=|\/featured\/|CatalogSearch/i.test(u.pathname+u.search);
+  return isSearch?{label:"Find at "+store,store,search:true}:{label:"Open at "+store,store};
+}
+function cleanTitle(t){
+  return String(t||"").replace(/^\[[^\]]{1,25}\]\s*/,"").replace(/^\$[\d,.]+\*?\s*[|:]\s*/,"").replace(/^(ymmv|targeted|select accounts|prime members)\s*:\s*/i,"")
+   .replace(/\s*[+&]\s*(free shipping|fs|free s\/h|free store pickup)\b.*$/i,"").replace(/\s*[-\u2013]\s*(the flight deal|secret flying|slickdeals).*$/i,"")
+   .replace(/\s+(at|@)\s+[A-Z][\w'&.]*(\.com)?!?\s*$/,"").replace(/\s+[A-Z][a-z]+\.com\s*$/,"").replace(/\s{2,}/g," ").trim();
+}
+function titlePrice(t){const m=/\$\s?((?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d{1,2})?)/.exec(String(t||""));return m?parseFloat(m[1].replace(/,/g,"")):null}
+function wasPrice(t){const m=/\b(?:reg\.?|regularly|was|list|retail|msrp|orig\.?)\s*:?\s*\$\s?((?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d{1,2})?)/i.exec(String(t||""));return m?parseFloat(m[1].replace(/,/g,"")):null}
 function priceHTML(d,cls){
   const p=pctOf(d);
   if(d.price==null&&d.was==null&&!p)return"";
@@ -274,20 +295,21 @@ function card(d){
   el.className="deal"+(d.urgent?" urgent":"")+(d.ended?" ended":"")+(d.tropical?" trop":"");
   el.innerHTML=`<div class="top"><span class="cat">${svg(d.category||"everything")}</span><span class="store"></span>${d.ended?'<span class="flag gone">Ended</span>':d.urgent?'<span class="flag">Price error</span>':myWatch(d)?'<span class="flag watch">🎯 Your watch</span>':""}<span class="when">${ago(d.found_at)}</span></div>
   ${d.route?`<div class="route"><span class="code">${esc(d.route.from)}</span><span class="line"><i></i>${svg("flights",' width="18" height="18"')}<i></i></span><span class="dest">${esc(d.route.to.split(",")[0])}${d.route.to.includes(",")?`<small>${esc(d.route.to.split(",").slice(1).join(",").trim())}</small>`:""}</span>${d.tropical?'<span class="palm">🌴 Tropical</span>':""}</div>`:""}
-  ${d.category==="flights"&&(d.depart||d.window)?`<div class="fdates">${d.depart?`<span>📅 <b>${esc(fmtTrip(d.depart,d.return))}</b> sample dates</span>`:""}${d.window?`<span>🗓 Travel ${esc(d.window)}</span>`:""}</div>`:""}
+  ${d.category==="flights"&&(d.depart||d.window)?`<div class="fdates">${d.depart?`<span>📅 <b>${esc(fmtTrip(d.depart,d.return))}</b> ${d.picked?"dates inside the deal window":"sample dates"}</span>`:""}${d.window?`<span>🗓 Travel ${esc(d.window)}</span>`:""}</div>`:""}
   <div class="title"><a target="_blank" rel="noopener"></a></div>
   <div class="why"></div>
   ${priceHTML(d,"pricebar")}
-  <div class="actions"><a class="open" target="_blank" rel="noopener">${d.category==="flights"?"Find tickets":"Open deal"} ${svg("arrow",' width="15" height="15"')}</a></div>`;
-  el.querySelector(".store").textContent=d.store||d.source||label(d.category||"everything");
-  const a=el.querySelector(".title a");a.textContent=d.title||"Deal";a.href=d.url||"#";
+  <div class="actions"><a class="open" target="_blank" rel="noopener">${esc(linkKind(d).label)} ${svg("arrow",' width="15" height="15"')}</a></div>`;
+  const lk=linkKind(d),st=(d.store&&!/^google$/i.test(d.store)?d.store:"")||lk.store||(/(?:\bat|@)\s+([A-Z][\w'&.]+(?:\s[A-Z][\w'&.]+)?)/.exec(d.title||"")||[])[1]||label(d.category||"everything");
+  el.querySelector(".store").textContent=st.replace(/\.com$/i,"");
+  const a=el.querySelector(".title a");a.textContent=cleanTitle(d.title)||d.title||"Deal";a.href=d.url||"#";
   el.querySelector(".open").href=d.url||"#";
-  const w=el.querySelector(".why");w.textContent=d.why||"";w.hidden=!d.why||!!d.route;
+  const w=el.querySelector(".why");w.textContent=d.why||"";w.hidden=!d.why||d.category==="flights";
   const act=el.querySelector(".actions");
   act.append(keepBtn(d));
   if(cat!=="kept"&&canClear&&dbRef)act.append(soldBtn(d));
   if(cat!=="kept"){const h=document.createElement("button");h.type="button";h.className="btn ghost hide";h.setAttribute("aria-label","Hide this deal");h.innerHTML=svg("x");h.onclick=()=>hide(d);act.append(h)}
-  if(d.source_url){const s=document.createElement("a");s.className="src";s.target="_blank";s.rel="noopener";s.href=d.source_url;s.textContent="Deal post";act.append(s)}
+  if(d.source_url){const s=document.createElement("a");s.className="src";s.target="_blank";s.rel="noopener";s.href=d.source_url;s.textContent="Source";const top=el.querySelector(".top");top.insertBefore(s,top.querySelector(".when"))}
   return el;
 }
 function spotlight(){
@@ -301,7 +323,7 @@ function spotlight(){
   <h2><a target="_blank" rel="noopener"></a></h2>
   <div class="big">${p?`<span class="pct">−${p}%</span>`:""}${best.price!=null?`<span class="now">${money(best.price)}</span>`:""}${best.was!=null?`<span class="was">${money(best.was)}</span>`:""}</div>
   <div class="sub"></div>
-  <div class="go"><a class="open" target="_blank" rel="noopener">${best.category==="flights"?"Find tickets":"Open deal"} ${svg("arrow",' width="15" height="15"')}</a></div>`;
+  <div class="go"><a class="open" target="_blank" rel="noopener">${esc(linkKind(best).label)} ${svg("arrow",' width="15" height="15"')}</a></div>`;
   const a=s.querySelector("h2 a");a.textContent=best.title||"Deal";a.href=best.url||"#";
   s.querySelector(".open").href=best.url||"#";
   s.querySelector(".sub").textContent=[best.store,best.why].filter(Boolean).join(" · ");
@@ -411,9 +433,33 @@ function routeOf(title){
   to=to.replace(/^([A-Z][a-z]+(?: [A-Z][a-z]+)*) (Japan|France|Italy|Spain|Mexico|Brazil|Greece|Portugal|Germany|Ireland|Iceland|Thailand|Colombia|Peru|Chile|Argentina|Morocco|Turkey|Egypt|India|China|Korea|Vietnam|Australia)$/,"$1, $2");
   return {from:{jfk:"JFK",ewr:"EWR",lga:"LGA",newark:"EWR"}[from.toLowerCase()]||"NYC",to};
 }
+const MONS=["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"];
+const iso=dt=>dt.toISOString().slice(0,10);
+function windowDates(d){   // no sample dates: pick a mid-week trip inside the deal's travel window
+  const txt=(d.window||"")+" "+(d.title||"");
+  const now=new Date(),soon=new Date(now.getTime()+14*864e5),yr=(/\b(20\d\d)\b/.exec(txt)||[])[1];
+  const re=/\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?(?:\s+(20\d\d))?/ig;let m,dep=null;
+  while((m=re.exec(txt))){   // first month in the window that's still ahead of us
+    const mo=MONS.indexOf(m[1].toLowerCase());let y=m[2]?+m[2]:yr?+yr:now.getUTCFullYear();
+    if(!m[2]&&!yr&&mo<now.getUTCMonth())y++;
+    let t=new Date(Date.UTC(y,mo,8));while(t.getUTCDay()!==2)t.setUTCDate(t.getUTCDate()+1);  // 2nd Tuesday: usually cheapest
+    if(t>=soon){dep=t;break}
+  }
+  if(!dep)return null;
+  const nights=/hawaii|maui|tokyo|osaka|japan|asia|bali|thailand|europe|london|paris|rome|italy|spain|greece|australia|new zealand/i.test(txt)?9:5;
+  const ret=new Date(dep);ret.setUTCDate(ret.getUTCDate()+nights);
+  return {depart:iso(dep),return:iso(ret)};
+}
+function airlineOf(t){
+  t=String(t||"");
+  const m=/^([A-Z][A-Za-z.&' ]{1,30}?(?:\s(?:Air|Airlines|Airways))?):/.exec(t)||/\bon\s+([A-Z][A-Za-z]+(?:\s(?:Air|Airlines|Airways))?)/.exec(t);
+  if(!m)return "";const a=m[1].trim();
+  return /business class deal|round trip|deal|flash sale/i.test(a)?"":a;
+}
 function flightURL(d){
   const r=d.route;if(!r)return "https://www.google.com/search?q="+encodeURIComponent(String(d.title||"").replace(/\$.*$/,"")+" flights");
   let q=`flights from ${r.from==="NYC"?"New York":r.from} to ${r.to.split(" / ")[0]}`;
+  const al=airlineOf(d.title);if(al)q+=` on ${al.replace(/\/.*$/,"")}`;
   if(d.depart)q+=` ${fmtDay(d.depart)} to ${fmtDay(d.return||d.depart)}`;
   return "https://www.google.com/search?q="+encodeURIComponent(q);
 }
@@ -421,10 +467,14 @@ const fmtDay=x=>{const [y,m,dd]=x.split("-").map(Number);return new Date(Date.UT
 const cleanWindow=w=>{if(!w)return "";w=String(w).split(/\s+(?:for|on|with|and must|must|when)\s+/i)[0].replace(/\b20\d\d-\d\d-\d\d\b/g,"").replace(/\)[^(]*$/,"").replace(/[()]/g,"").replace(/\s*[-\u2013]\s*$/,"").replace(/\s+/g," ").trim();return w.length>4?w:""};
 function fixDeal(d){
   if(!d||!d.url)return d;
+  {const tp=titlePrice(d.title),wp=wasPrice(d.title);
+   if(tp!=null&&(d.price==null||Math.abs(tp-d.price)>1))d={...d,price:tp};
+   if(wp!=null&&d.price!=null&&wp>d.price&&d.was==null)d={...d,was:wp,pct:Math.round((1-d.price/wp)*100)}}
   if(d.category==="flights"&&!/\b(flights?|fares?|airfares?|airlines?|airways|air|round[- ]?trip|one[- ]?way|nonstop|business class|first class|economy)\b/i.test(d.title||""))d={...d,category:"tech"};  // e.g. a DJI drone "flight"
   if(d.category==="flights"&&!/\$\s?\d/.test(d.title||""))return null;   // travel news, not a fare
   if(d.category==="flights"){
     if(d.depart&&new Date(d.depart+"T12:00:00Z")<new Date())d={...d,depart:null,return:null};
+    if(!d.depart){const w=windowDates({...d,window:cleanWindow(d.window)});if(w)d={...d,...w,picked:true}}
     d={...d,route:routeOf(d.title),tropical:TROP.test((d.title||"").replace(/hawaiian airlines?/ig,"")),window:cleanWindow(d.window)};
     const post=POSTS.test(d.url)?d.url:d.source_url;
     d={...d,source_url:post||d.source_url,url:flightURL(d)};   // Google flight search for that route + dates

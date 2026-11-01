@@ -262,8 +262,8 @@ def flight_dates(post_url):
     w = re.search(r"(?i)(valid for travel|travel (?:dates?|period|window)|dates?|travel)\s*(?:is|are|:)?\s*((?:in|from|between|during)?[^\n.]{0,10}" + MON + r"[^\n.]{0,90})", text)
     if w:
         out["window"] = re.sub(r"\s+", " ", w.group(2)).strip(" :-")[:110]
-    i = re.search(r"(?i)sample travel dates?", text)
-    m = SAMPLE.search(text, i.end() if i else 0) if i else None
+    i = re.search(r"(?i)sample (?:travel )?dates?|example dates?|dates? (?:found|available|seen)|e\.g\.", text)
+    m = SAMPLE.search(text, i.end()) if i else None
     if m:
         m1, d1, m2, d2, yr = m.groups()
         mo1 = MONTHS[m1[:3].lower()]
@@ -392,12 +392,14 @@ def main():
             d.pop("link_tried2", None)
             d.pop("link_tried3", None)
     for d in everything:   # travel dates from the flight post (once per deal)
-        if d.get("category") == "flights" and not d.get("dates_tried") and time.time() < DEADLINE:
+        if d.get("category") == "flights" and not d.get("dates_tried2") and time.time() < DEADLINE:
             post = d.get("source_url") or (d["url"] if is_post(d.get("url", "")) else None)
             if post and "news.google.com" not in post:
+                for k in ("depart", "return", "window"):
+                    d.pop(k, None)
                 d.update(flight_dates(post))
                 d["route_fixed"] = False
-            d["dates_tried"], changed = True, True
+            d["dates_tried2"], changed = True, True
     for d in everything:
         if d.get("category") == "flights" and d.get("source_url") and not d.get("route_fixed"):
             d["url"], d["route_fixed"], changed = flight_link(d), True, True
@@ -412,7 +414,10 @@ def main():
             d["source_url"], d["url"], d["route_fixed"] = d["url"], flight_link(d), True
             fixed += 1
             continue
-        target = store_link_from_post(d["url"])
+        target = None
+        if d.get("store_url"):   # real store link found in the feed itself
+            target = follow(d["store_url"]) or (d["store_url"] if not is_post(d["store_url"]) else None)
+        target = target or store_link_from_post(d["url"])
         if not target:
             target, _ = store_search(d, LAST_HINT["store"])
         if target:
