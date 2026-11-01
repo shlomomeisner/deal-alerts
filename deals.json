@@ -3636,7 +3636,8 @@
   "hot": false,
   "pct": null,
   "price": 263.5,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:38Z"
  },
  {
   "id": "42cbc10aa3ef5309",
@@ -3649,7 +3650,8 @@
   "hot": false,
   "pct": null,
   "price": 16.99,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:40Z"
  },
  {
   "id": "caea851cb217d08a",
@@ -3662,7 +3664,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:42Z"
  },
  {
   "id": "67f549f850dbffd4",
@@ -3675,7 +3678,8 @@
   "hot": false,
   "pct": null,
   "price": 79.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:45Z"
  },
  {
   "id": "e19d4e1616da174b",
@@ -3688,7 +3692,8 @@
   "hot": false,
   "pct": null,
   "price": 264.99,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:46Z"
  },
  {
   "id": "0115c0e5ae02d420",
@@ -3701,7 +3706,8 @@
   "hot": false,
   "pct": null,
   "price": 264.99,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:48Z"
  },
  {
   "id": "d806d989e38a3ad3",
@@ -3714,7 +3720,8 @@
   "hot": false,
   "pct": null,
   "price": 68.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:50Z"
  },
  {
   "id": "1bbe0d3fec7e3a15",
@@ -3727,7 +3734,8 @@
   "hot": false,
   "pct": null,
   "price": 66.29,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:52Z"
  },
  {
   "id": "836585fe00ebc861",
@@ -3740,7 +3748,8 @@
   "hot": false,
   "pct": null,
   "price": 229.99,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:54Z"
  },
  {
   "id": "325f2928ac92926b",
@@ -3753,7 +3762,8 @@
   "hot": false,
   "pct": null,
   "price": 264.99,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:56Z"
  },
  {
   "id": "dc72d0fa61589c05",
@@ -3766,7 +3776,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:58Z"
  },
  {
   "id": "d728e73ac8612df5",
@@ -3779,7 +3790,8 @@
   "hot": false,
   "pct": null,
   "price": 190.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:03:59Z"
  },
  {
   "id": "dce8028281cfadff",
@@ -3792,7 +3804,8 @@
   "hot": false,
   "pct": null,
   "price": 200.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:04:01Z"
  },
  {
   "id": "a60e6f9aa4dbd2a3",
@@ -3805,7 +3818,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:04:03Z"
  },
  {
   "id": "5b22e926b88541be",
@@ -3818,7 +3832,8 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:04:05Z"
  },
  {
   "id": "77749b71cc24c599",
@@ -8848,7 +8863,7 @@
  {
   "id": "a2d212deee549176",
   "title": "Google Pixel 11 Unlocked Smartphone for $699 + free shipping",
-  "url": "https://www.dealnews.com/Google-Pixel-11-Unlocked-Smartphone-for-699-free-shipping/22330435.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+Unlocked+Smartphone+for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -8858,7 +8873,10 @@
   "price": 699.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Google-Pixel-11-Unlocked-Smartphone-for-699-free-shipping/22330435.html?iref=rss",
+  "store": "Google"
  },
  {
   "id": "66e0270cc739a021",
@@ -8890,12 +8908,13 @@
   "price": 500.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "6bd74c25ecea4211",
   "title": "Canada Goose - Neiman Marcus ($50 - $750 Gift Card) code GC4YOU",
-  "url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+-+Neiman+Marcus",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -8905,12 +8924,15 @@
   "price": 50.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "468ad71e32ee2d20",
   "title": "Balmain Sunglasses $50 @Neiman Marcus Last Call",
-  "url": "https://slickdeals.net/e/14306459-balmain-sunglasses-50-neiman-marcus-last-call?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Balmain+Sunglasses",
   "why": "Neiman 60% off",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -8920,12 +8942,15 @@
   "price": 50.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14306459-balmain-sunglasses-50-neiman-marcus-last-call?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "163d90b063ca7050",
   "title": "Ray-Ban Sunglasses from $40 plus other styles 60% off at Neiman Marcus",
-  "url": "https://slickdeals.net/e/14201465-ray-ban-sunglasses-from-40-plus-other-styles-60-off-at-neiman-marcus?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Sunglasses+from",
   "why": "Ray-Ban 60% off",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -8935,12 +8960,15 @@
   "price": 40.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14201465-ray-ban-sunglasses-from-40-plus-other-styles-60-off-at-neiman-marcus?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "5ba3756ebb38d0ac",
   "title": "Tom Ford Soleil Neige Eau de Parfum Travel Spray $37.50 + Free Shipping",
-  "url": "https://slickdeals.net/f/18329203-tom-ford-soleil-neige-eau-de-parfum-travel-spray-37-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Soleil+Neige+Eau+de+Parfum+Travel+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -8950,7 +8978,10 @@
   "price": 37.5,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18329203-tom-ford-soleil-neige-eau-de-parfum-travel-spray-37-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "299fab8f8f3ffc1b",
@@ -8972,7 +9003,7 @@
  {
   "id": "bd3b83354309a823",
   "title": "Armani 2-Pc. Acqua Di Gio Eau de Parfum Spray Intense (3.4oz) and Travel Spray( 0.33 oz) $82.5",
-  "url": "https://slickdeals.net/f/19774044-armani-2-pc-acqua-di-gio-eau-de-parfum-spray-intense-3-4oz-and-travel-spray-0-33-oz-82-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Armani+2-Pc.+Acqua+Di+Gio+Eau+de+Parfum+Spray+Intense+and+Travel+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -8982,7 +9013,10 @@
   "price": 82.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19774044-armani-2-pc-acqua-di-gio-eau-de-parfum-spray-intense-3-4oz-and-travel-spray-0-33-oz-82-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "441f38be5ce8d1a6",
@@ -9021,7 +9055,7 @@
  {
   "id": "3913d9e14cf189c0",
   "title": "Giorgio Men's Acqua di Giò Profondo Eau de Parfum Spray, 6.7 oz.",
-  "url": "https://slickdeals.net/f/19648728-giorgio-men-s-acqua-di-gi-profondo-eau-de-parfum-spray-6-7-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Giorgio+Men%27s+Acqua+di+Gi+Profondo+Eau+de+Parfum+Spray+6.7+oz.",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9031,7 +9065,10 @@
   "price": null,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19648728-giorgio-men-s-acqua-di-gi-profondo-eau-de-parfum-spray-6-7-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "4be046fe95b2d407",
@@ -9063,7 +9100,8 @@
   "price": 15.99,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "f6335048840042f1",
@@ -9078,7 +9116,8 @@
   "price": 107.99,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "7323ba5f4e11f2b9",
@@ -9390,7 +9429,7 @@
  {
   "id": "85e005ca4d62c651",
   "title": "[WTS][WTT] Dior Homme Sport 75ml (Bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpgtu/wtswtt_dior_homme_sport_75ml_bottle/",
+  "url": "https://www.google.com/search?tbm=shop&q=Dior+Homme+Sport+75ml",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -9400,12 +9439,15 @@
   "price": null,
   "found_at": "2026-11-01T00:20:27Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpgtu/wtswtt_dior_homme_sport_75ml_bottle/",
+  "store": "Google"
  },
  {
   "id": "236f39a87658743b",
   "title": "The Legend of Zelda™: Ocarina of Time - Nintendo Switch 2 [Pre-Purchase] [Digital] - $50.9",
-  "url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=The+Legend+of+Zelda+Ocarina+of+Time+-+Nintendo+Switch+2+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -9415,7 +9457,10 @@
   "price": 50.0,
   "found_at": "2026-11-01T00:20:27Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1ed3b9a5a8af6c9f",
@@ -9437,7 +9482,7 @@
  {
   "id": "43eb0d902f7dee56",
   "title": "The Legend of Zelda™: Ocarina of Time - Nintendo Switch 2 [Pre-Purchase] [Digital] - $50.90",
-  "url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-90?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=The+Legend+of+Zelda+Ocarina+of+Time+-+Nintendo+Switch+2+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -9447,12 +9492,15 @@
   "price": 50.9,
   "found_at": "2026-11-01T00:52:21Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-90?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "198daa64f80a15e0",
   "title": "[WTS]— Lanvin Oxygène 75ml *Discontinued*— $35 Shipped CONUS (Bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpjy2/wts_lanvin_oxygène_75ml_discontinued_35_shipped/",
+  "url": "https://www.google.com/search?tbm=shop&q=Lanvin+Oxyg+ne+75ml+Discontinued",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -9462,7 +9510,10 @@
   "price": 35.0,
   "found_at": "2026-11-01T00:57:43Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpjy2/wts_lanvin_oxygène_75ml_discontinued_35_shipped/",
+  "store": "Google"
  },
  {
   "id": "724a88ee28fcd065",
@@ -9494,7 +9545,8 @@
   "price": 72.99,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "e849de1032aefea9",
@@ -9526,7 +9578,8 @@
   "price": 40.28,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "f14d331a98a0032f",
@@ -9541,12 +9594,13 @@
   "price": 35.91,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "8a8dcab629f1833c",
   "title": "1.7-Oz Victoria's Secret Eau de Parfum (Very Sexy Scarlet) $18.88 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20199183-1-7-oz-victoria-s-secret-eau-de-parfum-very-sexy-scarlet-18-88-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=1.7-Oz+Victoria%27s+Secret+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9556,12 +9610,15 @@
   "price": 18.88,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20199183-1-7-oz-victoria-s-secret-eau-de-parfum-very-sexy-scarlet-18-88-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "c39a4e1228bc4be6",
   "title": "Harry's Men's Cologne Collection- Kin, Moonrise, Cowboy Classic- Eau de Parfum Quality $80.85",
-  "url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Harry%27s+Men%27s+Cologne+Collection-+Kin+Moonrise+Cowboy+Classic-+Eau+de+Parfum+Qua",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9571,7 +9628,10 @@
   "price": 80.85,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "baa89341839ef173",
@@ -9627,7 +9687,7 @@
  {
   "id": "e32abe3d5ea545b6",
   "title": "Paris Hilton Gold Rush Nightfall 1-Oz Eau de Toilette Cologne (Men's) $11.79 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20169258-paris-hilton-gold-rush-nightfall-1-oz-eau-de-toilette-cologne-men-s-11-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Paris+Hilton+Gold+Rush+Nightfall+1-Oz+Eau+de+Toilette+Cologne",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9637,12 +9697,15 @@
   "price": 11.79,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20169258-paris-hilton-gold-rush-nightfall-1-oz-eau-de-toilette-cologne-men-s-11-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "81edb2ccf7413335",
   "title": "Bath & Body Works Men's Promo sale",
-  "url": "https://slickdeals.net/f/20168142-bath-amp-body-works-men-s-promo-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bath+%26+Body+Works+Men%27s+Promo",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9652,7 +9715,10 @@
   "price": null,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20168142-bath-amp-body-works-men-s-promo-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "389ba0ba5139b1b2",
@@ -9701,7 +9767,8 @@
   "price": 13.99,
   "found_at": "2026-11-01T01:13:36Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "eac505d58ad051d1",
@@ -9723,7 +9790,7 @@
  {
   "id": "fde6d34bb13ace4a",
   "title": "Homes & Villas by Marriott Bonvoy (Home/Vacation Rentals) 3x Bonus Points on 5+ Summer Night Stays *Register* Book by November 20, 2026",
-  "url": "https://slickdeals.net/f/20223120-homes-villas-by-marriott-bonvoy-home-vacation-rentals-3x-bonus-points-on-5-summer-night-stays-register-book-by-november-20-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Homes+%26+Villas+by+Marriott+Bonvoy+3x+Bonus+Points+on+5%2B+Summer+Night+Stays+Regis",
   "why": "",
   "category": "everything",
   "source": "Slickdeals Popular",
@@ -9733,7 +9800,10 @@
   "price": null,
   "found_at": "2026-11-01T01:18:58Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20223120-homes-villas-by-marriott-bonvoy-home-vacation-rentals-3x-bonus-points-on-5-summer-night-stays-register-book-by-november-20-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1c7370840dc922f8",
@@ -9772,7 +9842,7 @@
  {
   "id": "ef25ae4baaddc548",
   "title": "LensCrafters - Burberry Frame + Lenses $330.6",
-  "url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Burberry",
@@ -9782,7 +9852,10 @@
   "price": 330.0,
   "found_at": "2026-11-01T01:24:07Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "9bd5a8c97367e208",
@@ -9797,7 +9870,8 @@
   "price": 164.0,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "951d8fea22be41b5",
@@ -9819,7 +9893,7 @@
  {
   "id": "14cc80cc4d9b5c3d",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9829,7 +9903,10 @@
   "price": 59.99,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "2a5475cd4085f609",
@@ -9902,7 +9979,7 @@
  {
   "id": "7cd2fdbeca0e7349",
   "title": "Burberry Touch 1.7oz EDT $22.5",
-  "url": "https://slickdeals.net/f/19786530-burberry-touch-1-7oz-edt-22-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+1.7oz+EDT",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9912,12 +9989,15 @@
   "price": 22.0,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19786530-burberry-touch-1-7oz-edt-22-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "196fe7a31ae809c8",
   "title": "Burberry Touch 3.3 / 3.4 oz EDT Cologne for Men $32.84",
-  "url": "https://slickdeals.net/f/19770156-burberry-touch-3-3-3-4-oz-edt-cologne-for-men-32-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+3.3+3.4+oz+EDT+Cologne+for+Men",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9927,7 +10007,10 @@
   "price": 32.84,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19770156-burberry-touch-3-3-3-4-oz-edt-cologne-for-men-32-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "d48a2c07c7c2a9d1",
@@ -10044,7 +10127,8 @@
   "price": 50.0,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "071d4102f16db834",
@@ -10066,7 +10150,7 @@
  {
   "id": "533d190ac4b2e617",
   "title": "Bvlgari Bvlgari Man Wood Neroli Men 3.4 oz EDP Spray",
-  "url": "https://slickdeals.net/f/19694082-bvlgari-bvlgari-man-wood-neroli-men-3-4-oz-edp-spray?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bvlgari+Bvlgari+Man+Wood+Neroli+Men+3.4+oz+EDP+Spray",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Bvlgari",
@@ -10076,12 +10160,15 @@
   "price": null,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19694082-bvlgari-bvlgari-man-wood-neroli-men-3-4-oz-edp-spray?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0b1387c5a5204d2b",
   "title": "BVLGARI3-Pc. Omnia Crystalline Eau De Toilette Gift Set $132",
-  "url": "https://slickdeals.net/f/19494441-bvlgari3-pc-omnia-crystalline-eau-de-toilette-gift-set-132?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=BVLGARI3-Pc.+Omnia+Crystalline+Eau+De+Toilette+Gift+Set",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Bvlgari",
@@ -10091,7 +10178,10 @@
   "price": 132.0,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19494441-bvlgari3-pc-omnia-crystalline-eau-de-toilette-gift-set-132?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "a252cb9f6c14f3bf",
@@ -10106,7 +10196,8 @@
   "price": 90.51,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "4660519bd35e70f9",
@@ -10196,7 +10287,7 @@
  {
   "id": "33a9d84f6f25fd47",
   "title": "Bvlgari Men's Octo Swiss Automatic Watch Black Dial w/ Rubber Strap $4173.71 + Free S&H",
-  "url": "https://slickdeals.net/f/16900087-bvlgari-men-s-octo-swiss-automatic-watch-black-dial-w-rubber-strap-4173-71-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bvlgari+Men%27s+Octo+Swiss+Automatic+Watch+Black+Dial+w+Rubber+Strap",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Bvlgari",
@@ -10206,12 +10297,15 @@
   "price": 417.0,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16900087-bvlgari-men-s-octo-swiss-automatic-watch-black-dial-w-rubber-strap-4173-71-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "01438ee01ee0dbdc",
   "title": "Bvlgari Man Wood Neroli Eau de Parfum, 3.4 fl oz - $49.99",
-  "url": "https://slickdeals.net/f/16670555-bvlgari-man-wood-neroli-eau-de-parfum-3-4-fl-oz-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bvlgari+Man+Wood+Neroli+Eau+de+Parfum+3.4+fl+oz+-",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Bvlgari",
@@ -10221,12 +10315,15 @@
   "price": 49.99,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16670555-bvlgari-man-wood-neroli-eau-de-parfum-3-4-fl-oz-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "7417785aec0c3da9",
   "title": "Pre-owned Bulgari 18k Rose Gold Anthracite Manual 41mm Men's Watch Bvlgari BBP41BGL 101383 $5950",
-  "url": "https://slickdeals.net/f/16635008-pre-owned-bulgari-18k-rose-gold-anthracite-manual-41mm-men-s-watch-bvlgari-bbp41bgl-101383-5950?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Pre-owned+Bulgari+18k+Rose+Gold+Anthracite+Manual+41mm+Men%27s+Watch+Bvlgari+BBP41",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Bvlgari",
@@ -10236,7 +10333,10 @@
   "price": 595.0,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16635008-pre-owned-bulgari-18k-rose-gold-anthracite-manual-41mm-men-s-watch-bvlgari-bbp41bgl-101383-5950?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "11157469b7139697",
@@ -10291,7 +10391,7 @@
  {
   "id": "5a40dfc8ae8c3445",
   "title": "Ferragamo Oversized Classic Rectangle Sunglasses $59 + Free Shipping",
-  "url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Oversized+Classic+Rectangle+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10301,12 +10401,15 @@
   "price": 59.0,
   "found_at": "2026-11-01T02:07:15Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "de21b130a850d51d",
   "title": "Best monitor deal: Take 44% off the LG Ultragear OLED gaming monitor - Mashable",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Best+monitor+Take+44+off+the+LG+Ultragear+OLED+gaming+monitor+-+Mashable",
   "why": "Oled — 44% off",
   "category": "tech",
   "source": "Google: Samsung deal",
@@ -10316,7 +10419,10 @@
   "price": null,
   "found_at": "2026-11-01T02:07:15Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
+  "store": "Google"
  },
  {
   "id": "7e96fc8b6986fb1e",
@@ -10389,7 +10495,7 @@
  {
   "id": "8fb14a1cb2933f9c",
   "title": "3.4-Oz Signorina Libera by Salvatore Ferragamo EDP Perfume Spray for Women $32.99 + Free Shipping w/ Prime or on $35+ $37.99",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Signorina+Libera+by+Salvatore+Ferragamo+EDP+Perfume+Spray+for+Women",
+  "url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10399,7 +10505,6 @@
   "price": 32.99,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10407,7 +10512,7 @@
  {
   "id": "f6440df2b6c08101",
   "title": "3.4-Oz Salvatore Ferragamo Men's F Free Time EDT Cologne Spray $12.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Men%27s+F+Free+Time+EDT+Cologne+Spray",
+  "url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -10417,7 +10522,6 @@
   "price": 12.99,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10425,7 +10529,7 @@
  {
   "id": "edc3011663f51a63",
   "title": "Salvatore Ferragamo Free Time Eau De Toilette Spray for Men, 3.4 Ounce $14",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Free+Time+Eau+De+Toilette+Spray+for+Men+3.4+Ounce",
+  "url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -10435,7 +10539,6 @@
   "price": 14.0,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10443,7 +10546,7 @@
  {
   "id": "854dfd96d063898d",
   "title": "Salvatore Ferragamo Ladies' Amo Ferragamo Skin Care Gift Set w/ 1.7-Oz EDP Spray & 3.4-Oz Body Lotion $34.99 + Free S/H on $100+",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
+  "url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10453,7 +10556,6 @@
   "price": 34.99,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10461,7 +10563,7 @@
  {
   "id": "77c2f0e8becb2989",
   "title": "Ferragamo Low Sneaker With Signature In - $100000",
-  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
+  "url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10471,7 +10573,6 @@
   "price": 100.0,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10479,7 +10580,7 @@
  {
   "id": "1c3b79ff43976081",
   "title": "3.4-Oz Salvatore Ferragamo Women's Amo Ferragamo Eau de Parfum Spray $36.20 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
+  "url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -10489,7 +10590,6 @@
   "price": 36.2,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10497,7 +10597,7 @@
  {
   "id": "a1d1410d184ff04c",
   "title": "Women's Sunglasses: Kate Spade Polarized Grey Cat Eye Sunglasses $32.60, Ray-Ban Erika Classic Polarized Green Classic $80 + $6 Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Women%27s+Sunglasses+Kate+Spade+Polarized+Grey+Cat+Eye+Sunglasses",
+  "url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10507,7 +10607,6 @@
   "price": 32.6,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10549,7 +10648,7 @@
  {
   "id": "0694eb59fa695391",
   "title": "FERRAGAMO Urban Men's Watch $247.49 with coupon \"CPFERRA10\" code + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Urban+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -10559,7 +10658,6 @@
   "price": 247.49,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10567,7 +10665,7 @@
  {
   "id": "adeda4a2a81f63cc",
   "title": "Ferragamo FF Men's Watch - $216 (Silicone Strap) & $279 (Stainless Steel Strap) + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+FF+Men%27s+Watch+-",
+  "url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -10577,7 +10675,6 @@
   "price": 216.0,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10585,7 +10682,7 @@
  {
   "id": "78ce19b86061f7b2",
   "title": "FERRAGAMO Gancini Men's Watch for $219.99 with code \"LUCKY12\" + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Gancini+Men%27s+Watch+for",
+  "url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -10595,7 +10692,6 @@
   "price": 219.99,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10603,7 +10699,7 @@
  {
   "id": "132d82e9c11b7010",
   "title": "FERRAGAMO Racing Men's Watch extra 10% OFF with CODE LUCKY10 $319.49 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
+  "url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -10613,7 +10709,6 @@
   "price": 319.49,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10638,7 +10733,7 @@
  {
   "id": "1b343e3bd818b3e4",
   "title": "DSW: 20% off qualifying purchase with code SLICK20OFF",
-  "url": "https://www.google.com/search?tbm=shop&q=DSW+20+off+qualifying+purchase+with+code+SLICK20OFF",
+  "url": "https://slickdeals.net/f/16472683-dsw-20-off-qualifying-purchase-with-code-slick20off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10648,7 +10743,6 @@
   "price": null,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16472683-dsw-20-off-qualifying-purchase-with-code-slick20off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10656,7 +10750,7 @@
  {
   "id": "56ad736edf2b70e1",
   "title": "Salvatore Ferragamo Double-Bridge Aviator - $62 - $370",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
+  "url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10666,7 +10760,6 @@
   "price": 62.0,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10674,7 +10767,7 @@
  {
   "id": "2f1d42a88e72d5ed",
   "title": "Salvatore Ferragamo Gancini Bit Leather Driver Moccasins - $225 - $225",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
+  "url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10684,7 +10777,6 @@
   "price": 225.0,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10692,7 +10784,7 @@
  {
   "id": "3bdc9972d79ee047",
   "title": "BVLGARI - Le Gemme Empyr - Free Sample",
-  "url": "https://www.google.com/search?tbm=shop&q=BVLGARI+-+Le+Gemme+Empyr+-+Free+Sample",
+  "url": "https://slickdeals.net/f/15269155-bvlgari-le-gemme-empyr-free-sample?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Bvlgari",
@@ -10702,7 +10794,6 @@
   "price": null,
   "found_at": "2026-11-01T02:13:03Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15269155-bvlgari-le-gemme-empyr-free-sample?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10778,7 +10869,7 @@
  {
   "id": "a1f7fce5b6373a36",
   "title": "Best monitor deal: Take 44% off the LG Ultragear OLED gaming monitor - Mashable",
-  "url": "https://www.google.com/search?tbm=shop&q=Best+monitor+Take+44+off+the+LG+Ultragear+OLED+gaming+monitor+-+Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
   "why": "Oled — 44% off",
   "category": "tech",
   "source": "Google: OLED TV deal",
@@ -10788,7 +10879,6 @@
   "price": null,
   "found_at": "2026-11-01T02:41:02Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
   "store": "Google"
@@ -10812,7 +10902,7 @@
  {
   "id": "a11a3810c19889b1",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Chloe",
@@ -10821,7 +10911,6 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-11-01T02:52:54Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10829,7 +10918,7 @@
  {
   "id": "f0e01407173fb806",
   "title": "Fragrance Sale (Unboxed & Testers, Gift Sets): 1.7-Oz Chloe Love Story EDP $53 & More + Free S&H w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Fragrance+1.7-Oz+Chloe+Love+Story+EDP",
+  "url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Chloe",
@@ -10838,7 +10927,6 @@
   "pct": null,
   "price": 53.0,
   "found_at": "2026-11-01T02:52:54Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10862,7 +10950,7 @@
  {
   "id": "24e0f7bfe99f4ad5",
   "title": "Oakley & Ray-Ban Sunglasses Deals at Zulily $56.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
+  "url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglasses",
@@ -10871,7 +10959,6 @@
   "pct": null,
   "price": 56.99,
   "found_at": "2026-11-01T03:43:17Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10895,7 +10982,7 @@
  {
   "id": "c7839b31f87a89a0",
   "title": "Round the World Trip from Europe: New York, California, Hawaii, Australia, Bali, Japan, South Korea from €1230",
-  "url": "https://www.google.com/travel/flights?q=Flights%20Round%20the%20World%20Trip%20from%20Europe%3A%20New%20York%2C%20California%2C%20Hawaii%2C%20Australia%2C%20Bali%2C%20Japan%2C%20South%20Korea%20from%20%E2%82%AC1230",
+  "url": "https://www.fly4free.com/flight-deals/europe/around-the-world-from-europe-for-1230/",
   "why": "🌴 NEW YORK → Hawaii",
   "category": "flights",
   "source": "Fly4free USA",
@@ -10911,7 +10998,7 @@
  {
   "id": "7f52f3f96e58ed66",
   "title": "Non-stop from New York to Aruba for only $210 roundtrip - Secret Flying",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Aruba",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc2k3QWZkWk5HM2hMYnprcDdHVG5xMXR5NDFfMy1vOXhMRXZXLVVRclZBZC1TSkRKc0M2Z25WNTRCczY3SDc5TEh6U0pJNm1MZlZHQnZQWUsxNm40c2htcVk2MlFlNjdtUGh5RVI5Z0tndlBTOVZpcE01bk16Yk03RUJB?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Secret Flying NYC",
@@ -10927,7 +11014,7 @@
  {
   "id": "ecd553f2e9ec27ab",
   "title": "jetBlue: New York – Punta Cana, Dominican Republic. $324 (Basic Economy) / $394 (Regular Economy). Roundtrip, including all Taxes – The Flight Deal - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Punta%20Cana%2C%20Dominican%20Republic",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWlJPOVoydEFNdGp6MkdMMktJRzd2U2JHWXdtT2U2OS1KekswZG1qeUIwc2hKTGh0ajdQSDhaTE12X0RTMFlwaWFhWWw5YnVjbVlTTnlWMDhkTWx1Y2ZoTXBXdDVINlA5ank5dTVGUlVkR2xORmpqMHZQRmhqa1RMb0pMZks3MnhOQ3A4ZHJMaVlOVFUtaEJTSUloWXNCcnNSdXpJR0lKZ2ZIOUZTOWFNMU9IRm5UNnY3TnhfYlE5UHEyY1d6VGIzd0I5OE4tUzg2WnAtNmhYemx6SFdVTGNWV3RXWTJ5VmV4RUkwd1Bfcw?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -10943,7 +11030,7 @@
  {
   "id": "5115692fe601f780",
   "title": "Cathay Pacific: New York – Phuket, Thailand. $910. Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Phuket%2C%20Thailand",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVhSOTBqX3dhaGhhMW9DOXZiTU9VX2Zrelo0djIydTQ5SW9oT2hOLXNFak44cDRiWTFYdFl2N05CTF9WblJvNGpDSjl6Rlg1clpfT2pLZm04UzljbmtVVk9lOXFueEV2TjkwbVNHRUJKS1ZSQlFGWERld2h3S3VTbjRwNlhzNUVLcFB4N01KTF9RWFl6b1FGNVE3NkEyTHdHZHN0M21zcFdEVE1sZFQ3bFZrc2Y2dw?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -10959,7 +11046,7 @@
  {
   "id": "abcfa478505f114f",
   "title": "All Nippon Airways: New York – Okinawa, Japan. $845. Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Okinawa%2C%20Japan",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcy05ZXAwbVAwN21xWkdYd1EzWHVBWjRQYXV0QzU0ZG1zQUZtVENtRVJMbGlYODU1N08zSHM4MGlBTjVIMUk1b1BlSHlSWWJFeGhQeUpENmVBdEktbHpYMW9KTVE0YnRSalFsSTNiOHF4MmhobU1RRTltMG9SUk1EX2VPLUJHLTV3VmVnbDBaWWd2TFlGWWFOVTRHM09wUXBJQkozTVViZUJvZHVUQjZ5QWYtWDkxNHB4?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -10975,7 +11062,7 @@
  {
   "id": "05cbcde72f91d0d7",
   "title": "Delta: New York – New Delhi, India. $791 (Basic Economy) / $941 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20New%20Delhi",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLWZXN0NNNXBnODhlQkc4c3JmRVVOZ2JKaTRZLWIteWY4TDFPYlRTTlhzbDFESmxGZE80TlpURTVYM2JNQjlELXBkdDlwcThPTFZXU0Y3SUhsYWpYRllLZ192QTFJQjFFRXoyZkVuLUVscjFfenFTZTJoeDdaUXRrSGtUMVdrM3BHQW45UGlUaVdRejFJVDdkdUpOT1p4bUFYY0F4ck9zMXhNWTFtN3d4RVZaNTNuUlJtdlM5X2xCTWZKYVZxaXZ0Skh2bm5DVzk4bFRLU1NYVQ?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -10991,7 +11078,7 @@
  {
   "id": "2fcf8271e49d71dc",
   "title": "jetBlue: New York – Montego Bay, Jamaica. $359 (Basic Economy) / $409 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Montego%20Bay%2C%20Jamaica",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX09JMGhOMk9TanpuU0pfeS1jQjRfR2N3M1E4Zk5QOUt1QmJXZjRQYmt1Y0hjcU5SVlVQZzhQcDMtMWRFMTQ3eTVNNFQ4bDN3THpqM2hSVGJieGdkZ1kxUjUtdDlHbGZSV3hnQjQ4cmlNamVZZUhQV0d5X0VoOUVKOE1OTS1yYlZ4eG51LVRVUlUzTno2cGM4Y19oNFJWelFWN0RrWVN4dUx0cTFhUmhDRzhidmJ6aXZzMkNfLWJkR3lrcF9rSkFHYk96MHI2ZWdINnpFbmdQSEhfTjJDS0hB?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11007,7 +11094,7 @@
  {
   "id": "85daa7cc229fc9dd",
   "title": "United: Newark – Los Angeles (and vice versa). $257 (Basic Economy) / $387 (Regular Economy). Roundtrip, including all Taxes – The Flight Deal - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20Los%20Angeles",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmxvdzRXMmE5V1F0N1h2QkJOVFRLeGFxekZqQjh6VGhadXdialhpVnVYRElVUU84MGxYMy1HUXFLOFZFUXk5M3J1a1dnaVFqaWhQLXlWRDZiQ1FYV1NsN1d3T1MzWmdYOFdId3hadnlXS0FjdWM5aHNVdXdMRXNzUGsxdHdxRWFxbDNsbGxUc3dQLUlzczctaUZEcjVjR1J1ZFZTQlk5aUlLTE8wVW16NXZQZ2xmUWVNQjZDOVdLNW9CVk1FbF9DM2VJbkdNYU1DNjNybzVSSXd1WXpieGVWQXhRN1M?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11023,7 +11110,7 @@
  {
   "id": "8e82341f3d6eb074",
   "title": "All Nippon Airways: New York – Sapporo, Japan. $849. Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Sapporo%2C%20Japan",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOam9iTER5SmZmbHdyLU1aY0I0aFNLcGRBY3h3Uk1FU0EyZG4zRjNCNkFSd04wUTZldW10eDhVT29UdnZHREFiVmcyNXBycDF1Tk9Cc2ZjZGZDdmRueTYzdUw0RE82X2Y1NnhiLWpzSW4wVmtMeVFLaEZxQ0o1cTNlQUt6YTVjU2UtV3Y5NmgwclF0QkhSV3VRQWJYVkwyZnlFNDVEcGd5UUhCU3M1cEJpZnU0aG5JTURm?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11039,7 +11126,7 @@
  {
   "id": "8e355e6ee32a5afa",
   "title": "jetBlue: New York – Aruba. $211 (Basic Economy) / $279 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Aruba",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT1dLc0k5TU5zUklXaUtPbkdGUmRjNW9FV05GN1V3UkRuQjV1ZXNTci1hSml6MDlla2c3QW5SWU5VbEtGRjM3OThwelBxV0hXQVpaYTJ3TUhuNWd3VFI0bUY0NVIteWJEcFFyRjQyTHExRTFKVVllYWllemhJZHY2WW15Zl9Qbm5QZjRISkl1c1JfMTdNbG51TkdWeERQUV83bXFCRDR0LXBybGhIZlBoeVJEZ2tjMllQRXdjRHNrU0lWVEJDMmR3aTdJRFc?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11055,7 +11142,7 @@
  {
   "id": "0e5a58cb178881c3",
   "title": "American: New York – Tokyo, Japan. $798 (Basic Economy) / $1,058 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Tokyo%2C%20Japan",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdW9NVnVOQ1NySnlkdk1jZnV4c1RnYWNQQVMtdVFrZkhyQWdrS2pBZTNfOWd2Z05xWHJuWFB6TFYtRnl5dGJleW1oRnlTNUxoMGFQRzh1ODhqVDdGWXRpOXpKcXBBZmo3Z243b2tlQVliN1ZXLVZsN05YSlFfeHdNUlljQ2FHTXV5bWc1SmZxN1h6em5aVXFweldPdnVraGxHWjZRY3ZYRWZKc0lvUkJnQ0FnMW9mNHpQbTNUVlA2TjhDaU5JaGtycVF1T0JubURDWFlVXzNTTQ?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11071,7 +11158,7 @@
  {
   "id": "efdfa5f039ebd7ce",
   "title": "Delta: New York – San Juan, Puerto Rico. $195 (Basic Economy) / $295 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20San%20Juan%2C%20Puerto%20Rico",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcGE2QW5TWVRFUkNFcWNuWmpjX1BjRnBfSVZJMlhrck1OTnF0empHTllVOWVYWmJLdXFYa2VpYjNnekRBZ1NiVDc1cFdaSE02ZjRCTHd6dFhiZGx1TXJQTENjVlh3Z29FTG9NTmgyRHhWYTVMR0RvdjRMZXNvOHozXzhjR1ZSNTJZNGhKOTJWLVAwTWROSlNFQk45TEh4OF9vSU16dndHajBsOFM1c1YyZkJ3U0M0Zmc4OERVMkhxM2xRbHVNNC0zR1pkUmhTVEpxVzNPUEYtcFJBbEs3YXc?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11087,7 +11174,7 @@
  {
   "id": "185c5b8db66c1e0f",
   "title": "Delta: New York – Aruba. $294 (Basic Economy) / $394 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Aruba",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazZaR3gyU2FRLWQ4cEFwWGNCdlhGLVRSTlZPQnRleXdoQ1ItTlRUNU92TXp2cDVuYmZQTWlNamw5ZG5hU0FBZm1QT24xcm4tSTI2WWhySVNQZ1RMbjBqclhKVzJYWS1yaWF1QmRZcjA5b1dZUFhaRnRpQUdwWUFld3cyTHBMMVBmR3BBVEdGY0lpMDd0aE9vcFV2VmpYcV84cEpKclVpOHhKYmxSUzZLSk9EaW9SMVk3YnZESkRFVWM5NkdQVm1PZ2VB?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11103,7 +11190,7 @@
  {
   "id": "b3564e2e97a9fbc5",
   "title": "jetBlue: New York – Providenciales, Turks and Caicos. $310 (Basic Economy) / $360 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Providenciales%2C%20Turks%20and%20Caicos",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOc2Ztb2hpajRtanZNRGF4WFVhMUU4RTdReVU3T1M1VzdIZlZnem53bl9jV1poRUNZSElOQkEtdDA3RFUtX2FvTjRPSi1TZFN4RWMwSWJBLWNLZ3JOcHhlaVNWYlFlck0zcGE1dFZKOU00cHNjRGcxZm1fUHRMYWlGeF84V2xFSVE2RGpCa01TMHkyaVpkcUx4SWlISi1rUlRHcGZIQ1l0M1Rxc0s4OTZTajlJcmtpZnBWNWJOdjNpTnNOUTFXZzc1ejVrdzZRekpoczFtMTM2U0VWbF9WYTdBUC1vNUwzdGVrdkN0emhjNA?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11119,7 +11206,7 @@
  {
   "id": "29bf9833cc6cb6dc",
   "title": "American: Phoenix – Buffalo, New York (and vice versa). $186 (Basic Economy) / $306 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20American%3A%20Phoenix%20%E2%80%93%20Buffalo%2C%20New%20York%20%28and%20vice%20versa%29.",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdk1zY1Rlc0Y0azVkZVpRbV9NUHRsVmJvNXl4ZlQ2V214eEFlYjNDTTloOEhoZXFmR0VBWDI1Y21hckp1aDZzYXljOG82bnowS1VLUXJoQzBTS3hPRVdmYm9EWDJjUjlYVk4zdjhKRjZZbks1NVp6YUxvWGM2SnI5bExLS2IzRU5VNTFXeVpJcUZ0YThOR2NpbVJlbXZtWEVkMVJLU0FOR2NoemwwdGhfZTQzendVZnBHMkxQbTNCbEhwTFZiQzFoREYxaE5DTFNGNHliVWlsRUJfWUZXek1lQk9YNnVfY09DZzd6WXZGYw?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -11135,7 +11222,7 @@
  {
   "id": "465d7aeaa2175403",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20St%20Maarten",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: flights",
@@ -11151,7 +11238,7 @@
  {
   "id": "5b3df7eaa4879efd",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20St%20Maarten",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: airfare",
@@ -11167,7 +11254,7 @@
  {
   "id": "50d93e28cbbabd4a",
   "title": "Round Trip New York to Aruba $295 Nonstop Airfares on Delta Air Lines BE (Limited Departure Dates November - February 2027)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Aruba",
+  "url": "https://slickdeals.net/f/20217093-round-trip-new-york-to-aruba-295-nonstop-airfares-on-delta-air-lines-be-limited-departure-dates-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: airfare",
@@ -11183,7 +11270,7 @@
  {
   "id": "f8754e3f8baaa9f0",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20St%20Maarten",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -11199,7 +11286,7 @@
  {
   "id": "8fd63b50b1674359",
   "title": "Round Trip New York to Aruba $351 Nonstop Airfares on JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Aruba",
+  "url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -11211,5 +11298,53 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "route_fixed": true
+ },
+ {
+  "id": "8494d07f1be582aa",
+  "title": "Arc'teryx Men's Sylan 2 Trail Running Shoes for $143 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Arc%27teryx+Men%27s+Sylan+2+Trail+Running+Shoes+for",
+  "why": "",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": 35,
+  "price": 143.0,
+  "found_at": "2026-11-01T04:02:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Arcteryx-Mens-Sylan-2-Trail-Running-Shoes-for-143-free-shipping/22330415.html?iref=rss",
+  "store": "Google"
+ },
+ {
+  "id": "df4a63adc769e9c4",
+  "title": "All Nippon Airways: New York – Okinawa, Japan. $845. Roundtrip, including all Taxes",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Okinawa%2C%20Japan",
+  "why": "",
+  "category": "flights",
+  "source": "The Flight Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 845.0,
+  "found_at": "2026-11-01T04:02:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.theflightdeal.com/2026/10/31/all-nippon-airways-new-york-okinawa-japan-845-roundtrip-including-all-taxes/",
+  "route_fixed": true
+ },
+ {
+  "id": "c8bb598901a76b17",
+  "title": "DJI Osmo Pocket 3 4K Pocket Gimbal Camera ~@256 + Free S/H $256",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+4K+Pocket+Gimbal+Camera+256+%2B+Free+S+H",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 256.0,
+  "found_at": "2026-11-01T04:02:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-256-free-s-h-256?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  }
 ]
