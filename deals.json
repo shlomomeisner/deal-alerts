@@ -4476,7 +4476,8 @@
   "hot": false,
   "pct": null,
   "price": 179.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:47Z"
  },
  {
   "id": "fe2ca9a62f8833c8",
@@ -4489,7 +4490,8 @@
   "hot": false,
   "pct": null,
   "price": 194.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:49Z"
  },
  {
   "id": "1f93e19421ee2d6a",
@@ -4502,7 +4504,8 @@
   "hot": false,
   "pct": null,
   "price": 70.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:50Z"
  },
  {
   "id": "a7d159734a4b7862",
@@ -4515,7 +4518,8 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:51Z"
  },
  {
   "id": "eb1cdcc3e6080298",
@@ -4528,7 +4532,8 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:52Z"
  },
  {
   "id": "568462ec28af72e8",
@@ -4541,7 +4546,8 @@
   "hot": false,
   "pct": null,
   "price": 6.99,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:54Z"
  },
  {
   "id": "0d0d95a5750ea71f",
@@ -4554,7 +4560,8 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:56Z"
  },
  {
   "id": "71a666cfd580482f",
@@ -4567,7 +4574,8 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:58Z"
  },
  {
   "id": "0073720cf28fdc10",
@@ -4580,7 +4588,8 @@
   "hot": false,
   "pct": null,
   "price": 23.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:30:59Z"
  },
  {
   "id": "e73729a3cc82e1e5",
@@ -4593,7 +4602,8 @@
   "hot": false,
   "pct": null,
   "price": 23.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:31:01Z"
  },
  {
   "id": "4047da47fba7a2fe",
@@ -4606,7 +4616,8 @@
   "hot": false,
   "pct": 45,
   "price": 5.49,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:31:02Z"
  },
  {
   "id": "e93005a40db4d02e",
@@ -4619,7 +4630,8 @@
   "hot": false,
   "pct": null,
   "price": 21.16,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:31:04Z"
  },
  {
   "id": "2c5dde5eba110e13",
@@ -4632,7 +4644,8 @@
   "hot": false,
   "pct": null,
   "price": 24.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:31:06Z"
  },
  {
   "id": "1621f8f2a549935a",
@@ -4645,7 +4658,8 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:31:08Z"
  },
  {
   "id": "56b6ecb74662fb2c",
@@ -4658,7 +4672,8 @@
   "hot": false,
   "pct": null,
   "price": 21.16,
-  "found_at": "2026-10-31T23:32:29Z"
+  "found_at": "2026-10-31T23:32:29Z",
+  "checked_at": "2026-11-01T04:31:09Z"
  },
  {
   "id": "da025bbed05d492a",
@@ -4688,7 +4703,8 @@
   "pct": null,
   "price": 66.29,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "33c953eb837b56c0",
@@ -4702,7 +4718,8 @@
   "pct": null,
   "price": 93.89,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "c754ff826e490ecf",
@@ -4716,7 +4733,8 @@
   "pct": null,
   "price": 96.02,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "c28020e00099e076",
@@ -4730,7 +4748,8 @@
   "pct": null,
   "price": 85.65,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "6ab40f5e21fe4a6a",
@@ -4744,7 +4763,8 @@
   "pct": null,
   "price": 67.99,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "dd764215b93e4649",
@@ -4765,7 +4785,7 @@
  {
   "id": "6a58f4cfa3c94520",
   "title": "Gucci Guilty Parfum Pour Homme 6.7 Oz $129.97",
-  "url": "https://slickdeals.net/f/19599561-gucci-guilty-parfum-pour-homme-6-7-oz-129-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Guilty+Parfum+Pour+Homme+6.7+Oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -4774,7 +4794,10 @@
   "pct": null,
   "price": 129.97,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19599561-gucci-guilty-parfum-pour-homme-6-7-oz-129-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0e574d6c14c23138",
@@ -4843,7 +4866,7 @@
  {
   "id": "394879e905c63d5a",
   "title": "Seiko 5 SNKK27 for $57 free shipping with Prime (Prime day deal)",
-  "url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -4852,7 +4875,10 @@
   "pct": null,
   "price": 57.0,
   "found_at": "2026-10-31T23:37:48Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "d38437de2f1ac1fc",
@@ -5644,7 +5670,7 @@
  {
   "id": "4320ac292dfd9260",
   "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $86.50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -5653,7 +5679,6 @@
   "pct": null,
   "price": 86.5,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -5677,7 +5702,7 @@
  {
   "id": "64e101c27ed75b40",
   "title": "Costa Del Mar Sunglasses Sale - Men's and Women's - Up to 64% off",
-  "url": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
+  "url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Prada",
@@ -5686,7 +5711,6 @@
   "pct": 64,
   "price": null,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6249,7 +6273,7 @@
  {
   "id": "1db20685730e12f9",
   "title": "Check emails: Member benefit: Save 25% on Pixel 11 series phones $674",
-  "url": "https://www.google.com/search?tbm=shop&q=Check+emails+Member+benefit+Save+25+on+Pixel+11+series+phones",
+  "url": "https://slickdeals.net/f/20191638-check-emails-member-benefit-save-25-on-pixel-11-series-phones-674?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6258,7 +6282,6 @@
   "pct": 25,
   "price": 674.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20191638-check-emails-member-benefit-save-25-on-pixel-11-series-phones-674?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6266,7 +6289,7 @@
  {
   "id": "53642ae383a8fcef",
   "title": "Unlocked Pixel 10 Pro 128 GB $599 | 120 days of service required",
-  "url": "https://www.google.com/search?tbm=shop&q=Unlocked+Pixel+10+Pro+128+GB",
+  "url": "https://slickdeals.net/f/20189790-unlocked-pixel-10-pro-128-gb-599-120-days-of-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6275,7 +6298,6 @@
   "pct": null,
   "price": 599.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20189790-unlocked-pixel-10-pro-128-gb-599-120-days-of-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6283,7 +6305,7 @@
  {
   "id": "07c6d139d2e2ad9e",
   "title": "T-mobile Pixel 11 pro xl 256gb $800, pro $600, standard $400",
-  "url": "https://slickdeals.net/f/20182512-t-mobile-pixel-11-pro-xl-256gb-800-pro-600-standard-400?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=T-mobile+Pixel+11+pro+xl+256gb",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6292,12 +6314,15 @@
   "pct": null,
   "price": 800.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20182512-t-mobile-pixel-11-pro-xl-256gb-800-pro-600-standard-400?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "8417ea87b982254f",
   "title": "Google Pixel 10 Pro - Unlocked - Obsidian - 128 GB - $699",
-  "url": "https://slickdeals.net/f/20174718-google-pixel-10-pro-unlocked-obsidian-128-gb-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+10+Pro+-+Unlocked+-+Obsidian+-+128+GB+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6306,7 +6331,10 @@
   "pct": null,
   "price": 699.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20174718-google-pixel-10-pro-unlocked-obsidian-128-gb-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "36ed91b584713d76",
@@ -6320,12 +6348,13 @@
   "pct": null,
   "price": 849.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "99a9c22d73b3b350",
   "title": "50% off service when you bring a pixel phone to google Fi",
-  "url": "https://slickdeals.net/f/20171865-50-off-service-when-you-bring-a-pixel-phone-to-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=50+off+service+when+you+bring+a+pixel+phone+to+google+Fi",
   "why": "Pixel — 50% off",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6334,12 +6363,15 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20171865-50-off-service-when-you-bring-a-pixel-phone-to-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "41441624577741e8",
   "title": "YMMV Google Pixel 11 Pro XL $700 discount for existing Google Fi Customers Only $599",
-  "url": "https://slickdeals.net/f/20171370-ymmv-google-pixel-11-pro-xl-700-discount-for-existing-google-fi-customers-only-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+Pro+XL",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -6348,7 +6380,10 @@
   "pct": null,
   "price": 700.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20171370-ymmv-google-pixel-11-pro-xl-700-discount-for-existing-google-fi-customers-only-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "8e40cc33490f3dae",
@@ -6401,7 +6436,7 @@
  {
   "id": "10590acc59694253",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -6410,7 +6445,10 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "f1d3736852d49171",
@@ -6424,7 +6462,8 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "f57ce334228a2fe6",
@@ -6438,7 +6477,8 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-10-31T23:43:03Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "5b1b43e548588b46",
@@ -6554,7 +6594,7 @@
  {
   "id": "714332e8bbd56f4d",
   "title": "ForeverWick Rolex Sweepstakes 9-30-23",
-  "url": "https://www.google.com/search?tbm=shop&q=ForeverWick+Rolex+Sweepstakes+9-30-23",
+  "url": "https://slickdeals.net/f/16830116-foreverwick-rolex-sweepstakes-9-30-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6563,7 +6603,6 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:48:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16830116-foreverwick-rolex-sweepstakes-9-30-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -6571,7 +6610,7 @@
  {
   "id": "fff9cfd4135343df",
   "title": "Watch Gang Rolex Giveaway 5/12/2023",
-  "url": "https://www.google.com/search?tbm=shop&q=Watch+Gang+Rolex+Giveaway+5+12+2023",
+  "url": "https://slickdeals.net/f/16637984-watch-gang-rolex-giveaway-5-12-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Rolex",
@@ -6580,7 +6619,6 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:48:15Z",
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16637984-watch-gang-rolex-giveaway-5-12-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -11571,7 +11609,7 @@
  {
   "id": "2ab5fbb0143fc02f",
   "title": "Bang & Olufsen Beoplay H9 Wireless Over the Ear Headphones (3rd Gen) $300",
-  "url": "https://www.google.com/search?tbm=shop&q=Bang+%26+Olufsen+Beoplay+H9+Wireless+Over+the+Ear+Headphones",
+  "url": "https://slickdeals.net/f/15532738-bang-olufsen-beoplay-h9-wireless-over-the-ear-headphones-3rd-gen-300?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ssense",
@@ -11587,7 +11625,7 @@
  {
   "id": "def8456bc64a969a",
   "title": "Common Projects - Black Original Achilles Low Sneakers",
-  "url": "https://www.google.com/search?tbm=shop&q=Common+Projects+-+Black+Original+Achilles+Low+Sneakers",
+  "url": "https://slickdeals.net/e/14670281-common-projects-black-original-achilles-low-sneakers?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ssense",
@@ -11603,7 +11641,7 @@
  {
   "id": "40c0fec337ee6b83",
   "title": "Chloé Pink Faye Wallet Bag $525 + Free Shipping & Free Return",
-  "url": "https://www.google.com/search?tbm=shop&q=Chlo+Pink+Faye+Wallet+Bag",
+  "url": "https://slickdeals.net/e/14210015-chlo-pink-faye-wallet-bag-525-free-shipping-free-return?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ssense",
@@ -11619,7 +11657,7 @@
  {
   "id": "31655b537d3c7682",
   "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
-  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
+  "url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Gucci 40% off",
   "category": "fashion",
   "source": "Slickdeals: Century 21",
@@ -11635,7 +11673,7 @@
  {
   "id": "7091ff206d5be99d",
   "title": "Century 21: 2-Days Only! Take Up to 40% Off TUMI, Valid until 11/15",
-  "url": "https://www.google.com/search?tbm=shop&q=Century+21+2-Days+Only+Take+Up+to+40+Off+TUMI+Valid+until+11+15",
+  "url": "https://slickdeals.net/e/13561984-century-21-2-days-only-take-up-to-40-off-tumi-valid-until-11-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Century 21",
@@ -11651,7 +11689,7 @@
  {
   "id": "282349b843af11d1",
   "title": "DJI Osmo Pocket 3 1-Inch CMOS Gimbal Camera 4K/120fps $263 + F/S",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+1-Inch+CMOS+Gimbal+Camera+4K+120fps",
+  "url": "https://slickdeals.net/f/20238099-dji-osmo-pocket-3-1-inch-cmos-gimbal-camera-4k-120fps-263-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 10",
@@ -11667,7 +11705,7 @@
  {
   "id": "695ccdef830425b8",
   "title": "Maui Jim Polarized Sunglasses (Various styles/Colors) from $99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11683,7 +11721,7 @@
  {
   "id": "3b9656feff013e68",
   "title": "Maui Jim Men's Polarized Sunglasses (Various) $99.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11731,7 +11769,7 @@
  {
   "id": "c1bf1aec98fe109e",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses (and others) $90 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11747,7 +11785,7 @@
  {
   "id": "0e8ef148d0570440",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11763,7 +11801,7 @@
  {
   "id": "6610a21537e7eb67",
   "title": "Maui Jim Makaha Polarized Sunglasses (Unisex, Black/Grey) $149 + $10 Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Makaha+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19855038-maui-jim-makaha-polarized-sunglasses-unisex-black-grey-149-10-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Maui Jim",
@@ -11795,7 +11833,7 @@
  {
   "id": "84e8976b29cfd82f",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses $94.50 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11811,7 +11849,7 @@
  {
   "id": "a1d65816b42f67c0",
   "title": "Maui Jim $50 off",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
+  "url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11843,7 +11881,7 @@
  {
   "id": "f21480cfbda19ea3",
   "title": "Maui Jim 'Akau Polarized Rimless Rectangle Sport Sunglasses $109 & More + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+%27Akau+Polarized+Rimless+Rectangle+Sport+Sunglasses",
+  "url": "https://slickdeals.net/f/19619520-maui-jim-akau-polarized-rimless-rectangle-sport-sunglasses-109-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11875,7 +11913,7 @@
  {
   "id": "0a1c4ded68de52a5",
   "title": "Maui Jim Men's Hookipa Polarized Sunglasses (Blue) $105",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Hookipa+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19526013-maui-jim-men-s-hookipa-polarized-sunglasses-blue-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11891,7 +11929,7 @@
  {
   "id": "8820e6880e11f240",
   "title": "Maui Jim Men's Polarized Sunglasses (2 Styles) $105 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19503774-maui-jim-men-s-polarized-sunglasses-2-styles-105-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11907,7 +11945,7 @@
  {
   "id": "1ae3d50550a553ee",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/19441032-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11939,7 +11977,7 @@
  {
   "id": "57e225595bf241b6",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/19253737-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11955,7 +11993,7 @@
  {
   "id": "7a0513eafa1bb950",
   "title": "Maui Jim Sugar Beach Polarized Sunglasses $92.4",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Sugar+Beach+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19201549-maui-jim-sugar-beach-polarized-sunglasses-92-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -11971,7 +12009,7 @@
  {
   "id": "3e5235699ad4a2d8",
   "title": "Sunglasses (Maui, Oakley, Carrera, Kate Spade etc.) Carrera Unisex 63mm Sunglasses $39.99 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Carrera+Unisex+63mm+Sunglasses",
+  "url": "https://slickdeals.net/f/18608866-sunglasses-maui-oakley-carrera-kate-spade-etc-carrera-unisex-63mm-sunglasses-39-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -12015,5 +12053,405 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18389092-woot-maui-jim-sale-37-39-i-ve-never-seen-kahuna-s-on-sale-b4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Woot"
+ },
+ {
+  "id": "fa749cc5938be122",
+  "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
+  "url": "https://www.jomashop.com/search?q=Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
+  "why": "Gucci 90% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 90,
+  "price": null,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "d3690a9952fcf85e",
+  "title": "Gucci Black Sunglasses $149.95 & More + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.95,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "1e0bf4227cf09839",
+  "title": "Men's Sunglasses: Gucci GG1857S Grey Square Men's $112.19, Ray-Ban RB2132 622/58 New Wayfarer Classic Green $86.39 & More + Free Shipping $100+",
+  "url": "https://www.jomashop.com/search?q=Men%27s+Sunglasses+Gucci+GG1857S+Grey+Square+Men%27s",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 112.19,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18865963-men-s-sunglasses-gucci-gg1857s-grey-square-men-s-112-19-ray-ban-rb2132-622-58-new-wayfarer-classic-green-86-39-more-free-shipping-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "27541bb36e6936c5",
+  "title": "Woot! Maui Jim Sale 37%-39% (I've never seen Kahuna's on sale B4)",
+  "url": "https://www.woot.com/search?query=Woot+Maui+Jim+37+-39",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": 39,
+  "price": null,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18389092-woot-maui-jim-sale-37-39-i-ve-never-seen-kahuna-s-on-sale-b4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "0db22f0b8804b0ae",
+  "title": "Gucci Women's 57mm Round Sunglasses (Shiny Black) $89.98 + Free Shipping",
+  "url": "https://www.nordstromrack.com/sr?keyword=Gucci+Women%27s+57mm+Round+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.98,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17677593-gucci-women-s-57mm-round-sunglasses-shiny-black-89-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstromrack"
+ },
+ {
+  "id": "b5ec68403e633a9b",
+  "title": "Gucci Men's Navigator Aviator-Style Acetate Sunglasses (Black) $149 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Men%27s+Navigator+Aviator-Style+Acetate+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17512515-gucci-men-s-navigator-aviator-style-acetate-sunglasses-black-149-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "fd61f101f9f03396",
+  "title": "Jomashop Sunglasses Sale: Ray-Ban Geometric $72, Oakley Fuel Cell Wrap $61.80 & More + $5.99 Shipping",
+  "url": "https://www.jomashop.com/search?q=Jomashop+Sunglasses+Ray-Ban+Geometric",
+  "why": "Gucci 40% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": 72.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17144542-jomashop-sunglasses-sale-ray-ban-geometric-72-oakley-fuel-cell-wrap-61-80-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "4e2583393024f7f7",
+  "title": "OAKLEY Prizm Sunglasses $72, RAY-BAN Caravan Green Classic G-15 Sunglasses $82 & More + Free Shipping w/ $100+",
+  "url": "https://www.google.com/search?tbm=shop&q=OAKLEY+Prizm+Sunglasses",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 72.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16825979-oakley-prizm-sunglasses-72-ray-ban-caravan-green-classic-g-15-sunglasses-82-more-free-shipping-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "edb9ba7346813daf",
+  "title": "Oakley Men's CMDN Prizm Grey Browline Sunglasses $63, COSTA DEL MARANAA Ladies Sunglasses $66 & More + Free Shipping on $100+",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+CMDN+Prizm+Grey+Browline+Sunglasses",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 63.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16617164-oakley-men-s-cmdn-prizm-grey-browline-sunglasses-63-costa-del-maranaa-ladies-sunglasses-66-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "ee3f2fa084f66772",
+  "title": "Jomashop Designer Sunglasses Sale: Salavtore Ferragamo Green Square $51, Ray-Ban Clubmaster Classic $77, Oakley Plazma Prizm Grey Sport & More + Free Shipping on Orders $100+",
+  "url": "https://www.jomashop.com/search?q=Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 51.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "8b0f4754b82b3bd2",
+  "title": "Jomashop Sunglasses Sale: Ray-Ban Unisex Green Classic Phantos $65, Oakley Men's Polarized Prizm $78, & More + Free Shipping on Orders $70+",
+  "url": "https://www.jomashop.com/search?q=Jomashop+Sunglasses+Ray-Ban+Unisex+Green+Classic+Phantos",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 65.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16389985-jomashop-sunglasses-sale-ray-ban-unisex-green-classic-phantos-65-oakley-men-s-polarized-prizm-78-more-free-shipping-on-orders-70?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "ad0ff8b99be538fa",
+  "title": "Jomashop Sunglasses Sale: RAY-BAN Green Clubmaster $77, Men's OAKLEY Plazma Prizm Trail Torch $80, Men's COSTA DEL MAR Tico Grey Polarized $59.54, & More + Shipping is Free w/ $70+",
+  "url": "https://www.jomashop.com/search?q=Jomashop+Sunglasses+RAY-BAN+Green+Clubmaster",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 77.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16246786-jomashop-sunglasses-sale-ray-ban-green-clubmaster-77-men-s-oakley-plazma-prizm-trail-torch-80-men-s-costa-del-mar-tico-grey-polarized-59-54-more-shipping-is-free-w-70?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "5c4aefc87bbf24d7",
+  "title": "GUCCI Grey Gradient Round Ladies Sunglasses $139.99 @Jomashop",
+  "url": "https://www.jomashop.com/search?q=GUCCI+Grey+Gradient+Round+Ladies+Sunglasses",
+  "why": "Gucci 71% off",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 71,
+  "price": 139.99,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16193854-gucci-grey-gradient-round-ladies-sunglasses-139-99-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "43cb4e5b0ae66ed9",
+  "title": "Jomashop Sunglasses Sale: RAY-BAN Aviators $63, Men's OAKLEY Holbrooks $69, Women's COSTA DEL MAR Isabelas $53, & More + $5.99 Shipping",
+  "url": "https://www.jomashop.com/search?q=Jomashop+Sunglasses+RAY-BAN+Aviators",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 63.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16150561-jomashop-sunglasses-sale-ray-ban-aviators-63-men-s-oakley-holbrooks-69-women-s-costa-del-mar-isabelas-53-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "8c5525dcfe6b44fb",
+  "title": "VERY YMMV CVS Optometry Clearance 60%-80% Designer Brands",
+  "url": "https://www.google.com/search?tbm=shop&q=VERY+CVS+Optometry+Clearance+60+-80+Designer+Brands",
+  "why": "80% off",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 80,
+  "price": null,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15915235-very-ymmv-cvs-optometry-clearance-60-80-designer-brands?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "a064e9da18ecd909",
+  "title": "Extra 50% Off Sunglasses (various styles): Costa from $59, Ray-Ban from $61, Gucci from $118, Fendi from $75.5",
+  "url": "https://www.google.com/search?tbm=shop&q=Extra+50+Off+Sunglasses+Costa+from",
+  "why": "Gucci 50% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 59.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15686962-extra-50-off-sunglasses-various-styles-costa-from-59-ray-ban-from-61-gucci-from-118-fendi-from-75-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "6b0ad2c252c199c3",
+  "title": "Sunglasses Super Sale: Dior, Fendi, Gucci, Ray-Ban- Extra 50% Off: Starting at $14",
+  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Super+Dior+Fendi+Gucci+Ray-Ban-+Extra+50+Off+Starting+at",
+  "why": "Gucci 50% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 14.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15664330-sunglasses-super-sale-dior-fendi-gucci-ray-ban-extra-50-off-starting-at-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "f883f6bc8a247eab",
+  "title": "HUGE DESIGNER SUNGLASSES SALE (YSL, Gucci, Prada) $100",
+  "url": "https://www.google.com/search?tbm=shop&q=HUGE+DESIGNER+SUNGLASSES",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": 15,
+  "price": 100.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15572227-huge-designer-sunglasses-sale-ysl-gucci-prada-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "f69802d27c3c4cc1",
+  "title": "GUCCI Grey Gradient Sunglasses $195 + Free Shipping $195.99",
+  "url": "https://www.google.com/search?tbm=shop&q=GUCCI+Grey+Gradient+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 195.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15390922-gucci-grey-gradient-sunglasses-195-free-shipping-195-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "bc31142af5ef3884",
+  "title": "Joma Shop: Extra 30% Off Blowout Sale - Designer Sunglasses & Eyeglasses under $100",
+  "url": "https://www.google.com/search?tbm=shop&q=Joma+Shop+Extra+30+Off+Blowout+-+Designer+Sunglasses+%26+Eyeglasses+under",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 100.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15347245-joma-shop-extra-30-off-blowout-sale-designer-sunglasses-eyeglasses-under-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "8f9d7134897b5d8d",
+  "title": "CELINE Geometric Ladies Sunglasses CL40069U30N61 for $159.99 + FS",
+  "url": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 159.99,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "d4fead0931b33fad",
+  "title": "Jomashop Clearance Sale: Take Extra 20% Off Over 5000 Items (Tissot, Tudor, Breitling, Gucci, Tiffany and much more)",
+  "url": "https://www.jomashop.com/search?q=Jomashop+Clearance+Take+Extra+20+Off+Over+5000+Items",
+  "why": "Tudor 53% off",
+  "category": "watches",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 53,
+  "price": null,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15124990-jomashop-clearance-sale-take-extra-20-off-over-5000-items-tissot-tudor-breitling-gucci-tiffany-and-much-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "551c882467948e4f",
+  "title": "Woot! Eyewear & Sunglasses Sale on Brand Names: Ray-Ban, Oakley, Tiffany, Nike, Gucci, Fendi and more. $32 - $115 + FS with PRIME",
+  "url": "https://www.woot.com/search?query=Woot+Eyewear+%26+Sunglasses+on+Brand+Names+Ray-Ban+Oakley+Tiffany+Nike+Gucci+Fendi",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gucci Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 32.0,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/14962061-woot-eyewear-sunglasses-sale-on-brand-names-ray-ban-oakley-tiffany-nike-gucci-fendi-and-more-32-115-fs-with-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
+ },
+ {
+  "id": "ce310f9bd6e31531",
+  "title": "EXOTIC! 2 in 1 trip from Berlin to New York and Bermuda 🌴 for €684",
+  "url": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Berlin%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC684",
+  "why": "🌴 NEW YORK → Bermuda",
+  "category": "flights",
+  "source": "Fly4free USA",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.fly4free.com/flight-deals/europe/flights-from-berlin-new-york-and-bermuda/",
+  "route_fixed": true
+ },
+ {
+  "id": "78a26aa3ae70e338",
+  "title": "EXOTIC! 2 in 1 trip from Budapest to New York and Bermuda 🌴 for €797",
+  "url": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Budapest%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC797",
+  "why": "🌴 NEW YORK → Bermuda",
+  "category": "flights",
+  "source": "Fly4free USA",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:29:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-new-york-and-bermuda/",
+  "route_fixed": true
  }
 ]
