@@ -4344,7 +4344,7 @@
   "pct": null,
   "price": null,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:42Z",
+  "checked_at": "2026-11-01T13:01:20Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19921380-fragrances-from-creed-azarro-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Woot"
@@ -4361,7 +4361,7 @@
   "pct": null,
   "price": 79.0,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:45Z",
+  "checked_at": "2026-11-01T13:01:23Z",
   "link_tried3": true
  },
  {
@@ -4376,7 +4376,7 @@
   "pct": null,
   "price": 264.99,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:46Z",
+  "checked_at": "2026-11-01T13:01:24Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19845252-creed-aventus-for-her-women-s-luxury-perfume-fruity-floral-fragrance-75-fl-oz-264-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -4393,7 +4393,7 @@
   "pct": null,
   "price": 264.99,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:48Z",
+  "checked_at": "2026-11-01T13:01:26Z",
   "link_tried3": true
  },
  {
@@ -4408,7 +4408,7 @@
   "pct": null,
   "price": 68.0,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:50Z",
+  "checked_at": "2026-11-01T13:01:28Z",
   "link_tried3": true
  },
  {
@@ -4423,7 +4423,7 @@
   "pct": null,
   "price": 66.29,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:52Z",
+  "checked_at": "2026-11-01T13:01:30Z",
   "link_tried3": true
  },
  {
@@ -4438,7 +4438,7 @@
   "pct": null,
   "price": 229.99,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:54Z",
+  "checked_at": "2026-11-01T13:01:32Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19754406-costco-members-3-3-fl-oz-creed-aventus-eau-de-parfum-cologne-229-99-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco"
@@ -4455,7 +4455,7 @@
   "pct": null,
   "price": 264.99,
   "found_at": "2026-10-31T23:21:58Z",
-  "checked_at": "2026-11-01T04:03:56Z",
+  "checked_at": "2026-11-01T13:01:33Z",
   "link_tried3": true
  },
  {
@@ -21766,7 +21766,7 @@
  {
   "id": "1926755623f0a05c",
   "title": "Survival Kids - Switch 2 - down 21.99% ($17.97) to $63.75 from $81.72",
-  "url": "https://www.google.com/search?tbm=shop&q=Survival+Kids+-+Switch+2+-+down+21.99",
+  "url": "https://camelcamelcamel.com/product/B0FKTSCKDN",
   "why": "",
   "category": "tech",
   "source": "camelcamelcamel Amazon drops",
@@ -21779,5 +21779,107 @@
   "source_url": "https://camelcamelcamel.com/product/B0FKTSCKDN",
   "store": "Google",
   "checked_at": "2026-11-01T12:55:41Z"
+ },
+ {
+  "id": "7fb4a06387b30b58",
+  "title": "Get $100 credit to Patagonia.com (valid through 11/17/26) if you assist 3 friends making plans to vote.",
+  "url": "https://www.google.com/search?tbm=shop&q=Get",
+  "why": "",
+  "category": "fashion",
+  "source": "r/frugalfemalefashion",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-01T13:01:13Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/FrugalFemaleFashion/comments/1wszpuo/get_100_credit_to_patagoniacom_valid_through/",
+  "store": "Google",
+  "checked_at": "2026-11-01T13:01:17Z"
+ },
+ {
+  "id": "c28890b9243354dc",
+  "title": "Off-White Out of Office High Top Sneaker in White/Black at Nordstrom, Size 6Us $271.25",
+  "url": "https://www.nordstrom.com/sr?keyword=Off-White+Out+of+Office+High+Top+Sneaker+in+White+Black",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Nordstrom Designer",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 271.25,
+  "found_at": "2026-11-01T13:01:13Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17551044-off-white-out-of-office-high-top-sneaker-in-white-black-at-nordstrom-size-6us-271-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "checked_at": "2026-11-01T13:01:18Z"
+ },
+ {
+  "id": "0265ede5066f06e7",
+  "title": "Balenciaga Patched Mixed Media Long Sleeve Cotton T-Shirt Dress in Black at Nordstrom, Size 2 $780 + Free Shipping",
+  "url": "https://www.nordstrom.com/sr?keyword=Balenciaga+Patched+Mixed+Media+Long+Sleeve+Cotton+T-Shirt+Dress+in+Black",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Nordstrom Designer",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 780.0,
+  "found_at": "2026-11-01T13:01:13Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17527008-balenciaga-patched-mixed-media-long-sleeve-cotton-t-shirt-dress-in-black-at-nordstrom-size-2-780-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "checked_at": "2026-11-01T13:01:19Z"
+ },
+ {
+  "id": "ac7eaafd8fc535f2",
+  "title": "Apple iPad 7th Gen 32GB, WiFi, Gold (Renewed) - down 9.61% ($13.22) to $124.36 from $137.58",
+  "url": "https://www.apple.com/us/search/Apple%20iPad%207th%20Gen%2032GB%20WiFi%20Gold%20-%20down%209.61",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.22,
+  "found_at": "2026-11-01T13:01:13Z",
+  "link_tried3": true,
+  "source_url": "https://camelcamelcamel.com/product/B0826562F1",
+  "store": "Apple",
+  "checked_at": "2026-11-01T13:01:19Z"
+ },
+ {
+  "id": "60a3688c0990d435",
+  "title": "Hermes Eau de Citron Noir for ...dy Shower Gel, 6.7 Ounce/200ml - down 12.92% ($7.05) to $47.50 from $54.55",
+  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Eau+de+Citron+Noir+for+...dy+Shower+Gel+6.7+Ounce+200ml+-+down+12.92",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.05,
+  "found_at": "2026-11-01T13:01:13Z",
+  "link_tried3": true,
+  "source_url": "https://camelcamelcamel.com/product/B07FB9LXXT",
+  "store": "Google",
+  "checked_at": "2026-11-01T13:01:19Z"
+ },
+ {
+  "id": "5e3bd4d0d2fcb97d",
+  "title": "Paris Hilton Gold Rush Nightfa...lette Men's Cologne, 3.4 Fl Oz - down 11.92% ($4.54) to $33.55 from $38.09",
+  "url": "https://www.google.com/search?tbm=shop&q=Paris+Hilton+Gold+Rush+Nightfa...lette+Men%27s+Cologne+3.4+Fl+Oz+-+down+11.92",
+  "why": "",
+  "category": "fragrance",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.54,
+  "found_at": "2026-11-01T13:01:13Z",
+  "link_tried3": true,
+  "source_url": "https://camelcamelcamel.com/product/B0FNQ3RV6J",
+  "store": "Google",
+  "checked_at": "2026-11-01T13:01:19Z"
  }
 ]
