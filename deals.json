@@ -1270,7 +1270,8 @@
   "hot": true,
   "pct": null,
   "price": 137.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:19:03Z"
  },
  {
   "id": "6e8cb19830194365",
@@ -1283,7 +1284,8 @@
   "hot": true,
   "pct": null,
   "price": 120.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:19:03Z"
  },
  {
   "id": "f75ce80b5d86ab5f",
@@ -1296,7 +1298,8 @@
   "hot": true,
   "pct": null,
   "price": 151.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:19:03Z"
  },
  {
   "id": "3be24d36d0b792ea",
@@ -1309,7 +1312,8 @@
   "hot": true,
   "pct": null,
   "price": 158.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:19:03Z"
  },
  {
   "id": "67404dd775f66e64",
@@ -1322,7 +1326,8 @@
   "hot": true,
   "pct": null,
   "price": 147.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:19:03Z"
  },
  {
   "id": "ffeb576803e5f9ab",
@@ -1335,7 +1340,8 @@
   "hot": true,
   "pct": null,
   "price": 126.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:19:03Z"
  },
  {
   "id": "a04cd8c491f27edb",
@@ -1348,7 +1354,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:05Z"
  },
  {
   "id": "8f7a11eaf2e7050e",
@@ -1361,7 +1368,8 @@
   "hot": false,
   "pct": null,
   "price": 386.4,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:06Z"
  },
  {
   "id": "a8240627de2c650f",
@@ -1374,7 +1382,8 @@
   "hot": false,
   "pct": null,
   "price": 14.5,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:08Z"
  },
  {
   "id": "f992e0bd20be7e5a",
@@ -1387,7 +1396,8 @@
   "hot": false,
   "pct": null,
   "price": 67.19,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:09Z"
  },
  {
   "id": "d28a2d50b2317e76",
@@ -1400,7 +1410,8 @@
   "hot": false,
   "pct": 10,
   "price": 300.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:11Z"
  },
  {
   "id": "a97c27f275ee9559",
@@ -1413,7 +1424,8 @@
   "hot": true,
   "pct": 50,
   "price": 59.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:12Z"
  },
  {
   "id": "737c82f7becdccfa",
@@ -1426,7 +1438,8 @@
   "hot": false,
   "pct": null,
   "price": 75.5,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:14Z"
  },
  {
   "id": "4d8773f6e4116ed6",
@@ -1439,7 +1452,8 @@
   "hot": true,
   "pct": 50,
   "price": 14.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:15Z"
  },
  {
   "id": "b4e52f2d6b885d1f",
@@ -1452,7 +1466,8 @@
   "hot": false,
   "pct": 30,
   "price": 100.0,
-  "found_at": "2026-10-31T22:34:56Z"
+  "found_at": "2026-10-31T22:34:56Z",
+  "checked_at": "2026-11-01T02:19:17Z"
  },
  {
   "id": "77cb25b727ff5b53",
@@ -9681,7 +9696,8 @@
   "hot": false,
   "pct": null,
   "price": 699.0,
-  "found_at": "2026-11-01T00:15:08Z"
+  "found_at": "2026-11-01T00:15:08Z",
+  "link_tried": true
  },
  {
   "id": "66e0270cc739a021",
@@ -11144,7 +11160,8 @@
   "hot": false,
   "pct": null,
   "price": 51.0,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "0694eb59fa695391",
@@ -11157,7 +11174,8 @@
   "hot": false,
   "pct": null,
   "price": 247.49,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "adeda4a2a81f63cc",
@@ -11170,7 +11188,8 @@
   "hot": false,
   "pct": null,
   "price": 216.0,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "78ce19b86061f7b2",
@@ -11183,7 +11202,8 @@
   "hot": false,
   "pct": null,
   "price": 219.99,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "132d82e9c11b7010",
@@ -11196,7 +11216,8 @@
   "hot": false,
   "pct": 10,
   "price": 319.49,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "eee3b8a8ce972fbd",
@@ -11209,7 +11230,8 @@
   "hot": false,
   "pct": null,
   "price": 51.0,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "1b343e3bd818b3e4",
@@ -11222,7 +11244,8 @@
   "hot": false,
   "pct": 20,
   "price": null,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "56ad736edf2b70e1",
@@ -11235,7 +11258,8 @@
   "hot": false,
   "pct": null,
   "price": 62.0,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "2f1d42a88e72d5ed",
@@ -11248,7 +11272,8 @@
   "hot": false,
   "pct": null,
   "price": 225.0,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
  },
  {
   "id": "3bdc9972d79ee047",
@@ -11261,6 +11286,21 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-11-01T02:13:03Z"
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "8a8b3b39d2f303ea",
+  "title": "Citizen Men's Automatic Promaster Sea Dive Watch $255",
+  "url": "https://slickdeals.net/f/20237178-citizen-men-s-automatic-promaster-sea-dive-watch-255?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 255.0,
+  "found_at": "2026-11-01T02:18:46Z",
+  "link_tried": true
  }
 ]
