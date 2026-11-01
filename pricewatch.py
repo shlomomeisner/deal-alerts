@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Price alerts — anyone types what they want and the price they'd pay on the
-Steal Watch page (alerts.html). When a deal for it shows up at or under that price,
-their phone gets an ntfy notification. Free, runs inside the GitHub Action.
+"""Price alerts — anyone types what they want, the price they'd pay and their cell number
+on the Steal Watch page (alerts.html). When a deal for it shows up at or under that price,
+they get a text message (Twilio, see sms.py). Runs inside the GitHub Action.
 
-How requests arrive: the page posts a small JSON message to the public ntfy topic
-WANTS_TOPIC (no login, no server). Each scan this script reads new messages from it,
+How requests arrive: the page posts a small JSON message to a public ntfy.sh mailbox
+(WANTS_TOPIC) — nobody needs the ntfy app; it's only used as a free drop box. Phone
+numbers are encrypted in the browser with the public key in alerts.html and can only be
+read here with the ALERT_KEY secret, so they never appear in plain text anywhere. Each scan this script reads new messages from it,
 keeps the list in watches.json, and checks each watch against Slickdeals' search feed
 plus every deal the watcher already collected.
 """
@@ -16,7 +18,8 @@ import time
 import urllib.parse
 import urllib.request
 
-from watcher import fetch, parse_feed, notify, UA
+from watcher import fetch, parse_feed
+import sms
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 WATCHES = os.path.join(ROOT, "watches.json")
@@ -26,7 +29,7 @@ WANTS_TOPIC = os.environ.get("WANTS_TOPIC", "steal-watch-wants-c7e2a80833")
 SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh").strip() or "https://ntfy.sh"
 MAX_WATCHES = 300
 CHECKS_PER_SCAN = 25          # each watch is searched about every 15-30 min
-TOPIC_RE = re.compile(r"^[A-Za-z0-9_-]{8,64}$")
+HEX64 = re.compile(r"^[0-9a-f]{64}$")
 STOP = {"the", "a", "an", "for", "and", "or", "with", "of", "in", "on", "to", "new", "deal", "sale"}
 
 
@@ -87,15 +90,19 @@ def apply_requests(watches, reqs):
     for r in reqs:
         if not isinstance(r, dict):
             continue
-        topic = str(r.get("topic", ""))
         wid = str(r.get("id", ""))[:40]
-        if not TOPIC_RE.match(topic) or not re.match(r"^[A-Za-z0-9_-]{4,40}$", wid):
+        if not re.match(r"^[A-Za-z0-9_-]{4,40}$", wid):
             continue
         if r.get("action") == "remove":
             w = by_id.get(wid)
-            if w and w["topic"] == topic:      # only the person who made it can remove it
+            secret = str(r.get("token", ""))[:128]
+            # only the browser that made it (it holds the secret token) can remove it
+            if w and hashlib.sha256(secret.encode()).hexdigest() == w["owner"]:
                 watches.remove(w)
                 by_id.pop(wid)
+            continue
+        owner, contact = str(r.get("owner", "")), str(r.get("contact", ""))
+        if not HEX64.match(owner) or not re.match(r"^[A-Za-z0-9+/=]{300,400}$", contact):
             continue
         q = re.sub(r"\s+", " ", str(r.get("q", ""))).strip()[:80]
         try:
@@ -104,9 +111,9 @@ def apply_requests(watches, reqs):
             continue
         if len(words(q)) == 0 or not (0 < mx < 100000) or wid in by_id:
             continue
-        if sum(1 for w in watches if w["topic"] == topic) >= 25 or len(watches) >= MAX_WATCHES:
+        if sum(1 for w in watches if w["owner"] == owner) >= 25 or len(watches) >= MAX_WATCHES:
             continue
-        w = {"id": wid, "q": q, "max": mx, "topic": topic, "created": now_iso(),
+        w = {"id": wid, "q": q, "max": mx, "owner": owner, "contact": contact, "created": now_iso(),
              "checked": "", "hits": [], "seen": []}
         watches.append(w)
         by_id[wid] = w
@@ -138,7 +145,17 @@ def main():
     collected = load(DEALS, []) + load(HUNTED, [])
     watches.sort(key=lambda w: w.get("checked", ""))
     sent = 0
-    for w in watches[:CHECKS_PER_SCAN]:
+    if not (sms.configured() and os.environ.get("ALERT_KEY")):
+        print("price alerts: Twilio / ALERT_KEY secrets not set yet — saving watches only")
+        watches_to_check = []
+    else:
+        watches_to_check = watches[:CHECKS_PER_SCAN]
+    for w in watches_to_check:
+        try:
+            phone = sms.decrypt(w["contact"])
+        except Exception:
+            print("WARN can't read a phone number; skipping", w["id"])
+            continue
         first_look = not w.get("checked")
         seen = set(w.get("seen", []))
         best = []
@@ -154,8 +171,8 @@ def main():
         # first look: only the single cheapest current match; afterwards every new one (max 3 per scan)
         for p, it in best[: 1 if first_look else 3]:
             try:
-                notify(w["topic"], SERVER, f"🎯 {w['q']} — ${p:g}",
-                       f"{it['title']}\nYour price: ${w['max']:g}", it["url"], False, ["dart"])
+                sms.send_sms(phone, f"🎯 Price alert: {w['q']} is ${p:g} (your price ${w['max']:g})\n"
+                                    f"{it['title'][:120]}\n{it['url']}\nStop: reply STOP")
                 sent += 1
                 w["hits"] = (w.get("hits", []) + [{"title": it["title"], "price": p, "url": it["url"],
                                                     "at": now_iso()}])[-5:]
@@ -165,6 +182,7 @@ def main():
         w["seen"] = list(seen)[-400:]
         w["checked"] = now_iso()
 
+    state["texts_ready"] = bool(sms.configured() and os.environ.get("ALERT_KEY"))
     with open(WATCHES, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=1, ensure_ascii=False)
     print(f"price alerts: {len(watches)} watching, {sent} sent")

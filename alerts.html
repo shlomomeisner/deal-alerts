@@ -25,7 +25,7 @@ input:focus{outline:2px solid var(--accent);outline-offset:1px}
 .money input{padding-left:28px;font-family:var(--mono)}
 button{font:700 15px var(--body);border:0;border-radius:12px;padding:13px 18px;cursor:pointer;background:var(--ink);color:var(--bg);width:100%;margin-top:14px}
 button:disabled{opacity:.5}
-.topic{display:flex;gap:8px;align-items:center;background:var(--bg);border:1px dashed var(--line);border-radius:12px;padding:10px 12px;font:600 14px var(--mono);word-break:break-all}
+.unused{display:flex;gap:8px;align-items:center;background:var(--bg);border:1px dashed var(--line);border-radius:12px;padding:10px 12px;font:600 14px var(--mono);word-break:break-all}
 .topic button{width:auto;margin:0;padding:7px 12px;font-size:13px;flex:none;background:var(--accent);color:#fff}
 .small{font-size:13px;color:var(--muted)}
 ol{padding-left:20px;margin:8px 0}ol li{margin:4px 0}
@@ -41,24 +41,19 @@ ol{padding-left:20px;margin:8px 0}ol li{margin:4px 0}
 <body><div class="wrap">
 <a class="back" href="./">← Steal Watch</a>
 <h1>Price alerts</h1>
-<p class="lede">Type what you want and the most you'd pay. When a deal for it shows up at or under your price, your phone buzzes.</p>
-
-<div class="card">
-  <div class="step">Step 1 · once per phone</div>
-  <div>Get the free <b>ntfy</b> app (<a href="https://apps.apple.com/app/ntfy/id1625396347">iPhone</a> · <a href="https://play.google.com/store/apps/details?id=io.heckel.ntfy">Android</a>), tap <b>+</b> and subscribe to your personal code:</div>
-  <div class="topic" style="margin-top:10px"><span id="topic" style="flex:1"></span><button id="copy" type="button">Copy</button></div>
-  <p class="small">This code is saved in this browser. Use the same phone and browser to add or remove your alerts.</p>
-</div>
+<p class="lede">Type what you want and the most you'd pay. When a deal for it shows up at or under your price, you get a text message.</p>
 
 <form class="card" id="f">
-  <div class="step">Step 2 · what you want</div>
+  <div class="step">New alert</div>
   <label for="q">Item</label>
   <input id="q" maxlength="80" placeholder="e.g. AirPods Pro 3, PS5 Pro, UGG Tasman" required autocomplete="off">
   <label for="max">Alert me at or under</label>
   <div class="money"><span>$</span><input id="max" type="number" inputmode="decimal" min="1" step="0.01" placeholder="199" required></div>
+  <label for="phone">Text me at</label>
+  <input id="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="(212) 555-1234" required>
   <button id="add" type="submit">Start watching</button>
   <div class="msg" id="msg" role="status"></div>
-  <p class="small">Tip: use a few key words (brand + model). Every word must appear in the deal title. Checked about every 15–30 minutes.</p>
+  <p class="small">Tip: use a few key words (brand + model). Every word must appear in the deal title. Checked about every 15–30 minutes. Your number is encrypted on this phone before it's sent and is only used for these alerts. Reply STOP to any text to stop them. Msg &amp; data rates may apply.</p>
 </form>
 
 <div class="card">
@@ -69,37 +64,52 @@ ol{padding-left:20px;margin:8px 0}ol li{margin:4px 0}
 <script>
 const WANTS="steal-watch-wants-c7e2a80833";
 const RAW="https://raw.githubusercontent.com/shlomomeisner/deal-alerts/main/";
+const PUB={"kty": "RSA", "n": "vvvImhG9Eke3F2MTihLW5-b2EaO9oSSobjCoAI34AXLdabg4sbOaCBhjn_MaQt_3NYqP3Bcy7fbJ4zLckSz9dUnb3bYbfmsFvblBXFGeKM4oagJH0hs-FkkHlN5lRWznglAaS-iM-oDvq0JMMMLWDmWISu5yNzEFdqERoYcEMEH63ptrvfV2dunNUiJTTrPgwoesdXtnuLipfriUlFPChQWfe5X6skImsFI7WHNBS_6On4VB8SbR0GEicpgviICYWxBRU2aRO8xwHZyQRB2bDYe-S38qGpshbemV6rxgURHK4wKFHTLNH6abFxs6haFvyU1B15zgrsmhVyVGCuNV3Q", "e": "AQAB", "alg": "RSA-OAEP-256", "ext": true};
 const rnd=n=>Array.from(crypto.getRandomValues(new Uint8Array(n)),b=>b.toString(16).padStart(2,"0")).join("");
-let topic="",pending=[];
-try{topic=localStorage.getItem("sw.alerts.topic")||"";pending=JSON.parse(localStorage.getItem("sw.alerts.pending")||"[]")}catch(e){}
-if(!/^[A-Za-z0-9_-]{8,64}$/.test(topic)){topic="sw-alerts-"+rnd(6);try{localStorage.setItem("sw.alerts.topic",topic)}catch(e){}}
+const hex=buf=>Array.from(new Uint8Array(buf),b=>b.toString(16).padStart(2,"0")).join("");
+let token="",pending=[];
+try{token=localStorage.getItem("sw.alerts.token")||"";pending=JSON.parse(localStorage.getItem("sw.alerts.pending")||"[]")}catch(e){}
+if(!/^[0-9a-f]{32}$/.test(token)){token=rnd(16);try{localStorage.setItem("sw.alerts.token",token)}catch(e){}}
 const savePending=()=>{try{localStorage.setItem("sw.alerts.pending",JSON.stringify(pending))}catch(e){}};
-document.getElementById("topic").textContent=topic;
-document.getElementById("copy").onclick=async e=>{try{await navigator.clipboard.writeText(topic);e.target.textContent="Copied"}catch(_){e.target.textContent="Select it"}setTimeout(()=>e.target.textContent="Copy",1500)};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const send=body=>fetch("https://ntfy.sh/"+WANTS,{method:"POST",body:JSON.stringify(body)}).then(r=>{if(!r.ok)throw 0});
-let live=[];
+let owner="",live=[],ready=true;
+async function ownerHash(){if(!owner)owner=hex(await crypto.subtle.digest("SHA-256",new TextEncoder().encode(token)));return owner}
+async function encryptPhone(p){
+  const key=await crypto.subtle.importKey("jwk",PUB,{name:"RSA-OAEP",hash:"SHA-256"},false,["encrypt"]);
+  const ct=await crypto.subtle.encrypt({name:"RSA-OAEP"},key,new TextEncoder().encode(p));
+  return btoa(String.fromCharCode(...new Uint8Array(ct)));
+}
+function normPhone(v){const d=v.replace(/\D/g,"");if(d.length===10)return"+1"+d;if(d.length===11&&d[0]==="1")return"+"+d;return null}
 function render(){
   const ids=new Set(live.map(w=>w.id));
   pending=pending.filter(p=>!ids.has(p.id)&&Date.now()-p.t<36e5*6);savePending();
   const all=[...live,...pending.map(p=>({...p,pending:true}))];
   const el=document.getElementById("list");
-  if(!all.length){el.innerHTML='<div class="empty">No alerts yet. Add one above.</div>';return}
-  el.innerHTML=all.map(w=>{const h=(w.hits||[]).slice(-1)[0];return `<div class="w"><div class="q"><b>${esc(w.q)}</b>${w.pending?'<span class="small">Starting… (shows here within ~10 min)</span>':h?`<a class="hit" href="${esc(h.url)}" target="_blank" rel="noopener">Last hit: $${esc(h.price)} · ${esc(h.title.slice(0,60))}</a>`:'<span class="small">Watching</span>'}</div><div class="p">≤ $${esc(w.max)}</div>${w.pending?"":`<button class="x" data-id="${esc(w.id)}" type="button">Remove</button>`}</div>`}).join("");
-  el.querySelectorAll(".x").forEach(b=>b.onclick=async()=>{b.disabled=true;try{await send({action:"remove",id:b.dataset.id,topic});live=live.filter(w=>w.id!==b.dataset.id);render()}catch(e){b.disabled=false;b.textContent="Retry"}});
+  const note=ready?"":'<div class="small" style="margin-bottom:8px">Texts aren\'t switched on yet — your alerts are saved and will start as soon as they are.</div>';
+  if(!all.length){el.innerHTML=note+'<div class="empty">No alerts yet. Add one above.</div>';return}
+  el.innerHTML=note+all.map(w=>{const h=(w.hits||[]).slice(-1)[0];return `<div class="w"><div class="q"><b>${esc(w.q)}</b>${w.pending?'<span class="small">Starting… (shows here within ~10 min)</span>':h?`<a class="hit" href="${esc(h.url)}" target="_blank" rel="noopener">Last hit: $${esc(h.price)} · ${esc(h.title.slice(0,60))}</a>`:'<span class="small">Watching</span>'}</div><div class="p">≤ $${esc(w.max)}</div>${w.pending?"":`<button class="x" data-id="${esc(w.id)}" type="button">Remove</button>`}</div>`}).join("");
+  el.querySelectorAll(".x").forEach(b=>b.onclick=async()=>{b.disabled=true;try{await send({action:"remove",id:b.dataset.id,token});live=live.filter(w=>w.id!==b.dataset.id);render()}catch(e){b.disabled=false;b.textContent="Retry"}});
 }
 async function load(){
-  try{const r=await fetch(RAW+"watches.json?t="+Date.now(),{cache:"no-store"});const s=r.ok?await r.json():{};live=((s&&s.watches)||[]).filter(w=>w.topic===topic)}catch(e){}
+  const me=await ownerHash();
+  try{const r=await fetch(RAW+"watches.json?t="+Date.now(),{cache:"no-store"});const s=r.ok?await r.json():{};live=((s&&s.watches)||[]).filter(w=>w.owner===me);ready=!!(s&&s.texts_ready)}catch(e){}
   render();
 }
+try{const p=localStorage.getItem("sw.alerts.phone");if(p)document.getElementById("phone").value=p}catch(e){}
 document.getElementById("f").onsubmit=async e=>{
   e.preventDefault();
-  const q=document.getElementById("q").value.trim(),max=parseFloat(document.getElementById("max").value),msg=document.getElementById("msg"),btn=document.getElementById("add");
+  const q=document.getElementById("q").value.trim(),max=parseFloat(document.getElementById("max").value),phone=normPhone(document.getElementById("phone").value),msg=document.getElementById("msg"),btn=document.getElementById("add");
   if(!q||!(max>0)){msg.textContent="Add an item and a price.";return}
+  if(!phone){msg.textContent="Enter a 10-digit US cell number.";return}
   btn.disabled=true;msg.textContent="Saving…";
-  const w={action:"add",id:rnd(6),q,max,topic};
-  try{await send(w);pending.push({id:w.id,q,max,t:Date.now()});savePending();msg.textContent="✓ Watching. You'll get a ntfy alert when it hits $"+max+".";e.target.reset();render()}
-  catch(err){msg.textContent="Couldn't save — check your connection and try again."}
+  try{
+    const w={action:"add",id:rnd(6),q,max,owner:await ownerHash(),contact:await encryptPhone(phone)};
+    await send(w);pending.push({id:w.id,q,max,t:Date.now()});savePending();
+    try{localStorage.setItem("sw.alerts.phone",document.getElementById("phone").value)}catch(_){}
+    msg.textContent="✓ Watching. We'll text you when it hits $"+max+".";
+    document.getElementById("q").value="";document.getElementById("max").value="";render();
+  }catch(err){msg.textContent="Couldn't save — check your connection and try again."}
   btn.disabled=false;
 };
 load();setInterval(load,120000);

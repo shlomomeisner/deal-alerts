@@ -285,23 +285,33 @@ function render(){
   $("list").replaceChildren(...rows.map(card));
 }
 function status(){
-  $("statusText").textContent=lastRun?`Last hunt ${ago(lastRun)}`:"Waiting for first hunt";
+  $("statusText").textContent=lastRun?`Updated ${ago(lastRun)}`:"Waiting for first scan";
   $("dot").classList.toggle("live",!!lastRun&&Date.now()-new Date(lastRun)<7200000);
 }
 $("keptStat").onclick=()=>{cat="kept";saveLocal();render();$("rail").scrollIntoView({behavior:"smooth",block:"start"})};
 render();status();setInterval(()=>{status();render()},60000);
 
 const RAW="https://raw.githubusercontent.com/shlomomeisner/deal-alerts/main/";
+const POSTS=/(slickdeals\.net|dealnews\.com|theflightdeal\.com|secretflying\.com|fly4free\.com|thriftytraveler\.com|9to5toys\.com|reddit\.com|news\.google\.com)/i;
+const JUNK=/\b(digital download|video game|old navy|devil wears prada|nintendo switch\)|ps5 game|game key|kids'|toddler)\b/i;
+function fixDeal(d){
+  if(!d||!d.url)return d;
+  if(d.category==="flights"&&POSTS.test(d.url)){            // open the ticket search, not the blog
+    const t=String(d.title||"").replace(/\$\s?[\d,]+.*$/,"").replace(/\b(round[- ]?trip|nonstop|only)\b/gi,"").trim();
+    d={...d,source_url:d.source_url||d.url,url:"https://www.google.com/travel/flights?q="+encodeURIComponent("Flights "+t)};
+  }
+  return d;
+}
 const getJSON=f=>fetch(RAW+f+"?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null);
 async function load(){
   const [w,h,st]=await Promise.all([getJSON("deals.json"),getJSON("hunted.json"),getJSON("status.json")]);
   const now=Date.now(),byId=new Map();
-  for(const d of (Array.isArray(h)?h:[]))if(d&&d.id)byId.set(d.id,d);                    // hand-checked by the hourly hunter
-  for(const d of (Array.isArray(w)?w:[]))if(d&&d.id&&!byId.has(d.id))byId.set(d.id,d); // 5-minute scan; stays until the hunter confirms it is gone
+  for(const d0 of (Array.isArray(h)?h:[])){const d=fixDeal(d0);if(d&&d.id&&!JUNK.test(d.title||""))byId.set(d.id,d)}                    // hand-checked by the hourly hunter
+  for(const d0 of (Array.isArray(w)?w:[])){const d=fixDeal(d0);if(d&&d.id&&!byId.has(d.id)&&!JUNK.test(d.title||""))byId.set(d.id,d)} // 5-minute scan; stays until the hunter confirms it is gone
   if(!w&&!h){$("statusText").textContent="Couldn't load deals — pull to refresh";return}
   deals=[...byId.values()].sort((a,b)=>String(b.found_at).localeCompare(String(a.found_at))).slice(0,500);
   dealsLoaded=true;
-  lastRun=(st&&st.last_run)||(deals[0]&&deals[0].found_at)||null;
+  lastRun=[st&&st.last_run,...deals.map(d=>d.checked_at||d.found_at)].filter(Boolean).sort().pop()||null;
   render();status();
 }
 load();setInterval(load,120000);
