@@ -16629,7 +16629,8 @@
   "hot": false,
   "pct": null,
   "price": 999.99,
-  "found_at": "2026-11-01T07:26:33Z"
+  "found_at": "2026-11-01T07:26:33Z",
+  "checked_at": "2026-11-01T09:08:48Z"
  },
  {
   "id": "649b46b585e342a8",
@@ -16642,7 +16643,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-11-01T07:26:33Z"
+  "found_at": "2026-11-01T07:26:33Z",
+  "checked_at": "2026-11-01T09:08:48Z"
  },
  {
   "id": "4b64ac5bcc337de3",
@@ -16655,7 +16657,8 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-11-01T07:26:33Z"
+  "found_at": "2026-11-01T07:26:33Z",
+  "checked_at": "2026-11-01T09:08:48Z"
  },
  {
   "id": "089c2382442b57fd",
@@ -16668,7 +16671,8 @@
   "hot": false,
   "pct": null,
   "price": 199.99,
-  "found_at": "2026-11-01T07:26:33Z"
+  "found_at": "2026-11-01T07:26:33Z",
+  "checked_at": "2026-11-01T09:08:48Z"
  },
  {
   "id": "9c2bb984c962493b",
@@ -16682,7 +16686,8 @@
   "pct": null,
   "price": 24.99,
   "found_at": "2026-11-01T07:32:01Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:08:49Z"
  },
  {
   "id": "3afa26095f3001e6",
@@ -16698,7 +16703,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238270-used-like-new-dji-osmo-nano-action-camera-standard-combo-64gb-120-128gb-136-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:50Z"
  },
  {
   "id": "0dbc0844409b349a",
@@ -16714,7 +16720,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://camelcamelcamel.com/product/0972577025",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:50Z"
  },
  {
   "id": "310cfabe38611020",
@@ -16730,7 +16737,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://camelcamelcamel.com/product/B0CPTDDKV5",
-  "store": "Samsung"
+  "store": "Samsung",
+  "checked_at": "2026-11-01T09:08:50Z"
  },
  {
   "id": "f370138ad676fad7",
@@ -16746,7 +16754,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:51Z"
  },
  {
   "id": "a5c41220b4865c73",
@@ -16762,7 +16771,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:52Z"
  },
  {
   "id": "3ce191795bf97bd1",
@@ -16778,7 +16788,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:54Z"
  },
  {
   "id": "9f19bf3d5ca9508f",
@@ -16794,7 +16805,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:56Z"
  },
  {
   "id": "5a59460e116f2306",
@@ -16810,7 +16822,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Jomashop"
+  "store": "Jomashop",
+  "checked_at": "2026-11-01T09:08:57Z"
  },
  {
   "id": "2cfc93e6fa1b6494",
@@ -16826,7 +16839,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:58Z"
  },
  {
   "id": "15e6b9cfd596c4c3",
@@ -16842,7 +16856,8 @@
   "found_at": "2026-11-01T07:37:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:08:59Z"
  },
  {
   "id": "e94c903d2e374d6b",
@@ -19884,7 +19899,7 @@
  {
   "id": "3bf275190e568126",
   "title": "Harry's Men's Cologne Collection- Kin, Moonrise, Cowboy Classic- Eau de Parfum Quality $80.85",
-  "url": "https://www.google.com/search?tbm=shop&q=Harry%27s+Men%27s+Cologne+Collection-+Kin+Moonrise+Cowboy+Classic-+Eau+de+Parfum+Qua",
+  "url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Amazon cologne",
@@ -19932,7 +19947,7 @@
  {
   "id": "3e423a68c7366197",
   "title": "Paris Hilton Gold Rush Nightfall 1-Oz Eau de Toilette Cologne (Men's) $11.79 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Paris+Hilton+Gold+Rush+Nightfall+1-Oz+Eau+de+Toilette+Cologne",
+  "url": "https://slickdeals.net/f/20169258-paris-hilton-gold-rush-nightfall-1-oz-eau-de-toilette-cologne-men-s-11-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Amazon cologne",
@@ -19976,7 +19991,7 @@
  {
   "id": "63178dc416983f52",
   "title": "Lucky You by Lucky Brand Eau de Toilette Cologne Spray for Men (3.4 oz) - $13.75 w/ Subscribe & Save + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Lucky+You+by+Lucky+Brand+Eau+de+Toilette+Cologne+Spray+for+Men+-",
+  "url": "https://slickdeals.net/f/20129811-lucky-you-by-lucky-brand-eau-de-toilette-cologne-spray-for-men-3-4-oz-13-75-w-subscribe-save-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Amazon cologne",
@@ -20006,7 +20021,7 @@
  {
   "id": "1cc3fc4430196c45",
   "title": "[Prime] 2.5-Oz Calvin Klein Obsession Eau de Toilette Cologne for Men $54.00 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=2.5-Oz+Calvin+Klein+Obsession+Eau+de+Toilette+Cologne+for+Men",
+  "url": "https://slickdeals.net/f/20119815-prime-2-5-oz-calvin-klein-obsession-eau-de-toilette-cologne-for-men-54-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Amazon cologne",
@@ -20110,7 +20125,7 @@
  {
   "id": "65d909f484a3c256",
   "title": "1 Million By Paco Rabanne For Men's Eau De Toilette Tester",
-  "url": "https://www.google.com/search?tbm=shop&q=1+Million+By+Paco+Rabanne+For+Men%27s+Eau+De+Toilette+Tester",
+  "url": "https://slickdeals.net/f/19921239-1-million-by-paco-rabanne-for-men-s-eau-de-toilette-tester?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Amazon cologne",
@@ -20140,7 +20155,7 @@
  {
   "id": "9219f5b269578a16",
   "title": "2-Pack 0.99-Oz Armani Beauty Stronger With You Intensely Eau de Parfum For Men Travel Set $25.00 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=2-Pack+0.99-Oz+Armani+Beauty+Stronger+With+You+Intensely+Eau+de+Parfum+For+Men+T",
+  "url": "https://slickdeals.net/f/19774419-2-pack-0-99-oz-armani-beauty-stronger-with-you-intensely-eau-de-parfum-for-men-travel-set-25-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Amazon cologne",
