@@ -2040,7 +2040,8 @@
   "hot": false,
   "pct": 20,
   "price": 15.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:53:55Z"
  },
  {
   "id": "d4d3e471bcacf3bb",
@@ -2053,7 +2054,8 @@
   "hot": false,
   "pct": null,
   "price": 14.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:53:56Z"
  },
  {
   "id": "728eb46a1dbabf6f",
@@ -2066,7 +2068,8 @@
   "hot": false,
   "pct": null,
   "price": 30.0,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:53:58Z"
  },
  {
   "id": "7142e0f9b37f79ac",
@@ -2079,7 +2082,8 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:53:59Z"
  },
  {
   "id": "fee79d6267613ff4",
@@ -2092,7 +2096,8 @@
   "hot": false,
   "pct": null,
   "price": 32.86,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:00Z"
  },
  {
   "id": "a69fb50a289808c5",
@@ -2105,7 +2110,8 @@
   "hot": false,
   "pct": null,
   "price": 39.97,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:01Z"
  },
  {
   "id": "5b8c67e799b322b7",
@@ -2118,7 +2124,8 @@
   "hot": false,
   "pct": null,
   "price": 47.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:03Z"
  },
  {
   "id": "2e5bd6a4034d0cd6",
@@ -2131,7 +2138,8 @@
   "hot": false,
   "pct": null,
   "price": 49.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:04Z"
  },
  {
   "id": "132c58903d5c4a5c",
@@ -2144,7 +2152,8 @@
   "hot": false,
   "pct": null,
   "price": 13.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:05Z"
  },
  {
   "id": "4fbe215cd7ca750a",
@@ -2157,7 +2166,8 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:07Z"
  },
  {
   "id": "330f7f021486eb25",
@@ -2170,7 +2180,8 @@
   "hot": false,
   "pct": null,
   "price": 159.0,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:08Z"
  },
  {
   "id": "5b6ccc76075e74a6",
@@ -2183,7 +2194,8 @@
   "hot": false,
   "pct": null,
   "price": 999.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:09Z"
  },
  {
   "id": "e1bc7e870872e5fe",
@@ -2196,7 +2208,8 @@
   "hot": false,
   "pct": null,
   "price": 799.97,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:10Z"
  },
  {
   "id": "1aeafa68571a633c",
@@ -2209,7 +2222,8 @@
   "hot": false,
   "pct": null,
   "price": 13.76,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:11Z"
  },
  {
   "id": "51c1874efad33e3d",
@@ -2222,7 +2236,8 @@
   "hot": false,
   "pct": null,
   "price": 13.19,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T02:54:12Z"
  },
  {
   "id": "1516da06f0fd7c22",
@@ -9406,7 +9421,7 @@
  {
   "id": "724a88ee28fcd065",
   "title": "8.4-Oz Versace Eros Men's Shower Gel $27.38 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9415,7 +9430,10 @@
   "pct": null,
   "price": 27.38,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "8030c850b93854cd",
@@ -9429,7 +9447,8 @@
   "pct": null,
   "price": 72.99,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "e849de1032aefea9",
@@ -9574,7 +9593,7 @@
  {
   "id": "389ba0ba5139b1b2",
   "title": "Nikon Z30 Mirrorless Camera with 16-50mm f/3.5-6.3 Lens and Basic Bundle $596.95",
-  "url": "https://slickdeals.net/f/20237007-nikon-z30-mirrorless-camera-with-16-50mm-f-3-5-6-3-lens-and-basic-bundle-596-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.bhphotovideo.com/c/search?q=Nikon+Z30+Mirrorless+Camera+with+16-50mm+f+3.5-6.3+Lens+and+Basic+Bundle",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -9583,12 +9602,15 @@
   "pct": null,
   "price": 596.95,
   "found_at": "2026-11-01T01:08:19Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20237007-nikon-z30-mirrorless-camera-with-16-50mm-f-3-5-6-3-lens-and-basic-bundle-596-95?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Bhphotovideo"
  },
  {
   "id": "1d679bce68f859bb",
   "title": "Bose Quietcomfort Headphones (2nd Gen) $179 Costco",
-  "url": "https://slickdeals.net/f/20234856-bose-quietcomfort-headphones-2nd-gen-179-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Bose+Quietcomfort+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Off-White",
@@ -9597,7 +9619,10 @@
   "pct": null,
   "price": 179.0,
   "found_at": "2026-11-01T01:08:19Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20234856-bose-quietcomfort-headphones-2nd-gen-179-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "411541768886cb0c",
@@ -9611,12 +9636,13 @@
   "pct": null,
   "price": 13.99,
   "found_at": "2026-11-01T01:13:36Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "eac505d58ad051d1",
   "title": "adidas Victory League Giftset including Eau de Toilette (1.6fl oz.) and Shower Gel (8.4fl oz.), For Him $9.99",
-  "url": "https://slickdeals.net/f/20228817-adidas-victory-league-giftset-including-eau-de-toilette-1-6fl-oz-and-shower-gel-8-4fl-oz-for-him-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9625,7 +9651,10 @@
   "pct": null,
   "price": 9.99,
   "found_at": "2026-11-01T01:13:36Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20228817-adidas-victory-league-giftset-including-eau-de-toilette-1-6fl-oz-and-shower-gel-8-4fl-oz-for-him-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "fde6d34bb13ace4a",
@@ -9639,12 +9668,13 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T01:18:58Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "1c7370840dc922f8",
   "title": "Burberry Eau De Parfum Spray, by Burberry, for Women, 3.3 oz, 1 Count $32.99",
-  "url": "https://slickdeals.net/f/20135469-burberry-eau-de-parfum-spray-by-burberry-for-women-3-3-oz-1-count-32-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Burberry+Eau+De+Parfum+Spray+by+Burberry+for+Women+3.3+oz+1+Count",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9653,12 +9683,15 @@
   "pct": null,
   "price": 32.99,
   "found_at": "2026-11-01T01:24:07Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20135469-burberry-eau-de-parfum-spray-by-burberry-for-women-3-3-oz-1-count-32-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  },
  {
   "id": "716f5b6243cbf90c",
   "title": "YMMV Burberry Hero Parfum 6.7 Oz Refill - Last Act/Clearance @ Nordstrom Rack & is only available at select stores - Pickup in store only! $65.98",
-  "url": "https://slickdeals.net/f/20087490-ymmv-burberry-hero-parfum-6-7-oz-refill-last-act-clearance-nordstrom-rack-is-only-available-at-select-stores-pickup-in-store-only-65-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.nordstromrack.com/sr?keyword=Burberry+Hero+Parfum+6.7+Oz+Refill+-+Last+Act+Clearance+Nordstrom+Rack+%26+is+only",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9667,7 +9700,10 @@
   "pct": null,
   "price": 65.98,
   "found_at": "2026-11-01T01:24:07Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20087490-ymmv-burberry-hero-parfum-6-7-oz-refill-last-act-clearance-nordstrom-rack-is-only-available-at-select-stores-pickup-in-store-only-65-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstromrack"
  },
  {
   "id": "ef25ae4baaddc548",
@@ -9681,7 +9717,8 @@
   "pct": null,
   "price": 330.0,
   "found_at": "2026-11-01T01:24:07Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "9bd5a8c97367e208",
@@ -9695,12 +9732,13 @@
   "pct": null,
   "price": 164.0,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "951d8fea22be41b5",
   "title": "Burberry Her London Dream Eau de Parfum, 3.3 fl oz $64.99 free shipping Costco,com",
-  "url": "https://slickdeals.net/f/20022687-burberry-her-london-dream-eau-de-parfum-3-3-fl-oz-64-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Burberry+Her+London+Dream+Eau+de+Parfum+3.3+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9709,7 +9747,10 @@
   "pct": null,
   "price": 64.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20022687-burberry-her-london-dream-eau-de-parfum-3-3-fl-oz-64-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "14cc80cc4d9b5c3d",
@@ -9723,12 +9764,13 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "2a5475cd4085f609",
   "title": "Burberry Goddess Eau de Parfum Intense, 3.3 fl oz $74.99 Free Shipping Costco.com",
-  "url": "https://slickdeals.net/f/19844379-burberry-goddess-eau-de-parfum-intense-3-3-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Burberry+Goddess+Eau+de+Parfum+Intense+3.3+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9737,12 +9779,15 @@
   "pct": null,
   "price": 74.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19844379-burberry-goddess-eau-de-parfum-intense-3-3-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "8b16d0079a518115",
   "title": "Designer fragrances at Costco B&M $59.99 YMMV",
-  "url": "https://slickdeals.net/f/19840698-designer-fragrances-at-costco-b-m-59-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Designer+fragrances",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9751,12 +9796,15 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19840698-designer-fragrances-at-costco-b-m-59-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "cc2cda68c1e53e43",
   "title": "Costco Members: 5.0 fl oz Dolce & Gabbana The One Eau de Toilette $52.99 & More",
-  "url": "https://slickdeals.net/f/19837869-costco-members-5-0-fl-oz-dolce-gabbana-the-one-eau-de-toilette-52-99-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+5.0+fl+oz+Dolce+%26+Gabbana+The+One+Eau+de+Toilette",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9765,12 +9813,15 @@
   "pct": null,
   "price": 52.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19837869-costco-members-5-0-fl-oz-dolce-gabbana-the-one-eau-de-toilette-52-99-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "8ee769f05e4c3a6b",
   "title": "Sam's Club: Men's Cologne 3.4-oz Prada Luna Rossa Black Eau De Parfum $68.80 & More + F/S $50+ Plus Members",
-  "url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9779,7 +9830,10 @@
   "pct": null,
   "price": 68.8,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsclub"
  },
  {
   "id": "7cd2fdbeca0e7349",
@@ -9793,7 +9847,8 @@
   "pct": null,
   "price": 22.0,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "196fe7a31ae809c8",
@@ -9807,12 +9862,13 @@
   "pct": null,
   "price": 32.84,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "d48a2c07c7c2a9d1",
   "title": "Burberry Hero Eau de Toilette, 5.0 fl oz $74.99 Free Shipping Costco.com",
-  "url": "https://slickdeals.net/f/19660866-burberry-hero-eau-de-toilette-5-0-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Burberry+Hero+Eau+de+Toilette+5.0+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9821,12 +9877,15 @@
   "pct": null,
   "price": 74.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19660866-burberry-hero-eau-de-toilette-5-0-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "5b62ea5d358a3f22",
   "title": "Fragrances For Dad at Woot!",
-  "url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Fragrances+For+Dad",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9835,12 +9894,15 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "5dfa8e76e0d1e4f3",
   "title": "Burberry Hero Parfum, 3.3 fl oz $79.99 free shipping Costco.com",
-  "url": "https://slickdeals.net/f/19568133-burberry-hero-parfum-3-3-fl-oz-79-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Burberry+Hero+Parfum+3.3+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9849,12 +9911,15 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19568133-burberry-hero-parfum-3-3-fl-oz-79-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "3f40d558f27f6fdf",
   "title": "Burberry My Burberry Black For Women EDP, 3.0 fl oz - $57.99 + FS @ Costco.com",
-  "url": "https://slickdeals.net/f/19567131-burberry-my-burberry-black-for-women-edp-3-0-fl-oz-57-99-fs-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Burberry+My+Burberry+Black+For+Women+EDP+3.0+fl+oz+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Burberry",
@@ -9863,12 +9928,15 @@
   "pct": null,
   "price": 57.99,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19567131-burberry-my-burberry-black-for-women-edp-3-0-fl-oz-57-99-fs-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "7350dc7d1ca10023",
   "title": "Burberry Classic Eau De Parfum Spray, Perfume for Women, 3.4 oz $36",
-  "url": "https://slickdeals.net/f/19493610-burberry-classic-eau-de-parfum-spray-perfume-for-women-3-4-oz-36?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Burberry+Classic+Eau+De+Parfum+Spray+Perfume+for+Women+3.4+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9877,7 +9945,10 @@
   "pct": null,
   "price": 36.0,
   "found_at": "2026-11-01T01:44:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19493610-burberry-classic-eau-de-parfum-spray-perfume-for-women-3-4-oz-36?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  },
  {
   "id": "18719d166f49b92e",
@@ -10010,7 +10081,7 @@
  {
   "id": "9d4bf3bcaed9ba01",
   "title": "26-Pc. Fragrance Sampler Set For Her, Created For Macy's $24.00 + Free Shipping",
-  "url": "https://slickdeals.net/f/18321490-26-pc-fragrance-sampler-set-for-her-created-for-macy-s-24-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.macys.com/shop/featured/26-Pc.%20Fragrance%20Sampler%20Set%20For%20Her%20Created%20For%20Macy%27s",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Bvlgari",
@@ -10019,12 +10090,15 @@
   "pct": null,
   "price": 24.0,
   "found_at": "2026-11-01T01:55:41Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/18321490-26-pc-fragrance-sampler-set-for-her-created-for-macy-s-24-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys"
  },
  {
   "id": "b0e6f0527f4e3774",
   "title": "3.4-Oz Bvlgari Man Wood Neroli Eau de Parfum $50 + F/S ~ Costco",
-  "url": "https://slickdeals.net/f/17736333-3-4-oz-bvlgari-man-wood-neroli-eau-de-parfum-50-f-s-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=3.4-Oz+Bvlgari+Man+Wood+Neroli+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Bvlgari",
@@ -10033,12 +10107,15 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-11-01T01:55:41Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/17736333-3-4-oz-bvlgari-man-wood-neroli-eau-de-parfum-50-f-s-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "1fbb2eb699c883b4",
   "title": "Costco Members: Fragrances: 3.3oz. Creed Aventus Eau de Parfum $254.99, 6.7oz. Versace Eros Eau de Toilette $64.99, 3.4oz. Bvlgari Man Wood Neroli Eau de Parfum $49.99 via Costco",
-  "url": "https://slickdeals.net/f/17519427-costco-members-fragrances-3-3oz-creed-aventus-eau-de-parfum-254-99-6-7oz-versace-eros-eau-de-toilette-64-99-3-4oz-bvlgari-man-wood-neroli-eau-de-parfum-49-99-via-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Fragrances+3.3oz.+Creed+Aventus+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Bvlgari",
@@ -10047,7 +10124,10 @@
   "pct": null,
   "price": 254.99,
   "found_at": "2026-11-01T01:55:41Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/17519427-costco-members-fragrances-3-3oz-creed-aventus-eau-de-parfum-254-99-6-7oz-versace-eros-eau-de-toilette-64-99-3-4oz-bvlgari-man-wood-neroli-eau-de-parfum-49-99-via-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "33a9d84f6f25fd47",
@@ -10061,7 +10141,8 @@
   "pct": null,
   "price": 417.0,
   "found_at": "2026-11-01T01:55:41Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "01438ee01ee0dbdc",
@@ -10075,7 +10156,8 @@
   "pct": null,
   "price": 49.99,
   "found_at": "2026-11-01T01:55:41Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "7417785aec0c3da9",
@@ -10089,7 +10171,8 @@
   "pct": null,
   "price": 595.0,
   "found_at": "2026-11-01T01:55:41Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "11157469b7139697",
@@ -10596,5 +10679,159 @@
   "found_at": "2026-11-01T02:41:02Z",
   "link_tried": true,
   "link_tried2": true
+ },
+ {
+  "id": "11da6510f2e972ab",
+  "title": "Reebok Chloe 18\" Laptop Backpack (3 Colors) $11.20 + Free Shipping w/ Walmart+ or on $35+",
+  "url": "https://www.walmart.com/search?q=Reebok+Chloe+18+Laptop+Backpack",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.2,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20072949-reebok-chloe-18-laptop-backpack-3-colors-11-20-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
+ },
+ {
+  "id": "a11a3810c19889b1",
+  "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
+  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.99,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true
+ },
+ {
+  "id": "f0e01407173fb806",
+  "title": "Fragrance Sale (Unboxed & Testers, Gift Sets): 1.7-Oz Chloe Love Story EDP $53 & More + Free S&H w/ Prime",
+  "url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 53.0,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true
+ },
+ {
+  "id": "99034390d0b75b31",
+  "title": "Uncharted: Legacy of Thieves Collection (Playstation 5) $19 + Free Shipping w/ Walmart+ or on $35+",
+  "url": "https://direct.playstation.com/en-us/search?q=Uncharted+Legacy+of+Thieves+Collection",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.0,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19566825-uncharted-legacy-of-thieves-collection-playstation-5-19-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Playstation"
+ },
+ {
+  "id": "2ffaaf50b6d1371a",
+  "title": "Cate & Chloe Corina 18k White Gold Plated 20mm Hoop Earrings with Swarovski Crystals Gift for Women $17.99",
+  "url": "https://www.walmart.com/search?q=Cate+%26+Chloe+Corina+18k+White+Gold+Plated+20mm+Hoop+Earrings+with+Swarovski+Crys",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 17.99,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19566387-cate-chloe-corina-18k-white-gold-plated-20mm-hoop-earrings-with-swarovski-crystals-gift-for-women-17-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
+ },
+ {
+  "id": "472add86216ac9f8",
+  "title": "UNCHARTED: Legacy of Thieves Collection (PlayStation 5) - $20 @ Best Buy w/ Free Shipping",
+  "url": "https://direct.playstation.com/en-us/search?q=UNCHARTED+Legacy+of+Thieves+Collection+-",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.0,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19565181-uncharted-legacy-of-thieves-collection-playstation-5-20-best-buy-w-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Playstation"
+ },
+ {
+  "id": "542c7d1e7c02a4ff",
+  "title": "Cate & Chloe Melody 18k White Gold Plated Mom Heart Necklace with Swarovski Crystal - $14.99 @ Walmart",
+  "url": "https://www.walmart.com/search?q=Cate+%26+Chloe+Melody+18k+White+Gold+Plated+Mom+Heart+Necklace+with+Swarovski+Crys",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.99,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19487811-cate-chloe-melody-18k-white-gold-plated-mom-heart-necklace-with-swarovski-crystal-14-99-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
+ },
+ {
+  "id": "bfd892d46ea68df9",
+  "title": "$44.99 | Life is Strange Collection (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/19460955-44-99-life-is-strange-collection-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": 44.99,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true
+ },
+ {
+  "id": "28a8b92afaf2658a",
+  "title": "Cate & Chloe Forever Birthstone 18k White Gold Plated Women Jewelry Set, Swarovski Crystals $32.99",
+  "url": "https://www.walmart.com/search?q=Cate+%26+Chloe+Forever+Birthstone+18k+White+Gold+Plated+Women+Jewelry+Set+Swarovsk",
+  "why": "90% off",
+  "category": "fashion",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": true,
+  "pct": 90,
+  "price": 32.99,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19445805-cate-chloe-forever-birthstone-18k-white-gold-plated-women-jewelry-set-swarovski-crystals-32-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
+ },
+ {
+  "id": "f75d0b70dbadd8e5",
+  "title": "Cate & Chloe Olivia 18k White Gold Plated Tennis Bracelet With Simulated Diamond Crystals for Women $21.59 FS WMT+ or at $35",
+  "url": "https://www.walmart.com/search?q=Cate+%26+Chloe+Olivia+18k+White+Gold+Plated+Tennis+Bracelet+With+Simulated+Diamond",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 21.59,
+  "found_at": "2026-11-01T02:52:54Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19431012-cate-chloe-olivia-18k-white-gold-plated-tennis-bracelet-with-simulated-diamond-crystals-for-women-21-59-fs-wmt-or-at-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
  }
 ]
