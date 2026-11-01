@@ -23,7 +23,7 @@ FILES = [os.path.join(ROOT, "deals.json"), os.path.join(ROOT, "hunted.json")]
 CONFIG = os.path.join(ROOT, "config.json")
 BROWSER = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
-LINK_FIXES_PER_SCAN = 12
+LINK_FIXES_PER_SCAN = 40
 RECHECKS_PER_SCAN = 15
 DEADLINE = time.time() + 150  # keep each scan short
 
@@ -46,6 +46,10 @@ GONE_POST = re.compile(r"(this deal (has )?expired|meta-expired\W{0,12}yes|\"exp
                        r"class=\"[^\"]*\bexpired\b[^\"]*\"[^>]*>\s*expired)", re.I)
 GONE_STORE = re.compile(r"(schema\.org/(OutOfStock|SoldOut|Discontinued)|currently unavailable\.|"
                         r"this item is no longer available|product (is )?no longer available)", re.I)
+# chargers, cables, docks... are junk unless the deal is really for a headphone, TV, speaker etc.
+ACCESSORY = re.compile(r"\b(charger|charging|cable|adapter|power bank|dock|mount|stand)\b", re.I)
+REAL_PRODUCT = re.compile(r"\b(oled|qled|tv|headphones?|earbuds|airpods|speaker|soundbar|camera|console|"
+                          r"playstation|ps5|xbox|switch 2|iphone 1\d (pro|max|plus)|macbook|ipad (pro|air|mini)\b(?! (case|keyboard)))", re.I)
 IN_STOCK = re.compile(r"schema\.org/(InStock|LimitedAvailability|OnlineOnly)", re.I)
 
 
@@ -129,10 +133,17 @@ def follow(url, hops=8):
     return None
 
 
+LAST_HINT = {"store": ""}
+
+
 def store_link_from_post(post_url):
+    LAST_HINT["store"] = ""
     status, html = get(post_url)
     if status != 200 or not html:
         return None
+    m = re.search(r"Get(?:%20|\s|\+)Deal(?:%20|\s|\+)at(?:%20|\s|\+)([A-Za-z0-9&'.%+ -]{2,40}?)(?:&|\"|<)", html)
+    if m:
+        LAST_HINT["store"] = urllib.parse.unquote_plus(m.group(1))
     hrefs = re.findall(r"""href=["']([^"']+)["']""", html)
     hrefs = [urllib.parse.urljoin(post_url, unescape_amp(h)) for h in hrefs]
     h = host(post_url)
@@ -158,6 +169,56 @@ def unescape_amp(s):
     return s.replace("&amp;", "&")
 
 
+STORES = {  # name in the deal -> the store's own search page
+    "amazon": "https://www.amazon.com/s?k={q}", "woot": "https://www.woot.com/search?query={q}",
+    "best buy": "https://www.bestbuy.com/site/searchpage.jsp?st={q}", "bestbuy": "https://www.bestbuy.com/site/searchpage.jsp?st={q}",
+    "walmart": "https://www.walmart.com/search?q={q}", "target": "https://www.target.com/s?searchTerm={q}",
+    "costco": "https://www.costco.com/CatalogSearch?keyword={q}", "samsung": "https://www.samsung.com/us/search/searchMain/?searchTerm={q}",
+    "apple": "https://www.apple.com/us/search/{q}", "b&h": "https://www.bhphotovideo.com/c/search?q={q}",
+    "bhphotovideo": "https://www.bhphotovideo.com/c/search?q={q}", "newegg": "https://www.newegg.com/p/pl?d={q}",
+    "ebay": "https://www.ebay.com/sch/i.html?_nkw={q}", "macy's": "https://www.macys.com/shop/featured/{q}",
+    "macys": "https://www.macys.com/shop/featured/{q}", "nordstrom rack": "https://www.nordstromrack.com/sr?keyword={q}",
+    "nordstrom": "https://www.nordstrom.com/sr?keyword={q}", "kohl's": "https://www.kohls.com/search.jsp?search={q}",
+    "kohls": "https://www.kohls.com/search.jsp?search={q}", "gamestop": "https://www.gamestop.com/search/?q={q}",
+    "sephora": "https://www.sephora.com/search?keyword={q}", "ulta": "https://www.ulta.com/search?search={q}",
+    "dell": "https://www.dell.com/en-us/search/{q}", "lenovo": "https://www.lenovo.com/us/en/search?text={q}",
+    "home depot": "https://www.homedepot.com/s/{q}", "lowe's": "https://www.lowes.com/search?searchTerm={q}",
+    "rei": "https://www.rei.com/search?q={q}", "zappos": "https://www.zappos.com/search?term={q}",
+    "saks": "https://www.saksfifthavenue.com/search?q={q}", "bloomingdale's": "https://www.bloomingdales.com/shop/search?keyword={q}",
+    "jomashop": "https://www.jomashop.com/search?q={q}", "fragrancenet": "https://www.fragrancenet.com/search?q={q}",
+    "lululemon": "https://shop.lululemon.com/search?Ntt={q}", "nike": "https://www.nike.com/w?q={q}",
+    "adidas": "https://www.adidas.com/us/search?q={q}", "microsoft": "https://www.microsoft.com/en-us/search/shop?q={q}",
+    "playstation": "https://direct.playstation.com/en-us/search?q={q}", "verizon": "https://www.verizon.com/search/results/?q={q}",
+    "sam's club": "https://www.samsclub.com/s/{q}", "bjs": "https://www.bjs.com/search/{q}",
+    "p.c. richard": "https://www.pcrichard.com/search?q={q}", "staples": "https://www.staples.com/{q}/directory_{q}",
+}
+
+
+def store_search(d, store_hint=""):
+    """Last resort: the store's own search page for the item (never the deal post)."""
+    title = d.get("title", "")
+    text = (store_hint + " " + title).lower()
+    m = re.search(r"(?:\bat|@|from|via)\s+([a-z0-9&'. ]{2,25}?)(?:\s*[-–(,!]|\s+for\b|\s+\$|$)", title.lower())
+    names = sorted(STORES, key=len, reverse=True)
+    store = next((n for n in names if store_hint and n in store_hint.lower()), None) \
+        or next((n for n in names if m and n in m.group(1)), None) \
+        or next((n for n in names if re.search(r"(?<![a-z])" + re.escape(n) + r"(?![a-z])", text)), None)
+    if not store:
+        return None, None
+    q = re.sub(r"\$\s?[\d,.]+.*$", "", title)                       # drop price and everything after
+    q = re.sub(r"(?i)\b(at|@|from|via)\s+" + re.escape(store) + r".*$", "", q)
+    q = re.sub(r"\([^)]*\)|\[[^]]*\]", " ", q)
+    q = re.sub(r"(?i)\b(ymmv|targeted|in[- ]store|online|free shipping|w/|deal|sale|new|price drop|all[- ]time low)\b", " ", q)
+    q = re.sub(r"[^A-Za-z0-9&'.+ -]", " ", q)
+    q = re.sub(r"\s+", " ", q).strip()[:80]
+    if len(q) < 3:
+        return None, None
+    tpl = STORES[store]
+    return tpl.format(q=urllib.parse.quote(q) if "{q}/" in tpl or tpl.endswith("{q}") and "/s?" not in tpl and "?" not in tpl
+                      else urllib.parse.quote_plus(q)), store
+
+
+
 def flight_link(d):
     t = re.sub(r"\$\s?[\d,]+.*$", "", d.get("title", "")).strip(" -–—:|")
     t = re.sub(r"(?i)\b(round[- ]?trip|nonstop|r/?t|from only|for only|only)\b", "", t)
@@ -177,7 +238,7 @@ def recheck(d):
                 return "GONE"
             return "LIVE"
     url = d.get("url", "")
-    if url and not is_post(url) and d.get("category") != "flights" and "/search" not in url and "?q=" not in url:
+    if url and not is_post(url) and d.get("category") != "flights" and not re.search(r"search|/s\?|/sr\?|[?&](q|k|keyword|st|term|query|_nkw)=|/featured/", url, re.I):
         status, html = get(url)
         if status in (404, 410):
             return "GONE"
@@ -204,7 +265,8 @@ def main():
         keep = []
         for d in deals:
             t = (d.get("title") or "").lower()
-            if any(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", t) for w in junk):
+            if (any(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", t) for w in junk)
+                    or (ACCESSORY.search(t) and not REAL_PRODUCT.search(t))):
                 removed += 1
                 changed = True
                 continue
@@ -217,18 +279,20 @@ def main():
     everything = [d for deals in lists.values() for d in deals]
 
     # 1. store links for new deals (newest first)
-    todo = [d for d in everything if is_post(d.get("url", "")) and not d.get("link_tried")]
+    todo = [d for d in everything if is_post(d.get("url", "")) and not d.get("link_tried2")]
     todo.sort(key=lambda d: d.get("found_at", ""), reverse=True)
     for d in todo[:LINK_FIXES_PER_SCAN]:
         if time.time() > DEADLINE:
             break
-        d["link_tried"] = True
+        d["link_tried2"] = True
         changed = True
         if d.get("category") == "flights":
             d["source_url"], d["url"] = d["url"], flight_link(d)
             fixed += 1
             continue
         target = store_link_from_post(d["url"])
+        if not target:
+            target, _ = store_search(d, LAST_HINT["store"])
         if target:
             d["source_url"], d["url"] = d["url"], target
             fixed += 1
