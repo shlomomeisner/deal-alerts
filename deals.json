@@ -430,7 +430,8 @@
   "hot": false,
   "pct": null,
   "price": 5.92,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:06Z"
  },
  {
   "id": "7100db9a5199065d",
@@ -443,7 +444,8 @@
   "hot": false,
   "pct": null,
   "price": 297.49,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:08Z"
  },
  {
   "id": "56bb15fc3bf4c049",
@@ -456,7 +458,8 @@
   "hot": false,
   "pct": null,
   "price": 439.99,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:09Z"
  },
  {
   "id": "3b40410a7bd38a73",
@@ -469,7 +472,8 @@
   "hot": false,
   "pct": null,
   "price": 255.99,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:11Z"
  },
  {
   "id": "7a46de79fe210a6a",
@@ -482,7 +486,8 @@
   "hot": false,
   "pct": null,
   "price": 6.24,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:12Z"
  },
  {
   "id": "16b6c5c0fb1c733d",
@@ -495,7 +500,8 @@
   "hot": false,
   "pct": null,
   "price": 6.6,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:13Z"
  },
  {
   "id": "1b8797cece89bb74",
@@ -508,7 +514,8 @@
   "hot": false,
   "pct": null,
   "price": 996.95,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:15Z"
  },
  {
   "id": "c82ae68e3443143d",
@@ -521,7 +528,8 @@
   "hot": false,
   "pct": null,
   "price": 596.95,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:18Z"
  },
  {
   "id": "707d507ee473d467",
@@ -534,7 +542,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:19Z"
  },
  {
   "id": "f287ab064ea9f775",
@@ -547,7 +556,8 @@
   "hot": false,
   "pct": null,
   "price": 996.95,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:21Z"
  },
  {
   "id": "44242b55cb8b9e02",
@@ -560,7 +570,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:22Z"
  },
  {
   "id": "3f32fa3202f2264d",
@@ -573,7 +584,8 @@
   "hot": false,
   "pct": null,
   "price": 649.0,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:23Z"
  },
  {
   "id": "97c4feec83472b9c",
@@ -586,7 +598,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:25Z"
  },
  {
   "id": "4f46c5ab57cd789a",
@@ -599,7 +612,8 @@
   "hot": false,
   "pct": null,
   "price": 799.0,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:26Z"
  },
  {
   "id": "ae77c326ff7cbf7a",
@@ -612,7 +626,8 @@
   "hot": false,
   "pct": null,
   "price": 169.0,
-  "found_at": "2026-10-31T22:13:58Z"
+  "found_at": "2026-10-31T22:13:58Z",
+  "checked_at": "2026-11-01T01:56:28Z"
  },
  {
   "id": "56c2a44ed121adc2",
@@ -10621,5 +10636,199 @@
   "price": 36.0,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true
+ },
+ {
+  "id": "18719d166f49b92e",
+  "title": "Pre-Owned Hermes Birkin Handbag Grey Togo with Palladium Hardware 35 at Nordstrom, Size Medium",
+  "url": "https://slickdeals.net/f/20199510-pre-owned-hermes-birkin-handbag-grey-togo-with-palladium-hardware-35-at-nordstrom-size-medium?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "6d6654c68ecb4d59",
+  "title": "$50 | Bvlgari Omnia Coral by Bvlgari for Women - 3.4 oz EDT Spray at Amazon",
+  "url": "https://slickdeals.net/f/20091642-50-bvlgari-omnia-coral-by-bvlgari-for-women-3-4-oz-edt-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "071d4102f16db834",
+  "title": "Bvlgari 2-Pc. Man In Black Eau De Parfum Gift Set $104.13",
+  "url": "https://slickdeals.net/f/19907469-bvlgari-2-pc-man-in-black-eau-de-parfum-gift-set-104-13?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 104.13,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "533d190ac4b2e617",
+  "title": "Bvlgari Bvlgari Man Wood Neroli Men 3.4 oz EDP Spray",
+  "url": "https://slickdeals.net/f/19694082-bvlgari-bvlgari-man-wood-neroli-men-3-4-oz-edp-spray?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "0b1387c5a5204d2b",
+  "title": "BVLGARI3-Pc. Omnia Crystalline Eau De Toilette Gift Set $132",
+  "url": "https://slickdeals.net/f/19494441-bvlgari3-pc-omnia-crystalline-eau-de-toilette-gift-set-132?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 132.0,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "a252cb9f6c14f3bf",
+  "title": "[SnS] $90.51* | Bvlgari Man In Black by Bvlgari for Men - 3.4 oz EDP Spray (Refillable) at Amazon",
+  "url": "https://slickdeals.net/f/19445214-sns-90-51-bvlgari-man-in-black-by-bvlgari-for-men-3-4-oz-edp-spray-refillable-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 90.51,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "4660519bd35e70f9",
+  "title": "Bvlgari Man In Black by Bvlgari for Men - 3.4 oz EDP Spray (Refillable) $99 at Amazon",
+  "url": "https://slickdeals.net/f/19401213-bvlgari-man-in-black-by-bvlgari-for-men-3-4-oz-edp-spray-refillable-99-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.0,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "3e18ed4202c6b903",
+  "title": "18-Piece Men's or Women's Fragrance Cologne Sampler Set $15 + Free Store Pickup ~ Macy's",
+  "url": "https://slickdeals.net/f/18856939-18-piece-men-s-or-women-s-fragrance-cologne-sampler-set-15-free-store-pickup-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.0,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "9d4bf3bcaed9ba01",
+  "title": "26-Pc. Fragrance Sampler Set For Her, Created For Macy's $24.00 + Free Shipping",
+  "url": "https://slickdeals.net/f/18321490-26-pc-fragrance-sampler-set-for-her-created-for-macy-s-24-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "b0e6f0527f4e3774",
+  "title": "3.4-Oz Bvlgari Man Wood Neroli Eau de Parfum $50 + F/S ~ Costco",
+  "url": "https://slickdeals.net/f/17736333-3-4-oz-bvlgari-man-wood-neroli-eau-de-parfum-50-f-s-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "1fbb2eb699c883b4",
+  "title": "Costco Members: Fragrances: 3.3oz. Creed Aventus Eau de Parfum $254.99, 6.7oz. Versace Eros Eau de Toilette $64.99, 3.4oz. Bvlgari Man Wood Neroli Eau de Parfum $49.99 via Costco",
+  "url": "https://slickdeals.net/f/17519427-costco-members-fragrances-3-3oz-creed-aventus-eau-de-parfum-254-99-6-7oz-versace-eros-eau-de-toilette-64-99-3-4oz-bvlgari-man-wood-neroli-eau-de-parfum-49-99-via-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 254.99,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "33a9d84f6f25fd47",
+  "title": "Bvlgari Men's Octo Swiss Automatic Watch Black Dial w/ Rubber Strap $4173.71 + Free S&H",
+  "url": "https://slickdeals.net/f/16900087-bvlgari-men-s-octo-swiss-automatic-watch-black-dial-w-rubber-strap-4173-71-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 417.0,
+  "found_at": "2026-11-01T01:55:41Z",
+  "link_tried": true
+ },
+ {
+  "id": "01438ee01ee0dbdc",
+  "title": "Bvlgari Man Wood Neroli Eau de Parfum, 3.4 fl oz - $49.99",
+  "url": "https://slickdeals.net/f/16670555-bvlgari-man-wood-neroli-eau-de-parfum-3-4-fl-oz-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-01T01:55:41Z"
+ },
+ {
+  "id": "7417785aec0c3da9",
+  "title": "Pre-owned Bulgari 18k Rose Gold Anthracite Manual 41mm Men's Watch Bvlgari BBP41BGL 101383 $5950",
+  "url": "https://slickdeals.net/f/16635008-pre-owned-bulgari-18k-rose-gold-anthracite-manual-41mm-men-s-watch-bvlgari-bbp41bgl-101383-5950?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 595.0,
+  "found_at": "2026-11-01T01:55:41Z"
  }
 ]
