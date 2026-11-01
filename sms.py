@@ -88,11 +88,13 @@ def flush():
     box = _load()
     if not box["items"] or not owner or not configured():
         return
-    urgent = [i for i in box["items"] if i.get("urgent")]
+    urgent = [i for i in box["items"] if i.get("urgent") or i.get("now")]   # price errors + tropical flights go out right away
     if not urgent and time.time() - box.get("last_sent", 0) < DIGEST_EVERY:
         return
     pick = (urgent or box["items"])[:3]
-    head = "🚨 Price error: " if urgent else f"🔥 {len(box['items'])} new steals: "
+    if urgent:
+        pick = [i for i in pick if i.get("now")] or pick
+    head = ("✈️🌴 Flight deal: " if all(i.get("now") for i in pick) else "🚨 Price error: ") if urgent else f"🔥 {len(box['items'])} new steals: "
     lines = [f"• {i['title'][:90]}" + (f"\n{i['url']}" if len(pick) == 1 else "") for i in pick]
     body = head + "\n" + "\n".join(lines) + f"\nAll deals: {PAGE}"
     try:

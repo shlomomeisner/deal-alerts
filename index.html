@@ -68,6 +68,14 @@ button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer}
 .chip[aria-pressed="true"] .n{color:inherit;opacity:.65}
 
 .list{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,360px),1fr));gap:12px;margin-top:4px}
+.route{position:relative;display:flex;align-items:center;gap:12px;background:linear-gradient(120deg,color-mix(in srgb,#0ea5a4 16%,var(--surface)),color-mix(in srgb,var(--accent-2) 14%,var(--surface)));border:1px solid var(--line);border-radius:14px;padding:12px 14px}
+.route .code{font:800 22px/1 var(--display);letter-spacing:-.02em}
+.route .dest{flex:1;min-width:0;font:800 21px/1.1 var(--display);letter-spacing:-.02em;overflow-wrap:break-word}
+.route .dest small{display:block;font:500 13px/1.3 var(--body);letter-spacing:0;color:var(--muted);margin-top:3px}
+.route .line{flex:none;display:flex;align-items:center;color:var(--muted)}
+.route .line i{display:block;width:22px;border-top:2px dashed currentColor;opacity:.6}
+.route .palm{position:absolute;top:-9px;right:12px;font:700 11px var(--mono);letter-spacing:.06em;text-transform:uppercase;background:#0ea5a4;color:#fff;padding:5px 8px;border-radius:999px}
+.deal.trop{border-color:color-mix(in srgb,#0ea5a4 45%,var(--line))}
 .deal{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px;position:relative;min-width:0;transition:transform .15s,box-shadow .15s}
 @media (hover:hover){.deal:hover{transform:translateY(-2px);box-shadow:0 10px 26px -14px color-mix(in srgb,var(--ink) 35%,transparent)}}
 .deal.urgent{border-color:color-mix(in srgb,var(--urgent) 55%,var(--line))}
@@ -119,7 +127,7 @@ footer{margin-top:30px;font-size:12px;color:var(--muted);display:flex;gap:8px 16
       <svg class="logo" viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" style="stop-color:var(--accent)"/><stop offset="1" style="stop-color:var(--accent-2)"/></linearGradient></defs><path d="M21.5 3H35a2 2 0 0 1 2 2v13.5a2 2 0 0 1-.6 1.4L20 36.3a2 2 0 0 1-2.8 0L3.7 22.8a2 2 0 0 1 0-2.8L20.1 3.6A2 2 0 0 1 21.5 3Z" fill="url(#lg)"/><circle cx="29" cy="11" r="3" style="fill:var(--bg)"/><path d="M14 23.5 22 15.5" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/><circle cx="14.5" cy="16.5" r="2" fill="#fff"/><circle cx="21.5" cy="22.5" r="2" fill="#fff"/></svg>
       <h1>Steal Watch</h1>
     </div>
-    <div style="display:flex;gap:8px;align-items:center"><a href="alerts.html" class="status" style="text-decoration:none;color:var(--ink);font-weight:600">🎯 Price alerts</a><div class="status"><span class="dot" id="dot"></span><span id="statusText">Connecting…</span></div></div>
+    <div style="display:flex;gap:8px;align-items:center"><a href="alerts.html" id="alertsLink" hidden class="status" style="text-decoration:none;color:var(--ink);font-weight:600">🎯 Price alerts</a><div class="status"><span class="dot" id="dot"></span><span id="statusText">Connecting…</span></div></div>
   </header>
 
   <section class="stats" aria-label="Summary">
@@ -132,7 +140,7 @@ footer{margin-top:30px;font-size:12px;color:var(--muted);display:flex;gap:8px 16
   <nav class="rail" id="rail" aria-label="Categories"></nav>
   <main class="list" id="list" aria-live="polite"></main>
 
-  <footer><span>Hunted hourly by Claude, plus a 5-minute scan of Google, Slickdeals, Reddit and flight-deal sites. Kept deals are saved on this phone.</span><span>Prices move fast. Check the store before you buy.</span></footer>
+  <footer><span>Scanned every few minutes across Slickdeals, Google, Reddit, 9to5Toys and flight-deal sites. Sold-out deals are removed automatically. Kept deals are saved on this phone.</span><span>Prices move fast. Check the store before you buy.</span></footer>
 </div>
 <div class="toast" id="toast" role="status"></div>
 
@@ -152,7 +160,8 @@ const ICONS={
   arrow:'<path d="M7 17 17 7M9 7h8v8"/>'
 };
 const svg=(k,extra="")=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"${extra}>${ICONS[k]||ICONS.everything}</svg>`;
-const CATS=[["all","All"],["kept","Kept"],["fashion","Fashion"],["watches","Watches"],["fragrance","Colognes"],["tech","Tech"],["amazon","Amazon"],["flights","Flights"],["everything","Other"]];
+const CATS=[["all","All"],["kept","Kept"],["fashion","Fashion"],["watches","Watches"],["fragrance","Colognes"],["tech","Tech"],["amazon","Amazon"],["tropical","🌴 Tropical"],["flights","Flights"],["everything","Other"]];
+const inCat=(d,c)=>c==="tropical"?!!d.tropical:(d.category||"everything")===c;
 const label=c=>(CATS.find(x=>x[0]===c)||[c,c])[1];
 const $=id=>document.getElementById(id);
 
@@ -209,7 +218,7 @@ function toggleKeep(d){
 function hide(d){if(!mine.hidden.includes(d.id))mine.hidden.push(d.id);persist();render();toast("Hidden")}
 
 function rail(){
-  const v=live(),count=c=>c==="all"?v.length:c==="kept"?Object.keys(mine.kept).length:v.filter(d=>(d.category||"everything")===c).length;
+  const v=live(),count=c=>c==="all"?v.length:c==="kept"?Object.keys(mine.kept).length:v.filter(d=>inCat(d,c)).length;
   $("rail").replaceChildren(...CATS.filter(([c])=>c==="all"||c==="kept"||count(c)>0||c===cat).map(([c,l])=>{
     const b=document.createElement("button");b.className="chip";b.type="button";b.id="chip-"+c;
     b.setAttribute("aria-pressed",c===cat);b.innerHTML=`${svg(c)}${l}<span class="n">${count(c)}</span>`;
@@ -226,10 +235,12 @@ function keepBtn(d){
   b.addEventListener("click",e=>{e.preventDefault();e.stopPropagation();toggleKeep(d)});
   return b;
 }
+const esc=x=>String(x).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function card(d){
   const el=document.createElement("article");
-  el.className="deal"+(d.urgent?" urgent":"")+(d.ended?" ended":"");
+  el.className="deal"+(d.urgent?" urgent":"")+(d.ended?" ended":"")+(d.tropical?" trop":"");
   el.innerHTML=`<div class="top"><span class="cat">${svg(d.category||"everything")}</span><span class="store"></span>${d.ended?'<span class="flag gone">Ended</span>':d.urgent?'<span class="flag">Price error</span>':""}<span class="when">${ago(d.found_at)}</span></div>
+  ${d.route?`<div class="route"><span class="code">${esc(d.route.from)}</span><span class="line"><i></i>${svg("flights",' width="18" height="18"')}<i></i></span><span class="dest">${esc(d.route.to.split(",")[0])}${d.route.to.includes(",")?`<small>${esc(d.route.to.split(",").slice(1).join(",").trim())}</small>`:""}</span>${d.tropical?'<span class="palm">🌴 Tropical</span>':""}</div>`:""}
   <div class="title"><a target="_blank" rel="noopener"></a></div>
   <div class="why"></div>
   ${priceHTML(d,"pricebar")}
@@ -237,7 +248,7 @@ function card(d){
   el.querySelector(".store").textContent=d.store||d.source||label(d.category||"everything");
   const a=el.querySelector(".title a");a.textContent=d.title||"Deal";a.href=d.url||"#";
   el.querySelector(".open").href=d.url||"#";
-  const w=el.querySelector(".why");w.textContent=d.why||"";w.hidden=!d.why;
+  const w=el.querySelector(".why");w.textContent=d.why||"";w.hidden=!d.why||!!d.route;
   const act=el.querySelector(".actions");
   act.append(keepBtn(d));
   if(cat!=="kept"&&canClear&&dbRef)act.append(soldBtn(d));
@@ -268,7 +279,7 @@ function render(){
   $("sErr").textContent=v.filter(d=>d.urgent&&recent(d)).length;
   $("sKept").textContent=Object.keys(mine.kept).length;
   rail();spotlight();
-  let rows=cat==="kept"?keptList():cat==="all"?v:v.filter(d=>(d.category||"everything")===cat);
+  let rows=cat==="kept"?keptList():cat==="all"?v:v.filter(d=>inCat(d,cat));
   if(!rows.length){
     const e=document.createElement("div");e.className="empty";
     if(cat==="kept")e.innerHTML=`<h2>Nothing kept yet</h2><p>Tap Keep on any deal and it stays here for good, on your phone and your computer.</p>`;
@@ -293,9 +304,21 @@ render();status();setInterval(()=>{status();render()},60000);
 
 const RAW="https://raw.githubusercontent.com/shlomomeisner/deal-alerts/main/";
 const POSTS=/(slickdeals\.net|dealnews\.com|theflightdeal\.com|secretflying\.com|fly4free\.com|thriftytraveler\.com|9to5toys\.com|reddit\.com|news\.google\.com)/i;
+const GAME=/\((?:[^)]*\b)?(ps5|ps4|playstation [45]|switch 2|nintendo switch|xbox[^)]*|pc)\b[^)]*\)/i,HW=/\b(console|controller|dualsense|headset|bundle)\b/i,PLATED=/\b(gold|silver)[- ]plated\b/i;
+const isJunk=t=>JUNK.test(t)||(GAME.test(t)&&!HW.test(t))||PLATED.test(t);
 const JUNK=/\b(digital download|video game|old navy|devil wears prada|nintendo switch\)|ps5 game|game key|kids'|toddler)\b/i;
+const TROP=/\b(st\.? ?maarten|sint maarten|st\.? ?martin|saint martin|sxm|turks|caicos|providenciales|aruba|cura[cç]ao|bonaire|barbados|jamaica|montego bay|nassau|bahamas|exuma|punta cana|santo domingo|dominican republic|puerto rico|san juan|st\.? ?thomas|st\.? ?croix|virgin islands|antigua|st\.? ?lucia|saint lucia|grenada|trinidad|tobago|cayman|anguilla|st\.? ?kitts|nevis|st\.? ?barts|st\.? ?barth|martinique|guadeloupe|dominica|bermuda|caribbean|canc[uú]n|tulum|cozumel|cabo|puerto vallarta|costa rica|liberia|belize|roatan|panama|cartagena|hawaii|honolulu|maui|kona|kauai|key west|miami|fort lauderdale|bali|phuket|maldives|fiji|tahiti|bora bora|seychelles|mauritius|zanzibar|thailand)\b/i;
+const ROUTE=/(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\s*\([A-Z]{3}\))?\s*(?:to|-|\u2013|\u2014|\u2192|>)\s*([A-Za-z\u00c0-\u017f .,'&()\/-]{2,60}?)(?=\s+(?:for|from|in|on|only|starting|\$)|\s*[.$:|!]|\s+[\u2013-]\s|$)/i;
+function routeOf(title){
+  const m=ROUTE.exec(String(title||"").replace(/\b(St|Ste|Mt|Ft|Pt)\./g,"$1"));
+  if(!m)return null;
+  const from={jfk:"JFK",ewr:"EWR",lga:"LGA",newark:"EWR"}[m[1].toLowerCase()]||"NYC";
+  const to=m[2].replace(/\([^)]*\)/g,"").replace(/\b(St|Ste|Mt|Ft|Pt)\b(?!\.)/g,"$1.").trim().replace(/[ ,.-]+$/,"");
+  return to?{from,to}:null;
+}
 function fixDeal(d){
   if(!d||!d.url)return d;
+  if(d.category==="flights"){d={...d,route:routeOf(d.title),tropical:TROP.test(d.title||"")}}
   if(d.category==="flights"&&POSTS.test(d.url)){            // open the ticket search, not the blog
     const t=String(d.title||"").replace(/\$\s?[\d,]+.*$/,"").replace(/\b(round[- ]?trip|nonstop|only)\b/gi,"").trim();
     d={...d,source_url:d.source_url||d.url,url:"https://www.google.com/travel/flights?q="+encodeURIComponent("Flights "+t)};
@@ -306,8 +329,8 @@ const getJSON=f=>fetch(RAW+f+"?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r
 async function load(){
   const [w,h,st]=await Promise.all([getJSON("deals.json"),getJSON("hunted.json"),getJSON("status.json")]);
   const now=Date.now(),byId=new Map();
-  for(const d0 of (Array.isArray(h)?h:[])){const d=fixDeal(d0);if(d&&d.id&&!JUNK.test(d.title||""))byId.set(d.id,d)}                    // hand-checked by the hourly hunter
-  for(const d0 of (Array.isArray(w)?w:[])){const d=fixDeal(d0);if(d&&d.id&&!byId.has(d.id)&&!JUNK.test(d.title||""))byId.set(d.id,d)} // 5-minute scan; stays until the hunter confirms it is gone
+  for(const d0 of (Array.isArray(h)?h:[])){const d=fixDeal(d0);if(d&&d.id&&!isJunk(d.title||""))byId.set(d.id,d)}                    // hand-checked by the hourly hunter
+  for(const d0 of (Array.isArray(w)?w:[])){const d=fixDeal(d0);if(d&&d.id&&!byId.has(d.id)&&!isJunk(d.title||""))byId.set(d.id,d)} // 5-minute scan; stays until the hunter confirms it is gone
   if(!w&&!h){$("statusText").textContent="Couldn't load deals — pull to refresh";return}
   deals=[...byId.values()].sort((a,b)=>String(b.found_at).localeCompare(String(a.found_at))).slice(0,500);
   dealsLoaded=true;

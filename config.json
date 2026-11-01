@@ -2489,6 +2489,78 @@
       "filter": "everything",
       "url": "https://www.reddit.com/r/deals/search.rss?q=apple&restrict_sr=1&sort=new",
       "tier": "rotate"
+    },
+    {
+      "name": "Google: NYC Caribbean flights",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=%22New+York%22+flights+%28Caribbean+OR+%22St.+Maarten%22+OR+%22Turks+and+Caicos%22+OR+Aruba+OR+%22Punta+Cana%22+OR+Bahamas%29+deal+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: NYC tropical fares",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=cheap+flights+%22from+New+York%22+%28Cancun+OR+%22Puerto+Rico%22+OR+Jamaica+OR+%22Costa+Rica%22+OR+Hawaii+OR+%22St.+Lucia%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: Secret Flying NYC",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=site%3Asecretflying.com+%22New+York%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: Flight Deal NYC",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=site%3Atheflightdeal.com+%22New+York%22+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: Going NYC",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=%22cheap+flights%22+%22New+York%22+%28Going+OR+%22Thrifty+Traveler%22+OR+%22Scott%27s+Cheap+Flights%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: JetBlue sale",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=JetBlue+sale+fares+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Google: NYC error fare",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://news.google.com/rss/search?q=%28%22error+fare%22+OR+%22mistake+fare%22+OR+%22price+glitch%22%29+flights+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Slickdeals: flights",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://slickdeals.net/newsearch.php?q=flight&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: airfare",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://slickdeals.net/newsearch.php?q=airfare&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Slickdeals: JetBlue",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://slickdeals.net/newsearch.php?q=jetblue&searcharea=deals&searchin=first&rss=1"
+    },
+    {
+      "name": "Reddit r/flightdeals",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.reddit.com/r/flightdeals/.rss"
+    },
+    {
+      "name": "Reddit r/TravelDeals",
+      "category": "flights",
+      "filter": "flights",
+      "url": "https://www.reddit.com/r/TravelDeals/.rss"
     }
   ],
   "home_airports": [

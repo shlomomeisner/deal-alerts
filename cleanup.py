@@ -47,6 +47,12 @@ GONE_POST = re.compile(r"(this deal (has )?expired|meta-expired\W{0,12}yes|\"exp
 GONE_STORE = re.compile(r"(schema\.org/(OutOfStock|SoldOut|Discontinued)|currently unavailable\.|"
                         r"this item is no longer available|product (is )?no longer available)", re.I)
 # chargers, cables, docks... are junk unless the deal is really for a headphone, TV, speaker etc.
+GAME = re.compile(r"\((?:[^)]*\b)?(ps5|ps4|playstation [45]|switch 2|nintendo switch|xbox series x\|?s?|xbox one|pc|steam)"
+                  r"\b[^)]*\)|\bdigital (code|download)\b|\bvideo game\b", re.I)
+HARDWARE = re.compile(r"\b(console|controller|dualsense|headset|bundle|portal|pro edition|digital edition|disc edition|"
+                      r"oled model|vr2?)\b", re.I)
+CHEAP_JEWELRY = re.compile(r"\b(gold|silver|rhodium)[- ]plated\b|\bcate (&|and) chloe\b|\bsimulated\b|"
+                           r"\bfashion jewelry\b", re.I)
 ACCESSORY = re.compile(r"\b(charger|charging|cable|adapter|power bank|dock|mount|stand)\b", re.I)
 REAL_PRODUCT = re.compile(r"\b(oled|qled|tv|headphones?|earbuds|airpods|speaker|soundbar|camera|console|"
                           r"playstation|ps5|xbox|switch 2|iphone 1\d (pro|max|plus)|macbook|ipad (pro|air|mini)\b(?! (case|keyboard)))", re.I)
@@ -136,6 +142,12 @@ def follow(url, hops=8):
 LAST_HINT = {"store": ""}
 
 
+BAD_HOST = re.compile(r"(^|\.)(twitter|x|facebook|youtube|instagram|google|apple\.news|wp|wordpress|gravatar|"
+                      r"videoplayerhub|jwplayer|vimeo|tiktok|pinterest|reddit|threads|bsky|disqus|feedburner|"
+                      r"gstatic|cloudfront|doubleclick|9to5mac|9to5google|9to5toys|electrek|dronedj|space\.com)"
+                      r"(\.|$)|videoplayer|cdn\.|static\.|img\.|\.(jpg|png|gif|webp)$", re.I)
+
+
 def store_link_from_post(post_url):
     LAST_HINT["store"] = ""
     status, html = get(post_url)
@@ -154,8 +166,7 @@ def store_link_from_post(post_url):
     elif "dealnews.com" in h:
         cands = [x for x in hrefs if "/lw/click" in x or "/lw/" in x and "click" in x]
     elif "9to5toys.com" in h or "9to5mac.com" in h or "macrumors.com" in h:
-        cands = [x for x in hrefs if not is_post(x) and host(x) and not host(x).endswith(("twitter.com", "x.com",
-                 "facebook.com", "youtube.com", "instagram.com", "google.com", "apple.news", "wp.com"))]
+        cands = [x for x in hrefs if not is_post(x) and host(x) and not BAD_HOST.search(host(x))]
     for c in cands[:4]:
         if time.time() > DEADLINE:
             return None
@@ -204,22 +215,38 @@ def store_search(d, store_hint=""):
         or next((n for n in names if m and n in m.group(1)), None) \
         or next((n for n in names if re.search(r"(?<![a-z])" + re.escape(n) + r"(?![a-z])", text)), None)
     if not store:
-        return None, None
+        store = None
     q = re.sub(r"\$\s?[\d,.]+.*$", "", title)                       # drop price and everything after
-    q = re.sub(r"(?i)\b(at|@|from|via)\s+" + re.escape(store) + r".*$", "", q)
+    if store:
+        q = re.sub(r"(?i)\b(at|@|from|via)\s+" + re.escape(store) + r".*$", "", q)
     q = re.sub(r"\([^)]*\)|\[[^]]*\]", " ", q)
     q = re.sub(r"(?i)\b(ymmv|targeted|in[- ]store|online|free shipping|w/|deal|sale|new|price drop|all[- ]time low)\b", " ", q)
     q = re.sub(r"[^A-Za-z0-9&'.+ -]", " ", q)
     q = re.sub(r"\s+", " ", q).strip()[:80]
     if len(q) < 3:
         return None, None
+    if not store:   # store unknown: Google Shopping lists the stores selling it (never the deal post)
+        return "https://www.google.com/search?tbm=shop&q=" + urllib.parse.quote_plus(q), None
     tpl = STORES[store]
     return tpl.format(q=urllib.parse.quote(q) if "{q}/" in tpl or tpl.endswith("{q}") and "/s?" not in tpl and "?" not in tpl
                       else urllib.parse.quote_plus(q)), store
 
 
 
+ROUTE = re.compile(r"(?:from\s+)?(new york(?: city)?|nyc|jfk|ewr|lga|newark)(?:\s*\([A-Z]{3}\))?\s*(?:to|-|\u2013|\u2014|\u2192|>)\s*"
+                   r"([A-Za-z\u00c0-\u017f .,'&()/-]{2,60}?)(?=\s+(?:for|from|in|on|only|starting|\$)|\s*[.$:|!]|\s+[\u2013-]\s|$)", re.I)
+
+
 def flight_link(d):
+    m = ROUTE.search(re.sub(r"\b(St|Ste|Mt|Ft|Pt)\.", r"\1", d.get("title", "")))
+    if m:
+        dest = re.sub(r"\([^)]*\)", "", m.group(2)).strip(" ,.-")
+        orig = {"jfk": "JFK", "ewr": "EWR", "lga": "LGA", "newark": "EWR"}.get(m.group(1).lower(), "New York")
+        return "https://www.google.com/travel/flights?q=" + urllib.parse.quote(f"Flights from {orig} to {dest}")
+    return _flight_link_plain(d)
+
+
+def _flight_link_plain(d):
     t = re.sub(r"\$\s?[\d,]+.*$", "", d.get("title", "")).strip(" -–—:|")
     t = re.sub(r"(?i)\b(round[- ]?trip|nonstop|r/?t|from only|for only|only)\b", "", t)
     return "https://www.google.com/travel/flights?q=" + urllib.parse.quote("Flights " + t.strip())
@@ -266,7 +293,13 @@ def main():
         for d in deals:
             t = (d.get("title") or "").lower()
             if (any(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", t) for w in junk)
-                    or (ACCESSORY.search(t) and not REAL_PRODUCT.search(t))):
+                    or (ACCESSORY.search(t) and not REAL_PRODUCT.search(t))
+                    or (GAME.search(t) and not HARDWARE.search(t))
+                    or CHEAP_JEWELRY.search(t)):
+                removed += 1
+                changed = True
+                continue
+            if d.get("category") == "flights" and re.search(r"\b(hotel|resort|/double|/night|hostel)\b", t):
                 removed += 1
                 changed = True
                 continue
@@ -279,15 +312,22 @@ def main():
     everything = [d for deals in lists.values() for d in deals]
 
     # 1. store links for new deals (newest first)
-    todo = [d for d in everything if is_post(d.get("url", "")) and not d.get("link_tried2")]
+    for d in everything:   # links saved by an older version that point at a video player, image, etc.
+        if d.get("source_url") and BAD_HOST.search(host(d.get("url", ""))):
+            d["url"], changed = d["source_url"], True
+            d.pop("link_tried2", None)
+    for d in everything:
+        if d.get("category") == "flights" and d.get("source_url") and not d.get("route_fixed"):
+            d["url"], d["route_fixed"], changed = flight_link(d), True, True
+    todo = [d for d in everything if is_post(d.get("url", "")) and not d.get("link_tried3")]
     todo.sort(key=lambda d: d.get("found_at", ""), reverse=True)
     for d in todo[:LINK_FIXES_PER_SCAN]:
         if time.time() > DEADLINE:
             break
-        d["link_tried2"] = True
+        d["link_tried3"] = True
         changed = True
         if d.get("category") == "flights":
-            d["source_url"], d["url"] = d["url"], flight_link(d)
+            d["source_url"], d["url"], d["route_fixed"] = d["url"], flight_link(d), True
             fixed += 1
             continue
         target = store_link_from_post(d["url"])
