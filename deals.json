@@ -1060,7 +1060,8 @@
   "hot": false,
   "pct": null,
   "price": 119.99,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:13:24Z"
  },
  {
   "id": "e41f1ca8c69d717b",
@@ -1073,7 +1074,8 @@
   "hot": false,
   "pct": null,
   "price": 269.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:13:26Z"
  },
  {
   "id": "200022d9c67ae90c",
@@ -1086,7 +1088,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:13:27Z"
  },
  {
   "id": "3563565fe0fad84b",
@@ -1099,7 +1102,8 @@
   "hot": false,
   "pct": null,
   "price": 659.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:13:29Z"
  },
  {
   "id": "84decdc4ecaebf70",
@@ -1112,7 +1116,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:13:30Z"
  },
  {
   "id": "d7c77422aa7cd2be",
@@ -1125,7 +1130,8 @@
   "hot": false,
   "pct": null,
   "price": 279.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:13:31Z"
  },
  {
   "id": "ef9e3e1a10494a5b",
@@ -1138,7 +1144,8 @@
   "hot": false,
   "pct": null,
   "price": 99.0,
-  "found_at": "2026-10-31T22:19:21Z"
+  "found_at": "2026-10-31T22:19:21Z",
+  "checked_at": "2026-11-01T02:13:33Z"
  },
  {
   "id": "9809cb2f54e5a0b3",
@@ -1151,7 +1158,8 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:34Z"
  },
  {
   "id": "97bb385c3e9c764d",
@@ -1164,7 +1172,8 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:36Z"
  },
  {
   "id": "abcf626c6b629586",
@@ -1177,7 +1186,8 @@
   "hot": false,
   "pct": null,
   "price": 600.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:37Z"
  },
  {
   "id": "546275454820ea25",
@@ -1190,7 +1200,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:38Z"
  },
  {
   "id": "dce5a4ce4bfc28e1",
@@ -1203,7 +1214,8 @@
   "hot": false,
   "pct": null,
   "price": 44.99,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:39Z"
  },
  {
   "id": "d66be45bf7d85acf",
@@ -1216,7 +1228,8 @@
   "hot": false,
   "pct": null,
   "price": 59.99,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:40Z"
  },
  {
   "id": "e04fb71dff15abba",
@@ -1229,7 +1242,8 @@
   "hot": true,
   "pct": null,
   "price": 143.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:40Z"
  },
  {
   "id": "d5616889e9b0b792",
@@ -1242,7 +1256,8 @@
   "hot": true,
   "pct": null,
   "price": 130.0,
-  "found_at": "2026-10-31T22:29:46Z"
+  "found_at": "2026-10-31T22:29:46Z",
+  "checked_at": "2026-11-01T02:13:40Z"
  },
  {
   "id": "d3619a021e20f7aa",
@@ -10949,5 +10964,303 @@
   "price": null,
   "found_at": "2026-11-01T02:07:15Z",
   "link_tried": true
+ },
+ {
+  "id": "7e96fc8b6986fb1e",
+  "title": "Discounted FERRAGAMO Salvatore Ferragamo Cat Eye Sunglasses $89.97",
+  "url": "https://slickdeals.net/f/19401279-discounted-ferragamo-salvatore-ferragamo-cat-eye-sunglasses-89-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.97,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "83f6de806ee48d4b",
+  "title": "Ferragamo Womens Rook Chelsea Boots $377.99",
+  "url": "https://slickdeals.net/f/19305972-ferragamo-womens-rook-chelsea-boots-377-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 377.99,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "1ddd3a1c8067a937",
+  "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
+  "url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Gucci 90% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": true,
+  "pct": 90,
+  "price": null,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "6638ba7f7146b824",
+  "title": "Jomashop Men's & Women's Designer Shoes: Reebok LTD Club C Low-Top Sneakers (Limted Sizes) $52.01 & More + Free S/H on $100+",
+  "url": "https://slickdeals.net/f/18399106-jomashop-men-s-women-s-designer-shoes-reebok-ltd-club-c-low-top-sneakers-limted-sizes-52-01-more-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 52.01,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "8fb14a1cb2933f9c",
+  "title": "3.4-Oz Signorina Libera by Salvatore Ferragamo EDP Perfume Spray for Women $32.99 + Free Shipping w/ Prime or on $35+ $37.99",
+  "url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 32.99,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "f6440df2b6c08101",
+  "title": "3.4-Oz Salvatore Ferragamo Men's F Free Time EDT Cologne Spray $12.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.99,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "edc3011663f51a63",
+  "title": "Salvatore Ferragamo Free Time Eau De Toilette Spray for Men, 3.4 Ounce $14",
+  "url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.0,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "854dfd96d063898d",
+  "title": "Salvatore Ferragamo Ladies' Amo Ferragamo Skin Care Gift Set w/ 1.7-Oz EDP Spray & 3.4-Oz Body Lotion $34.99 + Free S/H on $100+",
+  "url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.99,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "77c2f0e8becb2989",
+  "title": "Ferragamo Low Sneaker With Signature In - $100000",
+  "url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "1c3b79ff43976081",
+  "title": "3.4-Oz Salvatore Ferragamo Women's Amo Ferragamo Eau de Parfum Spray $36.20 + Free Shipping",
+  "url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.2,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "a1d1410d184ff04c",
+  "title": "Women's Sunglasses: Kate Spade Polarized Grey Cat Eye Sunglasses $32.60, Ray-Ban Erika Classic Polarized Green Classic $80 + $6 Shipping",
+  "url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": 40,
+  "price": 32.6,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "1e8aa06c202d9b4f",
+  "title": "Salvatore Ferragamo Amo Ferragamo for Women 3.4 oz Eau de Parfum Spray (642294) $36.25 at Amazon",
+  "url": "https://slickdeals.net/f/17253775-salvatore-ferragamo-amo-ferragamo-for-women-3-4-oz-eau-de-parfum-spray-642294-36-25-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.25,
+  "found_at": "2026-11-01T02:13:03Z",
+  "link_tried": true
+ },
+ {
+  "id": "ffab4081c58a75f4",
+  "title": "Jomashop - Oakley & RayBan Sunglasses from $51 & More + $5.99 Shipping",
+  "url": "https://slickdeals.net/f/17248708-jomashop-oakley-rayban-sunglasses-from-51-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 51.0,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "0694eb59fa695391",
+  "title": "FERRAGAMO Urban Men's Watch $247.49 with coupon \"CPFERRA10\" code + Free Shipping",
+  "url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 247.49,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "adeda4a2a81f63cc",
+  "title": "Ferragamo FF Men's Watch - $216 (Silicone Strap) & $279 (Stainless Steel Strap) + Free S&H",
+  "url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 216.0,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "78ce19b86061f7b2",
+  "title": "FERRAGAMO Gancini Men's Watch for $219.99 with code \"LUCKY12\" + Free Shipping",
+  "url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 219.99,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "132d82e9c11b7010",
+  "title": "FERRAGAMO Racing Men's Watch extra 10% OFF with CODE LUCKY10 $319.49 + Free Shipping",
+  "url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": 319.49,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "eee3b8a8ce972fbd",
+  "title": "Jomashop Designer Sunglasses Sale: Salavtore Ferragamo Green Square $51, Ray-Ban Clubmaster Classic $77, Oakley Plazma Prizm Grey Sport & More + Free Shipping on Orders $100+",
+  "url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 51.0,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "1b343e3bd818b3e4",
+  "title": "DSW: 20% off qualifying purchase with code SLICK20OFF",
+  "url": "https://slickdeals.net/f/16472683-dsw-20-off-qualifying-purchase-with-code-slick20off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "56ad736edf2b70e1",
+  "title": "Salvatore Ferragamo Double-Bridge Aviator - $62 - $370",
+  "url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 62.0,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "2f1d42a88e72d5ed",
+  "title": "Salvatore Ferragamo Gancini Bit Leather Driver Moccasins - $225 - $225",
+  "url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 225.0,
+  "found_at": "2026-11-01T02:13:03Z"
+ },
+ {
+  "id": "3bdc9972d79ee047",
+  "title": "BVLGARI - Le Gemme Empyr - Free Sample",
+  "url": "https://slickdeals.net/f/15269155-bvlgari-le-gemme-empyr-free-sample?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Bvlgari",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T02:13:03Z"
  }
 ]
