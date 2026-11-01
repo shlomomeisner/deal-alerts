@@ -2880,7 +2880,8 @@
   "hot": false,
   "pct": null,
   "price": 13.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:18:57Z"
  },
  {
   "id": "ff7d3bbf3b27bb46",
@@ -2893,7 +2894,8 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:18:58Z"
  },
  {
   "id": "81d7daa91028328f",
@@ -2906,7 +2908,8 @@
   "hot": false,
   "pct": null,
   "price": 16.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:18:59Z"
  },
  {
   "id": "d78647a7e5dff925",
@@ -2919,7 +2922,8 @@
   "hot": false,
   "pct": 21,
   "price": null,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:19:00Z"
  },
  {
   "id": "d07388436d6fb2fa",
@@ -2932,7 +2936,8 @@
   "hot": false,
   "pct": null,
   "price": 59.88,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:19:01Z"
  },
  {
   "id": "9b30939ef7aa855f",
@@ -2945,7 +2950,8 @@
   "hot": false,
   "pct": null,
   "price": 519.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:19:03Z"
  },
  {
   "id": "1221fce34c7cabe5",
@@ -2958,7 +2964,8 @@
   "hot": false,
   "pct": null,
   "price": 24.88,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:19:03Z"
  },
  {
   "id": "96951eccf51e89e6",
@@ -2971,7 +2978,8 @@
   "hot": false,
   "pct": 20,
   "price": 35.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:19:04Z"
  },
  {
   "id": "48fee9cf1cd94b82",
@@ -2984,7 +2992,8 @@
   "hot": false,
   "pct": null,
   "price": 11.99,
-  "found_at": "2026-10-31T22:45:35Z"
+  "found_at": "2026-10-31T22:45:35Z",
+  "checked_at": "2026-11-01T03:19:05Z"
  },
  {
   "id": "1677ad05788c4464",
@@ -2997,7 +3006,8 @@
   "hot": false,
   "pct": null,
   "price": 399.0,
-  "found_at": "2026-10-31T22:50:39Z"
+  "found_at": "2026-10-31T22:50:39Z",
+  "checked_at": "2026-11-01T03:19:06Z"
  },
  {
   "id": "1165af01f5657a74",
@@ -3010,7 +3020,8 @@
   "hot": false,
   "pct": null,
   "price": 3.75,
-  "found_at": "2026-10-31T22:50:39Z"
+  "found_at": "2026-10-31T22:50:39Z",
+  "checked_at": "2026-11-01T03:19:06Z"
  },
  {
   "id": "93e6990d6954de5f",
@@ -3023,7 +3034,8 @@
   "hot": false,
   "pct": null,
   "price": 399.0,
-  "found_at": "2026-10-31T22:50:39Z"
+  "found_at": "2026-10-31T22:50:39Z",
+  "checked_at": "2026-11-01T03:19:07Z"
  },
  {
   "id": "f955749c76a612be",
@@ -3036,7 +3048,8 @@
   "hot": false,
   "pct": null,
   "price": 72.97,
-  "found_at": "2026-10-31T22:50:39Z"
+  "found_at": "2026-10-31T22:50:39Z",
+  "checked_at": "2026-11-01T03:19:08Z"
  },
  {
   "id": "f8d7e1327e908bb7",
@@ -3049,7 +3062,8 @@
   "hot": false,
   "pct": null,
   "price": 60.0,
-  "found_at": "2026-10-31T22:50:39Z"
+  "found_at": "2026-10-31T22:50:39Z",
+  "checked_at": "2026-11-01T03:19:09Z"
  },
  {
   "id": "1b02151498917586",
@@ -3062,7 +3076,8 @@
   "hot": false,
   "pct": null,
   "price": 16.99,
-  "found_at": "2026-10-31T23:06:30Z"
+  "found_at": "2026-10-31T23:06:30Z",
+  "checked_at": "2026-11-01T03:19:10Z"
  },
  {
   "id": "4d87644adae54624",
@@ -7066,12 +7081,13 @@
   "hot": true,
   "pct": null,
   "price": 300.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "5e6346c65e137710",
   "title": "Tissot Carson Automatic Blue Dial Men's Watch $270 at Jomashop",
-  "url": "https://slickdeals.net/f/19655070-tissot-carson-automatic-blue-dial-men-s-watch-270-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Tissot+Carson+Automatic+Blue+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7079,7 +7095,10 @@
   "hot": false,
   "pct": null,
   "price": 270.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19655070-tissot-carson-automatic-blue-dial-men-s-watch-270-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "e30e4a0c107f4446",
@@ -7092,7 +7111,8 @@
   "hot": false,
   "pct": null,
   "price": 137.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "9219ac90f8727fba",
@@ -7105,12 +7125,13 @@
   "hot": false,
   "pct": null,
   "price": 185.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "3598c2acb77369d5",
   "title": "Tissot Carson Automatic Black Dial Men's Watch - Clear Back - Free Shipping - $290",
-  "url": "https://slickdeals.net/f/19573908-tissot-carson-automatic-black-dial-men-s-watch-clear-back-free-shipping-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Tissot+Carson+Automatic+Black+Dial+Men%27s+Watch+-+Clear+Back+-+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7118,12 +7139,15 @@
   "hot": false,
   "pct": null,
   "price": 290.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19573908-tissot-carson-automatic-black-dial-men-s-watch-clear-back-free-shipping-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "9b32c6fa2caa0924",
   "title": "Up to 50% Off Breitling Men's Watch Clearance at eBay",
-  "url": "https://slickdeals.net/f/19523064-up-to-50-off-breitling-men-s-watch-clearance-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Up+to+50+Off+Breitling+Men%27s+Watch+Clearance",
   "why": "Breitling 50% off",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7131,12 +7155,15 @@
   "hot": true,
   "pct": 50,
   "price": null,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19523064-up-to-50-off-breitling-men-s-watch-clearance-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "661380e1eb51beef",
   "title": "Breitling Men's Navitimer Automatic 41 Blue Dial Watch $4037.5",
-  "url": "https://slickdeals.net/f/19521936-breitling-men-s-navitimer-automatic-41-blue-dial-watch-4037-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Breitling+Men%27s+Navitimer+Automatic+41+Blue+Dial+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7144,7 +7171,10 @@
   "hot": false,
   "pct": null,
   "price": 403.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19521936-breitling-men-s-navitimer-automatic-41-blue-dial-watch-4037-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "88b8745da58fdcea",
@@ -7157,7 +7187,8 @@
   "hot": false,
   "pct": null,
   "price": 150.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "92f39eddb85189d2",
@@ -7170,7 +7201,8 @@
   "hot": false,
   "pct": null,
   "price": 234.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "93714543a93cd437",
@@ -7183,12 +7215,13 @@
   "hot": false,
   "pct": null,
   "price": 369.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "061b45677e00c2c8",
   "title": "44mm Citizen Weekender Chronograph Blue Dial Men's Watch $164 + free s/h + more",
-  "url": "https://slickdeals.net/f/19191505-44mm-citizen-weekender-chronograph-blue-dial-men-s-watch-164-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=44mm+Citizen+Weekender+Chronograph+Blue+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7196,12 +7229,15 @@
   "hot": false,
   "pct": null,
   "price": 164.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19191505-44mm-citizen-weekender-chronograph-blue-dial-men-s-watch-164-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "9f4418ed2c88719b",
   "title": "Breitling Superocean 36mm Orange Dial Mens Watch Automatic $2750 + Free Shipping",
-  "url": "https://slickdeals.net/f/19006018-breitling-superocean-36mm-orange-dial-mens-watch-automatic-2750-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.jomashop.com/search?q=Breitling+Superocean+36mm+Orange+Dial+Mens+Watch+Automatic",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Breitling",
@@ -7209,7 +7245,10 @@
   "hot": false,
   "pct": null,
   "price": 275.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19006018-breitling-superocean-36mm-orange-dial-mens-watch-automatic-2750-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
  },
  {
   "id": "d355af4d7911ce6c",
@@ -7222,7 +7261,8 @@
   "hot": false,
   "pct": 10,
   "price": 809.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "2fc9fde54f04926f",
@@ -7235,7 +7275,8 @@
   "hot": false,
   "pct": null,
   "price": 249.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "0ad1590f27a03274",
@@ -7248,7 +7289,8 @@
   "hot": false,
   "pct": null,
   "price": 849.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "611e5cad4e11678e",
@@ -7261,12 +7303,13 @@
   "hot": false,
   "pct": null,
   "price": 199.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "2fabda829efeed21",
   "title": "Garmin Fusion Apollo MS-ERX400 Marine Wired Remote, with Ethernet, A Garmin Brand $229.99",
-  "url": "https://slickdeals.net/f/20213016-garmin-fusion-apollo-ms-erx400-marine-wired-remote-with-ethernet-a-garmin-brand-229-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Garmin+Fusion+Apollo+MS-ERX400+Marine+Wired+Remote+with+Ethernet+A+Garmin+Brand",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7274,12 +7317,15 @@
   "hot": false,
   "pct": null,
   "price": 229.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20213016-garmin-fusion-apollo-ms-erx400-marine-wired-remote-with-ethernet-a-garmin-brand-229-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "d41a9a187ecbe6c0",
   "title": "Garmin vívoactive® 5, Health & Fitness GPS Smartwatch, 42mm, various colors, from $191",
-  "url": "https://slickdeals.net/f/20208267-garmin-v-voactive-5-health-fitness-gps-smartwatch-42mm-various-colors-from-191?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Garmin+v+voactive+5+Health+%26+Fitness+GPS+Smartwatch+42mm+various+colors+from",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7287,12 +7333,15 @@
   "hot": false,
   "pct": null,
   "price": 191.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20208267-garmin-v-voactive-5-health-fitness-gps-smartwatch-42mm-various-colors-from-191?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "52fc2df6b6476628",
   "title": "Garmin Approach CT10, Full Set, Automatic Club Tracking System, 14 Sensors, White, 010-01994-00 $249.99",
-  "url": "https://slickdeals.net/f/20208249-garmin-approach-ct10-full-set-automatic-club-tracking-system-14-sensors-white-010-01994-00-249-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Garmin+Approach+CT10+Full+Set+Automatic+Club+Tracking+System+14+Sensors+White+01",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7300,12 +7349,15 @@
   "hot": false,
   "pct": null,
   "price": 249.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20208249-garmin-approach-ct10-full-set-automatic-club-tracking-system-14-sensors-white-010-01994-00-249-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "ec19949c85b5d1e1",
   "title": "Garmin Venu® 3, Premium Fitness Smartwatch, 45mm, Black | Body Battery™ Energy Monitoring, Sleep Coach, Workout Benefit & Recovery Time $299",
-  "url": "https://slickdeals.net/f/20191461-garmin-venu-3-premium-fitness-smartwatch-45mm-black-body-battery-energy-monitoring-sleep-coach-workout-benefit-recovery-time-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Garmin+Venu+3+Premium+Fitness+Smartwatch+45mm+Black+Body+Battery+Energy+Monitori",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7313,7 +7365,10 @@
   "hot": false,
   "pct": null,
   "price": 299.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20191461-garmin-venu-3-premium-fitness-smartwatch-45mm-black-body-battery-energy-monitoring-sleep-coach-workout-benefit-recovery-time-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "260c75a3e2085147",
@@ -7326,12 +7381,13 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "d9e427275f060e5f",
   "title": "Garmin PRO Trashbreaker Handheld $269.99",
-  "url": "https://slickdeals.net/f/20184462-garmin-pro-trashbreaker-handheld-269-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Garmin+PRO+Trashbreaker+Handheld",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7339,7 +7395,10 @@
   "hot": false,
   "pct": null,
   "price": 269.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20184462-garmin-pro-trashbreaker-handheld-269-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "56fc85e341abd406",
@@ -7352,7 +7411,8 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "c052cf7adba2f2a0",
@@ -7365,12 +7425,13 @@
   "hot": false,
   "pct": null,
   "price": 279.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "021138da7ac582e2",
   "title": "Garmin 010-02091-51 GPSMAP 8610xsv with Mapping and Sonar - 10\", Navionics+ $2299.99 at Amazon",
-  "url": "https://slickdeals.net/f/20154771-garmin-010-02091-51-gpsmap-8610xsv-with-mapping-and-sonar-10-navionics-2299-99-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Garmin+010-02091-51+GPSMAP+8610xsv+with+Mapping+and+Sonar+-+10+Navionics%2B",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7378,12 +7439,15 @@
   "hot": false,
   "pct": null,
   "price": 229.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20154771-garmin-010-02091-51-gpsmap-8610xsv-with-mapping-and-sonar-10-navionics-2299-99-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "14e1e403c605142c",
   "title": "Garmin Dash Cam™ Mini 3, Ultracompact 1080p HD Dash Cam $99.99 + Free S&H at Amazon",
-  "url": "https://slickdeals.net/f/20144541-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-99-99-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Garmin+Dash+Cam+Mini+3+Ultracompact+1080p+HD+Dash+Cam",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7391,7 +7455,10 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20144541-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-99-99-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "0bd8e54e80483cfa",
@@ -7404,7 +7471,8 @@
   "hot": false,
   "pct": null,
   "price": 399.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "389baf5a25d84f1e",
@@ -7417,12 +7485,13 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "d789ebeeea993a43",
   "title": "Garmin Venu 4",
-  "url": "https://slickdeals.net/f/20129982-garmin-venu-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.samsclub.com/s/Garmin%20Venu%204",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -7430,7 +7499,10 @@
   "hot": false,
   "pct": null,
   "price": null,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20129982-garmin-venu-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsclub"
  },
  {
   "id": "a6b6b4af14ceb2be",
@@ -7443,7 +7515,8 @@
   "hot": false,
   "pct": null,
   "price": 229.99,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "99ff24864936dfc8",
@@ -7456,7 +7529,8 @@
   "hot": true,
   "pct": 50,
   "price": 87.0,
-  "found_at": "2026-10-31T23:59:15Z"
+  "found_at": "2026-10-31T23:59:15Z",
+  "link_tried2": true
  },
  {
   "id": "bd9b830da62c56f5",
@@ -8913,7 +8987,7 @@
  {
   "id": "f2e161a4d7ea7755",
   "title": "AsperX 140W USB C MacBook Charger Block,4-Port GaN Type C Laptop Charger $39.99",
-  "url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=AsperX+140W+USB+C+MacBook+Charger+Block+4-Port+GaN+Type+C+Laptop+Charger",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8921,7 +8995,10 @@
   "hot": false,
   "pct": null,
   "price": 39.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "5ef43f7c69d581c4",
@@ -8934,12 +9011,13 @@
   "hot": false,
   "pct": null,
   "price": 4.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true
  },
  {
   "id": "8c96fdbc95468904",
   "title": "iPhone 17/18 Pro Translucent Matte Case (Pink) $1.36 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20221479-iphone-17-18-pro-translucent-matte-case-pink-1-36-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=iPhone+17+18+Pro+Translucent+Matte+Case",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8947,12 +9025,15 @@
   "hot": false,
   "pct": null,
   "price": 1.36,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20221479-iphone-17-18-pro-translucent-matte-case-pink-1-36-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "d940cffcf8217b14",
   "title": "3-in-1 Esr MagSafe Wireless Charging Station for iPhone, Apple Watch & AirPods (Blk, Grey or White) $12.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=3-in-1+Esr+MagSafe+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+AirPods",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8960,12 +9041,15 @@
   "hot": false,
   "pct": null,
   "price": 12.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "b54e7aaa58be09ba",
   "title": "Tech21 iPhone 17 Air EvoLite Case – Slim Protective Case $3.99",
-  "url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Tech21+iPhone+17+Air+EvoLite+Case+Slim+Protective+Case",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8973,12 +9057,15 @@
   "hot": false,
   "pct": null,
   "price": 3.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "8ad8c767277cb40e",
   "title": "Tech21 EvoClear Case for iPhone 17 Air – Clear $3.99",
-  "url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Tech21+EvoClear+Case+for+iPhone+17+Air+Clear",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -8986,12 +9073,15 @@
   "hot": false,
   "pct": null,
   "price": 3.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "5724dd7388259e58",
   "title": "Apple Watch Ultra 4 Drops Back to All-Time Low of $699.99 ($99 Off) [Deal] - iClarified",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVJIVUhqRzJyVGFNb0czOXpmbnF4VHVzbjRqcFB4TUpRcWtGMlc0ZUZsTkdrMUV0MWZ4eTA4UXdyNmZ6LWFpbHIyZXBlcWVCZVJyRnRXZDRKbjF1eWtSUlRjXzdTVGN1R1o0b2gzeU12VEFkUTVjVEVsLWpacnd4ZHhXRlo0dFIxYlRwdldJUzB6bWFPNHhYSDNhRzJRdWxkVkxV?oc=5",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20Drops%20Back%20to%20of",
   "why": "Apple Watch deal",
   "category": "tech",
   "source": "Google: Apple deal",
@@ -8999,7 +9089,10 @@
   "hot": true,
   "pct": null,
   "price": 699.99,
-  "found_at": "2026-11-01T00:04:39Z"
+  "found_at": "2026-11-01T00:04:39Z",
+  "link_tried2": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVJIVUhqRzJyVGFNb0czOXpmbnF4VHVzbjRqcFB4TUpRcWtGMlc0ZUZsTkdrMUV0MWZ4eTA4UXdyNmZ6LWFpbHIyZXBlcWVCZVJyRnRXZDRKbjF1eWtSUlRjXzdTVGN1R1o0b2gzeU12VEFkUTVjVEVsLWpacnd4ZHhXRlo0dFIxYlRwdldJUzB6bWFPNHhYSDNhRzJRdWxkVkxV?oc=5",
+  "store": "Apple"
  },
  {
   "id": "ca51630c80b9b114",
@@ -11174,6 +11267,36 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-11-01T03:11:59Z",
+  "link_tried2": true
+ },
+ {
+  "id": "44b397bd66d5b167",
+  "title": "Apple Mac mini M6 12-Core CPU; 24GB Unified Memory; 512GB Solid State Drive $1100",
+  "url": "https://www.apple.com/us/search/Apple%20Mac%20mini%20M6%2012-Core%20CPU%2024GB%20Unified%20Memory%20512GB%20Solid%20State%20Drive",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 110.0,
+  "found_at": "2026-11-01T03:18:04Z",
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20236851-apple-mac-mini-m6-12-core-cpu-24gb-unified-memory-512gb-solid-state-drive-1100?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Apple"
+ },
+ {
+  "id": "24e0f7bfe99f4ad5",
+  "title": "Oakley & Ray-Ban Sunglasses Deals at Zulily $56.99",
+  "url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 56.99,
+  "found_at": "2026-11-01T03:18:04Z",
   "link_tried2": true
  }
 ]
