@@ -3846,7 +3846,8 @@
   "hot": false,
   "pct": null,
   "price": 149.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:10:22Z"
  },
  {
   "id": "d28d1c6bdcfa52f6",
@@ -3859,7 +3860,8 @@
   "hot": false,
   "pct": null,
   "price": 149.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:10:24Z"
  },
  {
   "id": "d627f6b99f5d3ff7",
@@ -3872,7 +3874,8 @@
   "hot": false,
   "pct": null,
   "price": 799.91,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:10:25Z"
  },
  {
   "id": "0fcba838e4664cc2",
@@ -3885,7 +3888,8 @@
   "hot": false,
   "pct": null,
   "price": 129.0,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:10:27Z"
  },
  {
   "id": "aa8f480f9894ebb0",
@@ -3898,7 +3902,8 @@
   "hot": false,
   "pct": null,
   "price": 599.91,
-  "found_at": "2026-10-31T23:21:58Z"
+  "found_at": "2026-10-31T23:21:58Z",
+  "checked_at": "2026-11-01T04:10:29Z"
  },
  {
   "id": "de3ca488818de425",
@@ -3911,7 +3916,8 @@
   "hot": false,
   "pct": null,
   "price": 67.49,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:30Z"
  },
  {
   "id": "55fbfeec0768b45c",
@@ -3924,7 +3930,8 @@
   "hot": false,
   "pct": null,
   "price": 106.75,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:33Z"
  },
  {
   "id": "3be59ca9359e3bac",
@@ -3937,7 +3944,8 @@
   "hot": false,
   "pct": null,
   "price": 45.0,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:35Z"
  },
  {
   "id": "02247d1a7034843b",
@@ -3950,7 +3958,8 @@
   "hot": true,
   "pct": 50,
   "price": 29.0,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:36Z"
  },
  {
   "id": "6185e3ec3a4f1b33",
@@ -3963,7 +3972,8 @@
   "hot": false,
   "pct": null,
   "price": 45.0,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:38Z"
  },
  {
   "id": "a2a7b0e7ea4ce8b0",
@@ -3976,7 +3986,8 @@
   "hot": true,
   "pct": 39,
   "price": 79.95,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:40Z"
  },
  {
   "id": "64da733cc19f1729",
@@ -3989,7 +4000,8 @@
   "hot": false,
   "pct": null,
   "price": 131.0,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:42Z"
  },
  {
   "id": "28051b0aa271a523",
@@ -4002,7 +4014,8 @@
   "hot": false,
   "pct": null,
   "price": 131.0,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:44Z"
  },
  {
   "id": "a25fed3462b8f5d5",
@@ -4015,7 +4028,8 @@
   "hot": false,
   "pct": null,
   "price": 15.0,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:46Z"
  },
  {
   "id": "214467f96ac68164",
@@ -4028,7 +4042,8 @@
   "hot": false,
   "pct": null,
   "price": 49.99,
-  "found_at": "2026-10-31T23:27:15Z"
+  "found_at": "2026-10-31T23:27:15Z",
+  "checked_at": "2026-11-01T04:10:47Z"
  },
  {
   "id": "cf1181e135cacffd",
@@ -7743,7 +7758,7 @@
  {
   "id": "c05f6c3ab0e25e6e",
   "title": "Dick's Sporting Goods Family Shoe Sale: Up to 40% off + extra 25% off + free shipping w/ $49",
-  "url": "https://www.dealnews.com/Dicks-Sporting-Goods-Family-Shoe-Sale-Up-to-40-off-extra-25-off-free-shipping-w-49/22330534.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Dick%27s+Sporting+Goods+Family+Shoe+Up+to+40+off+%2B+extra+25+off+%2B+w",
   "why": "",
   "category": "fashion",
   "source": "DealNews",
@@ -7752,7 +7767,10 @@
   "pct": 40,
   "price": 49.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Dicks-Sporting-Goods-Family-Shoe-Sale-Up-to-40-off-extra-25-off-free-shipping-w-49/22330534.html?iref=rss",
+  "store": "Google"
  },
  {
   "id": "bfa8e48d207d264c",
@@ -7782,7 +7800,8 @@
   "pct": null,
   "price": 24.95,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "7e597854e3598b5d",
@@ -7844,12 +7863,13 @@
   "pct": null,
   "price": 95.73,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "b0ebf035656556bd",
   "title": "Google Pixel Watch 5",
-  "url": "https://slickdeals.net/f/20231499-google-pixel-watch-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+Watch+5",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: watch",
@@ -7858,7 +7878,10 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20231499-google-pixel-watch-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "5ee5ad4882c5905a",
@@ -7936,7 +7959,8 @@
   "pct": null,
   "price": 329.99,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "48fa92524b44b63a",
@@ -7957,7 +7981,7 @@
  {
   "id": "ff3d1fe6cd0b300f",
   "title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
-  "url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -7966,7 +7990,10 @@
   "pct": 30,
   "price": 59.46,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "74b2008d9f2b632c",
@@ -7980,7 +8007,8 @@
   "pct": null,
   "price": 90.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "e134b83c53511510",
@@ -8033,7 +8061,7 @@
  {
   "id": "cf865e5b421d678b",
   "title": "Pixel 11 early Black Friday Doorbuster deals now live at up to $350 off, all Pixel Watch 5 models $100 off",
-  "url": "https://9to5toys.com/2026/10/31/pixel-11-early-black-friday-doorbuster-deals-live-watch-5/",
+  "url": "https://use.typekit.net",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8043,12 +8071,13 @@
   "price": 350.0,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/31/pixel-11-early-black-friday-doorbuster-deals-live-watch-5/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "1758e96e08f4838b",
   "title": "Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
-  "url": "https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40/",
+  "url": "https://use.typekit.net",
   "why": "Pixel — all-time low",
   "category": "watches",
   "source": "9to5Toys",
@@ -8058,12 +8087,13 @@
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "690980bc2d660b75",
   "title": "Friday’s Apple TV deals up to 75% off: Conjuring bundle, Big Lebowski, Fear and Loathing, much more",
-  "url": "https://9to5toys.com/2026/10/30/apple-tv-movie-deals-harold-kumar-go-to-white-castle/",
+  "url": "https://use.typekit.net",
   "why": "Macbook — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8073,12 +8103,13 @@
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/apple-tv-movie-deals-harold-kumar-go-to-white-castle/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "b5e70b6525df36d1",
   "title": "NOW LIVE! Best Buy announces massive month-long 2026 Black Friday sale, here’s the details",
-  "url": "https://9to5toys.com/2026/10/30/best-buy-announces-2026-black-friday-sale/",
+  "url": "https://use.typekit.net",
   "why": "Iphone — lowest price ever",
   "category": "tech",
   "source": "9to5Toys",
@@ -8088,12 +8119,13 @@
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/best-buy-announces-2026-black-friday-sale/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "ce51489798c5ff51",
   "title": "Woot’s huge gaming sale is back with up to 85% off Switch/PS5 games and gear from just $3 (Extra 30% off)",
-  "url": "https://9to5toys.com/2026/10/30/woot-huge-gaming-sale-is-back-with-up-to-85-off-switch-ps5-games-gear/",
+  "url": "https://use.typekit.net",
   "why": "Ps5 — 85% off",
   "category": "tech",
   "source": "9to5Toys",
@@ -8103,12 +8135,13 @@
   "price": 3.0,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/woot-huge-gaming-sale-is-back-with-up-to-85-off-switch-ps5-games-gear/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "4239df8ec87e36c3",
   "title": "Friday’s iOS app deals and freebies: Bendy, Down in Bermuda, Maneater, more",
-  "url": "https://9to5toys.com/2026/10/30/app-store-deals-grim-fandango-remastered/",
+  "url": "https://use.typekit.net",
   "why": "Macbook — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8118,12 +8151,13 @@
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/app-store-deals-grim-fandango-remastered/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "105a0b40492ff415",
   "title": "Pixel Buds Pro 2 hit one of the best prices of 2026 at over 25% off, Olive set at new Amazon low",
-  "url": "https://9to5toys.com/2026/10/30/google-pixel-buds-pro-2-early-black-friday-deal/",
+  "url": "https://use.typekit.net",
   "why": "Pixel — best price ever",
   "category": "watches",
   "source": "9to5Toys",
@@ -8133,12 +8167,13 @@
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/google-pixel-buds-pro-2-early-black-friday-deal/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "23b4be28414349d4",
   "title": "Latest Bose Lifestyle Ultra Home Speaker with AirPlay and Google Cast hits all-time low at $70 off",
-  "url": "https://9to5toys.com/2026/10/30/latest-bose-lifestyle-ultra-home-speaker-airplay-google-cast-lowest-price/",
+  "url": "https://use.typekit.net",
   "why": "Bose — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8148,12 +8183,13 @@
   "price": 70.0,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/latest-bose-lifestyle-ultra-home-speaker-airplay-google-cast-lowest-price/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "6af3b70e854032dd",
   "title": "Official Google Pixelsnap cases for Pixel 11 series drop back to Amazon all-time lows today",
-  "url": "https://9to5toys.com/2026/10/30/google-pixelsnap-cases-for-pixel/",
+  "url": "https://use.typekit.net",
   "why": "Pixel — all-time low",
   "category": "watches",
   "source": "9to5Toys",
@@ -8163,12 +8199,13 @@
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/google-pixelsnap-cases-for-pixel/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "d1357979fb5eb650",
   "title": "Pixel Watch 5 hits all-time low at $100 off today (All colors, sizes, and Steph Curry Edition)",
-  "url": "https://9to5toys.com/2026/10/30/pixel-watch-5-all-time-low-doorbuster-deals/",
+  "url": "https://use.typekit.net",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Toys",
@@ -8178,7 +8215,8 @@
   "price": 100.0,
   "found_at": "2026-11-01T00:04:39Z",
   "source_url": "https://9to5toys.com/2026/10/30/pixel-watch-5-all-time-low-doorbuster-deals/",
-  "store": "Videoplayerhub"
+  "store": "Videoplayerhub",
+  "link_tried3": true
  },
  {
   "id": "de09be3aba6d10e9",
@@ -8208,7 +8246,8 @@
   "pct": null,
   "price": 129.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "da1d731be3d0f562",
@@ -8270,7 +8309,8 @@
   "pct": null,
   "price": 139.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "39e16dd0af655193",
@@ -8300,7 +8340,8 @@
   "pct": null,
   "price": 179.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "8657535beec67b7a",
@@ -8330,7 +8371,8 @@
   "pct": null,
   "price": 998.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "e7afd8643fb489d0",
@@ -8351,7 +8393,7 @@
  {
   "id": "412d141f08a76fb0",
   "title": "LG - 77\" Class C6H OLED evo AI 4K Smart webOS TV",
-  "url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+-+77+Class+C6H+OLED+evo+AI+4K+Smart+webOS+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -8360,7 +8402,10 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "c683234180eaefca",
@@ -8374,7 +8419,8 @@
   "pct": null,
   "price": 329.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "fd40cc2f482b061f",
@@ -8388,7 +8434,8 @@
   "pct": null,
   "price": 239.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "59f354c7f6224287",
@@ -8418,7 +8465,8 @@
   "pct": null,
   "price": 369.0,
   "found_at": "2026-11-01T00:04:39Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "a12267ef63a1ed92",
@@ -8849,7 +8897,7 @@
  {
   "id": "8a347d76666f4837",
   "title": "Outward Definitive Edition Nintendo Switch Download $1.99",
-  "url": "https://slickdeals.net/f/20237070-outward-definitive-edition-nintendo-switch-download-1-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Outward+Definitive+Edition+Nintendo+Switch+Download",
   "why": "Nintendo Switch — lowest price ever",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -8858,12 +8906,15 @@
   "pct": null,
   "price": 1.99,
   "found_at": "2026-11-01T00:09:49Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20237070-outward-definitive-edition-nintendo-switch-download-1-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "a2d212deee549176",
   "title": "Google Pixel 11 Unlocked Smartphone for $699 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+Unlocked+Smartphone+for",
+  "url": "https://www.dealnews.com/Google-Pixel-11-Unlocked-Smartphone-for-699-free-shipping/22330435.html?iref=rss",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -8873,7 +8924,6 @@
   "price": 699.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://www.dealnews.com/Google-Pixel-11-Unlocked-Smartphone-for-699-free-shipping/22330435.html?iref=rss",
   "store": "Google"
@@ -8914,7 +8964,7 @@
  {
   "id": "6bd74c25ecea4211",
   "title": "Canada Goose - Neiman Marcus ($50 - $750 Gift Card) code GC4YOU",
-  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+-+Neiman+Marcus",
+  "url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -8924,7 +8974,6 @@
   "price": 50.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -8932,7 +8981,7 @@
  {
   "id": "468ad71e32ee2d20",
   "title": "Balmain Sunglasses $50 @Neiman Marcus Last Call",
-  "url": "https://www.google.com/search?tbm=shop&q=Balmain+Sunglasses",
+  "url": "https://slickdeals.net/e/14306459-balmain-sunglasses-50-neiman-marcus-last-call?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Neiman 60% off",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -8942,7 +8991,6 @@
   "price": 50.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14306459-balmain-sunglasses-50-neiman-marcus-last-call?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -8950,7 +8998,7 @@
  {
   "id": "163d90b063ca7050",
   "title": "Ray-Ban Sunglasses from $40 plus other styles 60% off at Neiman Marcus",
-  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Sunglasses+from",
+  "url": "https://slickdeals.net/e/14201465-ray-ban-sunglasses-from-40-plus-other-styles-60-off-at-neiman-marcus?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Ray-Ban 60% off",
   "category": "fashion",
   "source": "Slickdeals: Last Call Neiman",
@@ -8960,7 +9008,6 @@
   "price": 40.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14201465-ray-ban-sunglasses-from-40-plus-other-styles-60-off-at-neiman-marcus?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -8968,7 +9015,7 @@
  {
   "id": "5ba3756ebb38d0ac",
   "title": "Tom Ford Soleil Neige Eau de Parfum Travel Spray $37.50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Soleil+Neige+Eau+de+Parfum+Travel+Spray",
+  "url": "https://slickdeals.net/f/18329203-tom-ford-soleil-neige-eau-de-parfum-travel-spray-37-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford Oud",
@@ -8978,7 +9025,6 @@
   "price": 37.5,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18329203-tom-ford-soleil-neige-eau-de-parfum-travel-spray-37-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9003,7 +9049,7 @@
  {
   "id": "bd3b83354309a823",
   "title": "Armani 2-Pc. Acqua Di Gio Eau de Parfum Spray Intense (3.4oz) and Travel Spray( 0.33 oz) $82.5",
-  "url": "https://www.google.com/search?tbm=shop&q=Armani+2-Pc.+Acqua+Di+Gio+Eau+de+Parfum+Spray+Intense+and+Travel+Spray",
+  "url": "https://slickdeals.net/f/19774044-armani-2-pc-acqua-di-gio-eau-de-parfum-spray-intense-3-4oz-and-travel-spray-0-33-oz-82-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9013,7 +9059,6 @@
   "price": 82.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19774044-armani-2-pc-acqua-di-gio-eau-de-parfum-spray-intense-3-4oz-and-travel-spray-0-33-oz-82-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9055,7 +9100,7 @@
  {
   "id": "3913d9e14cf189c0",
   "title": "Giorgio Men's Acqua di Giò Profondo Eau de Parfum Spray, 6.7 oz.",
-  "url": "https://www.google.com/search?tbm=shop&q=Giorgio+Men%27s+Acqua+di+Gi+Profondo+Eau+de+Parfum+Spray+6.7+oz.",
+  "url": "https://slickdeals.net/f/19648728-giorgio-men-s-acqua-di-gi-profondo-eau-de-parfum-spray-6-7-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9065,7 +9110,6 @@
   "price": null,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19648728-giorgio-men-s-acqua-di-gi-profondo-eau-de-parfum-spray-6-7-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9149,7 +9193,8 @@
   "price": 55.99,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "197a10df52448319",
@@ -9205,7 +9250,7 @@
  {
   "id": "3c2e2b0cd06790a5",
   "title": "Armani Beauty - Acqua di Giò - Eau de Parfum Intense - Cologne for Men - Woody Fruity Fresh Men’s Fragrance - With Bergamot, Acquatic Accord, Woody & Ambery Notes - 3.3 Fl Oz $90",
-  "url": "https://slickdeals.net/f/19401525-armani-beauty-acqua-di-gi-eau-de-parfum-intense-cologne-for-men-woody-fruity-fresh-men-s-fragrance-with-bergamot-acquatic-accord-woody-ambery-notes-3-3-fl-oz-90?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Armani+Beauty+-+Acqua+di+Gi+-+Eau+de+Parfum+Intense+-+Cologne+for+Men+-+Woody+Fr",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9215,7 +9260,10 @@
   "price": 90.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19401525-armani-beauty-acqua-di-gi-eau-de-parfum-intense-cologne-for-men-woody-fruity-fresh-men-s-fragrance-with-bergamot-acquatic-accord-woody-ambery-notes-3-3-fl-oz-90?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "e4c861a34e5b6b4f",
@@ -9230,7 +9278,8 @@
   "price": 109.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "5c1153df22c18a82",
@@ -9245,7 +9294,8 @@
   "price": 169.0,
   "found_at": "2026-11-01T00:15:08Z",
   "link_tried": true,
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "1eebb181699a3ed8",
@@ -9267,7 +9317,7 @@
  {
   "id": "af7f49fa112757fd",
   "title": "Baseus Inspire XP1 Premium ANC by Bose Wireless Earbuds with Sound by Bose, Dolby Audio, and -50dB Real-Time Adaptive Noise Cancelling - Black",
-  "url": "https://slickdeals.net/f/20206887-baseus-inspire-xp1-premium-anc-by-bose-wireless-earbuds-with-sound-by-bose-dolby-audio-and-50db-real-time-adaptive-noise-cancelling-black?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Premium+ANC+by+Bose+Wireless+Earbuds+with+Sound+by+Bose+Dolby",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9276,7 +9326,10 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20206887-baseus-inspire-xp1-premium-anc-by-bose-wireless-earbuds-with-sound-by-bose-dolby-audio-and-50db-real-time-adaptive-noise-cancelling-black?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "5446cdc05672ec33",
@@ -9297,7 +9350,7 @@
  {
   "id": "79de3e1f1cc72225",
   "title": "Bose QuietComfort Ultra Headphones (2nd Gen) - Refurbished $279 Various Colors",
-  "url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9306,7 +9359,10 @@
   "pct": null,
   "price": 279.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "bcf256a83c228134",
@@ -9327,7 +9383,7 @@
  {
   "id": "4dd503e4302b7f49",
   "title": "Save 60% for 2 Days Only Bose QuietComfort Headphones - Refurbished Black $129 Bose.com",
-  "url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9336,12 +9392,15 @@
   "pct": null,
   "price": 129.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "839456d831c6b7b0",
   "title": "Certified Refurb: Bose QuietComfort Noise Cancelling Headphones $123 + Free S&H",
-  "url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9350,7 +9409,10 @@
   "pct": null,
   "price": 123.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "6e55ef14ea99ab4c",
@@ -9371,7 +9433,7 @@
  {
   "id": "9a9ca5a0089f328d",
   "title": "Duratech 1/4\" Drive Ratchet Handle $8.79, Bose QuietComfort Noise Cancelling Headphones $159.20 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Duratech+1+4+Drive+Ratchet+Handle",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9380,7 +9442,10 @@
   "pct": 20,
   "price": 8.79,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "bee7053d2281723e",
@@ -9394,12 +9459,13 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true
  },
  {
   "id": "c3e85c7a32ebfb04",
   "title": "Bose - QuietComfort Wireless Noise Cancelling Over-the-Ear Bluetooth Headphones - Ice Blue - Open Box - Excellent $105",
-  "url": "https://slickdeals.net/f/20115723-bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-ice-blue-open-box-excellent-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+-+QuietComfort+Wireless+Noise+Cancelling+Over-the-Ear+Bluetooth+Headphones+",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9408,7 +9474,10 @@
   "pct": null,
   "price": 105.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried2": true
+  "link_tried2": true,
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20115723-bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-ice-blue-open-box-excellent-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "c5d3da41e28180b7",
@@ -9429,7 +9498,7 @@
  {
   "id": "85e005ca4d62c651",
   "title": "[WTS][WTT] Dior Homme Sport 75ml (Bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=Dior+Homme+Sport+75ml",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpgtu/wtswtt_dior_homme_sport_75ml_bottle/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -9439,7 +9508,6 @@
   "price": null,
   "found_at": "2026-11-01T00:20:27Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpgtu/wtswtt_dior_homme_sport_75ml_bottle/",
   "store": "Google"
@@ -9447,7 +9515,7 @@
  {
   "id": "236f39a87658743b",
   "title": "The Legend of Zelda™: Ocarina of Time - Nintendo Switch 2 [Pre-Purchase] [Digital] - $50.9",
-  "url": "https://www.google.com/search?tbm=shop&q=The+Legend+of+Zelda+Ocarina+of+Time+-+Nintendo+Switch+2+-",
+  "url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -9457,7 +9525,6 @@
   "price": 50.0,
   "found_at": "2026-11-01T00:20:27Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9482,7 +9549,7 @@
  {
   "id": "43eb0d902f7dee56",
   "title": "The Legend of Zelda™: Ocarina of Time - Nintendo Switch 2 [Pre-Purchase] [Digital] - $50.90",
-  "url": "https://www.google.com/search?tbm=shop&q=The+Legend+of+Zelda+Ocarina+of+Time+-+Nintendo+Switch+2+-",
+  "url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-90?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -9492,7 +9559,6 @@
   "price": 50.9,
   "found_at": "2026-11-01T00:52:21Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-90?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google"
@@ -9500,7 +9566,7 @@
  {
   "id": "198daa64f80a15e0",
   "title": "[WTS]— Lanvin Oxygène 75ml *Discontinued*— $35 Shipped CONUS (Bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=Lanvin+Oxyg+ne+75ml+Discontinued",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpjy2/wts_lanvin_oxygène_75ml_discontinued_35_shipped/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -9510,7 +9576,6 @@
   "price": 35.0,
   "found_at": "2026-11-01T00:57:43Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xkpjy2/wts_lanvin_oxygène_75ml_discontinued_35_shipped/",
   "store": "Google"
@@ -9600,7 +9665,7 @@
  {
   "id": "8a8dcab629f1833c",
   "title": "1.7-Oz Victoria's Secret Eau de Parfum (Very Sexy Scarlet) $18.88 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=1.7-Oz+Victoria%27s+Secret+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/20199183-1-7-oz-victoria-s-secret-eau-de-parfum-very-sexy-scarlet-18-88-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9610,7 +9675,6 @@
   "price": 18.88,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20199183-1-7-oz-victoria-s-secret-eau-de-parfum-very-sexy-scarlet-18-88-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9618,7 +9682,7 @@
  {
   "id": "c39a4e1228bc4be6",
   "title": "Harry's Men's Cologne Collection- Kin, Moonrise, Cowboy Classic- Eau de Parfum Quality $80.85",
-  "url": "https://www.google.com/search?tbm=shop&q=Harry%27s+Men%27s+Cologne+Collection-+Kin+Moonrise+Cowboy+Classic-+Eau+de+Parfum+Qua",
+  "url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9628,7 +9692,6 @@
   "price": 80.85,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9687,7 +9750,7 @@
  {
   "id": "e32abe3d5ea545b6",
   "title": "Paris Hilton Gold Rush Nightfall 1-Oz Eau de Toilette Cologne (Men's) $11.79 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Paris+Hilton+Gold+Rush+Nightfall+1-Oz+Eau+de+Toilette+Cologne",
+  "url": "https://slickdeals.net/f/20169258-paris-hilton-gold-rush-nightfall-1-oz-eau-de-toilette-cologne-men-s-11-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9697,7 +9760,6 @@
   "price": 11.79,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20169258-paris-hilton-gold-rush-nightfall-1-oz-eau-de-toilette-cologne-men-s-11-79-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9705,7 +9767,7 @@
  {
   "id": "81edb2ccf7413335",
   "title": "Bath & Body Works Men's Promo sale",
-  "url": "https://www.google.com/search?tbm=shop&q=Bath+%26+Body+Works+Men%27s+Promo",
+  "url": "https://slickdeals.net/f/20168142-bath-amp-body-works-men-s-promo-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9715,7 +9777,6 @@
   "price": null,
   "found_at": "2026-11-01T01:03:01Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20168142-bath-amp-body-works-men-s-promo-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9790,7 +9851,7 @@
  {
   "id": "fde6d34bb13ace4a",
   "title": "Homes & Villas by Marriott Bonvoy (Home/Vacation Rentals) 3x Bonus Points on 5+ Summer Night Stays *Register* Book by November 20, 2026",
-  "url": "https://www.google.com/search?tbm=shop&q=Homes+%26+Villas+by+Marriott+Bonvoy+3x+Bonus+Points+on+5%2B+Summer+Night+Stays+Regis",
+  "url": "https://slickdeals.net/f/20223120-homes-villas-by-marriott-bonvoy-home-vacation-rentals-3x-bonus-points-on-5-summer-night-stays-register-book-by-november-20-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Slickdeals Popular",
@@ -9800,7 +9861,6 @@
   "price": null,
   "found_at": "2026-11-01T01:18:58Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20223120-homes-villas-by-marriott-bonvoy-home-vacation-rentals-3x-bonus-points-on-5-summer-night-stays-register-book-by-november-20-2026?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google"
@@ -9842,7 +9902,7 @@
  {
   "id": "ef25ae4baaddc548",
   "title": "LensCrafters - Burberry Frame + Lenses $330.6",
-  "url": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
+  "url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Burberry",
@@ -9852,7 +9912,6 @@
   "price": 330.0,
   "found_at": "2026-11-01T01:24:07Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9893,7 +9952,7 @@
  {
   "id": "14cc80cc4d9b5c3d",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9903,7 +9962,6 @@
   "price": 59.99,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9979,7 +10037,7 @@
  {
   "id": "7cd2fdbeca0e7349",
   "title": "Burberry Touch 1.7oz EDT $22.5",
-  "url": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+1.7oz+EDT",
+  "url": "https://slickdeals.net/f/19786530-burberry-touch-1-7oz-edt-22-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -9989,7 +10047,6 @@
   "price": 22.0,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19786530-burberry-touch-1-7oz-edt-22-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -9997,7 +10054,7 @@
  {
   "id": "196fe7a31ae809c8",
   "title": "Burberry Touch 3.3 / 3.4 oz EDT Cologne for Men $32.84",
-  "url": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+3.3+3.4+oz+EDT+Cologne+for+Men",
+  "url": "https://slickdeals.net/f/19770156-burberry-touch-3-3-3-4-oz-edt-cologne-for-men-32-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -10007,7 +10064,6 @@
   "price": 32.84,
   "found_at": "2026-11-01T01:44:01Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19770156-burberry-touch-3-3-3-4-oz-edt-cologne-for-men-32-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10150,7 +10206,7 @@
  {
   "id": "533d190ac4b2e617",
   "title": "Bvlgari Bvlgari Man Wood Neroli Men 3.4 oz EDP Spray",
-  "url": "https://www.google.com/search?tbm=shop&q=Bvlgari+Bvlgari+Man+Wood+Neroli+Men+3.4+oz+EDP+Spray",
+  "url": "https://slickdeals.net/f/19694082-bvlgari-bvlgari-man-wood-neroli-men-3-4-oz-edp-spray?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Bvlgari",
@@ -10160,7 +10216,6 @@
   "price": null,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19694082-bvlgari-bvlgari-man-wood-neroli-men-3-4-oz-edp-spray?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10168,7 +10223,7 @@
  {
   "id": "0b1387c5a5204d2b",
   "title": "BVLGARI3-Pc. Omnia Crystalline Eau De Toilette Gift Set $132",
-  "url": "https://www.google.com/search?tbm=shop&q=BVLGARI3-Pc.+Omnia+Crystalline+Eau+De+Toilette+Gift+Set",
+  "url": "https://slickdeals.net/f/19494441-bvlgari3-pc-omnia-crystalline-eau-de-toilette-gift-set-132?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Bvlgari",
@@ -10178,7 +10233,6 @@
   "price": 132.0,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19494441-bvlgari3-pc-omnia-crystalline-eau-de-toilette-gift-set-132?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10287,7 +10341,7 @@
  {
   "id": "33a9d84f6f25fd47",
   "title": "Bvlgari Men's Octo Swiss Automatic Watch Black Dial w/ Rubber Strap $4173.71 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Bvlgari+Men%27s+Octo+Swiss+Automatic+Watch+Black+Dial+w+Rubber+Strap",
+  "url": "https://slickdeals.net/f/16900087-bvlgari-men-s-octo-swiss-automatic-watch-black-dial-w-rubber-strap-4173-71-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Bvlgari",
@@ -10297,7 +10351,6 @@
   "price": 417.0,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16900087-bvlgari-men-s-octo-swiss-automatic-watch-black-dial-w-rubber-strap-4173-71-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10305,7 +10358,7 @@
  {
   "id": "01438ee01ee0dbdc",
   "title": "Bvlgari Man Wood Neroli Eau de Parfum, 3.4 fl oz - $49.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Bvlgari+Man+Wood+Neroli+Eau+de+Parfum+3.4+fl+oz+-",
+  "url": "https://slickdeals.net/f/16670555-bvlgari-man-wood-neroli-eau-de-parfum-3-4-fl-oz-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Bvlgari",
@@ -10315,7 +10368,6 @@
   "price": 49.99,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16670555-bvlgari-man-wood-neroli-eau-de-parfum-3-4-fl-oz-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10323,7 +10375,7 @@
  {
   "id": "7417785aec0c3da9",
   "title": "Pre-owned Bulgari 18k Rose Gold Anthracite Manual 41mm Men's Watch Bvlgari BBP41BGL 101383 $5950",
-  "url": "https://www.google.com/search?tbm=shop&q=Pre-owned+Bulgari+18k+Rose+Gold+Anthracite+Manual+41mm+Men%27s+Watch+Bvlgari+BBP41",
+  "url": "https://slickdeals.net/f/16635008-pre-owned-bulgari-18k-rose-gold-anthracite-manual-41mm-men-s-watch-bvlgari-bbp41bgl-101383-5950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Bvlgari",
@@ -10333,7 +10385,6 @@
   "price": 595.0,
   "found_at": "2026-11-01T01:55:41Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16635008-pre-owned-bulgari-18k-rose-gold-anthracite-manual-41mm-men-s-watch-bvlgari-bbp41bgl-101383-5950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10391,7 +10442,7 @@
  {
   "id": "5a40dfc8ae8c3445",
   "title": "Ferragamo Oversized Classic Rectangle Sunglasses $59 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Oversized+Classic+Rectangle+Sunglasses",
+  "url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -10401,7 +10452,6 @@
   "price": 59.0,
   "found_at": "2026-11-01T02:07:15Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
@@ -10409,7 +10459,7 @@
  {
   "id": "de21b130a850d51d",
   "title": "Best monitor deal: Take 44% off the LG Ultragear OLED gaming monitor - Mashable",
-  "url": "https://www.google.com/search?tbm=shop&q=Best+monitor+Take+44+off+the+LG+Ultragear+OLED+gaming+monitor+-+Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
   "why": "Oled — 44% off",
   "category": "tech",
   "source": "Google: Samsung deal",
@@ -10419,7 +10469,6 @@
   "price": null,
   "found_at": "2026-11-01T02:07:15Z",
   "link_tried": true,
-  "link_tried2": true,
   "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSXN6SFhuM3NLRTljQ0prUXlOVXdnamQ2VTk5MU9TVmZUbm5DMTFZbHgzTU5Cc3dUclBCdVhzQU5sM0N2N215bUQ4eWQ2emhwM3dVUktWc3VZTU9qYnhLOTR6c3JJNk0?oc=5",
   "store": "Google"
@@ -11302,7 +11351,7 @@
  {
   "id": "8494d07f1be582aa",
   "title": "Arc'teryx Men's Sylan 2 Trail Running Shoes for $143 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Arc%27teryx+Men%27s+Sylan+2+Trail+Running+Shoes+for",
+  "url": "https://www.dealnews.com/Arcteryx-Mens-Sylan-2-Trail-Running-Shoes-for-143-free-shipping/22330415.html?iref=rss",
   "why": "",
   "category": "fashion",
   "source": "DealNews",
@@ -11318,7 +11367,7 @@
  {
   "id": "df4a63adc769e9c4",
   "title": "All Nippon Airways: New York – Okinawa, Japan. $845. Roundtrip, including all Taxes",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Okinawa%2C%20Japan",
+  "url": "https://www.theflightdeal.com/2026/10/31/all-nippon-airways-new-york-okinawa-japan-845-roundtrip-including-all-taxes/",
   "why": "",
   "category": "flights",
   "source": "The Flight Deal",
@@ -11334,7 +11383,7 @@
  {
   "id": "c8bb598901a76b17",
   "title": "DJI Osmo Pocket 3 4K Pocket Gimbal Camera ~@256 + Free S/H $256",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+4K+Pocket+Gimbal+Camera+256+%2B+Free+S+H",
+  "url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-256-free-s-h-256?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -11346,5 +11395,53 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-256-free-s-h-256?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
+ },
+ {
+  "id": "a54a9c73525bfee9",
+  "title": "Christian Louboutin Women's Fifi 100 Pumps (various) $375 & More + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
+  "why": "Louboutin 40% off",
+  "category": "fashion",
+  "source": "Slickdeals: Century 21",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": 375.0,
+  "found_at": "2026-11-01T04:09:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "ff0f92ddac9f4445",
+  "title": "Maui Jim Sunglasses: Unisex Breakwall HCL Bronze Wrap Sunglasses $100.10 & More + Free Shipping",
+  "url": "https://www.jomashop.com/search?q=Maui+Jim+Sunglasses+Unisex+Breakwall+HCL+Bronze+Wrap+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Maui Jim",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 100.1,
+  "found_at": "2026-11-01T04:09:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18314791-maui-jim-sunglasses-unisex-breakwall-hcl-bronze-wrap-sunglasses-100-10-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Jomashop"
+ },
+ {
+  "id": "7d2b95e818a99fe9",
+  "title": "United Airlines Flight Connects St. Croix to Newark - St. Thomas Source",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20St%20Thomas%20Source",
+  "why": "🌴 NEWARK → St. Thomas",
+  "category": "flights",
+  "source": "Google: airline sale",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T04:09:30Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
+  "route_fixed": true
  }
 ]
