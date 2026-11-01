@@ -2250,7 +2250,8 @@
   "hot": false,
   "pct": null,
   "price": 9.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:06Z"
  },
  {
   "id": "c9c6ffea7de71403",
@@ -2263,7 +2264,8 @@
   "hot": false,
   "pct": null,
   "price": 40.0,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:08Z"
  },
  {
   "id": "bc2a2dd98161bb61",
@@ -2276,7 +2278,8 @@
   "hot": true,
   "pct": 60,
   "price": null,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:09Z"
  },
  {
   "id": "6b29bfa32417ccba",
@@ -2289,7 +2292,8 @@
   "hot": false,
   "pct": 50,
   "price": 5.59,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:10Z"
  },
  {
   "id": "e473c23477f4b803",
@@ -2302,7 +2306,8 @@
   "hot": false,
   "pct": null,
   "price": 99.0,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:11Z"
  },
  {
   "id": "306a487c29835951",
@@ -2315,7 +2320,8 @@
   "hot": false,
   "pct": 50,
   "price": 7.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:13Z"
  },
  {
   "id": "4a3af38e66b9b11e",
@@ -2328,7 +2334,8 @@
   "hot": false,
   "pct": 30,
   "price": 6.28,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:14Z"
  },
  {
   "id": "2af7b411d38f04ab",
@@ -2341,7 +2348,8 @@
   "hot": false,
   "pct": 30,
   "price": 4.89,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:15Z"
  },
  {
   "id": "59c1d2a5fc222c44",
@@ -2354,7 +2362,8 @@
   "hot": false,
   "pct": null,
   "price": 6.62,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:17Z"
  },
  {
   "id": "09903b866ebfe17a",
@@ -2367,7 +2376,8 @@
   "hot": false,
   "pct": null,
   "price": 8.75,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:18Z"
  },
  {
   "id": "ab5c62c8ce24048c",
@@ -2380,7 +2390,8 @@
   "hot": false,
   "pct": null,
   "price": 10.78,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:19Z"
  },
  {
   "id": "d0c72fd8c3eefc45",
@@ -2393,7 +2404,8 @@
   "hot": false,
   "pct": null,
   "price": 18.0,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:21Z"
  },
  {
   "id": "d2513213e6ba1bb2",
@@ -2406,7 +2418,8 @@
   "hot": false,
   "pct": null,
   "price": 9.79,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:22Z"
  },
  {
   "id": "281ecb0b68f82a90",
@@ -2419,7 +2432,8 @@
   "hot": false,
   "pct": null,
   "price": 18.99,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:23Z"
  },
  {
   "id": "19d02adf3f150be4",
@@ -2432,7 +2446,8 @@
   "hot": true,
   "pct": 78,
   "price": 65.0,
-  "found_at": "2026-10-31T22:40:14Z"
+  "found_at": "2026-10-31T22:40:14Z",
+  "checked_at": "2026-11-01T03:00:23Z"
  },
  {
   "id": "718890424da4fabc",
@@ -8881,12 +8896,13 @@
   "pct": null,
   "price": 699.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "66e0270cc739a021",
   "title": "Apple 2019 iPad Air 3rd Gen, 1...ar, 64GB, Space Gray (Renewed) - down 3.47% ($6.03) to $167.81 from $173.84",
-  "url": "https://camelcamelcamel.com/product/B07YBHJK4W",
+  "url": "https://www.apple.com/us/search/Apple%202019%20iPad%20Air%203rd%20Gen%201...ar%2064GB%20Space%20Gray%20-%20down%203.47",
   "why": "",
   "category": "tech",
   "source": "camelcamelcamel Amazon drops",
@@ -8895,7 +8911,10 @@
   "pct": null,
   "price": 6.03,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://camelcamelcamel.com/product/B07YBHJK4W",
+  "store": "Apple"
  },
  {
   "id": "e082e9f18ea67e84",
@@ -8909,7 +8928,8 @@
   "pct": null,
   "price": 500.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "6bd74c25ecea4211",
@@ -8923,7 +8943,8 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "468ad71e32ee2d20",
@@ -8937,7 +8958,8 @@
   "pct": 60,
   "price": 50.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "163d90b063ca7050",
@@ -8951,7 +8973,8 @@
   "pct": 60,
   "price": 40.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "5ba3756ebb38d0ac",
@@ -8965,12 +8988,13 @@
   "pct": null,
   "price": 37.5,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "299fab8f8f3ffc1b",
   "title": "[WOOT] Armani Acqua di Gio Parfum 3.3 oz Men - $95.99 after 20% extra discount",
-  "url": "https://slickdeals.net/f/20060397-woot-armani-acqua-di-gio-parfum-3-3-oz-men-95-99-after-20-extra-discount?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Armani+Acqua+di+Gio+Parfum+3.3+oz+Men+-",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -8979,7 +9003,10 @@
   "pct": 20,
   "price": 95.99,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20060397-woot-armani-acqua-di-gio-parfum-3-3-oz-men-95-99-after-20-extra-discount?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "bd3b83354309a823",
@@ -8993,12 +9020,13 @@
   "pct": null,
   "price": 82.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "441f38be5ce8d1a6",
   "title": "2-Piece Acqua di Giò Profondo Eau de Parfum Father's Day Gift Set (3.4-0z + 0.5-oz) $80 ~ Macy's",
-  "url": "https://slickdeals.net/f/19773102-2-piece-acqua-di-gi-profondo-eau-de-parfum-father-s-day-gift-set-3-4-0z-0-5-oz-80-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.macys.com/shop/featured/2-Piece%20Acqua%20di%20Gi%20Profondo%20Eau%20de%20Parfum%20Father%27s%20Day%20Gift%20Set",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9007,12 +9035,15 @@
   "pct": null,
   "price": 80.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19773102-2-piece-acqua-di-gi-profondo-eau-de-parfum-father-s-day-gift-set-3-4-0z-0-5-oz-80-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys"
  },
  {
   "id": "8adf9b1f549a38a0",
   "title": "2-Piece Acqua di Giò Profondo Eau de Parfum Father's Day Gift Set (3.4-0z + 0.5-oz) $96 ~ Macy's",
-  "url": "https://slickdeals.net/f/19744548-2-piece-acqua-di-gi-profondo-eau-de-parfum-father-s-day-gift-set-3-4-0z-0-5-oz-96-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.macys.com/shop/featured/2-Piece%20Acqua%20di%20Gi%20Profondo%20Eau%20de%20Parfum%20Father%27s%20Day%20Gift%20Set",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9021,7 +9052,10 @@
   "pct": null,
   "price": 96.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19744548-2-piece-acqua-di-gi-profondo-eau-de-parfum-father-s-day-gift-set-3-4-0z-0-5-oz-96-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys"
  },
  {
   "id": "3913d9e14cf189c0",
@@ -9035,12 +9069,13 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "4be046fe95b2d407",
   "title": "Fragrances For Dad at Woot!",
-  "url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Fragrances+For+Dad",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9049,7 +9084,10 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "33e32428989ff0be",
@@ -9063,7 +9101,8 @@
   "pct": 60,
   "price": 15.99,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "f6335048840042f1",
@@ -9077,12 +9116,13 @@
   "pct": null,
   "price": 107.99,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "7323ba5f4e11f2b9",
   "title": "ARMANI Acqua di Gioia Eau de Parfum - 3.4 oz - $74 + free shipping at Ulta",
-  "url": "https://slickdeals.net/f/19547736-armani-acqua-di-gioia-eau-de-parfum-3-4-oz-74-free-shipping-at-ulta?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ulta.com/search?search=ARMANI+Acqua+di+Gioia+Eau+de+Parfum+-+3.4+oz+-",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9091,7 +9131,10 @@
   "pct": null,
   "price": 74.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19547736-armani-acqua-di-gioia-eau-de-parfum-3-4-oz-74-free-shipping-at-ulta?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ulta"
  },
  {
   "id": "0ac5aeb612ca78c6",
@@ -9105,12 +9148,13 @@
   "pct": null,
   "price": 55.99,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "197a10df52448319",
   "title": "Acqua di Giò Profondo Eau de Parfum Men's Cologne $58.52 w/ S&S + Free Shipping",
-  "url": "https://slickdeals.net/f/19477758-acqua-di-gi-profondo-eau-de-parfum-men-s-cologne-58-52-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Acqua+di+Gi+Profondo+Eau+de+Parfum+Men%27s+Cologne",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9119,12 +9163,15 @@
   "pct": 5,
   "price": 58.52,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19477758-acqua-di-gi-profondo-eau-de-parfum-men-s-cologne-58-52-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "4e0b8e33383d44fa",
   "title": "Armani Beauty - Acqua di Giò - Parfum - Cologne for Men] 1.0 Fl Oz $73.5",
-  "url": "https://slickdeals.net/f/19467114-armani-beauty-acqua-di-gi-parfum-cologne-for-men-1-0-fl-oz-73-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Armani+Beauty+-+Acqua+di+Gi+-+Parfum+-+Cologne+for+Men+1.0+Fl+Oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9133,12 +9180,15 @@
   "pct": null,
   "price": 73.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19467114-armani-beauty-acqua-di-gi-parfum-cologne-for-men-1-0-fl-oz-73-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "e0b0e9be86ae5203",
   "title": "ARMANI Acqua di Gio Profondo Eau de Parfum - 1.6 oz $60 at Ulta",
-  "url": "https://slickdeals.net/f/19424472-armani-acqua-di-gio-profondo-eau-de-parfum-1-6-oz-60-at-ulta?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ulta.com/search?search=ARMANI+Acqua+di+Gio+Profondo+Eau+de+Parfum+-+1.6+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Acqua Di Gio",
@@ -9147,7 +9197,10 @@
   "pct": null,
   "price": 60.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/19424472-armani-acqua-di-gio-profondo-eau-de-parfum-1-6-oz-60-at-ulta?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ulta"
  },
  {
   "id": "3c2e2b0cd06790a5",
@@ -9161,7 +9214,8 @@
   "pct": null,
   "price": 90.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "e4c861a34e5b6b4f",
@@ -9175,7 +9229,8 @@
   "pct": null,
   "price": 109.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "5c1153df22c18a82",
@@ -9189,12 +9244,13 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "1eebb181699a3ed8",
   "title": "Baseus Inspire XC1 Open Ear Clip-On Earbuds w/ Sound by Bose & Dolby Spatial Audio $79.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20222349-baseus-inspire-xc1-open-ear-clip-on-earbuds-w-sound-by-bose-dolby-spatial-audio-79-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Baseus+Inspire+XC1+Open+Ear+Clip-On+Earbuds+w+Sound+by+Bose+%26+Dolby+Spatial+Audi",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -9203,7 +9259,10 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-11-01T00:15:08Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20222349-baseus-inspire-xc1-open-ear-clip-on-earbuds-w-sound-by-bose-dolby-spatial-audio-79-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "af7f49fa112757fd",
@@ -9360,7 +9419,8 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:20:27Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "236f39a87658743b",
@@ -9374,12 +9434,13 @@
   "pct": 20,
   "price": 50.0,
   "found_at": "2026-11-01T00:20:27Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "1ed3b9a5a8af6c9f",
   "title": "Best price ever: Save 41% on the Samsung 77-inch S85F OLED TV - Mashable",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Lb3pqb2R6a2RncDJYeFNvLV9xTnlXdkdLdDJFVHMxS0ZzMzhYTnZQME5hSnRKLUYxQTFpNzMxY0xiM2tsUnYzY3F3b3F2ZUxpVGdfSVlsTXVyc1IxT1BCaVl1Y0NkZVdjZFVF?oc=5",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Best+price+ever+Save+41+on+the+Samsung+77-inch+S85F+OLED+TV+-+Mashable",
   "why": "Oled — best price ever",
   "category": "tech",
   "source": "Google: Samsung deal",
@@ -9388,7 +9449,10 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T00:20:27Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Lb3pqb2R6a2RncDJYeFNvLV9xTnlXdkdLdDJFVHMxS0ZzMzhYTnZQME5hSnRKLUYxQTFpNzMxY0xiM2tsUnYzY3F3b3F2ZUxpVGdfSVlsTXVyc1IxT1BCaVl1Y0NkZVdjZFVF?oc=5",
+  "store": "Samsung"
  },
  {
   "id": "43eb0d902f7dee56",
@@ -9402,7 +9466,8 @@
   "pct": 20,
   "price": 50.9,
   "found_at": "2026-11-01T00:52:21Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "198daa64f80a15e0",
@@ -9416,7 +9481,8 @@
   "pct": null,
   "price": 35.0,
   "found_at": "2026-11-01T00:57:43Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "724a88ee28fcd065",
@@ -9453,7 +9519,7 @@
  {
   "id": "e849de1032aefea9",
   "title": "Fragrances from D&G, Creed and More! at Woot!",
-  "url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.woot.com/search?query=Fragrances+from+D%26G+Creed+and+More",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9462,7 +9528,10 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Woot"
  },
  {
   "id": "55c09e7ec0e72076",
@@ -9476,7 +9545,8 @@
   "pct": null,
   "price": 40.28,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "f14d331a98a0032f",
@@ -9490,7 +9560,8 @@
   "pct": null,
   "price": 35.91,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "8a8dcab629f1833c",
@@ -9504,7 +9575,8 @@
   "pct": 10,
   "price": 18.88,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "c39a4e1228bc4be6",
@@ -9518,12 +9590,13 @@
   "pct": null,
   "price": 80.85,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "baa89341839ef173",
   "title": "Amazon – 6-Pack Solid Cologne for Men - $4.99 w/ Code",
-  "url": "https://slickdeals.net/f/20192967-amazon-6-pack-solid-cologne-for-men-4-99-w-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Amazon+6-Pack+Solid+Cologne+for+Men+-",
   "why": "Cologne 50% off",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9532,12 +9605,15 @@
   "pct": 50,
   "price": 4.99,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20192967-amazon-6-pack-solid-cologne-for-men-4-99-w-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "ec6425c43b124e16",
   "title": "3.4-Oz Nautica Blue Eau de Toilette Spray for Men $11.88 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20176464-3-4-oz-nautica-blue-eau-de-toilette-spray-for-men-11-88-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=3.4-Oz+Nautica+Blue+Eau+de+Toilette+Spray+for+Men",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9546,12 +9622,15 @@
   "pct": null,
   "price": 11.88,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20176464-3-4-oz-nautica-blue-eau-de-toilette-spray-for-men-11-88-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "2166c37bb67dbb96",
   "title": "6-Pack ALPLUG Men's Solid Cologne Gift Set $4.94 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20169753-6-pack-alplug-men-s-solid-cologne-gift-set-4-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=6-Pack+ALPLUG+Men%27s+Solid+Cologne+Gift+Set",
   "why": "Cologne 45% off",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -9560,7 +9639,10 @@
   "pct": 45,
   "price": 4.94,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true,
+  "source_url": "https://slickdeals.net/f/20169753-6-pack-alplug-men-s-solid-cologne-gift-set-4-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "e32abe3d5ea545b6",
@@ -9574,7 +9656,8 @@
   "pct": null,
   "price": 11.79,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "81edb2ccf7413335",
@@ -9588,7 +9671,8 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-01T01:03:01Z",
-  "link_tried": true
+  "link_tried": true,
+  "link_tried2": true
  },
  {
   "id": "389ba0ba5139b1b2",
@@ -10833,5 +10917,19 @@
   "link_tried2": true,
   "source_url": "https://slickdeals.net/f/19431012-cate-chloe-olivia-18k-white-gold-plated-tennis-bracelet-with-simulated-diamond-crystals-for-women-21-59-fs-wmt-or-at-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart"
+ },
+ {
+  "id": "6553c2c66725fb47",
+  "title": "$44.99* | The Adventures of Elliot: The Millennium Tales (Switch 2, Xbox X or PS5) at Amazon",
+  "url": "https://slickdeals.net/f/20236710-44-99-the-adventures-of-elliot-the-millennium-tales-switch-2-xbox-x-or-ps5-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 44.99,
+  "found_at": "2026-11-01T02:59:17Z",
+  "link_tried2": true
  }
 ]
