@@ -18764,7 +18764,8 @@
   "pct": null,
   "price": 57.99,
   "found_at": "2026-11-01T08:44:19Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:43Z"
  },
  {
   "id": "2adfc600e706565b",
@@ -18778,7 +18779,8 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-01T08:44:19Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:44Z"
  },
  {
   "id": "38ab1b516596be12",
@@ -18792,7 +18794,8 @@
   "pct": null,
   "price": 31.99,
   "found_at": "2026-11-01T08:44:19Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:46Z"
  },
  {
   "id": "d23e0eaf9ef03b93",
@@ -18808,7 +18811,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:59:47Z"
  },
  {
   "id": "062ef7128435712d",
@@ -18824,7 +18828,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19901835-versace-2-pc-bright-crystal-eau-de-toilette-summer-set-with-tote-bag-108?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Macys"
+  "store": "Macys",
+  "checked_at": "2026-11-01T09:59:48Z"
  },
  {
   "id": "7fe6c13207a7ab33",
@@ -18840,7 +18845,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:59:49Z"
  },
  {
   "id": "a24545019628ba19",
@@ -18856,7 +18862,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-01T09:59:51Z"
  },
  {
   "id": "a72f547068c63d80",
@@ -18870,7 +18877,8 @@
   "pct": null,
   "price": 31.99,
   "found_at": "2026-11-01T08:44:19Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:52Z"
  },
  {
   "id": "73431e3207a166ac",
@@ -18884,7 +18892,8 @@
   "pct": null,
   "price": 42.39,
   "found_at": "2026-11-01T08:44:19Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:53Z"
  },
  {
   "id": "b426a10318942c62",
@@ -18900,7 +18909,8 @@
   "found_at": "2026-11-01T08:44:19Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19842681-costco-members-6-7oz-versace-pour-homme-edt-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco"
+  "store": "Costco",
+  "checked_at": "2026-11-01T09:59:55Z"
  },
  {
   "id": "80f314b67c7213db",
@@ -18914,7 +18924,8 @@
   "pct": null,
   "price": 41.18,
   "found_at": "2026-11-01T08:50:25Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:56Z"
  },
  {
   "id": "bb9d30163113065f",
@@ -18928,7 +18939,8 @@
   "pct": null,
   "price": 41.18,
   "found_at": "2026-11-01T08:50:25Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:57Z"
  },
  {
   "id": "af071d4d9a407903",
@@ -18942,7 +18954,8 @@
   "pct": null,
   "price": 41.18,
   "found_at": "2026-11-01T08:50:25Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:57Z"
  },
  {
   "id": "bf05b400f2640474",
@@ -18956,7 +18969,8 @@
   "pct": null,
   "price": 699.99,
   "found_at": "2026-11-01T08:50:25Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-01T09:59:58Z"
  },
  {
   "id": "025f393744599bc9",
@@ -18972,7 +18986,8 @@
   "found_at": "2026-11-01T08:50:25Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-with-translucent-gray-ocean-band-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-01T09:59:59Z"
  },
  {
   "id": "07f9aa529a179b46",
@@ -20377,7 +20392,7 @@
  {
   "id": "fb037fab9d89fd57",
   "title": "DJI Mic Mini (1 TX + 1 RX) Wireless Microphone $37 + FS",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mic+Mini+Wireless+Microphone",
+  "url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -20389,5 +20404,76 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google"
+ },
+ {
+  "id": "c5f8211fa317a4eb",
+  "title": "DTIRD AI Smart Sunglasses for $23 + free shipping w/ $35",
+  "url": "https://www.google.com/search?tbm=shop&q=DTIRD+AI+Smart+Sunglasses+for",
+  "why": "",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 23.0,
+  "found_at": "2026-11-01T09:59:39Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/DTIRD-AI-Smart-Sunglasses-for-23-free-shipping-w-35/22290903.html?iref=rss",
+  "store": "Google"
+ },
+ {
+  "id": "6946b74c857c0183",
+  "title": "20% cash back on Sephora with PayPal pay later",
+  "url": "https://www.sephora.com/search?keyword=20+cash+back+on+Sephora+with+PayPal+pay+later",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Sephora Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-01T09:59:39Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19493613-20-cash-back-on-sephora-with-paypal-pay-later?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Sephora"
+ },
+ {
+  "id": "56b88083c4b7550b",
+  "title": "Nubwo HG04L Wired Gaming Headset (PS5/PS4, Xbox Series X|S, PC) $11.99",
+  "url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-01T09:59:39Z"
+ },
+ {
+  "id": "cb16ca36775576a5",
+  "title": "Citizen 100M Water-Resistant Men's Luxury Eco-Drive Chronograph Watch $337.50",
+  "url": "https://www.amazon.com/gp/product/B0B916MQGN/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "watches",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 337.5,
+  "found_at": "2026-11-01T09:59:39Z"
+ },
+ {
+  "id": "e61701ee35e536da",
+  "title": "AOC Q27GAZD 27\" QD 2560x1440 OLED Gaming Monitor $329.99",
+  "url": "https://www.amazon.com/gp/product/B0GT2JP76J/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 329.99,
+  "found_at": "2026-11-01T09:59:39Z"
  }
 ]
