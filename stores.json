@@ -1,0 +1,185 @@
+{
+ "readers": {
+  "Alo Yoga": {
+   "on": true,
+   "fails": 0,
+   "checks": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:27:21Z",
+   "last_ok": "2026-11-02T20:27:21Z",
+   "items": 37,
+   "sale_items": 28,
+   "seeded": true
+  },
+  "Touch of Modern": {
+   "on": true,
+   "fails": 0,
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:27:34Z",
+   "last_ok": "2026-11-02T20:27:34Z",
+   "items": 1027,
+   "sale_items": 863,
+   "seeded": true
+  },
+  "Ksubi": {
+   "on": true,
+   "fails": 0,
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:27:37Z",
+   "last_ok": "2026-11-02T20:27:37Z",
+   "items": 307,
+   "sale_items": 307,
+   "seeded": true
+  },
+  "Represent": {
+   "on": true,
+   "fails": 0,
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:27:39Z",
+   "last_ok": "2026-11-02T20:27:39Z",
+   "items": 158,
+   "sale_items": 157,
+   "seeded": true
+  },
+  "Taylor Stitch": {
+   "on": true,
+   "fails": 0,
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:27:42Z",
+   "last_ok": "2026-11-02T20:27:42Z",
+   "items": 142,
+   "sale_items": 141,
+   "seeded": true
+  },
+  "Outerknown": {
+   "on": true,
+   "fails": 0,
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:27:44Z",
+   "last_ok": "2026-11-02T20:27:44Z",
+   "items": 218,
+   "sale_items": 140,
+   "seeded": true
+  },
+  "Frame": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Noah": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "John Elliott": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Quay": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "MVMT": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Marine Layer": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Psycho Bunny": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Faherty": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Allbirds": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Kith": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Fear of God": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Aimé Leon Dore": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Amiri": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Stüssy": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Nordstrom Rack": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Woot": {
+   "on": true,
+   "fails": 0,
+   "checks": []
+  },
+  "Jomashop": {
+   "on": false,
+   "fails": 0,
+   "checks": [],
+   "off_reason": "blocks automated reads (bot protection on its product API)"
+  },
+  "Mr Porter": {
+   "on": false,
+   "fails": 0,
+   "checks": [],
+   "off_reason": "blocks GitHub's servers (Access Denied on every page)"
+  }
+ },
+ "updated": "2026-11-02T20:27:52Z"
+}
