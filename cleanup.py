@@ -264,6 +264,9 @@ def flight_dates(post_url):
         out["window"] = re.sub(r"\s+", " ", w.group(2)).strip(" :-")[:110]
     i = re.search(r"(?i)sample (?:travel )?dates?|example dates?|dates? (?:found|available|seen)|e\.g\.", text)
     m = SAMPLE.search(text, i.end()) if i else None
+    if not m and "slickdeals.net" in post_url:   # Slickdeals posts list dates in the write-up without a label
+        body = text[text.find("Deal Details"):] if "Deal Details" in text else text
+        m = SAMPLE.search(body[:6000])
     if m:
         m1, d1, m2, d2, yr = m.groups()
         mo1 = MONTHS[m1[:3].lower()]
@@ -392,14 +395,14 @@ def main():
             d.pop("link_tried2", None)
             d.pop("link_tried3", None)
     for d in everything:   # travel dates from the flight post (once per deal)
-        if d.get("category") == "flights" and not d.get("dates_tried2") and time.time() < DEADLINE:
+        if d.get("category") == "flights" and not d.get("dates_tried3") and time.time() < DEADLINE:
             post = d.get("source_url") or (d["url"] if is_post(d.get("url", "")) else None)
             if post and "news.google.com" not in post:
                 for k in ("depart", "return", "window"):
                     d.pop(k, None)
                 d.update(flight_dates(post))
                 d["route_fixed"] = False
-            d["dates_tried2"], changed = True, True
+            d["dates_tried3"], changed = True, True
     for d in everything:
         if d.get("category") == "flights" and d.get("source_url") and not d.get("route_fixed"):
             d["url"], d["route_fixed"], changed = flight_link(d), True, True

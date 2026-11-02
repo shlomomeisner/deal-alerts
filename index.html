@@ -295,7 +295,7 @@ function card(d){
   el.className="deal"+(d.urgent?" urgent":"")+(d.ended?" ended":"")+(d.tropical?" trop":"");
   el.innerHTML=`<div class="top"><span class="cat">${svg(d.category||"everything")}</span><span class="store"></span>${d.ended?'<span class="flag gone">Ended</span>':d.urgent?'<span class="flag">Price error</span>':myWatch(d)?'<span class="flag watch">🎯 Your watch</span>':""}<span class="when">${ago(d.found_at)}</span></div>
   ${d.route?`<div class="route"><span class="code">${esc(d.route.from)}</span><span class="line"><i></i>${svg("flights",' width="18" height="18"')}<i></i></span><span class="dest">${esc(d.route.to.split(",")[0])}${d.route.to.includes(",")?`<small>${esc(d.route.to.split(",").slice(1).join(",").trim())}</small>`:""}</span>${d.tropical?'<span class="palm">🌴 Tropical</span>':""}</div>`:""}
-  ${d.category==="flights"&&(d.depart||d.window)?`<div class="fdates">${d.depart?`<span>📅 <b>${esc(fmtTrip(d.depart,d.return))}</b> ${d.picked?"dates inside the deal window":"sample dates"}</span>`:""}${d.window?`<span>🗓 Travel ${esc(d.window)}</span>`:""}</div>`:""}
+  ${d.category==="flights"&&(d.depart||d.window)?`<div class="fdates">${d.depart?`<span>📅 <b>${esc(fmtTrip(d.depart,d.return))}</b> ${d.picked?"dates inside the deal window · exact cheap days are in Source":"sample dates"}</span>`:""}${d.window?`<span>🗓 Travel ${esc(d.window)}</span>`:""}</div>`:""}
   <div class="title"><a target="_blank" rel="noopener"></a></div>
   <div class="why"></div>
   ${priceHTML(d,"pricebar")}
@@ -437,12 +437,13 @@ const MONS=["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","d
 const iso=dt=>dt.toISOString().slice(0,10);
 function windowDates(d){   // no sample dates: pick a mid-week trip inside the deal's travel window
   const txt=(d.window||"")+" "+(d.title||"");
-  const now=new Date(),soon=new Date(now.getTime()+14*864e5),yr=(/\b(20\d\d)\b/.exec(txt)||[])[1];
-  const re=/\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?(?:\s+(20\d\d))?/ig;let m,dep=null;
+  const now=new Date(),soon=new Date(now.getTime()+14*864e5),yr=(/(?<![$\d,.])\b(202[6-9]|203[01])\b/.exec(txt)||[])[1];
+  const re=/\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?(?:\s+(202[6-9]|203[01]))?\b/ig;let m,dep=null;
   while((m=re.exec(txt))){   // first month in the window that's still ahead of us
-    const mo=MONS.indexOf(m[1].toLowerCase());let y=m[2]?+m[2]:yr?+yr:now.getUTCFullYear();
-    if(!m[2]&&!yr&&mo<now.getUTCMonth())y++;
+    const mo=MONS.indexOf(m[1].toLowerCase());let y=m[2]?+m[2]:now.getUTCFullYear();
+    if(!m[2]&&mo<now.getUTCMonth())y++;                      // a month with no year = its next occurrence
     let t=new Date(Date.UTC(y,mo,8));while(t.getUTCDay()!==2)t.setUTCDate(t.getUTCDate()+1);  // 2nd Tuesday: usually cheapest
+    if(t<soon&&soon.getUTCMonth()===mo&&soon.getUTCFullYear()===y){t=new Date(soon);while(t.getUTCDay()!==2)t.setUTCDate(t.getUTCDate()+1);if(t.getUTCMonth()!==mo)continue}
     if(t>=soon){dep=t;break}
   }
   if(!dep)return null;
@@ -470,8 +471,10 @@ function fixDeal(d){
   {const tp=titlePrice(d.title),wp=wasPrice(d.title);
    if(tp!=null&&(d.price==null||Math.abs(tp-d.price)>1))d={...d,price:tp};
    if(wp!=null&&d.price!=null&&wp>d.price&&d.was==null)d={...d,was:wp,pct:Math.round((1-d.price/wp)*100)}}
-  if(d.category==="flights"&&!/\b(flights?|fares?|airfares?|airlines?|airways|air|round[- ]?trip|one[- ]?way|nonstop|business class|first class|economy)\b/i.test(d.title||""))d={...d,category:"tech"};  // e.g. a DJI drone "flight"
+  if(d.category==="flights"&&(!/\b(fares?|airfares?|airlines?|airways|air|round[- ]?trip|one[- ]?way|nonstop|non-stop|business class|first class|economy|flights? (to|from))\b/i.test(d.title||"")||!/\b(new york|nyc|jfk|ewr|lga|newark)\b/i.test(d.title||"")))
+    d={...d,category:/\b(breitling|tudor|omega|rolex|seiko|cartier|tag heuer|longines|hamilton|tissot|citizen|watch(es)?|chrono(graph)?)\b/i.test(d.title||"")?"watches":/\b(dji|drone|camera|gopro)\b/i.test(d.title||"")?"tech":"everything"};  // not a NYC fare
   if(d.category==="flights"&&!/\$\s?\d/.test(d.title||""))return null;   // travel news, not a fare
+  if(d.category==="flights"&&!routeOf(d.title))d={...d,category:"everything"};   // not clearly leaving New York
   if(d.category==="flights"){
     if(d.depart&&new Date(d.depart+"T12:00:00Z")<new Date())d={...d,depart:null,return:null};
     if(!d.depart){const w=windowDates({...d,window:cleanWindow(d.window)});if(w)d={...d,...w,picked:true}}
