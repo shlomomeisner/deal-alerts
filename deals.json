@@ -13568,7 +13568,8 @@
   "pct": null,
   "price": 399.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0GDSC8K2H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
+  "store_url": "https://www.amazon.com/gp/product/B0GDSC8K2H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "checked_at": "2026-11-02T18:22:16Z"
  },
  {
   "id": "b1bdb2960764eab7",
@@ -13810,7 +13811,8 @@
   "price": 70.44,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/16382902-prada-luna-rossa-carbon-edt-5-1-oz-70-44?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:17Z"
  },
  {
   "id": "f94febf73acb0401",
@@ -13825,7 +13827,8 @@
   "price": 84.0,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/15610654-fragrance-eau-de-toilette-set-sale-viktor-rolf-spicebomb-infrared-eau-de-toilette-set-84-many-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:18Z"
  },
  {
   "id": "2671a9094cc0c4ca",
@@ -13840,7 +13843,8 @@
   "price": 37.0,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/15490825-prada-luna-rossa-by-prada-men-s-eau-de-toilette-spray-3-4-fl-oz-37-with-clipping-40-off-subscribe-and-save-ymmv-discount-36?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:20Z"
  },
  {
   "id": "9c9b5b55999a51e9",
@@ -13855,7 +13859,8 @@
   "price": 56.0,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/15490657-prada-luna-rossa-sport-edt-similar-to-jpg-le-male-56-fs-20-sd-cash-back?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:22Z"
  },
  {
   "id": "54a20a5cc9491208",
@@ -13870,7 +13875,8 @@
   "price": null,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:24Z"
  },
  {
   "id": "e789cfe279e183ea",
@@ -13885,7 +13891,8 @@
   "price": 166.4,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:27Z"
  },
  {
   "id": "65ee083a514a6160",
@@ -13900,7 +13907,8 @@
   "price": 166.38,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:29Z"
  },
  {
   "id": "d7ba0fc871f0cfad",
@@ -13915,7 +13923,8 @@
   "price": 96.0,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/17476674-acqua-di-gio-parfum-men-s-cologne-2-5-oz-96?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:30Z"
  },
  {
   "id": "83b90e344940a7c7",
@@ -13929,7 +13938,8 @@
   "pct": null,
   "price": 500.0,
   "found_at": "2026-11-02T05:36:46Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T18:22:32Z"
  },
  {
   "id": "acc1d60a34841477",
@@ -13944,7 +13954,8 @@
   "price": 117.5,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/16813154-10-oz-dior-sauvage-fragrance-refill-eau-de-toilette-117-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:34Z"
  },
  {
   "id": "e2b00d8598cad55a",
@@ -13959,7 +13970,8 @@
   "price": 6900.0,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:35Z"
  },
  {
   "id": "f021a528fcb97def",
@@ -13974,7 +13986,8 @@
   "price": 64.0,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/15424699-walgreens-25-off-regular-price-site-wide-prada-luna-rossa-carbon-3-4-oz-64-ac-fs-works-on-most-regular-priced-items?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:37Z"
  },
  {
   "id": "38451ac42d6f113b",
@@ -13989,7 +14002,8 @@
   "price": null,
   "found_at": "2026-11-02T05:36:46Z",
   "source_url": "https://slickdeals.net/f/15318833-free-prada-luna-rossa-ocean-sample-alexa-google-voice?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:22:38Z"
  },
  {
   "id": "b4e10a6ae64db25c",
@@ -14005,7 +14019,8 @@
   "found_at": "2026-11-02T05:36:46Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15282817-prada-ocean-luna-rossa-cologne-sample-free-via-amazon-alexa-or-google-assistant-apps-devices?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:22:40Z"
  },
  {
   "id": "6935d82d6791bf52",
@@ -24898,7 +24913,7 @@
  {
   "id": "4ce5dc3fd998fd2f",
   "title": "Ralph Lauren 2-Piece World of Polo Eau de Toilette Gift Set $21.00",
-  "url": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+2-Piece+World+of+Polo+Eau+de+Toilette+Gift+Set",
+  "url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -24908,8 +24923,7 @@
   "price": 21.0,
   "found_at": "2026-11-02T15:49:36Z",
   "source_url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "eed71a7e4bf0757e",
@@ -25240,7 +25254,7 @@
  {
   "id": "14a7a98841b879c7",
   "title": "Extra 22% off on Fall Shoes: Hunter, UGG, & More at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Fall+Shoes+Hunter+UGG+%26+More",
+  "url": "https://slickdeals.net/f/20119698-extra-22-off-on-fall-shoes-hunter-ugg-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -25250,8 +25264,7 @@
   "price": null,
   "found_at": "2026-11-02T15:49:40Z",
   "source_url": "https://slickdeals.net/f/20119698-extra-22-off-on-fall-shoes-hunter-ugg-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "be30aca49322bcde",
@@ -30205,9 +30218,9 @@
   "pct": null,
   "price": 17.0,
   "found_at": "2026-11-02T18:11:35Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Asobu-Infinite-Stainless-Steel-Insulated-Coffee-Mug-w-Ceramic-Coating-Cork-Coaster-for-17-free-shipping-w-Prime/22336776.html?iref=rss",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "10d48ba80b61e240",
@@ -30253,9 +30266,9 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-11-02T18:11:35Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Astro-AI-P3-20-PSI-Rechargeable-Electric-Paddle-Board-Pump-for-50-free-shipping-w-Prime/22336751.html?iref=rss",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "3243a1085a7ea7ac",
@@ -30446,19 +30459,6 @@
   "store_url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-02T18:14:20Z"
- },
- {
   "id": "c5c667bae1423d65",
   "title": "$319.13 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
   "url": "https://slickdeals.net/f/20229237-319-13-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -30469,7 +30469,8 @@
   "hot": false,
   "pct": null,
   "price": 319.13,
-  "found_at": "2026-11-02T18:14:20Z"
+  "found_at": "2026-11-02T18:14:20Z",
+  "link_tried3": true
  },
  {
   "id": "ca23e07607fa7957",
@@ -30485,16 +30486,289 @@
   "found_at": "2026-11-02T18:14:24Z"
  },
  {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "e53bf4c4677376ec",
+  "title": "lululemon The Game Days Snapback Golf Hat for $24 + free shipping",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+The+Game+Days+Snapback+Golf+Hat+for",
   "why": "",
-  "category": "watches",
-  "source": "Web search: Omega price drop",
+  "category": "fashion",
+  "source": "DealNews",
   "urgent": false,
   "hot": false,
   "pct": null,
   "price": 24.0,
-  "found_at": "2026-11-02T18:14:30Z"
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/lululemon-The-Game-Days-Snapback-Golf-Hat-for-24-free-shipping/22336796.html?iref=rss",
+  "store": "Lululemon"
+ },
+ {
+  "id": "87d479ffca0f1d29",
+  "title": "Fragrances from D&G, Creed and More! at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "9b171ebd1311eace",
+  "title": "Woot! App: $19.99 | 3.4-Oz Lattafa Pride Vintage Radio Unisex Eau de Parfum Spray at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19654440-woot-app-19-99-3-4-oz-lattafa-pride-vintage-radio-unisex-eau-de-parfum-spray-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "a991ece65dd2ba39",
+  "title": "$224 | Hedonist Collection - Musk Therapy by Initio Parfums Prives for Unisex - 3.04 oz Extrait De Parfum Spray at Amazon",
+  "url": "https://slickdeals.net/f/19399857-224-hedonist-collection-musk-therapy-by-initio-parfums-prives-for-unisex-3-04-oz-extrait-de-parfum-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 224.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true
+ },
+ {
+  "id": "638240cfc9a0aa27",
+  "title": "Initio Sonic Electric Toothbrush (black) $8 + Free Shipping w/ Prime or orders $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17236663-initio-sonic-electric-toothbrush-black-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "4391d0548dd6b630",
+  "title": "Initio Sonic Electric Toothbrush $8 + Free Shipping w/ Prime or orders $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17173909-initio-sonic-electric-toothbrush-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "46774eb2bddb37ee",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17064664-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e173ea16b18ae8be",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16998058-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "726ed2651a56e9dc",
+  "title": "Initio Sonic Electric Toothbrush w/ Travel Case + 8 Brush Heads (Various Colors) $11 + Free Shipping w/ Prime or on Orders $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16938931-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "3b5ac9a2173a3e98",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16936000-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "72b8d686d28815fc",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16866764-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "20b0be3ab745830f",
+  "title": "Initio Sonic Electric Toothbrush (5 Colors) $8 + Free Shipping w/ Prime or $25+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16804547-initio-sonic-electric-toothbrush-5-colors-8-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "f7b1dfba31cad334",
+  "title": "Initio Sonic Electric Toothbrush w/ Travel Case + 8 Brush Heads (Various Colors) $11 + Free Shipping w/ Prime or on Orders $25+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 11.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "f75c909e50839ff1",
+  "title": "Initio Sonic Electric Toothbrush with Travel Case (4 colors) $12.07 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.07,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "a9e13a8a44a3d82c",
+  "title": "Initio Sonic Electric Toothbrush for Adults (5 colors) $9 + Free Shipping w/ Prime or $25+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "f522898743a1a139",
+  "title": "Otterbox Case for iPhone 17 Pro / iPhone 18 Pro, Defender Series XT Pro Dual-Layer with Military Grade Drop Protection, MagSafe Capable, Clear / Black + Free Shipping $12.88",
+  "url": "https://www.google.com/search?tbm=shop&q=Otterbox+Case+for+iPhone+17+Pro+iPhone+18+Pro+Defender+Series+XT+Pro+Dual-Layer+",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.88,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243409-otterbox-case-for-iphone-17-pro-iphone-18-pro-defender-series-xt-pro-dual-layer-with-military-grade-drop-protection-magsafe-capable-clear-black-free-shipping-12-88?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "6fc4eedceb347a50",
+  "title": "DJI Mic Mini (1 TX + 1 RX) Wireless Microphone $37 + FS",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mic+Mini+Wireless+Microphone",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 37.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "27a135de93384561",
+  "title": "Samsung EDU/EPP Unlocked Samsung Galaxy Z fold8 256 GB plus $400 credit for accessories $1304.99",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+Z+fold8+256+GB+plus",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Galaxy Z Fold",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 400.0,
+  "found_at": "2026-11-02T18:19:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245512-samsung-edu-epp-unlocked-samsung-galaxy-z-fold8-256-gb-plus-400-credit-for-accessories-1304-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
  }
 ]
