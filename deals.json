@@ -20630,7 +20630,8 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-01T18:48:58Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T03:58:01Z"
  },
  {
   "id": "fd882132161e7485",
@@ -20645,7 +20646,8 @@
   "price": 454.99,
   "found_at": "2026-11-01T18:48:58Z",
   "source_url": "https://slickdeals.net/f/19341201-dji-osmo-360-camera-adventure-combo-454-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T03:58:03Z"
  },
  {
   "id": "a5d54370830403a6",
@@ -20659,7 +20661,8 @@
   "pct": null,
   "price": 299.99,
   "found_at": "2026-11-01T18:49:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T03:58:05Z"
  },
  {
   "id": "415602531dc62e65",
@@ -20673,7 +20676,8 @@
   "pct": null,
   "price": 299.99,
   "found_at": "2026-11-01T18:49:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T03:58:06Z"
  },
  {
   "id": "547663ac9a886e17",
@@ -20689,7 +20693,8 @@
   "found_at": "2026-11-01T18:49:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20114910-prime-day-gopro-lit-hero-lightweight-compact-waterproof-action-camera-with-built-in-light-4k60-ultra-hd-video-12mp-photo-touch-screen-hypersmooth-stabilization-179-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T03:58:07Z"
  },
  {
   "id": "6d2820065d1e06a6",
@@ -20705,7 +20710,8 @@
   "found_at": "2026-11-01T18:49:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20080080-gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-easy-replaceable-lenses-hypersmooth-stabilization-for-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T03:58:09Z"
  },
  {
   "id": "09e17c9f77b81a46",
@@ -20721,7 +20727,8 @@
   "found_at": "2026-11-01T18:49:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20050281-open-box-gopro-max-2-8k-360-action-camera-261-or-less-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T03:58:10Z"
  },
  {
   "id": "c5f774423e3b927a",
@@ -20736,7 +20743,8 @@
   "price": 16.42,
   "found_at": "2026-11-01T18:49:00Z",
   "source_url": "https://slickdeals.net/f/20035095-telesin-waterproof-selfie-stick-buoyancy-bar-wireless-remote-control-for-gopro-hero-free-s-h-16-42?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T03:58:11Z"
  },
  {
   "id": "762777ce9384d966",
@@ -20752,7 +20760,8 @@
   "found_at": "2026-11-01T18:49:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20002146-gopro-max2-8k-360-action-camera-bundle-free-shipping-299-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco"
+  "store": "Costco",
+  "checked_at": "2026-11-02T03:58:12Z"
  },
  {
   "id": "941ab71b17deee48",
@@ -20768,7 +20777,8 @@
   "found_at": "2026-11-01T18:49:00Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19965957-gopro-mission-1-pro-camera-479-99-at-target-with-teachers-discount?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Target"
+  "store": "Target",
+  "checked_at": "2026-11-02T03:58:14Z"
  },
  {
   "id": "379d505b845a891d",
@@ -20783,7 +20793,8 @@
   "price": 379.99,
   "found_at": "2026-11-01T18:49:00Z",
   "source_url": "https://slickdeals.net/f/19934535-gopro-max2-ski-bundle-379-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T03:58:15Z"
  },
  {
   "id": "45c02736c32d4af1",
@@ -20798,7 +20809,8 @@
   "price": 369.99,
   "found_at": "2026-11-01T18:49:00Z",
   "source_url": "https://slickdeals.net/f/19934523-gopro-max2-accessories-bundle-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T03:58:17Z"
  },
  {
   "id": "1c0c0d12ff82a5b2",
@@ -20813,7 +20825,8 @@
   "price": 299.0,
   "found_at": "2026-11-01T18:49:00Z",
   "source_url": "https://slickdeals.net/f/19934487-gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T03:58:18Z"
  },
  {
   "id": "d2b891618afee911",
@@ -20828,7 +20841,8 @@
   "price": 699.99,
   "found_at": "2026-11-01T18:49:00Z",
   "source_url": "https://slickdeals.net/f/19934472-pre-order-ships-on-or-before-wednesday-sep-2-gopro-mission-1-pro-ils-camera-with-micro-four-thirds-lens-mount-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T03:58:19Z"
  },
  {
   "id": "6f20884bb69f7c37",
@@ -20842,7 +20856,8 @@
   "pct": null,
   "price": 229.0,
   "found_at": "2026-11-01T18:49:00Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T03:58:21Z"
  },
  {
   "id": "be85bdfc27c3a2a5",
@@ -27213,7 +27228,7 @@
  {
   "id": "cbc84029b5ad882b",
   "title": "Select Polarized Sunglasses - Rag & Bone $29 | Ermenegildo Zegna $44 | John Varvatos w/Clip-On Lense $48 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Polarized+Sunglasses+-+Rag+%26+Bone",
+  "url": "https://slickdeals.net/f/16809059-select-polarized-sunglasses-rag-bone-29-ermenegildo-zegna-44-john-varvatos-w-clip-on-lense-48-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Zegna",
@@ -27223,8 +27238,7 @@
   "price": 29.0,
   "found_at": "2026-11-01T22:40:42Z",
   "source_url": "https://slickdeals.net/f/16809059-select-polarized-sunglasses-rag-bone-29-ermenegildo-zegna-44-john-varvatos-w-clip-on-lense-48-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "6520d635fb9a51c3",
@@ -27469,7 +27483,7 @@
  {
   "id": "20ec787fc8cef3b8",
   "title": "Men's Sunglasses: Ermenegildo Zegna Classic Polarized Sunglasses $64 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+Sunglasses+Ermenegildo+Zegna+Classic+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/e/13176919-men-s-sunglasses-ermenegildo-zegna-classic-polarized-sunglasses-64-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Zegna",
@@ -27479,8 +27493,7 @@
   "price": 64.0,
   "found_at": "2026-11-01T22:48:06Z",
   "source_url": "https://slickdeals.net/e/13176919-men-s-sunglasses-ermenegildo-zegna-classic-polarized-sunglasses-64-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "1b61d34ebf145368",
@@ -27501,7 +27514,7 @@
  {
   "id": "da985614c3731b7a",
   "title": "Neiman Marcus - Extra 30% off Clearance",
-  "url": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+-+Extra+30+off+Clearance",
+  "url": "https://slickdeals.net/e/10735355-neiman-marcus-extra-30-off-clearance?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Zegna",
@@ -27511,8 +27524,7 @@
   "price": null,
   "found_at": "2026-11-01T22:48:06Z",
   "source_url": "https://slickdeals.net/e/10735355-neiman-marcus-extra-30-off-clearance?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "f6440df2b6c08101",
@@ -31738,5 +31750,179 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235456-crkd-ult-pro-wireless-gaming-controller-for-switch-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon"
+ },
+ {
+  "id": "fcc7d47d71b9f63b",
+  "title": "lululemon Fast and Free High-Rise Classic-Fit Split Short 3\" (Black & True Navy) $39 + Free Shipping",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Fast+and+Free+High-Rise+Classic-Fit+Split+Short+3",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Lululemon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.0,
+  "found_at": "2026-11-02T03:55:39Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19715019-lululemon-fast-and-free-high-rise-classic-fit-split-short-3-black-true-navy-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon"
+ },
+ {
+  "id": "15d3f8acff7d978d",
+  "title": "lululemon Men's Satin Stripe Pants (2 Colors) $59",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Satin+Stripe+Pants",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Lululemon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.0,
+  "found_at": "2026-11-02T03:55:39Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19697817-lululemon-men-s-satin-stripe-pants-2-colors-59?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon"
+ },
+ {
+  "id": "5b620a0bb9988408",
+  "title": "DJI Power 1000 V2 Portable Power Station, 1024Wh LFP Battery. 2600W Stable Output $399.98",
+  "url": "https://www.amazon.com/s?k=DJI+Power+1000+V2+Portable+Power+Station+1024Wh+LFP+Battery.+2600W+Stable+Output",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: B&H Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.98,
+  "found_at": "2026-11-02T03:55:39Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20239143-dji-power-1000-v2-portable-power-station-1024wh-lfp-battery-2600w-stable-output-399-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "c986260c1627b2a5",
+  "title": "LG C6 Series OLED 55\" evo AI 4K 165Hz Smart TV $999.99",
+  "url": "https://www.amazon.com/gp/product/B0GRKGQ8HH/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 999.99,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GRKGQ8HH/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
+ },
+ {
+  "id": "024b0a23cfb0dd23",
+  "title": "Evie Women's Sport Braided Nylon Band for Apple Watch $4.99",
+  "url": "https://www.amazon.com/gp/product/B0DXKF9PD4/ref=ox_sc_act_title_1?smid=AEBWK04458ULI&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.99,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0DXKF9PD4/ref=ox_sc_act_title_1?smid=AEBWK04458ULI&psc=1"
+ },
+ {
+  "id": "858ea0213f51e571",
+  "title": "Apple 2026 MacBook Air 13.6\" M5 Chip 10-core CPU & 10-core GPU 2560x1664 Laptop (24GB/1TB) $1599",
+  "url": "https://www.amazon.com/gp/product/B0GR1BY1SZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1599.0,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GR1BY1SZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1"
+ },
+ {
+  "id": "3a007e17a7789ae7",
+  "title": "Pre-order 2026 MacBook Pro 16.3\" PROLED XDR \"OLED\" Touch Apple M5 Pro Laptop $3399",
+  "url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3399.0,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1"
+ },
+ {
+  "id": "f132bf31b56e7ba1",
+  "title": "Baseus Inspire XC1 Bose Dolby Audio Open Ear Wireless Clip-on Earbuds $79.99",
+  "url": "https://www.amazon.com/gp/product/B0FMRPKN3G/ref=ox_sc_act_image_1?smid=A1RS007LH1WSHI&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0FMRPKN3G/ref=ox_sc_act_image_1?smid=A1RS007LH1WSHI&th=1"
+ },
+ {
+  "id": "75ba5689eb1f5e51",
+  "title": "DJI Power 2000 3000W 2048Wh LFP Portable Power Station $749.99",
+  "url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 749.99,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1"
+ },
+ {
+  "id": "a6653d8925ee4459",
+  "title": "Dyson PencilWash Cordless Wet Cleaner (Copper) $199.99",
+  "url": "https://www.walmart.com/ip/Dyson-PencilWash-Cordless-Wet-Cleaner-Bright-Copper-New-Latest-Technology/19881062881",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.walmart.com/ip/Dyson-PencilWash-Cordless-Wet-Cleaner-Bright-Copper-New-Latest-Technology/19881062881"
+ },
+ {
+  "id": "b3f6cccb8fd75f7e",
+  "title": "Samsung Odyssey QD-OLED G6 27\" 2560x1440 240Hz Gaming Monitor $399.99",
+  "url": "https://www.amazon.com/gp/product/B0GDSC8K2H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.99,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GDSC8K2H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
+ },
+ {
+  "id": "b1bdb2960764eab7",
+  "title": "Garmin inReach Mini 2 SOS Satellite Communicator (Renewed) $199.99",
+  "url": "https://www.amazon.com/gp/product/B0HKKF3LC2/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-02T03:55:39Z",
+  "store_url": "https://www.amazon.com/gp/product/B0HKKF3LC2/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1"
  }
 ]
