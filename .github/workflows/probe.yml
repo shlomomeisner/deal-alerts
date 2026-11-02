@@ -1,0 +1,20 @@
+name: Probe
+on:
+  push:
+    branches: [probe]
+jobs:
+  probe:
+    permissions: {contents: write}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: bash tools/test.sh
+      - if: always()
+        run: |
+          cd tools && ls shots || exit 0
+          cp ../stores.json ../taste.json e2e.json shots/ 2>/dev/null || true
+          git config user.name probe && git config user.email probe@users.noreply.github.com
+          git checkout -B probe-shots && git add -f shots && git commit -qm shots && git push -f origin probe-shots
