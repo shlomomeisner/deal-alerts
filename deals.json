@@ -21905,7 +21905,8 @@
   "found_at": "2026-11-01T19:03:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20195241-lg-65-c6-series-4k-uhd-oled-ai-smart-webos-26-tv-oled65c6pua?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-02T05:11:38Z"
  },
  {
   "id": "3df9ac23650d8439",
@@ -21920,7 +21921,8 @@
   "price": 1.0,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20194908-lg-partner-store-45-inch-ultragear-evo-oled-5k2k-wuhd-165hz-or-wfhd-dual-mode-330hz-0-03ms-g-sync-compatible-displayport-2-1-gaming-monitor-1-for-1-year-premium-care-1169-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:11:40Z"
  },
  {
   "id": "189304c19e5c1842",
@@ -21935,7 +21937,8 @@
   "price": 1399.99,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20189289-lg-partner-store-55-inch-class-lg-oled-evo-ai-g6-4k-smart-tv-2026-with-free-stand-1399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:11:41Z"
  },
  {
   "id": "96136a96dbd4ea5c",
@@ -21950,7 +21953,8 @@
   "price": 3499.99,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20189262-lg-partner-store-83-inch-class-lg-oled-evo-ai-g6-4k-smart-tv-2026-3499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:11:43Z"
  },
  {
   "id": "1945ea8abbf3ee7b",
@@ -21965,7 +21969,8 @@
   "price": 1799.99,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20188983-lg-partner-store-83-inch-class-lg-oled-ai-b6-4k-smart-tv-2026-1799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:11:44Z"
  },
  {
   "id": "35ac2c7dcb22a976",
@@ -21980,7 +21985,8 @@
   "price": 809.99,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20185350-select-areas-lg-partner-55-c6-class-lg-oled-evo-ai-4k-smart-tv-2026-809-99-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:11:45Z"
  },
  {
   "id": "74a25959ca27c6bb",
@@ -21995,7 +22001,8 @@
   "price": 2672.99,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20185302-select-areas-lg-partner-83-oled-evo-ai-c6h-4k-smart-tv-sc9s-soundbar-2-672-99-free-s-h-2672-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:11:46Z"
  },
  {
   "id": "ea4bacfc08829019",
@@ -22015,7 +22022,8 @@
   "window": "November - February 2027) - 2026-10-14",
   "depart": "2026-11-09",
   "return": "2026-11-10",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:47Z"
  },
  {
   "id": "e90d9eeb8b392d4b",
@@ -22035,7 +22043,8 @@
   "window": "October - December 2026) - 2026-08-29",
   "depart": "2027-10-12",
   "return": "2027-10-13",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:48Z"
  },
  {
   "id": "fd36e3551f518473",
@@ -22055,7 +22064,8 @@
   "window": "September - October 2026) - 2026-06-15",
   "depart": "2027-09-01",
   "return": "2027-09-02",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:50Z"
  },
  {
   "id": "232d1739ea0b1dd9",
@@ -22075,7 +22085,8 @@
   "window": "September 2026) - 2026-06-03",
   "depart": "2027-08-25",
   "return": "2027-08-31",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:51Z"
  },
  {
   "id": "38bb16710f66f153",
@@ -22095,7 +22106,8 @@
   "window": "September - November 2025) - 2025-09-09",
   "depart": "2027-10-06",
   "return": "2027-10-07",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:53Z"
  },
  {
   "id": "8f6df73708afcb2b",
@@ -22115,7 +22127,8 @@
   "window": "September - November 2025) - 2025-07-29",
   "depart": "2027-09-01",
   "return": "2027-09-05",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:54Z"
  },
  {
   "id": "472862f5ba3511e9",
@@ -22135,7 +22148,8 @@
   "window": "September - November 2025) - 2025-06-15",
   "depart": "2027-09-01",
   "return": "2027-09-03",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:55Z"
  },
  {
   "id": "9d3bb5e4ad68c68c",
@@ -22155,7 +22169,8 @@
   "window": "September - November 2025) - 2025-05-30",
   "depart": "2027-09-03",
   "return": "2027-09-05",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:11:57Z"
  },
  {
   "id": "d1dd3a07bf3543d8",
@@ -22175,7 +22190,8 @@
   "window": "October - December 2024) - 2024-09-25",
   "depart": "2027-10-14",
   "return": "2027-10-16",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:04Z"
  },
  {
   "id": "4787fad9178f4e21",
@@ -22195,7 +22211,8 @@
   "window": "September - October 2024) - 2024-05-03",
   "depart": "2027-09-02",
   "return": "2027-09-05",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:06Z"
  },
  {
   "id": "4a279f840b46fe31",
@@ -22215,7 +22232,8 @@
   "window": "August-March 2025) - 2024-04-25",
   "depart": "2027-08-27",
   "return": "2027-08-28",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:07Z"
  },
  {
   "id": "34cfd23e7e5cbe28",
@@ -22235,7 +22253,8 @@
   "window": "March-June; September-December 2024) - 2024-02-28",
   "depart": "2027-04-08",
   "return": "2027-04-09",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:09Z"
  },
  {
   "id": "57706a2fa60e3879",
@@ -22255,7 +22274,8 @@
   "window": "September - December 2023) - 2023-07-30",
   "depart": "2027-09-01",
   "return": "2027-09-16",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:10Z"
  },
  {
   "id": "ad4fbf618ca39487",
@@ -22275,7 +22295,8 @@
   "window": "November - January 2023) - 2022-10-13",
   "depart": "2026-11-14",
   "return": "2026-11-16",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:11Z"
  },
  {
   "id": "a14d99b73c433ddf",
@@ -22295,7 +22316,8 @@
   "window": "November - March 2023) - 2022-08-15",
   "depart": "2026-11-06",
   "return": "2026-11-07",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:13Z"
  },
  {
   "id": "b31779647905586a",
@@ -22315,7 +22337,8 @@
   "window": "August - October 2022) - 2022-06-25",
   "depart": "2027-09-07",
   "return": "2027-09-09",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:14Z"
  },
  {
   "id": "1c781b794a8e6051",
@@ -22335,7 +22358,8 @@
   "window": "October-November 2019)",
   "depart": "2027-10-21",
   "return": "2027-10-22",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:15Z"
  },
  {
   "id": "fadcf7f081cb49b0",
@@ -22355,7 +22379,8 @@
   "window": "September - February 2027) - 2026-03-27",
   "depart": "2027-10-03",
   "return": "2027-10-06",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:16Z"
  },
  {
   "id": "56a3c69114c95be4",
@@ -22375,7 +22400,8 @@
   "window": "January - March 2025) - 2024-12-09",
   "depart": "2027-01-10",
   "return": "2027-01-14",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:18Z"
  },
  {
   "id": "32d0c48c7bf43039",
@@ -22395,7 +22421,8 @@
   "window": "January - March 2024) - 2024-01-04",
   "depart": "2027-02-04",
   "return": "2027-02-07",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:19Z"
  },
  {
   "id": "608f6e9e30b58710",
@@ -22415,7 +22442,8 @@
   "window": "September - October 2023) - 2023-05-15",
   "depart": "2027-09-20",
   "return": "2027-09-22",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:20Z"
  },
  {
   "id": "f14fd0b9a8f9c1db",
@@ -22435,7 +22463,8 @@
   "window": "January 2024) - 2023-05-01",
   "depart": "2027-01-01",
   "return": "2027-01-03",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:22Z"
  },
  {
   "id": "10c0aac5031db827",
@@ -22455,7 +22484,8 @@
   "window": "September - October 2022) - 2022-04-04",
   "depart": "2027-09-06",
   "return": "2027-09-09",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:20:23Z"
  },
  {
   "id": "a33c81c48277fe20",
@@ -22475,7 +22505,8 @@
   "window": "January - May 2022) - 2021-07-21",
   "depart": "2027-02-01",
   "return": "2027-02-02",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:27Z"
  },
  {
   "id": "623636f1f74d0e6c",
@@ -22495,7 +22526,8 @@
   "window": "January - March 2026) - 2025-12-16",
   "depart": "2027-01-06",
   "return": "2027-01-07",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:29Z"
  },
  {
   "id": "831894177b06a361",
@@ -22515,7 +22547,8 @@
   "window": "December - June 2025) - 2024-09-06",
   "depart": "2026-12-01",
   "return": "2026-12-04",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:30Z"
  },
  {
   "id": "c260a7d58134c98f",
@@ -22535,7 +22568,8 @@
   "window": "April - February 2025, Including SUMMER) - 2024-03-29",
   "depart": "2027-07-05",
   "return": "2027-07-12",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:32Z"
  },
  {
   "id": "16eaf8de538cf6e5",
@@ -22555,7 +22589,8 @@
   "window": "April - September 2024) - 2024-03-19",
   "depart": "2027-04-02",
   "return": "2027-04-10",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:33Z"
  },
  {
   "id": "6104edd228f64ec4",
@@ -22575,7 +22610,8 @@
   "window": "November - February 2024) - 2023-10-12",
   "depart": "2026-11-07",
   "return": "2026-11-08",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:35Z"
  },
  {
   "id": "7aeeb030cdbea5f6",
@@ -22595,7 +22631,8 @@
   "window": "July - October 2023) - 2023-07-11",
   "depart": "2027-07-26",
   "return": "2027-07-31",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:36Z"
  },
  {
   "id": "efec9c897194bfae",
@@ -22615,7 +22652,8 @@
   "window": "August - November 2023) - 2023-06-08",
   "depart": "2027-08-02",
   "return": "2027-08-03",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:37Z"
  },
  {
   "id": "9b18ba97c10d83e8",
@@ -22633,7 +22671,8 @@
   "dates_tried2": true,
   "source_url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "window": "November - March 2027)",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:38Z"
  },
  {
   "id": "a7b53356a8236536",
@@ -22653,7 +22692,8 @@
   "window": "Sept-Oct 2019)",
   "depart": "2027-09-03",
   "return": "2027-09-04",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:39Z"
  },
  {
   "id": "8a42b4c269eca5af",
@@ -22673,7 +22713,8 @@
   "window": "October - December 2025) - 2025-10-07",
   "depart": "2027-10-14",
   "return": "2027-10-15",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:40Z"
  },
  {
   "id": "efab93a1a7e6e926",
@@ -22693,7 +22734,8 @@
   "window": "January - July 2024) SUMMER DATES! - 2023-12-21",
   "depart": "2027-01-14",
   "return": "2027-01-16",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:41Z"
  },
  {
   "id": "7eadae4bb125be0e",
@@ -22713,7 +22755,8 @@
   "window": "September - October 2023) - 2023-08-10",
   "depart": "2027-10-03",
   "return": "2027-10-04",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:43Z"
  },
  {
   "id": "327bede70e069e22",
@@ -22733,7 +22776,8 @@
   "window": "November - December 2022) - 2022-10-24",
   "depart": "2026-11-06",
   "return": "2026-11-08",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:45Z"
  },
  {
   "id": "6a312f352542d7b6",
@@ -22753,7 +22797,8 @@
   "window": "November - February 2023) - 2022-10-12",
   "depart": "2026-11-13",
   "return": "2026-11-15",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:46Z"
  },
  {
   "id": "8d5326530eb955fb",
@@ -27002,7 +27047,7 @@
  {
   "id": "1c3b79ff43976081",
   "title": "3.4-Oz Salvatore Ferragamo Women's Amo Ferragamo Eau de Parfum Spray $36.20 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
+  "url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -27012,13 +27057,12 @@
   "price": 36.2,
   "found_at": "2026-11-01T22:55:30Z",
   "source_url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "a1d1410d184ff04c",
   "title": "Women's Sunglasses: Kate Spade Polarized Grey Cat Eye Sunglasses $32.60, Ray-Ban Erika Classic Polarized Green Classic $80 + $6 Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Women%27s+Sunglasses+Kate+Spade+Polarized+Grey+Cat+Eye+Sunglasses",
+  "url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -27028,8 +27072,7 @@
   "price": 32.6,
   "found_at": "2026-11-01T22:55:30Z",
   "source_url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "1e8aa06c202d9b4f",
@@ -27050,7 +27093,7 @@
  {
   "id": "ffab4081c58a75f4",
   "title": "Jomashop - Oakley & RayBan Sunglasses from $51 & More + $5.99 Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+-+Oakley+%26+RayBan+Sunglasses+from",
+  "url": "https://slickdeals.net/f/17248708-jomashop-oakley-rayban-sunglasses-from-51-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -27060,8 +27103,7 @@
   "price": 51.0,
   "found_at": "2026-11-01T22:55:30Z",
   "source_url": "https://slickdeals.net/f/17248708-jomashop-oakley-rayban-sunglasses-from-51-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "0694eb59fa695391",
