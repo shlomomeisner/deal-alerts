@@ -31684,9 +31684,9 @@
   "pct": 78,
   "price": null,
   "found_at": "2026-11-02T12:01:59Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Woot-Warehouse-Clean-Out-Up-to-78-off-free-shipping-w-Prime/22336243.html?iref=rss",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f097ce2cb1c30435",
@@ -31722,46 +31722,55 @@
   "return": "2027-01-29",
   "route_fixed": true,
   "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "link_tried3": true
+ },
+ {
+  "id": "9cd87663ea2434d8",
+  "title": "KALIYADI Polarized Sunglasses $13.19 AC",
+  "url": "https://www.amazon.com/s?k=KALIYADI+Polarized+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.19,
+  "found_at": "2026-11-02T12:10:46Z",
   "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2"
+  "source_url": "https://slickdeals.net/f/20232681-kaliyadi-polarized-sunglasses-13-19-ac?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
-  "id": "731ee0f1348dd4e9",
-  "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case) Wireless Microphone $41.85",
-  "url": "https://slickdeals.net/f/20241081-dji-mic-mini-2-tx-1-rx-charging-case-wireless-microphone-41-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "7b6f3bcdb633de00",
+  "title": "Samsung Galaxy Phone Black Friday Deals at Best Buy: Up to $400 off + free shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung+Galaxy+Phone+Black+Friday+Deals",
   "why": "",
   "category": "tech",
-  "source": "Web search: DJI deal",
+  "source": "DealNews",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 41.85,
-  "found_at": "2026-11-02T12:05:30Z"
+  "price": 400.0,
+  "found_at": "2026-11-02T12:10:46Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Samsung-Galaxy-Phone-Black-Friday-Deals-at-Best-Buy-Up-to-400-off-free-shipping/22336266.html?iref=rss",
+  "store": "Bestbuy"
  },
  {
-  "id": "4c2db6f1d72e479b",
-  "title": "DJI Mic Mini Wireless Microphone (2 TX + 1 RX + Charging Case) $56 + FS",
-  "url": "https://slickdeals.net/f/20240811-dji-mic-mini-wireless-microphone-2-tx-1-rx-charging-case-56-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
+  "id": "5a78f48c2af63af2",
+  "title": "Best Buy OLED TV Black Friday Deals: Up to 53% off + free shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+OLED+TV+Black+Friday+Deals+Up+to+53+off+%2B",
+  "why": "Oled — 53% off",
   "category": "tech",
-  "source": "Web search: DJI deal",
+  "source": "DealNews",
   "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 56.0,
-  "found_at": "2026-11-02T12:05:30Z"
- },
- {
-  "id": "b043bad2b6f283e1",
-  "title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19987707-lc-dolida-fence-mount-w-sun-rain-visor-for-gopro-dji-insta360-smartphones-9-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: GoPro deal",
-  "urgent": false,
-  "hot": false,
-  "pct": 50,
-  "price": 9.97,
-  "found_at": "2026-11-02T12:05:33Z"
+  "hot": true,
+  "pct": 53,
+  "price": null,
+  "found_at": "2026-11-02T12:10:46Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Best-Buy-OLED-TV-Black-Friday-Deals-Up-to-53-off-free-shipping/22336248.html?iref=rss",
+  "store": "Bestbuy"
  }
 ]
