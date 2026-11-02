@@ -14278,7 +14278,8 @@
   "pct": null,
   "price": 95.73,
   "found_at": "2026-11-02T05:45:04Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T19:17:16Z"
  },
  {
   "id": "9649f176ca9f3a3d",
@@ -14292,7 +14293,8 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-02T05:45:04Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T19:17:17Z"
  },
  {
   "id": "fecd1010a1f5e7c3",
@@ -14308,7 +14310,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231253-4-pack-apple-airtag-2nd-generation-69-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T19:17:18Z"
  },
  {
   "id": "e2eb3933c4f3818d",
@@ -14323,7 +14326,8 @@
   "price": 399.99,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/20226912-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T19:17:20Z"
  },
  {
   "id": "24421dcb1e655c1b",
@@ -14338,7 +14342,8 @@
   "price": 259.99,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/20226909-new-apple-watch-se-3-smartwatch-gps-cellular-fitness-and-sleep-trackers-heart-rate-monitor-always-on-display-water-resistant-259-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T19:17:21Z"
  },
  {
   "id": "8438c1019c277e59",
@@ -14353,7 +14358,8 @@
   "price": 569.99,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T19:17:23Z"
  },
  {
   "id": "3014f379c29ab913",
@@ -14368,7 +14374,8 @@
   "price": 649.99,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T19:17:24Z"
  },
  {
   "id": "bc8187f6c3726bad",
@@ -14384,7 +14391,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224668-pugo-top-stainless-steel-band-for-apple-watch-various-from-9-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T19:17:25Z"
  },
  {
   "id": "4b5cd1e01069b78f",
@@ -14400,7 +14408,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20223267-treasuremax-stretchy-nylon-apple-watch-sport-band-w-magnetic-clasp-38-49mm-various-colors-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T19:17:27Z"
  },
  {
   "id": "c51a199858d8f20f",
@@ -14415,7 +14424,8 @@
   "price": 246.0,
   "found_at": "2026-11-02T06:38:49Z",
   "source_url": "https://slickdeals.net/f/20238762-27-msi-pro-max-271qpx14g-1440p-144hz-qd-oled-monitor-246-or-less-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T19:17:28Z"
  },
  {
   "id": "3ebbf2bb3dbef62a",
@@ -14429,7 +14439,8 @@
   "pct": null,
   "price": 179.0,
   "found_at": "2026-11-02T06:38:49Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T19:17:29Z"
  },
  {
   "id": "d5fc9bf9f5309e8b",
@@ -14445,7 +14456,8 @@
   "found_at": "2026-11-02T06:38:49Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T19:17:31Z"
  },
  {
   "id": "d334dfb4237a324e",
@@ -14460,7 +14472,8 @@
   "price": 246.4,
   "found_at": "2026-11-02T06:38:49Z",
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T19:17:32Z"
  },
  {
   "id": "5d841e045f143025",
@@ -14476,7 +14489,8 @@
   "found_at": "2026-11-02T06:38:49Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242569-pdp-afterglow-wave-wired-rgb-gaming-controller-for-nintendo-switch-wave-blue-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T19:17:34Z"
  },
  {
   "id": "20d8a45e57e80c61",
@@ -14492,7 +14506,8 @@
   "found_at": "2026-11-02T06:38:49Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242569-pdp-afterglow-wave-wired-rgb-gaming-controller-for-nintendo-switch-wave-blue-20-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T19:17:35Z"
  },
  {
   "id": "4759fcb248ff42dd",
@@ -25280,7 +25295,7 @@
  {
   "id": "be30aca49322bcde",
   "title": "Koolaburra by UGG Women's FUZZ'N II Sandal, Natural, Size 8 - $22.74 and More Options",
-  "url": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+UGG+Women%27s+FUZZ%27N+II+Sandal+Natural+Size+8+-",
+  "url": "https://slickdeals.net/f/16996177-koolaburra-by-ugg-women-s-fuzz-n-ii-sandal-natural-size-8-22-74-and-more-options?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -25290,8 +25305,7 @@
   "price": 22.74,
   "found_at": "2026-11-02T15:49:41Z",
   "source_url": "https://slickdeals.net/f/16996177-koolaburra-by-ugg-women-s-fuzz-n-ii-sandal-natural-size-8-22-74-and-more-options?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "09687fe832f9c337",
@@ -25310,7 +25324,7 @@
  {
   "id": "3322fca0cfcfd333",
   "title": "Koolaburra by Ugg Women's Sherpa Fleece Shawl $15 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+Ugg+Women%27s+Sherpa+Fleece+Shawl",
+  "url": "https://slickdeals.net/f/16406656-koolaburra-by-ugg-women-s-sherpa-fleece-shawl-15-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -25320,13 +25334,12 @@
   "price": 15.0,
   "found_at": "2026-11-02T15:49:41Z",
   "source_url": "https://slickdeals.net/f/16406656-koolaburra-by-ugg-women-s-sherpa-fleece-shawl-15-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "77f948fe4e384991",
   "title": "Saks off 5th: ugg perforated shearling glove [free shipping via shop runner] small/large size only. $31.49",
-  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+off+5th+ugg+perforated+shearling+glove+small+large+size+only.",
+  "url": "https://slickdeals.net/e/13738088-saks-off-5th-ugg-perforated-shearling-glove-free-shipping-via-shop-runner-small-large-size-only-31-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -25336,13 +25349,12 @@
   "price": 31.49,
   "found_at": "2026-11-02T15:49:41Z",
   "source_url": "https://slickdeals.net/e/13738088-saks-off-5th-ugg-perforated-shearling-glove-free-shipping-via-shop-runner-small-large-size-only-31-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "091b78066110c6fa",
   "title": "UGG Women's W Bailey Bow Ii Fashion Boot for $49.95! Huge Price Drop!",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for",
+  "url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -25352,8 +25364,7 @@
   "price": 49.95,
   "found_at": "2026-11-02T15:49:41Z",
   "source_url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "c7c25f4522cc2567",
@@ -25627,7 +25638,7 @@
  {
   "id": "45d78b2cacbad402",
   "title": "Birkenstock Papillio Women's Arizona Chunky Birko-Flor Platform Sandals (Blue) $59.97 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Papillio+Women%27s+Arizona+Chunky+Birko-Flor+Platform+Sandals",
+  "url": "https://slickdeals.net/f/20100732-birkenstock-papillio-women-s-arizona-chunky-birko-flor-platform-sandals-blue-59-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -25637,13 +25648,12 @@
   "price": 59.97,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20100732-birkenstock-papillio-women-s-arizona-chunky-birko-flor-platform-sandals-blue-59-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "355ba51a6339c8d0",
   "title": "Birkenstock Women’s Tokyo Super Grip Black Leather Clogs (Size 8-8.5) $77.91 + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women+s+Tokyo+Super+Grip+Black+Leather+Clogs",
+  "url": "https://slickdeals.net/f/20095722-birkenstock-women-s-tokyo-super-grip-black-leather-clogs-size-8-8-5-77-91-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -25653,13 +25663,12 @@
   "price": 77.91,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20095722-birkenstock-women-s-tokyo-super-grip-black-leather-clogs-size-8-8-5-77-91-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b6cd44def5c30e44",
   "title": "QVC New Customer: Birkenstock Women's Boston EVA Adjustable Recovery Clog (Various Colors) $26.98 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=QVC+Customer+Birkenstock+Women%27s+Boston+EVA+Adjustable+Recovery+Clog",
+  "url": "https://slickdeals.net/f/20076708-qvc-new-customer-birkenstock-women-s-boston-eva-adjustable-recovery-clog-various-colors-26-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -25669,13 +25678,12 @@
   "price": 26.98,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20076708-qvc-new-customer-birkenstock-women-s-boston-eva-adjustable-recovery-clog-various-colors-26-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "8966b86747675411",
   "title": "Birkenstock Women's Madrid Big Buckle EVA Sandals (Sage) $23.77 + Free Shipping on $49",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
+  "url": "https://slickdeals.net/f/20061477-birkenstock-women-s-madrid-big-buckle-eva-sandals-sage-23-77-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -25685,13 +25693,12 @@
   "price": 23.77,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20061477-birkenstock-women-s-madrid-big-buckle-eva-sandals-sage-23-77-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b5aebddf30698b4a",
   "title": "Birkenstock Women's Tokio Shoes (Pure Sage) $89.97 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Tokio+Shoes",
+  "url": "https://slickdeals.net/f/20060742-birkenstock-women-s-tokio-shoes-pure-sage-89-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Birkenstock sale",
@@ -25701,13 +25708,12 @@
   "price": 89.97,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20060742-birkenstock-women-s-tokio-shoes-pure-sage-89-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "d625588df1eab94d",
   "title": "Birkenstock Women's Arizona Stealth Buckle EVA Sandals (Purple or Green) $24.62 + Free Shipping on $49",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+Stealth+Buckle+EVA+Sandals",
+  "url": "https://slickdeals.net/f/20060568-birkenstock-women-s-arizona-stealth-buckle-eva-sandals-purple-or-green-24-62-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -25717,13 +25723,12 @@
   "price": 24.62,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20060568-birkenstock-women-s-arizona-stealth-buckle-eva-sandals-purple-or-green-24-62-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "10b632780d304597",
   "title": "Birkenstock Women's Florida Flex 1\" Platform EVA Sandals (Fondant Pink) $24.78 + Free Shipping on $49+",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+1+Platform+EVA+Sandals",
+  "url": "https://slickdeals.net/f/20037927-birkenstock-women-s-florida-flex-1-platform-eva-sandals-fondant-pink-24-78-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -25733,13 +25738,12 @@
   "price": 24.78,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20037927-birkenstock-women-s-florida-flex-1-platform-eva-sandals-fondant-pink-24-78-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "e45576141ed523ab",
   "title": "Birkenstock Women's Florida Flex Platform Sandals (Sage) $51.18 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+Platform+Sandals",
+  "url": "https://slickdeals.net/f/20033217-birkenstock-women-s-florida-flex-platform-sandals-sage-51-18-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -25749,13 +25753,12 @@
   "price": 51.18,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20033217-birkenstock-women-s-florida-flex-platform-sandals-sage-51-18-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "539146d6a8ca86c9",
   "title": "Birkenstock Women's Papillio Boston Chunky Platform Clogs (Beige) $61.98 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Papillio+Boston+Chunky+Platform+Clogs",
+  "url": "https://slickdeals.net/f/20027190-birkenstock-women-s-papillio-boston-chunky-platform-clogs-beige-61-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Birkenstock sale",
@@ -25765,8 +25768,7 @@
   "price": 61.98,
   "found_at": "2026-11-02T15:49:42Z",
   "source_url": "https://slickdeals.net/f/20027190-birkenstock-women-s-papillio-boston-chunky-platform-clogs-beige-61-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "0163d693f67d81d2",
@@ -30935,9 +30937,9 @@
   "pct": null,
   "price": 19.5,
   "found_at": "2026-11-02T18:28:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18532768-10-piece-maison-margiela-replica-perfume-sampler-set-19-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "bd9b24fe6746197d",
@@ -30951,8 +30953,364 @@
   "pct": null,
   "price": 27.74,
   "found_at": "2026-11-02T18:28:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18488992-maison-margiela-replica-by-the-fireplace-27-74?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "link_tried3": true
+ },
+ {
+  "id": "9371e915c17511a8",
+  "title": "Metapen A8 iPad Pencil for Apple iPads 2018-2026 $7",
+  "url": "https://www.amazon.com/s?k=Metapen+A8+iPad+Pencil+for+Apple+iPads+2018-2026",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244966-metapen-a8-ipad-pencil-for-apple-ipads-2018-2026-7-amazon-6-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "83dbbaa9ad5f003d",
+  "title": "Apple AirPods 4 w/USB-C Charging Case $89, or $79 for select accts w/Filler - $79.00",
+  "url": "https://www.walmart.com/search?q=Apple+AirPods+4+USB-C+Charging+Case",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245338-apple-airpods-4-w-usb-c-charging-case-89-or-79-for-select-accts-w-filler-79-00?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Walmart"
+ },
+ {
+  "id": "3c220a7567e5ac9c",
+  "title": "Gucci Guilty Pour Femme Eau de Toilette, 3.0 fl oz $54.99 Free shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.99,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "d82ccd6242e0d7ac",
+  "title": "Macy's Friends & Family Men's Shoe Deals: Extra 30% off, up to 75% off + free shipping w/ $39",
+  "url": "https://www.macys.com/shop/featured/Macy%27s%20Friends%20%26%20Family%20Men%27s%20Shoe%20Deals%20Extra%2030%20off%20up%20to%2075%20off%20%2B%20w",
+  "why": "Citizen 75% off",
+  "category": "watches",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 75,
+  "price": 39.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Macys-Friends-Family-Mens-Shoe-Deals-Extra-30-off-up-to-75-off-free-shipping-w-39/22336877.html?iref=rss",
+  "store": "Macys"
+ },
+ {
+  "id": "05763f2e8805fcc2",
+  "title": "TCL QM7L Series 75QM7L 75\" 4K Google Smart TV for $1,198 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=TCL+QM7L+Series+75QM7L+75+4K+Google+Smart+TV+for",
+  "why": "Tv — 40% off",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": 1198.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/TCL-QM7-L-Series-75-QM7-L-75-4-K-Google-Smart-TV-for-1-198-free-shipping/22336857.html?iref=rss",
   "store": "Google"
+ },
+ {
+  "id": "cb562a0e02f9078d",
+  "title": "TCL Q85K 7.1.2-Channel Dolby Atmos Soundbar w/ Wireless Subwoofer for $1,000 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=TCL+Q85K+7.1.2-Channel+Dolby+Atmos+Soundbar+w+Wireless+Subwoofer+for",
+  "why": "",
+  "category": "amazon",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1000.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/TCL-Q85-K-7-1-2-Channel-Dolby-Atmos-Soundbar-w-Wireless-Subwoofer-for-1-000-free-shipping/22336839.html?iref=rss",
+  "store": "Google"
+ },
+ {
+  "id": "16b87aae5303832b",
+  "title": "TCL Q85K 7.1.2-Channel Dolby Atmos Soundbar with Wireless Subwoofer, Audio by Bang & Olufsen, DTS:X, HDMI 2.1 4K 144Hz Pass-Through, Apple AirPlay 2, Google Cast $999.99",
+  "url": "https://www.amazon.com/s?k=TCL+Q85K+7.1.2-Channel+Dolby+Atmos+Soundbar+with+Wireless+Subwoofer+Audio+by+Ban",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 999.99,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245872-tcl-q85k-7-1-2-channel-dolby-atmos-soundbar-with-wireless-subwoofer-audio-by-bang-olufsen-dts-x-hdmi-2-1-4k-144hz-pass-through-apple-airplay-2-google-cast-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "6fde7d76ab4db8ba",
+  "title": "TCL 75 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 75QM7L, 144Hz $1197.99",
+  "url": "https://www.amazon.com/s?k=TCL+75+Inch+QM7L+Series+SQD-Mini+LED+QLED+4K+Smart+Google+TV+75QM7L+144Hz",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1197.99,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245842-tcl-75-inch-qm7l-series-sqd-mini-led-qled-4k-smart-google-tv-75qm7l-144hz-1197-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "53d841ee1bbe6133",
+  "title": "Metapen A8 iPad Pencil for Apple iPads 2018-2026 $7 @ Amazon $6.98",
+  "url": "https://www.amazon.com/s?k=Metapen+A8+iPad+Pencil+for+Apple+iPads+2018-2026",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon designer",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244966-metapen-a8-ipad-pencil-for-apple-ipads-2018-2026-7-amazon-6-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "ed2d368f4500b10f",
+  "title": "Icelandair: New York – Rome, Italy. $465 (Basic Economy) / $625 (Regular Economy). Roundtrip, including all Taxes",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Rome%2C%20Italy%20on%202027-01-19%20through%202027-01-28",
+  "why": "",
+  "category": "flights",
+  "source": "The Flight Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 465.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "window": "January 19th – 28th, 2027",
+  "depart": "2027-01-19",
+  "return": "2027-01-28",
+  "route_fixed": true,
+  "dates_tried3": true,
+  "link_tried3": true,
+  "source_url": "https://www.theflightdeal.com/2026/11/02/icelandair-new-york-rome-italy-465-basic-economy-625-regular-economy-roundtrip-including-all-taxes/"
+ },
+ {
+  "id": "c818186694e88054",
+  "title": "Costco Members: 3.4-Oz Maison Margiela Replica Jazz Club Eau de Toilette $75 & More + Free S/H",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3.4-Oz+Maison+Margiela+Replica+Jazz+Club+Eau+de+Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 75.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18324502-costco-members-3-4-oz-maison-margiela-replica-jazz-club-eau-de-toilette-75-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "180838c21274281d",
+  "title": "10-Piece Maison Margiela Replica Perfume Sampler Set $19.50 w/ store pickup ~ Kohl's",
+  "url": "https://www.kohls.com/search.jsp?search=10-Piece+Maison+Margiela+Replica+Perfume+Sampler+Set",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.5,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18268507-10-piece-maison-margiela-replica-perfume-sampler-set-19-50-w-store-pickup-kohl-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Kohls"
+ },
+ {
+  "id": "ab35c6818a732907",
+  "title": "Costco Members: 3.4-Oz Maison Margiela Replica Jazz Club Eau de Toilette $75 & More",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3.4-Oz+Maison+Margiela+Replica+Jazz+Club+Eau+de+Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 75.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18265846-costco-members-3-4-oz-maison-margiela-replica-jazz-club-eau-de-toilette-75-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "b56a4410534cd3cf",
+  "title": "Costco Members: 6.7oz. Versace Man Eau Fraiche de Toilette $50, 3.4-oz Creed Aventus $240 & More",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+6.7oz.+Versace+Man+Eau+Fraiche+de+Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18183037-costco-members-6-7oz-versace-man-eau-fraiche-de-toilette-50-3-4-oz-creed-aventus-240-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "1987cab095c83d97",
+  "title": "Costco Members: 3.4oz Maison Margiela Replica Jazz Club Eau de Toilette & More $75 + F/S",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3.4oz+Maison+Margiela+Replica+Jazz+Club+Eau+de+Toilette+%26+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 75.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17863371-costco-members-3-4oz-maison-margiela-replica-jazz-club-eau-de-toilette-more-75-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "37fc199b23c29f41",
+  "title": "Maison Margiela REPLICA' Beach Walk Refill Set - $85",
+  "url": "https://www.google.com/search?tbm=shop&q=Maison+Margiela+REPLICA%27+Beach+Walk+Refill+Set+-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 85.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17746950-maison-margiela-replica-beach-walk-refill-set-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "34a7555ceabaaeed",
+  "title": "Maison Margiela 'REPLICA' By the Fireplace Refill Set - $85",
+  "url": "https://www.google.com/search?tbm=shop&q=Maison+Margiela+%27REPLICA%27+By+the+Fireplace+Refill+Set+-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 85.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17746944-maison-margiela-replica-by-the-fireplace-refill-set-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "6818adbb8cc57694",
+  "title": "Maison Margiela 'REPLICA' Jazz Club Refill Set - $85",
+  "url": "https://www.google.com/search?tbm=shop&q=Maison+Margiela+%27REPLICA%27+Jazz+Club+Refill+Set+-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 85.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17746941-maison-margiela-replica-jazz-club-refill-set-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "586dcfe0fe0caf75",
+  "title": "Kohls has Maison Margiela 'REPLICA' Jazz Club Refill Set 100/30 ml and more $85",
+  "url": "https://www.kohls.com/search.jsp?search=Kohls+has+Maison+Margiela+%27REPLICA%27+Jazz+Club+Refill+Set+100+30+ml+and+more",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 85.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17729898-kohls-has-maison-margiela-replica-jazz-club-refill-set-100-30-ml-and-more-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Kohls"
+ },
+ {
+  "id": "f6ccf83bff4b7484",
+  "title": "Costco Members: Men's Cologne: 6.7-Oz Versace Man Eros Eau de Toilette $60 & More + Free Shipping",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Men%27s+Cologne+6.7-Oz+Versace+Man+Eros+Eau+de+Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 60.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17604873-costco-members-men-s-cologne-6-7-oz-versace-man-eros-eau-de-toilette-60-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "730a33140e0238a4",
+  "title": "Maison Margiela Replica Lazy Sunday Morning Eau de Toilette, 3.4 fl oz $69.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Maison+Margiela+Replica+Lazy+Sunday+Morning+Eau+de+Toilette+3.4+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17110330-maison-margiela-replica-lazy-sunday-morning-eau-de-toilette-3-4-fl-oz-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e6a086e41a788929",
+  "title": "Metapen A8 iPad Pencil for Apple iPads 2018-2026 $7 @ Amazon $6.98",
+  "url": "https://www.amazon.com/s?k=Metapen+A8+iPad+Pencil+for+Apple+iPads+2018-2026",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ipad Air",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.0,
+  "found_at": "2026-11-02T19:15:19Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244966-metapen-a8-ipad-pencil-for-apple-ipads-2018-2026-7-amazon-6-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  }
 ]
