@@ -14406,7 +14406,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-02T03:31:57Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T18:13:58Z"
  },
  {
   "id": "932e827c3e709ca0",
@@ -14420,7 +14421,8 @@
   "pct": null,
   "price": 29.99,
   "found_at": "2026-11-02T03:31:57Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T18:14:00Z"
  },
  {
   "id": "cfe3a1179b82cdfe",
@@ -14436,7 +14438,8 @@
   "found_at": "2026-11-02T03:31:57Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238999-xenoblade-chronicles-2-expansion-pass-dlc-bundle-nintendo-switch-digital-38-19-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-02T18:14:02Z"
  },
  {
   "id": "07e1caea0ccbca76",
@@ -14452,7 +14455,8 @@
   "found_at": "2026-11-02T03:31:57Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242116-bose-tv-speaker-bluetooth-soundbar-199-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T18:14:11Z"
  },
  {
   "id": "36190fbed623a3e0",
@@ -14468,7 +14472,8 @@
   "found_at": "2026-11-02T03:39:58Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235456-crkd-ult-pro-wireless-gaming-controller-for-switch-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:14:12Z"
  },
  {
   "id": "fcc7d47d71b9f63b",
@@ -14484,7 +14489,8 @@
   "found_at": "2026-11-02T03:55:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19715019-lululemon-fast-and-free-high-rise-classic-fit-split-short-3-black-true-navy-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Lululemon"
+  "store": "Lululemon",
+  "checked_at": "2026-11-02T18:14:13Z"
  },
  {
   "id": "15d3f8acff7d978d",
@@ -14500,7 +14506,8 @@
   "found_at": "2026-11-02T03:55:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19697817-lululemon-men-s-satin-stripe-pants-2-colors-59?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Lululemon"
+  "store": "Lululemon",
+  "checked_at": "2026-11-02T18:14:15Z"
  },
  {
   "id": "5b620a0bb9988408",
@@ -14516,7 +14523,8 @@
   "found_at": "2026-11-02T03:55:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20239143-dji-power-1000-v2-portable-power-station-1024wh-lfp-battery-2600w-stable-output-399-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:14:16Z"
  },
  {
   "id": "c986260c1627b2a5",
@@ -14530,7 +14538,8 @@
   "pct": null,
   "price": 999.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0GRKGQ8HH/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
+  "store_url": "https://www.amazon.com/gp/product/B0GRKGQ8HH/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "checked_at": "2026-11-02T18:14:16Z"
  },
  {
   "id": "024b0a23cfb0dd23",
@@ -14544,7 +14553,8 @@
   "pct": null,
   "price": 4.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0DXKF9PD4/ref=ox_sc_act_title_1?smid=AEBWK04458ULI&psc=1"
+  "store_url": "https://www.amazon.com/gp/product/B0DXKF9PD4/ref=ox_sc_act_title_1?smid=AEBWK04458ULI&psc=1",
+  "checked_at": "2026-11-02T18:14:17Z"
  },
  {
   "id": "858ea0213f51e571",
@@ -14558,7 +14568,8 @@
   "pct": null,
   "price": 1599.0,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0GR1BY1SZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1"
+  "store_url": "https://www.amazon.com/gp/product/B0GR1BY1SZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "checked_at": "2026-11-02T18:14:17Z"
  },
  {
   "id": "3a007e17a7789ae7",
@@ -14572,7 +14583,8 @@
   "pct": null,
   "price": 3399.0,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1"
+  "store_url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "checked_at": "2026-11-02T18:14:17Z"
  },
  {
   "id": "f132bf31b56e7ba1",
@@ -14586,7 +14598,8 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0FMRPKN3G/ref=ox_sc_act_image_1?smid=A1RS007LH1WSHI&th=1"
+  "store_url": "https://www.amazon.com/gp/product/B0FMRPKN3G/ref=ox_sc_act_image_1?smid=A1RS007LH1WSHI&th=1",
+  "checked_at": "2026-11-02T18:14:17Z"
  },
  {
   "id": "75ba5689eb1f5e51",
@@ -14600,7 +14613,8 @@
   "pct": null,
   "price": 749.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1"
+  "store_url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1",
+  "checked_at": "2026-11-02T18:14:17Z"
  },
  {
   "id": "a6653d8925ee4459",
@@ -14614,7 +14628,8 @@
   "pct": null,
   "price": 199.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.walmart.com/ip/Dyson-PencilWash-Cordless-Wet-Cleaner-Bright-Copper-New-Latest-Technology/19881062881"
+  "store_url": "https://www.walmart.com/ip/Dyson-PencilWash-Cordless-Wet-Cleaner-Bright-Copper-New-Latest-Technology/19881062881",
+  "checked_at": "2026-11-02T18:14:17Z"
  },
  {
   "id": "b3f6cccb8fd75f7e",
@@ -25566,7 +25581,7 @@
  {
   "id": "b36eb719c1dd0591",
   "title": "Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce $77.12",
-  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
+  "url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Hermes sale",
@@ -25576,8 +25591,7 @@
   "price": 77.12,
   "found_at": "2026-11-02T15:40:33Z",
   "source_url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "7202089894b4dcd8",
@@ -25598,7 +25612,7 @@
  {
   "id": "0a95b06eb24b78a2",
   "title": "Hermes Terre D'Hermes Eau de Toilette, 3.3 fl oz $89.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
+  "url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Hermes sale",
@@ -25608,8 +25622,7 @@
   "price": 89.99,
   "found_at": "2026-11-02T15:40:33Z",
   "source_url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "44bb6218c31b3c7f",
@@ -25676,7 +25689,7 @@
  {
   "id": "f450d125d6ad996d",
   "title": "Celine Micro Luggage Handbag | Black Calfskin (Open Box) $1,199 w/ Free Prime Ship $1199",
-  "url": "https://www.google.com/search?tbm=shop&q=Celine+Micro+Luggage+Handbag+Black+Calfskin",
+  "url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Celine sale",
@@ -25686,13 +25699,12 @@
   "price": 1199.0,
   "found_at": "2026-11-02T15:40:35Z",
   "source_url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "a78f4a290a6ed9c5",
   "title": "Celine Micro Luggage (Black) Made in Italy - $1,999.99 w/ Free Prime Ship Sold by WOOT $1999.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Celine+Micro+Luggage+Made+in+Italy+-",
+  "url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Celine sale",
@@ -25702,13 +25714,12 @@
   "price": 1999.99,
   "found_at": "2026-11-02T15:40:35Z",
   "source_url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "c6daa3e06e63574c",
   "title": "CELINE Geometric Ladies Sunglasses CL40069U30N61 for $159.99 + FS",
-  "url": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
+  "url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Celine sale",
@@ -25718,13 +25729,12 @@
   "price": 159.99,
   "found_at": "2026-11-02T15:40:35Z",
   "source_url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "20a6bf1289cb092e",
   "title": "Celine 48 Hour Sale - Price Reduced on 100+ Items | Ladies Vertical Celine Cabas Tote $899.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Celine+48+Hour+-+Price+Reduced+on+100%2B+Items+Ladies+Vertical+Celine+Cabas+Tote",
+  "url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Celine sale",
@@ -25734,8 +25744,7 @@
   "price": 899.99,
   "found_at": "2026-11-02T15:40:35Z",
   "source_url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "26144aed9c9cbbf4",
@@ -25842,7 +25851,7 @@
  {
   "id": "cc5ddc38102b2f9b",
   "title": "Montblanc Star Legacy 39MM Automatic Silvery White Dial Men's Watch $1245 + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Star+Legacy+39MM+Automatic+Silvery+White+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Montblanc sale",
@@ -25852,13 +25861,12 @@
   "price": 1245.0,
   "found_at": "2026-11-02T15:40:39Z",
   "source_url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "506b1c5f7c1afa0b",
   "title": "Montblanc Legend Red EDP 3-Piece Set $47.99 at Woot",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
+  "url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Montblanc sale",
@@ -25868,13 +25876,12 @@
   "price": 47.99,
   "found_at": "2026-11-02T15:40:39Z",
   "source_url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "65c3c21550761d7f",
   "title": "Montblanc Legend Red EDP Set with Shower Gel $45.99 @ Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+Set+with+Shower+Gel",
+  "url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Montblanc sale",
@@ -25884,8 +25891,7 @@
   "price": 45.99,
   "found_at": "2026-11-02T15:40:39Z",
   "source_url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "290564de42ba60a6",
@@ -25906,7 +25912,7 @@
  {
   "id": "d1832e44e95ecf28",
   "title": "Montblanc Watches: 41MM TimeWalker Automatic Black Dial Men's Watch $1250, 47MM 1858 Automatic Black Dial Men's Watch​ $1450 & More+ Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Watches+41MM+TimeWalker+Automatic+Black+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/18192610-montblanc-watches-41mm-timewalker-automatic-black-dial-men-s-watch-1250-47mm-1858-automatic-black-dial-men-s-watch-1450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Montblanc sale",
@@ -25916,13 +25922,12 @@
   "price": 1250.0,
   "found_at": "2026-11-02T15:40:39Z",
   "source_url": "https://slickdeals.net/f/18192610-montblanc-watches-41mm-timewalker-automatic-black-dial-men-s-watch-1250-47mm-1858-automatic-black-dial-men-s-watch-1450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "698cfd32665b0692",
   "title": "Parker & Bailey Granite & Stone Cleaner - Countertop Kitchen Island Cleaning Spray Marble Tile Slate Quartz $8.54 or less S&S Shipped AMZ",
-  "url": "https://www.google.com/search?tbm=shop&q=Parker+%26+Bailey+Granite+%26+Stone+Cleaner+-+Countertop+Kitchen+Island+Cleaning+Spr",
+  "url": "https://slickdeals.net/f/18998011-parker-bailey-granite-stone-cleaner-countertop-kitchen-island-cleaning-spray-marble-tile-slate-quartz-8-54-or-less-s-s-shipped-amz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Web search: Stone Island sale",
@@ -25932,8 +25937,7 @@
   "price": 8.54,
   "found_at": "2026-11-02T15:40:41Z",
   "source_url": "https://slickdeals.net/f/18998011-parker-bailey-granite-stone-cleaner-countertop-kitchen-island-cleaning-spray-marble-tile-slate-quartz-8-54-or-less-s-s-shipped-amz?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "0b1d075659e36e7a",
@@ -26017,7 +26021,7 @@
  {
   "id": "2c809cbe5896224c",
   "title": "4-Piece Lauren Ralph Lauren Spencer 475-Thread Count Cotton Sateen Sheet Set (Queen, Various Colors) $67.83 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=4-Piece+Lauren+Ralph+Lauren+Spencer+475-Thread+Count+Cotton+Sateen+Sheet+Set",
+  "url": "https://slickdeals.net/f/20071476-4-piece-lauren-ralph-lauren-spencer-475-thread-count-cotton-sateen-sheet-set-queen-various-colors-67-83-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -26027,8 +26031,7 @@
   "price": 67.83,
   "found_at": "2026-11-02T15:49:36Z",
   "source_url": "https://slickdeals.net/f/20071476-4-piece-lauren-ralph-lauren-spencer-475-thread-count-cotton-sateen-sheet-set-queen-various-colors-67-83-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "a28278797dcd11cd",
@@ -26065,7 +26068,7 @@
  {
   "id": "3538ca55be5517b5",
   "title": "Extra 30% Off: Ralph Lauren Labor Day Event",
-  "url": "https://www.google.com/search?tbm=shop&q=Extra+30+Off+Ralph+Lauren+Labor+Day+Event",
+  "url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -26075,8 +26078,7 @@
   "price": null,
   "found_at": "2026-11-02T15:49:36Z",
   "source_url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "107edceb6e627b94",
@@ -26097,7 +26099,7 @@
  {
   "id": "fd989c2d449ff3f4",
   "title": "2.5oz Ralph Lauren Men's Polo 67 Eau de Parfum $40 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=2.5oz+Ralph+Lauren+Men%27s+Polo+67+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/19910031-2-5oz-ralph-lauren-men-s-polo-67-eau-de-parfum-40-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -26107,13 +26109,12 @@
   "price": 40.0,
   "found_at": "2026-11-02T15:49:36Z",
   "source_url": "https://slickdeals.net/f/19910031-2-5oz-ralph-lauren-men-s-polo-67-eau-de-parfum-40-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "3cb5ee87c6fcda30",
   "title": "2.5-Oz Ralph Lauren Polo 67 Eau de Parfum Cologne for Men $40 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=2.5-Oz+Ralph+Lauren+Polo+67+Eau+de+Parfum+Cologne+for+Men",
+  "url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -26123,8 +26124,7 @@
   "price": 40.0,
   "found_at": "2026-11-02T15:49:36Z",
   "source_url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "6257337fcf8ce88c",
@@ -26145,7 +26145,7 @@
  {
   "id": "2dd6d9f3306bd4e4",
   "title": "Polo Ralph Lauren Men's Jogger Pull-On Pants $47.83",
-  "url": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Jogger+Pull-On+Pants",
+  "url": "https://slickdeals.net/f/19841034-polo-ralph-lauren-men-s-jogger-pull-on-pants-47-83?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -26155,8 +26155,7 @@
   "price": 47.83,
   "found_at": "2026-11-02T15:49:36Z",
   "source_url": "https://slickdeals.net/f/19841034-polo-ralph-lauren-men-s-jogger-pull-on-pants-47-83?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "c6db07af82aca579",
@@ -31191,5 +31190,373 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20245389-acemagic-k1-mini-pc-amd-ryzen-3-5425u-16gb-ram-512gb-ssd-up-to-4-1ghz-windows-11-pro-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon"
+ },
+ {
+  "id": "221e2a05cb73b6f2",
+  "title": "27\" ASRock Phantom Gaming QHD 1440p OLED 360Hz 0.03ms FreeSync Premium Pro Monitor $349 + Free S&H",
+  "url": "https://www.newegg.com/p/pl?d=27+ASRock+Phantom+Gaming+QHD+1440p+OLED+360Hz+0.03ms+FreeSync+Premium+Pro+Monito",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 349.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20240442-asrock-phantom-gaming-27-1440p-360hz-qd-oled-pgo27qfv-349-at-newegg?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Newegg"
+ },
+ {
+  "id": "f58a2add6e48abad",
+  "title": "Apple Watch Ultra 4 GPS + Cellular 49mm (Titanium Case w/ Alpine or Trail Loop) $700 + Free S&H",
+  "url": "https://www.amazon.com/s?k=Apple+Watch+Ultra+4+GPS+%2B+Cellular+49mm",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 700.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20241552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-black-titanium-case-l-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "efcd5690d9f673bb",
+  "title": "Hermes Un Jardin sur le Nil Eau de Toilette, 3.3 fl oz $84.99 free shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Hermes+Un+Jardin+sur+le+Nil+Eau+de+Toilette+3.3+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 84.99,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243925-hermes-un-jardin-sur-le-nil-eau-de-toilette-3-3-fl-oz-84-99-free-shipping-costco-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "1e72d7c888cddb0b",
+  "title": "lululemon Running Specials: Up to 79% off + free shipping",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Running+Specials+Up+to+79+off+%2B",
+  "why": "Lululemon 79% off",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 79,
+  "price": null,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/lululemon-Running-Specials-Up-to-79-off-free-shipping/22336793.html?iref=rss",
+  "store": "Lululemon"
+ },
+ {
+  "id": "2fdc53b46b8c5dfa",
+  "title": "Asobu Infinite Stainless Steel Insulated Coffee Mug w/ Ceramic Coating & Cork Coaster for $17 + free shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Asobu+Infinite+Stainless+Steel+Insulated+Coffee+Mug+w+Ceramic+Coating+%26+Cork+Coa",
+  "why": "",
+  "category": "amazon",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 17.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Asobu-Infinite-Stainless-Steel-Insulated-Coffee-Mug-w-Ceramic-Coating-Cork-Coaster-for-17-free-shipping-w-Prime/22336776.html?iref=rss",
+  "store": "Google"
+ },
+ {
+  "id": "10d48ba80b61e240",
+  "title": "lululemon Men's Fundamental T-Shirt (Size L to 3XL) for $29 + free shipping",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Fundamental+T-Shirt+for",
+  "why": "Lululemon 50% off",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 29.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/lululemon-Mens-Fundamental-T-Shirt-Size-L-to-3-XL-for-29-free-shipping/22336772.html?iref=rss",
+  "store": "Lululemon"
+ },
+ {
+  "id": "138c72efc5255018",
+  "title": "lululemon Men's Specials for From $24 + free shipping",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Specials+for+From",
+  "why": "",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/lululemon-Mens-Specials-for-From-24-free-shipping/22336752.html?iref=rss",
+  "store": "Lululemon"
+ },
+ {
+  "id": "32c25cecaf63f5c0",
+  "title": "AstroAI P3 20-PSI Rechargeable Electric Paddle Board Pump for $50 + free shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=AstroAI+P3+20-PSI+Rechargeable+Electric+Paddle+Board+Pump+for",
+  "why": "",
+  "category": "amazon",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Astro-AI-P3-20-PSI-Rechargeable-Electric-Paddle-Board-Pump-for-50-free-shipping-w-Prime/22336751.html?iref=rss",
+  "store": "Google"
+ },
+ {
+  "id": "3243a1085a7ea7ac",
+  "title": "Apple Watch Ultra 4 $699",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245587-apple-watch-ultra-4-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
+ },
+ {
+  "id": "3caaa98432fb731c",
+  "title": "Citizen Men's Eco-Drive Dive 3 43.5mm Super Titanium Analog Watch $414.86 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 414.86,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245518-citizen-men-s-eco-drive-dive-3-43-5mm-super-titanium-analog-watch-414-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "a841a860fb1ee5a8",
+  "title": "Citizen Men's Eco-Drive Dive 3 43.5mm Super Titanium Analog Watch $414.86 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 414.86,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245518-citizen-men-s-eco-drive-dive-3-43-5mm-super-titanium-analog-watch-414-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "16ee71332c332f02",
+  "title": "Hisense 85\" U8 Series ULED Mini-LED 4K 165Hz UHD Smart Google TV (85U8QG) $1799.99",
+  "url": "https://www.amazon.com/s?k=Hisense+85+U8+Series+ULED+Mini-LED+4K+165Hz+UHD+Smart+Google+TV",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1799.99,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245497-hisense-85-u8-series-uled-mini-led-4k-165hz-uhd-smart-google-tv-85u8qg-1799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "fc537d99853a36b9",
+  "title": "Citizen Men's Eco-Drive Dive 3 43.5mm Super Titanium Analog Watch $414.86 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 414.86,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245518-citizen-men-s-eco-drive-dive-3-43-5mm-super-titanium-analog-watch-414-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "3977880d37eed0e2",
+  "title": "Apple Watch Ultra 4 $699",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245587-apple-watch-ultra-4-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple"
+ },
+ {
+  "id": "8ba2f46603455791",
+  "title": "Samsung EDU/EPP Unlocked Samsung Galaxy Z fold8 256 GB plus $400 credit for accessories $1304.99",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+Z+fold8+256+GB+plus",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Galaxy Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 400.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245512-samsung-edu-epp-unlocked-samsung-galaxy-z-fold8-256-gb-plus-400-credit-for-accessories-1304-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung"
+ },
+ {
+  "id": "6d65f53929a22aa9",
+  "title": "ACEMAGIC K1 Mini PC AMD Ryzen 3 5425U, 16GB RAM 512GB SSD, Up to 4.1GHz, Windows 11 Pro $299.99",
+  "url": "https://www.amazon.com/s?k=ACEMAGIC+K1+Mini+PC+AMD+Ryzen+3+5425U+16GB+RAM+512GB+SSD+Up+to+4.1GHz+Windows+11",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Beats",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 299.99,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245389-acemagic-k1-mini-pc-amd-ryzen-3-5425u-16gb-ram-512gb-ssd-up-to-4-1ghz-windows-11-pro-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "e56e2cab4ddf67f9",
+  "title": "Citizen Men's Eco-Drive Dive 3 43.5mm Super Titanium Analog Watch $414.86 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: B&H Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 414.86,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245518-citizen-men-s-eco-drive-dive-3-43-5mm-super-titanium-analog-watch-414-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "9dd0665e43de5728",
+  "title": "Deals: Rare all-time low hits Google Home Speaker, Galaxy Z Fold 8 up to $624 off, Amazon Alexa Android Tablet, more - 9to5Google",
+  "url": "https://www.amazon.com/s?k=Deals+Rare+hits+Google+Home+Speaker+Galaxy+Z+Fold+8+up+to",
+  "why": "Galaxy — all-time low",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 624.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3gtY0xjMG81TGJWZ2pfZEc4eWI0WFozTk1nVS0zY09QdjJpV3JNcGdsREZmdmFlZUNfWkJRTVU4eG9KZkNkZm9iVVpTQlZfN01HY0I2SFFXTkVkQnMwQUZPYWJ1cmhTTGdIM2ZCaEp0SXFaQUMzQjg0SE9NN2xoMXFn?oc=5",
+  "store": "Amazon"
+ },
+ {
+  "id": "652dbd72e864758b",
+  "title": "Hisense U6 Pro Series Hi-QLED 85\" 4K UHD HDR 144Hz Smart Fire TV with Built-in Subwoofer $997.99",
+  "url": "https://www.amazon.com/gp/product/B0GT4G294Y/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 997.99,
+  "found_at": "2026-11-02T18:11:35Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GT4G294Y/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1"
+ },
+ {
+  "id": "c095c16f79f3735d",
+  "title": "Apple AirPods Max 2 Active Noise Cancelling Wireless Headphones $449",
+  "url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 449.0,
+  "found_at": "2026-11-02T18:11:35Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
+ },
+ {
+  "id": "f7aca872efb67ba3",
+  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
+  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.99,
+  "found_at": "2026-11-02T18:14:20Z"
+ },
+ {
+  "id": "c5c667bae1423d65",
+  "title": "$319.13 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
+  "url": "https://slickdeals.net/f/20229237-319-13-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 319.13,
+  "found_at": "2026-11-02T18:14:20Z"
+ },
+ {
+  "id": "ca23e07607fa7957",
+  "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8d300b443471a99fee2c83a0356a2&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fwhy-rolex-audemars-piguet-patek-170000359.html&c=712941805569690447&mkt=en-us",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Rolex price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 26.6,
+  "found_at": "2026-11-02T18:14:24Z"
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-02T18:14:30Z"
  }
 ]
