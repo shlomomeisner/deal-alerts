@@ -465,6 +465,17 @@ def main():
                 d.update(flight_dates(post))
                 d["route_fixed2"] = False
             d["dates_tried3"], changed = True, True
+    # the same fare often arrives twice (The Flight Deal + its Google News copy, which can't be read):
+    # the undated copy borrows the sample dates of its twin
+    twin = lambda d: re.sub(r"[^a-z0-9$]+", " ", re.sub(r"(?i)\s*[-\u2013\u2014]\s*the flight deal.*$", "",
+                                                       d.get("title", "")).lower()).strip()[:90]
+    dated = {twin(d): d for d in everything if d.get("category") == "flights" and d.get("depart") and not d.get("picked")}
+    for d in everything:
+        t = dated.get(twin(d))
+        if d.get("category") == "flights" and t is not None and t is not d and (not d.get("depart") or d.get("picked")):
+            d.update(depart=t["depart"], **{"return": t.get("return"), "window": t.get("window")})
+            d.pop("picked", None)
+            d["route_fixed2"], changed = False, True
     for d in everything:
         if d.get("category") == "flights" and not d.get("route_fixed2"):
             if is_post(d.get("url", "")) and not d.get("source_url"):

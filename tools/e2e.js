@@ -80,7 +80,7 @@ const shot = (p, n) => p.screenshot({ path: `shots/${n}.png`, timeout: 15000 }).
       const p = await ctx.newPage();
       try {
         await p.goto(f.href, { waitUntil: "domcontentloaded", timeout: 45000 });
-        await p.waitForFunction(() => /\$\d/.test(document.body.innerText) || /went wrong/.test(document.body.innerText), null, { timeout: 30000 }).catch(() => {}); await p.waitForTimeout(1500);
+        await p.waitForFunction(() => /\$\d/.test(document.body.innerText) || /went wrong/.test(document.body.innerText), null, { timeout: 60000 }).catch(() => {}); await p.waitForTimeout(1500);
         const t = (await p.evaluate(() => document.body.innerText)).replace(/\s+/g, " ");
         const r = { deal: f.title.slice(0, 80), dealDates: f.dates.trim().slice(0, 60), prices: (t.match(/\$\d[\d,]*/g) || []).length, cheapest: (t.match(/[Cc]heapest from \$[\d,]+/) || [""])[0], error: /went wrong/.test(t), header: (t.match(/Round trip.{0,160}?Return\w{3}, \w{3} \d+/) || [""])[0] };
         out.flights.push(r); console.log("FLIGHT", JSON.stringify(r));
