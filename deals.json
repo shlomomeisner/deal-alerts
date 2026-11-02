@@ -1,787 +1,5 @@
 [
  {
-  "id": "92dbda09a4b5aef4",
-  "title": "Early fall Prime Day deals now live: MacBook, AirTag 2, MagSafe gear, TVs, smart speakers, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Macbook — 50% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:41:57Z"
- },
- {
-  "id": "78bbf4ad1c9fc124",
-  "title": "Deals: M5 MacBook Air, MacBook Pro $500 off, Mac Studio, accessories from $20 or less, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/29/deals-macbook-air-macbook-pro-mac-studio-accessories/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:41:57Z"
- },
- {
-  "id": "7e462f34de5af7ed",
-  "title": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "80% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 80,
-  "price": 500.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/28/deals-m5-pro-macbook-pro-macbook-air-studio-display/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:41:58Z"
- },
- {
-  "id": "ce4bcdb8eb361368",
-  "title": "These are the best MacBook deals right now: September 2026 Buyer’s Guide",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/26/these-are-the-best-macbook-deals/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:41:59Z"
- },
- {
-  "id": "b898bff8c1c11017",
-  "title": "Weekend Apple deals: Beats 360, AirPods Pro 3, Mac Studio, MacBook Air, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch 80% off",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 80,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/26/apple-deals-this-week-best/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:41:59Z"
- },
- {
-  "id": "46b0748ec02be9c4",
-  "title": "Deals: 24GB M5 MacBook Air $150 off, Apple Watch Ultra $200 off, Mac mini, Beats cable $7.50, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 20,
-  "price": 150.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/24/deals-m5-macbook-air-apple-watch-ultra-beats-cable/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:42:00Z"
- },
- {
-  "id": "cc7efd030b1000a5",
-  "title": "Deals: Apple Watch Ultra 2 clearance $200 off, AirPods, Beats 360 launch discount, iPhone 18 Pro cases, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch 80% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 80,
-  "price": 200.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/23/deals-apple-watch-ultra-2-clearance-beats-360/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:42:00Z"
- },
- {
-  "id": "6b3a177dc1fe1060",
-  "title": "Deals: M5 MacBook Air up to $300 off, M4 iPad Air $100+ off, AirPods Pro 3, Studio Display, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 300.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/22/deals-macbook-air-ipad-air-airpods-pro-3-studio-display/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:42:01Z"
- },
- {
-  "id": "b19e2d2dcaf66343",
-  "title": "Deals: Apple Watch Ultra 4, AirPods Pro 3, entry Studio Display $240 off, 2026 Mac Studio, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 240.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/21/deals-apple-watch-ultra-4-airpods-pro-3-studio-display/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:42:02Z"
- },
- {
-  "id": "d911d2ca5272f339",
-  "title": "Deals: AirPods Pro 3, iPhone 18 Pro cases and chargers, M5 MacBook Pro $320 off, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 320.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/18/deals-airpods-pro-3-iphone-18-pro-cases-m5-macbook/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:42:02Z"
- },
- {
-  "id": "46dfa9d1f0ab3e51",
-  "title": "Deals: AirPods, M6 Mac mini, Apple Studio Display $330 off, Thunderbolt 5 dock, MacBook Air, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 330.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/17/deals-airpods-m6-mac-mini-studio-display-thunderbolt-5-dock/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:12Z"
- },
- {
-  "id": "396be34d20f28c7f",
-  "title": "Deals: AirPods 5/Pro 3, Apple Watch Ultra 4, MacBook Pro $450 off, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 450.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/16/deals-airpods-5-pro-3-apple-watch-ultra-4/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:13Z"
- },
- {
-  "id": "e7c4136ebe4a0fc1",
-  "title": "Deals: AirPods 5 $125, M5 MacBook Air $150 off, Apple Watch Series 12, 25W MagSafe car mount, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 125.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/15/deals-airpods-5-m5-macbook-air-apple-watch-series-12/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:14Z"
- },
- {
-  "id": "813a3be52c38fbfa",
-  "title": "Deals: AirPods, MacBook Air $150 off, Series 12, Anker 25W MagSafe charging stations, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch 40% off",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 40,
-  "price": 150.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/14/deals-airpods-series-12-anker-25w-charging-stations/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:14Z"
- },
- {
-  "id": "0ee4bb03a8da82ab",
-  "title": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch deal",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/12/weekend-apple-deals-airpods-5-apple-watch-series-12/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:15Z"
- },
- {
-  "id": "6ddff5c9d5785b4d",
-  "title": "Deals: AirPods 5 from $64 w/ trade, AirPods Pro 3, Studio Display XDR $330 off, Ceramic Apple Watch, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 64.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/11/deals-airpods-5-airpods-pro-3-studio-display-series-12/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:16Z"
- },
- {
-  "id": "df410682736eec04",
-  "title": "Deals: AirPods, Apple Watch Series 12 and Ultra 4 up to $325 off, M5 MacBook Air $200 off, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 325.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/10/deals-airpods-5-apple-watch-series-12-ultra-4/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:17Z"
- },
- {
-  "id": "dad109247d95a4c8",
-  "title": "Deals: M5 Pro MacBook Pro $500 off, AirPods Pro 3, AirPods Max 2, AirTag 2, chargers, and more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Macbook — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/09/deals-m5-pro-macbook-pro-airpods-pro-3-airtag-2/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:17Z"
- },
- {
-  "id": "9ab2836c917b22d7",
-  "title": "Deals: New M5 Max Mac Studio first discount, MacBook Air $150 off, most affordable Studio Display $100 off, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Macbook — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 150.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/08/deals-m5-max-mac-studio-macbook-air-studio-display/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:18Z"
- },
- {
-  "id": "a35a98209c883385",
-  "title": "All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Le Labo deal",
-  "category": "fragrance",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:19Z"
- },
- {
-  "id": "c595ff2ce542c369",
-  "title": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Le Labo deal",
-  "category": "fragrance",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:19Z"
- },
- {
-  "id": "1d2cdcf96af24549",
-  "title": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:20Z"
- },
- {
-  "id": "1db29fb40cb772df",
-  "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display XDR $329+ off, iPad Air $100 off, charging gear, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Ipad — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 329.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:20Z"
- },
- {
-  "id": "6d30cf3d0e2864d5",
-  "title": "Apple Labor Day 2026 deals now live: AirPods Pro 3, M6 Mac mini, AirTag 2, iPhone, more [Updated]",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch deal",
-  "category": "fragrance",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:21Z"
- },
- {
-  "id": "5101ee1597b50994",
-  "title": "Deals: iPhone Air up to $359 off, iPhone 17 Pro, M5 MacBook Air $240 off, AirTag 2, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 359.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:49:22Z"
- },
- {
-  "id": "b83a2a5fedf5c880",
-  "title": "Deals: AirPods from $80, MagSafe Battery up to 60% off, AirTag 2 $20 each, Apple Pencil, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Mac Mini — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 80.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:11Z"
- },
- {
-  "id": "f304b3a0cd722b46",
-  "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:11Z"
- },
- {
-  "id": "c3b89974d4557c47",
-  "title": "Deals: Amazon Labor Day sale, AirPods Pro 3, M6 Mac mini, Apple Watch $200, AirTag 2, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch 42% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 42,
-  "price": 200.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:12Z"
- },
- {
-  "id": "34e263b723a4d2aa",
-  "title": "Deals: iPhone 17 Pro up to $285 off, AirTag 2, AirPods Pro 3, Anker MagSafe Nano power bank, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 285.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:12Z"
- },
- {
-  "id": "8deb623d0fc9ebdf",
-  "title": "Deals: AirPods, AirTag 2, M6 Mac mini trades up to $500 off, iPhone 17 Pro $290 off, Anker Smart Display power bank, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/26/deals-airpods-airtag-2-m6-mac-mini-iphone-17-pro/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:13Z"
- },
- {
-  "id": "7a5678a7c004adc1",
-  "title": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Macbook — lowest price ever",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/25/deals-m6-mac-mini-airtag-2-48gb-macbook-pro/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:14Z"
- },
- {
-  "id": "50b1cae528f100ac",
-  "title": "AirTag 2 now just $20 each ahead of new feature coming soon",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Airpods — lowest price ever",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 25,
-  "price": 20.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/24/airtag-2-deal-best-price/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:14Z"
- },
- {
-  "id": "60b671d5b6c0ee6f",
-  "title": "Deals: M5 Pro MacBook Pro $500 off, AirTag 2 from $20, Find My Wallet Card $25, AirPods Pro 3, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Macbook — all-time low",
-  "category": "fashion",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 500.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/21/deals-macbook-pro-airtag-2-find-my-card-airpods-pro-3/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:15Z"
- },
- {
-  "id": "99cb57e58d6f705e",
-  "title": "Deals: M5 MacBook Air $1,099, M5 Pro MacBook Pro 48GB $400 off, Series 11 from $254, AirTag 2, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 1099.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/20/deals-m5-macbook-air-macbook-pro-airtag-2/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:16Z"
- },
- {
-  "id": "5d41fed27b91cc22",
-  "title": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 400.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:17Z"
- },
- {
-  "id": "1e7df61ea849b550",
-  "title": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 400.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:17Z"
- },
- {
-  "id": "824994e00e12b5fd",
-  "title": "Deals: iPad Air $400 off, AirTag 2, MacBook Air $300 off, AirPods Max 2 $120 off, iPhone 17 Pro, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 400.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/18/deals-ipad-air-airtag-macbook-air-airpods-iphone-17-pro/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:18Z"
- },
- {
-  "id": "10dec3d21cae8750",
-  "title": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $120 off, AirTag 2 all-time low, M5 Pro MacBook Pro $650 off, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Macbook — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 25,
-  "price": 120.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/17/deals-airpods-pro-3-airpods-max-2-airtag-2-macbook-pro/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:18Z"
- },
- {
-  "id": "d8ed727bf348f842",
-  "title": "Best AirPods deals right now: Save $120 on AirPods Max 2, AirPods Pro 3 for $190, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 120.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/17/best-airpods-deals-right-now-save-120-on-airpods-max-2-airpods-pro-3-for-190-more/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:19Z"
- },
- {
-  "id": "88cfb20aa34a047a",
-  "title": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 14,
-  "price": 540.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T21:56:20Z"
- },
- {
-  "id": "f06d5c587012e82d",
-  "title": "Deals: AirPods Pro 3, M5 MacBook Air $270 off, UWB smart lock, Thunderbolt 5 dock, Nomad cases from $17, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch deal",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 270.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/13/deals-airpods-pro-3-m5-macbook-air-thunderbolt-5-dock/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T22:03:08Z"
- },
- {
-  "id": "5ce192f97500af14",
-  "title": "Deals: M5 Pro MacBook Pro up to $540 off, M5 MacBook Air from $1,099, Apple Watch Ultra 3, MagSafe chargers, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch 35% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 35,
-  "price": 540.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/12/deals-m5-pro-macbook-airpods-pro-3-apple-watch-ultra-3/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T22:03:09Z"
- },
- {
-  "id": "8498b42681606190",
-  "title": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $100 off, MacBook Pro, Anker 25W MagSafe car charger, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": 100.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/11/deals-airpods-pro-3-airpods-max-2-macbook-pro/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T22:03:09Z"
- },
- {
-  "id": "c7fcf36365759db5",
-  "title": "Deals: M5 MacBook Pro $300 off, AirPods Pro 3, Apple Sport Bands, Anker 3-in-1 Qi2 25W MagSafe charger, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "Apple Watch 25% off",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 25,
-  "price": 300.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/10/deals-m5-macbook-pro-airpods-pro-3-sport-band-charger/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T22:03:10Z"
- },
- {
-  "id": "057cd290b6e6421a",
-  "title": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": null,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T22:03:11Z"
- },
- {
-  "id": "2e328e4a29a56810",
-  "title": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
-  "url": "https://www.linkedin.com/company/9to5mac.com",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": 172.0,
-  "found_at": "2026-11-01T17:24:40Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
-  "store": "Linkedin",
-  "checked_at": "2026-11-01T22:03:11Z"
- },
- {
   "id": "d18e9865851d2008",
   "title": "Deals: AirPods Pro 3 now even lower at 25% off, M5 MacBook Air $190 off, iPhone Air $150+ off, more",
   "url": "https://www.linkedin.com/company/9to5mac.com",
@@ -26641,7 +25859,7 @@
  {
   "id": "6561afc1ec9c5c9e",
   "title": "Desktop Deals at Woot: Up to 36% off + free shipping w/ Prime",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Desktop+Deals",
+  "url": "https://www.dealnews.com/Desktop-Deals-at-Woot-Up-to-36-off-free-shipping-w-Prime/22336176.html?iref=rss",
   "why": "Mac Mini — 36% off",
   "category": "tech",
   "source": "DealNews",
@@ -26651,8 +25869,7 @@
   "price": null,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://www.dealnews.com/Desktop-Deals-at-Woot-Up-to-36-off-free-shipping-w-Prime/22336176.html?iref=rss",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "d728e73ac8612df5",
@@ -26735,7 +25952,7 @@
  {
   "id": "d28d1c6bdcfa52f6",
   "title": "Select Area Only: LG Partner Store 77\" LG C5 OLED evo AI 4K 120Hz TV $1499.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Area+Only+LG+Partner+Store+77+LG+C5+OLED+evo+AI+4K+120Hz+TV",
+  "url": "https://slickdeals.net/f/19961523-select-area-only-lg-partner-store-77-lg-c5-oled-evo-ai-4k-120hz-tv-1499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -26745,8 +25962,7 @@
   "price": 1499.99,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://slickdeals.net/f/19961523-select-area-only-lg-partner-store-77-lg-c5-oled-evo-ai-4k-120hz-tv-1499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "d627f6b99f5d3ff7",
@@ -26767,7 +25983,7 @@
  {
   "id": "0fcba838e4664cc2",
   "title": "83\" LG C5 OLED Sams Club YMMV $1299",
-  "url": "https://www.google.com/search?tbm=shop&q=83+LG+C5+OLED+Sams+Club",
+  "url": "https://slickdeals.net/f/19944453-83-lg-c5-oled-sams-club-ymmv-1299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -26777,8 +25993,7 @@
   "price": 1299.0,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://slickdeals.net/f/19944453-83-lg-c5-oled-sams-club-ymmv-1299?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "aa8f480f9894ebb0",
@@ -26799,7 +26014,7 @@
  {
   "id": "107c0713aa13fe74",
   "title": "LG 48\" Class C5 Series OLED evo AI Smart TV -$699",
-  "url": "https://www.google.com/search?tbm=shop&q=LG+48+Class+C5+Series+OLED+evo+AI+Smart+TV+-",
+  "url": "https://slickdeals.net/f/19908558-lg-48-class-c5-series-oled-evo-ai-smart-tv-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -26809,13 +26024,12 @@
   "price": 699.0,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://slickdeals.net/f/19908558-lg-48-class-c5-series-oled-evo-ai-smart-tv-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "2cdaac4c88759683",
   "title": "Select Areas: LG Partner: 77\" LG C5 OLED evo AI 4K 120Hz TV + S40TY Sound Bar $1530 + Free Delivery",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+77+LG+C5+OLED+evo+AI+4K+120Hz+TV+%2B+S40TY+Sound+Bar",
+  "url": "https://slickdeals.net/f/19840506-select-areas-lg-partner-77-lg-c5-oled-evo-ai-4k-120hz-tv-s40ty-sound-bar-1530-free-delivery?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -26825,13 +26039,12 @@
   "price": 1530.0,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://slickdeals.net/f/19840506-select-areas-lg-partner-77-lg-c5-oled-evo-ai-4k-120hz-tv-s40ty-sound-bar-1530-free-delivery?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "20358cea31b195b4",
   "title": "Select Areas: LG Partner: 65\" C5 OLED evo 4K TV + S40T Soundbar + Installation $1052.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+65+C5+OLED+evo+4K+TV+%2B+S40T+Soundbar+%2B+Installation",
+  "url": "https://slickdeals.net/f/19840500-select-areas-lg-partner-65-c5-oled-evo-4k-tv-s40t-soundbar-installation-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -26841,13 +26054,12 @@
   "price": 1052.99,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://slickdeals.net/f/19840500-select-areas-lg-partner-65-c5-oled-evo-4k-tv-s40t-soundbar-installation-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "52509d84f8833abe",
   "title": "Select Areas: LG Partner: 65\" LG C5 OLED evo AI 4K 120Hz TV + S40T Sound Bar $1052.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+65+LG+C5+OLED+evo+AI+4K+120Hz+TV+%2B+S40T+Sound+Bar",
+  "url": "https://slickdeals.net/f/19827018-select-areas-lg-partner-65-lg-c5-oled-evo-ai-4k-120hz-tv-s40t-sound-bar-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -26857,13 +26069,12 @@
   "price": 1052.99,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://slickdeals.net/f/19827018-select-areas-lg-partner-65-lg-c5-oled-evo-ai-4k-120hz-tv-s40t-sound-bar-1052-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "ba478760dcb5f20a",
   "title": "LG Partner Store: 77 Inch Class LG OLED evo AI C5 4K Smart TV + S40T Soundbar $1529.99",
-  "url": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+77+Inch+Class+LG+OLED+evo+AI+C5+4K+Smart+TV+%2B+S40T+Soundbar",
+  "url": "https://slickdeals.net/f/19827015-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40t-soundbar-1529-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Lg C5",
@@ -26873,8 +26084,7 @@
   "price": 1529.99,
   "found_at": "2026-11-02T11:06:30Z",
   "source_url": "https://slickdeals.net/f/19827015-lg-partner-store-77-inch-class-lg-oled-evo-ai-c5-4k-smart-tv-s40t-soundbar-1529-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "fce48d8217815498",
@@ -27046,7 +26256,7 @@
  {
   "id": "c60f56f022fa9190",
   "title": "DJI Osmo Nano 4K Wearable Action Camera (Standard Combo): 128GB $249, 64GB $204 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+4K+Wearable+Action+Camera+128GB",
+  "url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -27056,13 +26266,12 @@
   "price": 249.0,
   "found_at": "2026-11-02T11:52:57Z",
   "source_url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "825cb1c94b5a72e6",
   "title": "LEGO Technic Koenigsegg Jesko Absolut Grey Hypercar 42173 Building Set for $40 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=LEGO+Technic+Koenigsegg+Jesko+Absolut+Grey+Hypercar+42173+Building+Set+for",
+  "url": "https://www.dealnews.com/products/LEGO/LEGO-Technic-Koenigsegg-Jesko-Absolut-Grey-Hypercar-42173-Building-Set/552971.html?iref=rss",
   "why": "",
   "category": "everything",
   "source": "DealNews",
@@ -27072,8 +26281,7 @@
   "price": 40.0,
   "found_at": "2026-11-02T11:52:57Z",
   "source_url": "https://www.dealnews.com/products/LEGO/LEGO-Technic-Koenigsegg-Jesko-Absolut-Grey-Hypercar-42173-Building-Set/552971.html?iref=rss",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "901b0078c65130e8",
@@ -27184,7 +26392,7 @@
  {
   "id": "459fcd40ff3c75f0",
   "title": "Woot Warehouse Clean Out: Up to 78% off + free shipping w/ Prime",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Warehouse+Clean+Out+Up+to+78+off+%2B+w+Prime",
+  "url": "https://www.dealnews.com/Woot-Warehouse-Clean-Out-Up-to-78-off-free-shipping-w-Prime/22336243.html?iref=rss",
   "why": "78% off",
   "category": "fragrance",
   "source": "DealNews",
@@ -27194,8 +26402,7 @@
   "price": null,
   "found_at": "2026-11-02T12:01:59Z",
   "source_url": "https://www.dealnews.com/Woot-Warehouse-Clean-Out-Up-to-78-off-free-shipping-w-Prime/22336243.html?iref=rss",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "f097ce2cb1c30435",
@@ -27217,7 +26424,7 @@
  {
   "id": "f7ea776183029e1d",
   "title": "Round Trip New York to Tokyo Japan Very Few $315 or $614 Airfares on Alaska/Hawaiian Airlines (Limited Travel January - February 2027)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Tokyo%20Japan%20Very%20Few%20on%202027-01-27%20through%202027-01-29",
+  "url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "🌴 NEW YORK → Honolulu",
   "category": "flights",
   "source": "Slickdeals: airfare",
@@ -27231,8 +26438,7 @@
   "return": "2027-01-29",
   "route_fixed": true,
   "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "9cd87663ea2434d8",
@@ -27285,7 +26491,7 @@
  {
   "id": "63c6d926ba578cc4",
   "title": "40mm Tissot Carson Men's Black Dial Automatic Watch $246.40 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
+  "url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals Popular",
@@ -27295,8 +26501,7 @@
   "price": 246.4,
   "found_at": "2026-11-02T13:58:22Z",
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "9a421bf84a3723ee",
@@ -27317,7 +26522,7 @@
  {
   "id": "5fba71f698c308f4",
   "title": "Dyson UP30 Ball Animal 3 Vacuum for $160 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Dyson+UP30+Ball+Animal+3+Vacuum+for",
+  "url": "https://www.dealnews.com/products/Dyson/Dyson-UP30-Ball-Animal-3-Vacuum/496047.html?iref=rss",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -27327,8 +26532,7 @@
   "price": 160.0,
   "found_at": "2026-11-02T13:58:22Z",
   "source_url": "https://www.dealnews.com/products/Dyson/Dyson-UP30-Ball-Animal-3-Vacuum/496047.html?iref=rss",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "5737c0faf73b93d8",
@@ -27365,7 +26569,7 @@
  {
   "id": "8d959b888c2d345e",
   "title": "30% OFF on Fragrance(essentially everything)- eCosmetics.com",
-  "url": "https://www.google.com/search?tbm=shop&q=30+OFF+on+Fragrance+-+eCosmetics.com",
+  "url": "https://slickdeals.net/f/15457516-30-off-on-fragrance-essentially-everything-ecosmetics-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Loewe",
@@ -27375,13 +26579,12 @@
   "price": null,
   "found_at": "2026-11-02T13:58:22Z",
   "source_url": "https://slickdeals.net/f/15457516-30-off-on-fragrance-essentially-everything-ecosmetics-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "06a58b1d5634148a",
   "title": "Ray-Ban RB4395F Kiliane Low Bridge Fit Rectangular Sunglasses 57mm (Havana/Dark Green) $89 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+RB4395F+Kiliane+Low+Bridge+Fit+Rectangular+Sunglasses+57mm",
+  "url": "https://slickdeals.net/f/19356153-ray-ban-rb4395f-kiliane-low-bridge-fit-rectangular-sunglasses-57mm-havana-dark-green-89-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Kilian",
@@ -27391,8 +26594,7 @@
   "price": 89.0,
   "found_at": "2026-11-02T13:58:22Z",
   "source_url": "https://slickdeals.net/f/19356153-ray-ban-rb4395f-kiliane-low-bridge-fit-rectangular-sunglasses-57mm-havana-dark-green-89-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "83f84f071882c044",
@@ -27503,7 +26705,7 @@
  {
   "id": "4e2ebf68dd674777",
   "title": "United Returns to St. Croix After 32 Years as Four Crucian Pilots Lead Inaugural Newark Flights - The Virgin Islands Consortium",
-  "url": "https://www.google.com/travel/flights?q=Flights%20United%20Returns%20to%20St.%20Croix%20After%2032%20Years%20as%20Four%20Crucian%20Pilots%20Lead%20Inaugural%20Newark%20Flights%20-%20The%20Virgin%20Islands%20Consortium",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXZLbFFFdF95eHpIcU9kQ1p2Z0lUeGNEb0FiVTVUSDZaMjFrRXVReEQyWnBvWnY4RTFRZzRRYUN4SDMzYnZLekxVYVkyVVBRdlE1RTZfU21MVEZKTkZ0OU52NHM2VWNYRm9CMUdMS0VRTmJ1SExCMjVseTktZjVEVkVENzJQNk1fQVItdXhKVHlRcUduN3FubVQtcVZKLVNzQXRBd3FzbnlEZm5oRlh2elYwYXFiR0haYWtoSmwtT1Z4LWktM3IxR0FVUDY0cHpSSHJiZzNmQTZjSXQ3U1E?oc=5",
   "why": "🌴 NEWARK → St. Croix",
   "category": "flights",
   "source": "Google: NYC Caribbean flights",
@@ -27514,8 +26716,7 @@
   "found_at": "2026-11-02T13:58:22Z",
   "dates_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXZLbFFFdF95eHpIcU9kQ1p2Z0lUeGNEb0FiVTVUSDZaMjFrRXVReEQyWnBvWnY4RTFRZzRRYUN4SDMzYnZLekxVYVkyVVBRdlE1RTZfU21MVEZKTkZ0OU52NHM2VWNYRm9CMUdMS0VRTmJ1SExCMjVseTktZjVEVkVENzJQNk1fQVItdXhKVHlRcUduN3FubVQtcVZKLVNzQXRBd3FzbnlEZm5oRlh2elYwYXFiR0haYWtoSmwtT1Z4LWktM3IxR0FVUDY0cHpSSHJiZzNmQTZjSXQ3U1E?oc=5",
-  "route_fixed": true,
-  "link_tried3": true
+  "route_fixed": true
  },
  {
   "id": "bf006013b1b8ede2",
@@ -27724,7 +26925,7 @@
  {
   "id": "dd764215b93e4649",
   "title": "Fragrance Testers and Gift Sets at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrance+Testers+and+Gift+Sets",
+  "url": "https://slickdeals.net/f/19642482-fragrance-testers-and-gift-sets-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Gucci",
@@ -27734,13 +26935,12 @@
   "price": null,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/f/19642482-fragrance-testers-and-gift-sets-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b28796f8475842e0",
   "title": "Dyson 10-Speed 300-sq ft HEPA Smart Air Purifier in the Air Purifiers department at Lowes.com $499",
-  "url": "https://www.google.com/search?tbm=shop&q=Dyson+10-Speed+300-sq+ft+HEPA+Smart+Air+Purifier+in+the+Air+Purifiers+department",
+  "url": "https://slickdeals.net/e/14715959-dyson-10-speed-300-sq-ft-hepa-smart-air-purifier-in-the-air-purifiers-department-at-lowes-com-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Loewe",
@@ -27750,8 +26950,7 @@
   "price": 499.0,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/e/14715959-dyson-10-speed-300-sq-ft-hepa-smart-air-purifier-in-the-air-purifiers-department-at-lowes-com-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "221e6bdd28282896",
@@ -27836,7 +27035,7 @@
  {
   "id": "a61c0cbeac36c711",
   "title": "Kilian Fragrance as low as $168 at Cos Bar Plus an Extra 10% off for New Customers",
-  "url": "https://www.google.com/search?tbm=shop&q=Kilian+Fragrance+as+low+as",
+  "url": "https://slickdeals.net/e/14686895-kilian-fragrance-as-low-as-168-at-cos-bar-plus-an-extra-10-off-for-new-customers?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Kilian",
@@ -27846,13 +27045,12 @@
   "price": 168.0,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/e/14686895-kilian-fragrance-as-low-as-168-at-cos-bar-plus-an-extra-10-off-for-new-customers?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "a4aacb68e5e6af0c",
   "title": "Alpine Swiss: Kilian Unisex Mesh Sneakers Starting at $13.99 w/ Code + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Alpine+Swiss+Kilian+Unisex+Mesh+Sneakers+Starting+at",
+  "url": "https://slickdeals.net/e/13773533-alpine-swiss-kilian-unisex-mesh-sneakers-starting-at-13-99-w-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Kilian",
@@ -27862,13 +27060,12 @@
   "price": 13.99,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/e/13773533-alpine-swiss-kilian-unisex-mesh-sneakers-starting-at-13-99-w-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "e94a9b2e3feecc91",
   "title": "Alpine swiss kilian mesh sneakers casual shoes mens & womens lightweight trainer free shipping $15",
-  "url": "https://www.google.com/search?tbm=shop&q=Alpine+swiss+kilian+mesh+sneakers+casual+shoes+mens+%26+womens+lightweight+trainer",
+  "url": "https://slickdeals.net/e/13356262-alpine-swiss-kilian-mesh-sneakers-casual-shoes-mens-womens-lightweight-trainer-free-shipping-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Kilian",
@@ -27878,13 +27075,12 @@
   "price": 15.0,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/e/13356262-alpine-swiss-kilian-mesh-sneakers-casual-shoes-mens-womens-lightweight-trainer-free-shipping-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "d661716a31f9d2a3",
   "title": "Free scented tattoo from Kilian",
-  "url": "https://www.google.com/search?tbm=shop&q=Free+scented+tattoo+from+Kilian",
+  "url": "https://slickdeals.net/e/12176656-free-scented-tattoo-from-kilian?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Kilian",
@@ -27894,8 +27090,7 @@
   "price": null,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/e/12176656-free-scented-tattoo-from-kilian?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "6f72d65dc67d8cc2",
@@ -27930,7 +27125,7 @@
  {
   "id": "62ed3196dccdb80e",
   "title": "Canon EOS R100 Mirrorless Camera w/ 2 Lens Kit 18-45mm & 55-210mm IS STM Pro Bundle $779 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Canon+EOS+R100+Mirrorless+Camera+w+2+Lens+Kit+18-45mm+%26+55-210mm+IS+STM+Pro+Bund",
+  "url": "https://slickdeals.net/f/20212791-canon-eos-r100-mirrorless-camera-w-2-lens-kit-18-45mm-55-210mm-is-stm-pro-bundle-779-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Canon Eos",
@@ -27940,8 +27135,7 @@
   "price": 779.0,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/f/20212791-canon-eos-r100-mirrorless-camera-w-2-lens-kit-18-45mm-55-210mm-is-stm-pro-bundle-779-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "734967e400dfbe4c",
@@ -27962,7 +27156,7 @@
  {
   "id": "7936e048e7209f1b",
   "title": "Leica SL2 47MP Mirrorless Full-Frame Camera (Body Only) $3660.47",
-  "url": "https://www.google.com/search?tbm=shop&q=Leica+SL2+47MP+Mirrorless+Full-Frame+Camera",
+  "url": "https://slickdeals.net/f/20125635-leica-sl2-47mp-mirrorless-full-frame-camera-body-only-3660-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Canon Eos",
@@ -27972,13 +27166,12 @@
   "price": 3660.47,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/f/20125635-leica-sl2-47mp-mirrorless-full-frame-camera-body-only-3660-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "581693c8561703ec",
   "title": "Leica SL2 47MP Mirrorless Full-Frame Camera (Body Only) $3859.14",
-  "url": "https://www.google.com/search?tbm=shop&q=Leica+SL2+47MP+Mirrorless+Full-Frame+Camera",
+  "url": "https://slickdeals.net/f/19946091-leica-sl2-47mp-mirrorless-full-frame-camera-body-only-3859-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Canon Eos",
@@ -27988,8 +27181,7 @@
   "price": 3859.14,
   "found_at": "2026-11-02T14:07:23Z",
   "source_url": "https://slickdeals.net/f/19946091-leica-sl2-47mp-mirrorless-full-frame-camera-body-only-3859-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "5b2d040d3fff0755",
@@ -28036,7 +27228,7 @@
  {
   "id": "f8e881b0b6057491",
   "title": "Rolex Day-Date 40 Meteorite Diamond Automatic Diamond Men's Watch $124500",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Rolex sale",
@@ -28046,8 +27238,7 @@
   "price": 124500.0,
   "found_at": "2026-11-02T14:10:43Z",
   "source_url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b6d7587d079637b6",
@@ -28068,7 +27259,7 @@
  {
   "id": "c67e43810069d647",
   "title": "Rolex Day-Date 40 Meteorite Diamond Automatic Diamond Men's Watch ($4,600 Coupon) $129,950",
-  "url": "https://www.google.com/search?tbm=shop&q=Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/18697057-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-4-600-coupon-129-950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Rolex sale",
@@ -28078,13 +27269,12 @@
   "price": 4600.0,
   "found_at": "2026-11-02T14:10:43Z",
   "source_url": "https://slickdeals.net/f/18697057-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-4-600-coupon-129-950?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "f60abaab7a989325",
   "title": "Rolex Datejust 41 Blue Dial Men’s Watch $10,650 + Free Shipping $10650",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Datejust+41+Blue+Dial+Men+s+Watch",
+  "url": "https://slickdeals.net/f/18570373-rolex-datejust-41-blue-dial-men-s-watch-10-650-free-shipping-10650?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Rolex sale",
@@ -28094,8 +27284,7 @@
   "price": 10650.0,
   "found_at": "2026-11-02T14:10:43Z",
   "source_url": "https://slickdeals.net/f/18570373-rolex-datejust-41-blue-dial-men-s-watch-10-650-free-shipping-10650?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "bcc3172a156976c6",
@@ -28132,7 +27321,7 @@
  {
   "id": "e8d218339b8a86ef",
   "title": "New Breitling Superocean Heritage B01 Chronograph 42 Men's Watch UB0156H11B1A1 $7052",
-  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Superocean+Heritage+B01+Chronograph+42+Men%27s+Watch+UB0156H11B1A1",
+  "url": "https://slickdeals.net/f/20101743-new-breitling-superocean-heritage-b01-chronograph-42-men-s-watch-ub0156h11b1a1-7052?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -28142,13 +27331,12 @@
   "price": 7052.0,
   "found_at": "2026-11-02T14:10:45Z",
   "source_url": "https://slickdeals.net/f/20101743-new-breitling-superocean-heritage-b01-chronograph-42-men-s-watch-ub0156h11b1a1-7052?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "a5a02746953a4b2d",
   "title": "Women's Breitling Premier Automatic Brown Dial Watch - Free Shipping - $1375",
-  "url": "https://www.google.com/search?tbm=shop&q=Women%27s+Breitling+Premier+Automatic+Brown+Dial+Watch+-+-",
+  "url": "https://slickdeals.net/f/19618596-women-s-breitling-premier-automatic-brown-dial-watch-free-shipping-1375?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -28158,13 +27346,12 @@
   "price": 1375.0,
   "found_at": "2026-11-02T14:10:45Z",
   "source_url": "https://slickdeals.net/f/19618596-women-s-breitling-premier-automatic-brown-dial-watch-free-shipping-1375?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "6c359d7b995bf883",
   "title": "38mm Breitling Endurance Pro Chronograph Quartz Watch $1850 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=38mm+Breitling+Endurance+Pro+Chronograph+Quartz+Watch",
+  "url": "https://slickdeals.net/f/19597770-38mm-breitling-endurance-pro-chronograph-quartz-watch-1850-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -28174,8 +27361,7 @@
   "price": 1850.0,
   "found_at": "2026-11-02T14:10:45Z",
   "source_url": "https://slickdeals.net/f/19597770-38mm-breitling-endurance-pro-chronograph-quartz-watch-1850-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "691d6024a18c42ea",
@@ -28212,7 +27398,7 @@
  {
   "id": "461e980782f79a68",
   "title": "Breitling Men's Navitimer Automatic 41 Watch $3695",
-  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Men%27s+Navitimer+Automatic+41+Watch",
+  "url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -28222,13 +27408,12 @@
   "price": 3695.0,
   "found_at": "2026-11-02T14:10:45Z",
   "source_url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b68657c0cf2da5b9",
   "title": "Breitling Superocean 36mm Orange Dial Mens Watch Automatic $2750 + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Superocean+36mm+Orange+Dial+Mens+Watch+Automatic",
+  "url": "https://slickdeals.net/f/19006018-breitling-superocean-36mm-orange-dial-mens-watch-automatic-2750-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -28238,13 +27423,12 @@
   "price": 2750.0,
   "found_at": "2026-11-02T14:10:45Z",
   "source_url": "https://slickdeals.net/f/19006018-breitling-superocean-36mm-orange-dial-mens-watch-automatic-2750-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "d463a126847d86a2",
   "title": "Breitling Navitimer Automatic Chronometer Green Dial Unisex Watch A17395361L1P2 - $2750",
-  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Navitimer+Automatic+Chronometer+Green+Dial+Unisex+Watch+A17395361L1P2+",
+  "url": "https://slickdeals.net/f/17414094-breitling-navitimer-automatic-chronometer-green-dial-unisex-watch-a17395361l1p2-2750?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling price drop",
@@ -28254,13 +27438,12 @@
   "price": 2750.0,
   "found_at": "2026-11-02T14:10:45Z",
   "source_url": "https://slickdeals.net/f/17414094-breitling-navitimer-automatic-chronometer-green-dial-unisex-watch-a17395361l1p2-2750?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "378e50cfc25d27b5",
   "title": "Jomashop Christmas in July Deals: Breitling Colt Auto $2035; Tudor Heritage $2467; RW Maestro Auto $469; Omega DeVille Auto $2176; Seiko Flight Chrono $204",
-  "url": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: Breitling price drop",
@@ -28271,8 +27454,7 @@
   "found_at": "2026-11-02T14:10:45Z",
   "route_fixed": true,
   "dates_tried3": true,
-  "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "6b4c3cf60ecd6413",
@@ -28397,7 +27579,7 @@
  {
   "id": "23dd3af85364f100",
   "title": "Omega Railmaster Automatic Blue Jeans Dial Men's Watch 220.12.40.20.03.001 - $2825",
-  "url": "https://www.google.com/search?tbm=shop&q=Omega+Railmaster+Automatic+Blue+Jeans+Dial+Men%27s+Watch+220.12.40.20.03.001+-",
+  "url": "https://slickdeals.net/f/16525855-omega-railmaster-automatic-blue-jeans-dial-men-s-watch-220-12-40-20-03-001-2825?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -28407,13 +27589,12 @@
   "price": 2825.0,
   "found_at": "2026-11-02T14:10:48Z",
   "source_url": "https://slickdeals.net/f/16525855-omega-railmaster-automatic-blue-jeans-dial-men-s-watch-220-12-40-20-03-001-2825?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "20e8c73891081d90",
   "title": "Omega Planet Ocean Co-Axial Blue Dial Mid-size Titanium Watch $3795 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Omega+Planet+Ocean+Co-Axial+Blue+Dial+Mid-size+Titanium+Watch",
+  "url": "https://slickdeals.net/e/12247003-omega-planet-ocean-co-axial-blue-dial-mid-size-titanium-watch-3795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -28423,13 +27604,12 @@
   "price": 3795.0,
   "found_at": "2026-11-02T14:10:48Z",
   "source_url": "https://slickdeals.net/e/12247003-omega-planet-ocean-co-axial-blue-dial-mid-size-titanium-watch-3795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "3594b719e856442a",
   "title": "Wipeout Omega Collection PlayStation Store price drop $19.99",
-  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Wipeout+Omega+Collection+PlayStation+Store",
+  "url": "https://slickdeals.net/e/11504223-wipeout-omega-collection-playstation-store-price-drop-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -28439,13 +27619,12 @@
   "price": 19.99,
   "found_at": "2026-11-02T14:10:48Z",
   "source_url": "https://slickdeals.net/e/11504223-wipeout-omega-collection-playstation-store-price-drop-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "27fa407879304dcc",
   "title": "Qatar Airways: New York – Kigali, Rwanda. $844. Roundtrip, including all Taxes",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Kigali%2C%20Rwanda%20on%202027-02-01%20through%202027-02-08",
+  "url": "https://www.theflightdeal.com/2026/11/01/qatar-airways-new-york-kigali-rwanda-844-roundtrip-including-all-taxes/",
   "why": "",
   "category": "flights",
   "source": "The Flight Deal",
@@ -28459,13 +27638,12 @@
   "return": "2027-02-08",
   "route_fixed": true,
   "dates_tried3": true,
-  "source_url": "https://www.theflightdeal.com/2026/11/01/qatar-airways-new-york-kigali-rwanda-844-roundtrip-including-all-taxes/",
-  "link_tried3": true
+  "source_url": "https://www.theflightdeal.com/2026/11/01/qatar-airways-new-york-kigali-rwanda-844-roundtrip-including-all-taxes/"
  },
  {
   "id": "b7d8d72e9e06eeb8",
   "title": "Garmin Forerunner 255 46mm Sports Smartwatch $158.5 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+Sports+Smartwatch",
+  "url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -28475,8 +27653,7 @@
   "price": 158.5,
   "found_at": "2026-11-02T14:16:06Z",
   "source_url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "19da11782dd7b1c9",
@@ -28497,7 +27674,7 @@
  {
   "id": "91260baa39f76d06",
   "title": "DATA FROG S80 Pro 2PCS Wireless Game Controller - $19.85",
-  "url": "https://www.google.com/search?tbm=shop&q=DATA+FROG+S80+Pro+2PCS+Wireless+Game+Controller+-",
+  "url": "https://slickdeals.net/f/20241699-data-frog-s80-pro-2pcs-wireless-game-controller-19-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch 2",
@@ -28507,8 +27684,7 @@
   "price": 19.85,
   "found_at": "2026-11-02T14:16:06Z",
   "source_url": "https://slickdeals.net/f/20241699-data-frog-s80-pro-2pcs-wireless-game-controller-19-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "09a2eb32ff068d7f",
@@ -28555,7 +27731,7 @@
  {
   "id": "89edb04438e0194a",
   "title": "Squishmallows Original 8in Tudor The Maroon Leatherback Turtle $5.02 + Free S&H w/ Prime or $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Squishmallows+Original+8in+Tudor+The+Maroon+Leatherback+Turtle",
+  "url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor sale",
@@ -28565,13 +27741,12 @@
   "price": 5.02,
   "found_at": "2026-11-02T14:19:18Z",
   "source_url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b08ad405bffc4ff8",
   "title": "Tudor's Biscuit World- $2.50 chili dogs",
-  "url": "https://www.google.com/search?tbm=shop&q=Tudor%27s+Biscuit+World-",
+  "url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor sale",
@@ -28581,13 +27756,12 @@
   "price": 2.5,
   "found_at": "2026-11-02T14:19:18Z",
   "source_url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "3475b1d7c207c804",
   "title": "Hasbro Gaming Clue Escape: Treachery at Tudor Mansion $3.99 + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Hasbro+Gaming+Clue+Escape+Treachery+at+Tudor+Mansion",
+  "url": "https://slickdeals.net/f/19152106-hasbro-gaming-clue-escape-treachery-at-tudor-mansion-3-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor sale",
@@ -28597,13 +27771,12 @@
   "price": 3.99,
   "found_at": "2026-11-02T14:19:18Z",
   "source_url": "https://slickdeals.net/f/19152106-hasbro-gaming-clue-escape-treachery-at-tudor-mansion-3-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "e1b753a4bed82c5d",
   "title": "Lego - Icons Tudor Corner Building Kit - 10350 - $189.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Lego+-+Icons+Tudor+Corner+Building+Kit+-+10350+-",
+  "url": "https://slickdeals.net/f/18839467-lego-icons-tudor-corner-building-kit-10350-189-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor sale",
@@ -28613,13 +27786,12 @@
   "price": 189.99,
   "found_at": "2026-11-02T14:19:18Z",
   "source_url": "https://slickdeals.net/f/18839467-lego-icons-tudor-corner-building-kit-10350-189-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "7e501d9d92c7bb41",
   "title": "Cluedo: An Escape And Solve Mystery Board Game Treachery At Tudor Mansion(Ages 10+) $8.78 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Cluedo+An+Escape+And+Solve+Mystery+Board+Game+Treachery+At+Tudor+Mansion",
+  "url": "https://slickdeals.net/f/18807088-cluedo-an-escape-and-solve-mystery-board-game-treachery-at-tudor-mansion-ages-10-8-78-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor sale",
@@ -28629,8 +27801,7 @@
   "price": 8.78,
   "found_at": "2026-11-02T14:19:18Z",
   "source_url": "https://slickdeals.net/f/18807088-cluedo-an-escape-and-solve-mystery-board-game-treachery-at-tudor-mansion-ages-10-8-78-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "be41c765760dd236",
@@ -28651,7 +27822,7 @@
  {
   "id": "eff292113ae46b3b",
   "title": "Tudor 41mm 1926 Automatic Silver Dial Men's Watch $1795 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Tudor+41mm+1926+Automatic+Silver+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/18487291-tudor-41mm-1926-automatic-silver-dial-men-s-watch-1795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor sale",
@@ -28661,13 +27832,12 @@
   "price": 1795.0,
   "found_at": "2026-11-02T14:19:18Z",
   "source_url": "https://slickdeals.net/f/18487291-tudor-41mm-1926-automatic-silver-dial-men-s-watch-1795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "9e5c693186574078",
   "title": "Clue Board Game Treachery at Tudor Mansion $6.99, Clipology Game- The Premier Streaming Game $5.99 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Clue+Board+Game+Treachery+at+Tudor+Mansion",
+  "url": "https://slickdeals.net/f/18457618-clue-board-game-treachery-at-tudor-mansion-6-99-clipology-game-the-premier-streaming-game-5-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor sale",
@@ -28677,8 +27847,7 @@
   "price": 6.99,
   "found_at": "2026-11-02T14:19:18Z",
   "source_url": "https://slickdeals.net/f/18457618-clue-board-game-treachery-at-tudor-mansion-6-99-clipology-game-the-premier-streaming-game-5-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "f709f2a26c94eb18",
@@ -28715,7 +27884,7 @@
  {
   "id": "ff04bff31f2be068",
   "title": "Jomashop.com: CARTIER Cle 18kt Rose Gold Automatic Flinque Sunray Dial Ladies Watch WJCL0031 $8999.99 + FS",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+CARTIER+Cle+18kt+Rose+Gold+Automatic+Flinque+Sunray+Dial+Ladies+Wat",
+  "url": "https://slickdeals.net/f/14990246-jomashop-com-cartier-cle-18kt-rose-gold-automatic-flinque-sunray-dial-ladies-watch-wjcl0031-8999-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Cartier sale",
@@ -28725,13 +27894,12 @@
   "price": 8999.99,
   "found_at": "2026-11-02T14:19:20Z",
   "source_url": "https://slickdeals.net/f/14990246-jomashop-com-cartier-cle-18kt-rose-gold-automatic-flinque-sunray-dial-ladies-watch-wjcl0031-8999-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "23b6f96278bae422",
   "title": "TAG Heuer Connected Calibre E4 Golf Edition $849",
-  "url": "https://www.google.com/search?tbm=shop&q=TAG+Heuer+Connected+Calibre+E4+Golf+Edition",
+  "url": "https://slickdeals.net/f/20039055-tag-heuer-connected-calibre-e4-golf-edition-849?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: TAG Heuer sale",
@@ -28741,13 +27909,12 @@
   "price": 849.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/20039055-tag-heuer-connected-calibre-e4-golf-edition-849?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "8e7e53a5db0f5f35",
   "title": "TAG Heuer Smart Watch, Fitness Watch, Connected Calibre E4 45 mm Golf Edition $949",
-  "url": "https://www.google.com/search?tbm=shop&q=TAG+Heuer+Smart+Watch+Fitness+Watch+Connected+Calibre+E4+45+mm+Golf+Edition",
+  "url": "https://slickdeals.net/f/20039049-tag-heuer-smart-watch-fitness-watch-connected-calibre-e4-45-mm-golf-edition-949?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: TAG Heuer sale",
@@ -28757,8 +27924,7 @@
   "price": 949.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/20039049-tag-heuer-smart-watch-fitness-watch-connected-calibre-e4-45-mm-golf-edition-949?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "8305f8e598cc9713",
@@ -28811,7 +27977,7 @@
  {
   "id": "298f278b0f8a7078",
   "title": "Men's Tag Heuer Connected Golf Quartz Titanium 45mm Smart Watch $1098 + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+Tag+Heuer+Connected+Golf+Quartz+Titanium+45mm+Smart+Watch",
+  "url": "https://slickdeals.net/f/18599761-men-s-tag-heuer-connected-golf-quartz-titanium-45mm-smart-watch-1098-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: TAG Heuer sale",
@@ -28821,13 +27987,12 @@
   "price": 1098.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/18599761-men-s-tag-heuer-connected-golf-quartz-titanium-45mm-smart-watch-1098-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "2f63fe403e073ae5",
   "title": "Tag Heuer Formula 1 Blue/Black Dial Stainless Steel Men's Watch $1150 & More + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Tag+Heuer+Formula+1+Blue+Black+Dial+Stainless+Steel+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/17702592-tag-heuer-formula-1-blue-black-dial-stainless-steel-men-s-watch-1150-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: TAG Heuer sale",
@@ -28837,13 +28002,12 @@
   "price": 1150.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/17702592-tag-heuer-formula-1-blue-black-dial-stainless-steel-men-s-watch-1150-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "9f59eeeb195c6b69",
   "title": "Watchbox has 10% off Select Pre-Owned Luxury Watches: Tag Heuer Link Calibre 5 Auto 41mm Steel Mens Bracelet Watch $1823, Zenith Elite Ultra Thin Watch $2713 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Watchbox+has+10+off+Select+Pre-Owned+Luxury+Watches+Tag+Heuer+Link+Calibre+5+Aut",
+  "url": "https://slickdeals.net/f/16854125-watchbox-has-10-off-select-pre-owned-luxury-watches-tag-heuer-link-calibre-5-auto-41mm-steel-mens-bracelet-watch-1823-zenith-elite-ultra-thin-watch-2713-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: TAG Heuer sale",
@@ -28853,13 +28017,12 @@
   "price": 1823.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/16854125-watchbox-has-10-off-select-pre-owned-luxury-watches-tag-heuer-link-calibre-5-auto-41mm-steel-mens-bracelet-watch-1823-zenith-elite-ultra-thin-watch-2713-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "9d6f33d4fddbc2a1",
   "title": "Pre-owned Tag Heuer Carrera Tourbillon Chrono Titanium 46mm Automatic Men's Watch ACBF5A80 $8950",
-  "url": "https://www.google.com/search?tbm=shop&q=Pre-owned+Tag+Heuer+Carrera+Tourbillon+Chrono+Titanium+46mm+Automatic+Men%27s+Watc",
+  "url": "https://slickdeals.net/f/16616249-pre-owned-tag-heuer-carrera-tourbillon-chrono-titanium-46mm-automatic-men-s-watch-acbf5a80-8950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: TAG Heuer sale",
@@ -28869,13 +28032,12 @@
   "price": 8950.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/16616249-pre-owned-tag-heuer-carrera-tourbillon-chrono-titanium-46mm-automatic-men-s-watch-acbf5a80-8950?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "1740b69b14feb3d9",
   "title": "Tag Heuer Connect Watch orange band $200",
-  "url": "https://www.google.com/search?tbm=shop&q=Tag+Heuer+Connect+Watch+orange+band",
+  "url": "https://slickdeals.net/f/16266094-tag-heuer-connect-watch-orange-band-200?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: TAG Heuer sale",
@@ -28885,13 +28047,12 @@
   "price": 200.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/16266094-tag-heuer-connect-watch-orange-band-200?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "bd3d3229df3a4d55",
   "title": "JomaShop TAG HEUER Formula 1 Black Dial Men's Watch $980 + Free S&H",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+JomaShop+TAG+HEUER+Formula+1+Black+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/16146640-jomashop-tag-heuer-formula-1-black-dial-men-s-watch-980-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: TAG Heuer sale",
@@ -28901,8 +28062,7 @@
   "price": 980.0,
   "found_at": "2026-11-02T14:19:22Z",
   "source_url": "https://slickdeals.net/f/16146640-jomashop-tag-heuer-formula-1-black-dial-men-s-watch-980-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "eb97b5d2e4210c9f",
@@ -28997,7 +28157,7 @@
  {
   "id": "772a9684a89b7c2e",
   "title": "Valentino Uomo Born In Roma Yellow Dream for Men - 3.4 oz EDT Spray $70.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
+  "url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -29007,13 +28167,12 @@
   "price": 70.99,
   "found_at": "2026-11-02T14:19:27Z",
   "source_url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "21887c22df721275",
   "title": "Valentino Voce Viva Eau de Parfum Spray for Women, 0.33 Ounce/ 10 ml $19.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
+  "url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -29023,8 +28182,7 @@
   "price": 19.99,
   "found_at": "2026-11-02T14:19:27Z",
   "source_url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "ee759b3d50ca1569",
@@ -29045,7 +28203,7 @@
  {
   "id": "13107a90e69b86c8",
   "title": "2-Piece Valentino Donna Born In Roma Eau de Parfum Travel Gift Set $25 + Free Store Pickup at Ulta or FS $35+",
-  "url": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
+  "url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -29055,13 +28213,12 @@
   "price": 25.0,
   "found_at": "2026-11-02T14:19:27Z",
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "0bd89fddb121fe6b",
   "title": "3.4oz Valentino Uomo Born In Roma Intense EDP $109.95 & More + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+3.4oz+Valentino+Uomo+Born+In+Roma+Intense+EDP",
+  "url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -29071,8 +28228,7 @@
   "price": 109.95,
   "found_at": "2026-11-02T14:19:27Z",
   "source_url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "5297d01d77837196",
@@ -29267,7 +28423,7 @@
  {
   "id": "34800e908b85a842",
   "title": "DJI Osmo Action 6: Standard Combo $300, Adventure Combo $384 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+6+Standard+Combo",
+  "url": "https://slickdeals.net/f/20238342-dji-osmo-action-6-standard-combo-300-adventure-combo-384-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -29277,8 +28433,7 @@
   "price": 300.0,
   "found_at": "2026-11-02T14:24:41Z",
   "source_url": "https://slickdeals.net/f/20238342-dji-osmo-action-6-standard-combo-300-adventure-combo-384-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "ffa34418c89b8ea7",
@@ -29297,7 +28452,7 @@
  {
   "id": "7acf3ca97c3af964",
   "title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
+  "url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Prada sale",
@@ -29307,8 +28462,7 @@
   "price": 59.46,
   "found_at": "2026-11-02T14:27:51Z",
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "03bf1f92abeb8466",
@@ -29375,7 +28529,7 @@
  {
   "id": "a697edc37637e6af",
   "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $86.50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Prada sale",
@@ -29385,8 +28539,7 @@
   "price": 86.5,
   "found_at": "2026-11-02T14:27:51Z",
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "4b174c791c7a0e43",
@@ -29407,7 +28560,7 @@
  {
   "id": "8bf144d8b5b11e19",
   "title": "Men's 3.3oz + 0.34oz. Yves Saint Laurent Y EDP Fragrance Travel Gift Set $99.75 + Free S&H on $100+",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+3.3oz+%2B+0.34oz.+Yves+Saint+Laurent+Y+EDP+Fragrance+Travel+Gift+Set",
+  "url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29417,8 +28570,7 @@
   "price": 99.75,
   "found_at": "2026-11-02T14:27:53Z",
   "source_url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "0dfee97fb73a6d14",
@@ -29439,7 +28591,7 @@
  {
   "id": "266a8a1e72063bba",
   "title": "3.4-Oz Yves Saint Laurent YSL Myslf Eau de Parfum Spray for Men $60 Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
+  "url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29449,8 +28601,7 @@
   "price": 60.0,
   "found_at": "2026-11-02T14:27:53Z",
   "source_url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "328618f6dd15452b",
@@ -29469,7 +28620,7 @@
  {
   "id": "71fe1ef8a749cd9c",
   "title": "3.4-Oz Yves Saint Laurent YSL Myslf Eau de Parfum Spray for Men $68.98 Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
+  "url": "https://slickdeals.net/f/19749792-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-68-98-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29479,13 +28630,12 @@
   "price": 68.98,
   "found_at": "2026-11-02T14:27:53Z",
   "source_url": "https://slickdeals.net/f/19749792-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-68-98-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "fdc30b86b4c0fad7",
   "title": "Yves Saint Laurent Y Eau de Parfum $14.30 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Y+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/19389798-yves-saint-laurent-y-eau-de-parfum-14-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29495,8 +28645,7 @@
   "price": 14.3,
   "found_at": "2026-11-02T14:27:53Z",
   "source_url": "https://slickdeals.net/f/19389798-yves-saint-laurent-y-eau-de-parfum-14-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "bc89fc6e45c331e3",
@@ -29515,7 +28664,7 @@
  {
   "id": "85af1dabb548d21a",
   "title": "Yves Saint Laurent Black Opium Eau de Parfum Glitter with Marshmallow & Coffee 3 oz / 90 ml eau de parfum spray $86",
-  "url": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium+Eau+de+Parfum+Glitter+with+Marshmallow+%26+Coffee+3",
+  "url": "https://slickdeals.net/f/19290402-yves-saint-laurent-black-opium-eau-de-parfum-glitter-with-marshmallow-coffee-3-oz-90-ml-eau-de-parfum-spray-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29525,13 +28674,12 @@
   "price": 86.0,
   "found_at": "2026-11-02T14:27:53Z",
   "source_url": "https://slickdeals.net/f/19290402-yves-saint-laurent-black-opium-eau-de-parfum-glitter-with-marshmallow-coffee-3-oz-90-ml-eau-de-parfum-spray-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "323c4486b408229a",
   "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
+  "url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29541,8 +28689,7 @@
   "price": null,
   "found_at": "2026-11-02T14:27:53Z",
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "d63b489062df5a0b",
@@ -29563,7 +28710,7 @@
  {
   "id": "6d5b12d47797c849",
   "title": "Bottega Veneta Men's Mix Of Stripes Shirt $6900",
-  "url": "https://www.google.com/search?tbm=shop&q=Bottega+Veneta+Men%27s+Mix+Of+Stripes+Shirt",
+  "url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Bottega Veneta sale",
@@ -29573,13 +28720,12 @@
   "price": 6900.0,
   "found_at": "2026-11-02T14:27:56Z",
   "source_url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "82415a9d3c31c545",
   "title": "Jomashop.com: BOTTEGA VENETA intrecciato Weave 3.5 CM Belt - $299 + FS",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+BOTTEGA+VENETA+intrecciato+Weave+3.5+CM+Belt+-",
+  "url": "https://slickdeals.net/f/14804311-jomashop-com-bottega-veneta-intrecciato-weave-3-5-cm-belt-299-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Bottega Veneta sale",
@@ -29589,13 +28735,12 @@
   "price": 299.0,
   "found_at": "2026-11-02T14:27:56Z",
   "source_url": "https://slickdeals.net/f/14804311-jomashop-com-bottega-veneta-intrecciato-weave-3-5-cm-belt-299-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "5e42c9c2fe702d20",
   "title": "Luxomo: Bottega Veneta Sunglasses - $74.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Luxomo+Bottega+Veneta+Sunglasses+-",
+  "url": "https://slickdeals.net/e/11675607-luxomo-bottega-veneta-sunglasses-74-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Bottega Veneta sale",
@@ -29605,8 +28750,7 @@
   "price": 74.99,
   "found_at": "2026-11-02T14:27:56Z",
   "source_url": "https://slickdeals.net/e/11675607-luxomo-bottega-veneta-sunglasses-74-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "a580b8817872728d",
@@ -29721,7 +28865,7 @@
  {
   "id": "ab2e18cc48ed4b17",
   "title": "Salvatore Ferragamo Ladies' Amo Ferragamo Skin Care Gift Set w/ 1.7-Oz EDP Spray & 3.4-Oz Body Lotion $34.99 + Free S/H on $100+",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
+  "url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29731,13 +28875,12 @@
   "price": 34.99,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "5796aedde7e19417",
   "title": "Ferragamo Low Sneaker With Signature In - $100000",
-  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
+  "url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29747,13 +28890,12 @@
   "price": 100000.0,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "03b6236d102ffca5",
   "title": "3.4-Oz Salvatore Ferragamo Women's Amo Ferragamo Eau de Parfum Spray $36.20 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
+  "url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ferragamo sale",
@@ -29763,8 +28905,7 @@
   "price": 36.2,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "c630a8039ed02361",
@@ -29785,7 +28926,7 @@
  {
   "id": "4015b0f6ea5dd6b7",
   "title": "FERRAGAMO Urban Men's Watch $247.49 with coupon \"CPFERRA10\" code + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Urban+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29795,13 +28936,12 @@
   "price": 247.49,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b87d3c52f0f27b54",
   "title": "Ferragamo FF Men's Watch - $216 (Silicone Strap) & $279 (Stainless Steel Strap) + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+FF+Men%27s+Watch+-",
+  "url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29811,13 +28951,12 @@
   "price": 216.0,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "65585decf7956b8a",
   "title": "FERRAGAMO Gancini Men's Watch for $219.99 with code \"LUCKY12\" + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Gancini+Men%27s+Watch+for",
+  "url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29827,13 +28966,12 @@
   "price": 219.99,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "3d8e5621a23b4d35",
   "title": "FERRAGAMO Racing Men's Watch extra 10% OFF with CODE LUCKY10 $319.49 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
+  "url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29843,13 +28981,12 @@
   "price": 319.49,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "a13fc15e24d5fdfc",
   "title": "Jomashop Designer Sunglasses Sale: Salavtore Ferragamo Green Square $51, Ray-Ban Clubmaster Classic $77, Oakley Plazma Prizm Grey Sport & More + Free Shipping on Orders $100+",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
+  "url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ferragamo sale",
@@ -29859,13 +28996,12 @@
   "price": 51.0,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "98d58cc9c2855cfd",
   "title": "Salvatore Ferragamo Double-Bridge Aviator - $62 - $370",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
+  "url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29875,13 +29011,12 @@
   "price": 62.0,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b29da18163a0b811",
   "title": "Salvatore Ferragamo Gancini Bit Leather Driver Moccasins - $225 - $225",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
+  "url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29891,8 +29026,7 @@
   "price": 225.0,
   "found_at": "2026-11-02T14:27:58Z",
   "source_url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "aa0b72c9f6de0e0f",
@@ -30428,9 +29562,9 @@
   "pct": null,
   "price": 169.97,
   "found_at": "2026-11-02T14:36:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19766439-tom-ford-55mm-rectangular-sunglasses-169-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "b301926f0754fc65",
@@ -30476,9 +29610,9 @@
   "pct": null,
   "price": 129.99,
   "found_at": "2026-11-02T14:36:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9074b27e7753badd",
@@ -30492,9 +29626,9 @@
   "pct": null,
   "price": 99.99,
   "found_at": "2026-11-02T14:36:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "e14c6cc11a0887a7",
@@ -30508,9 +29642,9 @@
   "pct": null,
   "price": 139.99,
   "found_at": "2026-11-02T14:36:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18954397-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-139-99-woot-com-free-shipping-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f9c558e587be07c0",
@@ -30524,9 +29658,9 @@
   "pct": null,
   "price": 112.0,
   "found_at": "2026-11-02T14:36:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18931168-3-4-oz-tom-ford-ombre-leather-men-s-eau-de-parfum-112-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5c6077063d7b3fc3",
@@ -30556,9 +29690,9 @@
   "pct": 55,
   "price": 258.75,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19342647-canada-goose-kid-s-crofton-striped-logo-quilted-jacket-size-2-7-258-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "42c9881326aeabb9",
@@ -30572,9 +29706,9 @@
   "pct": null,
   "price": 500.0,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18347692-amex-offers-canada-goose-spend-500-to-earn-10k-points-exp-6-30-25-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "71db0ee9013e44a9",
@@ -30620,9 +29754,9 @@
   "pct": 53,
   "price": 640.0,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17371548-canada-goose-women-s-parkas-45-53-off-640?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "eceee07013072d7b",
@@ -30636,9 +29770,9 @@
   "pct": null,
   "price": 300.0,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17360097-canada-goose-women-s-ellison-packable-quilted-jacket-black-300-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "368569888e231ebb",
@@ -30652,9 +29786,9 @@
   "pct": null,
   "price": 500.0,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17128939-canada-goose-spend-500-get-10-000-mr-points-select-amex-cardholders?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "32a49a228b87928c",
@@ -30668,9 +29802,9 @@
   "pct": null,
   "price": 678.0,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16462591-canada-goose-parka-sale-men-and-women-arctic-tech-or-classic-fit-parkas-more-678-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f86947db85240fac",
@@ -30684,9 +29818,9 @@
   "pct": 15,
   "price": 4.25,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16325515-16-multipet-canada-goose-migrator-bird-plush-dog-toy-gray-4-25-w-s-s-free-s-h-w-prime-or-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f03963329bfd4f9f",
@@ -30700,9 +29834,9 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7095797b44cd5223",
@@ -30716,9 +29850,9 @@
   "pct": 20,
   "price": null,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15442483-alpine-shop-vermont-20-off-works-on-canada-goose-the-north-face-and-patagonia?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "005891e27ae15970",
@@ -30732,9 +29866,9 @@
   "pct": 20,
   "price": null,
   "found_at": "2026-11-02T14:36:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14611294-saks-fifth-ave-select-canada-goose-men-sand-women-s-jackets-20-off-regular-price-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "552a866cd1414ac0",
@@ -30748,9 +29882,9 @@
   "pct": 15,
   "price": 489.0,
   "found_at": "2026-11-02T14:36:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16325941-golden-goose-superstar-glitter-trim-leather-sneakers-on-sale-489?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1e93cceca44fa19c",
@@ -30764,9 +29898,9 @@
   "pct": null,
   "price": 739.0,
   "found_at": "2026-11-02T14:36:53Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdU9zUWpIdmthQ2NudEh6Ri1YZGhKWHYtSTZDUGRpZmp3ejUyRGJFeDI5TlVNN2Z5cEg4T2hrbWpqeXNCbkd5MXlOUWRvWHVlN0t2Q1ozQXFWLTRuYmRIc2FOWjdGaEdSSFA3VEtBeEtBRkhsR0tqLXZIc3gyMEJxbzFDM21fRnF2aG9sRkFMRkdIRGRXZU1OZ29xOFpIZ3QtNWZJOA?oc=5",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2bd3506838ffd4de",
@@ -30780,9 +29914,9 @@
   "pct": null,
   "price": 1.03,
   "found_at": "2026-11-02T14:36:53Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0oxWGdMa3p0QWVOalFYN3hkWUlZOFA0MXZkaWF4dkFlSjRUbnRHR3ptd1NjRmNLdlZtc082ZGlrbjFpb2J6UUxsSzJub1Y3VkctaGEzTktYMmllZVE5cUVFLTUwdC1UbGN6NktZbWpxd0x2bVFCM0UzMWVXV3FweEd0YjhuWU53SmlWenB3S18zNEJoNFhxR040VEotYzR0bkZlTG10a1BjZkZydHBfUWN4NGxOVUV5ZDhSNzI4QUd1dw?oc=5",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "017d8ab365a4085a",
@@ -30796,9 +29930,9 @@
   "pct": 68,
   "price": 1147.47,
   "found_at": "2026-11-02T14:36:55Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17038360-68-off-loro-piana-maglia-inglese-cashmere-beanie-1147-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9713e2838f80558f",
@@ -30872,9 +30006,9 @@
   "pct": null,
   "price": 596.95,
   "found_at": "2026-11-02T14:42:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20184300-nikon-z30-mirrorless-camera-w-16-50mm-f-3-5-6-3-lens-basic-bundle-596-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "707d507ee473d467",
@@ -30888,9 +30022,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T14:42:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20181306-nikon-fall-savings-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f287ab064ea9f775",
@@ -30937,7 +30071,7 @@
  {
   "id": "c1731546d66a4073",
   "title": "Christian Louboutin Women's Fifi 100 Pumps (various) $375 & More + Free Shipping",
-  "url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30945,12 +30079,15 @@
   "hot": false,
   "pct": 40,
   "price": 375.0,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "3b09a10dad338139",
   "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
-  "url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30958,12 +30095,15 @@
   "hot": false,
   "pct": 40,
   "price": null,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "d92e4bb554b19a86",
   "title": "Christian Louboutin Palais Royal Peep Toe Platform Pumps (various colors) $450 & More + Free S/H",
-  "url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30971,12 +30111,15 @@
   "hot": false,
   "pct": 52,
   "price": 450.0,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "dcb15ec738a4e6e9",
   "title": "Christian Louboutin Fifi pumps (various) - $359.99 (AC)",
-  "url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30984,12 +30127,15 @@
   "hot": false,
   "pct": 10,
   "price": 359.99,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "e69c9d1888824553",
   "title": "Christian Louboutin Pumps Leather Fifi Pumps (Pink) $345 + Free S/H",
-  "url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30997,12 +30143,15 @@
   "hot": false,
   "pct": 10,
   "price": 345.0,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "d20ef466dd6fb8e9",
   "title": "Christian Louboutin Pumps: Leather Fifi Pumps $360, Leather Pigalle Pumps $387 + free shipping",
-  "url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -31010,12 +30159,15 @@
   "hot": false,
   "pct": 10,
   "price": 360.0,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "01bb67bf95794c00",
   "title": "Christian Louboutin Fifi Leather Pumps (Various) $385 + Free Shipping",
-  "url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -31023,12 +30175,15 @@
   "hot": false,
   "pct": null,
   "price": 385.0,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "06bc1cdb25bf3453",
   "title": "Christian Louboutins on sale again 👠 👠 $395",
-  "url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutins+on+again",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -31036,12 +30191,15 @@
   "hot": false,
   "pct": null,
   "price": 395.0,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "3a54c04ab5c156f6",
   "title": "Century 21 Christian Louboutin Palais Peep Toe Platform Pumps $449.99, Pigalle Pointed Toe Pumps $429.99 & More+ Free S/H",
-  "url": "https://slickdeals.net/e/12300319-century-21-christian-louboutin-palais-peep-toe-platform-pumps-449-99-pigalle-pointed-toe-pumps-429-99-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -31049,12 +30207,15 @@
   "hot": false,
   "pct": null,
   "price": 449.99,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12300319-century-21-christian-louboutin-palais-peep-toe-platform-pumps-449-99-pigalle-pointed-toe-pumps-429-99-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0237ab11b41a4676",
   "title": "Century 21 Christian Louboutin Palais Peep Toe Platform Pumps $429.99 (various colors) & More+ Free S/H",
-  "url": "https://slickdeals.net/e/12160363-century-21-christian-louboutin-palais-peep-toe-platform-pumps-429-99-various-colors-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -31062,7 +30223,10 @@
   "hot": false,
   "pct": null,
   "price": 429.99,
-  "found_at": "2026-11-02T14:45:24Z"
+  "found_at": "2026-11-02T14:45:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12160363-century-21-christian-louboutin-palais-peep-toe-platform-pumps-429-99-various-colors-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "df36a46bfa8ecbb9",
@@ -31075,12 +30239,13 @@
   "hot": false,
   "pct": null,
   "price": 57.59,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "cd7b2f2d068e7a3a",
   "title": "8.4-Oz Versace Eros Men's Shower Gel $27.38 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31088,7 +30253,10 @@
   "hot": false,
   "pct": null,
   "price": 27.38,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "5180610032d1efc7",
@@ -31101,7 +30269,8 @@
   "hot": false,
   "pct": null,
   "price": 72.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "6096ffb0a5f5c9c3",
@@ -31114,7 +30283,8 @@
   "hot": false,
   "pct": null,
   "price": 59.51,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "9d35070c7731622d",
@@ -31127,7 +30297,8 @@
   "hot": false,
   "pct": null,
   "price": 60.33,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "6f7e87c795ee03a6",
@@ -31140,12 +30311,13 @@
   "hot": false,
   "pct": null,
   "price": 54.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "6b1a06d794da5015",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31153,12 +30325,15 @@
   "hot": false,
   "pct": null,
   "price": 72.85,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "8b827833236ed77b",
   "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
-  "url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31166,12 +30341,15 @@
   "hot": false,
   "pct": null,
   "price": 69.0,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "065802b90c6ea678",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $74.93",
-  "url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31179,12 +30357,15 @@
   "hot": false,
   "pct": null,
   "price": 74.93,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "7775ec090470d5b0",
   "title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
-  "url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31192,7 +30373,10 @@
   "hot": false,
   "pct": null,
   "price": 47.36,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "ca86c9619d808fc7",
@@ -31205,12 +30389,13 @@
   "hot": false,
   "pct": null,
   "price": 108.97,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "64a68267c3ffe1b8",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31218,7 +30403,10 @@
   "hot": false,
   "pct": null,
   "price": 59.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "25e2fdf0d896e8d0",
@@ -31231,7 +30419,8 @@
   "hot": false,
   "pct": null,
   "price": 110.93,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "816f38b6ef6533e4",
@@ -31244,7 +30433,8 @@
   "hot": false,
   "pct": null,
   "price": 57.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "128454a3af92d238",
@@ -31257,7 +30447,8 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "7b7acb2722009a24",
@@ -31270,12 +30461,13 @@
   "hot": false,
   "pct": null,
   "price": 31.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "ad1120f9790d15a0",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
-  "url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31283,12 +30475,15 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "c55d867834b05277",
   "title": "Versace 2-Pc. Bright Crystal Eau de Toilette Summer Set with Tote Bag $108",
-  "url": "https://slickdeals.net/f/19901835-versace-2-pc-bright-crystal-eau-de-toilette-summer-set-with-tote-bag-108?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.macys.com/shop/featured/Versace%202-Pc.%20Bright%20Crystal%20Eau%20de%20Toilette%20Summer%20Set%20with%20Tote%20Bag",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31296,12 +30491,15 @@
   "hot": false,
   "pct": 39,
   "price": 108.0,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19901835-versace-2-pc-bright-crystal-eau-de-toilette-summer-set-with-tote-bag-108?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys"
  },
  {
   "id": "0bfe2f3c5149b816",
   "title": "Versace Man Eau Fraiche/Versace EDT Spray (Blue) Unboxed 3.3 Oz (M) Blue Bottle $47.99",
-  "url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
   "why": "",
   "category": "fashion",
   "source": "Web search: Versace sale",
@@ -31309,7 +30507,10 @@
   "hot": false,
   "pct": null,
   "price": 47.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0bd57abc7605d976",
@@ -31322,7 +30523,8 @@
   "hot": false,
   "pct": null,
   "price": 31.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "c0a79039734f5777",
@@ -31335,12 +30537,13 @@
   "hot": false,
   "pct": null,
   "price": 42.39,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true
  },
  {
   "id": "2d67a05ff7994220",
   "title": "Costco Members: 6.7oz Versace Pour Homme EDT $59.99",
-  "url": "https://slickdeals.net/f/19842681-costco-members-6-7oz-versace-pour-homme-edt-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+6.7oz+Versace+Pour+Homme+EDT",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -31348,12 +30551,15 @@
   "hot": false,
   "pct": null,
   "price": 59.99,
-  "found_at": "2026-11-02T14:45:26Z"
+  "found_at": "2026-11-02T14:45:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19842681-costco-members-6-7oz-versace-pour-homme-edt-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
  },
  {
   "id": "086c925615199da9",
   "title": "VERSACE Medusa Stud Icon Gold Dial Ladies Watches - $299.99 + Free Shipping",
-  "url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
   "why": "",
   "category": "watches",
   "source": "Web search: Versace price drop",
@@ -31361,12 +30567,15 @@
   "hot": false,
   "pct": null,
   "price": 299.99,
-  "found_at": "2026-11-02T14:45:27Z"
+  "found_at": "2026-11-02T14:45:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "36b588ec9adb0d55",
   "title": "Fendi Baby Blanket $386.40 w/Free Shipping at Saks Fifth Avenue",
-  "url": "https://slickdeals.net/f/16570106-fendi-baby-blanket-386-40-w-free-shipping-at-saks-fifth-avenue?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Fendi+Baby+Blanket",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31374,12 +30583,15 @@
   "hot": false,
   "pct": null,
   "price": 386.4,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16570106-fendi-baby-blanket-386-40-w-free-shipping-at-saks-fifth-avenue?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0312b9d32fec7c75",
   "title": "Fendi Women's Eyeglasses (Frame Only) F664 618 Burgundy 53 14 140 $14.50 + Free Shipping",
-  "url": "https://slickdeals.net/f/15888064-fendi-women-s-eyeglasses-frame-only-f664-618-burgundy-53-14-140-14-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Women%27s+Eyeglasses+F664+618+Burgundy+53+14+140",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31387,12 +30599,15 @@
   "hot": false,
   "pct": null,
   "price": 14.5,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15888064-fendi-women-s-eyeglasses-frame-only-f664-618-burgundy-53-14-140-14-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "53ad38e623bb2720",
   "title": "Jomashop Summer Sunglasses - Ray-Ban, Fendi, Oakley, Costa Del Mar from $67.19 +Free Shipping",
-  "url": "https://slickdeals.net/f/15873880-jomashop-summer-sunglasses-ray-ban-fendi-oakley-costa-del-mar-from-67-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Summer+Sunglasses+-+Ray-Ban+Fendi+Oakley+Costa+Del+Mar+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31400,12 +30615,15 @@
   "hot": false,
   "pct": null,
   "price": 67.19,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15873880-jomashop-summer-sunglasses-ray-ban-fendi-oakley-costa-del-mar-from-67-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "fad6f4380269e2be",
   "title": "Fendi Womens Embellished Leather Trim Turnlock Peekaboo Satchel Handbag Black | eBay $3000",
-  "url": "https://slickdeals.net/f/15690799-fendi-womens-embellished-leather-trim-turnlock-peekaboo-satchel-handbag-black-ebay-3000?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Fendi+Womens+Embellished+Leather+Trim+Turnlock+Peekaboo+Satchel+Handbag+Black+eB",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31413,12 +30631,15 @@
   "hot": false,
   "pct": 10,
   "price": 3000.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15690799-fendi-womens-embellished-leather-trim-turnlock-peekaboo-satchel-handbag-black-ebay-3000?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "195339d432a2c3f8",
   "title": "Extra 50% Off Sunglasses (various styles): Costa from $59, Ray-Ban from $61, Gucci from $118, Fendi from $75.5",
-  "url": "https://slickdeals.net/f/15686962-extra-50-off-sunglasses-various-styles-costa-from-59-ray-ban-from-61-gucci-from-118-fendi-from-75-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Extra+50+Off+Sunglasses+Costa+from",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Fendi sale",
@@ -31426,12 +30647,15 @@
   "hot": false,
   "pct": 50,
   "price": 59.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15686962-extra-50-off-sunglasses-various-styles-costa-from-59-ray-ban-from-61-gucci-from-118-fendi-from-75-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "c30fcb21d597eafe",
   "title": "FENDI Women's Brown Ochre Round Sunglasses FF $75.50 + $5.99 shipping",
-  "url": "https://slickdeals.net/f/15685954-fendi-women-s-brown-ochre-round-sunglasses-ff-75-50-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Women%27s+Brown+Ochre+Round+Sunglasses+FF",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31439,12 +30663,15 @@
   "hot": false,
   "pct": null,
   "price": 75.5,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15685954-fendi-women-s-brown-ochre-round-sunglasses-ff-75-50-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1e8dd20604e21186",
   "title": "Sunglasses Super Sale: Dior, Fendi, Gucci, Ray-Ban- Extra 50% Off: Starting at $14",
-  "url": "https://slickdeals.net/f/15664330-sunglasses-super-sale-dior-fendi-gucci-ray-ban-extra-50-off-starting-at-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Super+Dior+Fendi+Gucci+Ray-Ban-+Extra+50+Off+Starting+at",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Fendi sale",
@@ -31452,12 +30679,15 @@
   "hot": false,
   "pct": 50,
   "price": 14.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15664330-sunglasses-super-sale-dior-fendi-gucci-ray-ban-extra-50-off-starting-at-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "be68edbf7906a4ea",
   "title": "FENDI Sky Blue Mirror Square Sunglasses FF 0216/S $94.04",
-  "url": "https://slickdeals.net/f/15190891-fendi-sky-blue-mirror-square-sunglasses-ff-0216-s-94-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Sky+Blue+Mirror+Square+Sunglasses+FF+0216+S",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31465,12 +30695,15 @@
   "hot": false,
   "pct": 30,
   "price": 94.04,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15190891-fendi-sky-blue-mirror-square-sunglasses-ff-0216-s-94-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "f0ed8f1e5d04d474",
   "title": "Woot! Eyewear & Sunglasses Sale on Brand Names: Ray-Ban, Oakley, Tiffany, Nike, Gucci, Fendi and more. $32 - $115 + FS with PRIME",
-  "url": "https://slickdeals.net/f/14962061-woot-eyewear-sunglasses-sale-on-brand-names-ray-ban-oakley-tiffany-nike-gucci-fendi-and-more-32-115-fs-with-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Eyewear+%26+Sunglasses+on+Brand+Names+Ray-Ban+Oakley+Tiffany+Nike+Gucci+Fendi",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31478,12 +30711,15 @@
   "hot": false,
   "pct": null,
   "price": 32.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/14962061-woot-eyewear-sunglasses-sale-on-brand-names-ray-ban-oakley-tiffany-nike-gucci-fendi-and-more-32-115-fs-with-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0fc021baea1bfbfb",
   "title": "Fendi Geometric Rimless Aviator Sunglasses (Gold) $89 + Free Shipping",
-  "url": "https://slickdeals.net/e/14954456-fendi-geometric-rimless-aviator-sunglasses-gold-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Geometric+Rimless+Aviator+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31491,12 +30727,15 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14954456-fendi-geometric-rimless-aviator-sunglasses-gold-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "6f7169dba762984c",
   "title": "FENDIBrown Gradient Square Sunglasses with Turquoise Studs FF 0260/S 3H2/53 52 for $74.99 Shipped",
-  "url": "https://slickdeals.net/f/14948321-fendibrown-gradient-square-sunglasses-with-turquoise-studs-ff-0260-s-3h2-53-52-for-74-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FENDIBrown+Gradient+Square+Sunglasses+with+Turquoise+Studs+FF+0260+S+3H2+53+52+f",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31504,12 +30743,15 @@
   "hot": false,
   "pct": null,
   "price": 74.99,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/14948321-fendibrown-gradient-square-sunglasses-with-turquoise-studs-ff-0260-s-3h2-53-52-for-74-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "ea703a10fcd5f907",
   "title": "Designer Sunglasses Sale: Ray-Ban Arista Green Square Sunglasses $48, Dior Pink Aviator Ladies Sunglasses $70, Gucci, Fendi, Oakley, Salvatore Ferragamo, & More",
-  "url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Sunglasses+Ray-Ban+Arista+Green+Square+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31517,12 +30759,15 @@
   "hot": false,
   "pct": 30,
   "price": 48.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "669ac36d3c43d001",
   "title": "FENDI Gray Rose Gold Ladies Sunglasses FF 0382/S 35J 99 - $84.99",
-  "url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Gray+Rose+Gold+Ladies+Sunglasses+FF+0382+S+35J+99+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31530,12 +30775,15 @@
   "hot": false,
   "pct": 83,
   "price": 84.99,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "741d2e8a18f406a6",
   "title": "Fendi Designer Sunglasses (various styles) $60 + Free Shipping",
-  "url": "https://slickdeals.net/e/14734733-fendi-designer-sunglasses-various-styles-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Designer+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31543,12 +30791,15 @@
   "hot": false,
   "pct": null,
   "price": 60.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14734733-fendi-designer-sunglasses-various-styles-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "2a40d423744ea896",
   "title": "Fendi Sunglasses (various styles/colors) from $69 + Free Shipping",
-  "url": "https://slickdeals.net/e/14666480-fendi-sunglasses-various-styles-colors-from-69-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31556,12 +30807,15 @@
   "hot": false,
   "pct": null,
   "price": 69.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14666480-fendi-sunglasses-various-styles-colors-from-69-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "2f64f552801d2a5b",
   "title": "FENDI Pink Gradient Round Sunglasses for $69.99 Shipped",
-  "url": "https://slickdeals.net/e/14652575-fendi-pink-gradient-round-sunglasses-for-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Pink+Gradient+Round+Sunglasses+for",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31569,12 +30823,15 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14652575-fendi-pink-gradient-round-sunglasses-for-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "b6cea7f4e3fa5b38",
   "title": "Fendi Rimless Shield Wrap w/ Mirror Lens Sunglasses $89 + Free Shipping",
-  "url": "https://slickdeals.net/e/14559029-fendi-rimless-shield-wrap-w-mirror-lens-sunglasses-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Rimless+Shield+Wrap+w+Mirror+Lens+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31582,12 +30839,15 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14559029-fendi-rimless-shield-wrap-w-mirror-lens-sunglasses-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "1cd3e42d712bf43e",
   "title": "Men's FENDI SILVER-TONE/AZURE RIMLESS AVIATOR $79",
-  "url": "https://slickdeals.net/e/14507138-men-s-fendi-silver-tone-azure-rimless-aviator-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+FENDI+SILVER-TONE+AZURE+RIMLESS+AVIATOR",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31595,12 +30855,15 @@
   "hot": false,
   "pct": null,
   "price": 79.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14507138-men-s-fendi-silver-tone-azure-rimless-aviator-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "6b55c236eae91816",
   "title": "Designer Eyewear Flash Sale: Dior, Fendi, Armani - Up To 80% Off: Starting At $19",
-  "url": "https://slickdeals.net/e/14459456-designer-eyewear-flash-sale-dior-fendi-armani-up-to-80-off-starting-at-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Eyewear+Flash+Dior+Fendi+Armani+-+Up+To+80+Off+Starting+At",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Fendi sale",
@@ -31608,12 +30871,15 @@
   "hot": false,
   "pct": 80,
   "price": 19.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14459456-designer-eyewear-flash-sale-dior-fendi-armani-up-to-80-off-starting-at-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "784b945e49f62e6a",
   "title": "Fendi Brown Gradient Square Sunglasses with Turquoise Studs - $69.99 Shipped",
-  "url": "https://slickdeals.net/e/14458217-fendi-brown-gradient-square-sunglasses-with-turquoise-studs-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Brown+Gradient+Square+Sunglasses+with+Turquoise+Studs+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31621,12 +30887,15 @@
   "hot": false,
   "pct": null,
   "price": 69.99,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14458217-fendi-brown-gradient-square-sunglasses-with-turquoise-studs-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "c8349ddd9eb1ec8a",
   "title": "Fendi Karligraphy Rimless Butterfly Shield Sunglasses (Red Opal Peach or Beige Violet) $99 + Free Shipping",
-  "url": "https://slickdeals.net/e/14386052-fendi-karligraphy-rimless-butterfly-shield-sunglasses-red-opal-peach-or-beige-violet-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Karligraphy+Rimless+Butterfly+Shield+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -31634,12 +30903,15 @@
   "hot": false,
   "pct": null,
   "price": 99.0,
-  "found_at": "2026-11-02T14:45:28Z"
+  "found_at": "2026-11-02T14:45:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14386052-fendi-karligraphy-rimless-butterfly-shield-sunglasses-red-opal-peach-or-beige-violet-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "f2801f55e46bf54f",
   "title": "Fendi Womens Pink Grey Mirrored Sunglasses For $74.99 AC @eBay (+ many more Mens and Womens styles)",
-  "url": "https://slickdeals.net/e/11723963-fendi-womens-pink-grey-mirrored-sunglasses-for-74-99-ac-ebay-many-more-mens-and-womens-styles?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Fendi+Womens+Pink+Grey+Mirrored+Sunglasses+For",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi price drop",
@@ -31647,12 +30919,15 @@
   "hot": false,
   "pct": null,
   "price": 74.99,
-  "found_at": "2026-11-02T14:45:29Z"
+  "found_at": "2026-11-02T14:45:29Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/11723963-fendi-womens-pink-grey-mirrored-sunglasses-for-74-99-ac-ebay-many-more-mens-and-womens-styles?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "d459ad4a8451bac4",
   "title": "3.3 fl. oz. Givenchy Pi Men's Eau De Toilette Spray $33 + Free S&H on $69+",
-  "url": "https://slickdeals.net/f/19808352-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-free-s-h-on-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Givenchy sale",
@@ -31660,12 +30935,15 @@
   "hot": false,
   "pct": null,
   "price": 33.0,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19808352-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-free-s-h-on-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "881b203e91bfc9d2",
   "title": "Givenchy Gentleman Reserve Privee by Givenchy for Men - 3.3 oz EDP Spray $67.49",
-  "url": "https://slickdeals.net/f/19481430-givenchy-gentleman-reserve-privee-by-givenchy-for-men-3-3-oz-edp-spray-67-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Givenchy+Gentleman+Reserve+Privee+by+Givenchy+for+Men+-+3.3+oz+EDP+Spray",
   "why": "",
   "category": "fashion",
   "source": "Web search: Givenchy sale",
@@ -31673,12 +30951,15 @@
   "hot": false,
   "pct": null,
   "price": 67.49,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19481430-givenchy-gentleman-reserve-privee-by-givenchy-for-men-3-3-oz-edp-spray-67-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "0f173282a4985b75",
   "title": "Givenchy GENTLEMAN BOISEE Eau De Parfum Spray for Men, 6.7 Ounce $106.75",
-  "url": "https://slickdeals.net/f/19401198-givenchy-gentleman-boisee-eau-de-parfum-spray-for-men-6-7-ounce-106-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Givenchy+GENTLEMAN+BOISEE+Eau+De+Parfum+Spray+for+Men+6.7+Ounce",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Givenchy sale",
@@ -31686,12 +30967,15 @@
   "hot": false,
   "pct": null,
   "price": 106.75,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19401198-givenchy-gentleman-boisee-eau-de-parfum-spray-for-men-6-7-ounce-106-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  },
  {
   "id": "3c865ce2006277a9",
   "title": "Macy's: Givenchy Gold/Silver Tone Crystal Stone Bracelet $29 + Free pickup",
-  "url": "https://slickdeals.net/f/19170586-macy-s-givenchy-gold-silver-tone-crystal-stone-bracelet-29-free-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.macys.com/shop/featured/Macy%27s%20Givenchy%20Gold%20Silver%20Tone%20Crystal%20Stone%20Bracelet",
   "why": "",
   "category": "fashion",
   "source": "Web search: Givenchy sale",
@@ -31699,7 +30983,10 @@
   "hot": false,
   "pct": 50,
   "price": 29.0,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19170586-macy-s-givenchy-gold-silver-tone-crystal-stone-bracelet-29-free-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys"
  },
  {
   "id": "5a066a5048b5baa0",
@@ -31712,12 +30999,13 @@
   "hot": false,
   "pct": 39,
   "price": 79.95,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true
  },
  {
   "id": "7400a1d02ac48111",
   "title": "Givenchy Men's Gentleman Boisee Eau de Parfum Spray, 6.7 oz. $131",
-  "url": "https://slickdeals.net/f/18905461-givenchy-men-s-gentleman-boisee-eau-de-parfum-spray-6-7-oz-131?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Givenchy+Men%27s+Gentleman+Boisee+Eau+de+Parfum+Spray+6.7+oz.",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Givenchy sale",
@@ -31725,12 +31013,15 @@
   "hot": false,
   "pct": null,
   "price": 131.0,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18905461-givenchy-men-s-gentleman-boisee-eau-de-parfum-spray-6-7-oz-131?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "24fd0e6a503a28fc",
   "title": "Givenchy Men's Gentleman Reserve Privee Eau de Parfum Spray, 6.7 oz. + Free Shipping $131",
-  "url": "https://slickdeals.net/f/18888286-givenchy-men-s-gentleman-reserve-privee-eau-de-parfum-spray-6-7-oz-free-shipping-131?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Givenchy+Men%27s+Gentleman+Reserve+Privee+Eau+de+Parfum+Spray+6.7+oz.+%2B",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Givenchy sale",
@@ -31738,12 +31029,15 @@
   "hot": false,
   "pct": null,
   "price": 131.0,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18888286-givenchy-men-s-gentleman-reserve-privee-eau-de-parfum-spray-6-7-oz-free-shipping-131?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "8703f9777fe6c807",
   "title": "Amarige/Givenchy EDT Spray No Cap Tester 3.3 Oz (W) $49.99",
-  "url": "https://slickdeals.net/f/18625768-amarige-givenchy-edt-spray-no-cap-tester-3-3-oz-w-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Amarige+Givenchy+EDT+Spray+No+Cap+Tester+3.3+Oz",
   "why": "",
   "category": "fashion",
   "source": "Web search: Givenchy sale",
@@ -31751,12 +31045,15 @@
   "hot": false,
   "pct": null,
   "price": 49.99,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18625768-amarige-givenchy-edt-spray-no-cap-tester-3-3-oz-w-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "48858c9fad737105",
   "title": "Givenchy GENTLEMAN BOISEE Eau De Parfum Spray for Men, 2.0 Ounce $32.41",
-  "url": "https://slickdeals.net/f/17262049-givenchy-gentleman-boisee-eau-de-parfum-spray-for-men-2-0-ounce-32-41?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Givenchy+GENTLEMAN+BOISEE+Eau+De+Parfum+Spray+for+Men+2.0+Ounce",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Givenchy sale",
@@ -31764,12 +31061,15 @@
   "hot": false,
   "pct": null,
   "price": 32.41,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17262049-givenchy-gentleman-boisee-eau-de-parfum-spray-for-men-2-0-ounce-32-41?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "e3486f9dc7492678",
   "title": "Givenchy Men's or Women's Sunglasses: 60mm Gradient Sunglasses $67.47, 56mm Cat Eye Sunglasses $67.47 & More + Free Shipping on $89+",
-  "url": "https://slickdeals.net/f/16894804-givenchy-men-s-or-women-s-sunglasses-60mm-gradient-sunglasses-67-47-56mm-cat-eye-sunglasses-67-47-more-free-shipping-on-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Givenchy+Men%27s+or+Women%27s+Sunglasses+60mm+Gradient+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Givenchy sale",
@@ -31777,7 +31077,10 @@
   "hot": false,
   "pct": 25,
   "price": 67.47,
-  "found_at": "2026-11-02T14:45:30Z"
+  "found_at": "2026-11-02T14:45:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16894804-givenchy-men-s-or-women-s-sunglasses-60mm-gradient-sunglasses-67-47-56mm-cat-eye-sunglasses-67-47-more-free-shipping-on-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "303059b38a65e2ef",
@@ -31790,12 +31093,13 @@
   "hot": false,
   "pct": null,
   "price": 103.08,
-  "found_at": "2026-11-02T14:45:32Z"
+  "found_at": "2026-11-02T14:45:32Z",
+  "link_tried3": true
  },
  {
   "id": "cbc85877bec86c27",
   "title": "Neiman Marcus: 70% Off Select Beauty Styles (Include Estee Lauder, Dior, Bobbi Brown, Kiehls, Lancome)",
-  "url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+70+Off+Select+Beauty+Styles",
   "why": "",
   "category": "fashion",
   "source": "Web search: Dior sale",
@@ -31803,6 +31107,695 @@
   "hot": false,
   "pct": 70,
   "price": null,
-  "found_at": "2026-11-02T14:45:32Z"
+  "found_at": "2026-11-02T14:45:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "bb6bf157061e31d2",
+  "title": "LG - 65\" Class C5 Series OLED evo AI 4K UHD Smart webOS TV (2025) Open Box From $738",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+65+Class+C5+Series+OLED+evo+AI+4K+UHD+Smart+webOS+TV+Open+Box+From",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 738.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243076-lg-65-class-c5-series-oled-evo-ai-4k-uhd-smart-webos-tv-2025-open-box-from-738?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Bestbuy"
+ },
+ {
+  "id": "e1fd98d4249ccbf2",
+  "title": "Mercedes-Benz, The SL story, T...racing and coach-built version - down 3.15% ($1.49) to $45.79 from $47.28",
+  "url": "https://www.amazon.com/dp/B09FCCCBCB",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1.49,
+  "found_at": "2026-11-02T14:50:56Z",
+  "source_url": "https://camelcamelcamel.com/product/B09FCCCBCB"
+ },
+ {
+  "id": "1a36de01fe95492c",
+  "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "7e9790c6b7cc7730",
+  "title": "Deals: Week 1 early Black Friday Doorbusters, AirTag 2 $17 ea, HomeView, Apple Watch Ultra 4, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 17.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/30/deals-black-friday-doorbusters-airtag-2-homeview-ultra-4/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "33cafbe9900ed617",
+  "title": "Deals: M6 and PROLED MacBook Touch pre-order offers, OLED iPad mini, M6 Mac mini, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Ipad — all-time low",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/29/m6-proled-macbook-pre-order-deals-oled-ipad-mini/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "d2de1c86f9e1606e",
+  "title": "Deals: AirPods Pro 3, Apple’s iPhone Duo charger, MacBook Air $200 off, Beats 360 first discount, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "80% off",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 80,
+  "price": 200.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/28/deals-airpods-iphone-duo-charger-macbook-beats-360/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "d7a4f7b3fe9c93f0",
+  "title": "Deals: AirPods Pro 3 20% off, Apple Pencil (USB-C), most affordable M5 MacBook Air $200 off, AirTag 2, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch 20% off",
+  "category": "watches",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 20,
+  "price": 200.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/27/deals-airpods-apple-pencil-usb-c-macbook-air-airtag-2/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "4e58920050a7c8a2",
+  "title": "Deals: AirTag 2 all-time low, Apple TV 4K, MacBook Air $200 off, Apple Pencil (USB-C) from $59, Alpine Loop, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Iphone — all-time low",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 42,
+  "price": 200.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/26/deals-airtag-2-apple-tv-4k-macbook-air-apple-pencil/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "a7dabc69e5bc3a65",
+  "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Iphone — all-time low",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 900.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "6524bbcd19f5916c",
+  "title": "Deals: iPhone Duo cases, Apple Pencil, AirPods Pro 3, Apple TV 4K, power banks, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/23/deals-duo-cases-apple-pencil-airpods-apple-tv-4k/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "09839df42269259e",
+  "title": "Deals: Apple TV 4K, iPhone Duo power bank, AirPods Pro 3, M6 Mac mini, Magic Keyboard, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Iphone — all-time low",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/21/deals-apple-tv-4k-iphone-duo-power-bank-airpods-pro-3/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "44d99b3dfc2772ae",
+  "title": "Deals: Apple TV 4K, AirPods Pro 3, MacBook Air, MagSafe chargers, Duo cases, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Macbook — 35% off",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 35,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/20/deals-apple-tv-4k-airpods-pro-3-macbook-air-duo-cases/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "9a5b50c5b1b33eb5",
+  "title": "Deals: Apple TV 4K, AirPods Pro 3, leather iPhone Duo cases, M6 Mac mini, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/19/deals-apple-tv-4k-airpods-pro-3-leather-iphone-duo-case/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "b9e0f9494869d7fd",
+  "title": "Deals: Apple HomeView pre-order discount, AirTag 2, Magic Keyboard, AirPods, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Iphone — all-time low",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/14/apple-homeview-pre-order-deals-live/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "74d8ed50915ec968",
+  "title": "Deals: M5 Pro MacBook Pro $600 off, Mac mini, AirPods Pro 3, Apple Watch clearance deals $199 off, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 600.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/13/deals-m5-pro-macbook-pro-mac-mini-airpods-pro-3/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "5d4c68af3b125400",
+  "title": "Apple weekend deals: AirPods, up to $200 off new Macs, Apple Watch, more from $41",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 200.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/10/apple-weekend-deals-mac-mini/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "7a17c5443a07a7e6",
+  "title": "Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch 25% off",
+  "category": "watches",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 25,
+  "price": 120.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "b86d3afd3d76f6ae",
+  "title": "Deals: AirPods Pro 3/Max 2, all-time lows on M6 Mac mini, Apple Watch Series 12, 18 Pro cases, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/08/deals-airpods-m6-mac-mini-apple-watch-series-12/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "6fcba512a8264dfb",
+  "title": "All of the best fall Prime Day deals: AirPods, Mac mini, MacBook, chargers, cases, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "watches",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/07/best-fall-prime-day-apple-deals-live/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "aa0bb7c8860407d0",
+  "title": "Last chance: Apple’s flagship AirPods now up to $120 off for Prime Day",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": false,
+  "pct": 28,
+  "price": 120.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/07/apples-flagship-airpods-now-up-to-120-off-for-prime-day/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "37023372cd449568",
+  "title": "Prime Day 2 deals – Last chance: Mac mini, AirPods, Apple Watch Series 12, Nomad Find My card, AirTag mounts, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/07/prime-day-deals-mac-mini-airpods-apple-watch-find-my/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "a634b023fce6fea1",
+  "title": "Official Prime Day Apple accessory deals elevate your iPhone and Mac setup from $24",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch 30% off",
+  "category": "watches",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 30,
+  "price": 24.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/07/official-prime-day-apple-accessory-deals-elevate-your-iphone-and-mac-setup-from-24/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "e7f01f856d6e1357",
+  "title": "Prime Day 1 deals: AirPods Pro 3, Max 2 $120 off, M6 Mac mini $150 off, MacBook Air $200 off, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "watches",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 120.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/06/prime-day-deals-airpods-pro-3-m6-mac-mini-macbook-air/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "440caad4bc38a719",
+  "title": "Prime Day Apple Watch deals: Series 12 all-time low, Ultra 4 $100 off, ceramic, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/06/prime-day-apple-watch-deals-series-12-all-time-low-ultra-4-100-off-ceramic-more/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "02f443d07a7aa74a",
+  "title": "Deals: AirPods Pro 3, AirPods Max 2 $120 off, M6 Mac mini $150 off, Series 12, Ultra 4, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch deal",
+  "category": "watches",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 120.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/05/deals-airpods-pro-3-airpods-max-2-mac-mini-series-12/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "dcc009cfa7b4f171",
+  "title": "Apple weekend deals: AirPods Pro 3 $179, MacBook Air $200 off, AirTag 2, Prime Day HomeKit discounts, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "80% off",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 80,
+  "price": 179.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/04/apple-weekend-deals-macbook-discounts/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "aea44f7a67dbc196",
+  "title": "AirPods Pro 3 hit low $179 price just weeks after adding new features",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 179.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/04/airpods-pro-3-prime-day-deal/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "287d4e11218a239f",
+  "title": "Deals: M5 MacBook Air, MacBook Pro, AirTag 2, smart display power bank, early Prime Day deals, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Macbook — all-time low",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/02/deals-m5-macbook-air-pro-airtag-2-iphone-18-cases/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "8f1f340ff3444b28",
+  "title": "Deals: AirTag 2, Studio Display up to $300 off, MacBook Pro, Belkin 25W MagSafe charger lows, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Macbook — all-time low",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 38,
+  "price": 300.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/10/01/deals-airtag-2-studio-display-macbook-magsafe-chargers/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "1a2891c3d85328f7",
+  "title": "Deals: iPhone 17 Pro Max, MacBook Pro, HomeKit Prime Day discounts, Apple Watch bands from $7, more",
+  "url": "https://www.linkedin.com/company/9to5mac.com",
+  "why": "Apple Watch 40% off",
+  "category": "tech",
+  "source": "9to5Mac deals",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": 7.0,
+  "found_at": "2026-11-02T14:50:56Z",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/09/30/deals-iphone-17-pro-max-macbook-pro-prime-day-bands/",
+  "store": "Linkedin"
+ },
+ {
+  "id": "b3831e98cafa48f5",
+  "title": "Hermes Un Jardin sur le Nil Eau de Toilette, 3.3 fl oz $84.99 free shipping Costco.com",
+  "url": "https://slickdeals.net/f/20243925-hermes-un-jardin-sur-le-nil-eau-de-toilette-3-3-fl-oz-84-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 84.99,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "fcb7e8ff0280a27e",
+  "title": "[AC] $64.97 | Terre D'Hermes by Hermes for Men 3.3 oz Eau de Parfum Intense Refillable Spray at Amazon",
+  "url": "https://slickdeals.net/f/20137164-ac-64-97-terre-d-hermes-by-hermes-for-men-3-3-oz-eau-de-parfum-intense-refillable-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 64.97,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "274ed5244a7c2ae8",
+  "title": "20% Off Hermes New / Pre-owned Handbags Deals at eBay",
+  "url": "https://slickdeals.net/f/20130552-20-off-hermes-new-pre-owned-handbags-deals-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "b46124d1d204e6b2",
+  "title": "$73.52 | Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce at Amazon",
+  "url": "https://slickdeals.net/f/20012523-73-52-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 73.52,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "4aee8dd82d1ca186",
+  "title": "$61.37* | 3.3oz HERMES Le Jardin De Monsieur Li for Unisex Eau de Toilette Spray at Amazon",
+  "url": "https://slickdeals.net/f/19974039-61-37-3-3oz-hermes-le-jardin-de-monsieur-li-for-unisex-eau-de-toilette-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 61.37,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "b36eb719c1dd0591",
+  "title": "Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce $77.12",
+  "url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 77.12,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "7202089894b4dcd8",
+  "title": "Hermes Terre D'Hermes Eau de Toilette, 3.3 fl oz $69.99 Free Shipping Costco.com",
+  "url": "https://slickdeals.net/f/19756947-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "0a95b06eb24b78a2",
+  "title": "Hermes Terre D'Hermes Eau de Toilette, 3.3 fl oz $89.99",
+  "url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Hermes sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.99,
+  "found_at": "2026-11-02T14:54:21Z"
+ },
+ {
+  "id": "44bb6218c31b3c7f",
+  "title": "Celine Dion \"These Are Special Times\" (2LP Pearly White Vinyl) $34.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20079987-celine-dion-these-are-special-times-2lp-pearly-white-vinyl-34-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.99,
+  "found_at": "2026-11-02T14:54:23Z"
+ },
+ {
+  "id": "a2a59460f6d8112f",
+  "title": "[AC] $27.21 | Celine Dion: Falling Into You (Vinyl w/ AutoRip MP3) at Amazon",
+  "url": "https://slickdeals.net/f/20042031-ac-27-21-celine-dion-falling-into-you-vinyl-w-autorip-mp3-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 27.21,
+  "found_at": "2026-11-02T14:54:23Z"
+ },
+ {
+  "id": "a73baeb0be190225",
+  "title": "Celine Dion \"Falling Into You\" (Vinyl LP + MP3 Album) $27.30 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/19917945-celine-dion-falling-into-you-vinyl-lp-mp3-album-27-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 27.3,
+  "found_at": "2026-11-02T14:54:23Z"
+ },
+ {
+  "id": "092d434ca12500d4",
+  "title": "3-Piece Celine Line High Quality Comforter Set (King/Cal King, Black/Gray) $23.40 + Free Shipping w/ Walmart+ or on $35+",
+  "url": "https://slickdeals.net/f/18560644-3-piece-celine-line-high-quality-comforter-set-king-cal-king-black-gray-23-40-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 23.4,
+  "found_at": "2026-11-02T14:54:23Z"
+ },
+ {
+  "id": "f450d125d6ad996d",
+  "title": "Celine Micro Luggage Handbag | Black Calfskin (Open Box) $1,199 w/ Free Prime Ship $1199",
+  "url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1199.0,
+  "found_at": "2026-11-02T14:54:23Z"
+ },
+ {
+  "id": "a78f4a290a6ed9c5",
+  "title": "Celine Micro Luggage (Black) Made in Italy - $1,999.99 w/ Free Prime Ship Sold by WOOT $1999.99",
+  "url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1999.99,
+  "found_at": "2026-11-02T14:54:23Z"
+ },
+ {
+  "id": "c6daa3e06e63574c",
+  "title": "CELINE Geometric Ladies Sunglasses CL40069U30N61 for $159.99 + FS",
+  "url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 159.99,
+  "found_at": "2026-11-02T14:54:23Z"
+ },
+ {
+  "id": "20a6bf1289cb092e",
+  "title": "Celine 48 Hour Sale - Price Reduced on 100+ Items | Ladies Vertical Celine Cabas Tote $899.99 + Free Shipping",
+  "url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Celine sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 899.99,
+  "found_at": "2026-11-02T14:54:23Z"
  }
 ]
