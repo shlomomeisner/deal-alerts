@@ -91,32 +91,79 @@
   "Frame": {
    "on": true,
    "fails": 0,
-   "checks": []
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:37:01Z",
+   "last_ok": "2026-11-02T20:37:01Z",
+   "items": 43,
+   "sale_items": 43,
+   "seeded": true
   },
   "Noah": {
    "on": true,
    "fails": 0,
-   "checks": []
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:37:03Z",
+   "last_ok": "2026-11-02T20:37:03Z",
+   "items": 31,
+   "sale_items": 15,
+   "seeded": true
   },
   "John Elliott": {
    "on": true,
    "fails": 0,
-   "checks": []
+   "checks": [
+    0
+   ],
+   "read_at": "2026-11-02T20:37:05Z",
+   "last_ok": "2026-11-02T20:37:05Z",
+   "items": 1,
+   "sale_items": 1,
+   "seeded": true
   },
   "Quay": {
    "on": true,
    "fails": 0,
-   "checks": []
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:37:06Z",
+   "last_ok": "2026-11-02T20:37:06Z",
+   "items": 53,
+   "sale_items": 52,
+   "seeded": true
   },
   "MVMT": {
    "on": true,
    "fails": 0,
-   "checks": []
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:37:08Z",
+   "last_ok": "2026-11-02T20:37:08Z",
+   "items": 255,
+   "sale_items": 119,
+   "seeded": true
   },
   "Marine Layer": {
    "on": true,
    "fails": 0,
-   "checks": []
+   "checks": [
+    0,
+    0
+   ],
+   "read_at": "2026-11-02T20:37:10Z",
+   "last_ok": "2026-11-02T20:37:10Z",
+   "items": 42,
+   "sale_items": 11,
+   "seeded": true
   },
   "Psycho Bunny": {
    "on": true,
@@ -181,5 +228,5 @@
    "off_reason": "blocks GitHub's servers (Access Denied on every page)"
   }
  },
- "updated": "2026-11-02T20:27:52Z"
+ "updated": "2026-11-02T20:37:17Z"
 }
