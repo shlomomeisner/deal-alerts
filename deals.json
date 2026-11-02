@@ -23135,7 +23135,8 @@
   "found_at": "2026-11-01T21:39:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T08:55:46Z"
  },
  {
   "id": "1fbb4a94c7751f10",
@@ -23150,7 +23151,8 @@
   "price": 199.0,
   "found_at": "2026-11-01T21:39:42Z",
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T08:55:47Z"
  },
  {
   "id": "41513b3ef3ed3d18",
@@ -23165,7 +23167,8 @@
   "price": 179.99,
   "found_at": "2026-11-01T21:39:42Z",
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T08:55:48Z"
  },
  {
   "id": "8aa733bd6641b404",
@@ -23179,7 +23182,8 @@
   "pct": null,
   "price": 279.0,
   "found_at": "2026-11-01T21:39:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T08:55:50Z"
  },
  {
   "id": "6f13edb6c69b21cf",
@@ -23195,7 +23199,8 @@
   "found_at": "2026-11-01T21:39:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231346-bose-soundlink-plus-portable-bluetooth-speaker-sunset-peach-blue-dusk-179-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T08:55:51Z"
  },
  {
   "id": "35cde0a3d8bdf63c",
@@ -25098,7 +25103,7 @@
  {
   "id": "5c1f32d5fd41be95",
   "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
-  "url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
   "why": "Gucci 40% off",
   "category": "fashion",
   "source": "Slickdeals: Louboutin",
@@ -25108,12 +25113,13 @@
   "price": null,
   "found_at": "2026-11-01T23:43:46Z",
   "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "3f521271dcb2b2eb",
   "title": "Christian Louboutin Palais Royal Peep Toe Platform Pumps (various colors) $450 & More + Free S/H",
-  "url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
   "why": "Louboutin 52% off",
   "category": "fashion",
   "source": "Slickdeals: Louboutin",
@@ -25123,12 +25129,13 @@
   "price": 450.0,
   "found_at": "2026-11-01T23:43:46Z",
   "source_url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "cd62c84cf78011e2",
   "title": "Christian Louboutin Fifi pumps (various) - $359.99 (AC)",
-  "url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Louboutin",
@@ -25138,12 +25145,13 @@
   "price": 359.99,
   "found_at": "2026-11-01T23:43:46Z",
   "source_url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "fa9db68e2825bae2",
   "title": "Christian Louboutin Pumps Leather Fifi Pumps (Pink) $345 + Free S/H",
-  "url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Louboutin",
@@ -25153,12 +25161,13 @@
   "price": 345.0,
   "found_at": "2026-11-01T23:43:46Z",
   "source_url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "48422f1b40acb091",
   "title": "Christian Louboutin Pumps: Leather Fifi Pumps $360, Leather Pigalle Pumps $387 + free shipping",
-  "url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Louboutin",
@@ -25168,12 +25177,13 @@
   "price": 360.0,
   "found_at": "2026-11-01T23:43:46Z",
   "source_url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "e4bf0b6c26f3876e",
   "title": "Christian Louboutin Fifi Leather Pumps (Various) $385 + Free Shipping",
-  "url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Louboutin",
@@ -25183,7 +25193,8 @@
   "price": 385.0,
   "found_at": "2026-11-01T23:43:46Z",
   "source_url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "503684067e4103f3",
@@ -25260,7 +25271,7 @@
  {
   "id": "a3208de10b12f471",
   "title": "Best gaming monitor deal: LG's 27-inch 240Hz OLED hits all-time low - Mashable",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Best+gaming+monitor+LG%27s+27-inch+240Hz+OLED+hits+-+Mashable",
   "why": "Oled — all-time low",
   "category": "tech",
   "source": "Google: Samsung deal",
@@ -25270,12 +25281,13 @@
   "price": null,
   "found_at": "2026-11-01T23:51:48Z",
   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9048c11fdc8221b0",
   "title": "(NEW) Nintendo Switch 2 System $469",
-  "url": "https://slickdeals.net/f/20238393-new-nintendo-switch-2-system-469?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+System",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -25285,7 +25297,8 @@
   "price": 469.0,
   "found_at": "2026-11-01T23:59:45Z",
   "source_url": "https://slickdeals.net/f/20238393-new-nintendo-switch-2-system-469?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "6fc760b45f0b362b",
@@ -25306,7 +25319,7 @@
  {
   "id": "145859179e2e7e70",
   "title": "Baseus Inspire XP1 Adaptive Noise Cancelling Earbuds, Sound by Bose (Black) $40.61 + Free Shipping",
-  "url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -25316,12 +25329,13 @@
   "price": 40.61,
   "found_at": "2026-11-01T23:59:45Z",
   "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7f5fcbfe0cd2230f",
   "title": "Garmin Forerunner 265 46mm GPS Smartwatch with AMOLED Display $203 + Free Shipping $203.3",
-  "url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -25331,12 +25345,13 @@
   "price": 203.0,
   "found_at": "2026-11-01T23:59:45Z",
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "4798b09f06c2a9e8",
   "title": "United Airlines Flight Connects St. Croix to Newark - St. Thomas Source",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20St%20Thomas%20Source",
   "why": "🌴 NEWARK → St. Thomas",
   "category": "flights",
   "source": "Google: NYC Caribbean flights",
@@ -25348,12 +25363,13 @@
   "dates_tried2": true,
   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
   "route_fixed": true,
-  "dates_tried3": true
+  "dates_tried3": true,
+  "link_tried3": true
  },
  {
   "id": "363eb23e1d7d37c1",
   "title": "United: Newark – Santo Domingo, Dominican Republic. $311 (Basic Economy) / $371 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2w2VFZSd0dDN3JEY1Q0clNUYUhRV3h0ZU1VSE1FOFNFMjJFVVhzcVJKUHFUdEczekF2NzZFQjBfSU1RRDV5aTlTVENPOU9Yb1d3YU82WjZfc19TYURsWnpfeGM2SnU5bmJvaGRqbzE5QnNzaS1xTDY1aEgtUTB5c2dPZy1iajVwSFFkZ2toZnVwTE1XMHNtVWVDSlVfaEVQUDJ5MzZOT1daaFdFUWdFSW1oRHBiQ1I0QXhKeUxjNlFBMk5uaS1oREZ4NDJOdENqSExzclVvcVFMekRyeFJhM1dTUWVfWVJ5VE5HVQ?oc=5",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20Santo%20Domingo%2C%20Dominican%20Republic",
   "why": "🌴 NEWARK → Santo Domingo",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -25365,7 +25381,8 @@
   "dates_tried2": true,
   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2w2VFZSd0dDN3JEY1Q0clNUYUhRV3h0ZU1VSE1FOFNFMjJFVVhzcVJKUHFUdEczekF2NzZFQjBfSU1RRDV5aTlTVENPOU9Yb1d3YU82WjZfc19TYURsWnpfeGM2SnU5bmJvaGRqbzE5QnNzaS1xTDY1aEgtUTB5c2dPZy1iajVwSFFkZ2toZnVwTE1XMHNtVWVDSlVfaEVQUDJ5MzZOT1daaFdFUWdFSW1oRHBiQ1I0QXhKeUxjNlFBMk5uaS1oREZ4NDJOdENqSExzclVvcVFMekRyeFJhM1dTUWVfWVJ5VE5HVQ?oc=5",
   "route_fixed": true,
-  "dates_tried3": true
+  "dates_tried3": true,
+  "link_tried3": true
  },
  {
   "id": "862cd948a83390c1",
@@ -25400,7 +25417,7 @@
  {
   "id": "bee02f2422e20e2b",
   "title": "Hamilton Khaki Aviation 45mm Black Dial Men's Automatic Watch $923.12",
-  "url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Aviation+45mm+Black+Dial+Men%27s+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25410,12 +25427,13 @@
   "price": 923.12,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "440b956965e70a1d",
   "title": "41mm Tissot Men's T-Sport Sideral Powermatic Automatic Watch $399 + Free S/H",
-  "url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=41mm+Tissot+Men%27s+T-Sport+Sideral+Powermatic+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25425,12 +25443,13 @@
   "price": 399.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "dfbb4e78b9ab30f7",
   "title": "Up to 66% off + Extra 12% off On Hamilton and Movado watches on Ashford $351",
-  "url": "https://slickdeals.net/f/20130747-up-to-66-off-extra-12-off-on-hamilton-and-movado-watches-on-ashford-351?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Up+to+66+off+%2B+Extra+12+off+On+Hamilton+and+Movado+watches+on+Ashford",
   "why": "Hamilton 66% off",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25440,12 +25459,13 @@
   "price": 351.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20130747-up-to-66-off-extra-12-off-on-hamilton-and-movado-watches-on-ashford-351?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "eb47f7ecbf47ad55",
   "title": "42mm Hamilton American Classic Black Dial Men's Automatic Watch $615.10 + Free S&H",
-  "url": "https://slickdeals.net/f/20089467-42mm-hamilton-american-classic-black-dial-men-s-automatic-watch-615-10-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+American+Classic+Black+Dial+Men%27s+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25455,12 +25475,13 @@
   "price": 615.1,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20089467-42mm-hamilton-american-classic-black-dial-men-s-automatic-watch-615-10-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5adcb7518a4aee90",
   "title": "Hamilton Khaki Navy Frogman Black Dial Men's Automatic Watch (Various) $569 + Free S&H",
-  "url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+Black+Dial+Men%27s+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25470,12 +25491,13 @@
   "price": 569.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "29fa315a2e0b70ce",
   "title": "HAMILTON Khaki Navy Scuba 37mm White Dial Unisex Quartz Watch $367",
-  "url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25485,12 +25507,13 @@
   "price": 367.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2ae3a25e98c64289",
   "title": "HAMILTON American Classic Intra-Matic 38mm Black and Brown Dial Men's Automatic Watch $367",
-  "url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+American+Classic+Intra-Matic+38mm+Black+and+Brown+Dial+Men%27s+Automatic+",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25500,12 +25523,13 @@
   "price": 367.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9db1d701d1194f70",
   "title": "DJI Osmo Mobile 8 Combo Gimbal Stabilizer for Phone w/ AI Tracking, Audio & Lighting $78.89 + Free Shipping",
-  "url": "https://slickdeals.net/f/20241111-dji-osmo-mobile-8-combo-gimbal-stabilizer-for-phone-w-ai-tracking-audio-lighting-78-89-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Mobile+8+Combo+Gimbal+Stabilizer+for+Phone+w+AI+Tracking+Audio+%26+Lighti",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -25515,7 +25539,8 @@
   "price": 78.89,
   "found_at": "2026-11-02T00:15:51Z",
   "source_url": "https://slickdeals.net/f/20241111-dji-osmo-mobile-8-combo-gimbal-stabilizer-for-phone-w-ai-tracking-audio-lighting-78-89-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "44a4fe514793dc98",
@@ -25708,7 +25733,7 @@
  {
   "id": "78ca7c15280cc3d4",
   "title": "Insta360 Luna Ultra 8K Pocket Gimbal Camera w/ Dual Leica Lenses, 1\" Sensor & 2\" Touchscreen (Black) $533.61 + Free Shipping",
-  "url": "https://slickdeals.net/f/20238489-insta360-luna-ultra-8k-pocket-gimbal-camera-w-dual-leica-lenses-1-sensor-2-touchscreen-black-533-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Insta360+Luna+Ultra+8K+Pocket+Gimbal+Camera+w+Dual+Leica+Lenses+1+Sensor+%26+2+Tou",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Off-White",
@@ -25718,12 +25743,13 @@
   "price": 533.61,
   "found_at": "2026-11-02T00:23:53Z",
   "source_url": "https://slickdeals.net/f/20238489-insta360-luna-ultra-8k-pocket-gimbal-camera-w-dual-leica-lenses-1-sensor-2-touchscreen-black-533-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "aaf0f58dfd014458",
   "title": "39mm Tissot Chemin des Tourelles Blue Dial Men's Automatic Watch $324 + Free S&H",
-  "url": "https://slickdeals.net/f/19968477-39mm-tissot-chemin-des-tourelles-blue-dial-men-s-automatic-watch-324-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=39mm+Tissot+Chemin+des+Tourelles+Blue+Dial+Men%27s+Automatic+Watch",
   "why": "Tissot 63% off",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25733,12 +25759,13 @@
   "price": 324.0,
   "found_at": "2026-11-02T00:23:53Z",
   "source_url": "https://slickdeals.net/f/19968477-39mm-tissot-chemin-des-tourelles-blue-dial-men-s-automatic-watch-324-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "efad5676dd2aa65b",
   "title": "Hamilton Khaki Navy Frogman 46mm Black Dial Men's Automatic Watch",
-  "url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+46mm+Black+Dial+Men%27s+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25748,7 +25775,8 @@
   "price": null,
   "found_at": "2026-11-02T00:23:53Z",
   "source_url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7a91c934c4e48b21",
@@ -25769,7 +25797,7 @@
  {
   "id": "ca0c583c191bbd77",
   "title": "42mm Hamilton Men's Pan Europ Automatic Day-Date Watch (Green Sunburst) $615.12 + Free Shipping",
-  "url": "https://slickdeals.net/f/19907691-42mm-hamilton-men-s-pan-europ-automatic-day-date-watch-green-sunburst-615-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+Men%27s+Pan+Europ+Automatic+Day-Date+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ashford Watches",
@@ -25779,12 +25807,13 @@
   "price": 615.12,
   "found_at": "2026-11-02T00:23:53Z",
   "source_url": "https://slickdeals.net/f/19907691-42mm-hamilton-men-s-pan-europ-automatic-day-date-watch-green-sunburst-615-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7d2b95e818a99fe9",
   "title": "United Airlines Flight Connects St. Croix to Newark - St. Thomas Source",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20St%20Thomas%20Source",
   "why": "🌴 NEWARK → St. Thomas",
   "category": "flights",
   "source": "Google: airline sale",
@@ -25796,12 +25825,13 @@
   "dates_tried2": true,
   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
   "route_fixed": true,
-  "dates_tried3": true
+  "dates_tried3": true,
+  "link_tried3": true
  },
  {
   "id": "0de1232f9fc38c71",
   "title": "[WTS] Caden initio god of fire (bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xlipn7/wts_caden_initio_god_of_fire_bottle/",
+  "url": "https://www.google.com/search?tbm=shop&q=Caden+initio+god+of+fire",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -25811,7 +25841,8 @@
   "price": null,
   "found_at": "2026-11-02T00:32:00Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlipn7/wts_caden_initio_god_of_fire_bottle/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "e3d26f4612ecad04",
@@ -25864,7 +25895,7 @@
  {
   "id": "edd1123fa72023b1",
   "title": "Shoppers Agree This $6 Glitter Liquid Lipstick Gives the Dior Sequin Look ‘If You Don’t Want to Pay the Price’ - SheKnows",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelM5S0M2WDRBRXA5ZHRoOGU1RG9FUTNzWmltRTZudkc4RHZiUTJWX3QzSGZSc2thRXRqZ2t5OWg1aWYzYkJzZFgzMjZpaFNpNlFpb1Zzam5sQlZQVTdMUnNWNnRfN202aUJEZEFFUzQwNWYzdzFkcXRkNHNmYUpsRFVURzJza1pJeDQzZFdB?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Shoppers+Agree+This",
   "why": "",
   "category": "fashion",
   "source": "Web search: Dior price drop",
@@ -25874,12 +25905,13 @@
   "price": 6.0,
   "found_at": "2026-11-02T00:52:16Z",
   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelM5S0M2WDRBRXA5ZHRoOGU1RG9FUTNzWmltRTZudkc4RHZiUTJWX3QzSGZSc2thRXRqZ2t5OWg1aWYzYkJzZFgzMjZpaFNpNlFpb1Zzam5sQlZQVTdMUnNWNnRfN202aUJEZEFFUzQwNWYzdzFkcXRkNHNmYUpsRFVURzJza1pJeDQzZFdB?oc=5",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "0cb85b808159f401",
   "title": "DJI Osmo 360 8K 360° Camera (Standard Combo) $280, Adventure Combo $373 + Free S/H",
-  "url": "https://slickdeals.net/f/20238357-dji-osmo-360-8k-360-camera-standard-combo-280-adventure-combo-373-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: B&H Deal",
@@ -25889,12 +25921,13 @@
   "price": 280.0,
   "found_at": "2026-11-02T01:27:09Z",
   "source_url": "https://slickdeals.net/f/20238357-dji-osmo-360-8k-360-camera-standard-combo-280-adventure-combo-373-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "db5db6eb7936cac0",
   "title": "[WTS] Calvin Klein 200ml Bundle + LV (Bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xlk3ra/wts_calvin_klein_200ml_bundle_lv_bottle/",
+  "url": "https://www.google.com/search?tbm=shop&q=Calvin+Klein+200ml+Bundle+%2B+LV",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -25904,7 +25937,8 @@
   "price": null,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlk3ra/wts_calvin_klein_200ml_bundle_lv_bottle/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "88f57048eb18763b",
@@ -25939,7 +25973,7 @@
  {
   "id": "20631b57053e9a14",
   "title": "New Longines HydroConquest GMT Automatic Blue Dial Men's Watch $2221.75",
-  "url": "https://slickdeals.net/f/20141883-new-longines-hydroconquest-gmt-automatic-blue-dial-men-s-watch-2221-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Longines+HydroConquest+GMT+Automatic+Blue+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -25949,7 +25983,8 @@
   "price": 2221.75,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/20141883-new-longines-hydroconquest-gmt-automatic-blue-dial-men-s-watch-2221-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "d9b3c2d123731444",
@@ -25968,7 +26003,7 @@
  {
   "id": "6d96af4bc60bbfe0",
   "title": "New Longines Conquest Automatic Chronograph Brown Men's Watch L3.835.4.32.6 $2920",
-  "url": "https://slickdeals.net/f/20101776-new-longines-conquest-automatic-chronograph-brown-men-s-watch-l3-835-4-32-6-2920?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Longines+Conquest+Automatic+Chronograph+Brown+Men%27s+Watch+L3.835.4.32.6",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -25978,7 +26013,8 @@
   "price": 2920.0,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/20101776-new-longines-conquest-automatic-chronograph-brown-men-s-watch-l3-835-4-32-6-2920?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "615f959ee7bb8dde",
@@ -26061,7 +26097,7 @@
  {
   "id": "d81e307a0b2680c7",
   "title": "Tissot Chemin des Tourelles, Swiss Powermatic 80, 42 mm, Silver Dial, Men's Watch $568.75",
-  "url": "https://slickdeals.net/f/19978239-tissot-chemin-des-tourelles-swiss-powermatic-80-42-mm-silver-dial-men-s-watch-568-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tissot+Chemin+des+Tourelles+Swiss+Powermatic+80+42+mm+Silver+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -26071,12 +26107,13 @@
   "price": 568.75,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/19978239-tissot-chemin-des-tourelles-swiss-powermatic-80-42-mm-silver-dial-men-s-watch-568-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9e84775e70abd1f8",
   "title": "Datejust 41 Blue Dial Stainless Steel Men's Watch 126300BLSO Item No. M126300-0001",
-  "url": "https://slickdeals.net/f/19976469-datejust-41-blue-dial-stainless-steel-men-s-watch-126300blso-item-no-m126300-0001?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Datejust+41+Blue+Dial+Stainless+Steel+Men%27s+Watch+126300BLSO+Item+No.+M126300-00",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -26086,7 +26123,8 @@
   "price": null,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/19976469-datejust-41-blue-dial-stainless-steel-men-s-watch-126300blso-item-no-m126300-0001?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "6f958ac51b1a52fc",
@@ -26107,7 +26145,7 @@
  {
   "id": "a708f19e1865b329",
   "title": "39mm Tissot Chemin des Tourelles Blue Dial Men's Automatic Watch $324 + Free S&H",
-  "url": "https://slickdeals.net/f/19968477-39mm-tissot-chemin-des-tourelles-blue-dial-men-s-automatic-watch-324-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=39mm+Tissot+Chemin+des+Tourelles+Blue+Dial+Men%27s+Automatic+Watch",
   "why": "Tissot 63% off",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -26117,12 +26155,13 @@
   "price": 324.0,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/19968477-39mm-tissot-chemin-des-tourelles-blue-dial-men-s-automatic-watch-324-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "dd8b9805720721f4",
   "title": "Jomashop TISSOT Carson Automatic Black Dial Men's Watch $329",
-  "url": "https://slickdeals.net/f/19968063-jomashop-tissot-carson-automatic-black-dial-men-s-watch-329?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+TISSOT+Carson+Automatic+Black+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -26132,12 +26171,13 @@
   "price": 329.0,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/19968063-jomashop-tissot-carson-automatic-black-dial-men-s-watch-329?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "bf61949dbe3aa736",
   "title": "Patek Philippe Complications World Time Automatic Green Dial Men's Watch Item No. 5930P-001 $92,500 at JomaShop",
-  "url": "https://slickdeals.net/f/19930179-patek-philippe-complications-world-time-automatic-green-dial-men-s-watch-item-no-5930p-001-92-500-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Patek+Philippe+Complications+World+Time+Automatic+Green+Dial+Men%27s+Watch+Item+No",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -26147,12 +26187,13 @@
   "price": 92500.0,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/19930179-patek-philippe-complications-world-time-automatic-green-dial-men-s-watch-item-no-5930p-001-92-500-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "86919ebb69880c02",
   "title": "34mm Tissot Women's Chemin Des Tourelles Automatic Silver Dial Watch $274 + Free S&H",
-  "url": "https://slickdeals.net/f/19829064-34mm-tissot-women-s-chemin-des-tourelles-automatic-silver-dial-watch-274-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+34mm+Tissot+Women%27s+Chemin+Des+Tourelles+Automatic+Silver+Dial+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -26162,7 +26203,8 @@
   "price": 274.0,
   "found_at": "2026-11-02T01:37:33Z",
   "source_url": "https://slickdeals.net/f/19829064-34mm-tissot-women-s-chemin-des-tourelles-automatic-silver-dial-watch-274-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "555151464d9f97b4",
@@ -26209,7 +26251,7 @@
  {
   "id": "7f9dbcc38f0a2d95",
   "title": "[WTB] Amouage Enclave",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xlkiso/wtb_amouage_enclave/",
+  "url": "https://www.google.com/search?tbm=shop&q=Amouage+Enclave",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -26219,7 +26261,8 @@
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlkiso/wtb_amouage_enclave/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2bdfba2f29b9c5a5",
@@ -26330,7 +26373,7 @@
  {
   "id": "6274233e504e5cfb",
   "title": "(NEW) Apple Watch Ultra 2 Smartwatch [GPS + Cellular] $569.99",
-  "url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -26340,12 +26383,13 @@
   "price": 569.99,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "480bdf6b93d8a326",
   "title": "(NEW) Apple Watch Ultra 3 Smartwatch (GPS + Cellular) $649.99",
-  "url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+3+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -26355,7 +26399,8 @@
   "price": 649.99,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2b23486ab16cec53",
@@ -26424,7 +26469,7 @@
  {
   "id": "8d4a2335e767d1b7",
   "title": "Apple Watch Sport Loop",
-  "url": "https://slickdeals.net/f/20200374-apple-watch-sport-loop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Sport+Loop",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -26434,7 +26479,8 @@
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20200374-apple-watch-sport-loop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c55f118d87198113",
@@ -26455,7 +26501,7 @@
  {
   "id": "33dd8eb60f936c06",
   "title": "Apple Watch Trail Loop - 49mm",
-  "url": "https://slickdeals.net/f/20200365-apple-watch-trail-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Trail+Loop+-+49mm",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -26465,7 +26511,8 @@
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20200365-apple-watch-trail-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "ec81ab877cd06a0b",
@@ -26486,7 +26533,7 @@
  {
   "id": "754a2262b3ff8050",
   "title": "Apple Watch Ultra 2 Brand New at Woot - $549.99 FS",
-  "url": "https://slickdeals.net/f/20188950-apple-watch-ultra-2-brand-new-at-woot-549-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Brand",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -26496,7 +26543,8 @@
   "price": 549.99,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20188950-apple-watch-ultra-2-brand-new-at-woot-549-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "3e6e3a40c821bf40",
@@ -26562,7 +26610,7 @@
  {
   "id": "80889ab99559730a",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -26572,7 +26620,8 @@
   "price": 199.0,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1cd9c648ccba2e73",
@@ -26591,7 +26640,7 @@
  {
   "id": "e4272e1abc414845",
   "title": "Tissot 42mm Classic Dream Swissmatic Silver Dial Men's Watch $225 + Free S&H",
-  "url": "https://slickdeals.net/f/19651251-tissot-42mm-classic-dream-swissmatic-silver-dial-men-s-watch-225-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Tissot+42mm+Classic+Dream+Swissmatic+Silver+Dial+Men%27s+Watch",
   "why": "Tissot 61% off",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -26601,7 +26650,8 @@
   "price": 225.0,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/19651251-tissot-42mm-classic-dream-swissmatic-silver-dial-men-s-watch-225-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5ce32751485e6e59",
@@ -26654,7 +26704,7 @@
  {
   "id": "5823f33880cf0474",
   "title": "Tech21 iPhone 17 Air EvoLite Case – Slim Protective Case $3.99",
-  "url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+iPhone+17+Air+EvoLite+Case+Slim+Protective+Case",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 17",
@@ -26664,12 +26714,13 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "08f820a3f21d2780",
   "title": "Tech21 EvoClear Case for iPhone 17 Air – Clear $3.99",
-  "url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+EvoClear+Case+for+iPhone+17+Air+Clear",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 17",
@@ -26679,12 +26730,13 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "bba1d312fab4e15c",
   "title": "Business Class Deal: New York to London $1735 Round Trip (nonstop)",
-  "url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20London",
   "why": "",
   "category": "flights",
   "source": "Reddit r/flightdeals",
@@ -26695,12 +26747,13 @@
   "found_at": "2026-11-02T02:08:15Z",
   "route_fixed": true,
   "dates_tried3": true,
-  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/"
+  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/",
+  "link_tried3": true
  },
  {
   "id": "a7a87a5addf57719",
   "title": "Business Class Deal: New York ↔ Los Angeles $1320 Round Trip/ $790 oneway",
-  "url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Los%20Angeles",
   "why": "",
   "category": "flights",
   "source": "Reddit r/flightdeals",
@@ -26711,7 +26764,8 @@
   "found_at": "2026-11-02T02:08:15Z",
   "route_fixed": true,
   "dates_tried3": true,
-  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/"
+  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/",
+  "link_tried3": true
  },
  {
   "id": "b82edc14ebfc5e04",
@@ -26867,7 +26921,7 @@
  {
   "id": "1ed86dd689c7165a",
   "title": "Squishmallows Original 8in Tudor The Maroon Leatherback Turtle $5.02 + Free S&H w/ Prime or $35+",
-  "url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Squishmallows+Original+8in+Tudor+The+Maroon+Leatherback+Turtle",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26877,12 +26931,13 @@
   "price": 5.02,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8338e10583c21465",
   "title": "Tudor's Biscuit World- $2.50 chili dogs",
-  "url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tudor%27s+Biscuit+World-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26892,12 +26947,13 @@
   "price": 2.5,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "945d20969947ccd2",
   "title": "Hasbro Gaming Clue Escape: Treachery at Tudor Mansion $3.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/19152106-hasbro-gaming-clue-escape-treachery-at-tudor-mansion-3-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hasbro+Gaming+Clue+Escape+Treachery+at+Tudor+Mansion",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26907,12 +26963,13 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/19152106-hasbro-gaming-clue-escape-treachery-at-tudor-mansion-3-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "96f5f9dd5b8ff444",
   "title": "Lego - Icons Tudor Corner Building Kit - 10350 - $189.99",
-  "url": "https://slickdeals.net/f/18839467-lego-icons-tudor-corner-building-kit-10350-189-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Lego+-+Icons+Tudor+Corner+Building+Kit+-+10350+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26922,12 +26979,13 @@
   "price": 189.99,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18839467-lego-icons-tudor-corner-building-kit-10350-189-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "b9fb244bb21617a0",
   "title": "Cluedo: An Escape And Solve Mystery Board Game Treachery At Tudor Mansion(Ages 10+) $8.78 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/18807088-cluedo-an-escape-and-solve-mystery-board-game-treachery-at-tudor-mansion-ages-10-8-78-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Cluedo+An+Escape+And+Solve+Mystery+Board+Game+Treachery+At+Tudor+Mansion",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26937,7 +26995,8 @@
   "price": 8.78,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18807088-cluedo-an-escape-and-solve-mystery-board-game-treachery-at-tudor-mansion-ages-10-8-78-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "cd0bb40a47c93e82",
@@ -26958,7 +27017,7 @@
  {
   "id": "bf7592e40dbd0554",
   "title": "Tudor 41mm 1926 Automatic Silver Dial Men's Watch $1795 + Free Shipping",
-  "url": "https://slickdeals.net/f/18487291-tudor-41mm-1926-automatic-silver-dial-men-s-watch-1795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tudor+41mm+1926+Automatic+Silver+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26968,12 +27027,13 @@
   "price": 1795.0,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18487291-tudor-41mm-1926-automatic-silver-dial-men-s-watch-1795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8826a4685fed5215",
   "title": "Breitling Top Time B01 Deus Chronograph Automatic Chronometer Black Dial Men's Watch $3450 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/18295441-breitling-top-time-b01-deus-chronograph-automatic-chronometer-black-dial-men-s-watch-3450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Top+Time+B01+Deus+Chronograph+Automatic+Chronometer+Black+Dial+Men%27s+W",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26983,12 +27043,13 @@
   "price": 3450.0,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18295441-breitling-top-time-b01-deus-chronograph-automatic-chronometer-black-dial-men-s-watch-3450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "6f0db578147517b3",
   "title": "Breitling Endurance Pro Chronograph Quartz Chronometer Black Dial Men's Watch $1895 + Free Shipping",
-  "url": "https://slickdeals.net/f/18276298-breitling-endurance-pro-chronograph-quartz-chronometer-black-dial-men-s-watch-1895-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Endurance+Pro+Chronograph+Quartz+Chronometer+Black+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26998,12 +27059,13 @@
   "price": 1895.0,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18276298-breitling-endurance-pro-chronograph-quartz-chronometer-black-dial-men-s-watch-1895-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5d145dc57b57ec9e",
   "title": "Breitling Navitimer Super 8 B20 Automatic Chronometer 46 mm Black Dial Men's Watch $1995 + Free Shipping",
-  "url": "https://slickdeals.net/f/18178798-breitling-navitimer-super-8-b20-automatic-chronometer-46-mm-black-dial-men-s-watch-1995-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Navitimer+Super+8+B20+Automatic+Chronometer+46+mm+Black+Dial+Men%27s+Wat",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -27013,7 +27075,8 @@
   "price": 1995.0,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18178798-breitling-navitimer-super-8-b20-automatic-chronometer-46-mm-black-dial-men-s-watch-1995-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c23bdae5e09d668f",
@@ -27034,7 +27097,7 @@
  {
   "id": "3a0057e47267c27e",
   "title": "Tech21 iPhone 17 Air EvoLite Case – Slim Protective Case $3.99",
-  "url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+iPhone+17+Air+EvoLite+Case+Slim+Protective+Case",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 16",
@@ -27044,12 +27107,13 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "53c99f9d13451c0d",
   "title": "Tech21 EvoClear Case for iPhone 17 Air – Clear $3.99",
-  "url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+EvoClear+Case+for+iPhone+17+Air+Clear",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 16",
@@ -27059,7 +27123,8 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8ca2ea1647ab5046",
@@ -27080,7 +27145,7 @@
  {
   "id": "d481f40d96b9152b",
   "title": "Spooky Good Apple iPhone & Watches (Refurbished - S&D) at Woot!",
-  "url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Spooky+Good+Apple+iPhone+%26+Watches",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Iphone 16",
@@ -27090,7 +27155,8 @@
   "price": null,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8a52fd4a2a197c49",
@@ -27680,7 +27746,7 @@
  {
   "id": "5d935ad06e608c91",
   "title": "Frederique Constant Men's Classic Swiss Made Automatic Silver Stainless Steel Watch $680",
-  "url": "https://slickdeals.net/f/18987919-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-680?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Classic+Swiss+Made+Automatic+Silver+Stainless+Steel+Wa",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27690,12 +27756,13 @@
   "price": 680.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/18987919-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-680?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "b224a3ba926962f2",
   "title": "Frederique Constant Men's Classic Swiss Made Automatic Silver Stainless Steel Watch $799.99",
-  "url": "https://slickdeals.net/f/18962188-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Classic+Swiss+Made+Automatic+Silver+Stainless+Steel+Wa",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27705,12 +27772,13 @@
   "price": 799.99,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/18962188-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "e9c27f70f1659175",
   "title": "Frederique Constant Men's Watch - Slimline Automatic Black Leather Strap | 723GR3S6 Sale: $998.01 with code NYS2520",
-  "url": "https://slickdeals.net/f/18045150-frederique-constant-men-s-watch-slimline-automatic-black-leather-strap-723gr3s6-sale-998-01-with-code-nys2520?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+-+Slimline+Automatic+Black+Leather+Strap+723GR3S",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27720,12 +27788,13 @@
   "price": 998.01,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/18045150-frederique-constant-men-s-watch-slimline-automatic-black-leather-strap-723gr3s6-sale-998-01-with-code-nys2520?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "bb798663026440f7",
   "title": "Frederique Constant Men's Watch (Slimline Automatic) $940.96",
-  "url": "https://slickdeals.net/f/17873613-frederique-constant-men-s-watch-slimline-automatic-940-96?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27735,12 +27804,13 @@
   "price": 940.96,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/17873613-frederique-constant-men-s-watch-slimline-automatic-940-96?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f370138ad676fad7",
   "title": "Frederique Constant Men's Watch: Slimline Power Reserve (Silver Tone Dial) $999",
-  "url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+Slimline+Power+Reserve",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27750,12 +27820,13 @@
   "price": 999.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "a5c41220b4865c73",
   "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299.99",
-  "url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27765,12 +27836,13 @@
   "price": 299.99,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "3ce191795bf97bd1",
   "title": "Frederique Constant: Men's Quartz Grey Dial $275, Slimline Small Seconds Quartz Watch $349 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Quartz+Grey+Dial",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27780,12 +27852,13 @@
   "price": 275.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9f19bf3d5ca9508f",
   "title": "Frederique Constant Quartz Grey Dial $309.95, Classics Automatic Blue Dial Men's Watch $495.95 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Quartz+Grey+Dial",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27795,12 +27868,13 @@
   "price": 309.95,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5a59460e116f2306",
   "title": "FREDERIQUE CONSTANT - Automatic Silver Dial Ladies Watch - $339.99 after coupon - Jomashop **FREE SHIPPING**",
-  "url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+FREDERIQUE+CONSTANT+-+Automatic+Silver+Dial+Ladies+Watch+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27810,12 +27884,13 @@
   "price": 339.99,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2cfc93e6fa1b6494",
   "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299",
-  "url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27825,12 +27900,13 @@
   "price": 299.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "15e6b9cfd596c4c3",
   "title": "Frederique Constant Horological 34mm Quartz Ladies Smartwatch FC-281WH3ER6B $199",
-  "url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Horological+34mm+Quartz+Ladies+Smartwatch+FC-281WH3ER6B",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Frederique Constant",
@@ -27840,12 +27916,13 @@
   "price": 199.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "e94c903d2e374d6b",
   "title": "Frederique Constant Watches Sale-Classics Silver Dial Watch $299.99/Horological Quartz Smart Watch $249/Classics Quartz Silver Dial $249 + Free Shipping",
-  "url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Watches+-Classics+Silver+Dial+Watch",
   "why": "Watch 77% off",
   "category": "tech",
   "source": "Slickdeals: Frederique Constant",
@@ -27855,12 +27932,13 @@
   "price": 299.99,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "70ebe705c6317f04",
   "title": "TechnoMarine Ocean Manta Chronograph Quartz Men's Watch $66.99, Tissot Mother of Pearl Ladies Watch $149 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+TechnoMarine+Ocean+Manta+Chronograph+Quartz+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27870,12 +27948,13 @@
   "price": 66.99,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c38112422a8e3041",
   "title": "Tissot Le Locle Chronometer - $360",
-  "url": "https://slickdeals.net/f/16131358-tissot-le-locle-chronometer-360?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tissot+Le+Locle+Chronometer+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27885,12 +27964,13 @@
   "price": 360.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16131358-tissot-le-locle-chronometer-360?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "57a989effcde691b",
   "title": "Tissot Ballade Automatic Chronometer - $365",
-  "url": "https://slickdeals.net/f/16130584-tissot-ballade-automatic-chronometer-365?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tissot+Ballade+Automatic+Chronometer+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27900,12 +27980,13 @@
   "price": 365.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16130584-tissot-ballade-automatic-chronometer-365?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "0bc2280a1656ed49",
   "title": "FREDERIQUE CONSTANT Persuasion Automatic White Dial Men's Watch $369.95 + Free Shipping",
-  "url": "https://slickdeals.net/f/15944176-frederique-constant-persuasion-automatic-white-dial-men-s-watch-369-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FREDERIQUE+CONSTANT+Persuasion+Automatic+White+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27915,12 +27996,13 @@
   "price": 369.95,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/15944176-frederique-constant-persuasion-automatic-white-dial-men-s-watch-369-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8cd54fe00997d08e",
   "title": "Men's & Women's Watch Sale - SEIKO Classic Chronograph Quartz Black Dial $89, LONGINES Hydro Conquest Quartz Black Dial $455, MOVADO Kara Pink Dial $214, & more + Free Shipping",
-  "url": "https://slickdeals.net/f/15921766-men-s-women-s-watch-sale-seiko-classic-chronograph-quartz-black-dial-89-longines-hydro-conquest-quartz-black-dial-455-movado-kara-pink-dial-214-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+%26+Women%27s+Watch+-+SEIKO+Classic+Chronograph+Quartz+Black+Dial",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27930,12 +28012,13 @@
   "price": 89.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/15921766-men-s-women-s-watch-sale-seiko-classic-chronograph-quartz-black-dial-89-longines-hydro-conquest-quartz-black-dial-455-movado-kara-pink-dial-214-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "501f44cb070070f7",
   "title": "Frederique Constant Automatic Watches: Classics Date And Day or Persuasion $379 each + free s/h",
-  "url": "https://slickdeals.net/f/15886192-frederique-constant-automatic-watches-classics-date-and-day-or-persuasion-379-each-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Automatic+Watches+Classics+Date+And+Day+or+Persuasion",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27945,12 +28028,13 @@
   "price": 379.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/15886192-frederique-constant-automatic-watches-classics-date-and-day-or-persuasion-379-each-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "0efde848f9e8975a",
   "title": "Frederique Constant Persuasion Automatic Watch $399 + free s/h at Ashford (less w/ SD Cashback)",
-  "url": "https://slickdeals.net/f/15772171-frederique-constant-persuasion-automatic-watch-399-free-s-h-at-ashford-less-w-sd-cashback?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Persuasion+Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -27960,12 +28044,13 @@
   "price": 399.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/15772171-frederique-constant-persuasion-automatic-watch-399-free-s-h-at-ashford-less-w-sd-cashback?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "936c88460ec68af7",
   "title": "Garmin Forerunner 255 46mm Sports Smartwatch $158.5 + Free Shipping",
-  "url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+Sports+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -27975,7 +28060,8 @@
   "price": 158.5,
   "found_at": "2026-11-02T03:01:19Z",
   "source_url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "eb6f33baf303b415",
@@ -27996,7 +28082,7 @@
  {
   "id": "41e23d4e9a1cbeed",
   "title": "FREDERIQUE CONSTANT Classics Silver Dial Blue Leather Ladies Watch FC-220MS3B6 for $238.99 shipped",
-  "url": "https://slickdeals.net/f/15279160-frederique-constant-classics-silver-dial-blue-leather-ladies-watch-fc-220ms3b6-for-238-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FREDERIQUE+CONSTANT+Classics+Silver+Dial+Blue+Leather+Ladies+Watch+FC-220MS3B6+f",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -28006,12 +28092,13 @@
   "price": 238.99,
   "found_at": "2026-11-02T03:10:08Z",
   "source_url": "https://slickdeals.net/f/15279160-frederique-constant-classics-silver-dial-blue-leather-ladies-watch-fc-220ms3b6-for-238-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "bbdcdf7723bf55de",
   "title": "FREDERIQUE CONSTANT Slimline Automatic Men's Watch - $499",
-  "url": "https://slickdeals.net/e/14697839-frederique-constant-slimline-automatic-men-s-watch-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FREDERIQUE+CONSTANT+Slimline+Automatic+Men%27s+Watch+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -28021,12 +28108,13 @@
   "price": 499.0,
   "found_at": "2026-11-02T03:10:08Z",
   "source_url": "https://slickdeals.net/e/14697839-frederique-constant-slimline-automatic-men-s-watch-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "31e766260a11c0ec",
   "title": "watchmaxx.com: Frederique Constant Slimline from $199 + FS",
-  "url": "https://slickdeals.net/e/14690240-watchmaxx-com-frederique-constant-slimline-from-199-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=watchmaxx.com+Frederique+Constant+Slimline+from",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -28036,7 +28124,8 @@
   "price": 199.0,
   "found_at": "2026-11-02T03:10:08Z",
   "source_url": "https://slickdeals.net/e/14690240-watchmaxx-com-frederique-constant-slimline-from-199-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "cfdea68f3249e873",
@@ -28121,7 +28210,7 @@
  {
   "id": "e2203042920bcca6",
   "title": "olden goose super-star sneakers - $284",
-  "url": "https://slickdeals.net/f/16611830-olden-goose-super-star-sneakers-284?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=olden+goose+super-star+sneakers+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Golden Goose",
@@ -28131,12 +28220,13 @@
   "price": 284.0,
   "found_at": "2026-11-02T03:31:57Z",
   "source_url": "https://slickdeals.net/f/16611830-olden-goose-super-star-sneakers-284?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "685526111e8d914f",
   "title": "Golden Goose Superstar Glitter Trim Leather Sneakers on SALE - $489",
-  "url": "https://slickdeals.net/f/16325941-golden-goose-superstar-glitter-trim-leather-sneakers-on-sale-489?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Superstar+Glitter+Trim+Leather+Sneakers+on+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Golden Goose",
@@ -28146,7 +28236,8 @@
   "price": 489.0,
   "found_at": "2026-11-02T03:31:57Z",
   "source_url": "https://slickdeals.net/f/16325941-golden-goose-superstar-glitter-trim-leather-sneakers-on-sale-489?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9b638ebea21b129d",
@@ -28447,7 +28538,7 @@
  {
   "id": "1f26fee3b856a03e",
   "title": "(New) DJI Osmo Nano Standard Combo 128GB $249, 64GB $204 + FS",
-  "url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Standard+Combo+128GB",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -28457,7 +28548,8 @@
   "price": 249.0,
   "found_at": "2026-11-02T04:34:28Z",
   "source_url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5a32418c77dcd81e",
@@ -28476,7 +28568,7 @@
  {
   "id": "ad3bdd8e1c3a335b",
   "title": "DJI Mini 5 Pro 4K Camera Drone w/ RC-N3 $519.75 or less + Free S&H",
-  "url": "https://slickdeals.net/f/20238087-dji-mini-5-pro-drone-519-73-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4K+Camera+Drone+w+RC-N3",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -28486,7 +28578,8 @@
   "price": 519.75,
   "found_at": "2026-11-02T04:42:59Z",
   "source_url": "https://slickdeals.net/f/20238087-dji-mini-5-pro-drone-519-73-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2fbade1070d95078",
@@ -28635,7 +28728,7 @@
  {
   "id": "ef367c8694ae3db6",
   "title": "Prada Luna Rossa Carbon EDT 5.1 oz $70.44",
-  "url": "https://slickdeals.net/f/16382902-prada-luna-rossa-carbon-edt-5-1-oz-70-44?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Luna+Rossa+Carbon+EDT+5.1+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada Luna Rossa",
@@ -28645,12 +28738,13 @@
   "price": 70.44,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/16382902-prada-luna-rossa-carbon-edt-5-1-oz-70-44?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f94febf73acb0401",
   "title": "Fragrance Eau de Toilette Set Sale: Viktor & Rolf Spicebomb Infrared Eau de Toilette Set $84 & Many More + Free S/H",
-  "url": "https://slickdeals.net/f/15610654-fragrance-eau-de-toilette-set-sale-viktor-rolf-spicebomb-infrared-eau-de-toilette-set-84-many-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fragrance+Eau+de+Toilette+Set+Viktor+%26+Rolf+Spicebomb+Infrared+Eau+de+Toilette+S",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada Luna Rossa",
@@ -28660,12 +28754,13 @@
   "price": 84.0,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/15610654-fragrance-eau-de-toilette-set-sale-viktor-rolf-spicebomb-infrared-eau-de-toilette-set-84-many-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2671a9094cc0c4ca",
   "title": "Prada Luna Rossa by Prada Men's Eau De Toilette Spray 3.4 Fl Oz $37 with clipping 40% off subscribe and save YMMV discount - $36",
-  "url": "https://slickdeals.net/f/15490825-prada-luna-rossa-by-prada-men-s-eau-de-toilette-spray-3-4-fl-oz-37-with-clipping-40-off-subscribe-and-save-ymmv-discount-36?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Luna+Rossa+by+Prada+Men%27s+Eau+De+Toilette+Spray+3.4+Fl+Oz",
   "why": "Prada 40% off",
   "category": "fragrance",
   "source": "Slickdeals: Prada Luna Rossa",
@@ -28675,12 +28770,13 @@
   "price": 37.0,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/15490825-prada-luna-rossa-by-prada-men-s-eau-de-toilette-spray-3-4-fl-oz-37-with-clipping-40-off-subscribe-and-save-ymmv-discount-36?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9c9b5b55999a51e9",
   "title": "Prada Luna Rossa Sport EDT (similar to JPG Le Male) $56 + FS +20% SD Cash Back",
-  "url": "https://slickdeals.net/f/15490657-prada-luna-rossa-sport-edt-similar-to-jpg-le-male-56-fs-20-sd-cash-back?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Luna+Rossa+Sport+EDT",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada Luna Rossa",
@@ -28690,7 +28786,8 @@
   "price": 56.0,
   "found_at": "2026-11-02T04:51:22Z",
   "source_url": "https://slickdeals.net/f/15490657-prada-luna-rossa-sport-edt-similar-to-jpg-le-male-56-fs-20-sd-cash-back?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "54a20a5cc9491208",
@@ -30372,9 +30469,9 @@
   "pct": null,
   "price": 75.0,
   "found_at": "2026-11-02T08:43:34Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Refurb-Apple-iPhone-Apple-Watch-Deals-at-Woot-for-From-75-free-shipping-w-Prime/22318361.html?iref=rss",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "b82c25874c5f8d29",
@@ -30434,9 +30531,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T08:43:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "133b87351f29d395",
@@ -30482,9 +30579,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T08:43:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20173506-apple-iphones-and-watches-grade-a-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "ae3efc1755b8bd8c",
@@ -30530,9 +30627,9 @@
   "pct": null,
   "price": 129.0,
   "found_at": "2026-11-02T08:43:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20147757-refurbished-apple-airpods-pro-3-with-magsafe-charging-case-verizon-ebay-store-129?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "a61859deea1741ea",
@@ -30595,29 +30692,134 @@
   "store": "Bestbuy"
  },
  {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Web search: Omega price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-02T08:46:59Z"
- },
- {
   "id": "3671f54405962b3c",
   "title": "42mm Tag Heuer Men's Connected Calibre E4 Smartwatch $658.75 + Free Shipping",
-  "url": "https://slickdeals.net/f/20242758-42mm-tag-heuer-men-s-connected-calibre-e4-smartwatch-658-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=42mm+Tag+Heuer+Men%27s+Connected+Calibre+E4+Smartwatch",
   "why": "",
-  "category": "watches",
+  "category": "tech",
   "source": "Web search: TAG Heuer sale",
   "urgent": false,
   "hot": false,
   "pct": null,
   "price": 658.75,
-  "found_at": "2026-11-02T08:47:05Z"
+  "found_at": "2026-11-02T08:47:05Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20242758-42mm-tag-heuer-men-s-connected-calibre-e4-smartwatch-658-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
+ },
+ {
+  "id": "aac2cef4d3df7ada",
+  "title": "eBay Fall Fashion Promo Code: Extra 15% off + free shipping",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=eBay+Fall+Fashion+Promo+Code+Extra+15+off+%2B",
+  "why": "",
+  "category": "watches",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": 15,
+  "price": null,
+  "found_at": "2026-11-02T08:52:30Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/eBay-Fall-Fashion-Promo-Code-Extra-15-off-free-shipping/22332880.html?iref=rss",
+  "store": "Ebay"
+ },
+ {
+  "id": "48e3262c079d3256",
+  "title": "Refurb Apple Outlet at Best Buy: Up to 81% off + free shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Refurb+Apple+Outlet",
+  "why": "81% off",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 81,
+  "price": null,
+  "found_at": "2026-11-02T08:52:30Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Refurb-Apple-Outlet-at-Best-Buy-Up-to-81-off-free-shipping/22304514.html?iref=rss",
+  "store": "Bestbuy"
+ },
+ {
+  "id": "cdbedecfac74f05a",
+  "title": "Apple iPhone 16 Silicone Case w/ MagSafe for $25 + free shipping w/ Prime",
+  "url": "https://www.apple.com/us/search/Apple%20iPhone%2016%20Silicone%20Case%20w%20MagSafe%20for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 25.0,
+  "found_at": "2026-11-02T08:52:30Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Apple-iPhone-16-Silicone-Case-w-Mag-Safe-for-25-free-shipping-w-Prime/22332846.html?iref=rss",
+  "store": "Apple"
+ },
+ {
+  "id": "8107f954c570ca34",
+  "title": "Samsung - 77\" Class S90H OLED 4K TV with SamsungVisionAI (2026) Open Box From $1395",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung+-+77+Class+S90H+OLED+4K+TV+with+SamsungVisionAI+Open+Box+From",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Oled Tv",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1395.0,
+  "found_at": "2026-11-02T08:52:30Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20242992-samsung-77-class-s90h-oled-4k-tv-with-samsungvisionai-2026-open-box-from-1395?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
+ },
+ {
+  "id": "766d1eaecd68f449",
+  "title": "November Flying Blue Rewards Promotion: New York in business class starting at 45,000 miles, long-haul flights starting at 18,750 miles - The Flight Club",
+  "url": "https://www.google.com/travel/flights?q=Flights%20November%20Flying%20Blue%20Rewards%20Promotion%3A%20New%20York%20in%20business%20class%20starting%20at%2045%2C000%20miles%2C%20long-haul%20flights%20starting%20at%2018%2C750%20miles%20-%20The%20Flight%20Club",
+  "why": "premium cabin from NEW YORK",
+  "category": "flights",
+  "source": "Google: airline sale",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T08:52:30Z",
+  "dates_tried3": true,
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SNGxPQ2pYMVg5bjVFOVJNT1hFbmk0Y0tEaEJaanNJM2ZCMG14aW1HeE04SlliSDhTUVFTVDBCV1RvQy10UTFCV0piYjdjS0dxQnM2Wkl1TGZqdjlZN2Z2VEYtdkJGTzctOXJEWkZ1aGo5cXpXZnRURQ?oc=5",
+  "route_fixed": true
+ },
+ {
+  "id": "a4d71b481a7636bd",
+  "title": "November Flying Blue Rewards Promotion: New York in business class starting at 45,000 miles, long-haul flights starting at 18,750 miles - The Flight Club",
+  "url": "https://www.google.com/travel/flights?q=Flights%20November%20Flying%20Blue%20Rewards%20Promotion%3A%20New%20York%20in%20business%20class%20starting%20at%2045%2C000%20miles%2C%20long-haul%20flights%20starting%20at%2018%2C750%20miles%20-%20The%20Flight%20Club",
+  "why": "premium cabin from NEW YORK",
+  "category": "flights",
+  "source": "Google: NYC Caribbean flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T08:52:30Z",
+  "dates_tried3": true,
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SNGxPQ2pYMVg5bjVFOVJNT1hFbmk0Y0tEaEJaanNJM2ZCMG14aW1HeE04SlliSDhTUVFTVDBCV1RvQy10UTFCV0piYjdjS0dxQnM2Wkl1TGZqdjlZN2Z2VEYtdkJGTzctOXJEWkZ1aGo5cXpXZnRURQ?oc=5",
+  "route_fixed": true
+ },
+ {
+  "id": "6f8f190fe47ce8ba",
+  "title": "Alaska Air: Seattle / Las Vegas / Los Angeles / New York / Phoenix / Portland / Sacramento / San Diego / San Francisco – Tokyo / Osaka, Japan. Starting $195 (Basic Economy) / $355 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Alaska%20Air%3A%20Seattle%20/%20Las%20Vegas%20/%20Los%20Angeles%20/%20New%20York%20/%20Phoenix%20/%20Portland%20/%20Sacramento%20/%20San%20Diego%20/%20San%20Francisco%20%E2%80%93%20Tokyo%20/%20Osaka%2C%20Japan.%20Starting",
+  "why": "$195 from NEW YORK",
+  "category": "flights",
+  "source": "Google: Flight Deal NYC",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 195.0,
+  "found_at": "2026-11-02T08:52:30Z",
+  "dates_tried3": true,
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNU2NhSlIwWHFZdzNqdkMyWmxSa2lHMFJESmx1NmxYbm96a2JUU09GWmgybUx4Zzl4dXdsSGJYYUNPbjhlY0JVS1pZNm1vdzVlQW85V3ZfekZaWVEyRVJBZkZqbEp4M0dVb2JiSXhubFZZcW1BNExITE1qMktYcjBvNVV5N0hneTJpS2tKU2VfT1lHQ0RlZzZFdjE0aTBnM1VCZzdtV3RKOUtwVDlkTy1xSjhoZDZ3a3N4enhiemFGd0dTdGZVbmNjOVNZQ1JNQjB4S1o4UVJxNW1wZG1GckNWVUZOOFdhNVRtcnhrRU5oNVp2THFCdnJZbzlPbXA3MDN3Y1p3azM5V2tGVEhxcklyNlJUbFBoRlBldHc?oc=5",
+  "route_fixed": true
  }
 ]
