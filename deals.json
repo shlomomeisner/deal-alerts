@@ -18062,7 +18062,8 @@
   "price": null,
   "found_at": "2026-11-01T17:46:01Z",
   "source_url": "https://slickdeals.net/e/14617033-alo-yoga-up-to-70-off-select-items-20-off-sitewide-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T00:10:10Z"
  },
  {
   "id": "aa446990dda4df20",
@@ -18077,7 +18078,8 @@
   "price": null,
   "found_at": "2026-11-01T17:46:01Z",
   "source_url": "https://slickdeals.net/e/14587333-alo-yoga-black-friday-presale-up-to-70-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T00:10:11Z"
  },
  {
   "id": "a235061fa95f8723",
@@ -18092,7 +18094,8 @@
   "price": 20.8,
   "found_at": "2026-11-01T17:46:01Z",
   "source_url": "https://slickdeals.net/e/11494523-alo-yoga-acme-open-back-performance-tank-20-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T00:10:11Z"
  },
  {
   "id": "34641b75fd523a44",
@@ -18107,7 +18110,8 @@
   "price": 48.97,
   "found_at": "2026-11-01T17:46:01Z",
   "source_url": "https://slickdeals.net/e/11494499-alo-yoga-goddess-ribbed-leggings-48-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T00:10:12Z"
  },
  {
   "id": "ed3a1c88d1a43936",
@@ -18121,7 +18125,8 @@
   "pct": null,
   "price": 4.88,
   "found_at": "2026-11-01T17:46:05Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T00:10:14Z"
  },
  {
   "id": "6600a9dede2d3157",
@@ -18136,7 +18141,8 @@
   "price": 409.99,
   "found_at": "2026-11-01T17:46:06Z",
   "source_url": "https://slickdeals.net/f/17914617-intel-core-ultra-7-265k-gigabyte-z890m-motherboard-assassin-s-creed-shadows-bundle-microcenter-409-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T00:10:16Z"
  },
  {
   "id": "2bcdce61b2663e27",
@@ -18151,7 +18157,8 @@
   "price": 205.0,
   "found_at": "2026-11-01T17:46:06Z",
   "source_url": "https://slickdeals.net/f/17713470-creed-aventus-eau-de-parfum-3-3-fl-oz-205-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T00:10:18Z"
  },
  {
   "id": "58f6cb50121af85a",
@@ -18166,7 +18173,8 @@
   "price": 27.8,
   "found_at": "2026-11-01T17:46:06Z",
   "source_url": "https://slickdeals.net/f/15506641-assassins-creed-mythology-pack-with-code-hello22-price-even-drops-27-80?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T00:10:19Z"
  },
  {
   "id": "3992bd5ca7675ca0",
@@ -18182,7 +18190,8 @@
   "found_at": "2026-11-01T18:09:41Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20240463-xbox-series-x-all-digital-gaming-console-1tb-ssd-includes-xbox-wireless-controller-4k-gaming-120fps-robot-white-599-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-02T00:10:20Z"
  },
  {
   "id": "fd932be70fbe32b1",
@@ -18198,7 +18207,8 @@
   "found_at": "2026-11-01T18:09:41Z",
   "link_tried3": true,
   "source_url": "https://9to5mac.com/2026/07/27/deals-macbook-pro-find-my-charger-airpods/",
-  "store": "Linkedin"
+  "store": "Linkedin",
+  "checked_at": "2026-11-02T00:10:21Z"
  },
  {
   "id": "afb5c7c8ca90cff4",
@@ -18214,7 +18224,8 @@
   "found_at": "2026-11-01T18:09:41Z",
   "link_tried3": true,
   "source_url": "https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/",
-  "store": "Linkedin"
+  "store": "Linkedin",
+  "checked_at": "2026-11-02T00:10:22Z"
  },
  {
   "id": "0f35bb305926b6b1",
@@ -18230,7 +18241,8 @@
   "found_at": "2026-11-01T18:09:41Z",
   "link_tried3": true,
   "source_url": "https://9to5mac.com/2026/07/24/deals-m5-pro-macbook-pro-apple-watch-airpods-airtag-2/",
-  "store": "Linkedin"
+  "store": "Linkedin",
+  "checked_at": "2026-11-02T00:10:22Z"
  },
  {
   "id": "062e221fa7ed8963",
@@ -18246,7 +18258,8 @@
   "found_at": "2026-11-01T18:09:41Z",
   "link_tried3": true,
   "source_url": "https://9to5mac.com/2026/07/24/best-black-friday-in-july-apple-deals-50-off-airpods-pro-400-off-macbook-pro-more/",
-  "store": "Linkedin"
+  "store": "Linkedin",
+  "checked_at": "2026-11-02T00:10:23Z"
  },
  {
   "id": "b1b95375ba2e2db9",
@@ -18262,7 +18275,8 @@
   "found_at": "2026-11-01T18:09:41Z",
   "link_tried3": true,
   "source_url": "https://9to5mac.com/2026/07/23/deals-macbook-pro-series-11-airpods-25w-magsafe/",
-  "store": "Linkedin"
+  "store": "Linkedin",
+  "checked_at": "2026-11-02T00:10:24Z"
  },
  {
   "id": "95c4a11c76661bed",
@@ -18278,7 +18292,8 @@
   "found_at": "2026-11-01T18:09:41Z",
   "link_tried3": true,
   "source_url": "https://9to5mac.com/2026/07/22/deals-airtag-2-macbook-pro-iphone-17-pro-airpods-pro-3/",
-  "store": "Linkedin"
+  "store": "Linkedin",
+  "checked_at": "2026-11-02T00:10:24Z"
  },
  {
   "id": "58ce2821f497ebc8",
@@ -26051,7 +26066,7 @@
  {
   "id": "a3373cc5a3eb6d61",
   "title": "Round Trip New York - Kailua-Kona Hawaii or Vice Versa $476 Airfares on American or Delta Air Lines BE (Travel September - December 2026)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Kailua-Kona%20Hawaii%20or%20Vice%20Versa",
+  "url": "https://slickdeals.net/f/19907802-round-trip-new-york-kailua-kona-hawaii-or-vice-versa-476-airfares-on-american-or-delta-air-lines-be-travel-september-december-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -26063,13 +26078,12 @@
   "window": "September - December 2026) - 2026-08-21",
   "route_fixed": true,
   "dates_tried2": true,
-  "source_url": "https://slickdeals.net/f/19907802-round-trip-new-york-kailua-kona-hawaii-or-vice-versa-476-airfares-on-american-or-delta-air-lines-be-travel-september-december-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/19907802-round-trip-new-york-kailua-kona-hawaii-or-vice-versa-476-airfares-on-american-or-delta-air-lines-be-travel-september-december-2026?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "8a4a11eccf9e2c96",
   "title": "Round Trip New York - Maui Hawaii or Vice Versa $358 Airfares on American Airlines BE (Limited Travel February - March 2026)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Maui%20Hawaii%20or%20Vice%20Versa",
+  "url": "https://slickdeals.net/f/19124092-round-trip-new-york-maui-hawaii-or-vice-versa-358-airfares-on-american-airlines-be-limited-travel-february-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -26081,13 +26095,12 @@
   "window": "February - March 2026) - 2026-01-21",
   "route_fixed": true,
   "dates_tried2": true,
-  "source_url": "https://slickdeals.net/f/19124092-round-trip-new-york-maui-hawaii-or-vice-versa-358-airfares-on-american-airlines-be-limited-travel-february-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/19124092-round-trip-new-york-maui-hawaii-or-vice-versa-358-airfares-on-american-airlines-be-limited-travel-february-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "09ba808fe1dddcf6",
   "title": "Round Trip Chicago - Kauai Hawaii or Vice Versa $387 Airfares on American Airlines BE (Travel February - March 2026)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20Chicago%20-%20Kauai%20Hawaii%20or%20Vice%20Versa",
+  "url": "https://slickdeals.net/f/19099309-round-trip-chicago-kauai-hawaii-or-vice-versa-387-airfares-on-american-airlines-be-travel-february-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -26099,13 +26112,12 @@
   "window": "February - March 2026) - 2026-01-14",
   "route_fixed": true,
   "dates_tried2": true,
-  "source_url": "https://slickdeals.net/f/19099309-round-trip-chicago-kauai-hawaii-or-vice-versa-387-airfares-on-american-airlines-be-travel-february-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/19099309-round-trip-chicago-kauai-hawaii-or-vice-versa-387-airfares-on-american-airlines-be-travel-february-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "dc9d3e0de5994284",
   "title": "RT New York to Oahu Hawaii or Vice Versa $397 Airfares on Delta Air Lines BE (Travel January - February 2026)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Oahu%20Hawaii%20or%20Vice%20Versa",
+  "url": "https://slickdeals.net/f/18831613-rt-new-york-to-oahu-hawaii-or-vice-versa-397-airfares-on-delta-air-lines-be-travel-january-february-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -26117,13 +26129,12 @@
   "window": "January - February 2026) - 2025-11-19",
   "route_fixed": true,
   "dates_tried2": true,
-  "source_url": "https://slickdeals.net/f/18831613-rt-new-york-to-oahu-hawaii-or-vice-versa-397-airfares-on-delta-air-lines-be-travel-january-february-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/18831613-rt-new-york-to-oahu-hawaii-or-vice-versa-397-airfares-on-delta-air-lines-be-travel-january-february-2026?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "b2038ef05dfc9c5e",
   "title": "RT Buffalo or Rochester NY to Oahu Honolulu Hawaii or Vice Versa $465 Airfares on United or Delta Air Lines BE (Travel October - December 2025)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20Buffalo%20or%20Rochester%20NY%20to%20Oahu%20Honolulu%20Hawaii%20or%20Vice%20Versa",
+  "url": "https://slickdeals.net/f/18644908-rt-buffalo-or-rochester-ny-to-oahu-honolulu-hawaii-or-vice-versa-465-airfares-on-united-or-delta-air-lines-be-travel-october-december-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -26135,13 +26146,12 @@
   "window": "October - December 2025) - 2025-09-29",
   "route_fixed": true,
   "dates_tried2": true,
-  "source_url": "https://slickdeals.net/f/18644908-rt-buffalo-or-rochester-ny-to-oahu-honolulu-hawaii-or-vice-versa-465-airfares-on-united-or-delta-air-lines-be-travel-october-december-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/18644908-rt-buffalo-or-rochester-ny-to-oahu-honolulu-hawaii-or-vice-versa-465-airfares-on-united-or-delta-air-lines-be-travel-october-december-2025?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "662673e14640abf8",
   "title": "RT New York to Kauai Hawaii (The Garden Isle) or Vice Versa $443 Airfares on Delta or American Airlines BE (Travel September - November 2025)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Kauai%20Hawaii%20%20or%20Vice%20Versa",
+  "url": "https://slickdeals.net/f/18374599-rt-new-york-to-kauai-hawaii-the-garden-isle-or-vice-versa-443-airfares-on-delta-or-american-airlines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -26153,13 +26163,12 @@
   "window": "September - November 2025) - 2025-06-11",
   "route_fixed": true,
   "dates_tried2": true,
-  "source_url": "https://slickdeals.net/f/18374599-rt-new-york-to-kauai-hawaii-the-garden-isle-or-vice-versa-443-airfares-on-delta-or-american-airlines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/18374599-rt-new-york-to-kauai-hawaii-the-garden-isle-or-vice-versa-443-airfares-on-delta-or-american-airlines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "4e8397a73e591aac",
   "title": "RT New York to Kahului Maui Hawaii or Vice Versa $412 Airfares on Hawaiian / Alaska Airlines BE (Limited Travel May - June 2025)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Kahului%20Maui%20Hawaii%20or%20Vice%20Versa",
+  "url": "https://slickdeals.net/f/18250585-rt-new-york-to-kahului-maui-hawaii-or-vice-versa-412-airfares-on-hawaiian-alaska-airlines-be-limited-travel-may-june-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -26171,8 +26180,7 @@
   "window": "May - June 2025) - 2025-04-14",
   "route_fixed": true,
   "dates_tried2": true,
-  "source_url": "https://slickdeals.net/f/18250585-rt-new-york-to-kahului-maui-hawaii-or-vice-versa-412-airfares-on-hawaiian-alaska-airlines-be-limited-travel-may-june-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "link_tried3": true
+  "source_url": "https://slickdeals.net/f/18250585-rt-new-york-to-kahului-maui-hawaii-or-vice-versa-412-airfares-on-hawaiian-alaska-airlines-be-limited-travel-may-june-2025?utm_source=rss&utm_content=def&utm_medium=RSS2"
  },
  {
   "id": "57dba0632fe1cdef",
@@ -31161,9 +31169,9 @@
   "pct": null,
   "price": 469.0,
   "found_at": "2026-11-01T23:59:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238393-new-nintendo-switch-2-system-469?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "6fc760b45f0b362b",
@@ -31193,9 +31201,9 @@
   "pct": null,
   "price": 40.61,
   "found_at": "2026-11-01T23:59:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7f5fcbfe0cd2230f",
@@ -31209,9 +31217,9 @@
   "pct": null,
   "price": 203.0,
   "found_at": "2026-11-01T23:59:45Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "4798b09f06c2a9e8",
@@ -31226,9 +31234,9 @@
   "price": null,
   "found_at": "2026-11-01T23:59:45Z",
   "dates_tried2": true,
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
-  "route_fixed": true
+  "route_fixed": true,
+  "link_tried3": true
  },
  {
   "id": "363eb23e1d7d37c1",
@@ -31243,8 +31251,150 @@
   "price": 311.0,
   "found_at": "2026-11-01T23:59:45Z",
   "dates_tried2": true,
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2w2VFZSd0dDN3JEY1Q0clNUYUhRV3h0ZU1VSE1FOFNFMjJFVVhzcVJKUHFUdEczekF2NzZFQjBfSU1RRDV5aTlTVENPOU9Yb1d3YU82WjZfc19TYURsWnpfeGM2SnU5bmJvaGRqbzE5QnNzaS1xTDY1aEgtUTB5c2dPZy1iajVwSFFkZ2toZnVwTE1XMHNtVWVDSlVfaEVQUDJ5MzZOT1daaFdFUWdFSW1oRHBiQ1I0QXhKeUxjNlFBMk5uaS1oREZ4NDJOdENqSExzclVvcVFMekRyeFJhM1dTUWVfWVJ5VE5HVQ?oc=5",
-  "route_fixed": true
+  "route_fixed": true,
+  "link_tried3": true
+ },
+ {
+  "id": "862cd948a83390c1",
+  "title": "ARNETTE Sunglasses AN 4315 275... Teen Speerit Matte Black Dark - down 13.00% ($9.10) to $60.90 from $70.00",
+  "url": "https://www.amazon.com/dp/B0BXKCVLHR",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.1,
+  "found_at": "2026-11-02T00:07:44Z",
+  "source_url": "https://camelcamelcamel.com/product/B0BXKCVLHR"
+ },
+ {
+  "id": "7c1d3d18978011ac",
+  "title": "Samsung Galaxy S26 Ultra (256GB,12GB RAM) - Brand New - Purple $846.00 + tax",
+  "url": "https://www.walmart.com/search?q=Samsung+Galaxy+S26+Ultra+-+Brand+-+Purple",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ralph Lauren Purple Label",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 846.0,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238420-samsung-galaxy-s26-ultra-256gb-12gb-ram-brand-new-purple-846-00-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart"
+ },
+ {
+  "id": "bee02f2422e20e2b",
+  "title": "Hamilton Khaki Aviation 45mm Black Dial Men's Automatic Watch $923.12",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Aviation+45mm+Black+Dial+Men%27s+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 923.12,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "440b956965e70a1d",
+  "title": "41mm Tissot Men's T-Sport Sideral Powermatic Automatic Watch $399 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=41mm+Tissot+Men%27s+T-Sport+Sideral+Powermatic+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.0,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "dfbb4e78b9ab30f7",
+  "title": "Up to 66% off + Extra 12% off On Hamilton and Movado watches on Ashford $351",
+  "url": "https://www.google.com/search?tbm=shop&q=Up+to+66+off+%2B+Extra+12+off+On+Hamilton+and+Movado+watches+on+Ashford",
+  "why": "Hamilton 66% off",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": true,
+  "pct": 66,
+  "price": 351.0,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20130747-up-to-66-off-extra-12-off-on-hamilton-and-movado-watches-on-ashford-351?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "eb47f7ecbf47ad55",
+  "title": "42mm Hamilton American Classic Black Dial Men's Automatic Watch $615.10 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+American+Classic+Black+Dial+Men%27s+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 615.1,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20089467-42mm-hamilton-american-classic-black-dial-men-s-automatic-watch-615-10-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "5adcb7518a4aee90",
+  "title": "Hamilton Khaki Navy Frogman Black Dial Men's Automatic Watch (Various) $569 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+Black+Dial+Men%27s+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 569.0,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "29fa315a2e0b70ce",
+  "title": "HAMILTON Khaki Navy Scuba 37mm White Dial Unisex Quartz Watch $367",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 367.0,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "2ae3a25e98c64289",
+  "title": "HAMILTON American Classic Intra-Matic 38mm Black and Brown Dial Men's Automatic Watch $367",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+American+Classic+Intra-Matic+38mm+Black+and+Brown+Dial+Men%27s+Automatic+",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 367.0,
+  "found_at": "2026-11-02T00:07:44Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  }
 ]
