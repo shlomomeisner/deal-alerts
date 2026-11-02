@@ -14406,7 +14406,8 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-02T03:31:57Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T17:44:36Z"
  },
  {
   "id": "932e827c3e709ca0",
@@ -14420,7 +14421,8 @@
   "pct": null,
   "price": 29.99,
   "found_at": "2026-11-02T03:31:57Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T17:44:38Z"
  },
  {
   "id": "cfe3a1179b82cdfe",
@@ -14436,7 +14438,8 @@
   "found_at": "2026-11-02T03:31:57Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238999-xenoblade-chronicles-2-expansion-pass-dlc-bundle-nintendo-switch-digital-38-19-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-02T17:44:40Z"
  },
  {
   "id": "07e1caea0ccbca76",
@@ -14452,7 +14455,8 @@
   "found_at": "2026-11-02T03:31:57Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242116-bose-tv-speaker-bluetooth-soundbar-199-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T17:44:48Z"
  },
  {
   "id": "36190fbed623a3e0",
@@ -14468,7 +14472,8 @@
   "found_at": "2026-11-02T03:39:58Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235456-crkd-ult-pro-wireless-gaming-controller-for-switch-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T17:44:50Z"
  },
  {
   "id": "fcc7d47d71b9f63b",
@@ -14484,7 +14489,8 @@
   "found_at": "2026-11-02T03:55:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19715019-lululemon-fast-and-free-high-rise-classic-fit-split-short-3-black-true-navy-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Lululemon"
+  "store": "Lululemon",
+  "checked_at": "2026-11-02T17:44:51Z"
  },
  {
   "id": "15d3f8acff7d978d",
@@ -14500,7 +14506,8 @@
   "found_at": "2026-11-02T03:55:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19697817-lululemon-men-s-satin-stripe-pants-2-colors-59?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Lululemon"
+  "store": "Lululemon",
+  "checked_at": "2026-11-02T17:44:53Z"
  },
  {
   "id": "5b620a0bb9988408",
@@ -14516,35 +14523,8 @@
   "found_at": "2026-11-02T03:55:39Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20239143-dji-power-1000-v2-portable-power-station-1024wh-lfp-battery-2600w-stable-output-399-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
- },
- {
-  "id": "c986260c1627b2a5",
-  "title": "LG C6 Series OLED 55\" evo AI 4K 165Hz Smart TV $999.99",
-  "url": "https://www.amazon.com/gp/product/B0GRKGQ8HH/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 999.99,
-  "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0GRKGQ8HH/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
- },
- {
-  "id": "024b0a23cfb0dd23",
-  "title": "Evie Women's Sport Braided Nylon Band for Apple Watch $4.99",
-  "url": "https://www.amazon.com/gp/product/B0DXKF9PD4/ref=ox_sc_act_title_1?smid=AEBWK04458ULI&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 4.99,
-  "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0DXKF9PD4/ref=ox_sc_act_title_1?smid=AEBWK04458ULI&psc=1"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T17:44:54Z"
  },
  {
   "id": "858ea0213f51e571",
@@ -14558,7 +14538,8 @@
   "pct": null,
   "price": 1599.0,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0GR1BY1SZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1"
+  "store_url": "https://www.amazon.com/gp/product/B0GR1BY1SZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "checked_at": "2026-11-02T17:44:55Z"
  },
  {
   "id": "3a007e17a7789ae7",
@@ -14572,7 +14553,8 @@
   "pct": null,
   "price": 3399.0,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1"
+  "store_url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "checked_at": "2026-11-02T17:44:55Z"
  },
  {
   "id": "f132bf31b56e7ba1",
@@ -14586,7 +14568,8 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0FMRPKN3G/ref=ox_sc_act_image_1?smid=A1RS007LH1WSHI&th=1"
+  "store_url": "https://www.amazon.com/gp/product/B0FMRPKN3G/ref=ox_sc_act_image_1?smid=A1RS007LH1WSHI&th=1",
+  "checked_at": "2026-11-02T17:44:55Z"
  },
  {
   "id": "75ba5689eb1f5e51",
@@ -14600,7 +14583,8 @@
   "pct": null,
   "price": 749.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1"
+  "store_url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1",
+  "checked_at": "2026-11-02T17:44:55Z"
  },
  {
   "id": "a6653d8925ee4459",
@@ -14614,7 +14598,8 @@
   "pct": null,
   "price": 199.99,
   "found_at": "2026-11-02T03:55:39Z",
-  "store_url": "https://www.walmart.com/ip/Dyson-PencilWash-Cordless-Wet-Cleaner-Bright-Copper-New-Latest-Technology/19881062881"
+  "store_url": "https://www.walmart.com/ip/Dyson-PencilWash-Cordless-Wet-Cleaner-Bright-Copper-New-Latest-Technology/19881062881",
+  "checked_at": "2026-11-02T17:44:55Z"
  },
  {
   "id": "b3f6cccb8fd75f7e",
@@ -25598,7 +25583,7 @@
  {
   "id": "0a95b06eb24b78a2",
   "title": "Hermes Terre D'Hermes Eau de Toilette, 3.3 fl oz $89.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
+  "url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Hermes sale",
@@ -25608,8 +25593,7 @@
   "price": 89.99,
   "found_at": "2026-11-02T15:40:33Z",
   "source_url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "44bb6218c31b3c7f",
@@ -31191,5 +31175,120 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20245389-acemagic-k1-mini-pc-amd-ryzen-3-5425u-16gb-ram-512gb-ssd-up-to-4-1ghz-windows-11-pro-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon"
+ },
+ {
+  "id": "32c25cecaf63f5c0",
+  "title": "AstroAI P3 20-PSI Rechargeable Electric Paddle Board Pump for $50 + free shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=AstroAI+P3+20-PSI+Rechargeable+Electric+Paddle+Board+Pump+for",
+  "why": "",
+  "category": "amazon",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-02T17:42:26Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Astro-AI-P3-20-PSI-Rechargeable-Electric-Paddle-Board-Pump-for-50-free-shipping-w-Prime/22336751.html?iref=rss",
+  "store": "Google"
+ },
+ {
+  "id": "6d65f53929a22aa9",
+  "title": "ACEMAGIC K1 Mini PC AMD Ryzen 3 5425U, 16GB RAM 512GB SSD, Up to 4.1GHz, Windows 11 Pro $299.99",
+  "url": "https://www.amazon.com/s?k=ACEMAGIC+K1+Mini+PC+AMD+Ryzen+3+5425U+16GB+RAM+512GB+SSD+Up+to+4.1GHz+Windows+11",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Beats",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 299.99,
+  "found_at": "2026-11-02T17:42:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245389-acemagic-k1-mini-pc-amd-ryzen-3-5425u-16gb-ram-512gb-ssd-up-to-4-1ghz-windows-11-pro-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "9dd0665e43de5728",
+  "title": "Deals: Rare all-time low hits Google Home Speaker, Galaxy Z Fold 8 up to $624 off, Amazon Alexa Android Tablet, more - 9to5Google",
+  "url": "https://www.amazon.com/s?k=Deals+Rare+hits+Google+Home+Speaker+Galaxy+Z+Fold+8+up+to",
+  "why": "Galaxy — all-time low",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 624.0,
+  "found_at": "2026-11-02T17:42:26Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3gtY0xjMG81TGJWZ2pfZEc4eWI0WFozTk1nVS0zY09QdjJpV3JNcGdsREZmdmFlZUNfWkJRTVU4eG9KZkNkZm9iVVpTQlZfN01HY0I2SFFXTkVkQnMwQUZPYWJ1cmhTTGdIM2ZCaEp0SXFaQUMzQjg0SE9NN2xoMXFn?oc=5",
+  "store": "Amazon"
+ },
+ {
+  "id": "652dbd72e864758b",
+  "title": "Hisense U6 Pro Series Hi-QLED 85\" 4K UHD HDR 144Hz Smart Fire TV with Built-in Subwoofer $997.99",
+  "url": "https://www.amazon.com/gp/product/B0GT4G294Y/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 997.99,
+  "found_at": "2026-11-02T17:42:26Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GT4G294Y/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1"
+ },
+ {
+  "id": "c095c16f79f3735d",
+  "title": "Apple AirPods Max 2 Active Noise Cancelling Wireless Headphones $449",
+  "url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 449.0,
+  "found_at": "2026-11-02T17:42:26Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1"
+ },
+ {
+  "id": "f7aca872efb67ba3",
+  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
+  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.99,
+  "found_at": "2026-11-02T17:44:59Z"
+ },
+ {
+  "id": "c5c667bae1423d65",
+  "title": "$319.13 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
+  "url": "https://slickdeals.net/f/20229237-319-13-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 319.13,
+  "found_at": "2026-11-02T17:44:59Z"
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-02T17:45:09Z"
  }
 ]
