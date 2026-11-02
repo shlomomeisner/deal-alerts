@@ -144,7 +144,9 @@ def read_shopify(r):
                 v, price, was = best
                 vendor = (p.get("vendor") or "").strip()
                 title = p.get("title", "").strip()
-                if vendor and not r.get("sellers") and vendor.lower() not in title.lower() and vendor.lower() not in (r["name"].lower(), dom) \
+                if re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)+", vendor) or vendor.lower().replace(" ", "") in dom.replace("-", ""):
+            vendor = ""   # 'frame-denim' style vendor slugs are the store itself
+        if vendor and not r.get("sellers") and vendor.lower() not in title.lower() and vendor.lower() not in (r["name"].lower(), dom) \
                         and not re.search(r"\.(com|net)$", vendor, re.I):
                     title = f"{vendor} {title}"
                 img = (p.get("images") or [{}])[0].get("src")
