@@ -22042,7 +22042,8 @@
   "pct": null,
   "price": 5.07,
   "found_at": "2026-11-01T19:03:09Z",
-  "source_url": "https://camelcamelcamel.com/product/B003NLX9IS"
+  "source_url": "https://camelcamelcamel.com/product/B003NLX9IS",
+  "checked_at": "2026-11-02T05:02:42Z"
  },
  {
   "id": "32a9ef33235082d9",
@@ -22058,7 +22059,8 @@
   "found_at": "2026-11-01T19:03:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235456-crkd-ult-pro-wireless-gaming-controller-for-switch-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T05:02:44Z"
  },
  {
   "id": "de191301bb517f11",
@@ -22078,7 +22080,8 @@
   "window": "February 3rd – 10th, 2027",
   "depart": "2027-02-03",
   "return": "2027-02-10",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:02:44Z"
  },
  {
   "id": "0d62c9a8c72aac21",
@@ -22094,7 +22097,8 @@
   "found_at": "2026-11-01T19:03:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20055987-1-7-oz-viktor-rolf-flowerbomb-eau-de-parfum-59-at-sam-s-club-w-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsclub"
+  "store": "Samsclub",
+  "checked_at": "2026-11-02T05:02:46Z"
  },
  {
   "id": "205d2895654c5f05",
@@ -22109,7 +22113,8 @@
   "price": 60.0,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/19424472-armani-acqua-di-gio-profondo-eau-de-parfum-1-6-oz-60-at-ulta?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:02:48Z"
  },
  {
   "id": "195f8e8825c8bfca",
@@ -22125,7 +22130,8 @@
   "found_at": "2026-11-01T19:03:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231052-65-lg-120hz-g6-oled-evo-ai-4k-smart-tv-1999-99-free-store-pickup-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T05:02:49Z"
  },
  {
   "id": "0be4716e0cc6695f",
@@ -22140,7 +22146,8 @@
   "price": null,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:02:51Z"
  },
  {
   "id": "737265b5b502b7bf",
@@ -22156,7 +22163,8 @@
   "found_at": "2026-11-01T19:03:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20216145-lg-27gs93qe-27-inch-ultragear-oled-gaming-monitor-qhd-1440p-240hz-0-03ms-displayhdr-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T05:02:52Z"
  },
  {
   "id": "a4c7c077e28d0610",
@@ -22170,7 +22178,8 @@
   "pct": null,
   "price": 3299.99,
   "found_at": "2026-11-01T19:03:09Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T05:02:54Z"
  },
  {
   "id": "637ae057874cbdf1",
@@ -22186,7 +22195,8 @@
   "found_at": "2026-11-01T19:03:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20208231-lg-83-inch-class-lg-oled-evo-ai-w6-4k-smart-tv-2026-with-wallpaper-design-wallpaper-design-with-zero-connect-hyper-radiant-color-tech-5299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T05:02:55Z"
  },
  {
   "id": "58379e50d2c709a0",
@@ -22200,7 +22210,8 @@
   "pct": null,
   "price": 3699.99,
   "found_at": "2026-11-01T19:03:09Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T05:02:57Z"
  },
  {
   "id": "f5902e5ece4bdeea",
@@ -22214,7 +22225,8 @@
   "pct": null,
   "price": 1349.99,
   "found_at": "2026-11-01T19:03:09Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T05:02:59Z"
  },
  {
   "id": "098060876325a781",
@@ -22230,7 +22242,8 @@
   "found_at": "2026-11-01T19:03:09Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20203578-lg-48-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T05:03:01Z"
  },
  {
   "id": "5a3f40965730b97c",
@@ -22244,7 +22257,8 @@
   "pct": null,
   "price": 1900.0,
   "found_at": "2026-11-01T19:03:09Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T05:03:03Z"
  },
  {
   "id": "2ceb8f498d135ac2",
@@ -22259,7 +22273,8 @@
   "price": 1133.99,
   "found_at": "2026-11-01T19:03:09Z",
   "source_url": "https://slickdeals.net/f/20198364-lg-partner-store-39-lg-ultragear-evo-gx9-oled-5k2k-wuhd-165hz-or-wfhd-dual-mode-330hz-gaming-monitor-1133-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T05:03:05Z"
  },
  {
   "id": "0f52d6bde62a818e",
@@ -27052,7 +27067,7 @@
  {
   "id": "b52df5f99ec589c4",
   "title": "Ermenegildo Zegna Sunglasses (Polarized & Non Polarized ) $44 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Ermenegildo+Zegna+Sunglasses",
+  "url": "https://slickdeals.net/f/16357231-ermenegildo-zegna-sunglasses-polarized-non-polarized-44-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Zegna",
@@ -27062,13 +27077,12 @@
   "price": 44.0,
   "found_at": "2026-11-01T22:48:06Z",
   "source_url": "https://slickdeals.net/f/16357231-ermenegildo-zegna-sunglasses-polarized-non-polarized-44-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "5ce0ee5dd2d7ed79",
   "title": "Sunglasses Sale: Men's Sperry Striper Polarized Brow Bar Pilot Sunglasses $20 & More + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Men%27s+Sperry+Striper+Polarized+Brow+Bar+Pilot+Sunglasses",
+  "url": "https://slickdeals.net/f/16284724-sunglasses-sale-men-s-sperry-striper-polarized-brow-bar-pilot-sunglasses-20-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Zegna",
@@ -27078,8 +27092,7 @@
   "price": 20.0,
   "found_at": "2026-11-01T22:48:06Z",
   "source_url": "https://slickdeals.net/f/16284724-sunglasses-sale-men-s-sperry-striper-polarized-brow-bar-pilot-sunglasses-20-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "99275939995e9a65",
@@ -27502,7 +27515,7 @@
  {
   "id": "5c042ff697cb242a",
   "title": "25% off $150+ including Beauty & Fragrances at Saks Fifth Avenue Off 5th",
-  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+25+off",
+  "url": "https://slickdeals.net/e/14076182-25-off-150-including-beauty-fragrances-at-saks-fifth-avenue-off-5th?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Saks Off 5Th",
@@ -27512,13 +27525,12 @@
   "price": 150.0,
   "found_at": "2026-11-01T22:55:30Z",
   "source_url": "https://slickdeals.net/e/14076182-25-off-150-including-beauty-fragrances-at-saks-fifth-avenue-off-5th?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "0b0c31099345d89c",
   "title": "Best gaming monitor deal: LG's 27-inch 240Hz OLED hits all-time low - Mashable",
-  "url": "https://www.google.com/search?tbm=shop&q=Best+gaming+monitor+LG%27s+27-inch+240Hz+OLED+hits+-+Mashable",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
   "why": "Oled — all-time low",
   "category": "tech",
   "source": "Google: OLED TV deal",
@@ -27528,8 +27540,7 @@
   "price": null,
   "found_at": "2026-11-01T22:55:30Z",
   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "faf069eb5ab2a546",
@@ -31780,9 +31791,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlnyug/wts_soie_malaquais_althair_exclusif_mojave_ghost/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "0e14d3d945dbc2ba",
@@ -31828,9 +31839,9 @@
   "pct": null,
   "price": 85.99,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18922537-prada-luna-rossa-black-eau-de-parfum-3-4-fl-oz-85-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "0709f0b000deddb6",
@@ -31844,9 +31855,9 @@
   "pct": null,
   "price": 78.0,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18866659-prada-luna-rossa-black-78-3-4oz-100ml-eau-de-parfum-cologne-perfume-fragrance?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "632adad319d10069",
@@ -31860,9 +31871,9 @@
   "pct": null,
   "price": 60.0,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18441607-prada-mens-luna-rossa-ocean-le-parfum-fragrance-collection-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "76f79eaa97db5163",
@@ -31892,9 +31903,9 @@
   "pct": null,
   "price": 24.0,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1c9db0cfedae3d5c",
@@ -31924,9 +31935,9 @@
   "pct": null,
   "price": 70.44,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16382902-prada-luna-rossa-carbon-edt-5-1-oz-70-44?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f94febf73acb0401",
@@ -31940,9 +31951,9 @@
   "pct": null,
   "price": 84.0,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15610654-fragrance-eau-de-toilette-set-sale-viktor-rolf-spicebomb-infrared-eau-de-toilette-set-84-many-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2671a9094cc0c4ca",
@@ -31956,9 +31967,9 @@
   "pct": 40,
   "price": 37.0,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15490825-prada-luna-rossa-by-prada-men-s-eau-de-toilette-spray-3-4-fl-oz-37-with-clipping-40-off-subscribe-and-save-ymmv-discount-36?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9c9b5b55999a51e9",
@@ -31972,73 +31983,134 @@
   "pct": null,
   "price": 56.0,
   "found_at": "2026-11-02T04:51:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15490657-prada-luna-rossa-sport-edt-similar-to-jpg-le-male-56-fs-20-sd-cash-back?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "link_tried3": true
+ },
+ {
+  "id": "54a20a5cc9491208",
+  "title": "Neiman Marcus: 70% Off Select Beauty Styles (Include Estee Lauder, Dior, Bobbi Brown, Kiehls, Lancome)",
+  "url": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+70+Off+Select+Beauty+Styles",
+  "why": "Dior 70% off",
+  "category": "fashion",
+  "source": "Slickdeals: Neiman Marcus",
+  "urgent": false,
+  "hot": true,
+  "pct": 70,
+  "price": null,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google"
  },
  {
-  "id": "4f0a1c4bc4a70083",
-  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
-  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "e789cfe279e183ea",
+  "title": "Allen Edmonds Strand Leather Oxfords (black) - $166.40 in cart",
+  "url": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Strand+Leather+Oxfords+-",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "fashion",
+  "source": "Slickdeals: Neiman Marcus",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 30.0,
-  "found_at": "2026-11-02T04:54:47Z"
+  "price": 166.4,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
-  "id": "369670327d50bde8",
-  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
-  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "65ee083a514a6160",
+  "title": "Neiman Marcus: Allen Edmonds Park Avenue Leather Oxford Shoes - Walnut color $166.38",
+  "url": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+Allen+Edmonds+Park+Avenue+Leather+Oxford+Shoes+-+Walnut+color",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "fashion",
+  "source": "Slickdeals: Neiman Marcus",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 7.19,
-  "found_at": "2026-11-02T04:54:47Z"
+  "price": 166.38,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
-  "id": "31f6427c01fdc368",
-  "title": "Assassins Creed Black Flag Resynced Launch Edition - Xbox Series X - $35@Walmart - IN STORE ONLY - YMMV",
-  "url": "https://slickdeals.net/f/20045712-assassins-creed-black-flag-resynced-launch-edition-xbox-series-x-35-walmart-in-store-only-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "d7ba0fc871f0cfad",
+  "title": "Acqua Di Gio Parfum Men's Cologne 2.5 oz $96",
+  "url": "https://www.google.com/search?tbm=shop&q=Acqua+Di+Gio+Parfum+Men%27s+Cologne+2.5+oz",
   "why": "",
   "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "source": "Slickdeals: Neiman Marcus",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 35.0,
-  "found_at": "2026-11-02T04:54:47Z"
+  "price": 96.0,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17476674-acqua-di-gio-parfum-men-s-cologne-2-5-oz-96?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
-  "id": "54c78884a6741a29",
-  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
-  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "83b90e344940a7c7",
+  "title": "$500 off $2000 purchase at Neiman Marcus",
+  "url": "https://slickdeals.net/f/17086246-500-off-2000-purchase-at-neiman-marcus?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
-  "source": "Web search: Creed price drop",
+  "source": "Slickdeals: Neiman Marcus",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 49.99,
-  "found_at": "2026-11-02T04:54:48Z"
+  "price": 500.0,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true
  },
  {
-  "id": "4316bff61d09c558",
-  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
-  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "acc1d60a34841477",
+  "title": "10-Oz Dior Sauvage Fragrance Refill (Eau de Toilette) $117.50 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=10-Oz+Dior+Sauvage+Fragrance+Refill",
   "why": "",
   "category": "fragrance",
-  "source": "Web search: Creed price drop",
+  "source": "Slickdeals: Neiman Marcus",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 15.49,
-  "found_at": "2026-11-02T04:54:48Z"
+  "price": 117.5,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16813154-10-oz-dior-sauvage-fragrance-refill-eau-de-toilette-117-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "e2b00d8598cad55a",
+  "title": "Bottega Veneta Men's Mix Of Stripes Shirt $6900",
+  "url": "https://www.google.com/search?tbm=shop&q=Bottega+Veneta+Men%27s+Mix+Of+Stripes+Shirt",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Neiman Marcus",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6900.0,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "4b5bd515ad0c0825",
+  "title": "Nike Women's Air Jordan 3 Retro Basketball Sneaker $98.40 + Free Shipping",
+  "url": "https://www.nordstrom.com/sr?keyword=Nike+Women%27s+Air+Jordan+3+Retro+Basketball+Sneaker",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Jordan",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 98.4,
+  "found_at": "2026-11-02T04:59:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20242353-nike-women-s-air-jordan-3-retro-basketball-sneaker-98-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom"
  }
 ]
