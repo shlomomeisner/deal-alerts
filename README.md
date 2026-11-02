@@ -1,4 +1,4 @@
-# Deal Alerts  
+# Deal Alerts   
 
 Checks deal feeds every 5 minutes and pushes the crazy ones to your iPhone:
 luxury fashion (Gucci, Ferragamo, …), all clothing and sneakers, colognes,
