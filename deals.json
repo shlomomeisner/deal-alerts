@@ -293,7 +293,8 @@
   "found_at": "2026-11-02T19:40:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-02T23:19:15Z"
  },
  {
   "id": "f87c45a50a2c99fe",
@@ -311,7 +312,8 @@
   "source_url": "https://slickdeals.net/f/20228721-apple-airpods-pro-3-with-2-years-of-applecare-and-free-delivery-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20with%202%20years%20of%20AppleCare%2B%20and%20free%20delivery",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:16Z"
  },
  {
   "id": "a34af878c028dad6",
@@ -327,7 +329,8 @@
   "found_at": "2026-11-02T19:40:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-02T23:19:18Z"
  },
  {
   "id": "ed0421360bbe2d8a",
@@ -345,7 +348,8 @@
   "source_url": "https://slickdeals.net/f/20222082-apple-airpods-4-wireless-earbuds-w-usb-c-case-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Apple+AirPods+4+Wireless+Earbuds+w+USB-C+Case+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:19Z"
  },
  {
   "id": "9ed1a1e43f8bf353",
@@ -361,7 +365,8 @@
   "found_at": "2026-11-02T19:40:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-02T23:19:21Z"
  },
  {
   "id": "f5f0347898a67885",
@@ -379,7 +384,8 @@
   "source_url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=3-in-1+Esr+MagSafe+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+AirPods",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:22Z"
  },
  {
   "id": "a25ea3bd4e779bfb",
@@ -397,7 +403,8 @@
   "source_url": "https://slickdeals.net/f/20219658-3-in-1-mag-safe-wireless-charger-stand-for-iphone-apple-watch-airpods-adjustable-blue-ambient-light-15w-magnetic-charging-station-17-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=3+in+1+Mag-Safe+Wireless+Charger+Stand+for+iPhone+Apple+Watch+AirPods+Adjustable",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:23Z"
  },
  {
   "id": "0c9efd3b613f6a56",
@@ -415,7 +422,8 @@
   "source_url": "https://slickdeals.net/f/20218311-apple-airpods-max-2-wireless-over-ear-headphones-various-colors-449-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirPods+Max+2+Wireless+Over-Ear+Headphones+various+colors",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:24Z"
  },
  {
   "id": "ae6e3961453f489a",
@@ -431,7 +439,8 @@
   "found_at": "2026-11-02T19:40:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-02T23:19:26Z"
  },
  {
   "id": "f43f13e352c80404",
@@ -449,7 +458,8 @@
   "source_url": "https://slickdeals.net/f/20212419-good-refurbished-apple-airpods-pro-3-wireless-active-noise-canceling-earbuds-mfhp4ll-a-123-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20Wireless%20Active%20Noise%20Canceling%20Earbuds",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:27Z"
  },
  {
   "id": "330ee2bf704d7a09",
@@ -465,7 +475,8 @@
   "found_at": "2026-11-02T19:40:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-02T23:19:29Z"
  },
  {
   "id": "c02a3963418d4a60",
@@ -483,7 +494,8 @@
   "source_url": "https://slickdeals.net/f/20194467-prime-members-lamicall-3-in-1-wireless-magsafe-charging-station-for-apple-iphone-watch-and-airpods-18-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Prime+Members+Lamicall+3+in+1+Wireless+Magsafe+Charging+Station+for+Apple+iPhone",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:30Z"
  },
  {
   "id": "715f5f3f24c44f8d",
@@ -501,7 +513,8 @@
   "source_url": "https://slickdeals.net/f/20246001-new-apple-watch-se-3-gps-cellular-44mm-starlight-aluminum-case-starlight-sport-band-m-l-239-00-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Apple+Watch+SE+3+44mm+Starlight+Aluminum+Case+Starlight+Sport+Band+-+M+L+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:31Z"
  },
  {
   "id": "330f7f021486eb25",
@@ -517,7 +530,8 @@
   "found_at": "2026-11-02T19:40:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-02T23:19:32Z"
  },
  {
   "id": "5b6ccc76075e74a6",
@@ -535,7 +549,8 @@
   "source_url": "https://slickdeals.net/f/20235120-65-samsung-s84h-oled-4k-uhd-120hz-smart-tv-2026-999-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=65+Samsung+S84H+OLED+4K+UHD+120Hz+Smart+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-02T23:19:33Z"
  },
  {
   "id": "ffc3ad11412daa89",
@@ -30332,7 +30347,7 @@
  {
   "id": "cbc85877bec86c27",
   "title": "Neiman Marcus: 70% Off Select Beauty Styles (Include Estee Lauder, Dior, Bobbi Brown, Kiehls, Lancome)",
-  "url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+70+Off+Select+Beauty+Styles",
   "why": "",
   "category": "fashion",
   "source": "Web search: Dior sale",
@@ -30344,7 +30359,8 @@
   "source_url": "https://slickdeals.net/f/19682640-neiman-marcus-70-off-select-beauty-styles-include-estee-lauder-dior-bobbi-brown-kiehls-lancome?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+70+Off+Select+Beauty+Styles",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "43cb25979017526a",
@@ -30365,7 +30381,7 @@
  {
   "id": "bd2ced4dc114d0c4",
   "title": "1.7-oz Dior Fahrenheit Eau De Toilette Spray + $10 Walgreens Cash $54.40 + Free Shipping",
-  "url": "https://slickdeals.net/f/18938728-1-7-oz-dior-fahrenheit-eau-de-toilette-spray-10-walgreens-cash-54-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=1.7-oz+Dior+Fahrenheit+Eau+De+Toilette+Spray+%2B",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Dior sale",
@@ -30377,12 +30393,13 @@
   "source_url": "https://slickdeals.net/f/18938728-1-7-oz-dior-fahrenheit-eau-de-toilette-spray-10-walgreens-cash-54-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=1.7-oz+Dior+Fahrenheit+Eau+De+Toilette+Spray+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a661a01d0c76545a",
   "title": "Woot App: Sauvage Elixir by Christian Dior for Men Parfum Concentre Spray, 2.0 Fl Oz $132.79",
-  "url": "https://slickdeals.net/f/18890782-woot-app-sauvage-elixir-by-christian-dior-for-men-parfum-concentre-spray-2-0-fl-oz-132-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+App+Sauvage+Elixir+by+Christian+Dior+for+Men+Parfum+Concentre+Spray+2.0+Fl+",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Dior sale",
@@ -30394,12 +30411,13 @@
   "source_url": "https://slickdeals.net/f/18890782-woot-app-sauvage-elixir-by-christian-dior-for-men-parfum-concentre-spray-2-0-fl-oz-132-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App+Sauvage+Elixir+by+Christian+Dior+for+Men+Parfum+Concentre+Spray+2.0+Fl+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c667784a5531ed06",
   "title": "Woot App: Dior Sauvage for Men Eau de Parfum Spray, 6.80 Fl Oz $151.99",
-  "url": "https://slickdeals.net/f/18890704-woot-app-dior-sauvage-for-men-eau-de-parfum-spray-6-80-fl-oz-151-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+App+Dior+Sauvage+for+Men+Eau+de+Parfum+Spray+6.80+Fl+Oz",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Dior sale",
@@ -30411,12 +30429,13 @@
   "source_url": "https://slickdeals.net/f/18890704-woot-app-dior-sauvage-for-men-eau-de-parfum-spray-6-80-fl-oz-151-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App+Dior+Sauvage+for+Men+Eau+de+Parfum+Spray+6.80+Fl+Oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a6baa6a4ef76ced2",
   "title": "Christian Dior Sauvage Elixir Spray 2oz ($154) or 3.4oz ($204) + Free Shipping + No Tax",
-  "url": "https://slickdeals.net/f/18491815-christian-dior-sauvage-elixir-spray-2oz-154-or-3-4oz-204-free-shipping-no-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Dior+Sauvage+Elixir+Spray+2oz",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Dior sale",
@@ -30428,7 +30447,8 @@
   "source_url": "https://slickdeals.net/f/18491815-christian-dior-sauvage-elixir-spray-2oz-154-or-3-4oz-204-free-shipping-no-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Dior+Sauvage+Elixir+Spray+2oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "83d24aa1b5486f1f",
@@ -30451,7 +30471,7 @@
  {
   "id": "9280566d8def2b42",
   "title": "Dior Joy 1.7oz EDP at Walgreens for $80",
-  "url": "https://slickdeals.net/f/17958912-dior-joy-1-7oz-edp-at-walgreens-for-80?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dior+Joy+1.7oz+EDP+at+Walgreens+for",
   "why": "",
   "category": "fashion",
   "source": "Web search: Dior sale",
@@ -30463,12 +30483,13 @@
   "source_url": "https://slickdeals.net/f/17958912-dior-joy-1-7oz-edp-at-walgreens-for-80?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dior+Joy+1.7oz+EDP+at+Walgreens+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1cfaa4b9701e9c3f",
   "title": "CHRISTIAN DIOR J'Adore Women Eau De Parfume Spray, 1.7 Ounce for $35.99",
-  "url": "https://slickdeals.net/f/17861532-christian-dior-j-adore-women-eau-de-parfume-spray-1-7-ounce-for-35-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=CHRISTIAN+DIOR+J%27Adore+Women+Eau+De+Parfume+Spray+1.7+Ounce+for",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Dior sale",
@@ -30480,12 +30501,13 @@
   "source_url": "https://slickdeals.net/f/17861532-christian-dior-j-adore-women-eau-de-parfume-spray-1-7-ounce-for-35-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CHRISTIAN+DIOR+J%27Adore+Women+Eau+De+Parfume+Spray+1.7+Ounce+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2185edefe1f13f23",
   "title": "2-Pc 3.4-Oz Limited Edition DIOR Sauvage Eau de Parfum Gift Set w/ .33-Oz Refillable Travel Spray $148.75 + Free Shipping",
-  "url": "https://slickdeals.net/f/17851836-2-pc-3-4-oz-limited-edition-dior-sauvage-eau-de-parfum-gift-set-w-33-oz-refillable-travel-spray-148-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=2-Pc+3.4-Oz+Limited+Edition+DIOR+Sauvage+Eau+de+Parfum+Gift+Set+w+.33-Oz+Refilla",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Dior sale",
@@ -30497,7 +30519,8 @@
   "source_url": "https://slickdeals.net/f/17851836-2-pc-3-4-oz-limited-edition-dior-sauvage-eau-de-parfum-gift-set-w-33-oz-refillable-travel-spray-148-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2-Pc+3.4-Oz+Limited+Edition+DIOR+Sauvage+Eau+de+Parfum+Gift+Set+w+.33-Oz+Refilla",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1579ba7733a176dc",
@@ -30537,7 +30560,7 @@
  {
   "id": "c9ab4103ac83332b",
   "title": "DIOR VIII Montaigne Automatic Mother of Pearl Dial Ladies Watch CD1535I0M001 for $1995",
-  "url": "https://slickdeals.net/f/15023710-dior-viii-montaigne-automatic-mother-of-pearl-dial-ladies-watch-cd1535i0m001-for-1995?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DIOR+VIII+Montaigne+Automatic+Mother+of+Pearl+Dial+Ladies+Watch+CD1535I0M001+for",
   "why": "",
   "category": "watches",
   "source": "Web search: Dior price drop",
@@ -30549,12 +30572,13 @@
   "source_url": "https://slickdeals.net/f/15023710-dior-viii-montaigne-automatic-mother-of-pearl-dial-ladies-watch-cd1535i0m001-for-1995?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DIOR+VIII+Montaigne+Automatic+Mother+of+Pearl+Dial+Ladies+Watch+CD1535I0M001+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0c9f664c28d0f3bb",
   "title": "DIOR Christian Dior Blue Antiglare Aviator Ladies Sunglasses DIORMONSIEUR106JA963 for $109.99",
-  "url": "https://slickdeals.net/f/15023476-dior-christian-dior-blue-antiglare-aviator-ladies-sunglasses-diormonsieur106ja963-for-109-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DIOR+Christian+Dior+Blue+Antiglare+Aviator+Ladies+Sunglasses+DIORMONSIEUR106JA96",
   "why": "",
   "category": "fashion",
   "source": "Web search: Dior price drop",
@@ -30566,12 +30590,13 @@
   "source_url": "https://slickdeals.net/f/15023476-dior-christian-dior-blue-antiglare-aviator-ladies-sunglasses-diormonsieur106ja963-for-109-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DIOR+Christian+Dior+Blue+Antiglare+Aviator+Ladies+Sunglasses+DIORMONSIEUR106JA96",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "edd1123fa72023b1",
   "title": "Shoppers Agree This $6 Glitter Liquid Lipstick Gives the Dior Sequin Look ‘If You Don’t Want to Pay the Price’ - SheKnows",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelM5S0M2WDRBRXA5ZHRoOGU1RG9FUTNzWmltRTZudkc4RHZiUTJWX3QzSGZSc2thRXRqZ2t5OWg1aWYzYkJzZFgzMjZpaFNpNlFpb1Zzam5sQlZQVTdMUnNWNnRfN202aUJEZEFFUzQwNWYzdzFkcXRkNHNmYUpsRFVURzJza1pJeDQzZFdB?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Shoppers+Agree+This",
   "why": "",
   "category": "fashion",
   "source": "Web search: Dior price drop",
@@ -30583,7 +30608,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelM5S0M2WDRBRXA5ZHRoOGU1RG9FUTNzWmltRTZudkc4RHZiUTJWX3QzSGZSc2thRXRqZ2t5OWg1aWYzYkJzZFgzMjZpaFNpNlFpb1Zzam5sQlZQVTdMUnNWNnRfN202aUJEZEFFUzQwNWYzdzFkcXRkNHNmYUpsRFVURzJza1pJeDQzZFdB?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Shoppers+Agree+This",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f89488c930b239d6",
@@ -30606,7 +30632,7 @@
  {
   "id": "38e67716b4c36cf3",
   "title": "Chanel LE LIFT CREME YEUX, 5.6 oz. $79.99",
-  "url": "https://slickdeals.net/f/18632623-chanel-le-lift-creme-yeux-5-6-oz-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Chanel+LE+LIFT+CREME+YEUX+5.6+oz.",
   "why": "",
   "category": "fashion",
   "source": "Web search: Chanel sale",
@@ -30618,7 +30644,8 @@
   "source_url": "https://slickdeals.net/f/18632623-chanel-le-lift-creme-yeux-5-6-oz-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+LE+LIFT+CREME+YEUX+5.6+oz.",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9b036219f4552daa",
@@ -30641,7 +30668,7 @@
  {
   "id": "2e5e365e63c67976",
   "title": "Chanel 2025 Results: $19.3 Billion Revenue, Growth with Blazy and New Price Increases - nss magazine",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
   "why": "",
   "category": "fashion",
   "source": "Web search: Chanel price drop",
@@ -30653,7 +30680,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b3831e98cafa48f5",
@@ -30742,7 +30770,7 @@
  {
   "id": "b36eb719c1dd0591",
   "title": "Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce $77.12",
-  "url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Hermes sale",
@@ -30754,7 +30782,8 @@
   "source_url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7202089894b4dcd8",
@@ -30777,7 +30806,7 @@
  {
   "id": "0a95b06eb24b78a2",
   "title": "Hermes Terre D'Hermes Eau de Toilette, 3.3 fl oz $89.99",
-  "url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Hermes sale",
@@ -30789,7 +30818,8 @@
   "source_url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "44bb6218c31b3c7f",
@@ -30864,7 +30894,7 @@
  {
   "id": "f450d125d6ad996d",
   "title": "Celine Micro Luggage Handbag | Black Calfskin (Open Box) $1,199 w/ Free Prime Ship $1199",
-  "url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Celine+Micro+Luggage+Handbag+Black+Calfskin",
   "why": "",
   "category": "fashion",
   "source": "Web search: Celine sale",
@@ -30876,12 +30906,13 @@
   "source_url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Celine+Micro+Luggage+Handbag+Black+Calfskin",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a78f4a290a6ed9c5",
   "title": "Celine Micro Luggage (Black) Made in Italy - $1,999.99 w/ Free Prime Ship Sold by WOOT $1999.99",
-  "url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Celine+Micro+Luggage+Made+in+Italy+-",
   "why": "",
   "category": "everything",
   "source": "Web search: Celine sale",
@@ -30893,12 +30924,13 @@
   "source_url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Celine+Micro+Luggage+Made+in+Italy+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c6daa3e06e63574c",
   "title": "CELINE Geometric Ladies Sunglasses CL40069U30N61 for $159.99 + FS",
-  "url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
   "why": "",
   "category": "fashion",
   "source": "Web search: Celine sale",
@@ -30910,12 +30942,13 @@
   "source_url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "20a6bf1289cb092e",
   "title": "Celine 48 Hour Sale - Price Reduced on 100+ Items | Ladies Vertical Celine Cabas Tote $899.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Celine+48+Hour+-+Price+Reduced+on+100%2B+Items+Ladies+Vertical+Celine+Cabas+Tote",
   "why": "",
   "category": "everything",
   "source": "Web search: Celine sale",
@@ -30927,12 +30960,13 @@
   "source_url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Celine+48+Hour+-+Price+Reduced+on+100%2B+Items+Ladies+Vertical+Celine+Cabas+Tote",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7295333c0a81b9f9",
   "title": "Tom Ford 55mm Rectangular Sunglasses $169.97 + Free Shipping",
-  "url": "https://slickdeals.net/f/19766439-tom-ford-55mm-rectangular-sunglasses-169-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+55mm+Rectangular+Sunglasses",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -30944,7 +30978,8 @@
   "source_url": "https://slickdeals.net/f/19766439-tom-ford-55mm-rectangular-sunglasses-169-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+55mm+Rectangular+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5a8d2fa57f57aca1",
@@ -30999,7 +31034,7 @@
  {
   "id": "b4a690db13db8255",
   "title": "Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)",
-  "url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Week+1+early+Black+Friday+Doorbusters+Pixel+11+series+up+to",
   "why": "Watch 25% off",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31011,12 +31046,13 @@
   "source_url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Week+1+early+Black+Friday+Doorbusters+Pixel+11+series+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ecf9686a375f71aa",
   "title": "Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo’s new Android tablets $316 off, more",
-  "url": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31028,12 +31064,13 @@
   "source_url": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1242bb5e9589d09c",
   "title": "Deals: Galaxy Z Fold 8/Ultra up to $570+ off, CMF Watch 3 Pro for $59, buds from $20, more",
-  "url": "https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
   "why": "Watch deal",
   "category": "watches",
   "source": "9to5Google deals",
@@ -31045,12 +31082,13 @@
   "source_url": "https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0f51d815491d1a4a",
   "title": "Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more",
-  "url": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+up+to",
   "why": "Watch 55% off",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31062,12 +31100,13 @@
   "source_url": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9860226c4f9edf23",
   "title": "Deals: Pixel 11 Pro Fold up to $419 off, S26 Ultra $420 off, HP OLED Copilot+ PC all-time low, more",
-  "url": "https://9to5google.com/2026/10/22/deals-pixel-11-pro-fold-s26-ultra-hp-oled-copilot-pc/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+Pro+Fold+up+to",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31079,7 +31118,8 @@
   "source_url": "https://9to5google.com/2026/10/22/deals-pixel-11-pro-fold-s26-ultra-hp-oled-copilot-pc/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+Pro+Fold+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fd5e455c70a68264",
@@ -31102,7 +31142,7 @@
  {
   "id": "2740f2bb886c3165",
   "title": "Deals: Galaxy S26 Ultra $455 off brand new, TCL Android tab at $150, docks, magnetic chargers, more",
-  "url": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra",
   "why": "Galaxy — 35% off",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31114,12 +31154,13 @@
   "source_url": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0745a5a7f4c274c5",
   "title": "Deals: Galaxy Z Fold 8 up to $570 off, Galaxy Tab S12 + FREE $200 gift card, Sony 1000XM6 buds, more",
-  "url": "https://9to5google.com/2026/10/19/deals-galaxy-z-fold-8-galaxy-tab-s12-1000xm6-buds/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31131,7 +31172,8 @@
   "source_url": "https://9to5google.com/2026/10/19/deals-galaxy-z-fold-8-galaxy-tab-s12-1000xm6-buds/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1f7cadfbb99814a7",
@@ -31154,7 +31196,7 @@
  {
   "id": "0232225337867deb",
   "title": "Deals: Pixel Watch 5 up to $108 off, TCL NXTPAPER phone $200, Anker’s new Smart Display Hub, more from $20",
-  "url": "https://9to5google.com/2026/10/14/deals-pixel-watch-5-tcl-nxtpaper-anker-display-hub/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+Watch+5+up+to",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31166,12 +31208,13 @@
   "source_url": "https://9to5google.com/2026/10/14/deals-pixel-watch-5-tcl-nxtpaper-anker-display-hub/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+Watch+5+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e6ab3dae48f0dc06",
   "title": "Deals: Nothing Phone (3) $280 off, Headphone (a) 40% off, Pixel 11 devices up to $365 off, Lenovo Idea Tab $142, more",
-  "url": "https://9to5google.com/2026/10/13/deals-nothing-phone-3-headphone-a-pixel-11-idea-tab/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Nothing+Phone",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31183,7 +31226,8 @@
   "source_url": "https://9to5google.com/2026/10/13/deals-nothing-phone-3-headphone-a-pixel-11-idea-tab/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Nothing+Phone",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b4430ac6f90e6b18",
@@ -31206,7 +31250,7 @@
  {
   "id": "6eb88430e1a0600f",
   "title": "Deals: Galaxy S26/Ultra up to $510 off, Lenovo IdeaPad 2K touchscreen laptop $250 off, Anker chargers, more",
-  "url": "https://9to5google.com/2026/10/09/deals-galaxy-s26-ultra-lenovo-ideapad-2k-pc-anker/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra+up+to",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31218,12 +31262,13 @@
   "source_url": "https://9to5google.com/2026/10/09/deals-galaxy-s26-ultra-lenovo-ideapad-2k-pc-anker/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "75a99058f79b7d48",
   "title": "Deals: Galaxy Z Fold 8 up to $628 off, Pixel 11 Pro up to nearly $400 off, Nothing Headphone (a) 35% off, more",
-  "url": "https://9to5google.com/2026/10/08/deals-galaxy-z-fold-8-pixel-11-pro-nothing-headphone-a/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
   "why": "Ipad — 35% off",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31235,12 +31280,13 @@
   "source_url": "https://9to5google.com/2026/10/08/deals-galaxy-z-fold-8-pixel-11-pro-nothing-headphone-a/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b67aa7f3a2bd641",
   "title": "Prime Day 2 deals – Last chance: Galaxy Tab S12 up to $650 off w/ trade, S11 $355 off, Galaxy Z Fold 8 all-time low, more",
-  "url": "https://9to5google.com/2026/10/07/samsung-galaxy-tab-s12ultra-launch-deals-now-live-up-to-650-off/",
+  "url": "https://www.google.com/search?tbm=shop&q=Prime+Day+2+deals+Last+chance+Galaxy+Tab+S12+up+to",
   "why": "Watch deal",
   "category": "watches",
   "source": "9to5Google deals",
@@ -31252,12 +31298,13 @@
   "source_url": "https://9to5google.com/2026/10/07/samsung-galaxy-tab-s12ultra-launch-deals-now-live-up-to-650-off/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prime+Day+2+deals+Last+chance+Galaxy+Tab+S12+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c14bc31bde6015f2",
   "title": "Prime Day 1 deals: Z Fold 8/Ultra $400 off, Pixel 11 series $300 off, Pixel Watch 5 from $335, Surface Laptops, more",
-  "url": "https://9to5google.com/2026/10/06/prime-day-1-deals-galaxy-z-fold-8-pixel-11-pixel-watch-5/",
+  "url": "https://www.google.com/search?tbm=shop&q=Prime+Day+1+deals+Z+Fold+8+Ultra",
   "why": "Watch deal",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31269,12 +31316,13 @@
   "source_url": "https://9to5google.com/2026/10/06/prime-day-1-deals-galaxy-z-fold-8-pixel-11-pixel-watch-5/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prime+Day+1+deals+Z+Fold+8+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "763d7dd298e5c1c7",
   "title": "All of the best fall Prime Day deals: Pixel 11, Galaxy Z Fold 8, chargers, smart home, TVs, more",
-  "url": "https://9to5google.com/2026/10/06/best-fall-prime-day-deals-pixel-galaxy/",
+  "url": "https://www.google.com/search?tbm=shop&q=All+of+the+best+fall+Prime+Day+deals+Pixel+11+Galaxy+Z+Fold+8+chargers+smart+hom",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31286,12 +31334,13 @@
   "source_url": "https://9to5google.com/2026/10/06/best-fall-prime-day-deals-pixel-galaxy/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=All+of+the+best+fall+Prime+Day+deals+Pixel+11+Galaxy+Z+Fold+8+chargers+smart+hom",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0f74265d5f7068ca",
   "title": "Deals: Galaxy Z Fold 8 up to $546 off, Belkin magnetic charging stations from $43, up to $1,100 off TVs, more",
-  "url": "https://9to5google.com/2026/10/01/deals-galaxy-z-fold-8-belkin-magnetic-charging-stations/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31303,12 +31352,13 @@
   "source_url": "https://9to5google.com/2026/10/01/deals-galaxy-z-fold-8-belkin-magnetic-charging-stations/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "90a06632e253238a",
   "title": "Deals: All-new Fire TV Stick 4K 50% off, Galaxy S26 Ultra $335 off, NXTPAPER Android tabs, MotoTag 2, more",
-  "url": "https://9to5google.com/2026/09/30/deals-new-fire-tv-stick-4k-50-off-galaxy-s26-ultra/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+All-+Fire+TV+Stick+4K+50+off+Galaxy+S26+Ultra",
   "why": "Watch 50% off",
   "category": "watches",
   "source": "9to5Google deals",
@@ -31320,12 +31370,13 @@
   "source_url": "https://9to5google.com/2026/09/30/deals-new-fire-tv-stick-4k-50-off-galaxy-s26-ultra/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+All-+Fire+TV+Stick+4K+50+off+Galaxy+S26+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b227593def969e25",
   "title": "Deals: Galaxy Z Fold 8 up to $530 off, Lenovo Tab Plus Gen 2 $270 off, Echo speakers/displays 50% off, more",
-  "url": "https://9to5google.com/2026/09/28/deals-galaxy-fold-8-lenovo-tab-plus-gen-2-echo-displays/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+up+to",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31337,12 +31388,13 @@
   "source_url": "https://9to5google.com/2026/09/28/deals-galaxy-fold-8-lenovo-tab-plus-gen-2-echo-displays/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2ab1a155ccf9ffcd",
   "title": "Deals: Pixel 11 from under $750, TCL NXTPAPER phones from $180, up to $1,100 off Copilot+ PCs and laptops, more",
-  "url": "https://9to5google.com/2026/09/24/score-unlocked-pixel-11-at-under-750-via-best-buy-today/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+from+under",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31354,12 +31406,13 @@
   "source_url": "https://9to5google.com/2026/09/24/score-unlocked-pixel-11-at-under-750-via-best-buy-today/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+from+under",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f443e6760f67035b",
   "title": "Deals: Nothing CMF Buds Neo $21 all-time low, Galaxy Z Fold 8 $380 off, huge laptop discounts up to $1,050 off, more",
-  "url": "https://9to5google.com/2026/09/23/deals-galaxy-fold-8-nothing-buds-neo-ring-doorbell-4k/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+CMF+Buds+Neo",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31371,12 +31424,13 @@
   "source_url": "https://9to5google.com/2026/09/23/deals-galaxy-fold-8-nothing-buds-neo-ring-doorbell-4k/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+CMF+Buds+Neo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6b3c5a2e5ea5d76a",
   "title": "Deals: Galaxy Z Fold 8 Ultra up to $577 off, Fold 8 $250+ off, Copilot+ PC sale up to $650 off, more",
-  "url": "https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31388,12 +31442,13 @@
   "source_url": "https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c0a30bc4f2e9d7d4",
   "title": "Deals: Pixel Watch 5 LTE $100 off, Pixel 11 $120 off, Lenovo Yoga Mini PC $320 off, Bose flash sale, more",
-  "url": "https://9to5google.com/2026/09/17/deals-pixel-watch-5-pixel-11-lenovo-yoga-mini-pc-bose/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+LTE",
   "why": "Watch deal",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31405,7 +31460,8 @@
   "source_url": "https://9to5google.com/2026/09/17/deals-pixel-watch-5-pixel-11-lenovo-yoga-mini-pc-bose/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+LTE",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "991d5d381bb5ca8f",
@@ -31446,7 +31502,7 @@
  {
   "id": "944a3eb58ee13576",
   "title": "Deals: Galaxy Z Fold 8 + Galaxy Watch 8/Ultra 2 up to $520 off, Pixel 11 models up to $322 off, more",
-  "url": "https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/",
+  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+%2B+Galaxy+Watch+8+Ultra+2+up+to",
   "why": "Watch deal",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31458,12 +31514,13 @@
   "source_url": "https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+%2B+Galaxy+Watch+8+Ultra+2+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "28965c7b41204eb8",
   "title": "Deals: Galaxy Z Fold 8 lowest price ever at $250 off, Lenovo Pro Gen 2 Android tab $315, Nothing Ear (3a) $80, more",
-  "url": "https://9to5google.com/2026/09/08/deals-galaxy-z-fold-8-lowest-price-lenovo-tab-pro-gen-2/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+lowest+price+ever+at",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31475,12 +31532,13 @@
   "source_url": "https://9to5google.com/2026/09/08/deals-galaxy-z-fold-8-lowest-price-lenovo-tab-pro-gen-2/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+lowest+price+ever+at",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "130b3bd57183a26a",
   "title": "All of the best Labor Day deals: Galaxy Z Fold 8 $250 off, Pixel 11, Anker chargers, TVs, much more",
-  "url": "https://9to5google.com/2026/09/07/all-best-labor-day-deals/",
+  "url": "https://www.google.com/search?tbm=shop&q=All+of+the+best+Labor+Day+deals+Galaxy+Z+Fold+8",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31492,7 +31550,8 @@
   "source_url": "https://9to5google.com/2026/09/07/all-best-labor-day-deals/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=All+of+the+best+Labor+Day+deals+Galaxy+Z+Fold+8",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "211d55fec2cce644",
@@ -31515,7 +31574,7 @@
  {
   "id": "686e65776560924d",
   "title": "Deals: Pixel 11 Pro up to $242 off, Moto Tag 2 trackers from $17.50 each, Lenovo’s new 3.5K Android tablet at $332, more",
-  "url": "https://9to5google.com/2026/09/03/deals-pixel-11-pro-moto-tag-2-new-lenovo-android-tablet/",
+  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+11+Pro+up+to",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -31527,7 +31586,8 @@
   "source_url": "https://9to5google.com/2026/09/03/deals-pixel-11-pro-moto-tag-2-new-lenovo-android-tablet/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+11+Pro+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "26144aed9c9cbbf4",
@@ -31648,7 +31708,7 @@
  {
   "id": "cc5ddc38102b2f9b",
   "title": "Montblanc Star Legacy 39MM Automatic Silvery White Dial Men's Watch $1245 + Free Shipping",
-  "url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Star+Legacy+39MM+Automatic+Silvery+White+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Montblanc sale",
@@ -31660,12 +31720,13 @@
   "source_url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Star+Legacy+39MM+Automatic+Silvery+White+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "506b1c5f7c1afa0b",
   "title": "Montblanc Legend Red EDP 3-Piece Set $47.99 at Woot",
-  "url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Montblanc sale",
@@ -31677,12 +31738,13 @@
   "source_url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "65c3c21550761d7f",
   "title": "Montblanc Legend Red EDP Set with Shower Gel $45.99 @ Woot!",
-  "url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+Set+with+Shower+Gel",
   "why": "",
   "category": "everything",
   "source": "Web search: Montblanc sale",
@@ -31694,7 +31756,8 @@
   "source_url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+Set+with+Shower+Gel",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "290564de42ba60a6",
@@ -31717,7 +31780,7 @@
  {
   "id": "d1832e44e95ecf28",
   "title": "Montblanc Watches: 41MM TimeWalker Automatic Black Dial Men's Watch $1250, 47MM 1858 Automatic Black Dial Men's Watch​ $1450 & More+ Free Shipping",
-  "url": "https://slickdeals.net/f/18192610-montblanc-watches-41mm-timewalker-automatic-black-dial-men-s-watch-1250-47mm-1858-automatic-black-dial-men-s-watch-1450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Watches+41MM+TimeWalker+Automatic+Black+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Montblanc sale",
@@ -31729,12 +31792,13 @@
   "source_url": "https://slickdeals.net/f/18192610-montblanc-watches-41mm-timewalker-automatic-black-dial-men-s-watch-1250-47mm-1858-automatic-black-dial-men-s-watch-1450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Watches+41MM+TimeWalker+Automatic+Black+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "698cfd32665b0692",
   "title": "Parker & Bailey Granite & Stone Cleaner - Countertop Kitchen Island Cleaning Spray Marble Tile Slate Quartz $8.54 or less S&S Shipped AMZ",
-  "url": "https://slickdeals.net/f/18998011-parker-bailey-granite-stone-cleaner-countertop-kitchen-island-cleaning-spray-marble-tile-slate-quartz-8-54-or-less-s-s-shipped-amz?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Parker+%26+Bailey+Granite+%26+Stone+Cleaner+-+Countertop+Kitchen+Island+Cleaning+Spr",
   "why": "",
   "category": "amazon",
   "source": "Web search: Stone Island sale",
@@ -31746,12 +31810,13 @@
   "source_url": "https://slickdeals.net/f/18998011-parker-bailey-granite-stone-cleaner-countertop-kitchen-island-cleaning-spray-marble-tile-slate-quartz-8-54-or-less-s-s-shipped-amz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Parker+%26+Bailey+Granite+%26+Stone+Cleaner+-+Countertop+Kitchen+Island+Cleaning+Spr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4ce5dc3fd998fd2f",
   "title": "Ralph Lauren 2-Piece World of Polo Eau de Toilette Gift Set $21.00",
-  "url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+2-Piece+World+of+Polo+Eau+de+Toilette+Gift+Set",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -31763,7 +31828,8 @@
   "source_url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+2-Piece+World+of+Polo+Eau+de+Toilette+Gift+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "eed71a7e4bf0757e",
@@ -31784,7 +31850,7 @@
  {
   "id": "6691b6ace28a316e",
   "title": "[Prime] Ralph Lauren Ralph 3.4-Oz Eau de Toilette $61.80 + Free Shipping",
-  "url": "https://slickdeals.net/f/20120679-prime-ralph-lauren-ralph-3-4-oz-eau-de-toilette-61-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+Ralph+3.4-Oz+Eau+de+Toilette",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -31796,7 +31862,8 @@
   "source_url": "https://slickdeals.net/f/20120679-prime-ralph-lauren-ralph-3-4-oz-eau-de-toilette-61-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+Ralph+3.4-Oz+Eau+de+Toilette",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "014503e4a4a560fa",
@@ -31819,7 +31886,7 @@
  {
   "id": "2c809cbe5896224c",
   "title": "4-Piece Lauren Ralph Lauren Spencer 475-Thread Count Cotton Sateen Sheet Set (Queen, Various Colors) $67.83 + Free Shipping",
-  "url": "https://slickdeals.net/f/20071476-4-piece-lauren-ralph-lauren-spencer-475-thread-count-cotton-sateen-sheet-set-queen-various-colors-67-83-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=4-Piece+Lauren+Ralph+Lauren+Spencer+475-Thread+Count+Cotton+Sateen+Sheet+Set",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -31831,7 +31898,8 @@
   "source_url": "https://slickdeals.net/f/20071476-4-piece-lauren-ralph-lauren-spencer-475-thread-count-cotton-sateen-sheet-set-queen-various-colors-67-83-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=4-Piece+Lauren+Ralph+Lauren+Spencer+475-Thread+Count+Cotton+Sateen+Sheet+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a28278797dcd11cd",
@@ -31872,7 +31940,7 @@
  {
   "id": "3538ca55be5517b5",
   "title": "Extra 30% Off: Ralph Lauren Labor Day Event",
-  "url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Extra+30+Off+Ralph+Lauren+Labor+Day+Event",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -31884,7 +31952,8 @@
   "source_url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Extra+30+Off+Ralph+Lauren+Labor+Day+Event",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "107edceb6e627b94",
@@ -31907,7 +31976,7 @@
  {
   "id": "fd989c2d449ff3f4",
   "title": "2.5oz Ralph Lauren Men's Polo 67 Eau de Parfum $40 + Free S&H",
-  "url": "https://slickdeals.net/f/19910031-2-5oz-ralph-lauren-men-s-polo-67-eau-de-parfum-40-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=2.5oz+Ralph+Lauren+Men%27s+Polo+67+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -31919,12 +31988,13 @@
   "source_url": "https://slickdeals.net/f/19910031-2-5oz-ralph-lauren-men-s-polo-67-eau-de-parfum-40-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2.5oz+Ralph+Lauren+Men%27s+Polo+67+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3cb5ee87c6fcda30",
   "title": "2.5-Oz Ralph Lauren Polo 67 Eau de Parfum Cologne for Men $40 + Free Shipping",
-  "url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=2.5-Oz+Ralph+Lauren+Polo+67+Eau+de+Parfum+Cologne+for+Men",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -31936,7 +32006,8 @@
   "source_url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2.5-Oz+Ralph+Lauren+Polo+67+Eau+de+Parfum+Cologne+for+Men",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6257337fcf8ce88c",
@@ -31959,7 +32030,7 @@
  {
   "id": "2dd6d9f3306bd4e4",
   "title": "Polo Ralph Lauren Men's Jogger Pull-On Pants $47.83",
-  "url": "https://slickdeals.net/f/19841034-polo-ralph-lauren-men-s-jogger-pull-on-pants-47-83?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Jogger+Pull-On+Pants",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -31971,7 +32042,8 @@
   "source_url": "https://slickdeals.net/f/19841034-polo-ralph-lauren-men-s-jogger-pull-on-pants-47-83?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Jogger+Pull-On+Pants",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c6db07af82aca579",
@@ -32082,7 +32154,7 @@
  {
   "id": "1154e731d10180f6",
   "title": "UGG Women's GoldenGlow Toggle Sandals $47.99 + Free Store Pick-Up at Urban Outfitters or FS on $60+",
-  "url": "https://slickdeals.net/f/20132436-ugg-women-s-goldenglow-toggle-sandals-47-99-free-store-pick-up-at-urban-outfitters-or-fs-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+GoldenGlow+Toggle+Sandals",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -32094,12 +32166,13 @@
   "source_url": "https://slickdeals.net/f/20132436-ugg-women-s-goldenglow-toggle-sandals-47-99-free-store-pick-up-at-urban-outfitters-or-fs-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+GoldenGlow+Toggle+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8600342f3c4cba30",
   "title": "[Prime] UGG Whitecap 50\" x 70\" Plush Fleece Throw Blanket (3 Colors) $59.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20123034-prime-ugg-whitecap-50-x-70-plush-fleece-throw-blanket-3-colors-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=UGG+Whitecap+50+x+70+Plush+Fleece+Throw+Blanket",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -32111,12 +32184,13 @@
   "source_url": "https://slickdeals.net/f/20123034-prime-ugg-whitecap-50-x-70-plush-fleece-throw-blanket-3-colors-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Whitecap+50+x+70+Plush+Fleece+Throw+Blanket",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b0294b35224565c2",
   "title": "Woot! Fall Shoes: Hunter, UGG, & More: Muck Men's Excursion Pro Mid Boots $54.60 & More + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/20114961-woot-fall-shoes-hunter-ugg-more-muck-men-s-excursion-pro-mid-boots-54-60-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Fall+Shoes+Hunter+UGG+%26+More+Muck+Men%27s+Excursion+Pro+Mid+Boots",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -32128,12 +32202,13 @@
   "source_url": "https://slickdeals.net/f/20114961-woot-fall-shoes-hunter-ugg-more-muck-men-s-excursion-pro-mid-boots-54-60-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+Fall+Shoes+Hunter+UGG+%26+More+Muck+Men%27s+Excursion+Pro+Mid+Boots",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "14a7a98841b879c7",
   "title": "Extra 22% off on Fall Shoes: Hunter, UGG, & More at Woot!",
-  "url": "https://slickdeals.net/f/20119698-extra-22-off-on-fall-shoes-hunter-ugg-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Fall+Shoes+Hunter+UGG+%26+More",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -32145,12 +32220,13 @@
   "source_url": "https://slickdeals.net/f/20119698-extra-22-off-on-fall-shoes-hunter-ugg-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Fall+Shoes+Hunter+UGG+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "be30aca49322bcde",
   "title": "Koolaburra by UGG Women's FUZZ'N II Sandal, Natural, Size 8 - $22.74 and More Options",
-  "url": "https://slickdeals.net/f/16996177-koolaburra-by-ugg-women-s-fuzz-n-ii-sandal-natural-size-8-22-74-and-more-options?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+UGG+Women%27s+FUZZ%27N+II+Sandal+Natural+Size+8+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -32162,7 +32238,8 @@
   "source_url": "https://slickdeals.net/f/16996177-koolaburra-by-ugg-women-s-fuzz-n-ii-sandal-natural-size-8-22-74-and-more-options?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+UGG+Women%27s+FUZZ%27N+II+Sandal+Natural+Size+8+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "09687fe832f9c337",
@@ -32183,7 +32260,7 @@
  {
   "id": "3322fca0cfcfd333",
   "title": "Koolaburra by Ugg Women's Sherpa Fleece Shawl $15 & More + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/16406656-koolaburra-by-ugg-women-s-sherpa-fleece-shawl-15-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+Ugg+Women%27s+Sherpa+Fleece+Shawl",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -32195,12 +32272,13 @@
   "source_url": "https://slickdeals.net/f/16406656-koolaburra-by-ugg-women-s-sherpa-fleece-shawl-15-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+Ugg+Women%27s+Sherpa+Fleece+Shawl",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77f948fe4e384991",
   "title": "Saks off 5th: ugg perforated shearling glove [free shipping via shop runner] small/large size only. $31.49",
-  "url": "https://slickdeals.net/e/13738088-saks-off-5th-ugg-perforated-shearling-glove-free-shipping-via-shop-runner-small-large-size-only-31-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+off+5th+ugg+perforated+shearling+glove+small+large+size+only.",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -32212,12 +32290,13 @@
   "source_url": "https://slickdeals.net/e/13738088-saks-off-5th-ugg-perforated-shearling-glove-free-shipping-via-shop-runner-small-large-size-only-31-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+off+5th+ugg+perforated+shearling+glove+small+large+size+only.",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "091b78066110c6fa",
   "title": "UGG Women's W Bailey Bow Ii Fashion Boot for $49.95! Huge Price Drop!",
-  "url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -32229,12 +32308,13 @@
   "source_url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c7c25f4522cc2567",
   "title": "UGG Women's W Bailey Bow Ii Fashion Boot for just $49.95! Huge Price Drop!",
-  "url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for+just",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -32246,12 +32326,13 @@
   "source_url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for+just",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c259de3fd306fe4c",
   "title": "UGG Clearance Sale! Up to 60% off plus extra 10% off with code",
-  "url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=UGG+Clearance+Up+to+60+off+plus+extra+10+off+with+code",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -32263,12 +32344,13 @@
   "source_url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Clearance+Up+to+60+off+plus+extra+10+off+with+code",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c9a57d5e29a9684a",
   "title": "UGG Classic Unlined Mini Ankle Boot (Women's) Reg. $120 now $48.71 + F/S",
-  "url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=UGG+Classic+Unlined+Mini+Ankle+Boot+Reg.",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -32280,7 +32362,8 @@
   "source_url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Classic+Unlined+Mini+Ankle+Boot+Reg.",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1c42be5557486691",
@@ -32389,7 +32472,7 @@
  {
   "id": "b2557d982da30f08",
   "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
-  "url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
   "why": "Gucci 90% off",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32401,12 +32484,13 @@
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d3a8ce236e51ad33",
   "title": "Tom Ford Black Orchid Eau de Parfum, 3.4 fl oz $129.99",
-  "url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+Eau+de+Parfum+3.4+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32418,12 +32502,13 @@
   "source_url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+Eau+de+Parfum+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a0b5b2729d136e9a",
   "title": "Carolina Herrera Bad Boy Cobalt Eau de Parfum, 3.4fl oz - 96.99 + free ship w/ Prime $96.99",
-  "url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Carolina+Herrera+Bad+Boy+Cobalt+Eau+de+Parfum+3.4fl+oz+-+96.99+%2B+free+ship+w+Pri",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32435,12 +32520,13 @@
   "source_url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Carolina+Herrera+Bad+Boy+Cobalt+Eau+de+Parfum+3.4fl+oz+-+96.99+%2B+free+ship+w+Pri",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4d13cc315dd48493",
   "title": "Tom Ford Black Orchid EDP, 3.4 fl oz $99.99",
-  "url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+EDP+3.4+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32452,12 +32538,13 @@
   "source_url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+EDP+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9da7d1c217c4e1b7",
   "title": "2-Piece Valentino Donna Born In Roma Eau de Parfum Travel Gift Set $25 + Free Store Pickup at Ulta or FS $35+",
-  "url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
   "why": "Valentino 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32469,12 +32556,13 @@
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "681503701533b759",
   "title": "Tom Ford Ombre Leather Eau de Parfum 3.4 oz $139.99 Woot.com Free Shipping Prime Members",
-  "url": "https://slickdeals.net/f/18954397-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-139-99-woot-com-free-shipping-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Tom+Ford+Ombre+Leather+Eau+de+Parfum+3.4+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32486,7 +32574,8 @@
   "source_url": "https://slickdeals.net/f/18954397-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-139-99-woot-com-free-shipping-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Tom+Ford+Ombre+Leather+Eau+de+Parfum+3.4+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3f3072efe11d3559",
@@ -32509,7 +32598,7 @@
  {
   "id": "6c8a268a7572e974",
   "title": "Still Black Friday Fragrance Sale @Jomashop Up to 70% Off",
-  "url": "https://slickdeals.net/f/18935725-still-black-friday-fragrance-sale-jomashop-up-to-70-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Still+Black+Friday+Fragrance+Jomashop+Up+to+70+Off",
   "why": "Ysl 70% off",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32521,12 +32610,13 @@
   "source_url": "https://slickdeals.net/f/18935725-still-black-friday-fragrance-sale-jomashop-up-to-70-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Still+Black+Friday+Fragrance+Jomashop+Up+to+70+Off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9ac1b8e61dcddd72",
   "title": "3.4-Oz Tom Ford Ombre Leather Men's Eau De Parfum $112 ~ Woot",
-  "url": "https://slickdeals.net/f/18931168-3-4-oz-tom-ford-ombre-leather-men-s-eau-de-parfum-112-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+3.4-Oz+Tom+Ford+Ombre+Leather+Men%27s+Eau+De+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -32538,7 +32628,8 @@
   "source_url": "https://slickdeals.net/f/18931168-3-4-oz-tom-ford-ombre-leather-men-s-eau-de-parfum-112-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+3.4-Oz+Tom+Ford+Ombre+Leather+Men%27s+Eau+De+Parfum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dcbce20c1f11daaf",
@@ -32561,7 +32652,7 @@
  {
   "id": "e5a5c56c22e7e510",
   "title": "Asiana: New York – Phuket, Thailand. $845. Roundtrip, including all Taxes",
-  "url": "https://www.theflightdeal.com/2026/11/02/asiana-new-york-phuket-thailand-845-roundtrip-including-all-taxes/",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjBqBRIDTllDcgUSA0hLVBoaEgoyMDI3LTAxLTI3agUSA0hLVHIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "🌴 NEW YORK → Phuket",
   "category": "flights",
   "source": "The Flight Deal",
@@ -32581,7 +32672,8 @@
    "HKT"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HKT&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HKT&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "118f29e19d9d17ae",
@@ -32620,7 +32712,7 @@
  {
   "id": "40d02f40b2459ebe",
   "title": "83\" LG C6 OLED evo AI 4K 120Hz HDR Smart TV $2387 + Free S&H",
-  "url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -32632,7 +32724,8 @@
   "source_url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b6c724522b71db96",
@@ -33087,7 +33180,7 @@
  {
   "id": "b5aebddf30698b4a",
   "title": "Birkenstock Women's Tokio Shoes (Pure Sage) $89.97 + Free Shipping",
-  "url": "https://slickdeals.net/f/20060742-birkenstock-women-s-tokio-shoes-pure-sage-89-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Tokio+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Birkenstock sale",
@@ -33099,12 +33192,13 @@
   "source_url": "https://slickdeals.net/f/20060742-birkenstock-women-s-tokio-shoes-pure-sage-89-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Tokio+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d625588df1eab94d",
   "title": "Birkenstock Women's Arizona Stealth Buckle EVA Sandals (Purple or Green) $24.62 + Free Shipping on $49",
-  "url": "https://slickdeals.net/f/20060568-birkenstock-women-s-arizona-stealth-buckle-eva-sandals-purple-or-green-24-62-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+Stealth+Buckle+EVA+Sandals",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -33116,12 +33210,13 @@
   "source_url": "https://slickdeals.net/f/20060568-birkenstock-women-s-arizona-stealth-buckle-eva-sandals-purple-or-green-24-62-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+Stealth+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "10b632780d304597",
   "title": "Birkenstock Women's Florida Flex 1\" Platform EVA Sandals (Fondant Pink) $24.78 + Free Shipping on $49+",
-  "url": "https://slickdeals.net/f/20037927-birkenstock-women-s-florida-flex-1-platform-eva-sandals-fondant-pink-24-78-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+1+Platform+EVA+Sandals",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -33133,12 +33228,13 @@
   "source_url": "https://slickdeals.net/f/20037927-birkenstock-women-s-florida-flex-1-platform-eva-sandals-fondant-pink-24-78-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+1+Platform+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e45576141ed523ab",
   "title": "Birkenstock Women's Florida Flex Platform Sandals (Sage) $51.18 + Free Shipping",
-  "url": "https://slickdeals.net/f/20033217-birkenstock-women-s-florida-flex-platform-sandals-sage-51-18-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+Platform+Sandals",
   "why": "",
   "category": "everything",
   "source": "Web search: Birkenstock sale",
@@ -33150,12 +33246,13 @@
   "source_url": "https://slickdeals.net/f/20033217-birkenstock-women-s-florida-flex-platform-sandals-sage-51-18-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "539146d6a8ca86c9",
   "title": "Birkenstock Women's Papillio Boston Chunky Platform Clogs (Beige) $61.98 + Free Shipping",
-  "url": "https://slickdeals.net/f/20027190-birkenstock-women-s-papillio-boston-chunky-platform-clogs-beige-61-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Papillio+Boston+Chunky+Platform+Clogs",
   "why": "",
   "category": "fashion",
   "source": "Web search: Birkenstock sale",
@@ -33167,7 +33264,8 @@
   "source_url": "https://slickdeals.net/f/20027190-birkenstock-women-s-papillio-boston-chunky-platform-clogs-beige-61-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Papillio+Boston+Chunky+Platform+Clogs",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0163d693f67d81d2",
@@ -34330,7 +34428,8 @@
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20FCO&hl=en&gl=us&curr=USD",
   "route_fixed2": true,
-  "window": "January 19th – 28th, 2027"
+  "window": "January 19th – 28th, 2027",
+  "link_tried3": true
  },
  {
   "id": "a87feb5542c6d227",
@@ -34344,11 +34443,11 @@
   "pct": null,
   "price": 10.0,
   "found_at": "2026-11-02T23:03:21Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xVHV5ZTlXSjI5ZjlLT2dJSXN2QTJaY0ZvUzUzUlIwOVVzTV8ta1Y5N25scXFmMWU0a21BSzlLRXUtb0RCQVVPVDREdmxscG90Y09GNFRPbnhPWHh4R255eEtvR0pFb3BuOWhrZUg0ZS1sRl9WZjhEamluYjRuS1k?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Can+Alo+Yoga+Get+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "439def7af7e5e4dd",
@@ -34445,7 +34544,8 @@
    "FCO"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20FCO&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20FCO&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "a6ece1aa4c20be65",
@@ -34495,11 +34595,11 @@
   "pct": null,
   "price": 70.0,
   "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HackMotion+Sensor+4",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a49bf2882bee8bfb",
@@ -36029,6 +36129,183 @@
   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SNGxPQ2pYMVg5bjVFOVJNT1hFbmk0Y0tEaEJaanNJM2ZCMG14aW1HeE04SlliSDhTUVFTVDBCV1RvQy10UTFCV0piYjdjS0dxQnM2Wkl1TGZqdjlZN2Z2VEYtdkJGTzctOXJEWkZ1aGo5cXpXZnRURQ?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20November%20Flying%20Blue%20Rewards%20Promotion%3A%20New%20York%20in%20business%20class%20starting%20at%2045%2C000%20miles%2C%20long-haul%20flights%20starting%20at%2018%2C750%20miles%20-%20The%20Flight%20Club",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
+ },
+ {
+  "id": "beb5eb13957136ef",
+  "title": "adidas Victory League Giftset including Eau de Toilette (1.6fl oz.) and Shower Gel (8.4fl oz.), For Him $9.99",
+  "url": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.99,
+  "found_at": "2026-11-02T23:16:42Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20228817-adidas-victory-league-giftset-including-eau-de-toilette-1-6fl-oz-and-shower-gel-8-4fl-oz-for-him-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
+  "exact": false
+ },
+ {
+  "id": "a2e1a27774ffeda1",
+  "title": "3.38-Oz Charlotte Tilbury Magic Energy Eau de Parfum $75 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=3.38-Oz+Charlotte+Tilbury+Magic+Energy+Eau+de+Parfum",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 75.0,
+  "found_at": "2026-11-02T23:16:42Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20216409-3-38-oz-charlotte-tilbury-magic-energy-eau-de-parfum-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=3.38-Oz+Charlotte+Tilbury+Magic+Energy+Eau+de+Parfum",
+  "exact": false
+ },
+ {
+  "id": "e0be10baeb0c7f3e",
+  "title": "Lattafa Layaan – Fruity, Floral, Woody, Musky – Eau de Parfum Spray Long-Lasting Fragrance for Women, 2.53 Ounce / 75 ml",
+  "url": "https://www.amazon.com/s?k=Lattafa+Layaan+Fruity+Floral+Woody+Musky+Eau+de+Parfum+Spray+Long-Lasting+Fragra",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T23:16:42Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20215362-lattafa-layaan-fruity-floral-woody-musky-eau-de-parfum-spray-long-lasting-fragrance-for-women-2-53-ounce-75-ml?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Lattafa+Layaan+Fruity+Floral+Woody+Musky+Eau+de+Parfum+Spray+Long-Lasting+Fragra",
+  "exact": false
+ },
+ {
+  "id": "9f1a04adb07a6c19",
+  "title": "Fragrances from D&G, Creed and More! at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T23:16:42Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "exact": false
+ },
+ {
+  "id": "c5c667bae1423d65",
+  "title": "$319.13 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
+  "url": "https://slickdeals.net/f/20229237-319-13-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: AirPods Max deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 319.13,
+  "found_at": "2026-11-02T23:19:39Z"
+ },
+ {
+  "id": "6ff2e255ec4a138b",
+  "title": "85W USB C Super Fast Charger and 3+6+10+10ft USB C to C Cable Long, Type C Block Plug Brick/Android Phone Charging Cord for Samsung Galaxy S26/S25/iPhone Duo 18 17 Pro $19.99",
+  "url": "https://slickdeals.net/f/20244963-85w-usb-c-super-fast-charger-and-3-6-10-10ft-usb-c-to-c-cable-long-type-c-block-plug-brick-android-phone-charging-cord-for-samsung-galaxy-s26-s25-iphone-duo-18-17-pro-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-02T23:19:42Z"
+ },
+ {
+  "id": "1a7a80ba45218cd6",
+  "title": "Portable Charger with Built in Cables for iPhone 18/17/16/15/14/13, Android, Samsung $11.50",
+  "url": "https://slickdeals.net/f/20244072-portable-charger-with-built-in-cables-for-iphone-18-17-16-15-14-13-android-samsung-11-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": 50,
+  "price": 11.5,
+  "found_at": "2026-11-02T23:19:42Z"
+ },
+ {
+  "id": "da530866d3aebd91",
+  "title": "Otterbox Case for iPhone 17 Pro / iPhone 18 Pro, Defender Series XT Pro Dual-Layer with Military Grade Drop Protection, MagSafe Capable, Clear / Black + Free Shipping $12.88",
+  "url": "https://slickdeals.net/f/20243409-otterbox-case-for-iphone-17-pro-iphone-18-pro-defender-series-xt-pro-dual-layer-with-military-grade-drop-protection-magsafe-capable-clear-black-free-shipping-12-88?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.88,
+  "found_at": "2026-11-02T23:19:42Z"
+ },
+ {
+  "id": "1762bd8ec2df3170",
+  "title": "Magnetic Wireless Charger, 2-Pack 15W Fast Mag-Safe Stand for iPhone $5.99",
+  "url": "https://slickdeals.net/f/20241108-magnetic-wireless-charger-2-pack-15w-fast-mag-safe-stand-for-iphone-5-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 5.99,
+  "found_at": "2026-11-02T23:19:42Z"
+ },
+ {
+  "id": "0189cb783e77e606",
+  "title": "Open Box DJI Osmo Mobile 7 Gimbal Stabilizer for iPhone, Android, Built-in Tripod, Portable Stabilizer $33.47",
+  "url": "https://slickdeals.net/f/20239680-open-box-dji-osmo-mobile-7-gimbal-stabilizer-for-iphone-android-built-in-tripod-portable-stabilizer-33-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 33.47,
+  "found_at": "2026-11-02T23:19:42Z"
+ },
+ {
+  "id": "17df92ae43093b3d",
+  "title": "INIU - Portable Charger, Compact 10000mAh PD 22.5W Power Bank for iPhone, Samsung etc - Black $15.99",
+  "url": "https://slickdeals.net/f/20231478-iniu-portable-charger-compact-10000mah-pd-22-5w-power-bank-for-iphone-samsung-etc-black-15-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.99,
+  "found_at": "2026-11-02T23:19:42Z"
+ },
+ {
+  "id": "b7506fbbe1045a5a",
+  "title": "Anker Zolo Power Bank,20,000mAh 30W Portable Charger with Built-in USB-C | High-Speed Charging for iPhone 17 / 16 / 15 Series, Galaxy, various colors $35.99",
+  "url": "https://slickdeals.net/f/20229630-anker-zolo-power-bank-20-000mah-30w-portable-charger-with-built-in-usb-c-high-speed-charging-for-iphone-17-16-15-series-galaxy-various-colors-35-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 35.99,
+  "found_at": "2026-11-02T23:19:42Z"
  }
 ]
