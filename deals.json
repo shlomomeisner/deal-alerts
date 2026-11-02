@@ -14034,7 +14034,8 @@
   "pct": null,
   "price": 34.99,
   "found_at": "2026-11-02T05:36:46Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T18:30:34Z"
  },
  {
   "id": "d901894a06582d1f",
@@ -14050,7 +14051,8 @@
   "found_at": "2026-11-02T05:36:46Z",
   "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOandSV3hmejlCWHdKMHFWYWVfWmJFbVhlbWtnU3N4a0F0N2RmX0FrWWRtcXo0TDF2cG14QXUzbjZsUDFrUzY1NW5hVktmb2V3c1M3d3h6MjZYaEZaOU9iSzVHcnVLWHp4d3dVZzM1Y1EtRzhoNXJrUDhvTmx0emQxdm1DcUE0Z3Z3N2tRdVdBQUNTYUwzUVRz?oc=5",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:30:34Z"
  },
  {
   "id": "f9e0c4854f9817c0",
@@ -14065,7 +14067,8 @@
   "price": 5814.0,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/16241629-40-off-tom-ford-men-s-suede-leather-sartorial-blazer-5814?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:30:36Z"
  },
  {
   "id": "086873fa9721c914",
@@ -14080,7 +14083,8 @@
   "price": 15.0,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/16163620-wilton-bath-towel-in-the-color-vintage-sky-for-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:30:38Z"
  },
  {
   "id": "a1eb753ad86d4d62",
@@ -14095,7 +14099,8 @@
   "price": 175.0,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/15940465-lancome-idole-perfume-mother-s-day-gift-set-175-value-108-clearance-price?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:30:40Z"
  },
  {
   "id": "aaa73f90b1cc0c22",
@@ -14110,7 +14115,8 @@
   "price": 70.0,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:30:42Z"
  },
  {
   "id": "98dd40ba97710215",
@@ -14126,7 +14132,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20233980-apple-geek-squad-refurbished-good-13-inch-ipad-air-m3-chip-built-for-apple-intelligence-wi-fi-256gb-blue-764-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T18:30:43Z"
  },
  {
   "id": "c5a715c854432ca2",
@@ -14142,7 +14149,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20232909-goldyipe-usb-c-sd-card-reader-for-iphone-ipad-macbook-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:30:44Z"
  },
  {
   "id": "69eb9e21fed14945",
@@ -14158,7 +14166,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20229048-2-in-1-switch-2-dock-capture-card-1080p-60fps-for-switch-2-oled-usb-c-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:30:47Z"
  },
  {
   "id": "8cc0c28c413b787a",
@@ -14174,7 +14183,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:30:48Z"
  },
  {
   "id": "bf05b400f2640474",
@@ -14188,7 +14198,8 @@
   "pct": null,
   "price": 699.99,
   "found_at": "2026-11-02T05:45:04Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T18:30:49Z"
  },
  {
   "id": "025f393744599bc9",
@@ -14204,7 +14215,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20235552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-with-translucent-gray-ocean-band-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T18:30:50Z"
  },
  {
   "id": "07f9aa529a179b46",
@@ -14220,7 +14232,8 @@
   "found_at": "2026-11-02T05:45:04Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20234550-walmart-fs-70-or-60-ac-with-code-ymmv-apple-airtag-2nd-generation-4-pack?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-02T18:30:51Z"
  },
  {
   "id": "16a79e1fd870939c",
@@ -14234,7 +14247,8 @@
   "pct": null,
   "price": 699.99,
   "found_at": "2026-11-02T05:45:04Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T18:30:52Z"
  },
  {
   "id": "9890a148c90d15cb",
@@ -14249,7 +14263,8 @@
   "price": 338.53,
   "found_at": "2026-11-02T05:45:04Z",
   "source_url": "https://slickdeals.net/f/20232045-new-apple-watch-series-11-smartwatch-gps-cellular-sleep-score-fitness-tracker-health-monitoring-always-on-display-water-resistant-338-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T18:30:55Z"
  },
  {
   "id": "72c2bf559522d12a",
@@ -25190,7 +25205,7 @@
  {
   "id": "4f9b3520b5f09a01",
   "title": "UGG Women's Lo Lowmel Sneaker: Artichoke (6-8) $49.98, Campfire $63.72 + Free Shipping $89+",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+Lo+Lowmel+Sneaker%3A+Artichoke",
+  "url": "https://slickdeals.net/f/20175075-ugg-women-s-lo-lowmel-sneaker-artichoke-6-8-49-98-campfire-63-72-free-shipping-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -25200,13 +25215,12 @@
   "price": 49.98,
   "found_at": "2026-11-02T15:49:40Z",
   "source_url": "https://slickdeals.net/f/20175075-ugg-women-s-lo-lowmel-sneaker-artichoke-6-8-49-98-campfire-63-72-free-shipping-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "1154e731d10180f6",
   "title": "UGG Women's GoldenGlow Toggle Sandals $47.99 + Free Store Pick-Up at Urban Outfitters or FS on $60+",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+GoldenGlow+Toggle+Sandals",
+  "url": "https://slickdeals.net/f/20132436-ugg-women-s-goldenglow-toggle-sandals-47-99-free-store-pick-up-at-urban-outfitters-or-fs-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -25216,13 +25230,12 @@
   "price": 47.99,
   "found_at": "2026-11-02T15:49:40Z",
   "source_url": "https://slickdeals.net/f/20132436-ugg-women-s-goldenglow-toggle-sandals-47-99-free-store-pick-up-at-urban-outfitters-or-fs-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "8600342f3c4cba30",
   "title": "[Prime] UGG Whitecap 50\" x 70\" Plush Fleece Throw Blanket (3 Colors) $59.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Whitecap+50+x+70+Plush+Fleece+Throw+Blanket",
+  "url": "https://slickdeals.net/f/20123034-prime-ugg-whitecap-50-x-70-plush-fleece-throw-blanket-3-colors-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -25232,13 +25245,12 @@
   "price": 59.99,
   "found_at": "2026-11-02T15:49:40Z",
   "source_url": "https://slickdeals.net/f/20123034-prime-ugg-whitecap-50-x-70-plush-fleece-throw-blanket-3-colors-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "b0294b35224565c2",
   "title": "Woot! Fall Shoes: Hunter, UGG, & More: Muck Men's Excursion Pro Mid Boots $54.60 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Fall+Shoes+Hunter+UGG+%26+More+Muck+Men%27s+Excursion+Pro+Mid+Boots",
+  "url": "https://slickdeals.net/f/20114961-woot-fall-shoes-hunter-ugg-more-muck-men-s-excursion-pro-mid-boots-54-60-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -25248,8 +25260,7 @@
   "price": 54.6,
   "found_at": "2026-11-02T15:49:40Z",
   "source_url": "https://slickdeals.net/f/20114961-woot-fall-shoes-hunter-ugg-more-muck-men-s-excursion-pro-mid-boots-54-60-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "14a7a98841b879c7",
@@ -25347,7 +25358,7 @@
  {
   "id": "c7c25f4522cc2567",
   "title": "UGG Women's W Bailey Bow Ii Fashion Boot for just $49.95! Huge Price Drop!",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for+just",
+  "url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -25357,13 +25368,12 @@
   "price": 49.95,
   "found_at": "2026-11-02T15:49:41Z",
   "source_url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "c259de3fd306fe4c",
   "title": "UGG Clearance Sale! Up to 60% off plus extra 10% off with code",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Clearance+Up+to+60+off+plus+extra+10+off+with+code",
+  "url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -25373,13 +25383,12 @@
   "price": null,
   "found_at": "2026-11-02T15:49:41Z",
   "source_url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "c9a57d5e29a9684a",
   "title": "UGG Classic Unlined Mini Ankle Boot (Women's) Reg. $120 now $48.71 + F/S",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Classic+Unlined+Mini+Ankle+Boot+Reg.",
+  "url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -25389,8 +25398,7 @@
   "price": 120.0,
   "found_at": "2026-11-02T15:49:41Z",
   "source_url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "link_tried3": true
+  "store": "Google"
  },
  {
   "id": "93607ca6f45292de",
@@ -30513,9 +30521,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9b171ebd1311eace",
@@ -30529,9 +30537,9 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19654440-woot-app-19-99-3-4-oz-lattafa-pride-vintage-radio-unisex-eau-de-parfum-spray-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "a991ece65dd2ba39",
@@ -30559,9 +30567,9 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17236663-initio-sonic-electric-toothbrush-black-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "4391d0548dd6b630",
@@ -30575,9 +30583,9 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17173909-initio-sonic-electric-toothbrush-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "46774eb2bddb37ee",
@@ -30591,9 +30599,9 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17064664-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "e173ea16b18ae8be",
@@ -30607,9 +30615,9 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16998058-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "726ed2651a56e9dc",
@@ -30623,9 +30631,9 @@
   "pct": null,
   "price": 11.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16938931-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "3b5ac9a2173a3e98",
@@ -30639,9 +30647,9 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16936000-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "72b8d686d28815fc",
@@ -30655,9 +30663,9 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16866764-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "20b0be3ab745830f",
@@ -30671,9 +30679,9 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16804547-initio-sonic-electric-toothbrush-5-colors-8-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f7b1dfba31cad334",
@@ -30687,9 +30695,9 @@
   "pct": 30,
   "price": 11.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f75c909e50839ff1",
@@ -30703,9 +30711,9 @@
   "pct": null,
   "price": 12.07,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "a9e13a8a44a3d82c",
@@ -30719,9 +30727,9 @@
   "pct": null,
   "price": 9.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f522898743a1a139",
@@ -30735,9 +30743,9 @@
   "pct": null,
   "price": 12.88,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20243409-otterbox-case-for-iphone-17-pro-iphone-18-pro-defender-series-xt-pro-dual-layer-with-military-grade-drop-protection-magsafe-capable-clear-black-free-shipping-12-88?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "6fc4eedceb347a50",
@@ -30751,9 +30759,9 @@
   "pct": null,
   "price": 37.0,
   "found_at": "2026-11-02T18:19:41Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "27a135de93384561",
@@ -30770,5 +30778,181 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20245512-samsung-edu-epp-unlocked-samsung-galaxy-z-fold8-256-gb-plus-400-credit-for-accessories-1304-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung"
+ },
+ {
+  "id": "a87b75f37dc129ec",
+  "title": "Monday’s Android app deals and freebies: Reigns The Witcher, Kingdom Rush 5, Apple Knight 3, more",
+  "url": "https://podcasts.apple.com/us/podcast/9to5toys-daily-9to5toys/id1404999371",
+  "why": "Galaxy — all-time low",
+  "category": "tech",
+  "source": "9to5Toys",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://9to5toys.com/2026/11/02/todays-highlight-google-play-deals-41/",
+  "store": "Apple"
+ },
+ {
+  "id": "4b7678cc33d4029c",
+  "title": "Maison Margiela Afternoon Delight Eau de Toilette, 3.4 fl oz $79.99 Free Shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Maison+Margiela+Afternoon+Delight+Eau+de+Toilette+3.4+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244846-maison-margiela-afternoon-delight-eau-de-toilette-3-4-fl-oz-79-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "df4a469ef90fcc98",
+  "title": "Maison Margiela Afternoon Delight Eau de Toilette, 3.4 fl oz $79.99 free shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Maison+Margiela+Afternoon+Delight+Eau+de+Toilette+3.4+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19660830-maison-margiela-afternoon-delight-eau-de-toilette-3-4-fl-oz-79-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "a70ccbfc5125e076",
+  "title": "Maison Margiela Afternoon Delight Eau de Toilette, 3.4 fl oz $79.99 free shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Maison+Margiela+Afternoon+Delight+Eau+de+Toilette+3.4+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19475292-maison-margiela-afternoon-delight-eau-de-toilette-3-4-fl-oz-79-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "fce925d80c3f6fb7",
+  "title": "Maison Margiela Under the Stars Eau de Toilette, From the Garden Eau de Toilette or Maison Margiela Replica Autumn Vibes Eau de Toilette, 3.4 fl oz $69.99 Free Shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Maison+Margiela+Under+the+Stars+Eau+de+Toilette+From+the+Garden+Eau+de+Toilette+",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18965107-maison-margiela-under-the-stars-eau-de-toilette-from-the-garden-eau-de-toilette-or-maison-margiela-replica-autumn-vibes-eau-de-toilette-3-4-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "b6bfb52863509add",
+  "title": "Sephora Holiday Perfume Sampler Set w/ Redeemable Voucher From $95 use Code SAVEGIFTS for 20% Off Final Sale Free Shipping",
+  "url": "https://www.sephora.com/search?keyword=Sephora+Holiday+Perfume+Sampler+Set+w+Redeemable+Voucher+From",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 95.0,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18944767-sephora-holiday-perfume-sampler-set-w-redeemable-voucher-from-95-use-code-savegifts-for-20-off-final-sale-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Sephora"
+ },
+ {
+  "id": "bb1d42cb2a440a75",
+  "title": "Costco Members: 3.4-Oz Maison Margiela Replica By the Fireplace Eau de Toilette $69.99",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3.4-Oz+Maison+Margiela+Replica+By+the+Fireplace+Eau+de+Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18923209-costco-members-3-4-oz-maison-margiela-replica-by-the-fireplace-eau-de-toilette-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "1dd2d47420f94421",
+  "title": "Maison Margiela - Replica - Afternoon Delight Scented Candle - Warm & Cozy Scent - with Vanilla & Sandalwood - 5.8 Oz $36",
+  "url": "https://www.amazon.com/s?k=Maison+Margiela+-+Replica+-+Afternoon+Delight+Scented+Candle+-+Warm+%26+Cozy+Scent",
+  "why": "Maison Margiela 50% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 36.0,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18862921-maison-margiela-replica-afternoon-delight-scented-candle-warm-cozy-scent-with-vanilla-sandalwood-5-8-oz-36?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "c36d1c01d5ffda2d",
+  "title": "Costco Members: Select fragrances on sale (10/6/25-10/10/25)",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Select+fragrances+on",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18667771-costco-members-select-fragrances-on-sale-10-6-25-10-10-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco"
+ },
+ {
+  "id": "9b9e5de5ac2a020d",
+  "title": "10-Piece Maison Margiela Replica Perfume Sampler Set $19.50 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=10-Piece+Maison+Margiela+Replica+Perfume+Sampler+Set",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.5,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18532768-10-piece-maison-margiela-replica-perfume-sampler-set-19-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
+ },
+ {
+  "id": "bd9b24fe6746197d",
+  "title": "Maison Margiela Replica - By the Fireplace $27.74",
+  "url": "https://www.google.com/search?tbm=shop&q=Maison+Margiela+Replica+-+By+the+Fireplace",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Maison Margiela",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 27.74,
+  "found_at": "2026-11-02T18:28:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18488992-maison-margiela-replica-by-the-fireplace-27-74?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  }
 ]
