@@ -23352,7 +23352,8 @@
   "pct": null,
   "price": 9.1,
   "found_at": "2026-11-02T00:07:44Z",
-  "source_url": "https://camelcamelcamel.com/product/B0BXKCVLHR"
+  "source_url": "https://camelcamelcamel.com/product/B0BXKCVLHR",
+  "checked_at": "2026-11-02T11:35:48Z"
  },
  {
   "id": "7c1d3d18978011ac",
@@ -23368,7 +23369,8 @@
   "found_at": "2026-11-02T00:07:44Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238420-samsung-galaxy-s26-ultra-256gb-12gb-ram-brand-new-purple-846-00-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Walmart"
+  "store": "Walmart",
+  "checked_at": "2026-11-02T11:35:50Z"
  },
  {
   "id": "bee02f2422e20e2b",
@@ -23383,7 +23385,8 @@
   "price": 923.12,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:35:51Z"
  },
  {
   "id": "440b956965e70a1d",
@@ -23398,7 +23401,8 @@
   "price": 399.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:35:54Z"
  },
  {
   "id": "dfbb4e78b9ab30f7",
@@ -23413,7 +23417,8 @@
   "price": 351.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20130747-up-to-66-off-extra-12-off-on-hamilton-and-movado-watches-on-ashford-351?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:35:55Z"
  },
  {
   "id": "eb47f7ecbf47ad55",
@@ -23428,7 +23433,8 @@
   "price": 615.1,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20089467-42mm-hamilton-american-classic-black-dial-men-s-automatic-watch-615-10-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:35:56Z"
  },
  {
   "id": "5adcb7518a4aee90",
@@ -23443,7 +23449,8 @@
   "price": 569.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:35:58Z"
  },
  {
   "id": "29fa315a2e0b70ce",
@@ -23458,7 +23465,8 @@
   "price": 367.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:35:59Z"
  },
  {
   "id": "2ae3a25e98c64289",
@@ -23473,7 +23481,8 @@
   "price": 367.0,
   "found_at": "2026-11-02T00:07:44Z",
   "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:36:01Z"
  },
  {
   "id": "9db1d701d1194f70",
@@ -23488,7 +23497,8 @@
   "price": 78.89,
   "found_at": "2026-11-02T00:15:51Z",
   "source_url": "https://slickdeals.net/f/20241111-dji-osmo-mobile-8-combo-gimbal-stabilizer-for-phone-w-ai-tracking-audio-lighting-78-89-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T11:36:02Z"
  },
  {
   "id": "44a4fe514793dc98",
@@ -23504,7 +23514,8 @@
   "found_at": "2026-11-02T00:15:51Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20241552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-black-titanium-case-burgundy-alpine-loop-l-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T11:36:04Z"
  },
  {
   "id": "39eb9e05c765c77d",
@@ -23520,7 +23531,8 @@
   "found_at": "2026-11-02T00:15:51Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20241552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-black-titanium-case-burgundy-alpine-loop-l-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T11:36:05Z"
  },
  {
   "id": "e9831a2aa63f7aa0",
@@ -23534,7 +23546,8 @@
   "pct": null,
   "price": 3.3,
   "found_at": "2026-11-02T00:15:51Z",
-  "source_url": "https://camelcamelcamel.com/product/B0BPTKRVJN"
+  "source_url": "https://camelcamelcamel.com/product/B0BPTKRVJN",
+  "checked_at": "2026-11-02T11:36:05Z"
  },
  {
   "id": "c6ba41ef30c9598f",
@@ -23550,7 +23563,8 @@
   "found_at": "2026-11-02T00:15:51Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20241552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-black-titanium-case-burgundy-alpine-loop-l-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T11:36:06Z"
  },
  {
   "id": "502fd54d41e67144",
@@ -23566,7 +23580,8 @@
   "found_at": "2026-11-02T00:15:51Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20241552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-black-titanium-case-burgundy-alpine-loop-l-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T11:36:07Z"
  },
  {
   "id": "1f89ce5b8a4d87b8",
@@ -25829,7 +25844,7 @@
  {
   "id": "e94c903d2e374d6b",
   "title": "Frederique Constant Watches Sale-Classics Silver Dial Watch $299.99/Horological Quartz Smart Watch $249/Classics Quartz Silver Dial $249 + Free Shipping",
-  "url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Watches+-Classics+Silver+Dial+Watch",
   "why": "Watch 77% off",
   "category": "tech",
   "source": "Slickdeals: Frederique Constant",
@@ -25839,12 +25854,13 @@
   "price": 299.99,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "70ebe705c6317f04",
   "title": "TechnoMarine Ocean Manta Chronograph Quartz Men's Watch $66.99, Tissot Mother of Pearl Ladies Watch $149 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+TechnoMarine+Ocean+Manta+Chronograph+Quartz+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -25854,12 +25870,13 @@
   "price": 66.99,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c38112422a8e3041",
   "title": "Tissot Le Locle Chronometer - $360",
-  "url": "https://slickdeals.net/f/16131358-tissot-le-locle-chronometer-360?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tissot+Le+Locle+Chronometer+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -25869,7 +25886,8 @@
   "price": 360.0,
   "found_at": "2026-11-02T02:52:55Z",
   "source_url": "https://slickdeals.net/f/16131358-tissot-le-locle-chronometer-360?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "57a989effcde691b",
@@ -31591,9 +31609,9 @@
   "pct": null,
   "price": 249.0,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "fb79e10d57b2865a",
@@ -31637,9 +31655,9 @@
   "pct": null,
   "price": 47.98,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16430713-oakley-64mm-half-frame-sunglasses-polished-black-black-iridium-47-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9e06c17e3582bb72",
@@ -31653,9 +31671,9 @@
   "pct": 80,
   "price": 28.0,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15261688-women-s-designer-sunglasses-up-to-80-off-57mm-o-by-oscar-de-la-renta-cat-eye-sunglasses-28-more-free-store-pickup-at-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "0013d5c243263ab7",
@@ -31669,9 +31687,9 @@
   "pct": 75,
   "price": 50.0,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15119086-designer-sunglasses-up-to-75-off-56mm-double-clubmaster-sunglasses-50-more-free-store-pickup-at-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "d9ff937024a02d9d",
@@ -31685,9 +31703,9 @@
   "pct": null,
   "price": 105.0,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15103174-tissot-men-s-42mm-quickster-chronograph-phoenix-suns-sapphire-watch-105-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "d5932ad0f64d5cd5",
@@ -31701,9 +31719,9 @@
   "pct": 25,
   "price": 65.0,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14122049-hoka-one-one-elevon-running-shoe-65-on-clearance-after-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "937cc667cd87d653",
@@ -31717,9 +31735,9 @@
   "pct": 80,
   "price": null,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14099414-nordstrom-rack-designer-sunglasses-and-eyewear-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "b836e6fed82092bf",
@@ -31733,9 +31751,9 @@
   "pct": 80,
   "price": null,
   "found_at": "2026-11-02T11:24:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13818170-up-to-80-off-designer-sunglasses-at-nordstrom-rack-gucci-fendi-marc-jacobs-cole-haan-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "bf0faad710974f66",
@@ -31770,46 +31788,7 @@
   "return": "2027-01-29",
   "route_fixed": true,
   "dates_tried3": true,
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2"
- },
- {
-  "id": "731ee0f1348dd4e9",
-  "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case) Wireless Microphone $41.85",
-  "url": "https://slickdeals.net/f/20241081-dji-mic-mini-2-tx-1-rx-charging-case-wireless-microphone-41-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 41.85,
-  "found_at": "2026-11-02T11:27:34Z"
- },
- {
-  "id": "4c2db6f1d72e479b",
-  "title": "DJI Mic Mini Wireless Microphone (2 TX + 1 RX + Charging Case) $56 + FS",
-  "url": "https://slickdeals.net/f/20240811-dji-mic-mini-wireless-microphone-2-tx-1-rx-charging-case-56-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 56.0,
-  "found_at": "2026-11-02T11:27:34Z"
- },
- {
-  "id": "b043bad2b6f283e1",
-  "title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19987707-lc-dolida-fence-mount-w-sun-rain-visor-for-gopro-dji-insta360-smartphones-9-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: GoPro deal",
-  "urgent": false,
-  "hot": false,
-  "pct": 50,
-  "price": 9.97,
-  "found_at": "2026-11-02T11:27:37Z"
+  "source_url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "link_tried3": true
  }
 ]
