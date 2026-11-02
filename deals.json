@@ -18553,7 +18553,8 @@
   "pct": null,
   "price": 1599.99,
   "found_at": "2026-11-01T18:18:24Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T00:35:14Z"
  },
  {
   "id": "4162874ee11afaa9",
@@ -18569,7 +18570,8 @@
   "found_at": "2026-11-01T18:18:24Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20233896-lg-55-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T00:35:16Z"
  },
  {
   "id": "a5c7dd970c71877a",
@@ -18583,7 +18585,8 @@
   "pct": null,
   "price": 1399.99,
   "found_at": "2026-11-01T18:18:24Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T00:35:18Z"
  },
  {
   "id": "36d74a5b762ebe1c",
@@ -18599,7 +18602,8 @@
   "found_at": "2026-11-01T18:18:24Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231310-lg-48-b6-series-oled-120hz-4k-tv-with-perfect-black-vivid-color-and-magic-remote-2026-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-02T00:35:19Z"
  },
  {
   "id": "b00ddb126ca6549b",
@@ -18613,7 +18617,8 @@
   "pct": null,
   "price": 1799.96,
   "found_at": "2026-11-01T18:18:24Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T00:35:20Z"
  },
  {
   "id": "0c9db7142ee334ef",
@@ -26802,7 +26807,7 @@
  {
   "id": "412d141f08a76fb0",
   "title": "LG - 77\" Class C6H OLED evo AI 4K Smart webOS TV",
-  "url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+-+77+Class+C6H+OLED+evo+AI+4K+Smart+webOS+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -26812,7 +26817,8 @@
   "price": null,
   "found_at": "2026-11-01T19:28:49Z",
   "source_url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c683234180eaefca",
@@ -27063,7 +27069,7 @@
  {
   "id": "56fc85e341abd406",
   "title": "[GOVX] Garmin Forerunner 970 Watch",
-  "url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+Watch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -27073,7 +27079,8 @@
   "price": null,
   "found_at": "2026-11-01T19:28:49Z",
   "source_url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c052cf7adba2f2a0",
@@ -27124,7 +27131,7 @@
  {
   "id": "0bd8e54e80483cfa",
   "title": "Garmin epix Gen 2 GPS Smartwatch 47mm $399",
-  "url": "https://slickdeals.net/f/20144085-garmin-epix-gen-2-gps-smartwatch-47mm-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+epix+Gen+2+GPS+Smartwatch+47mm",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -27134,12 +27141,13 @@
   "price": 399.0,
   "found_at": "2026-11-01T19:28:49Z",
   "source_url": "https://slickdeals.net/f/20144085-garmin-epix-gen-2-gps-smartwatch-47mm-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "389baf5a25d84f1e",
   "title": "Garmin 51mm Fenix 8 Smartwatch",
-  "url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+51mm+Fenix+8+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -27149,7 +27157,8 @@
   "price": null,
   "found_at": "2026-11-01T19:28:49Z",
   "source_url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "d789ebeeea993a43",
@@ -27450,7 +27459,7 @@
  {
   "id": "64e101c27ed75b40",
   "title": "Costa Del Mar Sunglasses Sale - Men's and Women's - Up to 64% off",
-  "url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Prada",
@@ -27460,7 +27469,8 @@
   "price": null,
   "found_at": "2026-11-01T19:37:09Z",
   "source_url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9c5be835912e7f38",
@@ -31387,9 +31397,9 @@
   "pct": null,
   "price": 533.61,
   "found_at": "2026-11-02T00:23:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238489-insta360-luna-ultra-8k-pocket-gimbal-camera-w-dual-leica-lenses-1-sensor-2-touchscreen-black-533-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "aaf0f58dfd014458",
@@ -31403,9 +31413,9 @@
   "pct": 63,
   "price": 324.0,
   "found_at": "2026-11-02T00:23:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19968477-39mm-tissot-chemin-des-tourelles-blue-dial-men-s-automatic-watch-324-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "efad5676dd2aa65b",
@@ -31419,9 +31429,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T00:23:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7a91c934c4e48b21",
@@ -31451,9 +31461,9 @@
   "pct": null,
   "price": 615.12,
   "found_at": "2026-11-02T00:23:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19907691-42mm-hamilton-men-s-pan-europ-automatic-day-date-watch-green-sunburst-615-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7d2b95e818a99fe9",
@@ -31468,8 +31478,40 @@
   "price": null,
   "found_at": "2026-11-02T00:23:53Z",
   "dates_tried2": true,
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
-  "route_fixed": true
+  "route_fixed": true,
+  "link_tried3": true
+ },
+ {
+  "id": "0de1232f9fc38c71",
+  "title": "[WTS] Caden initio god of fire (bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Caden+initio+god+of+fire",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-02T00:32:00Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlipn7/wts_caden_initio_god_of_fire_bottle/",
+  "store": "Google"
+ },
+ {
+  "id": "e3d26f4612ecad04",
+  "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch | Natural Titanium Case, Translucent Gray Ocean Band - One Size. Advanced Health + Fitness Tracking, 2+ Day Battery $699.99",
+  "url": "https://www.amazon.com/s?k=Apple+Watch+Ultra+4+GPS+%2B+Cellular+49mm+Smartwatch+Natural+Titanium+Case+Translu",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Ultra",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-02T00:32:00Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20241585-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-case-translucent-gray-ocean-band-one-size-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
  }
 ]
