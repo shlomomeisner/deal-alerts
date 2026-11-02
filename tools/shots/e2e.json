@@ -1,0 +1,135 @@
+{
+ "taps": [
+  {
+   "a": "keep",
+   "id": "e77e321e305354d1",
+   "t": "The Reboot",
+   "s": "Frame",
+   "c": "fashion",
+   "p": 519
+  },
+  {
+   "a": "keep",
+   "id": "5e1612e57eefc938",
+   "t": "frame-denim Ribbed Crewneck Sweater -- Cream",
+   "s": "Frame",
+   "c": "fashion",
+   "p": 179
+  },
+  {
+   "a": "hide",
+   "id": "d8c75ac2bde3c7db",
+   "t": "frame-denim Long Sleeve Polo Sweater -- Warm Grey",
+   "s": "Frame",
+   "c": "fashion",
+   "p": 139
+  }
+ ],
+ "products": [
+  {
+   "store": "Frame",
+   "status": 200,
+   "label": "Open at Frame",
+   "href": "https://frame-store.com/products/the-reboot-1?variant=44507928789168",
+   "final": "https://frame-store.com/products/the-reboot-1?variant=44507928789168",
+   "titleWordsOnPage": "1/1",
+   "hasPrice": true,
+   "search": false
+  },
+  {
+   "store": "Woot",
+   "status": 200,
+   "label": "Open at Woot",
+   "href": "https://sellout.woot.com/offers/the-north-face-down-triclimate-3-in-1-jacket-1",
+   "final": "https://sellout.woot.com/offers/the-north-face-down-triclimate-3-in-1-jacket-1",
+   "titleWordsOnPage": "5/5",
+   "hasPrice": true,
+   "search": false
+  },
+  {
+   "store": "Nordstrom Rack",
+   "status": 200,
+   "label": "Open product",
+   "href": "https://www.nordstromrack.com/s/derek-lam-10-crosby-allie-sleeveless-bow-top/8608847",
+   "final": "https://www.nordstromrack.com/s/derek-lam-10-crosby-allie-sleeveless-bow-top/8608847",
+   "titleWordsOnPage": "4/4",
+   "hasPrice": true,
+   "search": false
+  },
+  {
+   "store": "Kith",
+   "status": 200,
+   "label": "Open at Kith",
+   "href": "https://kith.com/products/dgf23313w020-choco?variant=45146118881408",
+   "final": "https://kith.com/products/dgf23313w020-choco?variant=45146118881408",
+   "titleWordsOnPage": "5/5",
+   "hasPrice": true,
+   "search": false
+  },
+  {
+   "store": "Allbirds",
+   "status": 200,
+   "label": "Open at Allbirds",
+   "href": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-natural-black-natural-white?variant=39812340973648",
+   "final": "https://www.allbirds.com/products/womens-wool-runner-up-mizzles-natural-black-natural-white?variant=39812340973648&size=",
+   "titleWordsOnPage": "9/9",
+   "hasPrice": true,
+   "search": false
+  },
+  {
+   "store": "Faherty",
+   "status": 200,
+   "label": "Open at Faherty",
+   "href": "https://fahertybrand.com/products/ss-breeze-camp-shirt-golden-beach-stripe?variant=42246655901765",
+   "final": "https://fahertybrand.com/products/ss-breeze-camp-shirt-golden-beach-stripe?variant=42246655901765",
+   "titleWordsOnPage": "8/8",
+   "hasPrice": true,
+   "search": false
+  },
+  {
+   "store": "Psycho Bunny",
+   "status": 0,
+   "label": "Open product",
+   "href": "https://www.psychobunny.com/products/mens-nathaniel-relaxed-fit-tee-mt0200385-408-surf-the-web?variant=45359300083735",
+   "final": "",
+   "titleWordsOnPage": "2/4",
+   "hasPrice": false,
+   "search": false
+  }
+ ],
+ "flights": [
+  {
+   "deal": "Qatar Airways: New York – Kigali, Rwanda. $844. Roundtrip, including all Taxes",
+   "dealDates": "📅 Feb 1 – 8, 2027 sample dates🗓 Travel February 1st – 8th,",
+   "prices": 11,
+   "cheapest": "",
+   "error": false,
+   "header": "Round trip 1 Economy New York Kigali KGL DepartureMon, Feb 1 ReturnMon, Feb 8"
+  },
+  {
+   "deal": "Asiana: New York – Phuket, Thailand. $845. Roundtrip, including all Taxes",
+   "dealDates": "📅 Jan 20 – 27, 2027 sample dates🗓 Travel January 20th – 27",
+   "prices": 13,
+   "cheapest": "",
+   "error": false,
+   "header": "Round trip 1 Economy New York Phuket HKT DepartureWed, Jan 20 ReturnWed, Jan 27"
+  },
+  {
+   "deal": "Icelandair: New York – Rome, Italy. $465 (Basic Economy) / $625 (Regular Economy",
+   "dealDates": "📅 Jan 19 – 28, 2027 sample dates🗓 Travel January 19th – 28",
+   "prices": 11,
+   "cheapest": "",
+   "error": false,
+   "header": "Round trip 1 Economy New York Rome FCO DepartureTue, Jan 19 ReturnThu, Jan 28"
+  },
+  {
+   "deal": "Round Trip New York to Tokyo Japan Very Few $315 or $614 Airfares on Alaska/Hawa",
+   "dealDates": "📅 Jan 27 – Feb 5, 2027 sample dates🗓 Travel January - Febr",
+   "prices": 11,
+   "cheapest": "",
+   "error": false,
+   "header": "Round trip 1 Economy New York Tokyo DepartureWed, Jan 27 ReturnFri, Feb 5"
+  }
+ ],
+ "similar": []
+}

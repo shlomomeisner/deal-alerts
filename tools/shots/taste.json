@@ -1,0 +1,126 @@
+{
+ "since": "IalvZMBFlmIC",
+ "votes": {
+  "e77e321e305354d1": {
+   "v": 1,
+   "t": "The Reboot",
+   "s": "Frame",
+   "c": "fashion",
+   "p": 519,
+   "at": "2026-11-02T20:39:26Z"
+  },
+  "5e1612e57eefc938": {
+   "v": 1,
+   "t": "frame-denim Ribbed Crewneck Sweater -- Cream",
+   "s": "Frame",
+   "c": "fashion",
+   "p": 179,
+   "at": "2026-11-02T20:39:26Z"
+  },
+  "d8c75ac2bde3c7db": {
+   "v": -1,
+   "t": "frame-denim Long Sleeve Polo Sweater -- Warm Grey",
+   "s": "Frame",
+   "c": "fashion",
+   "p": 139,
+   "at": "2026-11-02T20:39:26Z"
+  }
+ },
+ "model": {
+  "weights": {
+   "store:frame": 0.405,
+   "cat:fashion": 0.405,
+   "price:500-1500": 0.693,
+   "w:reboot": 0.693,
+   "price:150-500": 0.693,
+   "w:cream": 0.693,
+   "w:crewneck": 0.693,
+   "w:frame-denim": 0.0,
+   "w:ribbed": 0.693,
+   "w:sweater": 0.0,
+   "brand:polo": -0.693,
+   "price:50-150": -0.693,
+   "w:grey": -0.693,
+   "w:long": -0.693,
+   "w:polo": -0.693,
+   "w:sleeve": -0.693,
+   "w:warm": -0.693
+  },
+  "counts": {
+   "store:frame": [
+    2,
+    1
+   ],
+   "cat:fashion": [
+    2,
+    1
+   ],
+   "price:500-1500": [
+    1,
+    0
+   ],
+   "w:reboot": [
+    1,
+    0
+   ],
+   "price:150-500": [
+    1,
+    0
+   ],
+   "w:cream": [
+    1,
+    0
+   ],
+   "w:crewneck": [
+    1,
+    0
+   ],
+   "w:frame-denim": [
+    1,
+    1
+   ],
+   "w:ribbed": [
+    1,
+    0
+   ],
+   "w:sweater": [
+    1,
+    1
+   ],
+   "brand:polo": [
+    0,
+    1
+   ],
+   "price:50-150": [
+    0,
+    1
+   ],
+   "w:grey": [
+    0,
+    1
+   ],
+   "w:long": [
+    0,
+    1
+   ],
+   "w:polo": [
+    0,
+    1
+   ],
+   "w:sleeve": [
+    0,
+    1
+   ],
+   "w:warm": [
+    0,
+    1
+   ]
+  },
+  "hidden_keys": [
+   "frame denim long sleeve polo sweater warm grey"
+  ],
+  "votes": 3,
+  "keeps": 2
+ },
+ "updated": "2026-11-02T20:39:26Z"
+}
