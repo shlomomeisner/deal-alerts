@@ -22361,7 +22361,8 @@
   "pct": null,
   "price": 649.0,
   "found_at": "2026-11-01T21:39:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T09:57:45Z"
  },
  {
   "id": "d3d95fc9786eafe6",
@@ -22375,7 +22376,8 @@
   "pct": null,
   "price": 129.0,
   "found_at": "2026-11-01T21:39:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T09:57:46Z"
  },
  {
   "id": "593875abcfb2efea",
@@ -22389,7 +22391,8 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-01T21:39:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T09:57:47Z"
  },
  {
   "id": "34a186c27f3fbcaa",
@@ -22403,7 +22406,8 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-11-01T21:39:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T09:57:48Z"
  },
  {
   "id": "782a0baab9990587",
@@ -22417,7 +22421,8 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-01T21:39:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T09:57:49Z"
  },
  {
   "id": "ab4a99f4d7de4072",
@@ -22431,7 +22436,8 @@
   "pct": null,
   "price": 179.0,
   "found_at": "2026-11-01T21:39:42Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T09:57:50Z"
  },
  {
   "id": "1ddfe80a3875501d",
@@ -22447,7 +22453,8 @@
   "found_at": "2026-11-01T21:39:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20222349-baseus-inspire-xc1-open-ear-clip-on-earbuds-w-sound-by-bose-dolby-spatial-audio-79-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T09:57:52Z"
  },
  {
   "id": "bfe8efb7cbbdb4ff",
@@ -22463,7 +22470,8 @@
   "found_at": "2026-11-01T21:39:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20213037-bose-smart-ultra-dolby-atmos-soundbar-all-in-one-surround-sound-system-for-tv-a-i-dialogue-mode-alexa-and-google-voice-control-hdmi-earc-white-or-black?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T09:57:53Z"
  },
  {
   "id": "ab717996e2482186",
@@ -22479,7 +22487,8 @@
   "found_at": "2026-11-01T21:39:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20210781-bose-soundlink-home-bluetooth-speaker-warm-wood-light-silver-cool-gray-119-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco"
+  "store": "Costco",
+  "checked_at": "2026-11-02T09:57:54Z"
  },
  {
   "id": "e41f1ca8c69d717b",
@@ -22495,7 +22504,8 @@
   "found_at": "2026-11-01T21:39:42Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20210763-bose-soundlink-revolve-series-ii-bluetooth-speaker-bundle-with-fast-charger-silver-269?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-02T09:57:55Z"
  },
  {
   "id": "88ea12314ee44e6f",
@@ -22511,7 +22521,8 @@
   "found_at": "2026-11-01T21:42:10Z",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20241087-bose-quietcomfort-wireless-bluetooth-headphones-169?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsclub"
+  "store": "Samsclub",
+  "checked_at": "2026-11-02T09:57:56Z"
  },
  {
   "id": "c22203d1f3b6894f",
@@ -22524,7 +22535,8 @@
   "hot": false,
   "pct": null,
   "price": 350.0,
-  "found_at": "2026-11-01T21:49:33Z"
+  "found_at": "2026-11-01T21:49:33Z",
+  "checked_at": "2026-11-02T09:57:56Z"
  },
  {
   "id": "61193458c7359986",
@@ -22539,7 +22551,8 @@
   "price": null,
   "found_at": "2026-11-01T21:54:44Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlf14l/ft_lv_cos/",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T09:57:56Z"
  },
  {
   "id": "6f44fa4f08036430",
@@ -22554,7 +22567,8 @@
   "price": null,
   "found_at": "2026-11-01T21:54:44Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xl92oi/wts_declutter_night_on_the_nile_lira_k_elixir_jet/",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T09:57:56Z"
  },
  {
   "id": "0701b82722f6f1e3",
@@ -22569,7 +22583,8 @@
   "price": null,
   "found_at": "2026-11-01T21:54:44Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xl7jyn/azzaro_the_most_wanted_edp/",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T09:57:56Z"
  },
  {
   "id": "1f2e17931507d8da",
@@ -25345,7 +25360,7 @@
  {
   "id": "7f9dbcc38f0a2d95",
   "title": "[WTB] Amouage Enclave",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xlkiso/wtb_amouage_enclave/",
+  "url": "https://www.google.com/search?tbm=shop&q=Amouage+Enclave",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -25355,7 +25370,8 @@
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlkiso/wtb_amouage_enclave/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2bdfba2f29b9c5a5",
@@ -25466,7 +25482,7 @@
  {
   "id": "6274233e504e5cfb",
   "title": "(NEW) Apple Watch Ultra 2 Smartwatch [GPS + Cellular] $569.99",
-  "url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -25476,12 +25492,13 @@
   "price": 569.99,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "480bdf6b93d8a326",
   "title": "(NEW) Apple Watch Ultra 3 Smartwatch (GPS + Cellular) $649.99",
-  "url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+3+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -25491,7 +25508,8 @@
   "price": 649.99,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2b23486ab16cec53",
@@ -25560,7 +25578,7 @@
  {
   "id": "8d4a2335e767d1b7",
   "title": "Apple Watch Sport Loop",
-  "url": "https://slickdeals.net/f/20200374-apple-watch-sport-loop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Sport+Loop",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Ultra",
@@ -25570,7 +25588,8 @@
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
   "source_url": "https://slickdeals.net/f/20200374-apple-watch-sport-loop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c55f118d87198113",
@@ -25698,7 +25717,7 @@
  {
   "id": "80889ab99559730a",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -25708,7 +25727,8 @@
   "price": 199.0,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1cd9c648ccba2e73",
@@ -25727,7 +25747,7 @@
  {
   "id": "e4272e1abc414845",
   "title": "Tissot 42mm Classic Dream Swissmatic Silver Dial Men's Watch $225 + Free S&H",
-  "url": "https://slickdeals.net/f/19651251-tissot-42mm-classic-dream-swissmatic-silver-dial-men-s-watch-225-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Tissot+42mm+Classic+Dream+Swissmatic+Silver+Dial+Men%27s+Watch",
   "why": "Tissot 61% off",
   "category": "watches",
   "source": "Slickdeals: Longines",
@@ -25737,7 +25757,8 @@
   "price": 225.0,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/19651251-tissot-42mm-classic-dream-swissmatic-silver-dial-men-s-watch-225-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5ce32751485e6e59",
@@ -25790,7 +25811,7 @@
  {
   "id": "5823f33880cf0474",
   "title": "Tech21 iPhone 17 Air EvoLite Case – Slim Protective Case $3.99",
-  "url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+iPhone+17+Air+EvoLite+Case+Slim+Protective+Case",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 17",
@@ -25800,12 +25821,13 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "08f820a3f21d2780",
   "title": "Tech21 EvoClear Case for iPhone 17 Air – Clear $3.99",
-  "url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+EvoClear+Case+for+iPhone+17+Air+Clear",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 17",
@@ -25815,12 +25837,13 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:08:15Z",
   "source_url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "bba1d312fab4e15c",
   "title": "Business Class Deal: New York to London $1735 Round Trip (nonstop)",
-  "url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20London",
   "why": "",
   "category": "flights",
   "source": "Reddit r/flightdeals",
@@ -25831,12 +25854,13 @@
   "found_at": "2026-11-02T02:08:15Z",
   "route_fixed": true,
   "dates_tried3": true,
-  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/"
+  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/",
+  "link_tried3": true
  },
  {
   "id": "a7a87a5addf57719",
   "title": "Business Class Deal: New York ↔ Los Angeles $1320 Round Trip/ $790 oneway",
-  "url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20New%20York%20to%20Los%20Angeles",
   "why": "",
   "category": "flights",
   "source": "Reddit r/flightdeals",
@@ -25847,7 +25871,8 @@
   "found_at": "2026-11-02T02:08:15Z",
   "route_fixed": true,
   "dates_tried3": true,
-  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/"
+  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/",
+  "link_tried3": true
  },
  {
   "id": "b82edc14ebfc5e04",
@@ -26115,7 +26140,7 @@
  {
   "id": "8826a4685fed5215",
   "title": "Breitling Top Time B01 Deus Chronograph Automatic Chronometer Black Dial Men's Watch $3450 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/18295441-breitling-top-time-b01-deus-chronograph-automatic-chronometer-black-dial-men-s-watch-3450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Top+Time+B01+Deus+Chronograph+Automatic+Chronometer+Black+Dial+Men%27s+W",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26125,12 +26150,13 @@
   "price": 3450.0,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18295441-breitling-top-time-b01-deus-chronograph-automatic-chronometer-black-dial-men-s-watch-3450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "6f0db578147517b3",
   "title": "Breitling Endurance Pro Chronograph Quartz Chronometer Black Dial Men's Watch $1895 + Free Shipping",
-  "url": "https://slickdeals.net/f/18276298-breitling-endurance-pro-chronograph-quartz-chronometer-black-dial-men-s-watch-1895-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Endurance+Pro+Chronograph+Quartz+Chronometer+Black+Dial+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26140,12 +26166,13 @@
   "price": 1895.0,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18276298-breitling-endurance-pro-chronograph-quartz-chronometer-black-dial-men-s-watch-1895-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5d145dc57b57ec9e",
   "title": "Breitling Navitimer Super 8 B20 Automatic Chronometer 46 mm Black Dial Men's Watch $1995 + Free Shipping",
-  "url": "https://slickdeals.net/f/18178798-breitling-navitimer-super-8-b20-automatic-chronometer-46-mm-black-dial-men-s-watch-1995-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Navitimer+Super+8+B20+Automatic+Chronometer+46+mm+Black+Dial+Men%27s+Wat",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Tudor",
@@ -26155,7 +26182,8 @@
   "price": 1995.0,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/18178798-breitling-navitimer-super-8-b20-automatic-chronometer-46-mm-black-dial-men-s-watch-1995-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c23bdae5e09d668f",
@@ -26176,7 +26204,7 @@
  {
   "id": "3a0057e47267c27e",
   "title": "Tech21 iPhone 17 Air EvoLite Case – Slim Protective Case $3.99",
-  "url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+iPhone+17+Air+EvoLite+Case+Slim+Protective+Case",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 16",
@@ -26186,12 +26214,13 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/20219049-tech21-iphone-17-air-evolite-case-slim-protective-case-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "53c99f9d13451c0d",
   "title": "Tech21 EvoClear Case for iPhone 17 Air – Clear $3.99",
-  "url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tech21+EvoClear+Case+for+iPhone+17+Air+Clear",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 16",
@@ -26201,7 +26230,8 @@
   "price": 3.99,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/20219043-tech21-evoclear-case-for-iphone-17-air-clear-3-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8ca2ea1647ab5046",
@@ -26222,7 +26252,7 @@
  {
   "id": "d481f40d96b9152b",
   "title": "Spooky Good Apple iPhone & Watches (Refurbished - S&D) at Woot!",
-  "url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Spooky+Good+Apple+iPhone+%26+Watches",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Iphone 16",
@@ -26232,7 +26262,8 @@
   "price": null,
   "found_at": "2026-11-02T02:29:03Z",
   "source_url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8a52fd4a2a197c49",
@@ -31404,9 +31435,9 @@
   "pct": null,
   "price": 20.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18534733-yeezy-slides-20-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "43ab29341a9706d8",
@@ -31516,9 +31547,9 @@
   "pct": null,
   "price": 30.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17614758-gap-x-yeezy-apparel-at-exclusivedna-crop-tee-s-30-pants-55-with-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "f3f6443540604ec8",
@@ -31532,9 +31563,9 @@
   "pct": null,
   "price": 150.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17561874-yeezy-350-v2-cmpct-slate-onyx-150-at-snipes-135-with-phone-signup-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "e9b8282db07dda10",
@@ -31548,9 +31579,9 @@
   "pct": null,
   "price": 232.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1807f087ebfb6bd4",
@@ -31564,9 +31595,9 @@
   "pct": null,
   "price": 179.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224686-jomashop-app-seiko-5-38mm-automatic-blue-dial-stainless-steel-men-s-watch-179-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "613fcbd11036efc7",
@@ -31594,9 +31625,9 @@
   "pct": null,
   "price": 149.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20208972-citizen-marine-1810-eco-drive-black-dial-41-5mm-men-s-watch-149?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "3b255087c6d179b5",
@@ -31610,9 +31641,9 @@
   "pct": null,
   "price": 229.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20131818-bulova-hack-automatic-ivory-dial-38mm-men-s-watch-229?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "d6804aa3ad154500",
@@ -31626,9 +31657,9 @@
   "pct": null,
   "price": 24.99,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20127303-french-avenue-liquid-brun-eau-de-parfum-3-4-oz-24-99-after-20-coupon-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "ddf53946d8937693",
@@ -31642,9 +31673,9 @@
   "pct": null,
   "price": 189.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20126124-citizen-brycen-eco-drive-ca0648-09l-189?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "edc50ef1a7e0e780",
@@ -31658,9 +31689,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20104518-citizen-eco-drive-38mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "7d0bcd24501b4cf1",
@@ -31674,9 +31705,9 @@
   "pct": null,
   "price": 99.75,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "87cd499de73bb582",
@@ -31704,9 +31735,9 @@
   "pct": null,
   "price": 149.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20073606-citizen-weekender-eco-drive-blue-dial-men-s-watch-149?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9407ce3794949f77",
@@ -31720,9 +31751,9 @@
   "pct": null,
   "price": 124500.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "b998fdde1d4af440",
@@ -31736,9 +31767,9 @@
   "pct": null,
   "price": 379.0,
   "found_at": "2026-11-02T09:46:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20068209-bulova-super-seville-262-khz-sweeper-blue-dial-item-no-96b440-379-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "9eef9c6527ed00a4",
@@ -31768,5 +31799,94 @@
   "pct": null,
   "price": 125.5,
   "found_at": "2026-11-02T09:49:29Z"
+ },
+ {
+  "id": "2f96455249bcbe0b",
+  "title": "Logitech G Astro A50 Multi-Platform Wireless Gaming Headset - Black | For PS5, Xbox, PC, Switch - PLAYSYNC Audio Switcher, <16 bit/48kHz (Console), <24 bit/48 kHz (PC), for $198",
+  "url": "https://www.amazon.com/s?k=Logitech+G+Astro+A50+Multi-Platform+Wireless+Gaming+Headset+-+Black+For+PS5+Xbox",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 198.0,
+  "found_at": "2026-11-02T09:54:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243130-logitech-g-astro-a50-multi-platform-wireless-gaming-headset-black-for-ps5-xbox-pc-switch-playsync-audio-switcher-16-bit-48khz-console-24-bit-48-khz-pc-for-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "d1cf17e2e27b5c07",
+  "title": "JIAXIUFEN for Galaxy S24 Case ... S24 5G 6.2 inch Mint Colorful - down 5.06% ($2.05) to $38.43 from $40.48",
+  "url": "https://www.amazon.com/dp/B0FF2ZTN4L",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2.05,
+  "found_at": "2026-11-02T09:54:43Z",
+  "source_url": "https://camelcamelcamel.com/product/B0FF2ZTN4L"
+ },
+ {
+  "id": "c4ad69b2e6f52b16",
+  "title": "Armaf Checkmate King for Men Eau de Parfum Spray, 3.4 Ounce - down 26.66% ($11.96) to $32.90 from $44.86",
+  "url": "https://www.amazon.com/dp/B0DP2HD8LV",
+  "why": "",
+  "category": "fragrance",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.96,
+  "found_at": "2026-11-02T09:54:43Z",
+  "source_url": "https://camelcamelcamel.com/product/B0DP2HD8LV"
+ },
+ {
+  "id": "2fcc8c3ea773adb8",
+  "title": "Logitech G Astro A50 Multi-Platform Wireless Gaming Headset - Black | For PS5, Xbox, PC, Switch - PLAYSYNC Audio Switcher, <16 bit/48kHz (Console), <24 bit/48 kHz (PC), for $198",
+  "url": "https://www.amazon.com/s?k=Logitech+G+Astro+A50+Multi-Platform+Wireless+Gaming+Headset+-+Black+For+PS5+Xbox",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ps5",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 198.0,
+  "found_at": "2026-11-02T09:54:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243130-logitech-g-astro-a50-multi-platform-wireless-gaming-headset-black-for-ps5-xbox-pc-switch-playsync-audio-switcher-16-bit-48khz-console-24-bit-48-khz-pc-for-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "df8aca2c168ede1e",
+  "title": "LG - 65\" Class C5 Series OLED evo AI 4K UHD Smart webOS TV (2025) Open Box From $738",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+65+Class+C5+Series+OLED+evo+AI+4K+UHD+Smart+webOS+TV+Open+Box+From",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Lg C5",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 738.0,
+  "found_at": "2026-11-02T09:54:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243076-lg-65-class-c5-series-oled-evo-ai-4k-uhd-smart-webos-tv-2025-open-box-from-738?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy"
+ },
+ {
+  "id": "540ad3f5cfcf3969",
+  "title": "What to Buy at Amazon This Week: 13 Super Steep Deals on Ugg, Levi’s, and Dr. Scholl’s — Up to 75% Off",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae85eb38d87460ba6a96c5984b9eeef&url=https%3a%2f%2fpeople.com%2fwhat-to-buy-amazon-10-28-2026-12196508&c=7646499874603148806&mkt=en-us",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: UGG price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": 75,
+  "price": null,
+  "found_at": "2026-11-02T09:58:11Z"
  }
 ]
