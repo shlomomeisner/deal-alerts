@@ -1,77 +1,5 @@
 [
  {
-  "id": "bba1d312fab4e15c",
-  "title": "Business Class Deal: New York to London $1735 Round Trip (nonstop)",
-  "url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/",
-  "why": "",
-  "category": "flights",
-  "source": "Reddit r/flightdeals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 173.0,
-  "found_at": "2026-11-01T06:58:26Z",
-  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/",
-  "route_fixed": true,
-  "checked_at": "2026-11-01T08:51:22Z",
-  "dates_tried": true,
-  "dates_tried2": true,
-  "dates_tried3": true
- },
- {
-  "id": "a7a87a5addf57719",
-  "title": "Business Class Deal: New York ↔ Los Angeles $1320 Round Trip/ $790 oneway",
-  "url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/",
-  "why": "",
-  "category": "flights",
-  "source": "Reddit r/flightdeals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 132.0,
-  "found_at": "2026-11-01T06:58:26Z",
-  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/",
-  "route_fixed": true,
-  "checked_at": "2026-11-01T08:51:22Z",
-  "dates_tried": true,
-  "dates_tried2": true,
-  "dates_tried3": true
- },
- {
-  "id": "6674998c1f070d16",
-  "title": "Case-Mate Google Pixel 9 Pro F...ity, Case Friendly, Easy Apply - down 14.00% ($1.75) to $10.75 from $12.50",
-  "url": "https://www.amazon.com/dp/B0DC12X9JF",
-  "why": "",
-  "category": "tech",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 1.75,
-  "found_at": "2026-11-01T07:09:34Z",
-  "link_tried3": true,
-  "source_url": "https://camelcamelcamel.com/product/B0DC12X9JF",
-  "store": "Google",
-  "checked_at": "2026-11-01T08:51:24Z"
- },
- {
-  "id": "28a5a9f334b05958",
-  "title": "Kate Spade New York iPhone 16 ...ase - Liquid Glitter Hollyhock - down 10.00% ($4.46) to $40.14 from $44.60",
-  "url": "https://www.amazon.com/dp/B0DC11CN6S",
-  "why": "",
-  "category": "fashion",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 4.46,
-  "found_at": "2026-11-01T07:09:34Z",
-  "link_tried3": true,
-  "source_url": "https://camelcamelcamel.com/product/B0DC11CN6S",
-  "store": "Google",
-  "checked_at": "2026-11-01T08:57:23Z"
- },
- {
   "id": "74a5d0209292cf6f",
   "title": "Sony Alpha a7 IV Mirrorless Camera with FE 28-70mm Lens - $2,198 $2198",
   "url": "https://www.amazon.com/s?k=Sony+Alpha+a7+IV+Mirrorless+Camera+with+FE+28-70mm+Lens+-",
@@ -19810,7 +19738,8 @@
   "price": 399.0,
   "found_at": "2026-11-01T18:30:53Z",
   "source_url": "https://slickdeals.net/f/20138610-sonos-sub-mini-black-compact-wireless-subwoofer-399-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T02:00:45Z"
  },
  {
   "id": "544a8fbdd6528600",
@@ -19824,7 +19753,8 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:47Z"
  },
  {
   "id": "0c7b2e67712851dd",
@@ -19838,7 +19768,8 @@
   "pct": null,
   "price": 199.99,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:49Z"
  },
  {
   "id": "a43560d8f234709d",
@@ -19852,7 +19783,8 @@
   "pct": null,
   "price": 149.0,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:50Z"
  },
  {
   "id": "7f3676c7ca0a7e41",
@@ -19866,7 +19798,8 @@
   "pct": null,
   "price": 239.0,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:52Z"
  },
  {
   "id": "c53e2a0f53200b74",
@@ -19880,7 +19813,8 @@
   "pct": null,
   "price": 149.0,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:53Z"
  },
  {
   "id": "3a53ec2071ae121f",
@@ -19894,7 +19828,8 @@
   "pct": null,
   "price": 239.0,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:55Z"
  },
  {
   "id": "79735d0d4eac5992",
@@ -19908,7 +19843,8 @@
   "pct": null,
   "price": 149.0,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:58Z"
  },
  {
   "id": "d8ee583c14cfac79",
@@ -19922,7 +19858,8 @@
   "pct": null,
   "price": 359.0,
   "found_at": "2026-11-01T18:30:53Z",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-02T02:00:59Z"
  },
  {
   "id": "306ee420bb34d0f6",
@@ -19937,7 +19874,8 @@
   "price": 2446.0,
   "found_at": "2026-11-01T18:30:53Z",
   "source_url": "https://slickdeals.net/f/20102760-sonos-ultimate-immersive-set-with-arc-ultra-2-446-2446?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T02:01:01Z"
  },
  {
   "id": "91b2b15c1245d280",
@@ -19952,7 +19890,8 @@
   "price": 399.0,
   "found_at": "2026-11-01T18:30:53Z",
   "source_url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T02:01:04Z"
  },
  {
   "id": "69e97d9438ac05bc",
@@ -19967,7 +19906,8 @@
   "price": 244.92,
   "found_at": "2026-11-01T18:30:53Z",
   "source_url": "https://slickdeals.net/f/19991547-resale-sonos-era-300-wireless-smart-speaker-with-dolby-atmos-white-244-92?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T02:01:06Z"
  },
  {
   "id": "67ab271e577deb41",
@@ -19982,7 +19922,8 @@
   "price": 92.0,
   "found_at": "2026-11-01T18:30:53Z",
   "source_url": "https://slickdeals.net/f/19989513-resale-sonos-era-100-sl-92-or-era-100-109-white?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T02:01:08Z"
  },
  {
   "id": "be88995812bc2822",
@@ -19997,7 +19938,8 @@
   "price": 1398.0,
   "found_at": "2026-11-01T18:30:53Z",
   "source_url": "https://slickdeals.net/f/19973247-sonos-arc-ultra-soundbar-sub-4-subwoofer-2-colors-1398-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T02:01:09Z"
  },
  {
   "id": "ca12593bca2ba180",
@@ -20012,7 +19954,8 @@
   "price": 799.0,
   "found_at": "2026-11-01T18:30:53Z",
   "source_url": "https://slickdeals.net/f/19973244-2-count-sonos-five-wireless-speakers-black-or-white-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-02T02:01:11Z"
  },
  {
   "id": "9079348ae72a1093",
@@ -27358,7 +27301,7 @@
  {
   "id": "cf1176a7dda17fa3",
   "title": "[WTS] Xerjoff, Nishane, Mancera & Replica - Steal Deals & Great Prices! (Bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xldhtm/wts_xerjoff_nishane_mancera_replica_steal_deals/",
+  "url": "https://www.google.com/search?tbm=shop&q=Xerjoff+Nishane+Mancera+%26+Replica+-+Steal+Deals+%26+Great+Prices",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -27368,7 +27311,8 @@
   "price": null,
   "found_at": "2026-11-01T20:29:15Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xldhtm/wts_xerjoff_nishane_mancera_replica_steal_deals/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "394039c039dbfaf3",
@@ -27673,7 +27617,7 @@
  {
   "id": "5d26dd24275699f1",
   "title": "DJI Osmo Pocket 3 4K Pocket Gimbal Camera $263 or Less + Free S&H",
-  "url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-256-free-s-h-256?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+4K+Pocket+Gimbal+Camera",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -27683,7 +27627,8 @@
   "price": 263.0,
   "found_at": "2026-11-01T21:16:52Z",
   "source_url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-256-free-s-h-256?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "cc641a7d44c9e112",
@@ -27720,7 +27665,7 @@
  {
   "id": "e2dfd2de799d9ec2",
   "title": "ISO some fragrances",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xleizb/iso_some_fragrances/",
+  "url": "https://www.google.com/search?tbm=shop&q=ISO+some+fragrances",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -27730,7 +27675,8 @@
   "price": null,
   "found_at": "2026-11-01T21:16:52Z",
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xleizb/iso_some_fragrances/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1c7370840dc922f8",
@@ -27751,7 +27697,7 @@
  {
   "id": "716f5b6243cbf90c",
   "title": "YMMV Burberry Hero Parfum 6.7 Oz Refill - Last Act/Clearance @ Nordstrom Rack & is only available at select stores - Pickup in store only! $65.98",
-  "url": "https://slickdeals.net/f/20087490-ymmv-burberry-hero-parfum-6-7-oz-refill-last-act-clearance-nordstrom-rack-is-only-available-at-select-stores-pickup-in-store-only-65-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=YMMV+Burberry+Hero+Parfum+6.7+Oz+Refill+-+Last+Act%2FClearance+%40+Nordstrom+Rack+%26+",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -27761,12 +27707,13 @@
   "price": 65.98,
   "found_at": "2026-11-01T21:16:52Z",
   "source_url": "https://slickdeals.net/f/20087490-ymmv-burberry-hero-parfum-6-7-oz-refill-last-act-clearance-nordstrom-rack-is-only-available-at-select-stores-pickup-in-store-only-65-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "ef25ae4baaddc548",
   "title": "LensCrafters - Burberry Frame + Lenses $330.6",
-  "url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Burberry",
@@ -27776,7 +27723,8 @@
   "price": 330.6,
   "found_at": "2026-11-01T21:16:52Z",
   "source_url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "29a78e1f9910c3ef",
@@ -27843,7 +27791,7 @@
  {
   "id": "e849de1032aefea9",
   "title": "Fragrances from D&G, Creed and More! at Woot!",
-  "url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -27853,7 +27801,8 @@
   "price": null,
   "found_at": "2026-11-01T21:31:57Z",
   "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "55c09e7ec0e72076",
@@ -27888,7 +27837,7 @@
  {
   "id": "14cc80cc4d9b5c3d",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -27898,7 +27847,8 @@
   "price": 59.99,
   "found_at": "2026-11-01T21:31:57Z",
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2a5475cd4085f609",
@@ -27967,7 +27917,7 @@
  {
   "id": "7cd2fdbeca0e7349",
   "title": "Burberry Touch 1.7oz EDT $22.5",
-  "url": "https://slickdeals.net/f/19786530-burberry-touch-1-7oz-edt-22-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+1.7oz+EDT",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -27977,12 +27927,13 @@
   "price": 22.5,
   "found_at": "2026-11-01T21:31:57Z",
   "source_url": "https://slickdeals.net/f/19786530-burberry-touch-1-7oz-edt-22-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "196fe7a31ae809c8",
   "title": "Burberry Touch 3.3 / 3.4 oz EDT Cologne for Men $32.84",
-  "url": "https://slickdeals.net/f/19770156-burberry-touch-3-3-3-4-oz-edt-cologne-for-men-32-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+3.3+3.4+oz+EDT+Cologne+for+Men",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -27992,7 +27943,8 @@
   "price": 32.84,
   "found_at": "2026-11-01T21:31:57Z",
   "source_url": "https://slickdeals.net/f/19770156-burberry-touch-3-3-3-4-oz-edt-cologne-for-men-32-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "d48a2c07c7c2a9d1",
@@ -28013,7 +27965,7 @@
  {
   "id": "5b62ea5d358a3f22",
   "title": "Fragrances For Dad at Woot!",
-  "url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+For+Dad",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -28023,7 +27975,8 @@
   "price": null,
   "found_at": "2026-11-01T21:31:57Z",
   "source_url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "5dfa8e76e0d1e4f3",
@@ -28392,7 +28345,7 @@
  {
   "id": "d355af4d7911ce6c",
   "title": "Bose lifestyle ultra soundbar $809 or $734 with AMEX coupon",
-  "url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+lifestyle+ultra+soundbar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -28402,7 +28355,8 @@
   "price": 809.0,
   "found_at": "2026-11-01T21:39:42Z",
   "source_url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8e38002f772deb56",
@@ -28469,7 +28423,7 @@
  {
   "id": "1fbb4a94c7751f10",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -28479,12 +28433,13 @@
   "price": 199.0,
   "found_at": "2026-11-01T21:39:42Z",
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "41513b3ef3ed3d18",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -28494,7 +28449,8 @@
   "price": 179.99,
   "found_at": "2026-11-01T21:39:42Z",
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "8aa733bd6641b404",
@@ -31669,9 +31625,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlkiso/wtb_amouage_enclave/",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2bdfba2f29b9c5a5",
@@ -31791,9 +31747,9 @@
   "pct": null,
   "price": 569.99,
   "found_at": "2026-11-02T01:47:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "480bdf6b93d8a326",
@@ -31807,9 +31763,9 @@
   "pct": null,
   "price": 649.99,
   "found_at": "2026-11-02T01:47:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "2b23486ab16cec53",
@@ -31887,9 +31843,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20200374-apple-watch-sport-loop?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "c55f118d87198113",
@@ -31919,9 +31875,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T01:47:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20200365-apple-watch-trail-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "ec81ab877cd06a0b",
@@ -31951,9 +31907,9 @@
   "pct": null,
   "price": 549.99,
   "found_at": "2026-11-02T01:47:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20188950-apple-watch-ultra-2-brand-new-at-woot-549-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "3e6e3a40c821bf40",
@@ -31970,5 +31926,115 @@
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20181198-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple"
+ },
+ {
+  "id": "30c3ae8e258c8438",
+  "title": "GOLDYIPE USB-C SD Card Reader for iPhone, iPad & MacBook $4.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=GOLDYIPE+USB-C+SD+Card+Reader+for+iPhone+iPad+%26+MacBook",
+  "why": "Iphone — 50% off",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 4.99,
+  "found_at": "2026-11-02T01:58:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20232909-goldyipe-usb-c-sd-card-reader-for-iphone-ipad-macbook-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "0ebefbd34a130429",
+  "title": "AsperX 140W USB C MacBook Charger Block,4-Port GaN Type C Laptop Charger $39.99",
+  "url": "https://www.amazon.com/s?k=AsperX+140W+USB+C+MacBook+Charger+Block+4-Port+GaN+Type+C+Laptop+Charger",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-02T01:58:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-02T02:01:27Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-02T02:01:27Z"
+ },
+ {
+  "id": "31f6427c01fdc368",
+  "title": "Assassins Creed Black Flag Resynced Launch Edition - Xbox Series X - $35@Walmart - IN STORE ONLY - YMMV",
+  "url": "https://slickdeals.net/f/20045712-assassins-creed-black-flag-resynced-launch-edition-xbox-series-x-35-walmart-in-store-only-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 35.0,
+  "found_at": "2026-11-02T02:01:27Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-02T02:01:34Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-02T02:01:34Z"
+ },
+ {
+  "id": "9fcde82c93f2cb2e",
+  "title": "This Is My Secret to Saving More Than 35% Off Luxury Perfumes From Gucci, YSL, Byredo, and More",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7ef25a0dd4127bf7aabe0a8a8cadb&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthis-is-my-secret-to-saving-more-than-35-off-luxury-perfumes-from-gucci-ysl-byredo-and-more%2far-AA2gh7ji&c=10663908228362423127&mkt=en-us",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Byredo sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 35,
+  "price": null,
+  "found_at": "2026-11-02T02:02:13Z"
  }
 ]
