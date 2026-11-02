@@ -22209,7 +22209,8 @@
   "window": "January - May 2022) - 2021-07-21",
   "depart": "2027-02-01",
   "return": "2027-02-02",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:27Z"
  },
  {
   "id": "623636f1f74d0e6c",
@@ -22229,7 +22230,8 @@
   "window": "January - March 2026) - 2025-12-16",
   "depart": "2027-01-06",
   "return": "2027-01-07",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:29Z"
  },
  {
   "id": "831894177b06a361",
@@ -22249,7 +22251,8 @@
   "window": "December - June 2025) - 2024-09-06",
   "depart": "2026-12-01",
   "return": "2026-12-04",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:30Z"
  },
  {
   "id": "c260a7d58134c98f",
@@ -22269,7 +22272,8 @@
   "window": "April - February 2025, Including SUMMER) - 2024-03-29",
   "depart": "2027-07-05",
   "return": "2027-07-12",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:32Z"
  },
  {
   "id": "16eaf8de538cf6e5",
@@ -22289,7 +22293,8 @@
   "window": "April - September 2024) - 2024-03-19",
   "depart": "2027-04-02",
   "return": "2027-04-10",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:33Z"
  },
  {
   "id": "6104edd228f64ec4",
@@ -22309,7 +22314,8 @@
   "window": "November - February 2024) - 2023-10-12",
   "depart": "2026-11-07",
   "return": "2026-11-08",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:35Z"
  },
  {
   "id": "7aeeb030cdbea5f6",
@@ -22329,7 +22335,8 @@
   "window": "July - October 2023) - 2023-07-11",
   "depart": "2027-07-26",
   "return": "2027-07-31",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:36Z"
  },
  {
   "id": "efec9c897194bfae",
@@ -22349,7 +22356,8 @@
   "window": "August - November 2023) - 2023-06-08",
   "depart": "2027-08-02",
   "return": "2027-08-03",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:37Z"
  },
  {
   "id": "9b18ba97c10d83e8",
@@ -22367,7 +22375,8 @@
   "dates_tried2": true,
   "source_url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "window": "November - March 2027)",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:38Z"
  },
  {
   "id": "a7b53356a8236536",
@@ -22387,7 +22396,8 @@
   "window": "Sept-Oct 2019)",
   "depart": "2027-09-03",
   "return": "2027-09-04",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:39Z"
  },
  {
   "id": "8a42b4c269eca5af",
@@ -22407,7 +22417,8 @@
   "window": "October - December 2025) - 2025-10-07",
   "depart": "2027-10-14",
   "return": "2027-10-15",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:40Z"
  },
  {
   "id": "efab93a1a7e6e926",
@@ -22427,7 +22438,8 @@
   "window": "January - July 2024) SUMMER DATES! - 2023-12-21",
   "depart": "2027-01-14",
   "return": "2027-01-16",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:41Z"
  },
  {
   "id": "7eadae4bb125be0e",
@@ -22447,7 +22459,8 @@
   "window": "September - October 2023) - 2023-08-10",
   "depart": "2027-10-03",
   "return": "2027-10-04",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:43Z"
  },
  {
   "id": "327bede70e069e22",
@@ -22467,7 +22480,8 @@
   "window": "November - December 2022) - 2022-10-24",
   "depart": "2026-11-06",
   "return": "2026-11-08",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:45Z"
  },
  {
   "id": "6a312f352542d7b6",
@@ -22487,7 +22501,8 @@
   "window": "November - February 2023) - 2022-10-12",
   "depart": "2026-11-13",
   "return": "2026-11-15",
-  "dates_tried3": true
+  "dates_tried3": true,
+  "checked_at": "2026-11-02T05:28:46Z"
  },
  {
   "id": "8d5326530eb955fb",
@@ -26720,7 +26735,7 @@
  {
   "id": "77c2f0e8becb2989",
   "title": "Ferragamo Low Sneaker With Signature In - $100000",
-  "url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -26730,7 +26745,8 @@
   "price": 100000.0,
   "found_at": "2026-11-01T22:55:30Z",
   "source_url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1c3b79ff43976081",
@@ -31608,9 +31624,9 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-02T05:17:35Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcjN1YndkUVV3LUhja1hNb3VpR3hYcHJGSEJoX1lDczNqZHNYVnkyb0FISFMxNHhXR1dVeWowekJRMDEzYS1WUTQwdWxYU012c21N?oc=5",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "1d49d19da7d1a79f",
@@ -31640,34 +31656,439 @@
   "pct": null,
   "price": 100.0,
   "found_at": "2026-11-02T05:17:35Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUZ6QnFlZ1Z1X2dYSE5qdUdzeFJUNGFyRkRXVy03dlpRYkxPYzlJTUlvVjY2bDJ5REJUM2E4cS1lQUFYb1E1NF85WV9JN19kWlZkTTROZ2dQX1lKcHBfMXhNaWF1TFF1MVpvcFlpTE9jRGVzVUdBWi1qVGJIVnFmSlhn?oc=5",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
-  "id": "63ac39a6e03d88a0",
-  "title": "$14* | 2-Pk 5-ft Beats USB-C to USB-C Charging Cables (Black) at Amazon",
-  "url": "https://slickdeals.net/f/20186319-14-2-pk-5-ft-beats-usb-c-to-usb-c-charging-cables-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "80f314b67c7213db",
+  "title": "[SnS] $41.18 | English Laundry Crown Cologne Eau de Parfum Spray, 3.4 Fl Oz at Amazon",
+  "url": "https://slickdeals.net/f/20239275-sns-41-18-english-laundry-crown-cologne-eau-de-parfum-spray-3-4-fl-oz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "amazon",
-  "source": "Web search: Beats deal",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 14.0,
-  "found_at": "2026-11-02T05:20:30Z"
+  "price": 41.18,
+  "found_at": "2026-11-02T05:25:51Z",
+  "link_tried3": true
  },
  {
-  "id": "932e7074e641db8e",
-  "title": "$7.60* | Beats USB-C to USB-C Woven Short Cable (8 in, 20 cm) - Bolt Black at Amazon",
-  "url": "https://slickdeals.net/f/20161383-7-60-beats-usb-c-to-usb-c-woven-short-cable-8-in-20-cm-bolt-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "5f8560c53803b79e",
+  "title": "The Logic of Leviathan: The Mo...itical Theory of Thomas Hobbes - down 5.21% ($3.56) to $64.77 from $68.33",
+  "url": "https://www.amazon.com/dp/0198243359",
   "why": "",
-  "category": "amazon",
-  "source": "Web search: Beats deal",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 7.6,
-  "found_at": "2026-11-02T05:20:30Z"
+  "price": 3.56,
+  "found_at": "2026-11-02T05:25:51Z",
+  "source_url": "https://camelcamelcamel.com/product/0198243359"
+ },
+ {
+  "id": "2d27053f014293df",
+  "title": "$99.21 | 007 First Light - Collector's Edition - PlayStation 5 at Amazon",
+  "url": "https://slickdeals.net/f/20242305-99-21-007-first-light-collector-s-edition-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.21,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "e6cb4a5d4bb84773",
+  "title": "Resident Evil 2 (PlayStation 5) $15.19 + Free Shipping w/ Walmart+ or on $35+",
+  "url": "https://slickdeals.net/f/20242110-resident-evil-2-playstation-5-15-19-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.19,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "c28b0869d011c656",
+  "title": "$15.19* | Resident Evil 2 (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/20240625-15-19-resident-evil-2-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.19,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "71150b85693adda2",
+  "title": "007 FIRST LIGHT - LEGACY EDITION - PlayStation 5 or Xbox Series X $99.99",
+  "url": "https://slickdeals.net/f/20234955-007-first-light-legacy-edition-playstation-5-or-xbox-series-x-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.99,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "f163d500dea36aee",
+  "title": "PAW Patrol Rescue Wheels: Championship (PlayStation 5) $6.39 + Free S&H w/ Prime",
+  "url": "https://slickdeals.net/f/20231301-paw-patrol-rescue-wheels-championship-playstation-5-6-39-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.39,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "869d6673fd8802f0",
+  "title": "$14.99 | Shadow Labyrinth (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/20231265-14-99-shadow-labyrinth-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.99,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "c0ce3885efa0c309",
+  "title": "$32.86 | Starfield (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/20229267-32-86-starfield-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 32.86,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "ef18e3d3c07f2a66",
+  "title": "[Lightning Deal] $39.97 | RoboCop: Rogue City Collection (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/20228877-lightning-deal-39-97-robocop-rogue-city-collection-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.97,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "098ab0f46fb407d8",
+  "title": "Final Fantasy VII Rebirth (Physical) PlayStation 5 - $19.93",
+  "url": "https://slickdeals.net/f/20224068-final-fantasy-vii-rebirth-physical-playstation-5-19-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.93,
+  "found_at": "2026-11-02T05:28:51Z"
+ },
+ {
+  "id": "2b182b6c8a1b399f",
+  "title": "007 First Light Collector's Edition (PS5, XBOX Series X, PC) $99 + Free Shipping",
+  "url": "https://slickdeals.net/f/20240805-007-first-light-collector-s-edition-ps5-xbox-series-x-pc-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Xbox Series X deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.0,
+  "found_at": "2026-11-02T05:28:55Z"
+ },
+ {
+  "id": "4dbd2f0e1c2284ac",
+  "title": "MLB The Show 26 (Xbox Series X) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20230803-mlb-the-show-26-xbox-series-x-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Xbox Series X deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-02T05:28:55Z"
+ },
+ {
+  "id": "a71b964256815900",
+  "title": "$47.99* | Star Wars Zero Company (PS5 / Xbox Series X) at Amazon",
+  "url": "https://slickdeals.net/f/20228556-47-99-star-wars-zero-company-ps5-xbox-series-x-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Xbox Series X deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 47.99,
+  "found_at": "2026-11-02T05:28:55Z"
+ },
+ {
+  "id": "ec4cd63bea358e7e",
+  "title": "Borderlands 4 (PS5 or Xbox Series X) $19",
+  "url": "https://slickdeals.net/f/20218557-borderlands-4-ps5-or-xbox-series-x-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Xbox Series X deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.0,
+  "found_at": "2026-11-02T05:28:55Z"
+ },
+ {
+  "id": "a0cd862ba5470cfb",
+  "title": "Battlefield 6 (Xbox Series X) $18.40 + Free S/H @ eBay",
+  "url": "https://slickdeals.net/f/20210820-battlefield-6-xbox-series-x-18-40-free-s-h-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Xbox Series X deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 18.4,
+  "found_at": "2026-11-02T05:28:55Z"
+ },
+ {
+  "id": "2698bc65d7f33b59",
+  "title": "$39.99* | DRAGON QUEST VII Reimagined (Switch / Switch 2, Xbox Series X) at Amazon",
+  "url": "https://slickdeals.net/f/20209848-39-99-dragon-quest-vii-reimagined-switch-switch-2-xbox-series-x-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Xbox Series X deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-02T05:28:55Z"
+ },
+ {
+  "id": "dbfd2de0ca5549b1",
+  "title": "Octopath Traveler 0 (Nintendo Switch / Switch 2, PS5, or Xbox Series X) $30",
+  "url": "https://slickdeals.net/f/20209329-octopath-traveler-0-nintendo-switch-switch-2-ps5-or-xbox-series-x-30?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Xbox Series X deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-02T05:28:55Z"
+ },
+ {
+  "id": "bbccdc4f5f835256",
+  "title": "$42.99 | Star Fox | Digital | Nintendo Switch 2 at Amazon",
+  "url": "https://slickdeals.net/f/20240760-42-99-star-fox-digital-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 42.99,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "76fbf445f9fb8c42",
+  "title": "The Legend of Zelda™: Ocarina of Time - Nintendo Switch 2 [Pre-Purchase] [Digital] - $50.90",
+  "url": "https://slickdeals.net/f/20237583-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2-pre-purchase-digital-50-90?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 50.9,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "17438e98adec5307",
+  "title": "$13.99* | JSAUX Hard PC Carrying Case for Nintendo Switch 2 (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20236647-13-99-jsaux-hard-pc-carrying-case-for-nintendo-switch-2-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.99,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "c250baa60dbfcc3b",
+  "title": "$16.99* | Spigen Dual Grip for Nintendo Switch 2 at Amazon",
+  "url": "https://slickdeals.net/f/20235813-16-99-spigen-dual-grip-for-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 16.99,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "d5e58568346ce9bd",
+  "title": "Pre-Order: Metroid Ravenous (Nintendo Switch 2) $59.88 @ Walmart",
+  "url": "https://slickdeals.net/f/20234136-pre-order-metroid-ravenous-nintendo-switch-2-59-88-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.88,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "33fb323caee9696f",
+  "title": "$24.88* | Final Fantasy VII Remake Intergrade Nintendo Switch 2 (Standard) at Amazon",
+  "url": "https://slickdeals.net/f/20232387-24-88-final-fantasy-vii-remake-intergrade-nintendo-switch-2-standard-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.88,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "4e6654bcdc3aa3fe",
+  "title": "[Woot] Minecraft Dungeons II Deluxe Edition (Nintendo Switch 2) – $35.99 w/ Coupon + Free Shipping for Prime Members",
+  "url": "https://slickdeals.net/f/20232171-woot-minecraft-dungeons-ii-deluxe-edition-nintendo-switch-2-35-99-w-coupon-free-shipping-for-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 35.99,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "19e6579f870af84f",
+  "title": "$11.99: R.D.S. Game Traveler Deluxe Crossbody Bag for Nintendo Switch & Switch 2, Black at Woot!",
+  "url": "https://slickdeals.net/f/20232090-11-99-r-d-s-game-traveler-deluxe-crossbody-bag-for-nintendo-switch-switch-2-black-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-02T05:28:59Z"
+ },
+ {
+  "id": "8f646b8e92bca802",
+  "title": "Total 43% OFF！！JSAUX Video Capture Card Intended for Nintendo Switch 2/Steam Deck/ROG Ally",
+  "url": "https://slickdeals.net/f/20054385-total-43-off-jsaux-video-capture-card-intended-for-nintendo-switch-2-steam-deck-rog-ally?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": 43,
+  "price": null,
+  "found_at": "2026-11-02T05:29:01Z"
+ },
+ {
+  "id": "8a473f51f0d1d5b5",
+  "title": "JSAUX Video Capture Card Intended for Nintendo Switch 2/Steam Deck/ROG Ally $23.99",
+  "url": "https://slickdeals.net/f/19987194-jsaux-video-capture-card-intended-for-nintendo-switch-2-steam-deck-rog-ally-23-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 23.99,
+  "found_at": "2026-11-02T05:29:01Z"
+ },
+ {
+  "id": "634b9e3d576a2543",
+  "title": "Nintendo Switch Digital Titles: Flipping Death $2 & more",
+  "url": "https://slickdeals.net/f/16876994-nintendo-switch-digital-titles-flipping-death-2-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2.0,
+  "found_at": "2026-11-02T05:29:01Z"
+ },
+ {
+  "id": "72b37efde2a10335",
+  "title": "Nintendo Switch Digital Games: Immortals Fenyx Rising $9, Layers of Fear 2 $4.50 & More",
+  "url": "https://slickdeals.net/f/16846136-nintendo-switch-digital-games-immortals-fenyx-rising-9-layers-of-fear-2-4-50-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.0,
+  "found_at": "2026-11-02T05:29:01Z"
+ },
+ {
+  "id": "1a647d1b81335a79",
+  "title": "Nintendo Switch Digital eShop: Jet Kave Adventure $1.99, Welcome to Hanwell $2.24, A Day Without Me $2.49 & More",
+  "url": "https://slickdeals.net/f/15500356-nintendo-switch-digital-eshop-jet-kave-adventure-1-99-welcome-to-hanwell-2-24-a-day-without-me-2-49-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": 15,
+  "price": 1.99,
+  "found_at": "2026-11-02T05:29:01Z"
+ },
+ {
+  "id": "12a8a1e5899bdef0",
+  "title": "Nintendo Switch Digital Games: Quake $6, Slay the Spire $10, Inside $2 & More",
+  "url": "https://slickdeals.net/f/15437587-nintendo-switch-digital-games-quake-6-slay-the-spire-10-inside-2-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.0,
+  "found_at": "2026-11-02T05:29:01Z"
+ },
+ {
+  "id": "76df21661cdbadc6",
+  "title": "Nintendo Switch Digital Games: Project Warlock $6, Figment $2.20 & More",
+  "url": "https://slickdeals.net/f/15369424-nintendo-switch-digital-games-project-warlock-6-figment-2-20-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.0,
+  "found_at": "2026-11-02T05:29:01Z"
  }
 ]
