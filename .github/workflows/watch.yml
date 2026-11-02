@@ -33,8 +33,8 @@ jobs:
           for i in $(seq 1 11); do
             echo "::group::Scan $i at $(date -u +%H:%M)"
             python watcher.py || echo "scan failed, trying again next round"
-            if [ -n "$(git status --porcelain seen.json deals.json)" ]; then
-              git add seen.json deals.json 2>/dev/null || git add seen.json
+            if [ -n "$(git status --porcelain seen.json deals.json hunted.json status.json watches.json stores.json taste.json)" ]; then
+              git add seen.json deals.json hunted.json status.json watches.json stores.json taste.json 2>/dev/null || git add seen.json
               git commit -q -m "update seen deals"
               git pull --rebase -q || { git rebase --abort; git pull --no-rebase -q -X ours; }
               git push -q || echo "push failed, will retry next round"

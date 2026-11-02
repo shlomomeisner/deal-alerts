@@ -1,0 +1,22 @@
+name: Test links on iPhone
+
+# Run by hand (Actions tab -> Test links on iPhone -> Run workflow). Reads every store,
+# fixes links, then opens the page on an iPhone 15 (Safari's engine) and checks that the
+# main buttons open the exact product, flights open with route + dates + prices, and
+# Keep / X taps reach the scanner. Nothing is committed; screenshots are attached to the run.
+on:
+  workflow_dispatch: {}
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: bash tools/test.sh
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: iphone-screenshots
+          path: tools/shots

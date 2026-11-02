@@ -9,6 +9,10 @@ Runs right after watcher.py on every scan (GitHub Actions). Standard library onl
    only the ones that are clearly gone (post marked expired, or the store page
    says out of stock). Deals that can't be checked stay. No age limit.
 3. Junk filter + category fixes (smartwatches are tech, not luxury watches).
+4. Real links only: `exact` is true only when `url` is the product page itself
+   (or, for flights, Google Flights with the route and dates filled in). Every deal
+   also gets `similar` (the store's search or Google Shopping). Deals with no real
+   product link keep only `similar` and sink to the bottom of the page.
 """
 import json
 import os
@@ -17,6 +21,8 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+
+import flights
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 FILES = [os.path.join(ROOT, "deals.json"), os.path.join(ROOT, "hunted.json")]
@@ -141,6 +147,36 @@ def follow(url, hops=8):
     return None
 
 
+SEARCHY = re.compile(r"(/search|/s\?|/s/|/sr\?|[?&](q|k|st|keyword|searchTerm|_nkw|term|Ntt|query|d)=|/featured/|"
+                     r"CatalogSearch|/browse|/category/|/c/|/collections/[^/]+/?$|/shop/?$|/sale/?$|/deals?/?$|tbm=shop)", re.I)
+PRODUCT = re.compile(r"(/dp/[A-Z0-9]{10}|/gp/product/|/ip/|/itm/|/products?/[^/?#]{3,}|/p/[^?#]{3,}|\.p\?|skuId=|"
+                     r"/s/[^/]+/\d{5,}|/offers/[a-z0-9-]{4,}|/shop/product/|/c/product/|/site/[^?]+/\d{6,}|"
+                     r"/[A-Za-z0-9-]{12,}\.html|/[^/?#]*\d{6,}[^/?#]*/?(\?|$)|/A-\d{6,}|/item/|/buy/|/product\.)", re.I)
+
+
+def is_product(url):
+    """True only for a page that is one product at a store (not a post, search, category or home page)."""
+    if not url or not url.startswith("http"):
+        return False
+    h = host(url)
+    if is_post(url) or BAD_HOST.search(h) or "google." in h or DOUBT.search(url):
+        return False
+    p = urllib.parse.urlparse(url)
+    if p.path in ("", "/"):
+        return False
+    if re.search(r"/products?/", p.path) or re.search(r"/(dp|ip|itm)/", p.path) \
+            or re.fullmatch(r"/s/[^/]+/\d{5,}/?", p.path):   # Nordstrom / Rack product pages
+        return True
+    return not SEARCHY.search(p.path + ("?" + p.query if p.query else "")) and bool(PRODUCT.search(p.path + ("?" + p.query if p.query else "")))
+
+
+def similar_for(d):
+    if d.get("category") == "flights":
+        return d.get("similar") or None
+    link, _ = store_search(d, d.get("store") or "")
+    return link or shopping(d)
+
+
 LAST_HINT = {"store": ""}
 DOUBT = re.compile(r"(woot\.com/search|jomashop\.com/search|ulta\.com/search|staples\.com/|fragrancenet\.com/search|"
                    r"saksfifthavenue\.com/search|typekit|fonts\.|videoplayer|\.(css|js|png|jpe?g|gif|webp)(\?|$))", re.I)
@@ -148,7 +184,7 @@ DOUBT = re.compile(r"(woot\.com/search|jomashop\.com/search|ulta\.com/search|sta
 
 BAD_HOST = re.compile(r"(^|\.)(twitter|x|facebook|youtube|instagram|google|apple\.news|wp|wordpress|gravatar|"
                       r"videoplayerhub|jwplayer|vimeo|tiktok|pinterest|reddit|threads|bsky|disqus|feedburner|"
-                      r"gstatic|cloudfront|doubleclick|typekit|fonts|9to5mac|9to5google|9to5toys|electrek|dronedj|spaceexplored|space\.com)"
+                      r"gstatic|cloudfront|doubleclick|typekit|fonts|linkedin|podcasts\.apple|apps\.apple|music\.apple|bing|9to5mac|9to5google|9to5toys|electrek|dronedj|spaceexplored|space\.com)"
                       r"(\.|$)|videoplayer|cdn\.|static\.|img\.|\.(jpg|png|gif|webp)$", re.I)
 
 
@@ -296,23 +332,49 @@ def verified(url, d):
     if "google.com/" in url:
         return url
     status, _ = get(url)
-    return shopping(d) if status in (404, 410) else url
+    return None if status in (404, 410) else url
+
+
+def flight_parts(d):
+    """(from_code, to_code_or_name, depart, return) for a NYC flight deal."""
+    title = re.sub(r"\b(St|Ste|Mt|Ft|Pt)\.", r"\1", d.get("title", ""))
+    m = ROUTE.search(title)
+    if not m:
+        return None
+    frm = flights.HOME.get(m.group(1).lower(), "NYC")
+    raw = re.sub(r"\s+(round[- ]?trip|r/?t|nonstop|non-stop|airfares?|fares?|flights?|on|with|w/|in|for|from|"
+                 r"starting|only|deal|sale|basic|economy|business|first|premium|\d.*)\b.*$", "", m.group(2), flags=re.I)
+    raw = raw.strip(" ,.-/")
+    code = flights.code_for(m.group(2)) or flights.code_for(raw)
+    dep, ret = d.get("depart"), d.get("return")
+    if dep and dep < time.strftime("%Y-%m-%d", time.gmtime(time.time() + 86400)):
+        dep = ret = None
+    if not dep:
+        dep, ret = flights.window_dates(f"{d.get('window', '')} {d.get('title', '')}")
+        if dep:
+            d["picked"] = True
+    if not dep:   # no window either: a typical mid-week trip ~5 weeks out
+        dep, ret = flights.window_dates(time.strftime("%b", time.gmtime(time.time() + 35 * 86400)))
+        d["picked"] = True
+    dep, ret = flights.fix_trip(code or raw, dep, ret)
+    d["depart"], d["return"] = dep, ret        # the card shows exactly the dates the link opens
+    return frm, code or raw, dep, ret
 
 
 def flight_link(d):
-    base = _flight_route_link(d)
-    if d.get("depart") and d.get("return") and "%20through%20" not in base:
-        base += urllib.parse.quote(f" on {d['depart']} through {d['return']}")
-    return base
-
-
-def _flight_route_link(d):
-    m = ROUTE.search(re.sub(r"\b(St|Ste|Mt|Ft|Pt)\.", r"\1", d.get("title", "")))
-    if m:
-        dest = re.sub(r"\([^)]*\)", "", m.group(2)).strip(" ,.-")
-        orig = {"jfk": "JFK", "ewr": "EWR", "lga": "LGA", "newark": "EWR"}.get(m.group(1).lower(), "New York")
-        return "https://www.google.com/travel/flights?q=" + urllib.parse.quote(f"Flights from {orig} to {dest}")
-    return _flight_link_plain(d)
+    """Google Flights results page: exact airports + dates, prices showing."""
+    parts = flight_parts(d)
+    if not parts:
+        d["exact"] = False
+        d["similar"] = _flight_link_plain(d)
+        return d["similar"]
+    frm, to, dep, ret = parts
+    d["fcode"] = [frm, to] if re.fullmatch(r"[A-Z]{3}", to or "") else [frm, None]
+    d["exact"] = True
+    d["similar"] = flights.google_flights(frm, to)          # same route, any dates
+    if re.fullmatch(r"[A-Z]{3}", to or ""):
+        return flights.google_flights(frm, to, dep, ret)
+    return flights.google_flights(frm, to, dep, ret)        # city name: plain-English search, still dated
 
 
 def _flight_link_plain(d):
@@ -341,7 +403,7 @@ def recheck(d):
     if url and not is_post(url) and d.get("category") != "flights" and not re.search(r"search|/s\?|/sr\?|[?&](q|k|keyword|st|term|query|_nkw)=|/featured/", url, re.I):
         status, html = get(url)
         if status in (404, 410):
-            return "GONE"
+            return "GONE" if d.get("store_reader") else "DEADPRODUCT"
         if status == 200 and html:
             if GONE_STORE.search(html) and not IN_STOCK.search(html):
                 return "GONE"
@@ -401,11 +463,13 @@ def main():
                 for k in ("depart", "return", "window"):
                     d.pop(k, None)
                 d.update(flight_dates(post))
-                d["route_fixed"] = False
+                d["route_fixed2"] = False
             d["dates_tried3"], changed = True, True
     for d in everything:
-        if d.get("category") == "flights" and d.get("source_url") and not d.get("route_fixed"):
-            d["url"], d["route_fixed"], changed = flight_link(d), True, True
+        if d.get("category") == "flights" and not d.get("route_fixed2"):
+            if is_post(d.get("url", "")) and not d.get("source_url"):
+                d["source_url"] = d["url"]
+            d["url"], d["route_fixed2"], changed = flight_link(d), True, True
     todo = [d for d in everything if is_post(d.get("url", "")) and not d.get("link_tried3")]
     todo.sort(key=lambda d: d.get("found_at", ""), reverse=True)
     for d in todo[:LINK_FIXES_PER_SCAN]:
@@ -414,7 +478,8 @@ def main():
         d["link_tried3"] = True
         changed = True
         if d.get("category") == "flights":
-            d["source_url"], d["url"], d["route_fixed"] = d["url"], flight_link(d), True
+            d["source_url"], d["route_fixed2"] = d["url"], True
+            d["url"] = flight_link(d)
             fixed += 1
             continue
         target = None
@@ -423,12 +488,24 @@ def main():
         target = target or store_link_from_post(d["url"])
         if not target:
             target, _ = store_search(d, LAST_HINT["store"])
-        if target:
+        if target and is_product(target):
             target = verified(target, d)
+        if target:
             d["source_url"], d["url"] = d["url"], target
             fixed += 1
             if not d.get("store"):
                 d["store"] = host(target).split(".")[-2].title() if "." in host(target) else None
+
+    # 1b. real links only: exact product page or Similar only
+    for d in everything:
+        if d.get("category") == "flights" or d.get("store_reader"):
+            continue   # store-reader deals come with the exact product link (stores.py checks them)
+        ex = is_product(d.get("url", ""))
+        if not ex and not is_post(d.get("url", "")) and d.get("url") and not d.get("similar"):
+            d["similar"] = d["url"]          # an old search link: that's a Similar link, not the product
+        sim = d.get("similar") or similar_for(d)
+        if d.get("exact") != ex or d.get("similar") != sim:
+            d["exact"], d["similar"], changed = ex, sim, True
 
     # 2. sold-out re-checks, oldest check first (never removed for age alone)
     gone = set()
@@ -438,9 +515,15 @@ def main():
             break
         verdict = recheck(d)
         if verdict == "DEADLINK":
-            d["url"] = shopping(d)
+            d["similar"] = shopping(d)
             d["checked_at"] = now_iso()
             changed = True
+            continue
+        if verdict == "DEADPRODUCT":   # the deal may still be real; only the product link died
+            d["similar"] = d.get("similar") or similar_for(d)
+            if d.get("source_url"):
+                d["url"] = d["source_url"]
+            d["exact"], d["checked_at"], changed = False, now_iso(), True
             continue
         if verdict == "GONE":
             gone.add(d["id"])

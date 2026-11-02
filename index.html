@@ -122,6 +122,28 @@ button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer}
 .pricebar .was{font-size:13px;color:var(--muted);text-decoration:line-through}
 .pricebar .pct{margin-left:auto;font:700 13px var(--mono);color:#fff;background:linear-gradient(135deg,var(--accent),var(--accent-2));padding:4px 9px;border-radius:7px}
 .actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.deal .actions{display:grid;grid-template-columns:minmax(0,1fr) auto auto;align-items:start;gap:8px}
+.go-col{display:flex;flex-direction:column;align-items:flex-start;gap:7px;min-width:0}
+.go-col .open{max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.deal .actions .btn.ghost{margin-left:0}
+.similar{font:600 12px var(--body);color:var(--muted);text-decoration:none;display:inline-flex;align-items:center;gap:4px;padding:5px 10px;border:1px solid var(--line);border-radius:999px;background:transparent;-webkit-tap-highlight-color:transparent}
+.similar svg{width:12px;height:12px}
+.similar:hover{color:var(--ink);border-color:var(--muted)}
+.spot .similar{color:var(--spot-muted);border-color:color-mix(in srgb,var(--spot-ink) 25%,transparent)}
+.deal.nolink{background:var(--raised)}
+.deal.nolink .title{font-weight:500;color:var(--muted)}
+.nolink-note{font-size:12px;color:var(--muted)}
+.head{display:flex;gap:12px;align-items:flex-start;min-width:0}
+.head .thumb{flex:none;width:68px;height:68px;border-radius:12px;object-fit:cover;background:var(--line);border:1px solid var(--line)}
+.head .ttl{min-width:0;flex:1;display:flex;flex-direction:column;gap:4px}
+.sect{grid-column:1/-1;display:flex;align-items:center;gap:10px;margin:14px 0 2px;font:700 11px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.sect::after{content:"";flex:1;border-top:1px dashed var(--line)}
+.tuned{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;color:var(--muted);margin-top:10px}
+.tuned b{color:var(--ink)}
+.toast{display:flex;align-items:center;white-space:nowrap}
+.toast button{margin-left:14px;font:700 13px var(--body);color:inherit;background:transparent;border:0;text-decoration:underline;cursor:pointer;padding:0}
+.toast.show{pointer-events:auto}
+.stores{display:block;margin-top:4px}
 .open{font:600 13.5px var(--body);padding:9px 15px;border-radius:10px;background:var(--ink);color:var(--bg);text-decoration:none;display:inline-flex;align-items:center;gap:6px}
 .spot .open{background:var(--spot-ink);color:var(--spot-bg)}
 .src{font-size:12.5px;color:var(--muted)}
@@ -131,7 +153,7 @@ button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer}
 .btn[aria-pressed="true"] svg{fill:currentColor}
 .spot .btn{color:var(--spot-ink);border-color:color-mix(in srgb,var(--spot-ink) 30%,transparent)}
 .btn.ghost{border-color:transparent;margin-left:auto}
-.chip:focus-visible,.open:focus-visible,.btn:focus-visible,.title a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.similar:focus-visible,.chip:focus-visible,.open:focus-visible,.btn:focus-visible,.title a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
 .toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%) translateY(20px);background:var(--ink);color:var(--bg);font:600 13.5px var(--body);padding:10px 16px;border-radius:12px;opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:20;max-width:calc(100% - 32px)}
 .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
@@ -165,12 +187,13 @@ footer{margin-top:30px;font-size:12px;color:var(--muted);display:flex;gap:8px 16
     <label class="sbox"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       <input id="q" type="search" enterkeyhint="search" autocomplete="off" placeholder="What do you want? AirPods, Gucci, Aruba…" aria-label="Search deals"><button type="button" class="clr" id="qclr" hidden>Clear</button></label>
     <div id="watchbar" class="watchrow"></div>
+    <div class="tuned" id="tuned" hidden></div>
   </section>
   <section id="spot" hidden></section>
   <nav class="rail" id="rail" aria-label="Categories"></nav>
   <main class="list" id="list" aria-live="polite"></main>
 
-  <footer><span>Scanned every few minutes across Slickdeals, Google, Reddit, 9to5Toys and flight-deal sites. Sold-out deals are removed automatically. Kept deals are saved on this phone.</span><span>Prices move fast. Check the store before you buy.</span></footer>
+  <footer><span>Pulled straight from store sale pages, plus Slickdeals, Google, Reddit and flight-deal sites, every few minutes. The big button opens the exact product (or the flight with your dates); Similar opens a store search. Keep and ✕ teach the scanner your taste.</span><span class="stores" id="storesLine"></span><span>Prices move fast. Check the store before you buy.</span></footer>
 </div>
 <div class="toast" id="toast" role="status"></div>
 
@@ -217,7 +240,7 @@ try{cat=localStorage.getItem("sw.cat")||"all";const l=JSON.parse(localStorage.ge
 const saveLocal=()=>{try{localStorage.setItem("sw.cat",cat);localStorage.setItem("sw.mine",JSON.stringify(mine))}catch(e){}};
 
 let toastTimer=null;
-function toast(msg){const t=$("toast");t.textContent=msg;t.classList.add("show");clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove("show"),1800)}
+function toast(msg,undo){const t=$("toast");t.textContent=msg;if(undo){const b=document.createElement("button");b.type="button";b.textContent="Undo";b.onclick=()=>{t.classList.remove("show");undo()};t.append(b)}t.classList.add("show");clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.classList.remove("show"),undo?4000:1800)}
 
 // Save right away (no delay, so closing the app right after tapping never loses it); one write at a time.
 async function flush(){
@@ -235,17 +258,37 @@ const money=v=>v==null||v===""?"":(typeof v==="number"?"$"+v.toLocaleString(unde
 const pctOf=d=>d.pct?Math.round(d.pct):(typeof d.price==="number"&&typeof d.was==="number"&&d.was>d.price?Math.round((1-d.price/d.was)*100):0);
 const isKept=id=>!!mine.kept[id];
 const hiddenSet=()=>new Set(mine.hidden);
-const live=()=>{const h=hiddenSet();return deals.filter(d=>!h.has(d.id))};
+const live=()=>{const h=hiddenSet();return deals.filter(d=>!h.has(d.id)&&!d.muted)};
+// For you: real product links first, then newest, nudged by your taste (+1 taste ≈ 8 hours newer)
+const rankOf=d=>(new Date(d.found_at).getTime()||0)+(d.taste||0)*8*36e5;
+const ranked=rows=>rows.slice().sort((a,b)=>(b.exact?1:0)-(a.exact?1:0)||rankOf(b)-rankOf(a));
 // Kept items show the latest version of the deal (e.g. updated links); if the hunter removed it as expired, it stays here marked "Ended".
 const keptList=()=>{const byId=new Map(deals.map(d=>[d.id,d]));return Object.values(mine.kept).map(k=>{const cur=byId.get(k.id);return cur?{...k,...cur}:{...k,ended:dealsLoaded}}).sort((a,b)=>String(b.kept_at||b.found_at).localeCompare(String(a.kept_at||a.found_at)))};
 const recent=d=>{const m=new Date();m.setHours(0,0,0,0);return new Date(d.found_at)>=m};
 
+// Every Keep / ✕ goes to the scanner (taste.py), which learns what you like and ranks / filters new deals by it.
+const TASTE="steal-watch-taste-4f9a1c27e3";
+function tap(a,d){
+  const msg={a,id:d.id,t:String(d.title||"").slice(0,160),s:d.store||"",c:d.category||"",p:typeof d.price==="number"?d.price:null};
+  let q=[];try{q=JSON.parse(localStorage.getItem("sw.taps")||"[]")}catch(e){}
+  q.push(msg);sendTaps(q);
+}
+function sendTaps(q){   // queued, so a tap made offline still reaches the scanner later
+  if(!q.length){try{localStorage.removeItem("sw.taps")}catch(e){}return}
+  try{localStorage.setItem("sw.taps",JSON.stringify(q.slice(-200)))}catch(e){}
+  const m=q[0];
+  fetch("https://ntfy.sh/"+TASTE,{method:"POST",body:JSON.stringify(m),keepalive:true}).then(r=>{if(r.ok){q.shift();sendTaps(q)}}).catch(()=>{});
+}
+try{sendTaps(JSON.parse(localStorage.getItem("sw.taps")||"[]"))}catch(e){}
 function toggleKeep(d){
-  if(isKept(d.id)){delete mine.kept[d.id];toast("Removed from Kept")}
-  else{const {ended,...snap}=d;mine.kept[d.id]={...snap,kept_at:new Date().toISOString()};toast("Kept ✓ — find it in the Kept tab")}
+  if(isKept(d.id)){delete mine.kept[d.id];tap("unkeep",d);toast("Removed from Kept")}
+  else{const {ended,...snap}=d;mine.kept[d.id]={...snap,kept_at:new Date().toISOString()};tap("keep",d);toast("Kept ✓ — more like this coming")}
   persist();render();
 }
-function hide(d){if(!mine.hidden.includes(d.id))mine.hidden.push(d.id);persist();render();toast("Hidden")}
+function hide(d){
+  if(!mine.hidden.includes(d.id))mine.hidden.push(d.id);tap("hide",d);persist();render();
+  toast("Hidden — fewer like this",()=>{mine.hidden=mine.hidden.filter(x=>x!==d.id);tap("unhide",d);persist();render()});
+}
 
 function rail(){
   const v=live(),count=c=>c==="all"?v.length:c==="kept"?Object.keys(mine.kept).length:v.filter(d=>inCat(d,c)).length;
@@ -259,6 +302,7 @@ function linkKind(d){   // be honest about where the button goes
   let u;try{u=new URL(d.url)}catch(e){return {label:"Open deal",store:""}}
   const h=u.hostname.replace(/^www\./,"");
   if(d.category==="flights")return {label:"Find tickets",store:""};
+  if(d.exact){const name=Object.keys(SHOPNAME).find(k=>h===k||h.endsWith("."+k));const store=d.store||(name?SHOPNAME[name]:h.split(".").slice(-2,-1)[0].replace(/^./,c=>c.toUpperCase()));return {label:store.length<=11?"Open at "+store:"Open product",store}}
   if(h==="google.com"&&/tbm=shop/.test(u.search))return {label:"Compare prices",store:"",search:true};
   if(h==="google.com")return {label:"Search store",store:(/site%3A([a-z.]+)|site:([a-z.]+)/i.exec(d.url)||[]).slice(1).filter(Boolean)[0]||"",search:true};
   const name=Object.keys(SHOPNAME).find(k=>h===k||h.endsWith("."+k));
@@ -292,18 +336,20 @@ function fmtTrip(a,b){
 }
 function card(d){
   const el=document.createElement("article");
-  el.className="deal"+(d.urgent?" urgent":"")+(d.ended?" ended":"")+(d.tropical?" trop":"");
+  el.className="deal"+(d.urgent?" urgent":"")+(d.ended?" ended":"")+(d.tropical?" trop":"")+(d.exact?"":" nolink");
   el.innerHTML=`<div class="top"><span class="cat">${svg(d.category||"everything")}</span><span class="store"></span>${d.ended?'<span class="flag gone">Ended</span>':d.urgent?'<span class="flag">Price error</span>':myWatch(d)?'<span class="flag watch">🎯 Your watch</span>':""}<span class="when">${ago(d.found_at)}</span></div>
   ${d.route?`<div class="route"><span class="code">${esc(d.route.from)}</span><span class="line"><i></i>${svg("flights",' width="18" height="18"')}<i></i></span><span class="dest">${esc(d.route.to.split(",")[0])}${d.route.to.includes(",")?`<small>${esc(d.route.to.split(",").slice(1).join(",").trim())}</small>`:""}</span>${d.tropical?'<span class="palm">🌴 Tropical</span>':""}</div>`:""}
   ${d.category==="flights"&&(d.depart||d.window)?`<div class="fdates">${d.depart?`<span>📅 <b>${esc(fmtTrip(d.depart,d.return))}</b> ${d.picked?"dates inside the deal window · exact cheap days are in Source":"sample dates"}</span>`:""}${d.window?`<span>🗓 Travel ${esc(d.window)}</span>`:""}</div>`:""}
-  <div class="title"><a target="_blank" rel="noopener"></a></div>
-  <div class="why"></div>
+  <div class="head">${d.image?'<img class="thumb" alt="" loading="lazy" referrerpolicy="no-referrer">':""}<div class="ttl"><div class="title"><a target="_blank" rel="noopener"></a></div>
+  <div class="why"></div></div></div>
   ${priceHTML(d,"pricebar")}
-  <div class="actions"><a class="open" target="_blank" rel="noopener">${esc(linkKind(d).label)} ${svg("arrow",' width="15" height="15"')}</a></div>`;
+  <div class="actions"><div class="go-col">${d.exact?`<a class="open" target="_blank" rel="noopener">${esc(linkKind(d).label)} ${svg("arrow",' width="15" height="15"')}</a>`:""}${d.similar?`<a class="similar" target="_blank" rel="noopener">Similar ${svg("arrow")}</a>`:""}</div></div>`;
   const lk=linkKind(d),st=(d.store&&!/^google$/i.test(d.store)?d.store:"")||lk.store||(/(?:\bat|@)\s+([A-Z][\w'&.]+(?:\s[A-Z][\w'&.]+)?)/.exec(d.title||"")||[])[1]||label(d.category||"everything");
   el.querySelector(".store").textContent=st.replace(/\.com$/i,"");
-  const a=el.querySelector(".title a");a.textContent=cleanTitle(d.title)||d.title||"Deal";a.href=d.url||"#";
-  el.querySelector(".open").href=d.url||"#";
+  const a=el.querySelector(".title a");a.textContent=cleanTitle(d.title)||d.title||"Deal";a.href=(d.exact?d.url:d.similar)||"#";
+  if(d.exact)el.querySelector(".open").href=d.url;
+  if(d.similar)el.querySelector(".similar").href=d.similar;
+  if(d.image){const im=el.querySelector(".thumb");im.src=d.image.replace(/^\/\//,"https://");im.onerror=()=>im.remove()}
   const w=el.querySelector(".why");w.textContent=d.why||"";w.hidden=!d.why||d.category==="flights";
   const act=el.querySelector(".actions");
   act.append(keepBtn(d));
@@ -314,8 +360,10 @@ function card(d){
 }
 function spotlight(){
   const s=$("spot");
-  const pool=live().filter(recent);
-  const best=pool.filter(d=>d.urgent)[0]||pool.slice().sort((a,b)=>pctOf(b)-pctOf(a))[0];
+  const pool=live().filter(d=>recent(d)&&d.exact);
+  // the best real steal: big discount, your kind of thing (taste), in fashion / watches / colognes rather than gadgets
+  const val=d=>Math.min(pctOf(d),75)+20*(d.taste||0)+(["fashion","watches","fragrance"].includes(d.category)?15:0)+(d.store_reader&&d.category==="everything"?-30:0);
+  const best=pool.filter(d=>d.urgent)[0]||pool.slice().sort((a,b)=>val(b)-val(a))[0];
   if(!best||cat!=="all"){s.hidden=true;return}
   s.hidden=false;s.className="spot";
   const p=pctOf(best);
@@ -323,11 +371,12 @@ function spotlight(){
   <h2><a target="_blank" rel="noopener"></a></h2>
   <div class="big">${p?`<span class="pct">−${p}%</span>`:""}${best.price!=null?`<span class="now">${money(best.price)}</span>`:""}${best.was!=null?`<span class="was">${money(best.was)}</span>`:""}</div>
   <div class="sub"></div>
-  <div class="go"><a class="open" target="_blank" rel="noopener">${esc(linkKind(best).label)} ${svg("arrow",' width="15" height="15"')}</a></div>`;
-  const a=s.querySelector("h2 a");a.textContent=best.title||"Deal";a.href=best.url||"#";
+  <div class="go"><div class="go-col"><a class="open" target="_blank" rel="noopener">${esc(linkKind(best).label)} ${svg("arrow",' width="15" height="15"')}</a>${best.similar?`<a class="similar" target="_blank" rel="noopener">Similar ${svg("arrow")}</a>`:""}</div></div>`;
+  const a=s.querySelector("h2 a");a.textContent=cleanTitle(best.title)||best.title||"Deal";a.href=best.url||"#";
+  if(best.similar)s.querySelector(".similar").href=best.similar;
   s.querySelector(".open").href=best.url||"#";
   s.querySelector(".sub").textContent=[best.store,best.why].filter(Boolean).join(" · ");
-  s.querySelector(".go").append(keepBtn(best));
+  s.querySelector(".go").style.alignItems="flex-start";s.querySelector(".go").append(keepBtn(best));
 }
 let query="",watches=[],limit=100,lastKey="";
 try{watches=JSON.parse(localStorage.getItem("sw.watches")||"[]")}catch(e){}
@@ -377,7 +426,7 @@ function render(){
   $("sErr").textContent=v.filter(d=>d.urgent&&recent(d)).length;
   $("sKept").textContent=Object.keys(mine.kept).length;
   rail();spotlight();
-  let rows=cat==="kept"?keptList():cat==="all"?v:v.filter(d=>inCat(d,cat));
+  let rows=cat==="kept"?keptList():ranked(cat==="all"?v:v.filter(d=>inCat(d,cat)));
   if(query.trim())rows=(cat==="kept"?keptList():v).filter(d=>hits(d,query));
   if(query.trim())askWeb(query.trim(),rows.length);
   $("spot").hidden=!!query.trim()||$("spot").hidden;
@@ -401,9 +450,20 @@ function render(){
     $("list").replaceChildren(e);return;
   }
   const shown=rows.slice(0,limit);
-  const nodes=shown.map(card);
+  const nodes=[];
+  shown.forEach((d,i)=>{if(cat!=="kept"&&!d.exact&&(i===0||shown[i-1].exact)){const h=document.createElement("div");h.className="sect";h.textContent="No direct link · Similar only";nodes.push(h)}nodes.push(card(d))});
   if(rows.length>shown.length){const m=document.createElement("button");m.type="button";m.className="more";m.textContent=`Show more deals (${rows.length-shown.length} left)`;m.onclick=()=>{limit+=100;render()};nodes.push(m)}
   $("list").replaceChildren(...nodes);
+}
+let tasteInfo=null,storeInfo=null;
+function extras(){
+  const t=$("tuned");
+  const n=tasteInfo&&tasteInfo.model?tasteInfo.model.votes||0:0, muted=deals.filter(d=>d.muted).length;
+  t.hidden=!n;if(n)t.innerHTML=`✨ <span>Tuned to your taste · <b>${n}</b> tap${n===1?"":"s"} learned${muted?` · ${muted} skipped`:""}</span>`;
+  if(storeInfo&&storeInfo.readers){
+    const on=[],off=[];for(const [k,v] of Object.entries(storeInfo.readers))(v.on?on:off).push(v.on?k:`${k} (${v.off_reason||"off"})`);
+    $("storesLine").textContent=`Store sale pages read directly: ${on.join(", ")||"none yet"}.`+(off.length?` Off: ${off.join("; ")}.`:"");
+  }
 }
 function status(){
   $("statusText").textContent=lastRun?`Updated ${ago(lastRun)}`:"Waiting for first scan";
@@ -457,12 +517,20 @@ function airlineOf(t){
   if(!m)return "";const a=m[1].trim();
   return /business class deal|round trip|deal|flash sale/i.test(a)?"":a;
 }
-function flightURL(d){
-  const r=d.route;if(!r)return "https://www.google.com/search?q="+encodeURIComponent(String(d.title||"").replace(/\$.*$/,"")+" flights");
-  let q=`flights from ${r.from==="NYC"?"New York":r.from} to ${r.to.split(" / ")[0]}`;
-  const al=airlineOf(d.title);if(al)q+=` on ${al.replace(/\/.*$/,"")}`;
-  if(d.depart)q+=` ${fmtDay(d.depart)} to ${fmtDay(d.return||d.depart)}`;
-  return "https://www.google.com/search?q="+encodeURIComponent(q);
+function flightURL(d){   // fallback when the scanner hasn't built the exact link yet: Google Flights, route + dates
+  const r=d.route;
+  let q=r?`Flights from ${r.from} to ${r.to.split(" / ")[0]}`:"Flights "+String(d.title||"").replace(/\$.*$/,"");
+  if(d.depart)q+=` on ${d.depart}`+(d.return?` through ${d.return}`:"");
+  return "https://www.google.com/travel/flights?q="+encodeURIComponent(q)+"&hl=en&gl=us&curr=USD";
+}
+const SEARCHY=/(\/search|\/s\?|\/s\/|\/sr\?|[?&](q|k|st|keyword|searchTerm|_nkw|term|Ntt|query|d)=|\/featured\/|CatalogSearch|\/browse|\/category\/|\/c\/|tbm=shop)/i;
+const isSearchURL=u=>!!u&&SEARCHY.test(u);
+function isProduct(u){
+  let x;try{x=new URL(u)}catch(e){return false}
+  if(POSTS.test(u)||DOUBT.test(u)||/google\.|linkedin|podcasts\.apple|bing\./.test(x.hostname)||x.pathname==="/")return false;
+  if(/\/products?\/|\/(dp|ip|itm)\//.test(x.pathname))return true;
+  if(/^\/s\/[^/]+\/\d{5,}\/?$/.test(x.pathname))return true;   // Nordstrom / Rack product pages
+  return !SEARCHY.test(x.pathname+x.search)&&/(\/p\/[^?#]{3,}|skuId=|\/s\/[^/]+\/\d{5,}|\/offers\/|\/shop\/product\/|\/[A-Za-z0-9-]{12,}\.html|\d{6,}|\/A-\d{6,}|\/item\/)/.test(x.pathname+x.search);
 }
 const fmtDay=x=>{const [y,m,dd]=x.split("-").map(Number);return new Date(Date.UTC(y,m-1,dd)).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric",timeZone:"UTC"})};
 const cleanWindow=w=>{if(!w)return "";w=String(w).split(/\s+(?:for|on|with|and must|must|when)\s+/i)[0].replace(/\b20\d\d-\d\d-\d\d\b/g,"").replace(/\)[^(]*$/,"").replace(/[()]/g,"").replace(/\s*[-\u2013]\s*$/,"").replace(/\s+/g," ").trim();return w.length>4?w:""};
@@ -480,13 +548,18 @@ function fixDeal(d){
     if(!d.depart){const w=windowDates({...d,window:cleanWindow(d.window)});if(w)d={...d,...w,picked:true}}
     d={...d,route:routeOf(d.title),tropical:TROP.test((d.title||"").replace(/hawaiian airlines?/ig,"")),window:cleanWindow(d.window)};
     const post=POSTS.test(d.url)?d.url:d.source_url;
-    d={...d,source_url:post||d.source_url,url:flightURL(d)};   // Google flight search for that route + dates
+    const gf=/google\.com\/travel\/flights/.test(d.url||"")&&d.exact!==false&&d.depart;
+    d={...d,source_url:post||d.source_url,url:gf?d.url:flightURL(d),exact:true};   // Google Flights: route + dates filled in
+    if(!d.similar&&d.route)d.similar="https://www.google.com/travel/flights?q="+encodeURIComponent(`Flights from ${d.route.from} to ${d.route.to.split(" / ")[0]}`);
     return d;
   }
   const camel=/camelcamelcamel\.com\/(?:[^/]+\/)?product\/([A-Z0-9]{10})/i.exec(d.url);
-  if(camel)return {...d,source_url:d.url,url:"https://www.amazon.com/dp/"+camel[1].toUpperCase()};
-  if(POSTS.test(d.url)||DOUBT.test(d.url)){d={...d,source_url:d.source_url||d.url,url:storeSearch(d)}}  // never open a deal blog
-  return d;
+  if(camel)return {...d,source_url:d.url,url:"https://www.amazon.com/dp/"+camel[1].toUpperCase(),exact:true,similar:d.similar||storeSearch(d)};
+  if(d.store_off)return null;
+  if(/travel\/flights/.test(d.similar||""))d={...d,similar:null};   // was filed as a flight, isn't one   // that store's links stopped working: hidden until it's back
+  const exact=d.exact!==undefined?!!d.exact:isProduct(d.url);
+  if(POSTS.test(d.url)||DOUBT.test(d.url))d={...d,source_url:d.source_url||d.url};  // never open a deal blog
+  return {...d,exact,url:exact?d.url:null,similar:d.similar||(exact?null:(isSearchURL(d.url)?d.url:null))||storeSearch(d)};
 }
 const DOUBT=/(woot\.com\/search|jomashop\.com\/search|ulta\.com\/search|staples\.com\/|fragrancenet\.com\/search|saksfifthavenue\.com\/search|typekit|fonts\.|videoplayer|\.(css|js|png|jpe?g|gif|webp)(\?|$))/i;
 const SHOPS={"amazon":"https://www.amazon.com/s?k=","walmart":"https://www.walmart.com/search?q=","best buy":"https://www.bestbuy.com/site/searchpage.jsp?st=","target":"https://www.target.com/s?searchTerm=","costco":"https://www.costco.com/CatalogSearch?keyword=","woot":"https://www.google.com/search?q=site%3Awoot.com+","ebay":"https://www.ebay.com/sch/i.html?_nkw=","macy":"https://www.macys.com/shop/featured/","nordstrom rack":"https://www.nordstromrack.com/sr?keyword=","nordstrom":"https://www.nordstrom.com/sr?keyword=","sephora":"https://www.sephora.com/search?keyword=","ulta":"https://www.google.com/search?q=site%3Aulta.com+","jomashop":"https://www.google.com/search?q=site%3Ajomashop.com+","b&h":"https://www.bhphotovideo.com/c/search?q=","newegg":"https://www.newegg.com/p/pl?d=","kohl":"https://www.kohls.com/search.jsp?search=","sam's club":"https://www.samsclub.com/s/","gamestop":"https://www.gamestop.com/search/?q=","apple":"https://www.apple.com/us/search/","samsung":"https://www.samsung.com/us/search/searchMain/?searchTerm=","zappos":"https://www.zappos.com/search?term=","saks":"https://www.google.com/search?q=site%3Asaksfifthavenue.com+","fragrancenet":"https://www.google.com/search?q=site%3Afragrancenet.com+"};
@@ -499,7 +572,8 @@ function storeSearch(d){
 }
 const getJSON=f=>fetch(RAW+f+"?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null);
 async function load(){
-  const [w,h,st]=await Promise.all([getJSON("deals.json"),getJSON("hunted.json"),getJSON("status.json")]);
+  const [w,h,st,ta,so]=await Promise.all([getJSON("deals.json"),getJSON("hunted.json"),getJSON("status.json"),getJSON("taste.json"),getJSON("stores.json")]);
+  tasteInfo=ta;storeInfo=so;
   const now=Date.now(),byId=new Map();
   for(const d0 of (Array.isArray(h)?h:[])){const d=fixDeal(d0);if(d&&d.id&&!isJunk(d.title||""))byId.set(d.id,d)}                    // hand-checked by the hourly hunter
   for(const d0 of (Array.isArray(w)?w:[])){const d=fixDeal(d0);if(d&&d.id&&!byId.has(d.id)&&!isJunk(d.title||""))byId.set(d.id,d)}
@@ -507,8 +581,9 @@ async function load(){
   if(!w&&!h){$("statusText").textContent="Couldn't load deals — pull to refresh";return}
   deals=[...byId.values()].sort((a,b)=>String(b.found_at).localeCompare(String(a.found_at))).slice(0,2000);
   dealsLoaded=true;
+  for(const [k,v] of Object.entries(mine.kept))if(v.exact===undefined){const f=fixDeal(v);if(f)mine.kept[k]={...f,kept_at:v.kept_at}}
   lastRun=[st&&st.last_run,...deals.map(d=>d.checked_at||d.found_at)].filter(Boolean).sort().pop()||null;
-  render();status();
+  render();status();extras();
 }
 load();setInterval(load,120000);
 document.addEventListener("visibilitychange",()=>{if(!document.hidden)load()});
