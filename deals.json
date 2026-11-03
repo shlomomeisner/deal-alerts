@@ -821,7 +821,8 @@
   "source_url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:44Z"
  },
  {
   "id": "430cac3d4fc3549b",
@@ -838,7 +839,8 @@
   "source_url": "https://slickdeals.net/e/12992425-persol-po3059s-sunglasses-80-or-less-w-10-off-for-new-users-2-75-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+PO3059S+Sunglasses+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:45Z"
  },
  {
   "id": "5e1cd3136ac8635b",
@@ -855,7 +857,8 @@
   "source_url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:46Z"
  },
  {
   "id": "b73ec195be552eeb",
@@ -872,7 +875,8 @@
   "source_url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:47Z"
  },
  {
   "id": "68e4551811157e22",
@@ -889,7 +893,8 @@
   "source_url": "https://slickdeals.net/e/11644355-persol-men-s-icona-evolution-53mm-sunglasses-99-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Icona+Evolution+53mm+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:47Z"
  },
  {
   "id": "cbd28e823426734b",
@@ -907,7 +912,8 @@
   "source_url": "https://slickdeals.net/f/20243772-169-99-garmin-vivoactive-5-gps-smartwatch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=42mm+Garmin+vivoactive+5+GPS+Smartwatch+from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:48Z"
  },
  {
   "id": "80205c75c7c330c6",
@@ -925,7 +931,8 @@
   "source_url": "https://slickdeals.net/f/20232024-dyson-purifier-hot-cool-hp11-399-99-9-99-shipping-costco-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+Purifier+Hot%2BCool+HP11",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:50Z"
  },
  {
   "id": "ba36de8b5a599b83",
@@ -950,7 +957,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20KGL&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T22:10:50Z"
  },
  {
   "id": "55bcb67d9526f04a",
@@ -967,7 +975,8 @@
   "source_url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:51Z"
  },
  {
   "id": "cef6a0d70716fb09",
@@ -984,7 +993,8 @@
   "source_url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:52Z"
  },
  {
   "id": "daa912ae8f546b92",
@@ -1001,7 +1011,8 @@
   "source_url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:10:54Z"
  },
  {
   "id": "635b7bbfe4c8517a",
@@ -28867,7 +28878,7 @@
  {
   "id": "9860226c4f9edf23",
   "title": "Deals: Pixel 11 Pro Fold up to $419 off, S26 Ultra $420 off, HP OLED Copilot+ PC all-time low, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+Pro+Fold+up+to",
+  "url": "https://9to5google.com/2026/10/22/deals-pixel-11-pro-fold-s26-ultra-hp-oled-copilot-pc/",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -28879,8 +28890,7 @@
   "source_url": "https://9to5google.com/2026/10/22/deals-pixel-11-pro-fold-s26-ultra-hp-oled-copilot-pc/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+Pro+Fold+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fd5e455c70a68264",
@@ -28903,7 +28913,7 @@
  {
   "id": "2740f2bb886c3165",
   "title": "Deals: Galaxy S26 Ultra $455 off brand new, TCL Android tab at $150, docks, magnetic chargers, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra",
+  "url": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
   "why": "Galaxy — 35% off",
   "category": "tech",
   "source": "9to5Google deals",
@@ -28915,8 +28925,7 @@
   "source_url": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0745a5a7f4c274c5",
@@ -34114,11 +34123,11 @@
   "pct": null,
   "price": 34.65,
   "found_at": "2026-11-03T21:53:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "34a28d4c3cd01db4",
@@ -34181,11 +34190,11 @@
   "pct": null,
   "price": 2387.0,
   "found_at": "2026-11-03T21:53:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3de901affc9535ea",
@@ -34271,11 +34280,11 @@
   "pct": null,
   "price": 49.99,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20140914-fragrances-49-99-or-less-mont-blanc-ck-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7efc0ca8fd083c5d",
@@ -34307,11 +34316,11 @@
   "pct": null,
   "price": 249.99,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20091009-hugo-by-hugo-boss-men-s-modern-fit-wool-blend-2-piece-suit-249-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HUGO+by+Hugo+Boss+Men%27s+Modern-Fit+Wool+Blend+2-Piece+Suit",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b8f5f7877acb0b0d",
@@ -34325,11 +34334,11 @@
   "pct": null,
   "price": 38.0,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20015364-hugo-boss-sunglasses-various-styles-38-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "97c8a1810b78d56b",
@@ -34343,11 +34352,11 @@
   "pct": null,
   "price": 108.5,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19681608-hugo-boss-bottled-beyond-eau-de-parfum-3-3-oz-108-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HUGO+BOSS+Bottled+Beyond+Eau+de+Parfum+3.3+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3715d7e165b51d11",
@@ -34379,11 +34388,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19585512-fragrances-from-polo-hugo-boss-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+Polo+Hugo+Boss+and+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b9d8ad42143f189b",
@@ -34415,11 +34424,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19561482-best-selling-fragrances-from-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Best+Selling+Fragrances+from+Creed+and+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "97020fd56f62dbff",
@@ -34433,11 +34442,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19467591-fragrances-from-hugo-boss-polo-burberry-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+Hugo+Boss+Polo+Burberry+and+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "adc6a11504452709",
@@ -34467,11 +34476,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19252714-hugo-boss-bottled-bold-citrus-eau-de-parfum-200-ml-6-7oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Bottled+Bold+Citrus+Eau+De+Parfum+200+ML+6.7oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7db7b8eaf70a34c7",
@@ -34503,11 +34512,11 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19037509-hugo-boss-bottled-beyond-eau-de-parfum-woody-men-s-cologne-with-notes-of-ginger-leather-long-lasting-fragrance-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Bottled+Beyond+Eau+de+Parfum+Woody+Men%27s+Cologne+With+Notes+of+Ginger+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f9bbeb492ae7daac",
@@ -34537,16 +34546,16 @@
   "pct": null,
   "price": 19.0,
   "found_at": "2026-11-03T21:58:43Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18994441-xx2i-polarized-19-bmw-polarized-19-suncloud-polarized-20-sunglasses-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XX2i+Polarized",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "34f51bf76902a277",
   "title": "Dyson HushJet Portable Mini Cool Fan (Stone/Blush) $49.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20251215-dyson-hushjet-portable-mini-cool-fan-stone-blush-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+HushJet+Portable+Mini+Cool+Fan",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -34554,7 +34563,12 @@
   "hot": false,
   "pct": null,
   "price": 49.99,
-  "found_at": "2026-11-03T22:02:06Z"
+  "found_at": "2026-11-03T22:02:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20251215-dyson-hushjet-portable-mini-cool-fan-stone-blush-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+HushJet+Portable+Mini+Cool+Fan",
+  "exact": false
  },
  {
   "id": "3dc649c91282976d",
@@ -34567,25 +34581,15 @@
   "hot": false,
   "pct": null,
   "price": 211.5,
-  "found_at": "2026-11-03T22:02:08Z"
- },
- {
-  "id": "8d068d78ed61ba18",
-  "title": "DJI Mic 3 Wireless Microphone Set with Charging Case $148",
-  "url": "https://slickdeals.net/f/20245671-dji-mic-3-wireless-microphone-set-with-charging-case-148?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 148.0,
-  "found_at": "2026-11-03T22:02:08Z"
+  "found_at": "2026-11-03T22:02:08Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "e4ef5c821b4acf61",
   "title": "Refurb: DJI Osmo 360 8K 1-Inch 360 Action Camera 105GB Storage $195 + Free Shipping",
-  "url": "https://slickdeals.net/f/20243691-refurb-dji-osmo-360-8k-1-inch-360-action-camera-105gb-storage-195-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+360+8K+1-Inch+360+Action+Camera+105GB+Storage",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -34593,51 +34597,17 @@
   "hot": false,
   "pct": null,
   "price": 195.0,
-  "found_at": "2026-11-03T22:02:08Z"
- },
- {
-  "id": "15dc2ad9d5d1d069",
-  "title": "DJI Mic Mini Wireless Microphone System 2 TX + 1 RX + Charging Case $57 + Free Shipping",
-  "url": "https://slickdeals.net/f/20243667-dji-mic-mini-wireless-microphone-system-2-tx-1-rx-charging-case-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 57.0,
-  "found_at": "2026-11-03T22:02:08Z"
- },
- {
-  "id": "731ee0f1348dd4e9",
-  "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case) Wireless Microphone $41.85",
-  "url": "https://slickdeals.net/f/20241081-dji-mic-mini-2-tx-1-rx-charging-case-wireless-microphone-41-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 41.85,
-  "found_at": "2026-11-03T22:02:08Z"
- },
- {
-  "id": "4c2db6f1d72e479b",
-  "title": "DJI Mic Mini Wireless Microphone (2 TX + 1 RX + Charging Case) $56 + FS",
-  "url": "https://slickdeals.net/f/20240811-dji-mic-mini-wireless-microphone-2-tx-1-rx-charging-case-56-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 56.0,
-  "found_at": "2026-11-03T22:02:08Z"
+  "found_at": "2026-11-03T22:02:08Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243691-refurb-dji-osmo-360-8k-1-inch-360-action-camera-105gb-storage-195-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+360+8K+1-Inch+360+Action+Camera+105GB+Storage",
+  "exact": false
  },
  {
   "id": "0189cb783e77e606",
   "title": "Open Box DJI Osmo Mobile 7 Gimbal Stabilizer for iPhone, Android, Built-in Tripod, Portable Stabilizer $33.47",
-  "url": "https://slickdeals.net/f/20239680-open-box-dji-osmo-mobile-7-gimbal-stabilizer-for-iphone-android-built-in-tripod-portable-stabilizer-33-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Osmo+Mobile+7+Gimbal+Stabilizer+for+iPhone+Android+Built-in+Tripod+",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -34645,45 +34615,207 @@
   "hot": false,
   "pct": null,
   "price": 33.47,
-  "found_at": "2026-11-03T22:02:08Z"
- },
- {
-  "id": "b043bad2b6f283e1",
-  "title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19987707-lc-dolida-fence-mount-w-sun-rain-visor-for-gopro-dji-insta360-smartphones-9-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: GoPro deal",
-  "urgent": false,
-  "hot": false,
-  "pct": 50,
-  "price": 9.97,
-  "found_at": "2026-11-03T22:02:11Z"
+  "found_at": "2026-11-03T22:02:08Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20239680-open-box-dji-osmo-mobile-7-gimbal-stabilizer-for-iphone-android-built-in-tripod-portable-stabilizer-33-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Osmo+Mobile+7+Gimbal+Stabilizer+for+iPhone+Android+Built-in+Tripod+",
+  "exact": false
  },
  {
   "id": "3c5b5aad344d0148",
   "title": "$169.99* | Garmin vivoactive 5 GPS Smartwatch at Amazon",
   "url": "https://slickdeals.net/f/20243772-169-99-garmin-vivoactive-5-gps-smartwatch-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "watches",
+  "category": "tech",
   "source": "Web search: Garmin deal",
   "urgent": false,
   "hot": false,
   "pct": null,
   "price": 169.99,
-  "found_at": "2026-11-03T22:02:14Z"
+  "found_at": "2026-11-03T22:02:14Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "6a11e27779654505",
   "title": "This is your rare chance to get a Garmin smartwatch for under $170 - 9to5Google",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGp2d1dhbkI1anJqNWNaNDBUTWNzLVFtWGRIVTV0b3dZZWV3TTM0N2ppTGN2LXZOZk55Q29zV3JIcE15dnJYZUVqa1Z5d25TRlpaSkdJY2dkM2ZGQnFEQlFnN01ZZTNwQ3lrUUlLY21FOUNldFNpYmNiNWxJV3JZU1ZnQmxETHVkSkVxNW5tN3JoY2VMc1Q5RjRMNEp3UEQ0clgtWFo0U2J2THhEdEUtZnVmbFRQcVY5eE1UYQ?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
   "why": "",
-  "category": "watches",
+  "category": "tech",
   "source": "Web search: Garmin record low",
   "urgent": false,
   "hot": false,
   "pct": null,
   "price": 170.0,
-  "found_at": "2026-11-03T22:02:15Z"
+  "found_at": "2026-11-03T22:02:15Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGp2d1dhbkI1anJqNWNaNDBUTWNzLVFtWGRIVTV0b3dZZWV3TTM0N2ppTGN2LXZOZk55Q29zV3JIcE15dnJYZUVqa1Z5d25TRlpaSkdJY2dkM2ZGQnFEQlFnN01ZZTNwQ3lrUUlLY21FOUNldFNpYmNiNWxJV3JZU1ZnQmxETHVkSkVxNW5tN3JoY2VMc1Q5RjRMNEp3UEQ0clgtWFo0U2J2THhEdEUtZnVmbFRQcVY5eE1UYQ?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
+  "exact": false
+ },
+ {
+  "id": "c403f375c760fbf0",
+  "title": "Gucci Black Sunglasses $149.95 & More + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.95,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "471cd2e75710d915",
+  "title": "Balenciaga Men's Romeo Mules Shoes - Black $599",
+  "url": "https://www.google.com/search?tbm=shop&q=Balenciaga+Men%27s+Romeo+Mules+Shoes+-+Black",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 599.0,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18948850-balenciaga-men-s-romeo-mules-shoes-black-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Balenciaga+Men%27s+Romeo+Mules+Shoes+-+Black",
+  "exact": false
+ },
+ {
+  "id": "ece1591dd7ef1c03",
+  "title": "Gap X Yeezy Apparel at ExclusiveDNA Crop Tee's $30 Pants $55 with Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Gap+X+Yeezy+Apparel+at+ExclusiveDNA+Crop+Tee%27s",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17614758-gap-x-yeezy-apparel-at-exclusivedna-crop-tee-s-30-pants-55-with-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Gap+X+Yeezy+Apparel+at+ExclusiveDNA+Crop+Tee%27s",
+  "exact": false
+ },
+ {
+  "id": "db8f29a189843d87",
+  "title": "Balenciaga Patched Mixed Media Long Sleeve Cotton T-Shirt Dress in Black at Nordstrom, Size 2 $780 + Free Shipping",
+  "url": "https://www.nordstrom.com/sr?keyword=Balenciaga+Patched+Mixed+Media+Long+Sleeve+Cotton+T-Shirt+Dress+in+Black",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 780.0,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17527008-balenciaga-patched-mixed-media-long-sleeve-cotton-t-shirt-dress-in-black-at-nordstrom-size-2-780-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "similar": "https://www.nordstrom.com/sr?keyword=Balenciaga+Patched+Mixed+Media+Long+Sleeve+Cotton+T-Shirt+Dress+in+Black",
+  "exact": false
+ },
+ {
+  "id": "a1df5da045d4744e",
+  "title": "Balenciaga All In Pleated Asymmetric Drape Jersey Dress in Black at Nordstrom, Size 8 Us $2,002.50 + Free Shipping $2002.5",
+  "url": "https://www.nordstrom.com/sr?keyword=Balenciaga+All+In+Pleated+Asymmetric+Drape+Jersey+Dress+in+Black",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2002.5,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17527002-balenciaga-all-in-pleated-asymmetric-drape-jersey-dress-in-black-at-nordstrom-size-8-us-2-002-50-free-shipping-2002-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "similar": "https://www.nordstrom.com/sr?keyword=Balenciaga+All+In+Pleated+Asymmetric+Drape+Jersey+Dress+in+Black",
+  "exact": false
+ },
+ {
+  "id": "5b39f4c44aa7cc74",
+  "title": "Balenciaga Double Leg Baggy Wide Leg Pants in Blonde Ring at Nordstrom, Size X-Small $916 + Free Shipping",
+  "url": "https://www.nordstrom.com/sr?keyword=Balenciaga+Double+Leg+Baggy+Wide+Leg+Pants+in+Blonde+Ring",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 916.0,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17526996-balenciaga-double-leg-baggy-wide-leg-pants-in-blonde-ring-at-nordstrom-size-x-small-916-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "similar": "https://www.nordstrom.com/sr?keyword=Balenciaga+Double+Leg+Baggy+Wide+Leg+Pants+in+Blonde+Ring",
+  "exact": false
+ },
+ {
+  "id": "687de360270be16d",
+  "title": "Balenciaga Athletic Long Sleeve Mock Neck Top in Black at Nordstrom, Size 10 Us $516 + Free Shipping",
+  "url": "https://www.nordstrom.com/sr?keyword=Balenciaga+Athletic+Long+Sleeve+Mock+Neck+Top+in+Black",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 516.0,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17526993-balenciaga-athletic-long-sleeve-mock-neck-top-in-black-at-nordstrom-size-10-us-516-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "similar": "https://www.nordstrom.com/sr?keyword=Balenciaga+Athletic+Long+Sleeve+Mock+Neck+Top+in+Black",
+  "exact": false
+ },
+ {
+  "id": "d4740f3c0688e664",
+  "title": "Balenciaga Upside Down Denim Miniskirt in Peach Pitch Black at Nordstrom, Size 10 Us $484 + Free Shipping",
+  "url": "https://www.nordstrom.com/sr?keyword=Balenciaga+Upside+Down+Denim+Miniskirt+in+Peach+Pitch+Black",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 484.0,
+  "found_at": "2026-11-03T22:07:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17526966-balenciaga-upside-down-denim-miniskirt-in-peach-pitch-black-at-nordstrom-size-10-us-484-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "similar": "https://www.nordstrom.com/sr?keyword=Balenciaga+Upside+Down+Denim+Miniskirt+in+Peach+Pitch+Black",
+  "exact": false
+ },
+ {
+  "id": "36e11e1e2202b9a5",
+  "title": "$12,000 Buffalo–New York Fares Making Headlines—I’m Finding Nonstops For $337 Roundtrip",
+  "url": "https://www.google.com/travel/flights?q=Flights%20",
+  "why": "",
+  "category": "flights",
+  "source": "View from the Wing",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12000.0,
+  "found_at": "2026-11-03T22:07:33Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://viewfromthewing.com/12000-buffalo-new-york-fares-making-headlines-im-finding-nonstops-for-337-roundtrip/",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20"
  }
 ]
