@@ -1,530 +1,5 @@
 [
  {
-  "id": "16f9642532777199",
-  "title": "Ksubi US KSUPER MAVERIK",
-  "url": "https://ksubi.com/products/ksuper-maverik?variant=44503851204794",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+KSUPER+MAVERIK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 110.0,
-  "was": 220.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JEAN_KSUPERMAVERIK_1868.jpg?v=1742792147"
- },
- {
-  "id": "4c284ba81d13f3d9",
-  "title": "Ksubi US SPRAY ON DAILY BLUE",
-  "url": "https://ksubi.com/products/spray-on-daily-blue?variant=39767634313402",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+SPRAY+ON+DAILY+BLUE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 95.0,
-  "was": 190.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/products/unnamed_04becc0f-d3a4-4e04-b7d7-c14fa24e9c92.jpg?v=1667785292"
- },
- {
-  "id": "3e88135b6eabe3b0",
-  "title": "Ksubi US AUS EKCESS SS TEE TRU WHITE",
-  "url": "https://ksubi.com/products/aus-ekcess-ss-tee-tru-white?variant=45863710752954",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+AUS+EKCESS+SS+TEE+TRU+WHITE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 60.0,
-  "was": 120.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/AUEkcessTeeBack.jpg?v=1779676117"
- },
- {
-  "id": "06323132f8a84656",
-  "title": "Ksubi US USA EKCESS SS TEE TRU WHITE",
-  "url": "https://ksubi.com/products/usa-ekcess-ss-tee-tru-white?variant=45834398499002",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+USA+EKCESS+SS+TEE+TRU+WHITE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 60.0,
-  "was": 120.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/USEkcessTeeBack.png?v=1779676066"
- },
- {
-  "id": "94a40d15ac6e9365",
-  "title": "Ksubi US OFFSIDE SS JERSEY GOLD",
-  "url": "https://ksubi.com/products/offside-ss-jersey-gold?variant=45834049421498",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+OFFSIDE+SS+JERSEY+GOLD",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 80.0,
-  "was": 160.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JERSEY2_1453.jpg?v=1779064207"
- },
- {
-  "id": "0d7ad195d311123f",
-  "title": "Ksubi US OFFSIDE SS JERSEY SKYBLU",
-  "url": "https://ksubi.com/products/offside-ss-jersey-skyblu?variant=45834084647098",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+OFFSIDE+SS+JERSEY+SKYBLU",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 80.0,
-  "was": 160.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JERSEY1_1442.jpg?v=1779064213"
- },
- {
-  "id": "493f18cd6b5f71ea",
-  "title": "Ksubi US OFFSIDE SS JERSEY GREEN",
-  "url": "https://ksubi.com/products/offside-ss-jersey-green?variant=45834128392378",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+OFFSIDE+SS+JERSEY+GREEN",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 80.0,
-  "was": 160.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JERSEY3_14651.jpg?v=1779063827"
- },
- {
-  "id": "71062b69e5bcc84d",
-  "title": "Ksubi US OFFSIDE SS JERSEY NAVY",
-  "url": "https://ksubi.com/products/offside-ss-jersey-navy?variant=45834045948090",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+OFFSIDE+SS+JERSEY+NAVY",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 80.0,
-  "was": 160.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JERSEY4_1604.jpg?v=1779064256"
- },
- {
-  "id": "1fc36109a40e7030",
-  "title": "Ksubi US BOXER MINI SKIRT WHITE PLAID",
-  "url": "https://ksubi.com/products/boxer-mini-skirt-white-plaid?variant=45498286244026",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+BOXER+MINI+SKIRT+WHITE+PLAID",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 70.0,
-  "was": 140.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/SKIRTS_BOXERMINISKIRTWHITEPLAID_043.jpg?v=1767848806"
- },
- {
-  "id": "80dcc5b117ad8c22",
-  "title": "Ksubi US BARKER CROP SS SHIRT TAN",
-  "url": "https://ksubi.com/products/barker-crop-ss-shirt-tan?variant=45498243449018",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+BARKER+CROP+SS+SHIRT+TAN",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 110.0,
-  "was": 220.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/TOPS_BARKERCROPSSSHIRTTAN_292.jpg?v=1767849320"
- },
- {
-  "id": "0c6c2513e130b9b9",
-  "title": "Ksubi US ASTRA DENIM LS SHIRT SPIRIT",
-  "url": "https://ksubi.com/products/astra-denim-ls-shirt-spirit?variant=45498224115898",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+ASTRA+DENIM+LS+SHIRT+SPIRIT",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 130.0,
-  "was": 260.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/SHIRTS_ASTRADENIMLSSHIRTSPIRIT_3651_0c0ff43b-34e8-4559-a41a-54fabc739940.jpg?v=1767848545"
- },
- {
-  "id": "183f2f4427b53a2b",
-  "title": "Ksubi US BABY GIRL MESH LS TOP CAMEO PINK",
-  "url": "https://ksubi.com/products/baby-girl-mesh-ls-top-cameo-pink?variant=45498189250746",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+BABY+GIRL+MESH+LS+TOP+CAMEO+PINK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 70.0,
-  "was": 140.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/TOPS_BABYGIRLMESHLSTOPCAMEOPINK_507.jpg?v=1767852928"
- },
- {
-  "id": "2f77be32e379bd0a",
-  "title": "Ksubi US KSUPER CARGO PANT CAMEO PINK",
-  "url": "https://ksubi.com/products/ksuper-cargo-pant-cameo-pink?variant=45498170048698",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+KSUPER+CARGO+PANT+CAMEO+PINK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 120.0,
-  "was": 240.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/PANTS_KSUPERCARGOCAMEOPINIK_142.jpg?v=1774225528"
- },
- {
-  "id": "ef2ffe6f4be6ec2c",
-  "title": "Ksubi US SPRAY ON XTRA BLACK KRAFTWERK",
-  "url": "https://ksubi.com/products/spray-on-xtra-black-kraftwerk?variant=45197131382970",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+SPRAY+ON+XTRA+BLACK+KRAFTWERK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 102.0,
-  "was": 205.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JEANS_SPRAYONXTRKRAFTWORK_1034.jpg?v=1762734011"
- },
- {
-  "id": "625babb8975bf743",
-  "title": "Ksubi US KADE LS SHIRT BLUE",
-  "url": "https://ksubi.com/products/kade-ls-shirt-blue?variant=45159037763770",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+KADE+LS+SHIRT+BLUE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 97.5,
-  "was": 195.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/02_1628-Photoroom_d4481e32-412b-4871-991e-f2a450fa9a0f.png?v=1760579050"
- },
- {
-  "id": "5ffd3fbbc127d06c",
-  "title": "Ksubi US KADE LS SHIRT DEEP BLUE",
-  "url": "https://ksubi.com/products/kade-ls-shirt-deep-blue?variant=45158976946362",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+KADE+LS+SHIRT+DEEP+BLUE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 97.5,
-  "was": 195.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/SHIRT_KADELSSHIRTDEEPBLUE_786.jpg?v=1762730648"
- },
- {
-  "id": "274d4987cce956f9",
-  "title": "Ksubi US HARPER SHORT SPIRIT",
-  "url": "https://ksubi.com/products/harper-short-spirit?variant=45136635723962",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+HARPER+SHORT+SPIRIT",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 90.0,
-  "was": 180.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/SHOTS_HARPERSHORTSPIRIT_156.jpg?v=1774220437"
- },
- {
-  "id": "5d9fa25f61820b1c",
-  "title": "Ksubi US SYNDICATE XTRA BABY BLUE/WHITE",
-  "url": "https://ksubi.com/products/syndicate-xtra-baby-blue-white?variant=45136586703034",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+SYNDICATE+XTRA+BABY+BLUE+WHITE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 50.0,
-  "was": 100.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/TOPS_syndicatextrababybluewhite_9721.jpg?v=1771827011"
- },
- {
-  "id": "2f0620f6f6b2eb09",
-  "title": "Ksubi US SYNDICATE XTRA CAMEO PINK",
-  "url": "https://ksubi.com/products/syndicate-xtra-cameo-pink?variant=45136592666810",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+SYNDICATE+XTRA+CAMEO+PINK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 50.0,
-  "was": 100.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/TEES_SYNDICATEXTRACAMEOPINK_133.jpg?v=1774220475"
- },
- {
-  "id": "e611bb27df8d28a0",
-  "title": "Ksubi US DARE OPEN BACK LS SHIRT WHITE",
-  "url": "https://ksubi.com/products/dare-open-back-ls-shirt-white?variant=45088443367610",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+DARE+OPEN+BACK+LS+SHIRT+WHITE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 95.0,
-  "was": 190.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/SHIRT_DAREOPENBACKLSSHIRTWHITE_683.jpg?v=1768173586"
- },
- {
-  "id": "4556fd5bd5eba339",
-  "title": "Ksubi US CARTER WIDE TRAKPANT GREY MARLE",
-  "url": "https://ksubi.com/products/carter-wide-trakpant-grey-marle?variant=45088402800826",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+CARTER+WIDE+TRAKPANT+GREY+MARLE",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 130.0,
-  "was": 260.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/PANTS_CARTERWIDETRAKPANTGREYMARLE_466.jpg?v=1767848259"
- },
- {
-  "id": "fdea29d34b52e335",
-  "title": "Ksubi US SLIM TRUCKER JACKET SALOON BLACK",
-  "url": "https://ksubi.com/products/slim-trucker-jacket-saloon-black?variant=45088317571258",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+SLIM+TRUCKER+JACKET+SALOON+BLACK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 130.0,
-  "was": 260.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JACKETS_SLIMTRUCKERJACKETSALOONBLACK_758.jpg?v=1768176191"
- },
- {
-  "id": "21b346210789feec",
-  "title": "Ksubi US SLOUCH SHORT TEXAS BLUE STUDDED",
-  "url": "https://ksubi.com/products/slouch-short-texas-blue-studded?variant=45076356858042",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+SLOUCH+SHORT+TEXAS+BLUE+STUDDED",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 110.0,
-  "was": 220.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/SHORT_STUDDED_363.jpg?v=1783993907"
- },
- {
-  "id": "7e16586c3885ad5f",
-  "title": "Ksubi US SPIRIT EKCESS LS TEE ACID BLACK",
-  "url": "https://ksubi.com/products/spirit-ekcess-ls-tee-acid-black?variant=44995061383354",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+SPIRIT+EKCESS+LS+TEE+ACID+BLACK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 80.0,
-  "was": 160.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/LST-SHIRT_SPIRITOFEKCESSLSTEEACIDBLACK_090.jpg?v=1762729855"
- },
- {
-  "id": "ee71ef5d7bc00cf0",
-  "title": "Ksubi US ROSEBOWL LS SHIRT 1999 KHAKI CHECK",
-  "url": "https://ksubi.com/products/rosebowl-ls-shirt-1999-khaki-check?variant=44995028713658",
-  "exact": true,
-  "similar": "https://ksubi.com/search?q=Ksubi+US+ROSEBOWL+LS+SHIRT+1999+KHAKI+CHECK",
-  "why": "50% off at Ksubi",
-  "category": "fashion",
-  "source": "Ksubi sale",
-  "store": "Ksubi",
-  "store_reader": "Ksubi",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": 120.0,
-  "was": 240.0,
-  "found_at": "2026-11-02T20:27:38Z",
-  "seen_at": "2026-11-02T20:27:38Z",
-  "checked_at": "2026-11-02T20:27:38Z",
-  "image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/SHIRT_ROSEBOWLLSSHIRT1999KHAKICHECK_199.jpg?v=1762730020"
- },
- {
   "id": "28347e2bcba7dcf7",
   "title": "Ksubi US ROSEBOWL LS SHIRT 1999 BLUE CHECK",
   "url": "https://ksubi.com/products/rosebowl-ls-shirt-1999-blue-check?variant=44995020161210",
@@ -3408,7 +2883,8 @@
   "source_url": "https://slickdeals.net/f/19989513-resale-sonos-era-100-sl-92-or-era-100-109-white?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Era+100+SL",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:27Z"
  },
  {
   "id": "be88995812bc2822",
@@ -3425,7 +2901,8 @@
   "source_url": "https://slickdeals.net/f/19973247-sonos-arc-ultra-soundbar-sub-4-subwoofer-2-colors-1398-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Arc+Ultra+Soundbar+%2B+SUB+4+Subwoofer",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:28Z"
  },
  {
   "id": "ca12593bca2ba180",
@@ -3442,7 +2919,8 @@
   "source_url": "https://slickdeals.net/f/19973244-2-count-sonos-five-wireless-speakers-black-or-white-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2-Count+Sonos+Five+Wireless+Speakers",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:30Z"
  },
  {
   "id": "9079348ae72a1093",
@@ -3460,7 +2938,8 @@
   "source_url": "https://slickdeals.net/f/19967958-sonos-mag-6-1-landscape-speaker-system-1299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Sonos+Mag+6.1+landscape+speaker+system",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:32Z"
  },
  {
   "id": "e6a71fdfb02a4d74",
@@ -3477,7 +2956,8 @@
   "source_url": "https://slickdeals.net/f/19946529-sonos-beam-gen-2-black-soundbar-with-dolby-399-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Beam+Gen+2+-+Black+-+Soundbar+with+Dolby+-+399",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:33Z"
  },
  {
   "id": "0907cbb2e0ff36f8",
@@ -3494,7 +2974,8 @@
   "source_url": "https://slickdeals.net/f/19939884-sonos-arc-ultra-soundbar-sub-4-2x-era-100-bt-speakers-black-or-white-1649?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Arc+Ultra+Soundbar+%2B+Sub+4+%2B+2x+Era+100+BT+Speakers",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:35Z"
  },
  {
   "id": "d9ee908f184da0d8",
@@ -3511,7 +2992,8 @@
   "source_url": "https://slickdeals.net/e/11408171-sonos-play-1-114-play-3-204-play-5-454-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:36Z"
  },
  {
   "id": "68ab3d0e3d57a040",
@@ -3528,7 +3010,8 @@
   "source_url": "https://slickdeals.net/e/11009487-sonos-play-1-wireless-speaker-109-play-3-209-play-5-459-95-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1+Wireless+Speaker",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:36Z"
  },
  {
   "id": "d114bd08ab927fec",
@@ -3545,7 +3028,8 @@
   "source_url": "https://slickdeals.net/f/17220493-elgato-hd60-x-stream-and-record-in-1080p60-hdr10-or-4k30-with-ultra-low-latency-on-ps5-ps4-pro-xbox-series-x-s-xbox-one-x-s-in-obs-and-more-works-with-pc-and-mac-159?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Elgato+HD60+X+-+Stream+and+record+in+1080p60+HDR10+or+4K30+with+ultra-low+latenc",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:39Z"
  },
  {
   "id": "1d3f48835aed3d91",
@@ -3563,7 +3047,8 @@
   "source_url": "https://slickdeals.net/f/20240463-xbox-series-x-all-digital-gaming-console-1tb-ssd-includes-xbox-wireless-controller-4k-gaming-120fps-robot-white-599-99-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=XBOX+Series+X+-+All+Digital+Gaming+Console+-+1TB+SSD+-+Includes+XBOX+Wireless+Co",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:40Z"
  },
  {
   "id": "bb7a47bdb03cf13e",
@@ -3580,7 +3065,8 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T01:32:41Z"
  },
  {
   "id": "dafa4177b0196ad0",
@@ -30924,7 +30410,7 @@
  {
   "id": "3abb51bd3c7dbb2b",
   "title": "Omega Seamaster Olympic Timekeeper Automatic Black Dial Men's Watch $3750",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Omega+Seamaster+Olympic+Timekeeper+Automatic+Black+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/20008227-omega-seamaster-olympic-timekeeper-automatic-black-dial-men-s-watch-3750?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Omega",
@@ -30936,8 +30422,7 @@
   "source_url": "https://slickdeals.net/f/20008227-omega-seamaster-olympic-timekeeper-automatic-black-dial-men-s-watch-3750?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Omega+Seamaster+Olympic+Timekeeper+Automatic+Black+Dial+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b1429d650fc6e7b0",
@@ -30958,7 +30443,7 @@
  {
   "id": "81e36fbd85f68e37",
   "title": "Tissot Chemin des Tourelles, Swiss Powermatic 80, 42 mm, Silver Dial, Men's Watch $568.75",
-  "url": "https://www.google.com/search?tbm=shop&q=Tissot+Chemin+des+Tourelles+Swiss+Powermatic+80+42+mm+Silver+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/19978239-tissot-chemin-des-tourelles-swiss-powermatic-80-42-mm-silver-dial-men-s-watch-568-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Omega",
@@ -30970,8 +30455,7 @@
   "source_url": "https://slickdeals.net/f/19978239-tissot-chemin-des-tourelles-swiss-powermatic-80-42-mm-silver-dial-men-s-watch-568-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Chemin+des+Tourelles+Swiss+Powermatic+80+42+mm+Silver+Dial+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "26bdea1ee0f56206",
@@ -31008,7 +30492,7 @@
  {
   "id": "d492148b0a3819eb",
   "title": "43.5mm Omega Seamaster Planet Ocean 600M Automatic Diving Watch $5295 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=43.5mm+Omega+Seamaster+Planet+Ocean+600M+Automatic+Diving+Watch",
+  "url": "https://slickdeals.net/f/19918122-43-5mm-omega-seamaster-planet-ocean-600m-automatic-diving-watch-5295-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Omega",
@@ -31020,8 +30504,7 @@
   "source_url": "https://slickdeals.net/f/19918122-43-5mm-omega-seamaster-planet-ocean-600m-automatic-diving-watch-5295-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=43.5mm+Omega+Seamaster+Planet+Ocean+600M+Automatic+Diving+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "bae6cf36c023920c",
@@ -31092,7 +30575,7 @@
  {
   "id": "a0a2249bc0dbd49e",
   "title": "This is your rare chance to get a Garmin smartwatch for under $170 - 9to5Google",
-  "url": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -31104,13 +30587,12 @@
   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0e6d60432bbc7d5d",
   "title": "BOSS by Hugo Boss Men's Kurt Sneakers for $99 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=BOSS+by+Hugo+Boss+Men%27s+Kurt+Sneakers+for",
+  "url": "https://www.dealnews.com/BOSS-by-Hugo-Boss-Mens-Kurt-Sneakers-for-99-free-shipping/22336911.html?iref=rss",
   "why": "Hugo Boss 50% off",
   "category": "fashion",
   "source": "DealNews",
@@ -31122,8 +30604,7 @@
   "source_url": "https://www.dealnews.com/BOSS-by-Hugo-Boss-Mens-Kurt-Sneakers-for-99-free-shipping/22336911.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=BOSS+by+Hugo+Boss+Men%27s+Kurt+Sneakers+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2995c6f5bd389da6",
@@ -31233,7 +30714,7 @@
  {
   "id": "a2271ecba13dd057",
   "title": "Items FS only",
-  "url": "https://www.google.com/search?tbm=shop&q=Items+FS+only",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xmdsnk/items_fs_only/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31245,8 +30726,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmdsnk/items_fs_only/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Items+FS+only",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3243a1085a7ea7ac",
@@ -31319,7 +30799,7 @@
  {
   "id": "d334dfb4237a324e",
   "title": "40mm Tissot Carson Men's Black Dial Automatic Watch $246.40 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
+  "url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -31331,8 +30811,7 @@
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6aa4e18f4d978ceb",
@@ -31425,7 +30904,7 @@
  {
   "id": "ca81a7e6349ac9bc",
   "title": "[WTS][WTT] Amouage, Byredo, Maison Crivelli, Penhaligon’s, and more!",
-  "url": "https://www.google.com/search?tbm=shop&q=Amouage+Byredo+Maison+Crivelli+Penhaligon+s+and+more",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xmeegj/wtswtt_amouage_byredo_maison_crivelli_penhaligons/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31437,13 +30916,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmeegj/wtswtt_amouage_byredo_maison_crivelli_penhaligons/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Amouage+Byredo+Maison+Crivelli+Penhaligon+s+and+more",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3d7f6405e80499bd",
   "title": "[WTS] Louis Vuitton Orage & Nouveau Monde – 100ml Decants – $210 Each / $385 Bundle Shipped",
-  "url": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+Orage+%26+Nouveau+Monde+100ml+Decants",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xmbgm4/wts_louis_vuitton_orage_nouveau_monde_100ml/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31455,13 +30933,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmbgm4/wts_louis_vuitton_orage_nouveau_monde_100ml/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+Orage+%26+Nouveau+Monde+100ml+Decants",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "07b74c814ea01e72",
   "title": "Steal Bundle",
-  "url": "https://www.google.com/search?tbm=shop&q=Steal+Bundle",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xm63y3/steal_bundle/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31473,13 +30950,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xm63y3/steal_bundle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Steal+Bundle",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "25d8626b024d3f64",
   "title": "[WTS] Bottles (Bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=Bottles",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xm2her/wts_bottles_bottle/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31491,13 +30967,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xm2her/wts_bottles_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bottles",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ce79e693cbeeabcf",
   "title": "[WTS] Valentino (Bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=Valentino",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xm1mpl/wts_valentino_bottle/",
   "why": "",
   "category": "fashion",
   "source": "r/fragrancedeals",
@@ -31509,13 +30984,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xm1mpl/wts_valentino_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d4570baa61cfe47f",
   "title": "[WTS] Louis Vuitton California Dream. New lowered price to move.(bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+California+Dream.+lowered+price+to+move.",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xlxjp4/wts_louis_vuitton_california_dream_new_lowered/",
   "why": "",
   "category": "fashion",
   "source": "r/fragrancedeals",
@@ -31527,13 +31001,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlxjp4/wts_louis_vuitton_california_dream_new_lowered/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+California+Dream.+lowered+price+to+move.",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "bcd7362580e96d4b",
   "title": "FS - Niche & De",
-  "url": "https://www.google.com/search?tbm=shop&q=FS+-+Niche+%26+De",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xlwwmc/fs_niche_de/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31545,13 +31018,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlwwmc/fs_niche_de/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FS+-+Niche+%26+De",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "38ea7c551849ad4a",
   "title": "[WTS] HELP ME BUILD A WAR CHEST FOR SCENTXPLORE Amouage, Roja, Ex Nihilo, Tom Ford, Imaginary Authors. Priced to move!",
-  "url": "https://www.google.com/search?tbm=shop&q=HELP+ME+BUILD+A+WAR+CHEST+FOR+SCENTXPLORE+Amouage+Roja+Ex+Nihilo+Tom+Ford+Imagin",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xlu96h/wts_help_me_build_a_war_chest_for_scentxplore/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31563,13 +31035,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlu96h/wts_help_me_build_a_war_chest_for_scentxplore/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HELP+ME+BUILD+A+WAR+CHEST+FOR+SCENTXPLORE+Amouage+Roja+Ex+Nihilo+Tom+Ford+Imagin",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "695ccdef830425b8",
   "title": "Maui Jim Polarized Sunglasses (Various styles/Colors) from $99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -31581,13 +31052,12 @@
   "source_url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3b9656feff013e68",
   "title": "Maui Jim Men's Polarized Sunglasses (Various) $99.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -31599,13 +31069,12 @@
   "source_url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5e096280de0d59e9",
   "title": "Woot! - Sunglasses: Maui Jim & More",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+-+Sunglasses+Maui+Jim+%26+More",
+  "url": "https://slickdeals.net/f/20128317-woot-sunglasses-maui-jim-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -31617,13 +31086,12 @@
   "source_url": "https://slickdeals.net/f/20128317-woot-sunglasses-maui-jim-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+-+Sunglasses+Maui+Jim+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9adb906f3f94960a",
   "title": "Sunglasses: Maui Jim, Serengeti, & More at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Sunglasses+Maui+Jim+Serengeti+%26+More",
+  "url": "https://slickdeals.net/f/20041857-sunglasses-maui-jim-serengeti-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -31635,13 +31103,12 @@
   "source_url": "https://slickdeals.net/f/20041857-sunglasses-maui-jim-serengeti-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Sunglasses+Maui+Jim+Serengeti+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2bd3506838ffd4de",
   "title": "Golden Goose Resources Corp. (GGR) Closes $1.03M First Tranche - TradingView",
-  "url": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0oxWGdMa3p0QWVOalFYN3hkWUlZOFA0MXZkaWF4dkFlSjRUbnRHR3ptd1NjRmNLdlZtc082ZGlrbjFpb2J6UUxsSzJub1Y3VkctaGEzTktYMmllZVE5cUVFLTUwdC1UbGN6NktZbWpxd0x2bVFCM0UzMWVXV3FweEd0YjhuWU53SmlWenB3S18zNEJoNFhxR040VEotYzR0bkZlTG10a1BjZkZydHBfUWN4NGxOVUV5ZDhSNzI4QUd1dw?oc=5",
   "why": "",
   "category": "fashion",
   "source": "Web search: Golden Goose sale",
@@ -31653,13 +31120,12 @@
   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0oxWGdMa3p0QWVOalFYN3hkWUlZOFA0MXZkaWF4dkFlSjRUbnRHR3ptd1NjRmNLdlZtc082ZGlrbjFpb2J6UUxsSzJub1Y3VkctaGEzTktYMmllZVE5cUVFLTUwdC1UbGN6NktZbWpxd0x2bVFCM0UzMWVXV3FweEd0YjhuWU53SmlWenB3S18zNEJoNFhxR040VEotYzR0bkZlTG10a1BjZkZydHBfUWN4NGxOVUV5ZDhSNzI4QUd1dw?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2780e677d3f8688b",
   "title": "[WTS] Tom Ford Plum Japonais 2015 batch (1, 2, 5, 10, 20, 30ml, 50ml, 50ml +) (Decant)",
-  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Plum+Japonais+2015+batch",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xmesel/wts_tom_ford_plum_japonais_2015_batch_1_2_5_10_20/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -31671,8 +31137,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmesel/wts_tom_ford_plum_japonais_2015_batch_1_2_5_10_20/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Plum+Japonais+2015+batch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2f3e0c544d8352e9",
@@ -31889,7 +31354,7 @@
  {
   "id": "1bf65dbf34b55cdd",
   "title": "Citizen® ISO-compliant Promaster 44mm Professional Diver with Eco-Drive $199",
-  "url": "https://www.google.com/search?tbm=shop&q=Citizen+ISO-compliant+Promaster+44mm+Professional+Diver+with+Eco-Drive",
+  "url": "https://slickdeals.net/f/20212422-citizen-iso-compliant-promaster-44mm-professional-diver-with-eco-drive-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -31901,8 +31366,7 @@
   "source_url": "https://slickdeals.net/f/20212422-citizen-iso-compliant-promaster-44mm-professional-diver-with-eco-drive-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+ISO-compliant+Promaster+44mm+Professional+Diver+with+Eco-Drive",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9550ded9d2eea992",
@@ -31961,7 +31425,7 @@
  {
   "id": "893d4a1ef894016e",
   "title": "CITIZEN Marine 1810 Eco-Drive Black Dial 41.5mm Men's Watch $149",
-  "url": "https://www.google.com/search?tbm=shop&q=CITIZEN+Marine+1810+Eco-Drive+Black+Dial+41.5mm+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/20208972-citizen-marine-1810-eco-drive-black-dial-41-5mm-men-s-watch-149?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -31973,8 +31437,7 @@
   "source_url": "https://slickdeals.net/f/20208972-citizen-marine-1810-eco-drive-black-dial-41-5mm-men-s-watch-149?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CITIZEN+Marine+1810+Eco-Drive+Black+Dial+41.5mm+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "10ca07f894111b33",
@@ -31997,7 +31460,7 @@
  {
   "id": "c76399c38e146698",
   "title": "[WTS] Last days of a dope decant sale until Turkey Day: D’Annam, Xerjoff, LV, Amouage, Mind Games, Initio, Byredo, Argos, Kilian, Diptyque: Niche, super-niche, indies, designer, too many to choose from. 2/5/10ml + Upgrade options (Decant)",
-  "url": "https://www.google.com/search?tbm=shop&q=Last+days+of+a+dope+decant+until+Turkey+Day+D+Annam+Xerjoff+LV+Amouage+Mind+Game",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xmeykb/wts_last_days_of_a_dope_decant_sale_until_turkey/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -32009,8 +31472,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmeykb/wts_last_days_of_a_dope_decant_sale_until_turkey/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Last+days+of+a+dope+decant+until+Turkey+Day+D+Annam+Xerjoff+LV+Amouage+Mind+Game",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "822e19aa6bd23118",
@@ -32135,7 +31597,7 @@
  {
   "id": "c1bf1aec98fe109e",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses (and others) $90 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32147,13 +31609,12 @@
   "source_url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0e8ef148d0570440",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32165,13 +31626,12 @@
   "source_url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6610a21537e7eb67",
   "title": "Maui Jim Makaha Polarized Sunglasses (Unisex, Black/Grey) $149 + $10 Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Makaha+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19855038-maui-jim-makaha-polarized-sunglasses-unisex-black-grey-149-10-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Maui Jim",
@@ -32183,13 +31643,12 @@
   "source_url": "https://slickdeals.net/f/19855038-maui-jim-makaha-polarized-sunglasses-unisex-black-grey-149-10-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Makaha+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3cc0b0b46950abef",
   "title": "Serengeti, Maui Jim, & More Sunglasses! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Serengeti+Maui+Jim+%26+More+Sunglasses",
+  "url": "https://slickdeals.net/f/19848660-serengeti-maui-jim-more-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32201,13 +31660,12 @@
   "source_url": "https://slickdeals.net/f/19848660-serengeti-maui-jim-more-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Serengeti+Maui+Jim+%26+More+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "84e8976b29cfd82f",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses $94.50 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32219,13 +31677,12 @@
   "source_url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a1d65816b42f67c0",
   "title": "Maui Jim $50 off",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
+  "url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32237,13 +31694,12 @@
   "source_url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5056c82321becc5c",
   "title": "Eyewear: Serengeti, Maui Jim, & More! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Eyewear+Serengeti+Maui+Jim+%26+More",
+  "url": "https://slickdeals.net/f/19739349-eyewear-serengeti-maui-jim-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32255,13 +31711,12 @@
   "source_url": "https://slickdeals.net/f/19739349-eyewear-serengeti-maui-jim-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Eyewear+Serengeti+Maui+Jim+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f21480cfbda19ea3",
   "title": "Maui Jim 'Akau Polarized Rimless Rectangle Sport Sunglasses $109 & More + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+%27Akau+Polarized+Rimless+Rectangle+Sport+Sunglasses",
+  "url": "https://slickdeals.net/f/19619520-maui-jim-akau-polarized-rimless-rectangle-sport-sunglasses-109-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32273,8 +31728,7 @@
   "source_url": "https://slickdeals.net/f/19619520-maui-jim-akau-polarized-rimless-rectangle-sport-sunglasses-109-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+%27Akau+Polarized+Rimless+Rectangle+Sport+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9010c44cfd892444",
@@ -32297,7 +31751,7 @@
  {
   "id": "0a1c4ded68de52a5",
   "title": "Maui Jim Men's Hookipa Polarized Sunglasses (Blue) $105",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Hookipa+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19526013-maui-jim-men-s-hookipa-polarized-sunglasses-blue-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32309,13 +31763,12 @@
   "source_url": "https://slickdeals.net/f/19526013-maui-jim-men-s-hookipa-polarized-sunglasses-blue-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Hookipa+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8820e6880e11f240",
   "title": "Maui Jim Men's Polarized Sunglasses (2 Styles) $105 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19503774-maui-jim-men-s-polarized-sunglasses-2-styles-105-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32327,13 +31780,12 @@
   "source_url": "https://slickdeals.net/f/19503774-maui-jim-men-s-polarized-sunglasses-2-styles-105-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1ae3d50550a553ee",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/19441032-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32345,8 +31797,7 @@
   "source_url": "https://slickdeals.net/f/19441032-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "86d65b30aadd35dd",
@@ -32369,7 +31820,7 @@
  {
   "id": "57e225595bf241b6",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/19253737-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32381,13 +31832,12 @@
   "source_url": "https://slickdeals.net/f/19253737-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7a0513eafa1bb950",
   "title": "Maui Jim Sugar Beach Polarized Sunglasses $92.4",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Sugar+Beach+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19201549-maui-jim-sugar-beach-polarized-sunglasses-92-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32399,13 +31849,12 @@
   "source_url": "https://slickdeals.net/f/19201549-maui-jim-sugar-beach-polarized-sunglasses-92-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Sugar+Beach+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3e5235699ad4a2d8",
   "title": "Sunglasses (Maui, Oakley, Carrera, Kate Spade etc.) Carrera Unisex 63mm Sunglasses $39.99 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Carrera+Unisex+63mm+Sunglasses",
+  "url": "https://slickdeals.net/f/18608866-sunglasses-maui-oakley-carrera-kate-spade-etc-carrera-unisex-63mm-sunglasses-39-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32417,13 +31866,12 @@
   "source_url": "https://slickdeals.net/f/18608866-sunglasses-maui-oakley-carrera-kate-spade-etc-carrera-unisex-63mm-sunglasses-39-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sunglasses+Carrera+Unisex+63mm+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "227ccf686ae99374",
   "title": "Men's Jomashop Summer Sunglasses Sale Burberry, Maui Jim, Hugo Boss, Under Armour starting $21.69 and more + $5.99 Shipping or Free w/$100+",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+Jomashop+Summer+Sunglasses+Burberry+Maui+Jim+Hugo+Boss+Under+Armour+starti",
+  "url": "https://slickdeals.net/f/18393493-men-s-jomashop-summer-sunglasses-sale-burberry-maui-jim-hugo-boss-under-armour-starting-21-69-and-more-5-99-shipping-or-free-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32435,13 +31883,12 @@
   "source_url": "https://slickdeals.net/f/18393493-men-s-jomashop-summer-sunglasses-sale-burberry-maui-jim-hugo-boss-under-armour-starting-21-69-and-more-5-99-shipping-or-free-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+Jomashop+Summer+Sunglasses+Burberry+Maui+Jim+Hugo+Boss+Under+Armour+starti",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2132af159f731523",
   "title": "Woot! Maui Jim Sale 37%-39% (I've never seen Kahuna's on sale B4)",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Maui+Jim+37+-39",
+  "url": "https://slickdeals.net/f/18389092-woot-maui-jim-sale-37-39-i-ve-never-seen-kahuna-s-on-sale-b4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32453,13 +31900,12 @@
   "source_url": "https://slickdeals.net/f/18389092-woot-maui-jim-sale-37-39-i-ve-never-seen-kahuna-s-on-sale-b4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+Maui+Jim+37+-39",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ff0f92ddac9f4445",
   "title": "Maui Jim Sunglasses: Unisex Breakwall HCL Bronze Wrap Sunglasses $100.10 & More + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Maui+Jim+Sunglasses+Unisex+Breakwall+HCL+Bronze+Wrap+Sunglasses",
+  "url": "https://slickdeals.net/f/18314791-maui-jim-sunglasses-unisex-breakwall-hcl-bronze-wrap-sunglasses-100-10-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -32471,8 +31917,7 @@
   "source_url": "https://slickdeals.net/f/18314791-maui-jim-sunglasses-unisex-breakwall-hcl-bronze-wrap-sunglasses-100-10-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Maui+Jim+Sunglasses+Unisex+Breakwall+HCL+Bronze+Wrap+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6aae6fcebda8316b",
@@ -33323,7 +32768,7 @@
  {
   "id": "b2d271285c69e4ac",
   "title": "Extra 20% off on Ray-Ban, Oakley, & More! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+Oakley+%26+More",
+  "url": "https://slickdeals.net/f/19652295-extra-20-off-on-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -33335,13 +32780,12 @@
   "source_url": "https://slickdeals.net/f/19652295-extra-20-off-on-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+Oakley+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0311a434f8a74583",
   "title": "Men's & Women's Ray-Ban, Oakley, & More Sunglasses: Extra 20% Off: Oakley Men's Sutro Rectangular Sunglasses $79.99 & More + FS w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+%26+Women%27s+Ray-Ban+Oakley+%26+More+Sunglasses+Extra+20+Off+Oakley+Men%27s+Sutro",
+  "url": "https://slickdeals.net/f/19651938-men-s-women-s-ray-ban-oakley-more-sunglasses-extra-20-off-oakley-men-s-sutro-rectangular-sunglasses-79-99-more-fs-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -33353,8 +32797,7 @@
   "source_url": "https://slickdeals.net/f/19651938-men-s-women-s-ray-ban-oakley-more-sunglasses-extra-20-off-oakley-men-s-sutro-rectangular-sunglasses-79-99-more-fs-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+%26+Women%27s+Ray-Ban+Oakley+%26+More+Sunglasses+Extra+20+Off+Oakley+Men%27s+Sutro",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e2a621ddb574b853",
@@ -33375,7 +32818,7 @@
  {
   "id": "fa10c2d1f418f801",
   "title": "30L Oakley Blade Backpack (Blackout) $40 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=30L+Oakley+Blade+Backpack",
+  "url": "https://slickdeals.net/f/19608867-30l-oakley-blade-backpack-blackout-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -33387,8 +32830,7 @@
   "source_url": "https://slickdeals.net/f/19608867-30l-oakley-blade-backpack-blackout-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=30L+Oakley+Blade+Backpack",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8512cf5aad1ad8ca",
@@ -33409,7 +32851,7 @@
  {
   "id": "f8c9124907ae872b",
   "title": "Extra 10% off on Sunnies: Ray-Ban, Oakley, & More! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Sunnies+Ray-Ban+Oakley+%26+More",
+  "url": "https://slickdeals.net/f/19596303-extra-10-off-on-sunnies-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -33421,8 +32863,7 @@
   "source_url": "https://slickdeals.net/f/19596303-extra-10-off-on-sunnies-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Sunnies+Ray-Ban+Oakley+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7eef97d677815e71",
@@ -33475,7 +32916,7 @@
  {
   "id": "d1ad8bc675f1d6e1",
   "title": "Oakley Men's Enduro 2.0 30L Backpack (Core Camo) $50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Enduro+2.0+30L+Backpack",
+  "url": "https://slickdeals.net/f/19571664-oakley-men-s-enduro-2-0-30l-backpack-core-camo-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -33487,8 +32928,7 @@
   "source_url": "https://slickdeals.net/f/19571664-oakley-men-s-enduro-2-0-30l-backpack-core-camo-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Enduro+2.0+30L+Backpack",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8e2247559c77b60a",
@@ -33511,7 +32951,7 @@
  {
   "id": "6e21ee67189d5a25",
   "title": "Man Gets Upgraded To Business Class On Flight To New York. Then The Flight Attendant Shames Him For It: ‘Keep Your Head Down…People Paid Actually Good Money For These Seats’ - BroBible",
-  "url": "https://www.google.com/travel/flights?q=Flights%20Man%20Gets%20Upgraded%20To%20Business%20Class%20On%20Flight%20To%20New%20York.%20Then%20The%20Flight%20Attendant%20Shames%20Him%20For%20It%3A%20%E2%80%98Keep%20Your%20Head%20Down%E2%80%A6People%20Paid%20Actually%20Good%20Money%20For%20These%20Seats%E2%80%99%20-%20BroBible",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONElvSkhFWFVBZ0ZJUXBKZlBLRzYwY2UzM3JYOXVkTXFOSzBsTFh4ODJHX3RzZXZoUW90SmlJX1JINXNXSEZpNGpIcksyNmJ5eXltRDNzTEItMXlJSGh4bDVEM1oyV2RIT1ZYeEVIb1hQSXpiUUNFSlhlWTRtMXlqUEdVVjNmX002Z1RPZjdxNms?oc=5",
   "why": "premium cabin from NEW YORK",
   "category": "flights",
   "source": "Google: business class deal NYC",
@@ -33524,8 +32964,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONElvSkhFWFVBZ0ZJUXBKZlBLRzYwY2UzM3JYOXVkTXFOSzBsTFh4ODJHX3RzZXZoUW90SmlJX1JINXNXSEZpNGpIcksyNmJ5eXltRDNzTEItMXlJSGh4bDVEM1oyV2RIT1ZYeEVIb1hQSXpiUUNFSlhlWTRtMXlqUEdVVjNmX002Z1RPZjdxNms?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Man%20Gets%20Upgraded%20To%20Business%20Class%20On%20Flight%20To%20New%20York.%20Then%20The%20Flight%20Attendant%20Shames%20Him%20For%20It%3A%20%E2%80%98Keep%20Your%20Head%20Down%E2%80%A6People%20Paid%20Actually%20Good%20Money%20For%20These%20Seats%E2%80%99%20-%20BroBible",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "e512dcf5d0c6bd43",
@@ -33863,11 +33302,11 @@
   "pct": null,
   "price": 29.97,
   "found_at": "2026-11-03T01:14:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20215719-on-women-s-cloudspike-citius-2-track-and-field-shoes-yellow-white-29-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=On+Women%27s+Cloudspike+Citius+2+Track+and+Field+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ff0535ee7bc94690",
@@ -33917,11 +33356,11 @@
   "pct": null,
   "price": 105.0,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19659207-hoka-men-s-women-s-clifton-10-running-shoes-all-colors-sizes-105-free-shipping-jd-sports?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+%26+Women%27s+Clifton+10+Running+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "baaa995c2bd8094c",
@@ -33935,11 +33374,11 @@
   "pct": null,
   "price": 100.8,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18031665-hoka-women-s-bondi-8-shoes-harbor-mist-lunar-rock-limited-sizes-100-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Bondi+8+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4819a4fe84afd9a7",
@@ -33953,11 +33392,11 @@
   "pct": 20,
   "price": 95.99,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17938059-hoka-men-and-women-s-clifton-9-95-99-on-running-men-s-roger-centre-court-99-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Men+and+Women%27s+Clifton+9",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2489f5490038f3fc",
@@ -33971,11 +33410,11 @@
   "pct": 10,
   "price": 100.0,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17620104-hoka-men-s-women-s-running-shoes-women-s-hoka-speedgoat-5-running-shoes-100-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Men%27s+%26+Women%27s+Running+Shoes+Women%27s+Hoka+Speedgoat+5+Running+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "27bdf079d6bae139",
@@ -33989,11 +33428,11 @@
   "pct": null,
   "price": 112.0,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17292562-men-s-women-s-hoka-mach-5-everyday-training-shoes-various-colors-sizes-112-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+Women%27s+Hoka+Mach+5+Everyday+Training+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "191863365cef9d1c",
@@ -34007,11 +33446,11 @@
   "pct": null,
   "price": 91.85,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16482631-hoka-anacapa-men-s-mid-gtx-hiking-boots-real-teal-outer-space-91-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Anacapa+Men%27s+Mid+GTX+Hiking+Boots",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77c1ffced5901f1b",
@@ -34025,11 +33464,11 @@
   "pct": null,
   "price": 111.95,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16340587-hoka-clifton-8-running-shoes-111-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Clifton+8+Running+Shoes+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4a146ad3cc85c832",
@@ -34043,11 +33482,11 @@
   "pct": null,
   "price": 89.85,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15819712-hoka-one-one-men-s-arahi-5-road-running-shoes-size-10-12-or-12-5-89-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HOKA+ONE+ONE+Men%27s+Arahi+5+Road-Running+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4fb80a26fae47cfd",
@@ -34079,11 +33518,11 @@
   "pct": 25,
   "price": 67.5,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14330561-hoka-one-one-mens-and-womens-torrent-shoe-25-off-w-code-no-tax-67-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+One+One+Mens+and+Womens+Torrent+Shoe+25+off+w+code+No+Tax",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1b12ef17c72339d3",
@@ -34097,11 +33536,11 @@
   "pct": null,
   "price": 104.0,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14170469-hoka-clifton-6-104-and-rincons-91-on-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=hoka+Clifton+6",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6bb7bcb660b18488",
@@ -34115,11 +33554,11 @@
   "pct": null,
   "price": 104.0,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14169143-hoka-clifton-6-104-rincons-also-on-sale-for-91?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Clifton+6",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "528ba96ef00c479b",
@@ -34133,11 +33572,11 @@
   "pct": 20,
   "price": 119.93,
   "found_at": "2026-11-03T01:14:53Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13779554-hoka-one-one-bondi-6-20-off-119-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+One+One+Bondi+6+20+off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b519b30a71576703",
@@ -34151,11 +33590,11 @@
   "pct": 60,
   "price": null,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b9e59bb922de70d3",
@@ -34169,11 +33608,11 @@
   "pct": null,
   "price": 18.99,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d083855914bbc148",
@@ -34187,11 +33626,11 @@
   "pct": null,
   "price": 56.99,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f4b5cab1d00c8244",
@@ -34205,11 +33644,11 @@
   "pct": null,
   "price": 16.0,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20116122-prime-oakley-men-s-si-cotton-cap-various-lg-xl-from-16-free-shipping-16-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+SI+Cotton+Cap+LG+XL+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "485b68fc815cb37b",
@@ -34223,11 +33662,11 @@
   "pct": 30,
   "price": null,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9a651ea0e74dd5b1",
@@ -34241,11 +33680,11 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1256c38a22620cce",
@@ -34259,11 +33698,11 @@
   "pct": null,
   "price": 100.4,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5b2ba18439b460a7",
@@ -34277,11 +33716,11 @@
   "pct": 22,
   "price": null,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a542b1fb7676fa56",
@@ -34295,11 +33734,11 @@
   "pct": null,
   "price": 29.06,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c8399c9395e0b3dd",
@@ -34331,11 +33770,11 @@
   "pct": null,
   "price": 30.0,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "89b7cb3da1263f34",
@@ -34349,11 +33788,11 @@
   "pct": 25,
   "price": null,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19652295-extra-20-off-on-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+Oakley+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c2e477bbb9211255",
@@ -34367,11 +33806,11 @@
   "pct": 25,
   "price": 79.99,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19651938-men-s-women-s-ray-ban-oakley-more-sunglasses-extra-20-off-oakley-men-s-sutro-rectangular-sunglasses-79-99-more-fs-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+%26+Women%27s+Ray-Ban+Oakley+%26+More+Sunglasses+Extra+20+Off+Oakley+Men%27s+Sutro",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f5831914cf84cb60",
@@ -34401,11 +33840,11 @@
   "pct": null,
   "price": 40.0,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19608867-30l-oakley-blade-backpack-blackout-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=30L+Oakley+Blade+Backpack",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e8e723e79df19677",
@@ -34435,11 +33874,11 @@
   "pct": 15,
   "price": null,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19596303-extra-10-off-on-sunnies-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Sunnies+Ray-Ban+Oakley+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "158b07db0f368d74",
@@ -34517,11 +33956,11 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-11-03T01:14:57Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19571664-oakley-men-s-enduro-2-0-30l-backpack-core-camo-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Enduro+2.0+30L+Backpack",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6e8a1cbf1cc18807",
@@ -34535,11 +33974,11 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "17041a89b34f68ba",
@@ -34553,11 +33992,11 @@
   "pct": null,
   "price": 48.0,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77405fee632c279f",
@@ -34571,11 +34010,11 @@
   "pct": null,
   "price": 43.99,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c9e945c8b937d285",
@@ -34589,11 +34028,11 @@
   "pct": null,
   "price": 59.0,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d72c78fb2ac550cc",
@@ -34607,11 +34046,11 @@
   "pct": null,
   "price": 45.0,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f41bef8eb9c2fad3",
@@ -34625,11 +34064,11 @@
   "pct": null,
   "price": 47.4,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13238356-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-47-40-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "803875cf7ec11b32",
@@ -34643,11 +34082,11 @@
   "pct": null,
   "price": 59.85,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13199182-oakley-drop-point-sunglasses-59-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Drop+Point+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "79456a51c3ecfabc",
@@ -34661,11 +34100,11 @@
   "pct": 20,
   "price": 48.0,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13062412-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-48-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b173023aed32112c",
@@ -34679,11 +34118,11 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/12156904-half-jacket-2-0-sunglasses-polished-black-polarizedoakley-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Half+Jacket+2.0+Sunglasses+-+Polished+Black+PolarizedOakley",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8761647c17ea4172",
@@ -34697,11 +34136,11 @@
   "pct": null,
   "price": 30.0,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11712383-oakley-holbrook-sunglasses-30-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Holbrook+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae627494e8c15fbe",
@@ -34715,11 +34154,11 @@
   "pct": null,
   "price": 99.99,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11257035-active-again-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Active+again+-+Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0fecb54ce706377f",
@@ -34733,11 +34172,11 @@
   "pct": null,
   "price": 99.99,
   "found_at": "2026-11-03T01:14:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11170643-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "de099db4e0ef9385",
@@ -34769,11 +34208,11 @@
   "pct": null,
   "price": 235.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18828877-persol-steve-mcqueen-folding-sunglasses-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Steve+McQueen+Folding+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1bf5f539c44ecaa9",
@@ -34805,11 +34244,11 @@
   "pct": null,
   "price": 84.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16028041-persol-sunglasses-caffe-handmade-flat-top-square-w-glass-lens-84-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+Caffe+Handmade+Flat+Top+Square+w+Glass+Lens",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e402c3b0e2277302",
@@ -34823,11 +34262,11 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15954541-persol-sunglasses-polarized-and-non-polarized-from-99-free-ship?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6f0d8ae9c919312b",
@@ -34841,11 +34280,11 @@
   "pct": 25,
   "price": null,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/14971931-persol-eyewear-sitewide-promotion-of-25-off-with-free-delivery?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Eyewear+Sitewide+Promotion+of+25+Off+with+Free+Delivery",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6476511a69932c2a",
@@ -34859,11 +34298,11 @@
   "pct": null,
   "price": 89.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14787991-polarized-glass-persol-sunglasses-89-free-shipping-no-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Polarized+Glass+Persol+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6b72440d92bb3a74",
@@ -34877,11 +34316,11 @@
   "pct": null,
   "price": 84.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14507618-men-s-persol-polarized-grey-prince-of-wales-aviator-w-glass-lens-84-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+Persol+Polarized+Grey+Prince+of+Wales+Aviator+w+Glass+Lens",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f1d224de671c05bd",
@@ -34895,11 +34334,11 @@
   "pct": null,
   "price": 76.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14006003-persol-men-s-modified-pilot-sunglasses-w-tempered-glass-lens-76-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Modified+Pilot+Sunglasses+w+Tempered+Glass+Lens",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "01347e007c18420b",
@@ -34913,11 +34352,11 @@
   "pct": null,
   "price": 78.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13911527-persol-sunglasses-polarized-and-non-polarized-from-78-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "06a8c4452d05a815",
@@ -34931,11 +34370,11 @@
   "pct": null,
   "price": 79.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13869749-persol-pilot-sunglasses-polarized-and-non-polarized-from-79-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Pilot+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5f0bcb9c9f58aa44",
@@ -34949,11 +34388,11 @@
   "pct": null,
   "price": 75.0,
   "found_at": "2026-11-03T01:14:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "430cac3d4fc3549b",
@@ -34967,11 +34406,11 @@
   "pct": null,
   "price": 80.0,
   "found_at": "2026-11-03T01:15:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/12992425-persol-po3059s-sunglasses-80-or-less-w-10-off-for-new-users-2-75-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+PO3059S+Sunglasses+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5e1cd3136ac8635b",
@@ -34985,11 +34424,11 @@
   "pct": null,
   "price": 100.0,
   "found_at": "2026-11-03T01:15:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b73ec195be552eeb",
@@ -35003,11 +34442,11 @@
   "pct": null,
   "price": 94.99,
   "found_at": "2026-11-03T01:15:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "68e4551811157e22",
@@ -35021,11 +34460,11 @@
   "pct": null,
   "price": 99.97,
   "found_at": "2026-11-03T01:15:00Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11644355-persol-men-s-icona-evolution-53mm-sunglasses-99-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Icona+Evolution+53mm+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cbd28e823426734b",
@@ -35086,12 +34525,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20KGL&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "55bcb67d9526f04a",
   "title": "Maui Jim Polarized Sunglasses (Various styles/Colors) from $99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35099,12 +34539,17 @@
   "hot": false,
   "pct": null,
   "price": 99.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "exact": false
  },
  {
   "id": "cef6a0d70716fb09",
   "title": "Maui Jim Men's Polarized Sunglasses (Various) $99.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35112,12 +34557,17 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "exact": false
  },
  {
   "id": "daa912ae8f546b92",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses (and others) $90 + Free S/H",
-  "url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35125,12 +34575,17 @@
   "hot": false,
   "pct": null,
   "price": 90.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "exact": false
  },
  {
   "id": "635b7bbfe4c8517a",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35138,12 +34593,17 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "exact": false
  },
  {
   "id": "a22f42fdb9949c89",
   "title": "Maui Jim Makaha Polarized Sunglasses (Unisex, Black/Grey) $149 + $10 Shipping",
-  "url": "https://slickdeals.net/f/19855038-maui-jim-makaha-polarized-sunglasses-unisex-black-grey-149-10-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Makaha+Polarized+Sunglasses",
   "why": "",
   "category": "watches",
   "source": "Web search: Maui Jim sale",
@@ -35151,12 +34611,17 @@
   "hot": false,
   "pct": null,
   "price": 149.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19855038-maui-jim-makaha-polarized-sunglasses-unisex-black-grey-149-10-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Makaha+Polarized+Sunglasses",
+  "exact": false
  },
  {
   "id": "74f48906b179bc4f",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses $94.50 + Free S/H",
-  "url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35164,12 +34629,17 @@
   "hot": false,
   "pct": null,
   "price": 94.5,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "exact": false
  },
  {
   "id": "6e54c604aec6b6d3",
   "title": "Maui Jim $50 off",
-  "url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
   "why": "",
   "category": "everything",
   "source": "Web search: Maui Jim sale",
@@ -35177,12 +34647,17 @@
   "hot": false,
   "pct": null,
   "price": 50.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
+  "exact": false
  },
  {
   "id": "c93e00fbf76c03ca",
   "title": "Maui Jim 'Akau Polarized Rimless Rectangle Sport Sunglasses $109 & More + Free S&H",
-  "url": "https://slickdeals.net/f/19619520-maui-jim-akau-polarized-rimless-rectangle-sport-sunglasses-109-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+%27Akau+Polarized+Rimless+Rectangle+Sport+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35190,12 +34665,17 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19619520-maui-jim-akau-polarized-rimless-rectangle-sport-sunglasses-109-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+%27Akau+Polarized+Rimless+Rectangle+Sport+Sunglasses",
+  "exact": false
  },
  {
   "id": "faf424dcd77d78ef",
   "title": "Maui Jim Men's Hookipa Polarized Sunglasses (Blue) $105",
-  "url": "https://slickdeals.net/f/19526013-maui-jim-men-s-hookipa-polarized-sunglasses-blue-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Hookipa+Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35203,12 +34683,17 @@
   "hot": false,
   "pct": null,
   "price": 105.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19526013-maui-jim-men-s-hookipa-polarized-sunglasses-blue-105?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Hookipa+Polarized+Sunglasses",
+  "exact": false
  },
  {
   "id": "54bcf5ec7b153ba5",
   "title": "Maui Jim Men's Polarized Sunglasses (2 Styles) $105 + Free Shipping",
-  "url": "https://slickdeals.net/f/19503774-maui-jim-men-s-polarized-sunglasses-2-styles-105-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35216,12 +34701,17 @@
   "hot": false,
   "pct": null,
   "price": 105.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19503774-maui-jim-men-s-polarized-sunglasses-2-styles-105-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "exact": false
  },
  {
   "id": "cef793549f2c7d12",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://slickdeals.net/f/19441032-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35229,12 +34719,17 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19441032-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "exact": false
  },
  {
   "id": "70df22d35c7230d4",
   "title": "Maui Jim Women's Blossom Polarized Cat Eye Sunglasses, Havana W/Peach/Hcl® Bronze Polarized, Medium Fit $239.85",
-  "url": "https://slickdeals.net/f/19364214-maui-jim-women-s-blossom-polarized-cat-eye-sunglasses-havana-w-peach-hcl-bronze-polarized-medium-fit-239-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Maui+Jim+Women%27s+Blossom+Polarized+Cat+Eye+Sunglasses+Havana+Peach+Hcl+Bronze+Po",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35242,12 +34737,17 @@
   "hot": false,
   "pct": null,
   "price": 239.85,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19364214-maui-jim-women-s-blossom-polarized-cat-eye-sunglasses-havana-w-peach-hcl-bronze-polarized-medium-fit-239-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Maui+Jim+Women%27s+Blossom+Polarized+Cat+Eye+Sunglasses+Havana+Peach+Hcl+Bronze+Po",
+  "exact": false
  },
  {
   "id": "bc6b87ac3698179e",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://slickdeals.net/f/19253737-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35255,12 +34755,17 @@
   "hot": false,
   "pct": null,
   "price": 109.0,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19253737-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "exact": false
  },
  {
   "id": "7094f473631d83ae",
   "title": "Maui Jim Sugar Beach Polarized Sunglasses $92.4",
-  "url": "https://slickdeals.net/f/19201549-maui-jim-sugar-beach-polarized-sunglasses-92-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Sugar+Beach+Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35268,12 +34773,17 @@
   "hot": false,
   "pct": null,
   "price": 92.4,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19201549-maui-jim-sugar-beach-polarized-sunglasses-92-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Sugar+Beach+Polarized+Sunglasses",
+  "exact": false
  },
  {
   "id": "6dcee97e644096a6",
   "title": "Men's Jomashop Summer Sunglasses Sale Burberry, Maui Jim, Hugo Boss, Under Armour starting $21.69 and more + $5.99 Shipping or Free w/$100+",
-  "url": "https://slickdeals.net/f/18393493-men-s-jomashop-summer-sunglasses-sale-burberry-maui-jim-hugo-boss-under-armour-starting-21-69-and-more-5-99-shipping-or-free-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+Jomashop+Summer+Sunglasses+Burberry+Maui+Jim+Hugo+Boss+Under+Armour+starti",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35281,12 +34791,17 @@
   "hot": false,
   "pct": null,
   "price": 21.69,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18393493-men-s-jomashop-summer-sunglasses-sale-burberry-maui-jim-hugo-boss-under-armour-starting-21-69-and-more-5-99-shipping-or-free-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+Jomashop+Summer+Sunglasses+Burberry+Maui+Jim+Hugo+Boss+Under+Armour+starti",
+  "exact": false
  },
  {
   "id": "66d80ed8fcc5f693",
   "title": "Maui Jim Sunglasses: Unisex Breakwall HCL Bronze Wrap Sunglasses $100.10 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/18314791-maui-jim-sunglasses-unisex-breakwall-hcl-bronze-wrap-sunglasses-100-10-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Maui+Jim+Sunglasses+Unisex+Breakwall+HCL+Bronze+Wrap+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -35294,12 +34809,17 @@
   "hot": false,
   "pct": 30,
   "price": 100.1,
-  "found_at": "2026-11-03T01:23:53Z"
+  "found_at": "2026-11-03T01:23:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18314791-maui-jim-sunglasses-unisex-breakwall-hcl-bronze-wrap-sunglasses-100-10-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Maui+Jim+Sunglasses+Unisex+Breakwall+HCL+Bronze+Wrap+Sunglasses",
+  "exact": false
  },
  {
   "id": "03e814efaea016c0",
   "title": "lululemon Shorts From $14 Shipped",
-  "url": "https://slickdeals.net/f/20184822-lululemon-shorts-from-14-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Shorts+From",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35307,12 +34827,17 @@
   "hot": false,
   "pct": 79,
   "price": 14.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20184822-lululemon-shorts-from-14-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Shorts+From",
+  "exact": false
  },
  {
   "id": "6ee38f057db88765",
   "title": "Lululemon 32L Scuba Backpack (2 Colors) $89",
-  "url": "https://slickdeals.net/f/20146953-lululemon-32l-scuba-backpack-2-colors-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=Lululemon+32L+Scuba+Backpack",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35320,12 +34845,17 @@
   "hot": false,
   "pct": null,
   "price": 89.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20146953-lululemon-32l-scuba-backpack-2-colors-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+32L+Scuba+Backpack",
+  "exact": false
  },
  {
   "id": "7ff8038627aab01c",
   "title": "lululemon Women's Wunder Puff Mini Boot $79",
-  "url": "https://slickdeals.net/f/20044209-lululemon-women-s-wunder-puff-mini-boot-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Wunder+Puff+Mini+Boot",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35333,12 +34863,17 @@
   "hot": false,
   "pct": null,
   "price": 79.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20044209-lululemon-women-s-wunder-puff-mini-boot-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Wunder+Puff+Mini+Boot",
+  "exact": false
  },
  {
   "id": "3af2d27fd37c4883",
   "title": "lululemon Women's Softstreme High-Rise 4\" Shorts (Black, Size 0, 2, 6) From $19 + Free Shipping",
-  "url": "https://slickdeals.net/f/20043942-lululemon-women-s-softstreme-high-rise-4-shorts-black-size-0-2-6-from-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Softstreme+High-Rise+4+Shorts+From",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35346,12 +34881,17 @@
   "hot": false,
   "pct": null,
   "price": 19.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20043942-lululemon-women-s-softstreme-high-rise-4-shorts-black-size-0-2-6-from-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Softstreme+High-Rise+4+Shorts+From",
+  "exact": false
  },
  {
   "id": "1d1312c96b14b7ce",
   "title": "lululemon Men's Lunar New Year Steady State Relaxed-Fit Jogger $69",
-  "url": "https://slickdeals.net/f/20028489-lululemon-men-s-lunar-new-year-steady-state-relaxed-fit-jogger-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Lunar+Year+Steady+State+Relaxed-Fit+Jogger",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35359,12 +34899,17 @@
   "hot": false,
   "pct": null,
   "price": 69.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20028489-lululemon-men-s-lunar-new-year-steady-state-relaxed-fit-jogger-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Lunar+Year+Steady+State+Relaxed-Fit+Jogger",
+  "exact": false
  },
  {
   "id": "6434b117b9768c27",
   "title": "lululemon - We made too much under $50 sale! $29",
-  "url": "https://slickdeals.net/f/19979676-lululemon-we-made-too-much-under-50-sale-29?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+-+We+made+too+much+under",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35372,12 +34917,17 @@
   "hot": false,
   "pct": 67,
   "price": 50.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19979676-lululemon-we-made-too-much-under-50-sale-29?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+-+We+made+too+much+under",
+  "exact": false
  },
  {
   "id": "093769d0135de740",
   "title": "lululemon Women's Energy Longline Bra (3 Colors) $39 + Free Shipping",
-  "url": "https://slickdeals.net/f/19901979-lululemon-women-s-energy-longline-bra-3-colors-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Energy+Longline+Bra",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35385,12 +34935,17 @@
   "hot": false,
   "pct": null,
   "price": 39.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19901979-lululemon-women-s-energy-longline-bra-3-colors-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Energy+Longline+Bra",
+  "exact": false
  },
  {
   "id": "9d3d7e26e65e2e7c",
   "title": "lululemon Women's Organic Cotton Baby Tee $34",
-  "url": "https://slickdeals.net/f/19841139-lululemon-women-s-organic-cotton-baby-tee-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Organic+Cotton+Baby+Tee",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35398,12 +34953,17 @@
   "hot": false,
   "pct": null,
   "price": 34.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19841139-lululemon-women-s-organic-cotton-baby-tee-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Organic+Cotton+Baby+Tee",
+  "exact": false
  },
  {
   "id": "c24efe38c3a195ee",
   "title": "Lululemon Scuba High-Rise Mini Skirt $24",
-  "url": "https://slickdeals.net/f/19810434-lululemon-scuba-high-rise-mini-skirt-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=Lululemon+Scuba+High-Rise+Mini+Skirt",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35411,12 +34971,17 @@
   "hot": false,
   "pct": null,
   "price": 24.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19810434-lululemon-scuba-high-rise-mini-skirt-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+Scuba+High-Rise+Mini+Skirt",
+  "exact": false
  },
  {
   "id": "fb8d0b4ab88ac52d",
   "title": "Lululemon Wundermost Ultra-Soft Nulu Mesh Scoop-Back Sleeveless Thong Bodysuit $24",
-  "url": "https://slickdeals.net/f/19810422-lululemon-wundermost-ultra-soft-nulu-mesh-scoop-back-sleeveless-thong-bodysuit-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=Lululemon+Wundermost+Ultra-Soft+Nulu+Mesh+Scoop-Back+Sleeveless+Thong+Bodysuit",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35424,12 +34989,17 @@
   "hot": false,
   "pct": null,
   "price": 24.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19810422-lululemon-wundermost-ultra-soft-nulu-mesh-scoop-back-sleeveless-thong-bodysuit-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+Wundermost+Ultra-Soft+Nulu+Mesh+Scoop-Back+Sleeveless+Thong+Bodysuit",
+  "exact": false
  },
  {
   "id": "c0b294466f12389c",
   "title": "lululemon Align High-Rise Shorts 6\" $9",
-  "url": "https://slickdeals.net/f/19809150-lululemon-align-high-rise-shorts-6-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Align+High-Rise+Shorts+6",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35437,12 +35007,17 @@
   "hot": false,
   "pct": null,
   "price": 9.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19809150-lululemon-align-high-rise-shorts-6-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Align+High-Rise+Shorts+6",
+  "exact": false
  },
  {
   "id": "1c8eb4ec1ca1f61d",
   "title": "Lululemon Thermal High-Rise Running Tight 28\" $39",
-  "url": "https://slickdeals.net/f/19805433-lululemon-thermal-high-rise-running-tight-28-39?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=Lululemon+Thermal+High-Rise+Running+Tight+28",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35450,12 +35025,17 @@
   "hot": false,
   "pct": null,
   "price": 39.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19805433-lululemon-thermal-high-rise-running-tight-28-39?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+Thermal+High-Rise+Running+Tight+28",
+  "exact": false
  },
  {
   "id": "9d75c8afce95e077",
   "title": "lululemon Align High-Rise Leggings with Pockets 25\" $34",
-  "url": "https://slickdeals.net/f/19805427-lululemon-align-high-rise-leggings-with-pockets-25-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Align+High-Rise+Leggings+with+Pockets+25",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35463,12 +35043,17 @@
   "hot": false,
   "pct": null,
   "price": 34.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19805427-lululemon-align-high-rise-leggings-with-pockets-25-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Align+High-Rise+Leggings+with+Pockets+25",
+  "exact": false
  },
  {
   "id": "68409ec6cd892ca5",
   "title": "Amx Offer - lululemon spend $135 or more, earn $35 back",
-  "url": "https://slickdeals.net/f/19773444-amx-offer-lululemon-spend-135-or-more-earn-35-back?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=Amx+Offer+-+lululemon+spend",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35476,12 +35061,17 @@
   "hot": false,
   "pct": null,
   "price": 135.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19773444-amx-offer-lululemon-spend-135-or-more-earn-35-back?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Amx+Offer+-+lululemon+spend",
+  "exact": false
  },
  {
   "id": "a9d7b3fcb39835d0",
   "title": "lululemon Structured Classic Ball Cap Script $19",
-  "url": "https://slickdeals.net/f/19756647-lululemon-structured-classic-ball-cap-script-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Structured+Classic+Ball+Cap+Script",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35489,12 +35079,17 @@
   "hot": false,
   "pct": null,
   "price": 19.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19756647-lululemon-structured-classic-ball-cap-script-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Structured+Classic+Ball+Cap+Script",
+  "exact": false
  },
  {
   "id": "51e86f32d8602d39",
   "title": "5L lululemon Quilty Pleasures Shoulder Bag (Black) $39 + Free Shipping",
-  "url": "https://slickdeals.net/f/19740894-5l-lululemon-quilty-pleasures-shoulder-bag-black-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=5L+lululemon+Quilty+Pleasures+Shoulder+Bag",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35502,12 +35097,17 @@
   "hot": false,
   "pct": null,
   "price": 39.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19740894-5l-lululemon-quilty-pleasures-shoulder-bag-black-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=5L+lululemon+Quilty+Pleasures+Shoulder+Bag",
+  "exact": false
  },
  {
   "id": "6cdcb330f54c7950",
   "title": "lululemon Women's Deuce Classic Ball Cap (2 Colors) $19 + Free Shipping",
-  "url": "https://slickdeals.net/f/19733607-lululemon-women-s-deuce-classic-ball-cap-2-colors-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Deuce+Classic+Ball+Cap",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35515,12 +35115,17 @@
   "hot": false,
   "pct": null,
   "price": 19.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19733607-lululemon-women-s-deuce-classic-ball-cap-2-colors-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Deuce+Classic+Ball+Cap",
+  "exact": false
  },
  {
   "id": "978975438429b378",
   "title": "lululemon Swiftly Tech Short-Sleeve Shirt 2.0 Waist Length (Various Colors) $49 + Free Shipping",
-  "url": "https://slickdeals.net/f/19715025-lululemon-swiftly-tech-short-sleeve-shirt-2-0-waist-length-various-colors-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Swiftly+Tech+Short-Sleeve+Shirt+2.0+Waist+Length",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35528,12 +35133,17 @@
   "hot": false,
   "pct": null,
   "price": 49.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19715025-lululemon-swiftly-tech-short-sleeve-shirt-2-0-waist-length-various-colors-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Swiftly+Tech+Short-Sleeve+Shirt+2.0+Waist+Length",
+  "exact": false
  },
  {
   "id": "b524127e29d84851",
   "title": "lululemon Fast and Free High-Rise Classic-Fit Split Short 3\" (Black & True Navy) $39 + Free Shipping",
-  "url": "https://slickdeals.net/f/19715019-lululemon-fast-and-free-high-rise-classic-fit-split-short-3-black-true-navy-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Fast+and+Free+High-Rise+Classic-Fit+Split+Short+3",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35541,12 +35151,17 @@
   "hot": false,
   "pct": null,
   "price": 39.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19715019-lululemon-fast-and-free-high-rise-classic-fit-split-short-3-black-true-navy-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Fast+and+Free+High-Rise+Classic-Fit+Split+Short+3",
+  "exact": false
  },
  {
   "id": "7013a45266971476",
   "title": "lululemon Men's Satin Stripe Pants (2 Colors) $59",
-  "url": "https://slickdeals.net/f/19697817-lululemon-men-s-satin-stripe-pants-2-colors-59?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Satin+Stripe+Pants",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon sale",
@@ -35554,12 +35169,17 @@
   "hot": false,
   "pct": null,
   "price": 59.0,
-  "found_at": "2026-11-03T01:23:57Z"
+  "found_at": "2026-11-03T01:23:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19697817-lululemon-men-s-satin-stripe-pants-2-colors-59?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Satin+Stripe+Pants",
+  "exact": false
  },
  {
   "id": "06fc5e21dd264307",
   "title": "Lululemon Everywhere 1L Belt bag at Woot.com $31.99",
-  "url": "https://slickdeals.net/f/16954603-lululemon-everywhere-1l-belt-bag-at-woot-com-31-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Lululemon+Everywhere+1L+Belt+bag",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon price drop",
@@ -35567,12 +35187,17 @@
   "hot": false,
   "pct": null,
   "price": 31.99,
-  "found_at": "2026-11-03T01:23:58Z"
+  "found_at": "2026-11-03T01:23:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16954603-lululemon-everywhere-1l-belt-bag-at-woot-com-31-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Lululemon+Everywhere+1L+Belt+bag",
+  "exact": false
  },
  {
   "id": "d81662ef23922513",
   "title": "lululemon: Men or Women Both Ways Bucket Hat $14 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/16488523-lululemon-men-or-women-both-ways-bucket-hat-14-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Men+or+Women+Both+Ways+Bucket+Hat",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon price drop",
@@ -35580,12 +35205,17 @@
   "hot": false,
   "pct": null,
   "price": 14.0,
-  "found_at": "2026-11-03T01:23:58Z"
+  "found_at": "2026-11-03T01:23:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16488523-lululemon-men-or-women-both-ways-bucket-hat-14-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Men+or+Women+Both+Ways+Bucket+Hat",
+  "exact": false
  },
  {
   "id": "f37e443a2a6a8478",
   "title": "lululemon Post-Holiday Specials: Women's 10\" High-Rise Shorts $29, Men's Shorts (Various) $39, Men's Insulated Bomber Jacket $99, More + Free Shipping",
-  "url": "https://slickdeals.net/f/15533380-lululemon-post-holiday-specials-women-s-10-high-rise-shorts-29-men-s-shorts-various-39-men-s-insulated-bomber-jacket-99-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Post-Holiday+Specials+Women%27s+10+High-Rise+Shorts",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon price drop",
@@ -35593,12 +35223,17 @@
   "hot": false,
   "pct": null,
   "price": 29.0,
-  "found_at": "2026-11-03T01:23:58Z"
+  "found_at": "2026-11-03T01:23:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15533380-lululemon-post-holiday-specials-women-s-10-high-rise-shorts-29-men-s-shorts-various-39-men-s-insulated-bomber-jacket-99-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Post-Holiday+Specials+Women%27s+10+High-Rise+Shorts",
+  "exact": false
  },
  {
   "id": "0cee395fc7e9c6ae",
   "title": "lululemon Men's Commission Short 7\" Ventlight Mesh $29 + Free S/H",
-  "url": "https://slickdeals.net/e/14739728-lululemon-men-s-commission-short-7-ventlight-mesh-29-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Commission+Short+7+Ventlight+Mesh",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon price drop",
@@ -35606,12 +35241,17 @@
   "hot": false,
   "pct": null,
   "price": 29.0,
-  "found_at": "2026-11-03T01:23:58Z"
+  "found_at": "2026-11-03T01:23:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14739728-lululemon-men-s-commission-short-7-ventlight-mesh-29-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Commission+Short+7+Ventlight+Mesh",
+  "exact": false
  },
  {
   "id": "c30b90d42142be1d",
   "title": "Lululemon’s “We Made Too Much” Section Has Cozy Staples You’ll Never Want to Take Off—From $14 - Real Simple",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeWNVWWwtWXBmRGpELW9uRnBRM0xXdGhheUxsWEI0cVJ6WWlLcmpMNG5TZnA0cEVwLTBTeENHMVFjc2NhcHhKRWZlejFZN1BIYm1UY1JRRWdLSllFbDkzQzdmNkhVREUtaW1XalNfdVNOZmo4dmJmMjdwWWNzUkFUb3c5SFgyTUp5Ujd1aVF4aEwyUmZJbEE?oc=5",
+  "url": "https://shop.lululemon.com/search?Ntt=Lululemon+s+We+Made+Too+Much+Section+Has+Cozy+Staples+You+ll+Never+Want+to+Take+",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon price drop",
@@ -35619,12 +35259,17 @@
   "hot": false,
   "pct": null,
   "price": 14.0,
-  "found_at": "2026-11-03T01:23:58Z"
+  "found_at": "2026-11-03T01:23:58Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeWNVWWwtWXBmRGpELW9uRnBRM0xXdGhheUxsWEI0cVJ6WWlLcmpMNG5TZnA0cEVwLTBTeENHMVFjc2NhcHhKRWZlejFZN1BIYm1UY1JRRWdLSllFbDkzQzdmNkhVREUtaW1XalNfdVNOZmo4dmJmMjdwWWNzUkFUb3c5SFgyTUp5Ujd1aVF4aEwyUmZJbEE?oc=5",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+s+We+Made+Too+Much+Section+Has+Cozy+Staples+You+ll+Never+Want+to+Take+",
+  "exact": false
  },
  {
   "id": "1c73348a45f1ff5d",
   "title": "Alo Yoga 30% Off: Women or Men's Apparel, Accessories and Shoes (Various Styles) + Free Shipping",
-  "url": "https://slickdeals.net/f/19490487-alo-yoga-30-off-women-or-men-s-apparel-accessories-and-shoes-various-styles-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+30+Off+Women+or+Men%27s+Apparel+Accessories+and+Shoes+%2B",
   "why": "",
   "category": "fashion",
   "source": "Web search: Alo Yoga sale",
@@ -35632,12 +35277,17 @@
   "hot": false,
   "pct": 30,
   "price": null,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19490487-alo-yoga-30-off-women-or-men-s-apparel-accessories-and-shoes-various-styles-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+30+Off+Women+or+Men%27s+Apparel+Accessories+and+Shoes+%2B",
+  "exact": false
  },
  {
   "id": "c8c0ad146153a32a",
   "title": "ALO Yoga 30% off sitewide",
-  "url": "https://slickdeals.net/f/18277849-alo-yoga-30-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=ALO+Yoga+30+off+sitewide",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -35645,12 +35295,17 @@
   "hot": false,
   "pct": 30,
   "price": null,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18277849-alo-yoga-30-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=ALO+Yoga+30+off+sitewide",
+  "exact": false
  },
  {
   "id": "29f8c874fb2085e1",
   "title": "Alo Yoga 30% off site wide",
-  "url": "https://slickdeals.net/f/17457774-alo-yoga-30-off-site-wide?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+30+off+site+wide",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -35658,12 +35313,17 @@
   "hot": false,
   "pct": 30,
   "price": null,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17457774-alo-yoga-30-off-site-wide?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+30+off+site+wide",
+  "exact": false
  },
  {
   "id": "0661c29ce271a6ef",
   "title": "Alo Moves Annual Yoga & Fitness Membership Gift Box w/ Gift Card $20.43 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/17456769-alo-moves-annual-yoga-fitness-membership-gift-box-w-gift-card-20-43-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Moves+Annual+Yoga+%26+Fitness+Membership+Gift+Box+w+Gift+Card",
   "why": "",
   "category": "amazon",
   "source": "Web search: Alo Yoga sale",
@@ -35671,12 +35331,17 @@
   "hot": false,
   "pct": null,
   "price": 20.43,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17456769-alo-moves-annual-yoga-fitness-membership-gift-box-w-gift-card-20-43-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Moves+Annual+Yoga+%26+Fitness+Membership+Gift+Box+w+Gift+Card",
+  "exact": false
  },
  {
   "id": "4e6ca8bee12fa3de",
   "title": "ALO Yoga // 30-70% off",
-  "url": "https://slickdeals.net/f/16166182-alo-yoga-30-70-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=ALO+Yoga+30-70+off",
   "why": "",
   "category": "fashion",
   "source": "Web search: Alo Yoga sale",
@@ -35684,12 +35349,17 @@
   "hot": false,
   "pct": 70,
   "price": null,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16166182-alo-yoga-30-70-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=ALO+Yoga+30-70+off",
+  "exact": false
  },
  {
   "id": "bfef756a0198fb29",
   "title": "Alo Yoga 30% off sitewide + free shipping",
-  "url": "https://slickdeals.net/f/16165705-alo-yoga-30-off-sitewide-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+30+off+sitewide+%2B",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -35697,12 +35367,17 @@
   "hot": false,
   "pct": 70,
   "price": null,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16165705-alo-yoga-30-off-sitewide-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+30+off+sitewide+%2B",
+  "exact": false
  },
  {
   "id": "dc2245c6af781ece",
   "title": "Alo Yoga: Up to 70% Off Select Items & 20% Off Sitewide + FS",
-  "url": "https://slickdeals.net/e/14617033-alo-yoga-up-to-70-off-select-items-20-off-sitewide-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Up+to+70+Off+Select+Items+%26+20+Off+Sitewide+%2B+FS",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -35710,12 +35385,17 @@
   "hot": false,
   "pct": 70,
   "price": null,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14617033-alo-yoga-up-to-70-off-select-items-20-off-sitewide-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Up+to+70+Off+Select+Items+%26+20+Off+Sitewide+%2B+FS",
+  "exact": false
  },
  {
   "id": "aa446990dda4df20",
   "title": "Alo Yoga: Black Friday Presale - Up to 70% Off Sitewide",
-  "url": "https://slickdeals.net/e/14587333-alo-yoga-black-friday-presale-up-to-70-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Black+Friday+Presale+-+Up+to+70+Off+Sitewide",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -35723,12 +35403,17 @@
   "hot": false,
   "pct": 70,
   "price": null,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14587333-alo-yoga-black-friday-presale-up-to-70-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Black+Friday+Presale+-+Up+to+70+Off+Sitewide",
+  "exact": false
  },
  {
   "id": "a235061fa95f8723",
   "title": "Alo Yoga Acme Open-Back Performance Tank $20.8",
-  "url": "https://slickdeals.net/e/11494523-alo-yoga-acme-open-back-performance-tank-20-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Acme+Open-Back+Performance+Tank",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -35736,12 +35421,17 @@
   "hot": false,
   "pct": null,
   "price": 20.8,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/11494523-alo-yoga-acme-open-back-performance-tank-20-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Acme+Open-Back+Performance+Tank",
+  "exact": false
  },
  {
   "id": "34641b75fd523a44",
   "title": "Alo Yoga Goddess Ribbed Leggings $48.97",
-  "url": "https://slickdeals.net/e/11494499-alo-yoga-goddess-ribbed-leggings-48-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Goddess+Ribbed+Leggings",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -35749,12 +35439,17 @@
   "hot": false,
   "pct": null,
   "price": 48.97,
-  "found_at": "2026-11-03T01:23:59Z"
+  "found_at": "2026-11-03T01:23:59Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/11494499-alo-yoga-goddess-ribbed-leggings-48-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Goddess+Ribbed+Leggings",
+  "exact": false
  },
  {
   "id": "e7534d2598b2fc1e",
   "title": "Steam PC Games: Assassin's Creed 2 $5; The Farmer Was Replaced $7; Teardown $15; Assassin's Creed Black Flag Resynced $45 & More",
-  "url": "https://slickdeals.net/f/20246022-steam-pc-games-assassin-s-creed-2-5-the-farmer-was-replaced-7-teardown-15-assassin-s-creed-black-flag-resynced-45-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Steam+PC+Games+Assassin%27s+Creed+2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Creed sale",
@@ -35762,33 +35457,12 @@
   "hot": false,
   "pct": null,
   "price": 5.0,
-  "found_at": "2026-11-03T01:24:03Z"
- },
- {
-  "id": "4f0a1c4bc4a70083",
-  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
-  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 30.0,
-  "found_at": "2026-11-03T01:24:03Z"
- },
- {
-  "id": "369670327d50bde8",
-  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
-  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 7.19,
-  "found_at": "2026-11-03T01:24:03Z"
+  "found_at": "2026-11-03T01:24:03Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20246022-steam-pc-games-assassin-s-creed-2-5-the-farmer-was-replaced-7-teardown-15-assassin-s-creed-black-flag-resynced-45-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Steam+PC+Games+Assassin%27s+Creed+2",
+  "exact": false
  },
  {
   "id": "ed3a1c88d1a43936",
@@ -35801,12 +35475,15 @@
   "hot": false,
   "pct": null,
   "price": 4.88,
-  "found_at": "2026-11-03T01:24:03Z"
+  "found_at": "2026-11-03T01:24:03Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "6600a9dede2d3157",
   "title": "Intel Core Ultra 7 265K + Gigabyte Z890M Motherboard + Assassin's Creed Shadows Bundle @ Microcenter $409.99",
-  "url": "https://slickdeals.net/f/17914617-intel-core-ultra-7-265k-gigabyte-z890m-motherboard-assassin-s-creed-shadows-bundle-microcenter-409-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Intel+Core+Ultra+7+265K+%2B+Gigabyte+Z890M+Motherboard+%2B+Assassin%27s+Creed+Shadows+",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Creed price drop",
@@ -35814,12 +35491,17 @@
   "hot": false,
   "pct": null,
   "price": 409.99,
-  "found_at": "2026-11-03T01:24:05Z"
+  "found_at": "2026-11-03T01:24:05Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17914617-intel-core-ultra-7-265k-gigabyte-z890m-motherboard-assassin-s-creed-shadows-bundle-microcenter-409-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Intel+Core+Ultra+7+265K+%2B+Gigabyte+Z890M+Motherboard+%2B+Assassin%27s+Creed+Shadows+",
+  "exact": false
  },
  {
   "id": "2bcdce61b2663e27",
   "title": "Creed Aventus Eau de Parfum, 3.3 fl oz $205 + Tax",
-  "url": "https://slickdeals.net/f/17713470-creed-aventus-eau-de-parfum-3-3-fl-oz-205-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Creed+Aventus+Eau+de+Parfum+3.3+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Creed price drop",
@@ -35827,25 +35509,17 @@
   "hot": false,
   "pct": null,
   "price": 205.0,
-  "found_at": "2026-11-03T01:24:05Z"
- },
- {
-  "id": "54c78884a6741a29",
-  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
-  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 49.99,
-  "found_at": "2026-11-03T01:24:05Z"
+  "found_at": "2026-11-03T01:24:05Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17713470-creed-aventus-eau-de-parfum-3-3-fl-oz-205-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Creed+Aventus+Eau+de+Parfum+3.3+fl+oz",
+  "exact": false
  },
  {
   "id": "58f6cb50121af85a",
   "title": "Assassins Creed mythology pack with code HELLO22 price even drops - $27.80",
-  "url": "https://slickdeals.net/f/15506641-assassins-creed-mythology-pack-with-code-hello22-price-even-drops-27-80?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Assassins+Creed+mythology+pack+with+code+HELLO22+price+even+drops+-",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Creed price drop",
@@ -35853,20 +35527,12 @@
   "hot": false,
   "pct": null,
   "price": 27.8,
-  "found_at": "2026-11-03T01:24:05Z"
- },
- {
-  "id": "4316bff61d09c558",
-  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
-  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.49,
-  "found_at": "2026-11-03T01:24:05Z"
+  "found_at": "2026-11-03T01:24:05Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15506641-assassins-creed-mythology-pack-with-code-hello22-price-even-drops-27-80?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Assassins+Creed+mythology+pack+with+code+HELLO22+price+even+drops+-",
+  "exact": false
  },
  {
   "id": "b6fb506f7094ad2d",
@@ -35879,7 +35545,10 @@
   "hot": false,
   "pct": null,
   "price": 265.0,
-  "found_at": "2026-11-03T01:24:06Z"
+  "found_at": "2026-11-03T01:24:06Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "be5951546fc0a91a",
@@ -35892,7 +35561,10 @@
   "hot": false,
   "pct": null,
   "price": 230.0,
-  "found_at": "2026-11-03T01:24:06Z"
+  "found_at": "2026-11-03T01:24:06Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "475b4efaa279a11b",
@@ -35905,12 +35577,15 @@
   "hot": false,
   "pct": null,
   "price": 270.0,
-  "found_at": "2026-11-03T01:24:06Z"
+  "found_at": "2026-11-03T01:24:06Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "2b12174fc6143b8b",
   "title": "Parfums de Marly Layton Eau de Parfum – Parfum for Men – 4.2 Fl $290",
-  "url": "https://slickdeals.net/f/20088618-parfums-de-marly-layton-eau-de-parfum-parfum-for-men-4-2-fl-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Parfums+de+Marly+Layton+Eau+de+Parfum+Parfum+for+Men+4.2+Fl",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Parfums de Marly sale",
@@ -35918,12 +35593,17 @@
   "hot": false,
   "pct": null,
   "price": 290.0,
-  "found_at": "2026-11-03T01:24:06Z"
+  "found_at": "2026-11-03T01:24:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20088618-parfums-de-marly-layton-eau-de-parfum-parfum-for-men-4-2-fl-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Parfums+de+Marly+Layton+Eau+de+Parfum+Parfum+for+Men+4.2+Fl",
+  "exact": false
  },
  {
   "id": "6fd6a227b92a7fda",
   "title": "Parfums de Marly Godolphin Eau De Parfum 4.2 oz $189.99 Woot!",
-  "url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Parfums de Marly sale",
@@ -35931,12 +35611,17 @@
   "hot": false,
   "pct": 48,
   "price": 189.99,
-  "found_at": "2026-11-03T01:24:06Z"
+  "found_at": "2026-11-03T01:24:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
+  "exact": false
  },
  {
   "id": "8a28945e8e93c6ea",
   "title": "Jomashop: 2.5 oz (75 ml) PARFUMS DE MARLY Ladies Delina EDP Spray $195 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+2.5+oz+PARFUMS+DE+MARLY+Ladies+Delina+EDP+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Parfums de Marly sale",
@@ -35944,12 +35629,17 @@
   "hot": false,
   "pct": null,
   "price": 195.0,
-  "found_at": "2026-11-03T01:24:06Z"
+  "found_at": "2026-11-03T01:24:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+2.5+oz+PARFUMS+DE+MARLY+Ladies+Delina+EDP+Spray",
+  "exact": false
  },
  {
   "id": "5b5076bddab70557",
   "title": "2 day Sale: Parfums De Marly Fragrances Sale Event from $96.99+Free Shipping",
-  "url": "https://slickdeals.net/f/16120693-2-day-sale-parfums-de-marly-fragrances-sale-event-from-96-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=2+day+Parfums+De+Marly+Fragrances+Event+from",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Parfums de Marly sale",
@@ -35957,6 +35647,408 @@
   "hot": false,
   "pct": 44,
   "price": 96.99,
-  "found_at": "2026-11-03T01:24:06Z"
+  "found_at": "2026-11-03T01:24:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16120693-2-day-sale-parfums-de-marly-fragrances-sale-event-from-96-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=2+day+Parfums+De+Marly+Fragrances+Event+from",
+  "exact": false
+ },
+ {
+  "id": "887cc93dd86828a5",
+  "title": "Seiko Men's Japanese-Automatic Watch (Model: SARB035) $340",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Japanese-Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Grand Seiko",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 340.0,
+  "found_at": "2026-11-03T01:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14011691-seiko-men-s-japanese-automatic-watch-model-sarb035-340?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Japanese-Automatic+Watch",
+  "exact": false
+ },
+ {
+  "id": "6e975af6e20951ff",
+  "title": "Seiko SARB033 / SARB035 $330 on Amazon (sold by Amazon) + FS",
+  "url": "https://www.amazon.com/s?k=Seiko+SARB033+SARB035",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Grand Seiko",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 330.0,
+  "found_at": "2026-11-03T01:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13788707-seiko-sarb033-sarb035-330-on-amazon-sold-by-amazon-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Seiko+SARB033+SARB035",
+  "exact": false
+ },
+ {
+  "id": "d7e15c988a6eb821",
+  "title": "Men's Automatic Presage Black Leather Strap watch 40.5mm - $270.93 + Free Shipping | (36% off)",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+Automatic+Presage+Black+Leather+Strap+watch+40.5mm+-",
+  "why": "Seiko 36% off",
+  "category": "watches",
+  "source": "Slickdeals: Grand Seiko",
+  "urgent": false,
+  "hot": true,
+  "pct": 36,
+  "price": 270.93,
+  "found_at": "2026-11-03T01:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13479637-men-s-automatic-presage-black-leather-strap-watch-40-5mm-270-93-free-shipping-36-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+Automatic+Presage+Black+Leather+Strap+watch+40.5mm+-",
+  "exact": false
+ },
+ {
+  "id": "720d9463581997d6",
+  "title": "Apple Silicone Case for iPhone 15 Pro Max $5",
+  "url": "https://www.google.com/search?q=site%3Averizon.com+Apple+Silicone+Case+for+iPhone+15+Pro+Max",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 5.0,
+  "found_at": "2026-11-03T01:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247237-apple-silicone-case-for-iphone-15-pro-max-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Averizon.com+Apple+Silicone+Case+for+iPhone+15+Pro+Max",
+  "exact": false
+ },
+ {
+  "id": "a12196eb329ae631",
+  "title": "Costco has Byredo's Gypsy water and Rose of No Man's land on sale $158.99+taxes- Costco",
+  "url": "https://slickdeals.net/f/18945709-costco-has-byredo-s-gypsy-water-and-rose-of-no-man-s-land-on-sale-158-99-taxes-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Byredo sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 158.99,
+  "found_at": "2026-11-03T01:32:44Z"
+ },
+ {
+  "id": "1bc4519eb1d64d87",
+  "title": "Various Byredo Fragrances Eau de Parfum (Mojave Ghost, Blanche etc.) - Sam's Club or Costco $154.99",
+  "url": "https://slickdeals.net/f/18223054-various-byredo-fragrances-eau-de-parfum-mojave-ghost-blanche-etc-sam-s-club-or-costco-154-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Byredo sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 154.99,
+  "found_at": "2026-11-03T01:32:44Z"
+ },
+ {
+  "id": "3c7a900647ab67e0",
+  "title": "This Is My Secret to Saving More Than 35% Off Luxury Perfumes From Gucci, YSL, Byredo, and More - Yahoo",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkxoSW8wTUY0ZHNxcjM4SXJjTEdqcy10S01qZjFQUTloZjFsNHN4LU5HUjhMQmp0aHFCQm4tQXZKMEZhWnNpSmoyZG5wTkRRMjFYLXdlX2Fwd3lwbGJzVzRPT3lSaG81M19GcFRvaFJ2dGRVeENWejFnM2JKeUd0NnpNOGYtWFdzSHQzdHBLRkRkSnFQcGZrWQ?oc=5",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Byredo sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 35,
+  "price": null,
+  "found_at": "2026-11-03T01:32:44Z"
+ },
+ {
+  "id": "aeaa9865d75ca01a",
+  "title": "Maison Francis Kurkdjian Baccarat Rouge 540 Extrait – 3×10ml Travel Sprays (30ml Total) Buy 2 Get 1 Free $149.90 + Free Shipping",
+  "url": "https://slickdeals.net/f/19988589-maison-francis-kurkdjian-baccarat-rouge-540-extrait-3-10ml-travel-sprays-30ml-total-buy-2-get-1-free-149-90-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Maison Francis Kurkdjian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.9,
+  "found_at": "2026-11-03T01:32:46Z"
+ },
+ {
+  "id": "750cc90bfe3dec66",
+  "title": "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum at Nordstrom, Size 6.8 Oz $607.75",
+  "url": "https://slickdeals.net/f/19496601-maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-at-nordstrom-size-6-8-oz-607-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Maison Francis Kurkdjian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 15,
+  "price": 607.75,
+  "found_at": "2026-11-03T01:32:46Z"
+ },
+ {
+  "id": "6be62e53abb8237e",
+  "title": "1.2-Oz Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum $178.50 + Free S/H",
+  "url": "https://slickdeals.net/f/17876880-1-2-oz-maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-178-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Maison Francis Kurkdjian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 178.5,
+  "found_at": "2026-11-03T01:32:46Z"
+ },
+ {
+  "id": "3db18c57470b5a71",
+  "title": "Xerjoff Erba Pura Eau de Parfum, 3.4 fl oz $149.99 Free Shipping Costco.com",
+  "url": "https://slickdeals.net/f/20126556-xerjoff-erba-pura-eau-de-parfum-3-4-fl-oz-149-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Xerjoff sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.99,
+  "found_at": "2026-11-03T01:32:48Z"
+ },
+ {
+  "id": "8749e35f4fff8509",
+  "title": "Xerjoff Naxos Eau de Parfum, 3.4 fl oz $149.99 Free shipping Costco.com",
+  "url": "https://slickdeals.net/f/20125818-xerjoff-naxos-eau-de-parfum-3-4-fl-oz-149-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Xerjoff sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.99,
+  "found_at": "2026-11-03T01:32:48Z"
+ },
+ {
+  "id": "7a53c4eea560b249",
+  "title": "Xerjoff Alexandria II Eau de Parfum, 3.4 fl oz $279.99",
+  "url": "https://slickdeals.net/f/20024484-xerjoff-alexandria-ii-eau-de-parfum-3-4-fl-oz-279-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Xerjoff sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 279.99,
+  "found_at": "2026-11-03T01:32:48Z"
+ },
+ {
+  "id": "95e698da7238afdd",
+  "title": "Xerjoff Erba Pura Eau de Parfum, 3.4 fl oz $149.99",
+  "url": "https://slickdeals.net/f/20024466-xerjoff-erba-pura-eau-de-parfum-3-4-fl-oz-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Xerjoff sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.99,
+  "found_at": "2026-11-03T01:32:48Z"
+ },
+ {
+  "id": "1139f9be57521db8",
+  "title": "Xerjoff Naxos Eau de Parfum, 3.4 fl oz $149.99",
+  "url": "https://slickdeals.net/f/20024451-xerjoff-naxos-eau-de-parfum-3-4-fl-oz-149-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Xerjoff sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.99,
+  "found_at": "2026-11-03T01:32:48Z"
+ },
+ {
+  "id": "5f3e8781a926f85f",
+  "title": "Xerjoff Naxos 3.4oz EDP $175",
+  "url": "https://slickdeals.net/f/19461735-xerjoff-naxos-3-4oz-edp-175?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Xerjoff sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 175.0,
+  "found_at": "2026-11-03T01:32:48Z"
+ },
+ {
+  "id": "4586f8bb9c99fe40",
+  "title": "Ray-Ban RB4395F Kiliane Low Bridge Fit Rectangular Sunglasses 57mm (Havana/Dark Green) $89 & More + Free Shipping",
+  "url": "https://slickdeals.net/f/19356153-ray-ban-rb4395f-kiliane-low-bridge-fit-rectangular-sunglasses-57mm-havana-dark-green-89-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.0,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "75a686965319211e",
+  "title": "Costco: Kilian parfum $100",
+  "url": "https://slickdeals.net/f/17136523-costco-kilian-parfum-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "7dd7e6d2443d3c91",
+  "title": "CostCo Fragrances Sale (Tom Ford, Kilian, Frederic Malle, More) $129.99",
+  "url": "https://slickdeals.net/f/16776560-costco-fragrances-sale-tom-ford-kilian-frederic-malle-more-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 129.99,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "e7e9d0aff6fbc2ce",
+  "title": "Costco Fragrance Sale: Kilian from $99, Replica's from $79, Tom Ford, Buy More/Save More",
+  "url": "https://slickdeals.net/f/16732907-costco-fragrance-sale-kilian-from-99-replica-s-from-79-tom-ford-buy-more-save-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.0,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "ed00c7110378627a",
+  "title": "Kilian Fragrance as low as $168 at Cos Bar Plus an Extra 10% off for New Customers",
+  "url": "https://slickdeals.net/e/14686895-kilian-fragrance-as-low-as-168-at-cos-bar-plus-an-extra-10-off-for-new-customers?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": 168.0,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "23d13c99797bfa67",
+  "title": "Alpine Swiss: Kilian Unisex Mesh Sneakers Starting at $13.99 w/ Code + Free Shipping",
+  "url": "https://slickdeals.net/e/13773533-alpine-swiss-kilian-unisex-mesh-sneakers-starting-at-13-99-w-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 13.99,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "9f1a353038fb5f4c",
+  "title": "Alpine swiss kilian mesh sneakers casual shoes mens & womens lightweight trainer free shipping $15",
+  "url": "https://slickdeals.net/e/13356262-alpine-swiss-kilian-mesh-sneakers-casual-shoes-mens-womens-lightweight-trainer-free-shipping-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.0,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "df277e8c35c36e4e",
+  "title": "eBay: Alpine Swiss Kilian Mesh Sneakers (Various Colors) - $14.99 Plus Free Shipping",
+  "url": "https://slickdeals.net/e/11402675-ebay-alpine-swiss-kilian-mesh-sneakers-various-colors-14-99-plus-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Kilian sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.99,
+  "found_at": "2026-11-03T01:32:50Z"
+ },
+ {
+  "id": "94cd4b59d674694d",
+  "title": "Apple AirPods Pro 3 with 2 years of AppleCare+ and free delivery $199",
+  "url": "https://slickdeals.net/f/20228721-apple-airpods-pro-3-with-2-years-of-applecare-and-free-delivery-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: AirPods Pro deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-11-03T01:32:52Z"
+ },
+ {
+  "id": "77918c98c3f3d60e",
+  "title": "(Good Refurbished) Apple AirPods Pro 3 Wireless Active Noise Canceling Earbuds (MFHP4LL/A) $123.29 + Free Shipping",
+  "url": "https://slickdeals.net/f/20212419-good-refurbished-apple-airpods-pro-3-wireless-active-noise-canceling-earbuds-mfhp4ll-a-123-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: AirPods Pro deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 123.29,
+  "found_at": "2026-11-03T01:32:52Z"
+ },
+ {
+  "id": "e3b09deac49fab26",
+  "title": "Open-Box Excellent: Pelican - Marine Case for Apple Airpods Pro 3rd Generation - Black - $9.99 + FS",
+  "url": "https://slickdeals.net/f/20184717-open-box-excellent-pelican-marine-case-for-apple-airpods-pro-3rd-generation-black-9-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: AirPods Pro deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.99,
+  "found_at": "2026-11-03T01:32:52Z"
+ },
+ {
+  "id": "b17a367dfe8d3c8a",
+  "title": "Apple AirPods Max 2 Wireless Over-Ear Headphones – various colors $449.00",
+  "url": "https://slickdeals.net/f/20218311-apple-airpods-max-2-wireless-over-ear-headphones-various-colors-449-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: AirPods Max deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 449.0,
+  "found_at": "2026-11-03T01:32:55Z"
+ },
+ {
+  "id": "d2f35d2e4dde930c",
+  "title": "$429* | Apple AirPods Max 2 Wireless Over-Ear Headphones at Amazon",
+  "url": "https://slickdeals.net/f/20177145-429-apple-airpods-max-2-wireless-over-ear-headphones-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: AirPods Max deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 429.0,
+  "found_at": "2026-11-03T01:32:55Z"
  }
 ]
