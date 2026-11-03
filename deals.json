@@ -5188,7 +5188,8 @@
   "source_url": "https://slickdeals.net/f/19642005-bulova-two-tone-stainless-steel-quartz-women-s-watch-28mm-169-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Bulova+Two+Tone+Stainless+Steel+Quartz+Women%27s+Watch+28mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T08:40:43Z"
  },
  {
   "id": "4fe2608a2ca916a6",
@@ -5204,7 +5205,8 @@
   "found_at": "2026-11-02T21:39:35Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T08:40:45Z"
  },
  {
   "id": "088cf763b451e3fd",
@@ -5220,7 +5222,8 @@
   "found_at": "2026-11-02T21:39:35Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T08:40:46Z"
  },
  {
   "id": "9a421bf84a3723ee",
@@ -26711,7 +26714,7 @@
  {
   "id": "d6e13eec290bb0db",
   "title": "Apple Silicone Case for iPhone 15 Pro Max $5",
-  "url": "https://www.google.com/search?q=site%3Averizon.com+Apple+Silicone+Case+for+iPhone+15+Pro+Max",
+  "url": "https://slickdeals.net/f/20247237-apple-silicone-case-for-iphone-15-pro-max-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: iPhone deal",
@@ -26723,8 +26726,7 @@
   "source_url": "https://slickdeals.net/f/20247237-apple-silicone-case-for-iphone-15-pro-max-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Averizon.com+Apple+Silicone+Case+for+iPhone+15+Pro+Max",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8ce7695c1147573c",
@@ -26833,7 +26835,7 @@
  {
   "id": "d776c93d2647c74a",
   "title": "Topdon Thermal Imaging Camera TC002C for Android/Iphone (USB type C) $199",
-  "url": "https://www.google.com/search?tbm=shop&q=Topdon+Thermal+Imaging+Camera+TC002C+for+Android+Iphone",
+  "url": "https://slickdeals.net/f/19055371-topdon-thermal-imaging-camera-tc002c-for-android-iphone-usb-type-c-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: iPhone record low",
@@ -26845,8 +26847,7 @@
   "source_url": "https://slickdeals.net/f/19055371-topdon-thermal-imaging-camera-tc002c-for-android-iphone-usb-type-c-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Topdon+Thermal+Imaging+Camera+TC002C+for+Android+Iphone",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "90ccb5cca43dc042",
@@ -26923,7 +26924,7 @@
  {
   "id": "5437aa071b45960d",
   "title": "Caymuller Professional Wireless Lavalier Microphone for iPhone iPad, Mini Lapel Mics Plug-Play 2.4G Ultra-Low Delay Noise Reduction Chip for Video Recording - $10.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Caymuller+Professional+Wireless+Lavalier+Microphone+for+iPhone+iPad+Mini+Lapel+M",
+  "url": "https://slickdeals.net/f/16691792-caymuller-professional-wireless-lavalier-microphone-for-iphone-ipad-mini-lapel-mics-plug-play-2-4g-ultra-low-delay-noise-reduction-chip-for-video-recording-10-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: iPhone record low",
@@ -26935,8 +26936,7 @@
   "source_url": "https://slickdeals.net/f/16691792-caymuller-professional-wireless-lavalier-microphone-for-iphone-ipad-mini-lapel-mics-plug-play-2-4g-ultra-low-delay-noise-reduction-chip-for-video-recording-10-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Caymuller+Professional+Wireless+Lavalier+Microphone+for+iPhone+iPad+Mini+Lapel+M",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "69d8d963dc6dbef2",
@@ -27359,7 +27359,7 @@
  {
   "id": "01760d882a564d09",
   "title": "(NEW) Apple Watch Ultra 2 Smartwatch [GPS + Cellular] $569.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Smartwatch",
+  "url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Apple Watch Ultra deal",
@@ -27371,13 +27371,12 @@
   "source_url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Smartwatch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2301b444fdaaa987",
   "title": "(NEW) Apple Watch Ultra 3 Smartwatch (GPS + Cellular) $649.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+3+Smartwatch",
+  "url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Apple Watch Ultra deal",
@@ -27389,8 +27388,7 @@
   "source_url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+3+Smartwatch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4809bd087017b8b1",
@@ -27431,7 +27429,7 @@
  {
   "id": "58889ee56955a1de",
   "title": "Open Box: Beats by Dre Solo Buds In-Ear Headphones (Matte Black) $24.84 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+by+Dre+Solo+Buds+In-Ear+Headphones",
+  "url": "https://slickdeals.net/f/20190105-open-box-beats-by-dre-solo-buds-in-ear-headphones-matte-black-24-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -27443,13 +27441,12 @@
   "source_url": "https://slickdeals.net/f/20190105-open-box-beats-by-dre-solo-buds-in-ear-headphones-matte-black-24-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+by+Dre+Solo+Buds+In-Ear+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1dc02cabac8ab8bf",
   "title": "Open Box: Beats Studio Pro Wireless Headphones - Matte White - $96 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+Studio+Pro+Wireless+Headphones+-+Matte+White+-",
+  "url": "https://slickdeals.net/f/20161335-open-box-beats-studio-pro-wireless-headphones-matte-white-96-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -27461,13 +27458,12 @@
   "source_url": "https://slickdeals.net/f/20161335-open-box-beats-studio-pro-wireless-headphones-matte-white-96-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+Studio+Pro+Wireless+Headphones+-+Matte+White+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7b4f620d8665ec66",
   "title": "Beats Studio Pro Wireless Headphones - Matte White $119",
-  "url": "https://www.google.com/search?tbm=shop&q=Beats+Studio+Pro+Wireless+Headphones+-+Matte+White",
+  "url": "https://slickdeals.net/f/20143791-beats-studio-pro-wireless-headphones-matte-white-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -27479,13 +27475,12 @@
   "source_url": "https://slickdeals.net/f/20143791-beats-studio-pro-wireless-headphones-matte-white-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+Studio+Pro+Wireless+Headphones+-+Matte+White",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a50c072aba5a4412",
   "title": "Beats Solo 4 Wireless On-Ear Bluetooth Headphones w/ 50-Hour Battery (Matte Black) $99.95 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Wireless+On-Ear+Bluetooth+Headphones+w+50-Hour+Battery",
+  "url": "https://slickdeals.net/f/20140500-beats-solo-4-wireless-on-ear-bluetooth-headphones-w-50-hour-battery-matte-black-99-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Web search: Beats deal",
@@ -27497,8 +27492,7 @@
   "source_url": "https://slickdeals.net/f/20140500-beats-solo-4-wireless-on-ear-bluetooth-headphones-w-50-hour-battery-matte-black-99-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Wireless+On-Ear+Bluetooth+Headphones+w+50-Hour+Battery",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3bb81fb6f03d6097",
@@ -27521,7 +27515,7 @@
  {
   "id": "ef22ae8285eec4ed",
   "title": "Parfums de Marly Godolphin Eau De Parfum 4.2 oz $189.99 Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
+  "url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Eau De Parfum 48% off",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -27533,8 +27527,7 @@
   "source_url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dc9a6c86c40444a2",
@@ -27557,7 +27550,7 @@
  {
   "id": "b330492603134842",
   "title": "Jomashop: 2.5 oz (75 ml) PARFUMS DE MARLY Ladies Delina EDP Spray $195 & More + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+2.5+oz+PARFUMS+DE+MARLY+Ladies+Delina+EDP+Spray",
+  "url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -27569,13 +27562,12 @@
   "source_url": "https://slickdeals.net/f/17104441-jomashop-2-5-oz-75-ml-parfums-de-marly-ladies-delina-edp-spray-195-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+2.5+oz+PARFUMS+DE+MARLY+Ladies+Delina+EDP+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "78da46cff7ae9cba",
   "title": "Jomashop: CITIZEN Quartz Blue Dial Stainless Steel Men's Watch $65 & More + Shipping ($6)",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+CITIZEN+Quartz+Blue+Dial+Stainless+Steel+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/17091859-jomashop-citizen-quartz-blue-dial-stainless-steel-men-s-watch-65-more-shipping-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Parfums De Marly",
@@ -27587,13 +27579,12 @@
   "source_url": "https://slickdeals.net/f/17091859-jomashop-citizen-quartz-blue-dial-stainless-steel-men-s-watch-65-more-shipping-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+CITIZEN+Quartz+Blue+Dial+Stainless+Steel+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3b227c4127a115e1",
   "title": "2 day Sale: Parfums De Marly Fragrances Sale Event from $96.99+Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=2+day+Parfums+De+Marly+Fragrances+Event+from",
+  "url": "https://slickdeals.net/f/16120693-2-day-sale-parfums-de-marly-fragrances-sale-event-from-96-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Fragrance 44% off",
   "category": "fragrance",
   "source": "Slickdeals: Parfums De Marly",
@@ -27605,8 +27596,7 @@
   "source_url": "https://slickdeals.net/f/16120693-2-day-sale-parfums-de-marly-fragrances-sale-event-from-96-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2+day+Parfums+De+Marly+Fragrances+Event+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "55282b26c690541d",
@@ -27787,7 +27777,7 @@
  {
   "id": "e76e618aee3ffaef",
   "title": "JBL Live Buds 3 ANC True Wireless Earbuds w/ Smart Display Charging Case $91.99",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+Live+Buds+3+ANC+True+Wireless+Earbuds+w+Smart+Display+Charging+Case",
+  "url": "https://slickdeals.net/f/20217795-jbl-live-buds-3-anc-true-wireless-earbuds-w-smart-display-charging-case-91-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL deal",
@@ -27799,8 +27789,7 @@
   "source_url": "https://slickdeals.net/f/20217795-jbl-live-buds-3-anc-true-wireless-earbuds-w-smart-display-charging-case-91-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+Live+Buds+3+ANC+True+Wireless+Earbuds+w+Smart+Display+Charging+Case",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9645287fbd1043d5",
@@ -27853,7 +27842,7 @@
  {
   "id": "5d3f3b0e72293cf1",
   "title": "[Certified Open Box | $89.1]JBL 305P MkII 5-inch Powered Studio Monitor Single",
-  "url": "https://www.google.com/search?tbm=shop&q=Certified+Open+Box",
+  "url": "https://slickdeals.net/f/20213259-certified-open-box-89-1-jbl-305p-mkii-5-inch-powered-studio-monitor-single?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: JBL deal",
@@ -27865,8 +27854,7 @@
   "source_url": "https://slickdeals.net/f/20213259-certified-open-box-89-1-jbl-305p-mkii-5-inch-powered-studio-monitor-single?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Open+Box",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e424e5e7d627d970",
@@ -28027,7 +28015,7 @@
  {
   "id": "d2036810ceb52321",
   "title": "JBL 305P MKII Super White 5\" Powered Studio Monitor $89 (Each) FS",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
+  "url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: JBL record low",
@@ -28039,13 +28027,12 @@
   "source_url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "afa09cd57ece6e51",
   "title": "JBL SUB 550PBK $189.95 (back ordered Dec. 14)",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
+  "url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -28057,13 +28044,12 @@
   "source_url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "878820e264ac6595",
   "title": "JBL M-Patch Active-1 - $49.99 +free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
+  "url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -28075,8 +28061,7 @@
   "source_url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c0498ec3d00a60b3",
@@ -28148,7 +28133,7 @@
  {
   "id": "b18c76a129319cf5",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
+  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -28160,13 +28145,12 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e9cddb35fee50f2e",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
+  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -28178,8 +28162,7 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d3f892c1f45ce7d3",
@@ -28250,7 +28233,7 @@
  {
   "id": "b5e88b50288dc778",
   "title": "Bose QuietComfort Ultra Headphones (2nd Gen) - Refurbished $279 Various Colors",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
+  "url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -28262,13 +28245,12 @@
   "source_url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "93ed17e4cecbb765",
   "title": "Comply Premium Memory Foam Replacement Ear Pads for Bose QuietComfort Ultra Gen 1 & 2 Headphones | $4.99 w/ Free Ship from Woot using Prime",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
+  "url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -28280,13 +28262,12 @@
   "source_url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "90ced29374ebd560",
   "title": "Save 60% for 2 Days Only Bose QuietComfort Headphones - Refurbished Black $129 Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
+  "url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -28298,13 +28279,12 @@
   "source_url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2059224dc35a99df",
   "title": "Certified Refurb: Bose QuietComfort Noise Cancelling Headphones $123 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
+  "url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -28316,8 +28296,7 @@
   "source_url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "45a074aeaa06aeff",
@@ -28340,7 +28319,7 @@
  {
   "id": "b4ede2b9121da669",
   "title": "Duratech 1/4\" Drive Ratchet Handle $8.79, Bose QuietComfort Noise Cancelling Headphones $159.20 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Duratech+1+4+Drive+Ratchet+Handle",
+  "url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -28352,8 +28331,7 @@
   "source_url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Duratech+1+4+Drive+Ratchet+Handle",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "da1a598c1fda8cec",
@@ -28410,7 +28388,7 @@
  {
   "id": "1cdc9a5603bdf9f2",
   "title": "Coach Theo Duffle in Signature Jacquard $125.07",
-  "url": "https://www.google.com/search?tbm=shop&q=Coach+Theo+Duffle+in+Signature+Jacquard",
+  "url": "https://slickdeals.net/f/18706951-coach-theo-duffle-in-signature-jacquard-125-07?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Coach Leather",
@@ -28422,13 +28400,12 @@
   "source_url": "https://slickdeals.net/f/18706951-coach-theo-duffle-in-signature-jacquard-125-07?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Coach+Theo+Duffle+in+Signature+Jacquard",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "293171950e0ab035",
   "title": "Coach Outlet has discounted Coach Boutigue bags in glovetanned learher - Swing Zip, Swing Zip 20, Curve Zip, and more starting from $177",
-  "url": "https://www.google.com/search?tbm=shop&q=Coach+Outlet+has+discounted+Coach+Boutigue+bags+in+glovetanned+learher+-+Swing+Z",
+  "url": "https://slickdeals.net/f/18698626-coach-outlet-has-discounted-coach-boutigue-bags-in-glovetanned-learher-swing-zip-swing-zip-20-curve-zip-and-more-starting-from-177?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Coach Leather",
@@ -28440,8 +28417,7 @@
   "source_url": "https://slickdeals.net/f/18698626-coach-outlet-has-discounted-coach-boutigue-bags-in-glovetanned-learher-swing-zip-swing-zip-20-curve-zip-and-more-starting-from-177?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Coach+Outlet+has+discounted+Coach+Boutigue+bags+in+glovetanned+learher+-+Swing+Z",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "14dc5b9818fc6a7f",
@@ -28464,7 +28440,7 @@
  {
   "id": "73f8e16775bf4823",
   "title": "Fragrances Cleanout on Woot 🐒📦 $225 (original price)",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+Cleanout+on+Woot",
+  "url": "https://slickdeals.net/f/18370711-fragrances-cleanout-on-woot-225-original-price?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Coach Leather",
@@ -28476,8 +28452,7 @@
   "source_url": "https://slickdeals.net/f/18370711-fragrances-cleanout-on-woot-225-original-price?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+Cleanout+on+Woot",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a82cda3f9abe52c7",
@@ -28500,7 +28475,7 @@
  {
   "id": "0d4adc4d4cc3305e",
   "title": "Coach Corner Zip Wristlet in Signature Jacquard (Non Leather/ Silver/Olive Drab) $22.44 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Coach+Corner+Zip+Wristlet+in+Signature+Jacquard",
+  "url": "https://slickdeals.net/f/18124702-coach-corner-zip-wristlet-in-signature-jacquard-non-leather-silver-olive-drab-22-44-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Coach Leather",
@@ -28512,13 +28487,12 @@
   "source_url": "https://slickdeals.net/f/18124702-coach-corner-zip-wristlet-in-signature-jacquard-non-leather-silver-olive-drab-22-44-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Coach+Corner+Zip+Wristlet+in+Signature+Jacquard",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8705fdffa2fb9658",
   "title": "Coach Tabby Pebble Leather Shoulder Bag 20 (Aquamarine) $179.99 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Coach+Tabby+Pebble+Leather+Shoulder+Bag+20",
+  "url": "https://slickdeals.net/f/18096673-coach-tabby-pebble-leather-shoulder-bag-20-aquamarine-179-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Coach Leather",
@@ -28530,8 +28504,7 @@
   "source_url": "https://slickdeals.net/f/18096673-coach-tabby-pebble-leather-shoulder-bag-20-aquamarine-179-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Coach+Tabby+Pebble+Leather+Shoulder+Bag+20",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3aed423e360789da",
@@ -28606,7 +28579,7 @@
  {
   "id": "847f823a81230aff",
   "title": "TCL 65\" QM8L Series SQD-Mini LED QLED 144Hz 4K Smart Google TV $1000 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=TCL+65+QM8L+Series+SQD-Mini+LED+QLED+144Hz+4K+Smart+Google+TV",
+  "url": "https://slickdeals.net/f/20231367-tcl-65-qm8l-series-sqd-mini-led-qled-144hz-4k-smart-google-tv-1000-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Best Buy Apple",
@@ -28618,8 +28591,7 @@
   "source_url": "https://slickdeals.net/f/20231367-tcl-65-qm8l-series-sqd-mini-led-qled-144hz-4k-smart-google-tv-1000-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TCL+65+QM8L+Series+SQD-Mini+LED+QLED+144Hz+4K+Smart+Google+TV",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "90fb4ab0e4d71552",
@@ -28906,7 +28878,7 @@
  {
   "id": "bb7a47bdb03cf13e",
   "title": "XBOX Series X: Gaming Console All Digital: 1TB Storage, Wi-Fi 5, USB-C, Includes XBOX Wireless Controller - Robot WhiteXbox Series X Digital $599.99",
-  "url": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
+  "url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -28918,13 +28890,12 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dafa4177b0196ad0",
   "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
+  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -28936,8 +28907,7 @@
   "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dc69877372ee70c5",
@@ -28976,7 +28946,7 @@
  {
   "id": "5643b3a09762b433",
   "title": "Marvel Wolverine Game + Wolverine Limited Edition PS5 DualSense Controller for $142.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
+  "url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DualSense deal",
@@ -28988,8 +28958,7 @@
   "source_url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8b935d5d8c00b91c",
@@ -29061,7 +29030,7 @@
  {
   "id": "208b53c245edc783",
   "title": "Ray-Ban Unisex Sunglasses RB4420 - Black, 65mm. Free Shipping. $79.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Unisex+Sunglasses+RB4420+-+Black+65mm.+.",
+  "url": "https://slickdeals.net/f/19511103-ray-ban-unisex-sunglasses-rb4420-black-65mm-free-shipping-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29073,13 +29042,12 @@
   "source_url": "https://slickdeals.net/f/19511103-ray-ban-unisex-sunglasses-rb4420-black-65mm-free-shipping-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Unisex+Sunglasses+RB4420+-+Black+65mm.+.",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "77a8905da1924c21",
   "title": "Earn $20 Macy’s Star Rewards for every $100 spent - Sonos Products Included",
-  "url": "https://www.google.com/search?tbm=shop&q=Earn",
+  "url": "https://slickdeals.net/f/19475376-earn-20-macy-s-star-rewards-for-every-100-spent-sonos-products-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29091,13 +29059,12 @@
   "source_url": "https://slickdeals.net/f/19475376-earn-20-macy-s-star-rewards-for-every-100-spent-sonos-products-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Earn",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a89841286d173103",
   "title": "Select Ray-Ban Stories Smart Glasses (Wayfarer or Meteor) $199.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Ray-Ban+Stories+Smart+Glasses",
+  "url": "https://slickdeals.net/f/16970803-select-ray-ban-stories-smart-glasses-wayfarer-or-meteor-199-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29109,8 +29076,7 @@
   "source_url": "https://slickdeals.net/f/16970803-select-ray-ban-stories-smart-glasses-wayfarer-or-meteor-199-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Ray-Ban+Stories+Smart+Glasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "cd10797a73381edf",
@@ -29169,7 +29135,7 @@
  {
   "id": "147d53b759b67016",
   "title": "Sunglasses Hut - Up to 50% off - Bright Friday + Discover CB bonus 20% Off Gift Card",
-  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Hut+-+Up+to+50+off+-+Bright+Friday+%2B+Discover+CB+bonus+20+Off+Gift+Ca",
+  "url": "https://slickdeals.net/e/14600414-sunglasses-hut-up-to-50-off-bright-friday-discover-cb-bonus-20-off-gift-card?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29181,13 +29147,12 @@
   "source_url": "https://slickdeals.net/e/14600414-sunglasses-hut-up-to-50-off-bright-friday-discover-cb-bonus-20-off-gift-card?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sunglasses+Hut+-+Up+to+50+off+-+Bright+Friday+%2B+Discover+CB+bonus+20+Off+Gift+Ca",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "bc95a8fd05b9e8b9",
   "title": "Oakley Sunglasses: Women's Reverie $58.80 & More + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Women%27s+Reverie",
+  "url": "https://slickdeals.net/e/14449100-oakley-sunglasses-women-s-reverie-58-80-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29199,13 +29164,12 @@
   "source_url": "https://slickdeals.net/e/14449100-oakley-sunglasses-women-s-reverie-58-80-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Women%27s+Reverie",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fbe89741f176753a",
   "title": "Select Amex cardholders $30 off $150 Sunglass Hut plus 10% cb",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Amex+cardholders",
+  "url": "https://slickdeals.net/e/13983971-select-amex-cardholders-30-off-150-sunglass-hut-plus-10-cb?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29217,13 +29181,12 @@
   "source_url": "https://slickdeals.net/e/13983971-select-amex-cardholders-30-off-150-sunglass-hut-plus-10-cb?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Amex+cardholders",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "74ac39149cd008d4",
   "title": "Ray-Ban Chromance 30 - 50% off",
-  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Chromance+30+-+50+off",
+  "url": "https://slickdeals.net/e/13633411-ray-ban-chromance-30-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Ray-Ban 50% off",
   "category": "fashion",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29235,13 +29198,12 @@
   "source_url": "https://slickdeals.net/e/13633411-ray-ban-chromance-30-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Chromance+30+-+50+off",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "26ae8a1abc52c14f",
   "title": "50% Off the Sunglass Hut Collection + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=50+Off+the+Sunglass+Hut+Collection+%2B",
+  "url": "https://slickdeals.net/e/13193989-50-off-the-sunglass-hut-collection-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Ralph Lauren 50% off",
   "category": "fashion",
   "source": "Slickdeals: Sunglass Hut Sale",
@@ -29253,13 +29215,12 @@
   "source_url": "https://slickdeals.net/e/13193989-50-off-the-sunglass-hut-collection-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=50+Off+the+Sunglass+Hut+Collection+%2B",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c1e8e4a93d69eabb",
   "title": "The Garmin vívoactive 6 has dropped to a record-low price — save $70 for a limited time - Mashable",
-  "url": "https://www.google.com/search?tbm=shop&q=The+Garmin+v+voactive+6+has+dropped+to+a+record-low+price+save",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1eGNNYmQ4LTNKNzA4RzBRZXVObjdxMndzSV83NnpuNmNMZ3VtSDJFSUZ2TGoweDduSlJDdjM5SVBaRG9CNXU0dENCN2ZkQnR1ekxRb2dFMURVOVFTNklCMmYySWhzUFlmLXc?oc=5",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -29271,13 +29232,12 @@
   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1eGNNYmQ4LTNKNzA4RzBRZXVObjdxMndzSV83NnpuNmNMZ3VtSDJFSUZ2TGoweDduSlJDdjM5SVBaRG9CNXU0dENCN2ZkQnR1ekxRb2dFMURVOVFTNklCMmYySWhzUFlmLXc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=The+Garmin+v+voactive+6+has+dropped+to+a+record-low+price+save",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4c9fb8bc47301e42",
   "title": "DJI Avata 360 8K Camera Drone with Dual Shooting Modes $519 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Avata+360+8K+Camera+Drone+with+Dual+Shooting+Modes",
+  "url": "https://slickdeals.net/f/20238324-dji-avata-360-8k-camera-drone-with-dual-shooting-modes-519-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -29289,13 +29249,12 @@
   "source_url": "https://slickdeals.net/f/20238324-dji-avata-360-8k-camera-drone-with-dual-shooting-modes-519-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Avata+360+8K+Camera+Drone+with+Dual+Shooting+Modes",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8ab4252a7030ac1c",
   "title": "Gucci, Saint Laurent slashed in 70% off sale - News.com.au",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "why": "Gucci 70% off",
   "category": "fashion",
   "source": "Google: Gucci sale",
@@ -29307,8 +29266,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2699e82ce2a0099b",
@@ -29471,7 +29429,7 @@
  {
   "id": "8a8dcab629f1833c",
   "title": "1.7-Oz Victoria's Secret Eau de Parfum (Very Sexy Scarlet) $18.88 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=1.7-Oz+Victoria%27s+Secret+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/20199183-1-7-oz-victoria-s-secret-eau-de-parfum-very-sexy-scarlet-18-88-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -29483,13 +29441,12 @@
   "source_url": "https://slickdeals.net/f/20199183-1-7-oz-victoria-s-secret-eau-de-parfum-very-sexy-scarlet-18-88-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=1.7-Oz+Victoria%27s+Secret+Eau+de+Parfum",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c39a4e1228bc4be6",
   "title": "Harry's Men's Cologne Collection- Kin, Moonrise, Cowboy Classic- Eau de Parfum Quality $80.85",
-  "url": "https://www.google.com/search?tbm=shop&q=Harry%27s+Men%27s+Cologne+Collection-+Kin+Moonrise+Cowboy+Classic-+Eau+de+Parfum+Qua",
+  "url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: cologne",
@@ -29501,8 +29458,7 @@
   "source_url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Harry%27s+Men%27s+Cologne+Collection-+Kin+Moonrise+Cowboy+Classic-+Eau+de+Parfum+Qua",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "baa89341839ef173",
@@ -29579,7 +29535,7 @@
  {
   "id": "1ddd3a1c8067a937",
   "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
+  "url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Gucci 90% off",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -29591,13 +29547,12 @@
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6638ba7f7146b824",
   "title": "Jomashop Men's & Women's Designer Shoes: Reebok LTD Club C Low-Top Sneakers (Limted Sizes) $52.01 & More + Free S/H on $100+",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Men%27s+%26+Women%27s+Designer+Shoes+Reebok+LTD+Club+C+Low-Top+Sneakers",
+  "url": "https://slickdeals.net/f/18399106-jomashop-men-s-women-s-designer-shoes-reebok-ltd-club-c-low-top-sneakers-limted-sizes-52-01-more-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29609,13 +29564,12 @@
   "source_url": "https://slickdeals.net/f/18399106-jomashop-men-s-women-s-designer-shoes-reebok-ltd-club-c-low-top-sneakers-limted-sizes-52-01-more-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Men%27s+%26+Women%27s+Designer+Shoes+Reebok+LTD+Club+C+Low-Top+Sneakers",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8fb14a1cb2933f9c",
   "title": "3.4-Oz Signorina Libera by Salvatore Ferragamo EDP Perfume Spray for Women $32.99 + Free Shipping w/ Prime or on $35+ $37.99",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Signorina+Libera+by+Salvatore+Ferragamo+EDP+Perfume+Spray+for+Women",
+  "url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29627,13 +29581,12 @@
   "source_url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Signorina+Libera+by+Salvatore+Ferragamo+EDP+Perfume+Spray+for+Women",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f6440df2b6c08101",
   "title": "3.4-Oz Salvatore Ferragamo Men's F Free Time EDT Cologne Spray $12.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Men%27s+F+Free+Time+EDT+Cologne+Spray",
+  "url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -29645,13 +29598,12 @@
   "source_url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Men%27s+F+Free+Time+EDT+Cologne+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "edc3011663f51a63",
   "title": "Salvatore Ferragamo Free Time Eau De Toilette Spray for Men, 3.4 Ounce $14",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Free+Time+Eau+De+Toilette+Spray+for+Men+3.4+Ounce",
+  "url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -29663,13 +29615,12 @@
   "source_url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Free+Time+Eau+De+Toilette+Spray+for+Men+3.4+Ounce",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "854dfd96d063898d",
   "title": "Salvatore Ferragamo Ladies' Amo Ferragamo Skin Care Gift Set w/ 1.7-Oz EDP Spray & 3.4-Oz Body Lotion $34.99 + Free S/H on $100+",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
+  "url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29681,13 +29632,12 @@
   "source_url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "77c2f0e8becb2989",
   "title": "Ferragamo Low Sneaker With Signature In - $100000",
-  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
+  "url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29699,13 +29649,12 @@
   "source_url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1c3b79ff43976081",
   "title": "3.4-Oz Salvatore Ferragamo Women's Amo Ferragamo Eau de Parfum Spray $36.20 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
+  "url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -29717,13 +29666,12 @@
   "source_url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a1d1410d184ff04c",
   "title": "Women's Sunglasses: Kate Spade Polarized Grey Cat Eye Sunglasses $32.60, Ray-Ban Erika Classic Polarized Green Classic $80 + $6 Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Women%27s+Sunglasses+Kate+Spade+Polarized+Grey+Cat+Eye+Sunglasses",
+  "url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29735,8 +29683,7 @@
   "source_url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Women%27s+Sunglasses+Kate+Spade+Polarized+Grey+Cat+Eye+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1e8aa06c202d9b4f",
@@ -29759,7 +29706,7 @@
  {
   "id": "ffab4081c58a75f4",
   "title": "Jomashop - Oakley & RayBan Sunglasses from $51 & More + $5.99 Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+-+Oakley+%26+RayBan+Sunglasses+from",
+  "url": "https://slickdeals.net/f/17248708-jomashop-oakley-rayban-sunglasses-from-51-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29771,13 +29718,12 @@
   "source_url": "https://slickdeals.net/f/17248708-jomashop-oakley-rayban-sunglasses-from-51-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+-+Oakley+%26+RayBan+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0694eb59fa695391",
   "title": "FERRAGAMO Urban Men's Watch $247.49 with coupon \"CPFERRA10\" code + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Urban+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -29789,13 +29735,12 @@
   "source_url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Urban+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "adeda4a2a81f63cc",
   "title": "Ferragamo FF Men's Watch - $216 (Silicone Strap) & $279 (Stainless Steel Strap) + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+FF+Men%27s+Watch+-",
+  "url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -29807,13 +29752,12 @@
   "source_url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+FF+Men%27s+Watch+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "78ce19b86061f7b2",
   "title": "FERRAGAMO Gancini Men's Watch for $219.99 with code \"LUCKY12\" + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Gancini+Men%27s+Watch+for",
+  "url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -29825,13 +29769,12 @@
   "source_url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Gancini+Men%27s+Watch+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "132d82e9c11b7010",
   "title": "FERRAGAMO Racing Men's Watch extra 10% OFF with CODE LUCKY10 $319.49 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
+  "url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ferragamo",
@@ -29843,13 +29786,12 @@
   "source_url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "eee3b8a8ce972fbd",
   "title": "Jomashop Designer Sunglasses Sale: Salavtore Ferragamo Green Square $51, Ray-Ban Clubmaster Classic $77, Oakley Plazma Prizm Grey Sport & More + Free Shipping on Orders $100+",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
+  "url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Ferragamo",
@@ -29861,13 +29803,12 @@
   "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1b343e3bd818b3e4",
   "title": "DSW: 20% off qualifying purchase with code SLICK20OFF",
-  "url": "https://www.google.com/search?tbm=shop&q=DSW+20+off+qualifying+purchase+with+code+SLICK20OFF",
+  "url": "https://slickdeals.net/f/16472683-dsw-20-off-qualifying-purchase-with-code-slick20off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29879,13 +29820,12 @@
   "source_url": "https://slickdeals.net/f/16472683-dsw-20-off-qualifying-purchase-with-code-slick20off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DSW+20+off+qualifying+purchase+with+code+SLICK20OFF",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "56ad736edf2b70e1",
   "title": "Salvatore Ferragamo Double-Bridge Aviator - $62 - $370",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
+  "url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29897,13 +29837,12 @@
   "source_url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2f1d42a88e72d5ed",
   "title": "Salvatore Ferragamo Gancini Bit Leather Driver Moccasins - $225 - $225",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
+  "url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ferragamo",
@@ -29915,8 +29854,7 @@
   "source_url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "bc5e5807568e8654",
@@ -29939,7 +29877,7 @@
  {
   "id": "457fa467bbbc5b94",
   "title": "Gucci, Saint Laurent slashed in 70% off sale - News.com.au",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelp6SFk1U3hObnBSR0g4VFVWTVdPWUpKOFBSS3BRekN4NGdXRkd0VlJNbWxNNXNvR1RaYWIya0FiOTNnQ3VjN1NnZThHdnNwWEhrclZNMHByQlNmYnItUEZvUFNRRWhrSER0R3ppUEVocEJPQlcydGZsa2s4cmEwa1JqRE1QYkU3TnlTSU9MODUxZnEyX0xMeml5RjlHMVVBZVlsR2hieU5icVgtYXVqb1l2ajd2Vm9CMDI3QmFrQm5Bb1cxcGpTRGxsR2s2M19yV3dhTGF6b0pYZkx0anU3THlR?oc=5",
   "why": "Gucci 70% off",
   "category": "fashion",
   "source": "Google: Gucci sale",
@@ -29951,8 +29889,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelp6SFk1U3hObnBSR0g4VFVWTVdPWUpKOFBSS3BRekN4NGdXRkd0VlJNbWxNNXNvR1RaYWIya0FiOTNnQ3VjN1NnZThHdnNwWEhrclZNMHByQlNmYnItUEZvUFNRRWhrSER0R3ppUEVocEJPQlcydGZsa2s4cmEwa1JqRE1QYkU3TnlTSU9MODUxZnEyX0xMeml5RjlHMVVBZVlsR2hieU5icVgtYXVqb1l2ajd2Vm9CMDI3QmFrQm5Bb1cxcGpTRGxsR2s2M19yV3dhTGF6b0pYZkx0anU3THlR?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "245c7249709a5fb2",
@@ -30026,7 +29963,7 @@
  {
   "id": "ff3d1fe6cd0b300f",
   "title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
+  "url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -30038,8 +29975,7 @@
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "74b2008d9f2b632c",
@@ -30114,7 +30050,7 @@
  {
   "id": "4320ac292dfd9260",
   "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $86.50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Prada",
@@ -30126,8 +30062,7 @@
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a7e1813e585eee24",
@@ -30150,7 +30085,7 @@
  {
   "id": "64e101c27ed75b40",
   "title": "Costa Del Mar Sunglasses Sale - Men's and Women's - Up to 64% off",
-  "url": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
+  "url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Prada",
@@ -30162,8 +30097,7 @@
   "source_url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9c5be835912e7f38",
@@ -30222,7 +30156,7 @@
  {
   "id": "c0aaf6afb94be9ed",
   "title": "TISSOT PR 100 Quartz Men's Watch $232",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+TISSOT+PR+100+Quartz+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals Popular",
@@ -30234,8 +30168,7 @@
   "source_url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+TISSOT+PR+100+Quartz+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fc40d5dcc4ee9ca6",
@@ -30276,7 +30209,7 @@
  {
   "id": "9e1066323306ccd0",
   "title": "Steam PC Games: Assassin's Creed 2 $5; The Farmer Was Replaced $7; Teardown $15; Assassin's Creed Black Flag Resynced $45 & More",
-  "url": "https://www.google.com/search?tbm=shop&q=Steam+PC+Games+Assassin%27s+Creed+2",
+  "url": "https://slickdeals.net/f/20246022-steam-pc-games-assassin-s-creed-2-5-the-farmer-was-replaced-7-teardown-15-assassin-s-creed-black-flag-resynced-45-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals Popular",
@@ -30288,8 +30221,7 @@
   "source_url": "https://slickdeals.net/f/20246022-steam-pc-games-assassin-s-creed-2-5-the-farmer-was-replaced-7-teardown-15-assassin-s-creed-black-flag-resynced-45-more?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Steam+PC+Games+Assassin%27s+Creed+2",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c28890b9243354dc",
@@ -30400,7 +30332,7 @@
  {
   "id": "9d41f834d70da26e",
   "title": "Palm Beach plane crash today: Learjet 60 crash in Florida causes massive fireball; all 9 people on Bahamas-bound jet dead - ABC7 New York",
-  "url": "https://www.google.com/travel/flights?q=Flights%20Palm%20Beach%20plane%20crash%20today%3A%20Learjet%2060%20crash%20in%20Florida%20causes%20massive%20fireball%3B%20all%209%20people%20on%20Bahamas-bound%20jet%20dead%20-%20ABC7%20New%20York",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLVh1Rjd2N2dETGNMdEtnaVVZSHlXS0tONkFrTjJvU3kxMm1JYll2bW9aWE5md3BXSEFqNEhNcXBtM1FCZVM4UnNrM1FpOERGa3RaeGdVR3VBblpWcXFwY0NtQm5WNlE3bFF4UGU3WDlKZmV0U2lFZjczN0ZmSk1FQ2pUdF9NZVVGakJnQnFuSTBfVjVmY2NmVGhKSldBSk4wYUhpMXNyaWNZRFAxekwyVENJd0xsdDJrbTltaTdvMkxuRjRQS0I0eFJSaFIzRkpyU2l3U25nRdIB3AFBVV95cUxNdENiaFgxU1Q3LVpxVFlNOWp6ZzBobzNoRDlFZEFUMnMwVE5XdkVDR2w5T1pnLUFVWlFycm5vYU9nX1V2a3VGWUxrOFJjc19SdGYzRGd4ZklpUWtPZEQyMnFibVUtX2F1Rk8xM2cySU5zVFlaQjVCVmtWY0tkSTU0Z0pPa3AwMjcybDIzSEhMOWlEQ2RvT0J2UGFCVHN0LTUyb25YSlhjVS1RTnlMeUZEMDAycnQ0MEhTdzFvYWU5Rm5ZbDV1NnpUX3pmMU9oRERKRkVfUnhteWRCbGt1?oc=5",
   "why": "🌴 NEW YORK → Bahamas",
   "category": "flights",
   "source": "Google: NYC Caribbean flights",
@@ -30413,13 +30345,12 @@
   "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLVh1Rjd2N2dETGNMdEtnaVVZSHlXS0tONkFrTjJvU3kxMm1JYll2bW9aWE5md3BXSEFqNEhNcXBtM1FCZVM4UnNrM1FpOERGa3RaeGdVR3VBblpWcXFwY0NtQm5WNlE3bFF4UGU3WDlKZmV0U2lFZjczN0ZmSk1FQ2pUdF9NZVVGakJnQnFuSTBfVjVmY2NmVGhKSldBSk4wYUhpMXNyaWNZRFAxekwyVENJd0xsdDJrbTltaTdvMkxuRjRQS0I0eFJSaFIzRkpyU2l3U25nRdIB3AFBVV95cUxNdENiaFgxU1Q3LVpxVFlNOWp6ZzBobzNoRDlFZEFUMnMwVE5XdkVDR2w5T1pnLUFVWlFycm5vYU9nX1V2a3VGWUxrOFJjc19SdGYzRGd4ZklpUWtPZEQyMnFibVUtX2F1Rk8xM2cySU5zVFlaQjVCVmtWY0tkSTU0Z0pPa3AwMjcybDIzSEhMOWlEQ2RvT0J2UGFCVHN0LTUyb25YSlhjVS1RTnlMeUZEMDAycnQ0MEhTdzFvYWU5Rm5ZbDV1NnpUX3pmMU9oRERKRkVfUnhteWRCbGt1?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Palm%20Beach%20plane%20crash%20today%3A%20Learjet%2060%20crash%20in%20Florida%20causes%20massive%20fireball%3B%20all%209%20people%20on%20Bahamas-bound%20jet%20dead%20-%20ABC7%20New%20York",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "ecd553f2e9ec27ab",
   "title": "jetBlue: New York – Punta Cana, Dominican Republic. $324 (Basic Economy) / $394 (Regular Economy). Roundtrip, including all Taxes – The Flight Deal - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA1BVShoaEgoyMDI2LTEyLTEzagUSA1BVSnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWlJPOVoydEFNdGp6MkdMMktJRzd2U2JHWXdtT2U2OS1KekswZG1qeUIwc2hKTGh0ajdQSDhaTE12X0RTMFlwaWFhWWw5YnVjbVlTTnlWMDhkTWx1Y2ZoTXBXdDVINlA5ank5dTVGUlVkR2xORmpqMHZQRmhqa1RMb0pMZks3MnhOQ3A4ZHJMaVlOVFUtaEJTSUloWXNCcnNSdXpJR0lKZ2ZIOUZTOWFNMU9IRm5UNnY3TnhfYlE5UHEyY1d6VGIzd0I5OE4tUzg2WnAtNmhYemx6SFdVTGNWV3RXWTJ5VmV4RUkwd1Bfcw?oc=5",
   "why": "🌴 NEW YORK → Punta Cana",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -30439,13 +30370,12 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20PUJ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "abcfa478505f114f",
   "title": "All Nippon Airways: New York – Okinawa, Japan. $845. Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Okinawa%2C%20Japan%20on%202026-12-08%20through%202026-12-13&hl=en&gl=us&curr=USD",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcy05ZXAwbVAwN21xWkdYd1EzWHVBWjRQYXV0QzU0ZG1zQUZtVENtRVJMbGlYODU1N08zSHM4MGlBTjVIMUk1b1BlSHlSWWJFeGhQeUpENmVBdEktbHpYMW9KTVE0YnRSalFsSTNiOHF4MmhobU1RRTltMG9SUk1EX2VPLUJHLTV3VmVnbDBaWWd2TFlGWWFOVTRHM09wUXBJQkozTVViZUJvZHVUQjZ5QWYtWDkxNHB4?oc=5",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -30465,13 +30395,12 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Okinawa%2C%20Japan&hl=en&gl=us&curr=USD",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "85daa7cc229fc9dd",
   "title": "United: Newark – Los Angeles (and vice versa). $257 (Basic Economy) / $387 (Regular Economy). Roundtrip, including all Taxes – The Flight Deal - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDRVdScgUSA0xBWBoaEgoyMDI2LTEyLTEzagUSA0xBWHIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmxvdzRXMmE5V1F0N1h2QkJOVFRLeGFxekZqQjh6VGhadXdialhpVnVYRElVUU84MGxYMy1HUXFLOFZFUXk5M3J1a1dnaVFqaWhQLXlWRDZiQ1FYV1NsN1d3T1MzWmdYOFdId3hadnlXS0FjdWM5aHNVdXdMRXNzUGsxdHdxRWFxbDNsbGxUc3dQLUlzczctaUZEcjVjR1J1ZFZTQlk5aUlLTE8wVW16NXZQZ2xmUWVNQjZDOVdLNW9CVk1FbF9DM2VJbkdNYU1DNjNybzVSSXd1WXpieGVWQXhRN1M?oc=5",
   "why": "$257 from NEWARK",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -30491,13 +30420,12 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20LAX&hl=en&gl=us&curr=USD",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "8e355e6ee32a5afa",
   "title": "jetBlue: New York – Aruba. $211 (Basic Economy) / $279 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA0FVQRoaEgoyMDI2LTEyLTEzagUSA0FVQXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT1dLc0k5TU5zUklXaUtPbkdGUmRjNW9FV05GN1V3UkRuQjV1ZXNTci1hSml6MDlla2c3QW5SWU5VbEtGRjM3OThwelBxV0hXQVpaYTJ3TUhuNWd3VFI0bUY0NVIteWJEcFFyRjQyTHExRTFKVVllYWllemhJZHY2WW15Zl9Qbm5QZjRISkl1c1JfMTdNbG51TkdWeERQUV83bXFCRDR0LXBybGhIZlBoeVJEZ2tjMllQRXdjRHNrU0lWVEJDMmR3aTdJRFc?oc=5",
   "why": "🌴 NEW YORK → Aruba",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -30517,13 +30445,12 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "29bf9833cc6cb6dc",
   "title": "American: Phoenix – Buffalo, New York (and vice versa). $186 (Basic Economy) / $306 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights?q=Flights%20American%3A%20Phoenix%20%E2%80%93%20Buffalo%2C%20New%20York%20%28and%20vice%20versa%29.",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdk1zY1Rlc0Y0azVkZVpRbV9NUHRsVmJvNXl4ZlQ2V214eEFlYjNDTTloOEhoZXFmR0VBWDI1Y21hckp1aDZzYXljOG82bnowS1VLUXJoQzBTS3hPRVdmYm9EWDJjUjlYVk4zdjhKRjZZbks1NVp6YUxvWGM2SnI5bExLS2IzRU5VNTFXeVpJcUZ0YThOR2NpbVJlbXZtWEVkMVJLU0FOR2NoemwwdGhfZTQzendVZnBHMkxQbTNCbEhwTFZiQzFoREYxaE5DTFNGNHliVWlsRUJfWUZXek1lQk9YNnVfY09DZzd6WXZGYw?oc=5",
   "why": "$186 from NEW YORK",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -30536,13 +30463,12 @@
   "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdk1zY1Rlc0Y0azVkZVpRbV9NUHRsVmJvNXl4ZlQ2V214eEFlYjNDTTloOEhoZXFmR0VBWDI1Y21hckp1aDZzYXljOG82bnowS1VLUXJoQzBTS3hPRVdmYm9EWDJjUjlYVk4zdjhKRjZZbks1NVp6YUxvWGM2SnI5bExLS2IzRU5VNTFXeVpJcUZ0YThOR2NpbVJlbXZtWEVkMVJLU0FOR2NoemwwdGhfZTQzendVZnBHMkxQbTNCbEhwTFZiQzFoREYxaE5DTFNGNHliVWlsRUJfWUZXek1lQk9YNnVfY09DZzd6WXZGYw?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20American%3A%20Phoenix%20%E2%80%93%20Buffalo%2C%20New%20York%20%28and%20vice%20versa%29.",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "363eb23e1d7d37c1",
   "title": "United: Newark – Santo Domingo, Dominican Republic. $311 (Basic Economy) / $371 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDRVdScgUSA1NEURoaEgoyMDI2LTEyLTEzagUSA1NEUXIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2w2VFZSd0dDN3JEY1Q0clNUYUhRV3h0ZU1VSE1FOFNFMjJFVVhzcVJKUHFUdEczekF2NzZFQjBfSU1RRDV5aTlTVENPOU9Yb1d3YU82WjZfc19TYURsWnpfeGM2SnU5bmJvaGRqbzE5QnNzaS1xTDY1aEgtUTB5c2dPZy1iajVwSFFkZ2toZnVwTE1XMHNtVWVDSlVfaEVQUDJ5MzZOT1daaFdFUWdFSW1oRHBiQ1I0QXhKeUxjNlFBMk5uaS1oREZ4NDJOdENqSExzclVvcVFMekRyeFJhM1dTUWVfWVJ5VE5HVQ?oc=5",
   "why": "🌴 NEWARK → Santo Domingo",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -30562,13 +30488,12 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20SDQ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "465d7aeaa2175403",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: flights",
@@ -30588,13 +30513,12 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
  },
  {
   "id": "5b3df7eaa4879efd",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: airfare",
@@ -30614,13 +30538,12 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
  },
  {
   "id": "f8754e3f8baaa9f0",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -30640,13 +30563,12 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
  },
  {
   "id": "8fd63b50b1674359",
   "title": "Round Trip New York to Aruba $351 Nonstop Airfares on JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA0FVQRoaEgoyMDI2LTExLTE0agUSA0FVQXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -30666,13 +30588,12 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
  },
  {
   "id": "b8bca1f319b4aa4a",
   "title": "Refurb: DJI Osmo Action 5 Pro 4K Action Camera $193.30 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Action+5+Pro+4K+Action+Camera",
+  "url": "https://slickdeals.net/f/20238243-refurb-dji-osmo-action-5-pro-camer-191-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -30684,8 +30605,7 @@
   "source_url": "https://slickdeals.net/f/20238243-refurb-dji-osmo-action-5-pro-camer-191-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Action+5+Pro+4K+Action+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "973815605fc34f23",
@@ -30744,7 +30664,7 @@
  {
   "id": "5363dbf2de9640a2",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
+  "url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dyson",
@@ -30756,13 +30676,12 @@
   "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1ca070161a7a59f5",
   "title": "Gucci, Saint Laurent slashed in 70% off sale - News.com.au",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "why": "Gucci 70% off",
   "category": "fashion",
   "source": "Google: luxury sale",
@@ -30774,13 +30693,12 @@
   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ee67a75518f7e6a6",
   "title": "Gucci, Saint Laurent slashed in 70% off sale - News.com.au",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "why": "Gucci 70% off",
   "category": "fashion",
   "source": "Google: sunglasses sale",
@@ -30792,8 +30710,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "33d130efdd474cb0",
@@ -31266,7 +31183,7 @@
  {
   "id": "3c7d19433881c165",
   "title": "Sonos ONE G2 Wireless Smart Speaker with Voice Control (White) $149.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+ONE+G2+Wireless+Smart+Speaker+with+Voice+Control",
+  "url": "https://slickdeals.net/f/20169270-sonos-one-g2-wireless-smart-speaker-with-voice-control-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31278,13 +31195,12 @@
   "source_url": "https://slickdeals.net/f/20169270-sonos-one-g2-wireless-smart-speaker-with-voice-control-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+ONE+G2+Wireless+Smart+Speaker+with+Voice+Control",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4f6d65cf5d3f993d",
   "title": "Sonos Era 100 SL Wi-Fi & Bluetooth Wireless Speaker (Black or White) $149.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Era+100+SL+Wi-Fi+%26+Bluetooth+Wireless+Speaker",
+  "url": "https://slickdeals.net/f/20145576-sonos-era-100-sl-wi-fi-bluetooth-wireless-speaker-black-or-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31296,13 +31212,12 @@
   "source_url": "https://slickdeals.net/f/20145576-sonos-era-100-sl-wi-fi-bluetooth-wireless-speaker-black-or-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Era+100+SL+Wi-Fi+%26+Bluetooth+Wireless+Speaker",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "58a69d44d361a1f4",
   "title": "Sonos Sub Mini - Black - Compact Wireless Subwoofer $399.00",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+Black+-+Compact+Wireless+Subwoofer",
+  "url": "https://slickdeals.net/f/20138610-sonos-sub-mini-black-compact-wireless-subwoofer-399-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31314,8 +31229,7 @@
   "source_url": "https://slickdeals.net/f/20138610-sonos-sub-mini-black-compact-wireless-subwoofer-399-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+Black+-+Compact+Wireless+Subwoofer",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "544a8fbdd6528600",
@@ -31448,7 +31362,7 @@
  {
   "id": "306ee420bb34d0f6",
   "title": "Sonos Ultimate Immersive Set with Arc Ultra $2,446 $2446",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Ultimate+Immersive+Set+with+Arc+Ultra",
+  "url": "https://slickdeals.net/f/20102760-sonos-ultimate-immersive-set-with-arc-ultra-2-446-2446?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31460,13 +31374,12 @@
   "source_url": "https://slickdeals.net/f/20102760-sonos-ultimate-immersive-set-with-arc-ultra-2-446-2446?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Ultimate+Immersive+Set+with+Arc+Ultra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "91b2b15c1245d280",
   "title": "Sonos Sub Mini - White - Compact Wireless Subwoofer $399",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+White+-+Compact+Wireless+Subwoofer",
+  "url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31478,13 +31391,12 @@
   "source_url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+White+-+Compact+Wireless+Subwoofer",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "69e97d9438ac05bc",
   "title": "resale Sonos Era 300 Wireless Smart Speaker with Dolby Atmos - White $244.92",
-  "url": "https://www.google.com/search?tbm=shop&q=resale+Sonos+Era+300+Wireless+Smart+Speaker+with+Dolby+Atmos+-+White",
+  "url": "https://slickdeals.net/f/19991547-resale-sonos-era-300-wireless-smart-speaker-with-dolby-atmos-white-244-92?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31496,13 +31408,12 @@
   "source_url": "https://slickdeals.net/f/19991547-resale-sonos-era-300-wireless-smart-speaker-with-dolby-atmos-white-244-92?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=resale+Sonos+Era+300+Wireless+Smart+Speaker+with+Dolby+Atmos+-+White",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "67ab271e577deb41",
   "title": "[Resale] Sonos Era 100 SL ($92) or Era 100 ($109) White",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Era+100+SL",
+  "url": "https://slickdeals.net/f/19989513-resale-sonos-era-100-sl-92-or-era-100-109-white?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31514,13 +31425,12 @@
   "source_url": "https://slickdeals.net/f/19989513-resale-sonos-era-100-sl-92-or-era-100-109-white?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Era+100+SL",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "be88995812bc2822",
   "title": "Sonos Arc Ultra Soundbar + SUB 4 Subwoofer (2 colors) $1398 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Arc+Ultra+Soundbar+%2B+SUB+4+Subwoofer",
+  "url": "https://slickdeals.net/f/19973247-sonos-arc-ultra-soundbar-sub-4-subwoofer-2-colors-1398-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31532,13 +31442,12 @@
   "source_url": "https://slickdeals.net/f/19973247-sonos-arc-ultra-soundbar-sub-4-subwoofer-2-colors-1398-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Arc+Ultra+Soundbar+%2B+SUB+4+Subwoofer",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ca12593bca2ba180",
   "title": "2-Count Sonos Five: Wireless Speakers (Black or White) $799 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=2-Count+Sonos+Five+Wireless+Speakers",
+  "url": "https://slickdeals.net/f/19973244-2-count-sonos-five-wireless-speakers-black-or-white-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31550,8 +31459,7 @@
   "source_url": "https://slickdeals.net/f/19973244-2-count-sonos-five-wireless-speakers-black-or-white-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2-Count+Sonos+Five+Wireless+Speakers",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9079348ae72a1093",
@@ -31574,7 +31482,7 @@
  {
   "id": "e6a71fdfb02a4d74",
   "title": "Sonos Beam Gen 2 - Black - Soundbar with Dolby - 399 $399",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Beam+Gen+2+-+Black+-+Soundbar+with+Dolby+-+399",
+  "url": "https://slickdeals.net/f/19946529-sonos-beam-gen-2-black-soundbar-with-dolby-399-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31586,13 +31494,12 @@
   "source_url": "https://slickdeals.net/f/19946529-sonos-beam-gen-2-black-soundbar-with-dolby-399-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Beam+Gen+2+-+Black+-+Soundbar+with+Dolby+-+399",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0907cbb2e0ff36f8",
   "title": "Sonos: Arc Ultra Soundbar + Sub 4 + 2x Era 100 BT Speakers (Black or White) $1649",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Arc+Ultra+Soundbar+%2B+Sub+4+%2B+2x+Era+100+BT+Speakers",
+  "url": "https://slickdeals.net/f/19939884-sonos-arc-ultra-soundbar-sub-4-2x-era-100-bt-speakers-black-or-white-1649?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -31604,13 +31511,12 @@
   "source_url": "https://slickdeals.net/f/19939884-sonos-arc-ultra-soundbar-sub-4-2x-era-100-bt-speakers-black-or-white-1649?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Arc+Ultra+Soundbar+%2B+Sub+4+%2B+2x+Era+100+BT+Speakers",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d9ee908f184da0d8",
   "title": "Sonos Play 1: $114, Play 3: $204, Play 5: $454 @ The Exchange (Military and Veterans Only)",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1",
+  "url": "https://slickdeals.net/e/11408171-sonos-play-1-114-play-3-204-play-5-454-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos record low",
@@ -31622,13 +31528,12 @@
   "source_url": "https://slickdeals.net/e/11408171-sonos-play-1-114-play-3-204-play-5-454-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "68ab3d0e3d57a040",
   "title": "Sonos Play 1 Wireless Speaker $109; Play 3 $209; Play 5 $459.95 @ The Exchange (Military and Veterans Only)",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1+Wireless+Speaker",
+  "url": "https://slickdeals.net/e/11009487-sonos-play-1-wireless-speaker-109-play-3-209-play-5-459-95-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos record low",
@@ -31640,13 +31545,12 @@
   "source_url": "https://slickdeals.net/e/11009487-sonos-play-1-wireless-speaker-109-play-3-209-play-5-459-95-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1+Wireless+Speaker",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d114bd08ab927fec",
   "title": "Elgato HD60 X - Stream and record in 1080p60 HDR10 or 4K30 with ultra-low latency on PS5, PS4/Pro, Xbox Series X/S, Xbox One X/S, in OBS and more, works with PC and Mac $159",
-  "url": "https://www.google.com/search?tbm=shop&q=Elgato+HD60+X+-+Stream+and+record+in+1080p60+HDR10+or+4K30+with+ultra-low+latenc",
+  "url": "https://slickdeals.net/f/17220493-elgato-hd60-x-stream-and-record-in-1080p60-hdr10-or-4k30-with-ultra-low-latency-on-ps5-ps4-pro-xbox-series-x-s-xbox-one-x-s-in-obs-and-more-works-with-pc-and-mac-159?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: PS5 Pro record low",
@@ -31658,8 +31562,7 @@
   "source_url": "https://slickdeals.net/f/17220493-elgato-hd60-x-stream-and-record-in-1080p60-hdr10-or-4k30-with-ultra-low-latency-on-ps5-ps4-pro-xbox-series-x-s-xbox-one-x-s-in-obs-and-more-works-with-pc-and-mac-159?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Elgato+HD60+X+-+Stream+and+record+in+1080p60+HDR10+or+4K30+with+ultra-low+latenc",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "086d606fed2b3349",
@@ -31733,7 +31636,7 @@
  {
   "id": "641aa951dc6c7542",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
+  "url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -31745,13 +31648,12 @@
   "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "eff52190f6d928cf",
   "title": "Garmin Vivoactive 5 falls to record-low price with $130 off - Android Authority",
-  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+falls+to+record-low+price+with",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80QUM5M01MdXpQR0J3RzZodHFsNUlERlVxaV9rRlZEUFk4SkJJSXhyM3ZvbS13QnhzS3J2UndZUjltb2lxQlJFbWJyYlB0RjJRVnQ5YlNHcl84WGdxTGNjd0NYS1F6anpkOGNHelBiTmpqOGlD?oc=5",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -31763,8 +31665,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80QUM5M01MdXpQR0J3RzZodHFsNUlERlVxaV9rRlZEUFk4SkJJSXhyM3ZvbS13QnhzS3J2UndZUjltb2lxQlJFbWJyYlB0RjJRVnQ5YlNHcl84WGdxTGNjd0NYS1F6anpkOGNHelBiTmpqOGlD?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+falls+to+record-low+price+with",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c43c54eb3022a9ab",
@@ -31805,7 +31706,7 @@
  {
   "id": "d758d94b424d59d9",
   "title": "Nintendo Switch 2 Gaming Console $469 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+Gaming+Console",
+  "url": "https://slickdeals.net/f/20248257-nintendo-switch-2-gaming-console-469-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -31817,13 +31718,12 @@
   "source_url": "https://slickdeals.net/f/20248257-nintendo-switch-2-gaming-console-469-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+Gaming+Console",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7631a673d0d2262a",
   "title": "Nintendo Switch 2 Gaming Console $469 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+Gaming+Console",
+  "url": "https://slickdeals.net/f/20248257-nintendo-switch-2-gaming-console-469-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch 2",
@@ -31835,8 +31735,7 @@
   "source_url": "https://slickdeals.net/f/20248257-nintendo-switch-2-gaming-console-469-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+Gaming+Console",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "686ce3a63e27a5ba",
@@ -31976,7 +31875,7 @@
  {
   "id": "6e8d137980941214",
   "title": "Valentino Uomo Born In Roma Yellow Dream for Men - 3.4 oz EDT Spray $70.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
+  "url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Valentino",
@@ -31988,13 +31887,12 @@
   "source_url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "cf84de637645d31b",
   "title": "Valentino Voce Viva Eau de Parfum Spray for Women, 0.33 Ounce/ 10 ml $19.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
+  "url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Valentino",
@@ -32006,8 +31904,7 @@
   "source_url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9d8250e8d03d7f94",
@@ -32048,7 +31945,7 @@
  {
   "id": "97ffe0e766fe8408",
   "title": "2-Piece Valentino Donna Born In Roma Eau de Parfum Travel Gift Set $25 + Free Store Pickup at Ulta or FS $35+",
-  "url": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
+  "url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Valentino 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Valentino",
@@ -32060,8 +31957,7 @@
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3b6b6d8556c49453",
@@ -32084,7 +31980,7 @@
  {
   "id": "c9a4cf66885c8073",
   "title": "Free Valentino Signature Water Bottle w/ ANY Purchase",
-  "url": "https://www.google.com/search?tbm=shop&q=Free+Valentino+Signature+Water+Bottle+w+ANY+Purchase",
+  "url": "https://slickdeals.net/f/18915166-free-valentino-signature-water-bottle-w-any-purchase?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Valentino",
@@ -32096,8 +31992,7 @@
   "source_url": "https://slickdeals.net/f/18915166-free-valentino-signature-water-bottle-w-any-purchase?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Free+Valentino+Signature+Water+Bottle+w+ANY+Purchase",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "91033e75fbdf0a7e",
@@ -32120,7 +32015,7 @@
  {
   "id": "9a283cfbe4ac4358",
   "title": "3.4oz Valentino Uomo Born In Roma Intense EDP $109.95 & More + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+3.4oz+Valentino+Uomo+Born+In+Roma+Intense+EDP",
+  "url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Valentino",
@@ -32132,8 +32027,7 @@
   "source_url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+3.4oz+Valentino+Uomo+Born+In+Roma+Intense+EDP",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "37a5c298759d60c1",
@@ -32156,7 +32050,7 @@
  {
   "id": "3a47526c47cafb2e",
   "title": "XBOX Series X: Gaming Console All Digital: 1TB Storage, Wi-Fi 5, USB-C, Includes XBOX Wireless Controller - Robot WhiteXbox Series X Digital $599.99",
-  "url": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
+  "url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Xbox Series X",
@@ -32168,13 +32062,12 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "cf7873b5dbd36b7a",
   "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
+  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Xbox Series X",
@@ -32186,8 +32079,7 @@
   "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f36e35bd8382bd1a",
@@ -32278,7 +32170,7 @@
  {
   "id": "8ab2fb9178b46bd9",
   "title": "Fragrances: $49.99 or Less! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances",
+  "url": "https://slickdeals.net/f/19852344-fragrances-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Montblanc",
@@ -32290,8 +32182,7 @@
   "source_url": "https://slickdeals.net/f/19852344-fragrances-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fb6b38357deb992c",
@@ -32328,7 +32219,7 @@
  {
   "id": "9754f42a38ff2186",
   "title": "Fragrances for $49.99 or Less! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+for",
+  "url": "https://slickdeals.net/f/19739346-fragrances-for-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Montblanc",
@@ -32340,8 +32231,7 @@
   "source_url": "https://slickdeals.net/f/19739346-fragrances-for-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "397d2778d3cb3e1c",
@@ -32362,7 +32252,7 @@
  {
   "id": "1bdd6641d04eb51a",
   "title": "Mont Blanc Explorer tester $38.97",
-  "url": "https://www.google.com/search?tbm=shop&q=Mont+Blanc+Explorer+tester",
+  "url": "https://slickdeals.net/f/19372356-mont-blanc-explorer-tester-38-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Montblanc",
@@ -32374,13 +32264,12 @@
   "source_url": "https://slickdeals.net/f/19372356-mont-blanc-explorer-tester-38-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Mont+Blanc+Explorer+tester",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b3775a117136056f",
   "title": "Gucci Black Sunglasses $149.95 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Montblanc",
@@ -32392,8 +32281,7 @@
   "source_url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "060826f912096139",
@@ -32414,7 +32302,7 @@
  {
   "id": "e0101bf56760e909",
   "title": "Montblanc Men's Explorer Ultra Blue Eau de Parfum 3.3-oz.",
-  "url": "https://www.google.com/search?tbm=shop&q=Montblanc+Men%27s+Explorer+Ultra+Blue+Eau+de+Parfum+3.3-oz.",
+  "url": "https://slickdeals.net/f/18858139-montblanc-men-s-explorer-ultra-blue-eau-de-parfum-3-3-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Montblanc",
@@ -32426,8 +32314,7 @@
   "source_url": "https://slickdeals.net/f/18858139-montblanc-men-s-explorer-ultra-blue-eau-de-parfum-3-3-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Montblanc+Men%27s+Explorer+Ultra+Blue+Eau+de+Parfum+3.3-oz.",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8a28829786e50eb5",
