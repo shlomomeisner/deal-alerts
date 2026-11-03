@@ -1,156 +1,5 @@
 [
  {
-  "id": "372e642308d1fb18",
-  "title": "Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Apple Watch deal",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 120.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+MacBook+Neo+up+to",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "4bd947e157c46825",
-  "title": "Deals: Apple Watch Ultra 3 $100 off, Series 11 from $299, AirPods, Anker chargers, Best Buy back to school sale, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Apple Watch 30% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 30,
-  "price": 100.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+Watch+Ultra+3",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "da4a6c25291ef02d",
-  "title": "Apple weekend deals: AirPods Pro 3, Apple Studio Display $540 off, M5 MacBook Air $240 off, AirTag 2, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 540.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/01/apple-weekend-deals-airpods-air-m5/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+Pro+3+Apple+Studio+Display",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "a4d71b481a7636bd",
-  "title": "November Flying Blue Rewards Promotion: New York in business class starting at 45,000 miles, long-haul flights starting at 18,750 miles - The Flight Club",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SNGxPQ2pYMVg5bjVFOVJNT1hFbmk0Y0tEaEJaanNJM2ZCMG14aW1HeE04SlliSDhTUVFTVDBCV1RvQy10UTFCV0piYjdjS0dxQnM2Wkl1TGZqdjlZN2Z2VEYtdkJGTzctOXJEWkZ1aGo5cXpXZnRURQ?oc=5",
-  "why": "premium cabin from NEW YORK",
-  "category": "flights",
-  "source": "Google: NYC Caribbean flights",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-02T23:09:04Z",
-  "dates_tried3": true,
-  "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SNGxPQ2pYMVg5bjVFOVJNT1hFbmk0Y0tEaEJaanNJM2ZCMG14aW1HeE04SlliSDhTUVFTVDBCV1RvQy10UTFCV0piYjdjS0dxQnM2Wkl1TGZqdjlZN2Z2VEYtdkJGTzctOXJEWkZ1aGo5cXpXZnRURQ?oc=5",
-  "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20November%20Flying%20Blue%20Rewards%20Promotion%3A%20New%20York%20in%20business%20class%20starting%20at%2045%2C000%20miles%2C%20long-haul%20flights%20starting%20at%2018%2C750%20miles%20-%20The%20Flight%20Club",
-  "route_fixed2": true,
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "beb5eb13957136ef",
-  "title": "adidas Victory League Giftset including Eau de Toilette (1.6fl oz.) and Shower Gel (8.4fl oz.), For Him $9.99",
-  "url": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: fragrance",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 9.99,
-  "found_at": "2026-11-02T23:16:42Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20228817-adidas-victory-league-giftset-including-eau-de-toilette-1-6fl-oz-and-shower-gel-8-4fl-oz-for-him-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
-  "exact": false,
-  "checked_at": "2026-11-03T17:58:36Z"
- },
- {
-  "id": "a2e1a27774ffeda1",
-  "title": "3.38-Oz Charlotte Tilbury Magic Energy Eau de Parfum $75 + Free Shipping",
-  "url": "https://www.amazon.com/s?k=3.38-Oz+Charlotte+Tilbury+Magic+Energy+Eau+de+Parfum",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: fragrance",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 75.0,
-  "found_at": "2026-11-02T23:16:42Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20216409-3-38-oz-charlotte-tilbury-magic-energy-eau-de-parfum-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=3.38-Oz+Charlotte+Tilbury+Magic+Energy+Eau+de+Parfum",
-  "exact": false,
-  "checked_at": "2026-11-03T17:58:38Z"
- },
- {
-  "id": "e0be10baeb0c7f3e",
-  "title": "Lattafa Layaan – Fruity, Floral, Woody, Musky – Eau de Parfum Spray Long-Lasting Fragrance for Women, 2.53 Ounce / 75 ml",
-  "url": "https://www.amazon.com/s?k=Lattafa+Layaan+Fruity+Floral+Woody+Musky+Eau+de+Parfum+Spray+Long-Lasting+Fragra",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: fragrance",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-02T23:16:42Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20215362-lattafa-layaan-fruity-floral-woody-musky-eau-de-parfum-spray-long-lasting-fragrance-for-women-2-53-ounce-75-ml?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=Lattafa+Layaan+Fruity+Floral+Woody+Musky+Eau+de+Parfum+Spray+Long-Lasting+Fragra",
-  "exact": false,
-  "checked_at": "2026-11-03T17:58:40Z"
- },
- {
-  "id": "9f1a04adb07a6c19",
-  "title": "Fragrances from D&G, Creed and More! at Woot!",
-  "url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Slickdeals: fragrance",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-02T23:16:42Z",
-  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
-  "exact": false,
-  "checked_at": "2026-11-03T17:58:42Z"
- },
- {
   "id": "c5c667bae1423d65",
   "title": "$319.13 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
   "url": "https://slickdeals.net/f/20229237-319-13-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -437,7 +286,8 @@
   "found_at": "2026-11-02T23:28:19Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T18:16:12Z"
  },
  {
   "id": "4b6f6147e000a6cc",
@@ -455,7 +305,8 @@
   "source_url": "https://slickdeals.net/f/20246841-100-mulberry-silk-pillowcase-set-2-pack-standard-20-x26-black-w-hidden-zipper-15-29?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=100+Mulberry+Silk+Pillowcase+Set+w+Hidden+Zipper",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:13Z"
  },
  {
   "id": "d90d45f7aa739c6b",
@@ -473,7 +324,8 @@
   "source_url": "https://slickdeals.net/f/20233980-apple-geek-squad-refurbished-good-13-inch-ipad-air-m3-chip-built-for-apple-intelligence-wi-fi-256gb-blue-764-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+Geek+Squad+Refurbished+Good+-+13-inch+iPad+Air+M3+chip+Built+for+Apple+I",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:15Z"
  },
  {
   "id": "0d041485345d6c70",
@@ -491,7 +343,8 @@
   "source_url": "https://slickdeals.net/f/20232909-goldyipe-usb-c-sd-card-reader-for-iphone-ipad-macbook-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=GOLDYIPE+USB-C+SD+Card+Reader+for+iPhone+iPad+%26+MacBook",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:17Z"
  },
  {
   "id": "218e2e435ddff89b",
@@ -509,7 +362,8 @@
   "source_url": "https://slickdeals.net/f/20228043-asperx-140w-usb-c-macbook-charger-block-4-port-gan-type-c-laptop-charger-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=AsperX+140W+USB+C+MacBook+Charger+Block+4-Port+GaN+Type+C+Laptop+Charger",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:19Z"
  },
  {
   "id": "23e26c06b9d0695b",
@@ -527,7 +381,8 @@
   "source_url": "https://slickdeals.net/f/20214477-targus-hypershield-case-for-macbook-neo-clear-19-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Targus+-+HyperShield+Case+for+MacBook+Neo+-+Clear",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:20Z"
  },
  {
   "id": "8c9531e87336056b",
@@ -545,7 +400,8 @@
   "source_url": "https://slickdeals.net/f/20246826-samsung-galaxy-s26-256gb-unlocked-excellent-refurbished-1-yr-allstate-warranty-537-56-free-shipping-w-code-save20tech?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+S26+256GB+Unlocked",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:22Z"
  },
  {
   "id": "4f36cb4a0da4d2d0",
@@ -563,7 +419,8 @@
   "source_url": "https://slickdeals.net/f/20244657-refurbished-samsung-galaxy-s26-ultra-256gb-unlocked-smartphone-w-1-year-allstate-warranty-687-99-free-s-h-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+S26+Ultra+256GB+Unlocked+Smartphone+w+1-Year+Allstate+Warranty+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:23Z"
  },
  {
   "id": "1821681b00a72889",
@@ -581,7 +438,8 @@
   "source_url": "https://slickdeals.net/f/20238420-samsung-galaxy-s26-ultra-256gb-12gb-ram-brand-new-purple-846-00-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Samsung+Galaxy+S26+Ultra+-+Brand+-+Purple",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:25Z"
  },
  {
   "id": "5ce2ec883aeaf7e4",
@@ -599,7 +457,8 @@
   "source_url": "https://slickdeals.net/f/20237241-samsung-galaxy-s26-unlocked-android-smartphone-256gb-black-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty-789?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+256GB+Black+Powerful+Processor+Ga",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:26Z"
  },
  {
   "id": "546275454820ea25",
@@ -617,7 +476,8 @@
   "source_url": "https://slickdeals.net/f/20235939-samsung-galaxy-s26-unlocked-android-smartphone-512gb-cobalt-violet-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+512GB+Cobalt+Violet+Powerful+Proc",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:29Z"
  },
  {
   "id": "980ca080ce43df3d",
@@ -635,7 +495,8 @@
   "source_url": "https://slickdeals.net/f/20227758-samsung-galaxy-s26-ultra-unlocked-android-smartphone-512gb-cobalt-violet-1127?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+S26+Ultra+Unlocked+Android+Smartphone+512GB+Cobalt+Violet",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:31Z"
  },
  {
   "id": "f8e95c6d71b853f9",
@@ -653,7 +514,8 @@
   "source_url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+S26+Ultra+256+GB+plus",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:32Z"
  },
  {
   "id": "be5bb74a675cd57a",
@@ -671,7 +533,8 @@
   "source_url": "https://slickdeals.net/f/20219619-t-mobile-get-samsung-galaxy-w-trade-in-or-activation?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=T-Mobile+Get+Samsung+Galaxy+w+Trade-In+or+Activation",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:34Z"
  },
  {
   "id": "52195f7a9a95b637",
@@ -689,7 +552,8 @@
   "source_url": "https://slickdeals.net/f/20218752-samsung-galaxy-s26-256gb-unlocked-black-open-box-excellent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung+-+Galaxy+S26+256GB+-+Black+-+Open+Box+-+Excellent",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:16:36Z"
  },
  {
   "id": "986c56fbf0ec8593",
@@ -29552,7 +29416,7 @@
  {
   "id": "6b1a06d794da5015",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29564,7 +29428,8 @@
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8b827833236ed77b",
@@ -29819,7 +29684,7 @@
  {
   "id": "086c925615199da9",
   "title": "VERSACE Medusa Stud Icon Gold Dial Ladies Watches - $299.99 + Free Shipping",
-  "url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
   "why": "",
   "category": "watches",
   "source": "Web search: Versace price drop",
@@ -29831,7 +29696,8 @@
   "source_url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "36b588ec9adb0d55",
@@ -34668,7 +34534,7 @@
  {
   "id": "89032a8bc3d6a518",
   "title": "Icelandair: New York – Rome, Italy. $465 (Basic Economy) / $625 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA0ZDTxoaEgoyMDI2LTEyLTEzagUSA0ZDT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMTlqBRIDTllDcgUSA0ZDTxoaEgoyMDI3LTAxLTI4agUSA0ZDT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -34679,9 +34545,8 @@
   "found_at": "2026-11-03T17:55:47Z",
   "dates_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVI3M01VVHg4MlY2UkFLeURMeXJ6WFEwOF92TDN6QjJOZm9LelMwVkR2VGJTYTZRRXVxRzF2bXUySWpxUi1GOWVvVkhrWHZzVFFrWmJiLTlKYjdmSElhWFBaWEhvTFJibkF5aThZLTBWNjNDS2lzU2RmWmdWXy00UG1CRzhBeGgwSlRRVjhwSms1bzI4amlCOUxzZFRoSVZRT0o2YUwwUUVNZmhWRVVaNFo4ekZxTjlKYkl0TmRUY1ptREhFQ2xDMnczM3JyNHVpdFFZMXNLbw?oc=5",
-  "picked": true,
-  "depart": "2026-12-08",
-  "return": "2026-12-13",
+  "depart": "2027-01-19",
+  "return": "2027-01-28",
   "fcode": [
    "NYC",
    "FCO"
@@ -34689,7 +34554,7 @@
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20FCO&hl=en&gl=us&curr=USD",
   "route_fixed2": true,
-  "link_tried3": true
+  "window": "January 19th – 28th, 2027"
  },
  {
   "id": "117ae045e4d4e882",
@@ -34743,11 +34608,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+For+Dad",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5dfa8e76e0d1e4f3",
@@ -34849,11 +34714,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9b171ebd1311eace",
@@ -34867,11 +34732,11 @@
   "pct": null,
   "price": 19.99,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19654440-woot-app-19-99-3-4-oz-lattafa-pride-vintage-radio-unisex-eau-de-parfum-spray-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a991ece65dd2ba39",
@@ -34901,11 +34766,11 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17236663-initio-sonic-electric-toothbrush-black-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4391d0548dd6b630",
@@ -34919,11 +34784,11 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17173909-initio-sonic-electric-toothbrush-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "46774eb2bddb37ee",
@@ -34937,11 +34802,11 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17064664-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e173ea16b18ae8be",
@@ -34955,11 +34820,11 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16998058-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "726ed2651a56e9dc",
@@ -34973,11 +34838,11 @@
   "pct": null,
   "price": 11.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16938931-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3b5ac9a2173a3e98",
@@ -34991,11 +34856,11 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16936000-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "72b8d686d28815fc",
@@ -35009,11 +34874,11 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16866764-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "20b0be3ab745830f",
@@ -35027,11 +34892,11 @@
   "pct": null,
   "price": 8.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16804547-initio-sonic-electric-toothbrush-5-colors-8-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f7b1dfba31cad334",
@@ -35045,11 +34910,11 @@
   "pct": 30,
   "price": 11.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f75c909e50839ff1",
@@ -35063,11 +34928,11 @@
   "pct": null,
   "price": 12.07,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a9e13a8a44a3d82c",
@@ -35081,11 +34946,11 @@
   "pct": null,
   "price": 9.0,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "be0b215fa61e5ae9",
@@ -35099,10 +34964,125 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-11-03T18:04:25Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2VnblNWSUNOaHMxdkN2STJzV2kwVU9mN2RMNGllN2E2eEpYVi10UXZRaGNmTVkwSXlON1NkMXltWERmYTd4LTU5Zjh4TVpBYnNjMWFzWFBiX3ctcFViZEw2ZG1jc3BwdzJKSTZYbnJLZVZuNDVjWDdxbTFEaDNOaHBHWGpmQlhQOVoyNnFyVjFDcGxvY2pPTFBnRXlTUndBN2tXdl9uTEhWd0pRZVhVMmVtMXVuS2VPTW5F?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+s+Elegant+and+Classy+Calendar+Watch+Is+Now+Nearly+50+Off+at+Macy+s+-+Men",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "2a5b2be1690b485a",
+  "title": "GameSir G7 Pro Wireless Controller w/ Charging Dock (Xbox X|S, PC, iOS, Android, various) from $59.70 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=GameSir+G7+Pro+Wireless+Controller+w+Charging+Dock+from",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.7,
+  "found_at": "2026-11-03T18:13:34Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20239944-gamesir-g7-pro-controller-with-tmr-sticks-and-charging-dock-59-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=GameSir+G7+Pro+Wireless+Controller+w+Charging+Dock+from",
+  "exact": false
+ },
+ {
+  "id": "e363e999b8d7d015",
+  "title": "YDAOWKN Men's or Women's Retro Aviator Sunglasses (Brown Tortoise/Blue) $3.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=YDAOWKN+Men%27s+or+Women%27s+Retro+Aviator+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": 45,
+  "price": 3.99,
+  "found_at": "2026-11-03T18:13:34Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20250693-ydaowkn-men-s-or-women-s-retro-aviator-sunglasses-brown-tortoise-blue-3-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=YDAOWKN+Men%27s+or+Women%27s+Retro+Aviator+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "fc537d99853a36b9",
+  "title": "Citizen Men's Eco-Drive Dive 3 43.5mm Super Titanium Analog Watch $414.86 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 414.86,
+  "found_at": "2026-11-03T18:13:34Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245518-citizen-men-s-eco-drive-dive-3-43-5mm-super-titanium-analog-watch-414-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "exact": false
+ },
+ {
+  "id": "a87b75f37dc129ec",
+  "title": "Monday’s Android app deals and freebies: Reigns The Witcher, Kingdom Rush 5, Apple Knight 3, more",
+  "url": "https://bestbuycreators.7tiv.net/m4qW6M",
+  "why": "Galaxy — all-time low",
+  "category": "tech",
+  "source": "9to5Toys",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T18:13:34Z",
+  "link_tried3": true,
+  "source_url": "https://9to5toys.com/2026/11/02/todays-highlight-google-play-deals-41/",
+  "store": "7Tiv",
+  "similar": "https://bestbuycreators.7tiv.net/m4qW6M",
+  "exact": false
+ },
+ {
+  "id": "ed2d368f4500b10f",
+  "title": "Icelandair: New York – Rome, Italy. $465 (Basic Economy) / $625 (Regular Economy). Roundtrip, including all Taxes",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMTlqBRIDTllDcgUSA0ZDTxoaEgoyMDI3LTAxLTI4agUSA0ZDT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "The Flight Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 465.0,
+  "found_at": "2026-11-03T18:13:34Z",
+  "window": "January 19th – 28th, 2027",
+  "depart": "2027-01-19",
+  "return": "2027-01-28",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://www.theflightdeal.com/2026/11/02/icelandair-new-york-rome-italy-465-basic-economy-625-regular-economy-roundtrip-including-all-taxes/",
+  "fcode": [
+   "NYC",
+   "FCO"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20FCO&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "4fed537b6b1d91d0",
+  "title": "YDAOWKN Men's or Women's Retro Aviator Sunglasses (Brown Tortoise/Blue) $3.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=YDAOWKN+Men%27s+or+Women%27s+Retro+Aviator+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglasses",
+  "urgent": false,
+  "hot": false,
+  "pct": 45,
+  "price": 3.99,
+  "found_at": "2026-11-03T18:13:34Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20250693-ydaowkn-men-s-or-women-s-retro-aviator-sunglasses-brown-tortoise-blue-3-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=YDAOWKN+Men%27s+or+Women%27s+Retro+Aviator+Sunglasses",
   "exact": false
  }
 ]
