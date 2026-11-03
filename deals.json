@@ -4567,7 +4567,8 @@
   "found_at": "2026-11-02T20:49:44Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T05:04:42Z"
  },
  {
   "id": "91314b2d9f312c1b",
@@ -4585,7 +4586,8 @@
   "source_url": "https://slickdeals.net/f/19759935-dji-osmo-360-standard-combo-360-action-camera-348-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=DJI+Osmo+360+Standard+Combo+360+Action+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T05:04:43Z"
  },
  {
   "id": "4c1b30faca230fd8",
@@ -4602,7 +4604,8 @@
   "source_url": "https://slickdeals.net/f/19754127-dji-osmo-pocket-4-4k-gimbal-camera-423-95-or-creator-combo-539-75-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+Gimbal+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T05:04:45Z"
  },
  {
   "id": "4eb6b1a03ade1235",
@@ -4619,7 +4622,8 @@
   "source_url": "https://slickdeals.net/f/19739202-dji-mini-5-pro-4k-camera-drone-bundle-with-rc2-869?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4K+Camera+Drone+Bundle+with+RC2",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T05:04:47Z"
  },
  {
   "id": "ee214ed9cea70198",
@@ -4636,7 +4640,8 @@
   "source_url": "https://slickdeals.net/f/19728996-dji-osmo-action-5-pro-essential-combo-4k-120fps-waterproof-action-camera-w-1-1-3-sensor-47gb-built-in-storage-288-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+Essential+Combo+4K+120fps+Waterproof+Action+Camera+w+1+1.3",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T05:04:48Z"
  },
  {
   "id": "548776643fa95d9e",
@@ -28769,7 +28774,7 @@
  {
   "id": "5e1cd3136ac8635b",
   "title": "Persol Polarized Aviator Sunglasses - Jomashop $100",
-  "url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -28781,12 +28786,13 @@
   "source_url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b73ec195be552eeb",
   "title": "Prada,Persol premium brand sunglasses@$94.99+fs",
-  "url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -28798,7 +28804,8 @@
   "source_url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "68e4551811157e22",
@@ -35065,6 +35072,21 @@
   "hot": false,
   "pct": 75,
   "price": null,
-  "found_at": "2026-11-03T04:55:58Z"
+  "found_at": "2026-11-03T04:55:58Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae9695eb0f042c1ad45209ffc948d55&url=https%3a%2f%2fpeople.com%2fwhat-to-buy-amazon-10-28-2026-12196508&c=7646499874603148806&mkt=en-us",
+  "exact": false
+ },
+ {
+  "id": "547647baa5a489c6",
+  "title": "$72.50: Oakley Men's Drift Recycled Mountain Bike Sneaker (Size 11 ONLY)",
+  "url": "https://slickdeals.net/f/19571004-72-50-oakley-men-s-drift-recycled-mountain-bike-sneaker-size-11-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Oakley sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 72.5,
+  "found_at": "2026-11-03T05:04:56Z"
  }
 ]
