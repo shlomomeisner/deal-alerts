@@ -13,7 +13,8 @@
   "found_at": "2026-11-02T22:45:41Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T14:56:47Z"
  },
  {
   "id": "7c5e7526427e52f5",
@@ -29,7 +30,8 @@
   "found_at": "2026-11-02T22:45:41Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T14:56:49Z"
  },
  {
   "id": "82562c231ade3e63",
@@ -45,7 +47,8 @@
   "found_at": "2026-11-02T22:45:41Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T14:56:51Z"
  },
  {
   "id": "da58ba557500375a",
@@ -61,7 +64,8 @@
   "found_at": "2026-11-02T22:45:41Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T14:56:52Z"
  },
  {
   "id": "cc5ddc38102b2f9b",
@@ -78,7 +82,8 @@
   "source_url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Star+Legacy+39MM+Automatic+Silvery+White+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T14:56:54Z"
  },
  {
   "id": "506b1c5f7c1afa0b",
@@ -95,7 +100,8 @@
   "source_url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T14:56:57Z"
  },
  {
   "id": "65c3c21550761d7f",
@@ -112,7 +118,8 @@
   "source_url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+Set+with+Shower+Gel",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T14:56:59Z"
  },
  {
   "id": "290564de42ba60a6",
@@ -30035,7 +30042,7 @@
  {
   "id": "d16ac2aa6323a149",
   "title": "Saks Fifth Avenue: Designer Sale - Up to 75% Off",
-  "url": "https://slickdeals.net/e/13137808-saks-fifth-avenue-designer-sale-up-to-75-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+75+Off",
   "why": "",
   "category": "fashion",
   "source": "Web search: Saks designer sale",
@@ -30047,7 +30054,8 @@
   "source_url": "https://slickdeals.net/e/13137808-saks-fifth-avenue-designer-sale-up-to-75-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+75+Off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d6f92ee0241d87f1",
@@ -30086,7 +30094,7 @@
  {
   "id": "9de8242cb24fed57",
   "title": "Refurbished: 32GB 10.2\" Apple iPad (8th Gen, 2020) - $87.47 @ Woot!",
-  "url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
   "why": "",
   "category": "tech",
   "source": "Web search: Woot Apple deal",
@@ -30098,7 +30106,8 @@
   "source_url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c4c31e2fc9eceb08",
@@ -30389,7 +30398,7 @@
  {
   "id": "f8e881b0b6057491",
   "title": "Rolex Day-Date 40 Meteorite Diamond Automatic Diamond Men's Watch $124500",
-  "url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Rolex sale",
@@ -30401,7 +30410,8 @@
   "source_url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b6d7587d079637b6",
@@ -30424,7 +30434,7 @@
  {
   "id": "c67e43810069d647",
   "title": "Rolex Day-Date 40 Meteorite Diamond Automatic Diamond Men's Watch ($4,600 Coupon) $129,950",
-  "url": "https://slickdeals.net/f/18697057-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-4-600-coupon-129-950?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Rolex sale",
@@ -30436,12 +30446,13 @@
   "source_url": "https://slickdeals.net/f/18697057-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-4-600-coupon-129-950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f60abaab7a989325",
   "title": "Rolex Datejust 41 Blue Dial Men’s Watch $10,650 + Free Shipping $10650",
-  "url": "https://slickdeals.net/f/18570373-rolex-datejust-41-blue-dial-men-s-watch-10-650-free-shipping-10650?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Datejust+41+Blue+Dial+Men+s+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Rolex sale",
@@ -30453,7 +30464,8 @@
   "source_url": "https://slickdeals.net/f/18570373-rolex-datejust-41-blue-dial-men-s-watch-10-650-free-shipping-10650?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Datejust+41+Blue+Dial+Men+s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bcc3172a156976c6",
@@ -30494,7 +30506,7 @@
  {
   "id": "e8d218339b8a86ef",
   "title": "New Breitling Superocean Heritage B01 Chronograph 42 Men's Watch UB0156H11B1A1 $7052",
-  "url": "https://slickdeals.net/f/20101743-new-breitling-superocean-heritage-b01-chronograph-42-men-s-watch-ub0156h11b1a1-7052?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Superocean+Heritage+B01+Chronograph+42+Men%27s+Watch+UB0156H11B1A1",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -30506,12 +30518,13 @@
   "source_url": "https://slickdeals.net/f/20101743-new-breitling-superocean-heritage-b01-chronograph-42-men-s-watch-ub0156h11b1a1-7052?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Breitling+Superocean+Heritage+B01+Chronograph+42+Men%27s+Watch+UB0156H11B1A1",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a5a02746953a4b2d",
   "title": "Women's Breitling Premier Automatic Brown Dial Watch - Free Shipping - $1375",
-  "url": "https://slickdeals.net/f/19618596-women-s-breitling-premier-automatic-brown-dial-watch-free-shipping-1375?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Women%27s+Breitling+Premier+Automatic+Brown+Dial+Watch+-+-",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -30523,12 +30536,13 @@
   "source_url": "https://slickdeals.net/f/19618596-women-s-breitling-premier-automatic-brown-dial-watch-free-shipping-1375?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Women%27s+Breitling+Premier+Automatic+Brown+Dial+Watch+-+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6c359d7b995bf883",
   "title": "38mm Breitling Endurance Pro Chronograph Quartz Watch $1850 + Free S/H",
-  "url": "https://slickdeals.net/f/19597770-38mm-breitling-endurance-pro-chronograph-quartz-watch-1850-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=38mm+Breitling+Endurance+Pro+Chronograph+Quartz+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -30540,7 +30554,8 @@
   "source_url": "https://slickdeals.net/f/19597770-38mm-breitling-endurance-pro-chronograph-quartz-watch-1850-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=38mm+Breitling+Endurance+Pro+Chronograph+Quartz+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "691d6024a18c42ea",
@@ -30581,7 +30596,7 @@
  {
   "id": "461e980782f79a68",
   "title": "Breitling Men's Navitimer Automatic 41 Watch $3695",
-  "url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Men%27s+Navitimer+Automatic+41+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -30593,12 +30608,13 @@
   "source_url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Breitling+Men%27s+Navitimer+Automatic+41+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b68657c0cf2da5b9",
   "title": "Breitling Superocean 36mm Orange Dial Mens Watch Automatic $2750 + Free Shipping",
-  "url": "https://slickdeals.net/f/19006018-breitling-superocean-36mm-orange-dial-mens-watch-automatic-2750-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Superocean+36mm+Orange+Dial+Mens+Watch+Automatic",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -30610,7 +30626,8 @@
   "source_url": "https://slickdeals.net/f/19006018-breitling-superocean-36mm-orange-dial-mens-watch-automatic-2750-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Superocean+36mm+Orange+Dial+Mens+Watch+Automatic",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2b5db4ac425853c7",
@@ -30649,7 +30666,7 @@
  {
   "id": "3eb7a6bcf475c1e2",
   "title": "French Avenue Liquid Brun Eau de Parfum (3.4 oz) $24.99 after $20 Coupon at Jomashop",
-  "url": "https://slickdeals.net/f/20127303-french-avenue-liquid-brun-eau-de-parfum-3-4-oz-24-99-after-20-coupon-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+French+Avenue+Liquid+Brun+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Creed",
@@ -30661,7 +30678,8 @@
   "source_url": "https://slickdeals.net/f/20127303-french-avenue-liquid-brun-eau-de-parfum-3-4-oz-24-99-after-20-coupon-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+French+Avenue+Liquid+Brun+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a33ef31e09fa6197",
@@ -30732,7 +30750,7 @@
  {
   "id": "d463a126847d86a2",
   "title": "Breitling Navitimer Automatic Chronometer Green Dial Unisex Watch A17395361L1P2 - $2750",
-  "url": "https://slickdeals.net/f/17414094-breitling-navitimer-automatic-chronometer-green-dial-unisex-watch-a17395361l1p2-2750?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Navitimer+Automatic+Chronometer+Green+Dial+Unisex+Watch+A17395361L1P2+",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling price drop",
@@ -30744,12 +30762,13 @@
   "source_url": "https://slickdeals.net/f/17414094-breitling-navitimer-automatic-chronometer-green-dial-unisex-watch-a17395361l1p2-2750?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Breitling+Navitimer+Automatic+Chronometer+Green+Dial+Unisex+Watch+A17395361L1P2+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "378e50cfc25d27b5",
   "title": "Jomashop Christmas in July Deals: Breitling Colt Auto $2035; Tudor Heritage $2467; RW Maestro Auto $469; Omega DeVille Auto $2176; Seiko Flight Chrono $204",
-  "url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
   "why": "",
   "category": "flights",
   "source": "Web search: Breitling price drop",
@@ -30762,7 +30781,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "link_tried3": true
  },
  {
   "id": "6b4c3cf60ecd6413",
@@ -30921,7 +30941,7 @@
  {
   "id": "20e8c73891081d90",
   "title": "Omega Planet Ocean Co-Axial Blue Dial Mid-size Titanium Watch $3795 + Free Shipping",
-  "url": "https://slickdeals.net/e/12247003-omega-planet-ocean-co-axial-blue-dial-mid-size-titanium-watch-3795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Omega+Planet+Ocean+Co-Axial+Blue+Dial+Mid-size+Titanium+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -30933,12 +30953,13 @@
   "source_url": "https://slickdeals.net/e/12247003-omega-planet-ocean-co-axial-blue-dial-mid-size-titanium-watch-3795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Planet+Ocean+Co-Axial+Blue+Dial+Mid-size+Titanium+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3594b719e856442a",
   "title": "Wipeout Omega Collection PlayStation Store price drop $19.99",
-  "url": "https://slickdeals.net/e/11504223-wipeout-omega-collection-playstation-store-price-drop-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Wipeout+Omega+Collection+PlayStation+Store",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -30950,7 +30971,8 @@
   "source_url": "https://slickdeals.net/e/11504223-wipeout-omega-collection-playstation-store-price-drop-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Wipeout+Omega+Collection+PlayStation+Store",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c4085ed443bee8fd",
@@ -34691,11 +34713,11 @@
   "pct": 77,
   "price": 1995.0,
   "found_at": "2026-11-03T14:39:36Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15023710-dior-viii-montaigne-automatic-mother-of-pearl-dial-ladies-watch-cd1535i0m001-for-1995?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DIOR+VIII+Montaigne+Automatic+Mother+of+Pearl+Dial+Ladies+Watch+CD1535I0M001+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0c9f664c28d0f3bb",
@@ -34709,11 +34731,11 @@
   "pct": null,
   "price": 109.99,
   "found_at": "2026-11-03T14:39:36Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15023476-dior-christian-dior-blue-antiglare-aviator-ladies-sunglasses-diormonsieur106ja963-for-109-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DIOR+Christian+Dior+Blue+Antiglare+Aviator+Ladies+Sunglasses+DIORMONSIEUR106JA96",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "edd1123fa72023b1",
@@ -34727,11 +34749,11 @@
   "pct": null,
   "price": 6.0,
   "found_at": "2026-11-03T14:39:36Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPelM5S0M2WDRBRXA5ZHRoOGU1RG9FUTNzWmltRTZudkc4RHZiUTJWX3QzSGZSc2thRXRqZ2t5OWg1aWYzYkJzZFgzMjZpaFNpNlFpb1Zzam5sQlZQVTdMUnNWNnRfN202aUJEZEFFUzQwNWYzdzFkcXRkNHNmYUpsRFVURzJza1pJeDQzZFdB?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Shoppers+Agree+This",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f89488c930b239d6",
@@ -34763,11 +34785,11 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-11-03T14:39:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18632623-chanel-le-lift-creme-yeux-5-6-oz-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+LE+LIFT+CREME+YEUX+5.6+oz.",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9b036219f4552daa",
@@ -34799,11 +34821,11 @@
   "pct": null,
   "price": 19.3,
   "found_at": "2026-11-03T14:39:39Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b3831e98cafa48f5",
@@ -34901,11 +34923,11 @@
   "pct": null,
   "price": 77.12,
   "found_at": "2026-11-03T14:39:40Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7202089894b4dcd8",
@@ -34937,11 +34959,11 @@
   "pct": null,
   "price": 89.99,
   "found_at": "2026-11-03T14:39:40Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "44bb6218c31b3c7f",
@@ -35025,11 +35047,11 @@
   "pct": null,
   "price": 1199.0,
   "found_at": "2026-11-03T14:39:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Celine+Micro+Luggage+Handbag+Black+Calfskin",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a78f4a290a6ed9c5",
@@ -35043,11 +35065,11 @@
   "pct": null,
   "price": 1999.99,
   "found_at": "2026-11-03T14:39:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Celine+Micro+Luggage+Made+in+Italy+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c6daa3e06e63574c",
@@ -35061,11 +35083,11 @@
   "pct": null,
   "price": 159.99,
   "found_at": "2026-11-03T14:39:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "20a6bf1289cb092e",
@@ -35079,11 +35101,11 @@
   "pct": null,
   "price": 899.99,
   "found_at": "2026-11-03T14:39:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Celine+48+Hour+-+Price+Reduced+on+100%2B+Items+Ladies+Vertical+Celine+Cabas+Tote",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "089c2382442b57fd",
@@ -35132,5 +35154,18 @@
   "store_url": "https://www.amazon.com/gp/product/B0FQFB8FMG/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20Active%20Noise%20Cancellation%20Wireless%20Earbuds"
+ },
+ {
+  "id": "34075af5bcac4c6e",
+  "title": "No Boundaries Cloud Core Collection Women's Short-Sleeve Top and Boxer Shorts Pajama Set (Various) from $7.08 + Free S&H w/ Walmart+ or on $35+",
+  "url": "https://slickdeals.net/f/20249358-no-boundaries-cloud-core-collection-women-s-short-sleeve-top-and-boxer-shorts-pajama-set-various-from-7-08-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: On Cloud sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.08,
+  "found_at": "2026-11-03T14:57:04Z"
  }
 ]
