@@ -1563,7 +1563,8 @@
   "found_at": "2026-11-03T01:14:57Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T21:27:09Z"
  },
  {
   "id": "76dcdd5b05331e9a",
@@ -1580,7 +1581,8 @@
   "source_url": "https://slickdeals.net/f/19571664-oakley-men-s-enduro-2-0-30l-backpack-core-camo-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Enduro+2.0+30L+Backpack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:11Z"
  },
  {
   "id": "6e8a1cbf1cc18807",
@@ -1597,7 +1599,8 @@
   "source_url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:12Z"
  },
  {
   "id": "17041a89b34f68ba",
@@ -1614,7 +1617,8 @@
   "source_url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:14Z"
  },
  {
   "id": "77405fee632c279f",
@@ -1631,7 +1635,8 @@
   "source_url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:16Z"
  },
  {
   "id": "c9e945c8b937d285",
@@ -1648,7 +1653,8 @@
   "source_url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:18Z"
  },
  {
   "id": "d72c78fb2ac550cc",
@@ -1665,7 +1671,8 @@
   "source_url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:19Z"
  },
  {
   "id": "f41bef8eb9c2fad3",
@@ -1682,7 +1689,8 @@
   "source_url": "https://slickdeals.net/e/13238356-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-47-40-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:19Z"
  },
  {
   "id": "803875cf7ec11b32",
@@ -1699,7 +1707,8 @@
   "source_url": "https://slickdeals.net/e/13199182-oakley-drop-point-sunglasses-59-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Drop+Point+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:20Z"
  },
  {
   "id": "79456a51c3ecfabc",
@@ -1716,7 +1725,8 @@
   "source_url": "https://slickdeals.net/e/13062412-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-48-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:21Z"
  },
  {
   "id": "b173023aed32112c",
@@ -1733,7 +1743,8 @@
   "source_url": "https://slickdeals.net/e/12156904-half-jacket-2-0-sunglasses-polished-black-polarizedoakley-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Half+Jacket+2.0+Sunglasses+-+Polished+Black+PolarizedOakley",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:22Z"
  },
  {
   "id": "8761647c17ea4172",
@@ -1750,7 +1761,8 @@
   "source_url": "https://slickdeals.net/e/11712383-oakley-holbrook-sunglasses-30-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Holbrook+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T21:27:23Z"
  },
  {
   "id": "ae627494e8c15fbe",
@@ -30270,7 +30282,7 @@
  {
   "id": "0f74265d5f7068ca",
   "title": "Deals: Galaxy Z Fold 8 up to $546 off, Belkin magnetic charging stations from $43, up to $1,100 off TVs, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
+  "url": "https://9to5google.com/2026/10/01/deals-galaxy-z-fold-8-belkin-magnetic-charging-stations/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30282,13 +30294,12 @@
   "source_url": "https://9to5google.com/2026/10/01/deals-galaxy-z-fold-8-belkin-magnetic-charging-stations/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "90a06632e253238a",
   "title": "Deals: All-new Fire TV Stick 4K 50% off, Galaxy S26 Ultra $335 off, NXTPAPER Android tabs, MotoTag 2, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+All-+Fire+TV+Stick+4K+50+off+Galaxy+S26+Ultra",
+  "url": "https://9to5google.com/2026/09/30/deals-new-fire-tv-stick-4k-50-off-galaxy-s26-ultra/",
   "why": "Watch 50% off",
   "category": "watches",
   "source": "9to5Google deals",
@@ -30300,13 +30311,12 @@
   "source_url": "https://9to5google.com/2026/09/30/deals-new-fire-tv-stick-4k-50-off-galaxy-s26-ultra/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+All-+Fire+TV+Stick+4K+50+off+Galaxy+S26+Ultra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b227593def969e25",
   "title": "Deals: Galaxy Z Fold 8 up to $530 off, Lenovo Tab Plus Gen 2 $270 off, Echo speakers/displays 50% off, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+up+to",
+  "url": "https://9to5google.com/2026/09/28/deals-galaxy-fold-8-lenovo-tab-plus-gen-2-echo-displays/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30318,13 +30328,12 @@
   "source_url": "https://9to5google.com/2026/09/28/deals-galaxy-fold-8-lenovo-tab-plus-gen-2-echo-displays/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2ab1a155ccf9ffcd",
   "title": "Deals: Pixel 11 from under $750, TCL NXTPAPER phones from $180, up to $1,100 off Copilot+ PCs and laptops, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+from+under",
+  "url": "https://9to5google.com/2026/09/24/score-unlocked-pixel-11-at-under-750-via-best-buy-today/",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30336,13 +30345,12 @@
   "source_url": "https://9to5google.com/2026/09/24/score-unlocked-pixel-11-at-under-750-via-best-buy-today/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+from+under",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f443e6760f67035b",
   "title": "Deals: Nothing CMF Buds Neo $21 all-time low, Galaxy Z Fold 8 $380 off, huge laptop discounts up to $1,050 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+CMF+Buds+Neo",
+  "url": "https://9to5google.com/2026/09/23/deals-galaxy-fold-8-nothing-buds-neo-ring-doorbell-4k/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30354,13 +30362,12 @@
   "source_url": "https://9to5google.com/2026/09/23/deals-galaxy-fold-8-nothing-buds-neo-ring-doorbell-4k/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+CMF+Buds+Neo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6b3c5a2e5ea5d76a",
   "title": "Deals: Galaxy Z Fold 8 Ultra up to $577 off, Fold 8 $250+ off, Copilot+ PC sale up to $650 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
+  "url": "https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30372,13 +30379,12 @@
   "source_url": "https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c0a30bc4f2e9d7d4",
   "title": "Deals: Pixel Watch 5 LTE $100 off, Pixel 11 $120 off, Lenovo Yoga Mini PC $320 off, Bose flash sale, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+LTE",
+  "url": "https://9to5google.com/2026/09/17/deals-pixel-watch-5-pixel-11-lenovo-yoga-mini-pc-bose/",
   "why": "Watch deal",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30390,8 +30396,7 @@
   "source_url": "https://9to5google.com/2026/09/17/deals-pixel-watch-5-pixel-11-lenovo-yoga-mini-pc-bose/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+LTE",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "991d5d381bb5ca8f",
@@ -30432,7 +30437,7 @@
  {
   "id": "944a3eb58ee13576",
   "title": "Deals: Galaxy Z Fold 8 + Galaxy Watch 8/Ultra 2 up to $520 off, Pixel 11 models up to $322 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+%2B+Galaxy+Watch+8+Ultra+2+up+to",
+  "url": "https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/",
   "why": "Watch deal",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30444,13 +30449,12 @@
   "source_url": "https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+%2B+Galaxy+Watch+8+Ultra+2+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "28965c7b41204eb8",
   "title": "Deals: Galaxy Z Fold 8 lowest price ever at $250 off, Lenovo Pro Gen 2 Android tab $315, Nothing Ear (3a) $80, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+lowest+price+ever+at",
+  "url": "https://9to5google.com/2026/09/08/deals-galaxy-z-fold-8-lowest-price-lenovo-tab-pro-gen-2/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30462,13 +30466,12 @@
   "source_url": "https://9to5google.com/2026/09/08/deals-galaxy-z-fold-8-lowest-price-lenovo-tab-pro-gen-2/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+lowest+price+ever+at",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "130b3bd57183a26a",
   "title": "All of the best Labor Day deals: Galaxy Z Fold 8 $250 off, Pixel 11, Anker chargers, TVs, much more",
-  "url": "https://www.google.com/search?tbm=shop&q=All+of+the+best+Labor+Day+deals+Galaxy+Z+Fold+8",
+  "url": "https://9to5google.com/2026/09/07/all-best-labor-day-deals/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30480,8 +30483,7 @@
   "source_url": "https://9to5google.com/2026/09/07/all-best-labor-day-deals/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=All+of+the+best+Labor+Day+deals+Galaxy+Z+Fold+8",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "211d55fec2cce644",
@@ -30504,7 +30506,7 @@
  {
   "id": "686e65776560924d",
   "title": "Deals: Pixel 11 Pro up to $242 off, Moto Tag 2 trackers from $17.50 each, Lenovo’s new 3.5K Android tablet at $332, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+11+Pro+up+to",
+  "url": "https://9to5google.com/2026/09/03/deals-pixel-11-pro-moto-tag-2-new-lenovo-android-tablet/",
   "why": "Pixel — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30516,13 +30518,12 @@
   "source_url": "https://9to5google.com/2026/09/03/deals-pixel-11-pro-moto-tag-2-new-lenovo-android-tablet/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+11+Pro+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7f534aeae3de1494",
   "title": "Deals: Nothing Ear (3a) from $67, Galaxy Flip 8 $320 off, 2026 IdeaPad $620 off, Sony Google Gemini TV $800 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+Ear+from",
+  "url": "https://9to5google.com/2026/09/02/deals-nothing-ear-3a-galaxy-flip-8-2026-ideapad/",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30534,8 +30535,7 @@
   "source_url": "https://9to5google.com/2026/09/02/deals-nothing-ear-3a-galaxy-flip-8-2026-ideapad/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+Ear+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6804175b469197f6",
@@ -30558,7 +30558,7 @@
  {
   "id": "ba73858f40d7fa87",
   "title": "Deals: Nothing Ear (3a) hits $79 all-time low, CMF Clip Pro $79, Galaxy Z Fold 8 Ultra $300+ off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+Ear+hits",
+  "url": "https://9to5google.com/2026/08/31/deals-nothing-ear-3a-best-price-cmf-clip-pro/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30570,13 +30570,12 @@
   "source_url": "https://9to5google.com/2026/08/31/deals-nothing-ear-3a-best-price-cmf-clip-pro/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+Ear+hits",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5e8c9c9cc87badbb",
   "title": "Deals: Galaxy S26 Ultra bundles $370 off, Moto Tag 2 from $17.50 each, TCL 2026 Google AI TVs up to $800 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra+bundles",
+  "url": "https://9to5google.com/2026/08/25/deals-galaxy-s26-ultra-moto-tag-2-tcl-google-ai-tv/",
   "why": "Watch deal",
   "category": "watches",
   "source": "9to5Google deals",
@@ -30588,13 +30587,12 @@
   "source_url": "https://9to5google.com/2026/08/25/deals-galaxy-s26-ultra-moto-tag-2-tcl-google-ai-tv/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra+bundles",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "31ec4dfcd46b7232",
   "title": "Deals: TCL Android tablets from $150, Chipolo Google Find Hub wallet CARD $33, LG C6 OLED $1,000 off + $50 credit, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+TCL+Android+tablets+from",
+  "url": "https://9to5google.com/2026/08/24/deals-tcl-android-tablet-chipolo-find-card-lg-c6-oled/",
   "why": "Oled — all-time low",
   "category": "fashion",
   "source": "9to5Google deals",
@@ -30606,8 +30604,7 @@
   "source_url": "https://9to5google.com/2026/08/24/deals-tcl-android-tablet-chipolo-find-card-lg-c6-oled/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+TCL+Android+tablets+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5e272cf66f60ae7f",
