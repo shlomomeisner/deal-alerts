@@ -5300,7 +5300,8 @@
   "found_at": "2026-11-02T21:21:24Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T06:15:08Z"
  },
  {
   "id": "acc1d60a34841477",
@@ -5317,7 +5318,8 @@
   "source_url": "https://slickdeals.net/f/16813154-10-oz-dior-sauvage-fragrance-refill-eau-de-toilette-117-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=10-Oz+Dior+Sauvage+Fragrance+Refill",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:10Z"
  },
  {
   "id": "e2b00d8598cad55a",
@@ -5334,7 +5336,8 @@
   "source_url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bottega+Veneta+Men%27s+Mix+Of+Stripes+Shirt",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:12Z"
  },
  {
   "id": "f9e0c4854f9817c0",
@@ -5351,7 +5354,8 @@
   "source_url": "https://slickdeals.net/f/16241629-40-off-tom-ford-men-s-suede-leather-sartorial-blazer-5814?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40+off+TOM+FORD+Men%27s+Suede-Leather+Sartorial+Blazer",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:13Z"
  },
  {
   "id": "086873fa9721c914",
@@ -5368,7 +5372,8 @@
   "source_url": "https://slickdeals.net/f/16163620-wilton-bath-towel-in-the-color-vintage-sky-for-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Wilton+Bath+Towel+in+the+color+Vintage+Sky+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:15Z"
  },
  {
   "id": "a1eb753ad86d4d62",
@@ -5385,7 +5390,8 @@
   "source_url": "https://slickdeals.net/f/15940465-lancome-idole-perfume-mother-s-day-gift-set-175-value-108-clearance-price?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Lancome+Idole+Perfume+Mother+s+Day+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:16Z"
  },
  {
   "id": "11e57a40ba978c7a",
@@ -5403,7 +5409,8 @@
   "source_url": "https://slickdeals.net/f/20246307-apple-airtag-2nd-generation-4-pack-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirTag+-+4+Pack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:17Z"
  },
  {
   "id": "f516edbd968e74d2",
@@ -5421,7 +5428,8 @@
   "source_url": "https://slickdeals.net/f/20246307-apple-airtag-2nd-generation-4-pack-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirTag+-+4+Pack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:18Z"
  },
  {
   "id": "ab3158f6c589c1ab",
@@ -5439,7 +5447,8 @@
   "source_url": "https://slickdeals.net/f/20246307-apple-airtag-2nd-generation-4-pack-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirTag+-+4+Pack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:19Z"
  },
  {
   "id": "fa59c5c59305c85e",
@@ -5457,7 +5466,8 @@
   "source_url": "https://slickdeals.net/f/20246280-samsung-s90h-77-inches-oled-for-edu-or-workplace?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+S90H+77+inches+OLED+for+EDU+or+Workplace",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:20Z"
  },
  {
   "id": "b54a6476e55ff8f2",
@@ -5473,7 +5483,8 @@
   "found_at": "2026-11-02T21:21:24Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T06:15:21Z"
  },
  {
   "id": "348cd3d682612ecb",
@@ -5489,7 +5500,8 @@
   "found_at": "2026-11-02T21:21:24Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T06:15:22Z"
  },
  {
   "id": "4cb747587e014462",
@@ -5507,7 +5519,8 @@
   "source_url": "https://slickdeals.net/f/20246412-unlocked-samsung-galaxy-s26-ultra-256-gb-949-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Unlocked+Samsung+Galaxy+S26+Ultra+256+GB",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:24Z"
  },
  {
   "id": "e41f1ca8c69d717b",
@@ -5525,7 +5538,8 @@
   "source_url": "https://slickdeals.net/f/20210763-bose-soundlink-revolve-series-ii-bluetooth-speaker-bundle-with-fast-charger-silver-269?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+SoundLink+Revolve%2B+Bluetooth+Speaker+Bundle+with+Fast+Charger",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:25Z"
  },
  {
   "id": "3d17bafa78176757",
@@ -5543,7 +5557,8 @@
   "source_url": "https://slickdeals.net/f/20242629-logitech-m196-bluetooth-wireless-mouse-off-white-10-free-shipping-w-prime-or-on-orders-over-35-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Logitech+M196+Bluetooth+Wireless+Mouse",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:15:27Z"
  },
  {
   "id": "78ca7c15280cc3d4",
@@ -28185,7 +28200,7 @@
  {
   "id": "cef6a0d70716fb09",
   "title": "Maui Jim Men's Polarized Sunglasses (Various) $99.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -28197,13 +28212,12 @@
   "source_url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "daa912ae8f546b92",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses (and others) $90 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -28215,13 +28229,12 @@
   "source_url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "635b7bbfe4c8517a",
   "title": "Maui Jim Polarized Sunglasses (Various Styles/Colors) from $109 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -28233,8 +28246,7 @@
   "source_url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a22f42fdb9949c89",
@@ -35212,7 +35224,7 @@
  {
   "id": "a04d21358d279619",
   "title": "Dyson V11 Cordless Vacuum Cleaner (Refurbished) $223.09 + Free Shipping",
-  "url": "https://slickdeals.net/f/20247942-dyson-v11-cordless-vacuum-cleaner-refurbished-223-09-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.newegg.com/p/pl?d=Dyson+V11+Cordless+Vacuum+Cleaner",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -35220,12 +35232,17 @@
   "hot": false,
   "pct": null,
   "price": 223.09,
-  "found_at": "2026-11-03T06:07:12Z"
+  "found_at": "2026-11-03T06:07:12Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247942-dyson-v11-cordless-vacuum-cleaner-refurbished-223-09-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Newegg",
+  "similar": "https://www.newegg.com/p/pl?d=Dyson+V11+Cordless+Vacuum+Cleaner",
+  "exact": false
  },
  {
   "id": "641aa951dc6c7542",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -35233,77 +35250,17 @@
   "hot": false,
   "pct": null,
   "price": 179.99,
-  "found_at": "2026-11-03T06:07:12Z"
- },
- {
-  "id": "8d068d78ed61ba18",
-  "title": "DJI Mic 3 Wireless Microphone Set with Charging Case $148",
-  "url": "https://slickdeals.net/f/20245671-dji-mic-3-wireless-microphone-set-with-charging-case-148?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 148.0,
-  "found_at": "2026-11-03T06:07:14Z"
- },
- {
-  "id": "15dc2ad9d5d1d069",
-  "title": "DJI Mic Mini Wireless Microphone System 2 TX + 1 RX + Charging Case $57 + Free Shipping",
-  "url": "https://slickdeals.net/f/20243667-dji-mic-mini-wireless-microphone-system-2-tx-1-rx-charging-case-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 57.0,
-  "found_at": "2026-11-03T06:07:14Z"
- },
- {
-  "id": "731ee0f1348dd4e9",
-  "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case) Wireless Microphone $41.85",
-  "url": "https://slickdeals.net/f/20241081-dji-mic-mini-2-tx-1-rx-charging-case-wireless-microphone-41-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 41.85,
-  "found_at": "2026-11-03T06:07:14Z"
- },
- {
-  "id": "4c2db6f1d72e479b",
-  "title": "DJI Mic Mini Wireless Microphone (2 TX + 1 RX + Charging Case) $56 + FS",
-  "url": "https://slickdeals.net/f/20240811-dji-mic-mini-wireless-microphone-2-tx-1-rx-charging-case-56-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 56.0,
-  "found_at": "2026-11-03T06:07:14Z"
- },
- {
-  "id": "b043bad2b6f283e1",
-  "title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19987707-lc-dolida-fence-mount-w-sun-rain-visor-for-gopro-dji-insta360-smartphones-9-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: GoPro deal",
-  "urgent": false,
-  "hot": false,
-  "pct": 50,
-  "price": 9.97,
-  "found_at": "2026-11-03T06:07:17Z"
+  "found_at": "2026-11-03T06:07:12Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
+  "exact": false
  },
  {
   "id": "eff52190f6d928cf",
   "title": "Garmin Vivoactive 5 falls to record-low price with $130 off - Android Authority",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80QUM5M01MdXpQR0J3RzZodHFsNUlERlVxaV9rRlZEUFk4SkJJSXhyM3ZvbS13QnhzS3J2UndZUjltb2lxQlJFbWJyYlB0RjJRVnQ5YlNHcl84WGdxTGNjd0NYS1F6anpkOGNHelBiTmpqOGlD?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+falls+to+record-low+price+with",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -35311,6 +35268,29 @@
   "hot": false,
   "pct": null,
   "price": 130.0,
-  "found_at": "2026-11-03T06:07:21Z"
+  "found_at": "2026-11-03T06:07:21Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80QUM5M01MdXpQR0J3RzZodHFsNUlERlVxaV9rRlZEUFk4SkJJSXhyM3ZvbS13QnhzS3J2UndZUjltb2lxQlJFbWJyYlB0RjJRVnQ5YlNHcl84WGdxTGNjd0NYS1F6anpkOGNHelBiTmpqOGlD?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+falls+to+record-low+price+with",
+  "exact": false
+ },
+ {
+  "id": "c43c54eb3022a9ab",
+  "title": "Citizen Men's Eco-Drive Dive 3 43.5mm Super Titanium Analog Watch $414.86 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 414.86,
+  "found_at": "2026-11-03T06:12:31Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245518-citizen-men-s-eco-drive-dive-3-43-5mm-super-titanium-analog-watch-414-86-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "exact": false
  }
 ]
