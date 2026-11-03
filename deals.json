@@ -1,138 +1,5 @@
 [
  {
-  "id": "5ce192f97500af14",
-  "title": "Deals: M5 Pro MacBook Pro up to $540 off, M5 MacBook Air from $1,099, Apple Watch Ultra 3, MagSafe chargers, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Apple Watch 35% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 35,
-  "price": 540.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/12/deals-m5-pro-macbook-airpods-pro-3-apple-watch-ultra-3/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro+up+to",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "8498b42681606190",
-  "title": "Deals: AirPods Pro 3 25% off, AirPods Max 2 $100 off, MacBook Pro, Anker 25W MagSafe car charger, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": 100.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/11/deals-airpods-pro-3-airpods-max-2-macbook-pro/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+25+off+AirPods+Max+2",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "c7fcf36365759db5",
-  "title": "Deals: M5 MacBook Pro $300 off, AirPods Pro 3, Apple Sport Bands, Anker 3-in-1 Qi2 25W MagSafe charger, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Apple Watch 25% off",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 25,
-  "price": 300.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/10/deals-m5-macbook-pro-airpods-pro-3-sport-band-charger/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+MacBook+Pro",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "057cd290b6e6421a",
-  "title": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": null,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+Pro+3+25+off+MacBook+Neo+Apple+gift+cards+iPhone+Air",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "2e328e4a29a56810",
-  "title": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": 172.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+Watch+Series+11",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "d18e9865851d2008",
-  "title": "Deals: AirPods Pro 3 now even lower at 25% off, M5 MacBook Air $190 off, iPhone Air $150+ off, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": 190.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/06/deals-airpods-pro-3-m5-macbook-air-iphone-air/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+now+even+lower+at+25+off+M5+MacBook+Air",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
-  "id": "0a1d37d03de5de89",
-  "title": "New AirPods are coming, but this is one of the best deals yet on AirPods Pro 3",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": null,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/08/06/new-airpods-are-coming-but-this-is-one-of-the-best-deals-yet-on-airpods-pro-3/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=AirPods+are+coming+but+this+is+one+of+the+best+deals+yet+on+AirPods+Pro+3",
-  "checked_at": "2026-11-03T17:58:34Z"
- },
- {
   "id": "372e642308d1fb18",
   "title": "Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more",
   "url": "https://www.amazon.com/dp/B0FQFB8FMG",
@@ -297,7 +164,8 @@
   "found_at": "2026-11-02T23:19:39Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T18:07:19Z"
  },
  {
   "id": "da530866d3aebd91",
@@ -314,7 +182,8 @@
   "source_url": "https://slickdeals.net/f/20243409-otterbox-case-for-iphone-17-pro-iphone-18-pro-defender-series-xt-pro-dual-layer-with-military-grade-drop-protection-magsafe-capable-clear-black-free-shipping-12-88?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Otterbox+Case+for+iPhone+17+Pro+iPhone+18+Pro+Defender+Series+XT+Pro+Dual-Layer+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:21Z"
  },
  {
   "id": "0189cb783e77e606",
@@ -331,7 +200,8 @@
   "source_url": "https://slickdeals.net/f/20239680-open-box-dji-osmo-mobile-7-gimbal-stabilizer-for-iphone-android-built-in-tripod-portable-stabilizer-33-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Osmo+Mobile+7+Gimbal+Stabilizer+for+iPhone+Android+Built-in+Tripod+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:22Z"
  },
  {
   "id": "2e189f58e9b251de",
@@ -348,7 +218,8 @@
   "source_url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:23Z"
  },
  {
   "id": "b1b0e89d7a659e1b",
@@ -365,7 +236,8 @@
   "source_url": "https://slickdeals.net/f/20246877-ombre-leather-eau-de-parfum-spray-3-4-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Ombre+Leather+Eau+de+Parfum+Spray+3.4+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:25Z"
  },
  {
   "id": "04389c5c70fa8e20",
@@ -381,7 +253,8 @@
   "found_at": "2026-11-02T23:28:19Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T18:07:26Z"
  },
  {
   "id": "a91cee69f7214e92",
@@ -397,7 +270,8 @@
   "found_at": "2026-11-02T23:28:19Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T18:07:29Z"
  },
  {
   "id": "a8529d73fd2bef20",
@@ -415,7 +289,8 @@
   "source_url": "https://slickdeals.net/f/20235552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-with-translucent-gray-ocean-band-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+Watch+Ultra+4+GPS+%2B+Cellular+49mm+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:30Z"
  },
  {
   "id": "77b2f5a9d7fb2874",
@@ -433,7 +308,8 @@
   "source_url": "https://slickdeals.net/f/20234673-citizen-men-s-an8194-51l-42mm-two-tone-stainless-steel-quartz-chronograph-dress-watch-blue-dial-160-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+AN8194-51L+42mm+Two-Tone+Stainless+Steel+Quartz+Chronograph+Dress+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:31Z"
  },
  {
   "id": "267758c6d4d7abb2",
@@ -451,7 +327,8 @@
   "source_url": "https://slickdeals.net/f/20234430-citizen-men-s-eco-drive-classic-42mm-stainless-steel-bracelet-watch-aw0081-54l-176-14-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Classic+42mm+Stainless+Steel+Bracelet+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:33Z"
  },
  {
   "id": "9b5455f8b31e9c6b",
@@ -467,7 +344,8 @@
   "found_at": "2026-11-02T23:28:19Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T18:07:36Z"
  },
  {
   "id": "1e999a653fbaa137",
@@ -485,7 +363,8 @@
   "source_url": "https://slickdeals.net/f/20231400-citizen-quartz-mens-watch-stainless-steel-with-leather-strap-casual-black-model-bi5000-01a-112-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+with+Leather+strap+Casual+Black",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:37Z"
  },
  {
   "id": "c9beae3b13a88b7d",
@@ -503,7 +382,8 @@
   "source_url": "https://slickdeals.net/f/20231385-citizen-quartz-mens-watch-stainless-steel-classic-silver-tone-model-bi1030-53a-106-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic+Silver-Tone",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:39Z"
  },
  {
   "id": "3b7083491926a70d",
@@ -521,7 +401,8 @@
   "source_url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5017-50E",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:40Z"
  },
  {
   "id": "73d794cf50744629",
@@ -539,7 +420,8 @@
   "source_url": "https://slickdeals.net/f/20231271-google-pixel-watch-5-smartwatch-from-300-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Google+Pixel+Watch+5+Smartwatch+from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T18:07:41Z"
  },
  {
   "id": "f80f7a5fefc0a7ee",
@@ -29670,7 +29552,7 @@
  {
   "id": "6b1a06d794da5015",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29682,13 +29564,12 @@
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8b827833236ed77b",
   "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
+  "url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29700,8 +29581,7 @@
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "065802b90c6ea678",
@@ -29939,7 +29819,7 @@
  {
   "id": "086c925615199da9",
   "title": "VERSACE Medusa Stud Icon Gold Dial Ladies Watches - $299.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
+  "url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Versace price drop",
@@ -29951,8 +29831,7 @@
   "source_url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "36b588ec9adb0d55",
@@ -33666,11 +33545,11 @@
   "pct": null,
   "price": 330.6,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "951d8fea22be41b5",
@@ -33702,11 +33581,11 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2a5475cd4085f609",
@@ -33792,11 +33671,11 @@
   "pct": null,
   "price": 22.5,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19786530-burberry-touch-1-7oz-edt-22-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+1.7oz+EDT",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "196fe7a31ae809c8",
@@ -33810,11 +33689,11 @@
   "pct": null,
   "price": 32.84,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19770156-burberry-touch-3-3-3-4-oz-edt-cologne-for-men-32-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Burberry+Touch+3.3+3.4+oz+EDT+Cologne+for+Men",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d48a2c07c7c2a9d1",
@@ -33880,11 +33759,11 @@
   "pct": 25,
   "price": 350.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Week+1+early+Black+Friday+Doorbusters+Pixel+11+series+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ecf9686a375f71aa",
@@ -33898,11 +33777,11 @@
   "pct": null,
   "price": 473.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1242bb5e9589d09c",
@@ -33916,11 +33795,11 @@
   "pct": null,
   "price": 570.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0f51d815491d1a4a",
@@ -33934,11 +33813,11 @@
   "pct": 55,
   "price": 150.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9860226c4f9edf23",
@@ -33952,11 +33831,11 @@
   "pct": null,
   "price": 419.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/22/deals-pixel-11-pro-fold-s26-ultra-hp-oled-copilot-pc/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+Pro+Fold+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fd5e455c70a68264",
@@ -33988,11 +33867,11 @@
   "pct": 35,
   "price": 455.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0745a5a7f4c274c5",
@@ -34006,11 +33885,11 @@
   "pct": null,
   "price": 570.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/19/deals-galaxy-z-fold-8-galaxy-tab-s12-1000xm6-buds/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1f7cadfbb99814a7",
@@ -34042,11 +33921,11 @@
   "pct": null,
   "price": 108.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/14/deals-pixel-watch-5-tcl-nxtpaper-anker-display-hub/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+Watch+5+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e6ab3dae48f0dc06",
@@ -34060,11 +33939,11 @@
   "pct": 40,
   "price": 280.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/13/deals-nothing-phone-3-headphone-a-pixel-11-idea-tab/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Nothing+Phone",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b4430ac6f90e6b18",
@@ -34096,11 +33975,11 @@
   "pct": null,
   "price": 510.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/09/deals-galaxy-s26-ultra-lenovo-ideapad-2k-pc-anker/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "75a99058f79b7d48",
@@ -34114,11 +33993,11 @@
   "pct": 35,
   "price": 628.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/08/deals-galaxy-z-fold-8-pixel-11-pro-nothing-headphone-a/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b67aa7f3a2bd641",
@@ -34132,11 +34011,11 @@
   "pct": null,
   "price": 650.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/07/samsung-galaxy-tab-s12ultra-launch-deals-now-live-up-to-650-off/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prime+Day+2+deals+Last+chance+Galaxy+Tab+S12+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c14bc31bde6015f2",
@@ -34150,11 +34029,11 @@
   "pct": null,
   "price": 400.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/06/prime-day-1-deals-galaxy-z-fold-8-pixel-11-pixel-watch-5/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prime+Day+1+deals+Z+Fold+8+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "763d7dd298e5c1c7",
@@ -34168,11 +34047,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/06/best-fall-prime-day-deals-pixel-galaxy/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=All+of+the+best+fall+Prime+Day+deals+Pixel+11+Galaxy+Z+Fold+8+chargers+smart+hom",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0f74265d5f7068ca",
@@ -34186,11 +34065,11 @@
   "pct": null,
   "price": 546.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/10/01/deals-galaxy-z-fold-8-belkin-magnetic-charging-stations/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "90a06632e253238a",
@@ -34204,11 +34083,11 @@
   "pct": 50,
   "price": 335.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/30/deals-new-fire-tv-stick-4k-50-off-galaxy-s26-ultra/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+All-+Fire+TV+Stick+4K+50+off+Galaxy+S26+Ultra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b227593def969e25",
@@ -34222,11 +34101,11 @@
   "pct": 50,
   "price": 530.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/28/deals-galaxy-fold-8-lenovo-tab-plus-gen-2-echo-displays/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2ab1a155ccf9ffcd",
@@ -34240,11 +34119,11 @@
   "pct": 30,
   "price": 750.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/24/score-unlocked-pixel-11-at-under-750-via-best-buy-today/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+from+under",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f443e6760f67035b",
@@ -34258,11 +34137,11 @@
   "pct": 30,
   "price": 21.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/23/deals-galaxy-fold-8-nothing-buds-neo-ring-doorbell-4k/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+CMF+Buds+Neo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6b3c5a2e5ea5d76a",
@@ -34276,11 +34155,11 @@
   "pct": null,
   "price": 577.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c0a30bc4f2e9d7d4",
@@ -34294,11 +34173,11 @@
   "pct": null,
   "price": 100.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/17/deals-pixel-watch-5-pixel-11-lenovo-yoga-mini-pc-bose/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+LTE",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "991d5d381bb5ca8f",
@@ -34348,11 +34227,11 @@
   "pct": null,
   "price": 520.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+%2B+Galaxy+Watch+8+Ultra+2+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "28965c7b41204eb8",
@@ -34366,11 +34245,11 @@
   "pct": null,
   "price": 250.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/08/deals-galaxy-z-fold-8-lowest-price-lenovo-tab-pro-gen-2/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+lowest+price+ever+at",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "130b3bd57183a26a",
@@ -34384,11 +34263,11 @@
   "pct": null,
   "price": 250.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/07/all-best-labor-day-deals/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=All+of+the+best+Labor+Day+deals+Galaxy+Z+Fold+8",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "211d55fec2cce644",
@@ -34420,11 +34299,11 @@
   "pct": null,
   "price": 242.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/03/deals-pixel-11-pro-moto-tag-2-new-lenovo-android-tablet/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+11+Pro+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7f534aeae3de1494",
@@ -34438,11 +34317,11 @@
   "pct": null,
   "price": 67.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/09/02/deals-nothing-ear-3a-galaxy-flip-8-2026-ideapad/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+Ear+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6804175b469197f6",
@@ -34474,11 +34353,11 @@
   "pct": null,
   "price": 79.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/31/deals-nothing-ear-3a-best-price-cmf-clip-pro/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+Ear+hits",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5e8c9c9cc87badbb",
@@ -34492,11 +34371,11 @@
   "pct": null,
   "price": 370.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/25/deals-galaxy-s26-ultra-moto-tag-2-tcl-google-ai-tv/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+S26+Ultra+bundles",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "31ec4dfcd46b7232",
@@ -34510,11 +34389,11 @@
   "pct": 30,
   "price": 150.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/24/deals-tcl-android-tablet-chipolo-find-card-lg-c6-oled/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+TCL+Android+tablets+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5e272cf66f60ae7f",
@@ -34528,11 +34407,11 @@
   "pct": null,
   "price": 160.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/20/deals-nxtpaper-android-tabs-lg-sale-tvs-laptops/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+NXTPAPER+Android+tabs+and+phones+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ef3cd2b52d529f21",
@@ -34546,11 +34425,11 @@
   "pct": 60,
   "price": 215.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/18/deals-galaxy-tabs-s26-accessories-olive-pixel-buds-pro-2/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+1-day+Galaxy+Tabs+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7472267ad054ab15",
@@ -34582,11 +34461,11 @@
   "pct": 60,
   "price": 150.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/14/deals-pixel-11-free-google-home-speaker-legion-tab/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+Pro+XL+extra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c6931020e79db048",
@@ -34600,11 +34479,11 @@
   "pct": 50,
   "price": 600.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/12/best-pixel-11-preorder-deals/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+11+Pro+pre-orders+live+at+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0809663e50f3b7b5",
@@ -34618,11 +34497,11 @@
   "pct": null,
   "price": 120.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/10/deals-fold-8-pixel-10a-nothing-headphone-a-anker/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Z+Fold+8+re-stock+Pixel+10a+nearly",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0876520732bc4ba7",
@@ -34636,11 +34515,11 @@
   "pct": null,
   "price": 385.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/08/03/deals-fold-8-buds-4-pro-bundle-pixel-10a-lenovo-tablet/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Even+better+Galaxy+Fold+8+Buds+4+Pro+bundle+Pixel+10a+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d5504f42c1b32beb",
@@ -34654,11 +34533,11 @@
   "pct": null,
   "price": 500.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/07/31/deals-fold-8-ultra-surface-pro-lg-tv/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Fold+8+Ultra+2-in-1+Copilot%2B+PCs+and+Surface+Pro+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1a8efa2f375f580d",
@@ -34672,11 +34551,11 @@
   "pct": 30,
   "price": 515.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/07/29/deals-galaxy-tab-s11-ultra-fold-8-cases-omnibook-x-pc/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Tab+S11+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "08e14bcb22443dcd",
@@ -34708,11 +34587,11 @@
   "pct": null,
   "price": 1230.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/07/22/best-galaxy-fold-8-ultra-preorder-deals/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Fold+8+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f2a100745eb14051",
@@ -34726,11 +34605,11 @@
   "pct": 30,
   "price": 430.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/07/20/deals-black-friday-in-july-tab-s11-ultra-nxtpaper/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Black+Friday+in+July+Galaxy+Tab+S11+Ultra+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "838796701111fdf0",
@@ -34744,11 +34623,11 @@
   "pct": 58,
   "price": 308.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/07/16/deals-base-pixel-10-google-nest-doorbell-omnibook/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Base+Pixel+10+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f86dff1d418ecd66",
@@ -34762,11 +34641,11 @@
   "pct": 20,
   "price": 377.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/07/14/deals-pixel-10-pro-fold-7-nomad-find-hub-card/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+10+Pro+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "73cb0e1506425479",
@@ -34780,11 +34659,11 @@
   "pct": 36,
   "price": 300.0,
   "found_at": "2026-11-03T17:55:47Z",
-  "link_tried3": true,
   "source_url": "https://9to5google.com/2026/07/13/deals-pixel-10-pixel-watch-4-pixelsnap-headphone-a/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+10+Pro",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "89032a8bc3d6a518",
@@ -34809,7 +34688,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20FCO&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "117ae045e4d4e882",
@@ -34830,32 +34710,399 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
+  "link_tried3": true
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-03T17:58:51Z"
- },
- {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "804ab8afd15a032b",
+  "title": "Samsung S90H 77 inches OLED for EDU or Workplace",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+S90H+77+inches+OLED+for+EDU+or+Workplace",
   "why": "",
   "category": "watches",
-  "source": "Web search: Omega price drop",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": null,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20246280-samsung-s90h-77-inches-oled-for-edu-or-workplace?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Samsung",
+  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+S90H+77+inches+OLED+for+EDU+or+Workplace",
+  "exact": false
+ },
+ {
+  "id": "5b62ea5d358a3f22",
+  "title": "Fragrances For Dad at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+For+Dad",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Burberry",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-03T17:59:01Z"
+  "price": null,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+For+Dad",
+  "exact": false
+ },
+ {
+  "id": "5dfa8e76e0d1e4f3",
+  "title": "Burberry Hero Parfum, 3.3 fl oz $79.99 free shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Burberry+Hero+Parfum+3.3+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Burberry",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19568133-burberry-hero-parfum-3-3-fl-oz-79-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Burberry+Hero+Parfum+3.3+fl+oz",
+  "exact": false
+ },
+ {
+  "id": "3f40d558f27f6fdf",
+  "title": "Burberry My Burberry Black For Women EDP, 3.0 fl oz - $57.99 + FS @ Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Burberry+My+Burberry+Black+For+Women+EDP+3.0+fl+oz+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Burberry",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 57.99,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19567131-burberry-my-burberry-black-for-women-edp-3-0-fl-oz-57-99-fs-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Burberry+My+Burberry+Black+For+Women+EDP+3.0+fl+oz+-",
+  "exact": false
+ },
+ {
+  "id": "68e905203fb71a9f",
+  "title": "Google Pixel 9 Pro, 256GB, Rose Quartz - Unlocked (Renewed) - down 12.51% ($76.92) to $538.14 from $615.06",
+  "url": "https://www.amazon.com/dp/B0DKPHBH79",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 76.92,
+  "found_at": "2026-11-03T18:04:25Z",
+  "source_url": "https://camelcamelcamel.com/product/B0DKPHBH79",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+9+Pro+256GB+Rose+Quartz+-+Unlocked+-+down+12.51"
+ },
+ {
+  "id": "6fa3ea94bb85b5fb",
+  "title": "Initio Psychedelic Love Eau de Parfum, 3.04 fl oz $199.99 free Shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Initio+Psychedelic+Love+Eau+de+Parfum+3.04+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245158-initio-psychedelic-love-eau-de-parfum-3-04-fl-oz-199-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Initio+Psychedelic+Love+Eau+de+Parfum+3.04+fl+oz",
+  "exact": false
+ },
+ {
+  "id": "b98541477da7487e",
+  "title": "Initio Parfums Prives Blessed Baraka Eau de Parfum, 3.04 fl oz $189.99 Free Shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Initio+Parfums+Prives+Blessed+Baraka+Eau+de+Parfum+3.04+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 189.99,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244999-initio-parfums-prives-blessed-baraka-eau-de-parfum-3-04-fl-oz-189-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Initio+Parfums+Prives+Blessed+Baraka+Eau+de+Parfum+3.04+fl+oz",
+  "exact": false
+ },
+ {
+  "id": "87d479ffca0f1d29",
+  "title": "Fragrances from D&G, Creed and More! at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "exact": false
+ },
+ {
+  "id": "9b171ebd1311eace",
+  "title": "Woot! App: $19.99 | 3.4-Oz Lattafa Pride Vintage Radio Unisex Eau de Parfum Spray at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19654440-woot-app-19-99-3-4-oz-lattafa-pride-vintage-radio-unisex-eau-de-parfum-spray-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
+  "exact": false
+ },
+ {
+  "id": "a991ece65dd2ba39",
+  "title": "$224 | Hedonist Collection - Musk Therapy by Initio Parfums Prives for Unisex - 3.04 oz Extrait De Parfum Spray at Amazon",
+  "url": "https://slickdeals.net/f/19399857-224-hedonist-collection-musk-therapy-by-initio-parfums-prives-for-unisex-3-04-oz-extrait-de-parfum-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 224.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "638240cfc9a0aa27",
+  "title": "Initio Sonic Electric Toothbrush (black) $8 + Free Shipping w/ Prime or orders $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17236663-initio-sonic-electric-toothbrush-black-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "exact": false
+ },
+ {
+  "id": "4391d0548dd6b630",
+  "title": "Initio Sonic Electric Toothbrush $8 + Free Shipping w/ Prime or orders $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17173909-initio-sonic-electric-toothbrush-8-free-shipping-w-prime-or-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "exact": false
+ },
+ {
+  "id": "46774eb2bddb37ee",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17064664-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "exact": false
+ },
+ {
+  "id": "e173ea16b18ae8be",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16998058-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "exact": false
+ },
+ {
+  "id": "726ed2651a56e9dc",
+  "title": "Initio Sonic Electric Toothbrush w/ Travel Case + 8 Brush Heads (Various Colors) $11 + Free Shipping w/ Prime or on Orders $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16938931-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "exact": false
+ },
+ {
+  "id": "3b5ac9a2173a3e98",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16936000-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "exact": false
+ },
+ {
+  "id": "72b8d686d28815fc",
+  "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16866764-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "exact": false
+ },
+ {
+  "id": "20b0be3ab745830f",
+  "title": "Initio Sonic Electric Toothbrush (5 Colors) $8 + Free Shipping w/ Prime or $25+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16804547-initio-sonic-electric-toothbrush-5-colors-8-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "exact": false
+ },
+ {
+  "id": "f7b1dfba31cad334",
+  "title": "Initio Sonic Electric Toothbrush w/ Travel Case + 8 Brush Heads (Various Colors) $11 + Free Shipping w/ Prime or on Orders $25+",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 11.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "exact": false
+ },
+ {
+  "id": "f75c909e50839ff1",
+  "title": "Initio Sonic Electric Toothbrush with Travel Case (4 colors) $12.07 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.07,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
+  "exact": false
+ },
+ {
+  "id": "a9e13a8a44a3d82c",
+  "title": "Initio Sonic Electric Toothbrush for Adults (5 colors) $9 + Free Shipping w/ Prime or $25+ orders",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals: Initio",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.0,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
+  "exact": false
+ },
+ {
+  "id": "be0b215fa61e5ae9",
+  "title": "Citizen’s ‘Elegant and Classy’ Calendar Watch Is Now Nearly 50% Off at Macy’s - Men's Journal",
+  "url": "https://www.google.com/search?tbm=shop&q=Citizen+s+Elegant+and+Classy+Calendar+Watch+Is+Now+Nearly+50+Off+at+Macy+s+-+Men",
+  "why": "Citizen 50% off",
+  "category": "watches",
+  "source": "Google: Amazon luxury deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": null,
+  "found_at": "2026-11-03T18:04:25Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2VnblNWSUNOaHMxdkN2STJzV2kwVU9mN2RMNGllN2E2eEpYVi10UXZRaGNmTVkwSXlON1NkMXltWERmYTd4LTU5Zjh4TVpBYnNjMWFzWFBiX3ctcFViZEw2ZG1jc3BwdzJKSTZYbnJLZVZuNDVjWDdxbTFEaDNOaHBHWGpmQlhQOVoyNnFyVjFDcGxvY2pPTFBnRXlTUndBN2tXdl9uTEhWd0pRZVhVMmVtMXVuS2VPTW5F?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Citizen+s+Elegant+and+Classy+Calendar+Watch+Is+Now+Nearly+50+Off+at+Macy+s+-+Men",
+  "exact": false
  }
 ]
