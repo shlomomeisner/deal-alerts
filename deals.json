@@ -1,95 +1,5 @@
 [
  {
-  "id": "a7dabc69e5bc3a65",
-  "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
-  "url": "https://link.amazon/B0iT4M3pX",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 900.0,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
-  "store": "Link",
-  "similar": "https://link.amazon/B0iT4M3pX",
-  "exact": false
- },
- {
-  "id": "6524bbcd19f5916c",
-  "title": "Deals: iPhone Duo cases, Apple Pencil, AirPods Pro 3, Apple TV 4K, power banks, more",
-  "url": "https://link.amazon/B06fH079R",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/10/23/deals-duo-cases-apple-pencil-airpods-apple-tv-4k/",
-  "store": "Link",
-  "similar": "https://link.amazon/B06fH079R",
-  "exact": false
- },
- {
-  "id": "09839df42269259e",
-  "title": "Deals: Apple TV 4K, iPhone Duo power bank, AirPods Pro 3, M6 Mac mini, Magic Keyboard, more",
-  "url": "https://www.amazon.com/dp/B0HMX69N2K",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/10/21/deals-apple-tv-4k-iphone-duo-power-bank-airpods-pro-3/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+TV+4K+iPhone+Duo+power+bank+AirPods+Pro+3+M6+Mac+mini+Magic+Keyboard"
- },
- {
-  "id": "44d99b3dfc2772ae",
-  "title": "Deals: Apple TV 4K, AirPods Pro 3, MacBook Air, MagSafe chargers, Duo cases, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Macbook — 35% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 35,
-  "price": null,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/10/20/deals-apple-tv-4k-airpods-pro-3-macbook-air-duo-cases/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+TV+4K+AirPods+Pro+3+MacBook+Air+MagSafe+chargers+Duo+cases+more"
- },
- {
-  "id": "9a5b50c5b1b33eb5",
-  "title": "Deals: Apple TV 4K, AirPods Pro 3, leather iPhone Duo cases, M6 Mac mini, more",
-  "url": "https://www.amazon.com/dp/B0HMXH3243",
-  "why": "",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-02T23:09:04Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/10/19/deals-apple-tv-4k-airpods-pro-3-leather-iphone-duo-case/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+TV+4K+AirPods+Pro+3+leather+iPhone+Duo+cases+M6+Mac+mini+more"
- },
- {
   "id": "b9e0f9494869d7fd",
   "title": "Deals: Apple HomeView pre-order discount, AirTag 2, Magic Keyboard, AirPods, more",
   "url": "https://www.amazon.com/dp/B0FQFB8FMG",
@@ -390,7 +300,8 @@
   "source_url": "https://9to5mac.com/2026/10/01/deals-airtag-2-studio-display-macbook-magsafe-chargers/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirTag+2+Studio+Display+up+to"
+  "similar": "https://www.amazon.com/s?k=Deals+AirTag+2+Studio+Display+up+to",
+  "checked_at": "2026-11-03T17:49:54Z"
  },
  {
   "id": "1a2891c3d85328f7",
@@ -408,7 +319,8 @@
   "source_url": "https://9to5mac.com/2026/09/30/deals-iphone-17-pro-max-macbook-pro-prime-day-bands/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/gp/goldbox?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:49:55Z"
  },
  {
   "id": "92dbda09a4b5aef4",
@@ -426,7 +338,8 @@
   "source_url": "https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/gp/goldbox?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:49:56Z"
  },
  {
   "id": "78bbf4ad1c9fc124",
@@ -444,7 +357,8 @@
   "source_url": "https://9to5mac.com/2026/09/29/deals-macbook-air-macbook-pro-mac-studio-accessories/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/gp/goldbox?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:49:56Z"
  },
  {
   "id": "7e462f34de5af7ed",
@@ -29251,7 +29165,7 @@
  {
   "id": "332f13031ae21951",
   "title": "Ferragamo Oversized Classic Rectangle Sunglasses $59 + Free Shipping",
-  "url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Oversized+Classic+Rectangle+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29263,7 +29177,8 @@
   "source_url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+Oversized+Classic+Rectangle+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3df34b2067a854aa",
@@ -29304,7 +29219,7 @@
  {
   "id": "ed265c06aadfb260",
   "title": "3.4-Oz Signorina Libera by Salvatore Ferragamo EDP Perfume Spray for Women $32.99 + Free Shipping w/ Prime or on $35+ $37.99",
-  "url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Signorina+Libera+by+Salvatore+Ferragamo+EDP+Perfume+Spray+for+Women",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29316,12 +29231,13 @@
   "source_url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Signorina+Libera+by+Salvatore+Ferragamo+EDP+Perfume+Spray+for+Women",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e2452531bb766e98",
   "title": "3.4-Oz Salvatore Ferragamo Men's F Free Time EDT Cologne Spray $12.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Men%27s+F+Free+Time+EDT+Cologne+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ferragamo sale",
@@ -29333,12 +29249,13 @@
   "source_url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Men%27s+F+Free+Time+EDT+Cologne+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "40b931aa16f8457d",
   "title": "Salvatore Ferragamo Free Time Eau De Toilette Spray for Men, 3.4 Ounce $14",
-  "url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Free+Time+Eau+De+Toilette+Spray+for+Men+3.4+Ounce",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ferragamo sale",
@@ -29350,12 +29267,13 @@
   "source_url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Free+Time+Eau+De+Toilette+Spray+for+Men+3.4+Ounce",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ab2e18cc48ed4b17",
   "title": "Salvatore Ferragamo Ladies' Amo Ferragamo Skin Care Gift Set w/ 1.7-Oz EDP Spray & 3.4-Oz Body Lotion $34.99 + Free S/H on $100+",
-  "url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29367,12 +29285,13 @@
   "source_url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5796aedde7e19417",
   "title": "Ferragamo Low Sneaker With Signature In - $100000",
-  "url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29384,12 +29303,13 @@
   "source_url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "03b6236d102ffca5",
   "title": "3.4-Oz Salvatore Ferragamo Women's Amo Ferragamo Eau de Parfum Spray $36.20 + Free Shipping",
-  "url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ferragamo sale",
@@ -29401,7 +29321,8 @@
   "source_url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c630a8039ed02361",
@@ -29424,7 +29345,7 @@
  {
   "id": "4015b0f6ea5dd6b7",
   "title": "FERRAGAMO Urban Men's Watch $247.49 with coupon \"CPFERRA10\" code + Free Shipping",
-  "url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Urban+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29436,12 +29357,13 @@
   "source_url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Urban+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b87d3c52f0f27b54",
   "title": "Ferragamo FF Men's Watch - $216 (Silicone Strap) & $279 (Stainless Steel Strap) + Free S&H",
-  "url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+FF+Men%27s+Watch+-",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29453,12 +29375,13 @@
   "source_url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+FF+Men%27s+Watch+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "65585decf7956b8a",
   "title": "FERRAGAMO Gancini Men's Watch for $219.99 with code \"LUCKY12\" + Free Shipping",
-  "url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Gancini+Men%27s+Watch+for",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29470,12 +29393,13 @@
   "source_url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Gancini+Men%27s+Watch+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3d8e5621a23b4d35",
   "title": "FERRAGAMO Racing Men's Watch extra 10% OFF with CODE LUCKY10 $319.49 + Free Shipping",
-  "url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -29487,12 +29411,13 @@
   "source_url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a13fc15e24d5fdfc",
   "title": "Jomashop Designer Sunglasses Sale: Salavtore Ferragamo Green Square $51, Ray-Ban Clubmaster Classic $77, Oakley Plazma Prizm Grey Sport & More + Free Shipping on Orders $100+",
-  "url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ferragamo sale",
@@ -29504,12 +29429,13 @@
   "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "98d58cc9c2855cfd",
   "title": "Salvatore Ferragamo Double-Bridge Aviator - $62 - $370",
-  "url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29521,12 +29447,13 @@
   "source_url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b29da18163a0b811",
   "title": "Salvatore Ferragamo Gancini Bit Leather Driver Moccasins - $225 - $225",
-  "url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -29538,12 +29465,13 @@
   "source_url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "aa0b72c9f6de0e0f",
   "title": "Salvatore Ferragamo Double-Bridge Aviator Sunglasses (Black or Tortoise) $62 + Free Shipping",
-  "url": "https://slickdeals.net/f/15039724-salvatore-ferragamo-double-bridge-aviator-sunglasses-black-or-tortoise-62-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo price drop",
@@ -29555,12 +29483,13 @@
   "source_url": "https://slickdeals.net/f/15039724-salvatore-ferragamo-double-bridge-aviator-sunglasses-black-or-tortoise-62-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "aae1b2e3473d0001",
   "title": "Salvatore Ferragamo Black Classic Square Sunglasses $62 + Free Shipping *Updated w/ Price Drop*",
-  "url": "https://slickdeals.net/e/11907591-salvatore-ferragamo-black-classic-square-sunglasses-62-free-shipping-updated-w-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Black+Classic+Square+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo price drop",
@@ -29572,12 +29501,13 @@
   "source_url": "https://slickdeals.net/e/11907591-salvatore-ferragamo-black-classic-square-sunglasses-62-free-shipping-updated-w-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Black+Classic+Square+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4cbe9730994df500",
   "title": "Men's Ferragamo Polarized Classic Sunglasses $60 & More + Free S&H",
-  "url": "https://slickdeals.net/e/10326844-men-s-ferragamo-polarized-classic-sunglasses-60-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+Ferragamo+Polarized+Classic+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo price drop",
@@ -29589,7 +29519,8 @@
   "source_url": "https://slickdeals.net/e/10326844-men-s-ferragamo-polarized-classic-sunglasses-60-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+Ferragamo+Polarized+Classic+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ee22113280e2cc90",
@@ -29756,7 +29687,7 @@
  {
   "id": "ba0b48d69f3de823",
   "title": "CENTURY 21: BALENCIAGA Handbags 70% Off + free s/h",
-  "url": "https://slickdeals.net/e/12584854-century-21-balenciaga-handbags-70-off-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=CENTURY+21+BALENCIAGA+Handbags+70+Off+%2B+free+s+h",
   "why": "",
   "category": "fashion",
   "source": "Web search: Balenciaga sale",
@@ -29768,12 +29699,13 @@
   "source_url": "https://slickdeals.net/e/12584854-century-21-balenciaga-handbags-70-off-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CENTURY+21+BALENCIAGA+Handbags+70+Off+%2B+free+s+h",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5d0e51f1527165dc",
   "title": "Balenciaga Soft lambskin large shopping bag, $1669",
-  "url": "https://slickdeals.net/e/11647859-balenciaga-soft-lambskin-large-shopping-bag-1669?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Balenciaga+Soft+lambskin+large+shopping+bag",
   "why": "",
   "category": "fashion",
   "source": "Web search: Balenciaga sale",
@@ -29785,7 +29717,8 @@
   "source_url": "https://slickdeals.net/e/11647859-balenciaga-soft-lambskin-large-shopping-bag-1669?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Balenciaga+Soft+lambskin+large+shopping+bag",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "af23581780e1f3e3",
@@ -34275,7 +34208,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249853-open-box-dji-mavic-4-pro-fly-more-combo-with-dji-rc-2-1516-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202",
+  "link_tried3": true
  },
  {
   "id": "0e62e59c1be23562",
@@ -34289,11 +34223,11 @@
   "pct": null,
   "price": 696.0,
   "found_at": "2026-11-03T17:31:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249409-dji-mini-5-pro-4k-camera-drone-fly-more-combo-w-rc-n3-controller-696-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+Fly+More+Combo+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dd5a9a1af2fbf8ec",
@@ -34311,7 +34245,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249352-open-box-dji-osmo-360-camera-standard-combo-1-inch-360-imaging-native-8k-video-105gb-storage-256-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Osmo%20360%20Camera%20Standard%20Combo%3A%201-Inch%20360%C2%B0%20Imaging%20Native%208K%20Video%20105GB%20Storage"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Osmo%20360%20Camera%20Standard%20Combo%3A%201-Inch%20360%C2%B0%20Imaging%20Native%208K%20Video%20105GB%20Storage",
+  "link_tried3": true
  },
  {
   "id": "3f114936b66a1ca3",
@@ -34325,11 +34260,11 @@
   "pct": null,
   "price": 128.5,
   "found_at": "2026-11-03T17:31:59Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249223-used-dji-osmo-action-4-camera-standard-essential-combo-128-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Camera+Standard+Essential+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "66214d8b8016e793",
@@ -34377,11 +34312,11 @@
   "pct": null,
   "price": 263.0,
   "found_at": "2026-11-03T17:37:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238099-dji-osmo-pocket-3-1-inch-cmos-gimbal-camera-4k-120fps-263-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+1-Inch+CMOS+Gimbal+Camera+4K+120fps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "535d5e69d4099aaa",
@@ -34431,11 +34366,11 @@
   "pct": null,
   "price": 695.99,
   "found_at": "2026-11-03T17:37:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20218746-google-pixel-10-pro-xl-256gb-unlocked-obsidian-open-box-excellent-695-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Google+-+Pixel+10+Pro+XL+256GB+-+Obsidian+-+Open+Box+-+Excellent",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "110611b0044e2289",
@@ -34449,11 +34384,11 @@
   "pct": null,
   "price": 429.99,
   "found_at": "2026-11-03T17:37:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20198691-google-pixel-watch-5-45mm-lte-satin-pyrite-aluminum-case-olive-active-band-429-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+Watch+5+LTE+Satin+Pyrite+Aluminum+Case+Olive+Active+Band+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3130e09c863495cd",
@@ -34467,11 +34402,11 @@
   "pct": null,
   "price": 599.0,
   "found_at": "2026-11-03T17:37:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20189790-unlocked-pixel-10-pro-128-gb-599-120-days-of-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Unlocked+Pixel+10+Pro+128+GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "56b52be8061ac8dd",
@@ -34503,11 +34438,11 @@
   "pct": null,
   "price": 699.0,
   "found_at": "2026-11-03T17:37:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20174718-google-pixel-10-pro-unlocked-obsidian-128-gb-699?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+10+Pro+-+Unlocked+-+Obsidian+-+128+GB+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cfdea68f3249e873",
@@ -34670,5 +34605,75 @@
   "store": "Amazon",
   "exact": true,
   "similar": "https://www.amazon.com/s?k=Best+Black+Friday+in+July+Apple+deals"
+ },
+ {
+  "id": "daa9b766cf830fe7",
+  "title": "Apple iPhone 14 Pro Max, 256GB...k - Unlocked (Renewed Premium) - down 15.23% ($118.54) to $660.00 from $778.54",
+  "url": "https://www.amazon.com/dp/B0BYLZV28Y",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 118.54,
+  "found_at": "2026-11-03T17:46:36Z",
+  "source_url": "https://camelcamelcamel.com/product/B0BYLZV28Y",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Apple%20iPhone%2014%20Pro%20Max%20256GB...k%20-%20Unlocked%20-%20down%2015.23"
+ },
+ {
+  "id": "3977880d37eed0e2",
+  "title": "Apple Watch Ultra 4 $699.99",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-03T17:46:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245587-apple-watch-ultra-4-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204",
+  "exact": false
+ },
+ {
+  "id": "5bef4dfd8e86aa1c",
+  "title": "NYXI Hyperion 3 Wireless Controller for Nintendo Switch 2 - $34.65 @ AliExpress",
+  "url": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.65,
+  "found_at": "2026-11-03T17:46:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
+  "exact": false
+ },
+ {
+  "id": "a6ece1aa4c20be65",
+  "title": "Samsung Galaxy S26 256GB Unlocked (Excellent Refurbished, 1-Yr Allstate Warranty) $537.56 + Free Shipping w/ code SAVE20TECH",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+S26+256GB+Unlocked",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Samsung Galaxy",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 537.56,
+  "found_at": "2026-11-03T17:46:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20246826-samsung-galaxy-s26-256gb-unlocked-excellent-refurbished-1-yr-allstate-warranty-537-56-free-shipping-w-code-save20tech?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+S26+256GB+Unlocked",
+  "exact": false
  }
 ]
