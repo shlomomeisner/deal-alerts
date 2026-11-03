@@ -5499,7 +5499,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T07:28:20Z"
  },
  {
   "id": "16eaf8de538cf6e5",
@@ -5524,7 +5525,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T07:28:21Z"
  },
  {
   "id": "6104edd228f64ec4",
@@ -5549,7 +5551,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T07:28:23Z"
  },
  {
   "id": "7aeeb030cdbea5f6",
@@ -5574,7 +5577,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T07:28:24Z"
  },
  {
   "id": "efec9c897194bfae",
@@ -5599,7 +5603,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T07:28:26Z"
  },
  {
   "id": "9b18ba97c10d83e8",
@@ -5618,7 +5623,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at",
+  "checked_at": "2026-11-03T07:28:27Z"
  },
  {
   "id": "a7b53356a8236536",
@@ -28152,7 +28158,7 @@
  {
   "id": "6fd6a227b92a7fda",
   "title": "Parfums de Marly Godolphin Eau De Parfum 4.2 oz $189.99 Woot!",
-  "url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Parfums de Marly sale",
@@ -28164,7 +28170,8 @@
   "source_url": "https://slickdeals.net/f/17444514-parfums-de-marly-godolphin-eau-de-parfum-4-2-oz-189-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Parfums+de+Marly+Godolphin+Eau+De+Parfum+4.2+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8a28945e8e93c6ea",
@@ -28401,7 +28408,7 @@
  {
   "id": "a8f74235df3cf482",
   "title": "Apple Silicone Case for iPhone 15 Pro Max $5",
-  "url": "https://slickdeals.net/f/20247237-apple-silicone-case-for-iphone-15-pro-max-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Averizon.com+Apple+Silicone+Case+for+iPhone+15+Pro+Max",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -28413,7 +28420,8 @@
   "source_url": "https://slickdeals.net/f/20247237-apple-silicone-case-for-iphone-15-pro-max-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Averizon.com+Apple+Silicone+Case+for+iPhone+15+Pro+Max",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9bdecf3043d6fde4",
@@ -34892,11 +34900,11 @@
   "pct": null,
   "price": 1245.0,
   "found_at": "2026-11-03T07:16:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Star+Legacy+39MM+Automatic+Silvery+White+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "99787b2210b4fa4e",
@@ -34910,11 +34918,11 @@
   "pct": null,
   "price": 24.0,
   "found_at": "2026-11-03T07:16:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2d1ce5da6e6f8dfd",
@@ -34928,11 +34936,11 @@
   "pct": null,
   "price": 47.99,
   "found_at": "2026-11-03T07:16:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1d762a8a5404ea0f",
@@ -34946,11 +34954,11 @@
   "pct": null,
   "price": 45.99,
   "found_at": "2026-11-03T07:16:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+Set+with+Shower+Gel",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9d08ea6834465c52",
@@ -34982,16 +34990,16 @@
   "pct": null,
   "price": 1250.0,
   "found_at": "2026-11-03T07:16:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18192610-montblanc-watches-41mm-timewalker-automatic-black-dial-men-s-watch-1250-47mm-1858-automatic-black-dial-men-s-watch-1450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Watches+41MM+TimeWalker+Automatic+Black+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "327f2332a20ed21e",
   "title": "Golden Goose Resources Corp. (GGR) Closes $1.03M First Tranche of Private Placement - TradingView",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYzBPRnJfRlNLZUFjOWpiMy1xLWRaUlE2TG5TVUZqR0xadnFVVHlEYWt1ZkFxa1Zja0lUaUx6N2lJWXA0LW5CR0pHNVN0Yzlwek04YnRySEdNTmJRT0VyRENUMS1iQWRyQ1Fpd3ljXzZfNG5UcHBCaTdrdE1xM0EtbEd5RXA5ZE03NE95U0tXYllMSkdxaWV4RnlKZF9ZY2V5eEwzdEdNMlR2UDRGbGhzQzFwYUxkV1lVUThiRUlteks3dGk0MS1WQk5PZHhiamhhZjFINWdqN0w?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Golden Goose sale",
@@ -34999,6 +35007,11 @@
   "hot": false,
   "pct": null,
   "price": 1.03,
-  "found_at": "2026-11-03T07:19:43Z"
+  "found_at": "2026-11-03T07:19:43Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYzBPRnJfRlNLZUFjOWpiMy1xLWRaUlE2TG5TVUZqR0xadnFVVHlEYWt1ZkFxa1Zja0lUaUx6N2lJWXA0LW5CR0pHNVN0Yzlwek04YnRySEdNTmJRT0VyRENUMS1iQWRyQ1Fpd3ljXzZfNG5UcHBCaTdrdE1xM0EtbEd5RXA5ZE03NE95U0tXYllMSkdxaWV4RnlKZF9ZY2V5eEwzdEdNMlR2UDRGbGhzQzFwYUxkV1lVUThiRUlteks3dGk0MS1WQk5PZHhiamhhZjFINWdqN0w?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
+  "exact": false
  }
 ]
