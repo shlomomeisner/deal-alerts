@@ -1,68 +1,5 @@
 [
  {
-  "id": "fc9d1407a359edfd",
-  "title": "Reveler Gold Shield Tortoise",
-  "url": "https://www.mvmt.com/products/reveler-gold-shield-tortoise-28100222?variant=49993824567544",
-  "exact": true,
-  "similar": "https://www.mvmt.com/search?q=Reveler+Gold+Shield+Tortoise",
-  "why": "60% off at MVMT",
-  "category": "watches",
-  "source": "MVMT sale",
-  "store": "MVMT",
-  "store_reader": "MVMT",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 19.2,
-  "was": 48.0,
-  "found_at": "2026-11-02T20:37:09Z",
-  "seen_at": "2026-11-02T20:37:09Z",
-  "checked_at": "2026-11-02T20:37:09Z",
-  "image": "https://cdn.shopify.com/s/files/1/0834/8654/0024/files/28100222_fr.jpg?v=1784139983"
- },
- {
-  "id": "5a32e766a7725eb7",
-  "title": "Reveler Everscroll Tortoise",
-  "url": "https://www.mvmt.com/products/reveler-everscroll-tortoise-28100158?variant=49993824534776",
-  "exact": true,
-  "similar": "https://www.mvmt.com/search?q=Reveler+Everscroll+Tortoise",
-  "why": "60% off at MVMT",
-  "category": "watches",
-  "source": "MVMT sale",
-  "store": "MVMT",
-  "store_reader": "MVMT",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 19.2,
-  "was": 48.0,
-  "found_at": "2026-11-02T20:37:09Z",
-  "seen_at": "2026-11-02T20:37:09Z",
-  "checked_at": "2026-11-02T20:37:09Z",
-  "image": "https://cdn.shopify.com/s/files/1/0834/8654/0024/files/REV-1004-BLUE_fr.jpg?v=1784151430"
- },
- {
-  "id": "b48fdfd6da828564",
-  "title": "Lynx Everscroll Gloss Tortoise",
-  "url": "https://www.mvmt.com/products/lynx-everscroll-gloss-tortoise-28100196?variant=49993822404856",
-  "exact": true,
-  "similar": "https://www.mvmt.com/search?q=Lynx+Everscroll+Gloss+Tortoise",
-  "why": "60% off at MVMT",
-  "category": "watches",
-  "source": "MVMT sale",
-  "store": "MVMT",
-  "store_reader": "MVMT",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 19.2,
-  "was": 48.0,
-  "found_at": "2026-11-02T20:37:09Z",
-  "seen_at": "2026-11-02T20:37:09Z",
-  "checked_at": "2026-11-02T20:37:09Z",
-  "image": "https://cdn.shopify.com/s/files/1/0834/8654/0024/files/28100196_fr.jpg?v=1784139861"
- },
- {
   "id": "27ba065da33a933b",
   "title": "Lynx Everscroll Gloss Black",
   "url": "https://www.mvmt.com/products/lynx-everscroll-gloss-black-28100195?variant=49993822339320",
@@ -5846,7 +5783,8 @@
   "source_url": "https://slickdeals.net/f/19014421-brooks-brothers-semi-annual-sale-40-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Brooks+Brothers+Semi+Annual+40+Off+Sitewide",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:32:00Z"
  },
  {
   "id": "a3208de10b12f471",
@@ -5863,7 +5801,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Best+gaming+monitor+LG%27s+27-inch+240Hz+OLED+hits+-+Mashable",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:32:00Z"
  },
  {
   "id": "ef401b4cd124ccd3",
@@ -5880,7 +5819,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcjN1YndkUVV3LUhja1hNb3VpR3hYcHJGSEJoX1lDczNqZHNYVnkyb0FISFMxNHhXR1dVeWowekJRMDEzYS1WUTQwdWxYU012c21N?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Airpods+For+The+Low+-+This+record+low+AirPods+Pro+is+worth+the+Prime+membership+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T06:32:00Z"
  },
  {
   "id": "341cd11a121e66b5",
@@ -5898,7 +5838,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3d5bjlBb0I1aDYzRjBkaEF4UGNxOFFQclRqd09KY0plT3htbTE5RWNEVFlsdzRBTVFwS21SWnlnRHZEdHhCa3FITUpFOVl4Ynk5akpRTjZnblNxRzVvMzgxRWJZdHB3UTRRSERsaDAwTDhGT0g1MkN6OXlLams1b0VDUUUwWXA0WDBiZXM1VWhTS2xIUVVNWHIycHpVTDFZVm1SVWczbTRoc3ZFMmcw?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Flight%20from%20Buffalo%20to%20NYC%20reportedly%20reached",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T06:32:00Z"
  },
  {
   "id": "80d05c62f2232ed7",
@@ -5919,7 +5860,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20232750-round-trip-washington-dc-to-st-maarten-caribbean-293-airfares-on-american-airlines-be-travel-november-2026-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Washington%20DC%20to%20St%20Maarten%20Caribbean"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Washington%20DC%20to%20St%20Maarten%20Caribbean",
+  "checked_at": "2026-11-03T06:32:02Z"
  },
  {
   "id": "ea4bacfc08829019",
@@ -5944,7 +5886,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:03Z"
  },
  {
   "id": "e90d9eeb8b392d4b",
@@ -5969,7 +5912,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:04Z"
  },
  {
   "id": "fd36e3551f518473",
@@ -5994,7 +5938,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:05Z"
  },
  {
   "id": "232d1739ea0b1dd9",
@@ -6019,7 +5964,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:07Z"
  },
  {
   "id": "38bb16710f66f153",
@@ -6044,7 +5990,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:08Z"
  },
  {
   "id": "8f6df73708afcb2b",
@@ -6069,7 +6016,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:09Z"
  },
  {
   "id": "472862f5ba3511e9",
@@ -6094,7 +6042,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:11Z"
  },
  {
   "id": "9d3bb5e4ad68c68c",
@@ -6119,7 +6068,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:12Z"
  },
  {
   "id": "d1dd3a07bf3543d8",
@@ -6144,7 +6094,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:14Z"
  },
  {
   "id": "4787fad9178f4e21",
@@ -6169,7 +6120,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-03T06:32:15Z"
  },
  {
   "id": "4a279f840b46fe31",
@@ -28197,7 +28149,7 @@
  {
   "id": "55bcb67d9526f04a",
   "title": "Maui Jim Polarized Sunglasses (Various styles/Colors) from $99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
+  "url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -28209,13 +28161,12 @@
   "source_url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "cef6a0d70716fb09",
   "title": "Maui Jim Men's Polarized Sunglasses (Various) $99.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -28227,13 +28178,12 @@
   "source_url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "daa912ae8f546b92",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses (and others) $90 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Maui Jim sale",
@@ -28245,8 +28195,7 @@
   "source_url": "https://slickdeals.net/f/19965573-maui-jim-lighthouse-men-s-polarized-black-sunglasses-and-others-90-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "635b7bbfe4c8517a",
@@ -28833,7 +28782,7 @@
  {
   "id": "06fc5e21dd264307",
   "title": "Lululemon Everywhere 1L Belt bag at Woot.com $31.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Lululemon+Everywhere+1L+Belt+bag",
+  "url": "https://slickdeals.net/f/16954603-lululemon-everywhere-1l-belt-bag-at-woot-com-31-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon price drop",
@@ -28845,8 +28794,7 @@
   "source_url": "https://slickdeals.net/f/16954603-lululemon-everywhere-1l-belt-bag-at-woot-com-31-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Lululemon+Everywhere+1L+Belt+bag",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d81662ef23922513",
@@ -29049,7 +28997,7 @@
  {
   "id": "aa446990dda4df20",
   "title": "Alo Yoga: Black Friday Presale - Up to 70% Off Sitewide",
-  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Black+Friday+Presale+-+Up+to+70+Off+Sitewide",
+  "url": "https://slickdeals.net/e/14587333-alo-yoga-black-friday-presale-up-to-70-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -29061,13 +29009,12 @@
   "source_url": "https://slickdeals.net/e/14587333-alo-yoga-black-friday-presale-up-to-70-off-sitewide?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Black+Friday+Presale+-+Up+to+70+Off+Sitewide",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a235061fa95f8723",
   "title": "Alo Yoga Acme Open-Back Performance Tank $20.8",
-  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Acme+Open-Back+Performance+Tank",
+  "url": "https://slickdeals.net/e/11494523-alo-yoga-acme-open-back-performance-tank-20-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -29079,13 +29026,12 @@
   "source_url": "https://slickdeals.net/e/11494523-alo-yoga-acme-open-back-performance-tank-20-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Acme+Open-Back+Performance+Tank",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "34641b75fd523a44",
   "title": "Alo Yoga Goddess Ribbed Leggings $48.97",
-  "url": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Goddess+Ribbed+Leggings",
+  "url": "https://slickdeals.net/e/11494499-alo-yoga-goddess-ribbed-leggings-48-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Alo Yoga sale",
@@ -29097,8 +29043,7 @@
   "source_url": "https://slickdeals.net/e/11494499-alo-yoga-goddess-ribbed-leggings-48-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+Goddess+Ribbed+Leggings",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e7534d2598b2fc1e",
@@ -35309,5 +35254,155 @@
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
   "exact": false
+ },
+ {
+  "id": "106e209fddf2f8c4",
+  "title": "PDP Afterglow Wireless RGB Deluxe Controller for Nintendo Switch/Switch 2 $25",
+  "url": "https://www.amazon.com/s?k=PDP+Afterglow+Wireless+RGB+Deluxe+Controller+for+Nintendo+Switch+Switch+2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 25.0,
+  "found_at": "2026-11-03T06:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238870-24-99-pdp-afterglow-wireless-rgb-deluxe-controller-for-nintendo-switch-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=PDP+Afterglow+Wireless+RGB+Deluxe+Controller+for+Nintendo+Switch+Switch+2",
+  "exact": false
+ },
+ {
+  "id": "d758d94b424d59d9",
+  "title": "Nintendo Switch 2 Gaming Console $469 + Free Shipping w/ Prime or $6 Fee per Order",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+Gaming+Console",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 469.0,
+  "found_at": "2026-11-03T06:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20248257-nintendo-switch-2-gaming-console-469-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+Gaming+Console",
+  "exact": false
+ },
+ {
+  "id": "37a5c298759d60c1",
+  "title": "XBOX Series X - All Digital Gaming Console - 1TB SSD - Includes XBOX Wireless Controller - 4K Gaming - 120FPS - Robot White $599.99 Walmart",
+  "url": "https://www.walmart.com/search?q=XBOX+Series+X+-+All+Digital+Gaming+Console+-+1TB+SSD+-+Includes+XBOX+Wireless+Co",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Xbox Series X",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 599.99,
+  "found_at": "2026-11-03T06:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20240463-xbox-series-x-all-digital-gaming-console-1tb-ssd-includes-xbox-wireless-controller-4k-gaming-120fps-robot-white-599-99-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=XBOX+Series+X+-+All+Digital+Gaming+Console+-+1TB+SSD+-+Includes+XBOX+Wireless+Co",
+  "exact": false
+ },
+ {
+  "id": "3a47526c47cafb2e",
+  "title": "XBOX Series X: Gaming Console All Digital: 1TB Storage, Wi-Fi 5, USB-C, Includes XBOX Wireless Controller - Robot WhiteXbox Series X Digital $599.99",
+  "url": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Xbox Series X",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 599.99,
+  "found_at": "2026-11-03T06:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
+  "exact": false
+ },
+ {
+  "id": "cf7873b5dbd36b7a",
+  "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Xbox Series X",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-03T06:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
+  "exact": false
+ },
+ {
+  "id": "f36e35bd8382bd1a",
+  "title": "$34.99* | DRAGON QUEST I & II HD-2D Remake (Various Systems) at Amazon",
+  "url": "https://slickdeals.net/f/20230677-34-99-dragon-quest-i-ii-hd-2d-remake-various-systems-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Xbox Series X",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.99,
+  "found_at": "2026-11-03T06:29:21Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "ca6dab01f5f7067f",
+  "title": "GoPro MAX2 360 Action Camera $299",
+  "url": "https://www.bhphotovideo.com/c/search?q=GoPro+MAX2+360+Action+Camera",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: B&H Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 299.0,
+  "found_at": "2026-11-03T06:29:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20248227-gopro-max2-360-action-camera-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bhphotovideo",
+  "similar": "https://www.bhphotovideo.com/c/search?q=GoPro+MAX2+360+Action+Camera",
+  "exact": false
+ },
+ {
+  "id": "f7aca872efb67ba3",
+  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
+  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.99,
+  "found_at": "2026-11-03T06:32:18Z"
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-03T06:32:27Z"
  }
 ]
