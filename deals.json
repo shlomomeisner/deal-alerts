@@ -1,152 +1,5 @@
 [
  {
-  "id": "53ebc4a428982368",
-  "title": "frame-denim The Fringe Coat -- Camel",
-  "url": "https://frame-store.com/products/the-fringe-coat-camel?variant=44743993360560",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=frame-denim+The+Fringe+Coat+--+Camel",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 359.0,
-  "was": 898.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/WP26WOW007-CAML-front_coat-front-packshot-image.jpg?v=1762829055"
- },
- {
-  "id": "e77e321e305354d1",
-  "title": "The Reboot",
-  "url": "https://frame-store.com/products/the-reboot-1?variant=44507928789168",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=The+Reboot",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 519.0,
-  "was": 1298.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/WP27LPA003_DKBR_PCK_Front_08a081ee-6f34-4085-a78b-0ce00fdacc9e.jpg?v=1792895506"
- },
- {
-  "id": "5e1612e57eefc938",
-  "title": "frame-denim Ribbed Crewneck Sweater -- Cream",
-  "url": "https://frame-store.com/products/ribbed-crewneck-sweater-cream?variant=44828303556784",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=frame-denim+Ribbed+Crewneck+Sweater+--+Cream",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 179.0,
-  "was": 448.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/MS26KSW016_CREA_PCK_Front.jpg?v=1789155975"
- },
- {
-  "id": "d8c75ac2bde3c7db",
-  "title": "frame-denim Long Sleeve Polo Sweater -- Warm Grey",
-  "url": "https://frame-store.com/products/l-s-polo-sweater-warm-grey?variant=44876763824304",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=frame-denim+Long+Sleeve+Polo+Sweater+--+Warm+Grey",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 139.0,
-  "was": 348.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/MS26KSW010_WRGY_PCK_Front.jpg?v=1789156192"
- },
- {
-  "id": "5751d784dac38684",
-  "title": "frame-denim Modern Straight -- Vortex",
-  "url": "https://frame-store.com/products/modern-straight-vortex?variant=44507893170352",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=frame-denim+Modern+Straight+--+Vortex",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 99.0,
-  "was": 248.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/LMSST893_VRTX_PCK_Front.jpg?v=1789156051"
- },
- {
-  "id": "5193e17c8a26e270",
-  "title": "frame-denim Crochet Sweater -- Light Stone",
-  "url": "https://frame-store.com/products/l-s-crochet-sweater-light-stone?variant=44921155387568",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=frame-denim+Crochet+Sweater+--+Light+Stone",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 179.0,
-  "was": 448.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/MS26KSW025_LTST_PCK_Front.jpg?v=1789156202"
- },
- {
-  "id": "7a308d5701320449",
-  "title": "frame-denim Ribbed Crewneck Sweater -- Light Mauve",
-  "url": "https://frame-store.com/products/ribbed-crewneck-sweater-light-mauve?variant=44876764053680",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=frame-denim+Ribbed+Crewneck+Sweater+--+Light+Mauve",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 179.0,
-  "was": 448.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/MS26KSW016_LMAU_PCK_Front.jpg?v=1789156208"
- },
- {
   "id": "05b2cf7b5aa2987b",
   "title": "frame-denim Superfine Polo Sweater -- Grey Melange",
   "url": "https://frame-store.com/products/superfine-polo-sweater-grey-melange?variant=44507908276400",
@@ -3542,7 +3395,8 @@
   "price": 1799.99,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Sony+77+BRAVIA+6+OLED+4K+Smart+TV"
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Sony+77+BRAVIA+6+OLED+4K+Smart+TV",
+  "checked_at": "2026-11-03T02:58:07Z"
  },
  {
   "id": "1b0341eeff2dc744",
@@ -3557,7 +3411,8 @@
   "price": 1798.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.amazon.com/s?k=Sony+77+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini"
+  "similar": "https://www.amazon.com/s?k=Sony+77+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini",
+  "checked_at": "2026-11-03T02:58:08Z"
  },
  {
   "id": "52faff8c8d437646",
@@ -3572,7 +3427,8 @@
   "price": 998.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:58:09Z"
  },
  {
   "id": "b49a46feeaea001e",
@@ -3587,7 +3443,8 @@
   "price": 2200.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+77+Sony+BRAVIA+6+OLED+Series+4K+Smart+Google+TV+w+5+Year+Warranty"
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+77+Sony+BRAVIA+6+OLED+Series+4K+Smart+Google+TV+w+5+Year+Warranty",
+  "checked_at": "2026-11-03T02:58:11Z"
  },
  {
   "id": "3952533f1de3f70d",
@@ -3602,7 +3459,8 @@
   "price": 2198.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:58:13Z"
  },
  {
   "id": "a2a30d9b97273cb4",
@@ -3617,7 +3475,8 @@
   "price": 1698.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Sony+65+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini"
+  "similar": "https://www.google.com/search?tbm=shop&q=Sony+65+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini",
+  "checked_at": "2026-11-03T02:58:14Z"
  },
  {
   "id": "59a9b408379e56ec",
@@ -3632,7 +3491,8 @@
   "price": 1098.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Sony+48+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini"
+  "similar": "https://www.google.com/search?tbm=shop&q=Sony+48+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini",
+  "checked_at": "2026-11-03T02:58:15Z"
  },
  {
   "id": "d931de79fdff1290",
@@ -3647,7 +3507,8 @@
   "price": 2198.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:58:17Z"
  },
  {
   "id": "934690ccc899f5c5",
@@ -29673,7 +29534,7 @@
  {
   "id": "6e8a1cbf1cc18807",
   "title": "Oakley Men's Sunglasses OO6042-03-52 - $69.99",
-  "url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29685,7 +29546,8 @@
   "source_url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "17041a89b34f68ba",
@@ -30039,7 +29901,7 @@
  {
   "id": "01347e007c18420b",
   "title": "Persol Sunglasses (polarized and non polarized) from $78 + Free Shipping",
-  "url": "https://slickdeals.net/e/13911527-persol-sunglasses-polarized-and-non-polarized-from-78-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -30051,12 +29913,13 @@
   "source_url": "https://slickdeals.net/e/13911527-persol-sunglasses-polarized-and-non-polarized-from-78-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "06a8c4452d05a815",
   "title": "Persol Pilot Sunglasses (polarized and non-polarized) from $79 + Free Shipping",
-  "url": "https://slickdeals.net/e/13869749-persol-pilot-sunglasses-polarized-and-non-polarized-from-79-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Pilot+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -30068,12 +29931,13 @@
   "source_url": "https://slickdeals.net/e/13869749-persol-pilot-sunglasses-polarized-and-non-polarized-from-79-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Pilot+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5f0bcb9c9f58aa44",
   "title": "Persol Men's Polarized & Non-Polarized Sunglasses (Various Styles) $75 + Free Shipping",
-  "url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -30085,7 +29949,8 @@
   "source_url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "430cac3d4fc3549b",
@@ -35045,11 +34910,11 @@
   "pct": 10,
   "price": 18.88,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20199183-1-7-oz-victoria-s-secret-eau-de-parfum-very-sexy-scarlet-18-88-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=1.7-Oz+Victoria%27s+Secret+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c39a4e1228bc4be6",
@@ -35063,11 +34928,11 @@
   "pct": null,
   "price": 80.85,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20195631-harry-s-men-s-cologne-collection-kin-moonrise-cowboy-classic-eau-de-parfum-quality-80-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Harry%27s+Men%27s+Cologne+Collection-+Kin+Moonrise+Cowboy+Classic-+Eau+de+Parfum+Qua",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "baa89341839ef173",
@@ -35153,11 +35018,11 @@
   "pct": 90,
   "price": null,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6638ba7f7146b824",
@@ -35171,11 +35036,11 @@
   "pct": null,
   "price": 52.01,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18399106-jomashop-men-s-women-s-designer-shoes-reebok-ltd-club-c-low-top-sneakers-limted-sizes-52-01-more-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Men%27s+%26+Women%27s+Designer+Shoes+Reebok+LTD+Club+C+Low-Top+Sneakers",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8fb14a1cb2933f9c",
@@ -35189,11 +35054,11 @@
   "pct": null,
   "price": 32.99,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18360847-3-4-oz-signorina-libera-by-salvatore-ferragamo-edp-perfume-spray-for-women-32-99-free-shipping-w-prime-or-on-35-37-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Signorina+Libera+by+Salvatore+Ferragamo+EDP+Perfume+Spray+for+Women",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f6440df2b6c08101",
@@ -35207,11 +35072,11 @@
   "pct": null,
   "price": 12.99,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18360679-3-4-oz-salvatore-ferragamo-men-s-f-free-time-edt-cologne-spray-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Men%27s+F+Free+Time+EDT+Cologne+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "edc3011663f51a63",
@@ -35225,11 +35090,11 @@
   "pct": null,
   "price": 14.0,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18314524-salvatore-ferragamo-free-time-eau-de-toilette-spray-for-men-3-4-ounce-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Free+Time+Eau+De+Toilette+Spray+for+Men+3.4+Ounce",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "854dfd96d063898d",
@@ -35243,11 +35108,11 @@
   "pct": null,
   "price": 34.99,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18301498-salvatore-ferragamo-ladies-amo-ferragamo-skin-care-gift-set-w-1-7-oz-edp-spray-3-4-oz-body-lotion-34-99-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77c2f0e8becb2989",
@@ -35261,11 +35126,11 @@
   "pct": null,
   "price": 100000.0,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17620569-ferragamo-low-sneaker-with-signature-in-100000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1c3b79ff43976081",
@@ -35279,11 +35144,11 @@
   "pct": null,
   "price": 36.2,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17403888-3-4-oz-salvatore-ferragamo-women-s-amo-ferragamo-eau-de-parfum-spray-36-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Women%27s+Amo+Ferragamo+Eau+de+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a1d1410d184ff04c",
@@ -35297,11 +35162,11 @@
   "pct": 40,
   "price": 32.6,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17369979-women-s-sunglasses-kate-spade-polarized-grey-cat-eye-sunglasses-32-60-ray-ban-erika-classic-polarized-green-classic-80-6-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Women%27s+Sunglasses+Kate+Spade+Polarized+Grey+Cat+Eye+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1e8aa06c202d9b4f",
@@ -35333,11 +35198,11 @@
   "pct": null,
   "price": 51.0,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17248708-jomashop-oakley-rayban-sunglasses-from-51-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+-+Oakley+%26+RayBan+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0694eb59fa695391",
@@ -35351,11 +35216,11 @@
   "pct": null,
   "price": 247.49,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16698065-ferragamo-urban-men-s-watch-247-49-with-coupon-cpferra10-code-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Urban+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "adeda4a2a81f63cc",
@@ -35369,11 +35234,11 @@
   "pct": null,
   "price": 216.0,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16668224-ferragamo-ff-men-s-watch-216-silicone-strap-279-stainless-steel-strap-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+FF+Men%27s+Watch+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "78ce19b86061f7b2",
@@ -35387,11 +35252,11 @@
   "pct": null,
   "price": 219.99,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16650578-ferragamo-gancini-men-s-watch-for-219-99-with-code-lucky12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Gancini+Men%27s+Watch+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "132d82e9c11b7010",
@@ -35405,11 +35270,11 @@
   "pct": 10,
   "price": 319.49,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "eee3b8a8ce972fbd",
@@ -35423,11 +35288,11 @@
   "pct": null,
   "price": 51.0,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1b343e3bd818b3e4",
@@ -35441,11 +35306,11 @@
   "pct": 20,
   "price": null,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16472683-dsw-20-off-qualifying-purchase-with-code-slick20off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DSW+20+off+qualifying+purchase+with+code+SLICK20OFF",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "56ad736edf2b70e1",
@@ -35459,11 +35324,11 @@
   "pct": null,
   "price": 62.0,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2f1d42a88e72d5ed",
@@ -35477,11 +35342,11 @@
   "pct": null,
   "price": 225.0,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bc5e5807568e8654",
@@ -35513,11 +35378,11 @@
   "pct": 70,
   "price": null,
   "found_at": "2026-11-03T02:46:11Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelp6SFk1U3hObnBSR0g4VFVWTVdPWUpKOFBSS3BRekN4NGdXRkd0VlJNbWxNNXNvR1RaYWIya0FiOTNnQ3VjN1NnZThHdnNwWEhrclZNMHByQlNmYnItUEZvUFNRRWhrSER0R3ppUEVocEJPQlcydGZsa2s4cmEwa1JqRE1QYkU3TnlTSU9MODUxZnEyX0xMeml5RjlHMVVBZVlsR2hieU5icVgtYXVqb1l2ajd2Vm9CMDI3QmFrQm5Bb1cxcGpTRGxsR2s2M19yV3dhTGF6b0pYZkx0anU3THlR?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "245c7249709a5fb2",
@@ -35574,19 +35439,6 @@
   "exact": false
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-03T02:49:39Z"
- },
- {
   "id": "e64646d9fce2b360",
   "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae94bc722564b089fbbe6e8a7c3c632&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
@@ -35597,19 +35449,150 @@
   "hot": false,
   "pct": null,
   "price": 26.6,
-  "found_at": "2026-11-03T02:49:43Z"
+  "found_at": "2026-11-03T02:49:43Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae94bc722564b089fbbe6e8a7c3c632&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
+  "exact": false
  },
  {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "ff3d1fe6cd0b300f",
+  "title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
   "why": "",
-  "category": "watches",
-  "source": "Web search: Omega price drop",
+  "category": "fragrance",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 59.46,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
+  "exact": false
+ },
+ {
+  "id": "74b2008d9f2b632c",
+  "title": "$90* | 3.3-Ounce Men's Prada Paradigme Eau De Parfum Refillable Spray at Amazon",
+  "url": "https://slickdeals.net/f/19990950-90-3-3-ounce-men-s-prada-paradigme-eau-de-parfum-refillable-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Prada",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-03T02:49:49Z"
+  "price": 90.0,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "e134b83c53511510",
+  "title": "1.6-Ounce Prada Paradigme Eau de Parfum Rechargeable Spray $81.80 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=1.6-Ounce+Prada+Paradigme+Eau+de+Parfum+Rechargeable+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 81.8,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19890237-1-6-ounce-prada-paradigme-eau-de-parfum-rechargeable-spray-81-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=1.6-Ounce+Prada+Paradigme+Eau+de+Parfum+Rechargeable+Spray",
+  "exact": false
+ },
+ {
+  "id": "b60cf3741d1a7fa2",
+  "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $87.60 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 87.6,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19854645-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-87-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "exact": false
+ },
+ {
+  "id": "009f37304165615e",
+  "title": "Sam's Club: Men's Cologne 3.4-oz Prada Luna Rossa Black Eau De Parfum $68.80 & More + F/S $50+ Plus Members",
+  "url": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 68.8,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsclub",
+  "similar": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
+  "exact": false
+ },
+ {
+  "id": "4320ac292dfd9260",
+  "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $86.50 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 86.5,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "exact": false
+ },
+ {
+  "id": "a7e1813e585eee24",
+  "title": "Giorgio Armani Sunglasses, AR6118 62 - HAVANA BROWN $184.5",
+  "url": "https://www.macys.com/shop/featured/Giorgio%20Armani%20Sunglasses%20AR6118%2062%20-%20HAVANA%20BROWN",
+  "why": "Armani 50% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 184.5,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19629873-giorgio-armani-sunglasses-ar6118-62-havana-brown-184-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Giorgio%20Armani%20Sunglasses%20AR6118%2062%20-%20HAVANA%20BROWN",
+  "exact": false
+ },
+ {
+  "id": "64e101c27ed75b40",
+  "title": "Costa Del Mar Sunglasses Sale - Men's and Women's - Up to 64% off",
+  "url": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": false,
+  "pct": 64,
+  "price": null,
+  "found_at": "2026-11-03T02:54:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
+  "exact": false
  }
 ]
