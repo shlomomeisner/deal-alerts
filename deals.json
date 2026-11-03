@@ -3523,7 +3523,8 @@
   "price": 1699.99,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T03:06:51Z"
  },
  {
   "id": "96cbe36558671df4",
@@ -3538,7 +3539,8 @@
   "price": 564.99,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Open+Boxes+Sony+48+Class+BRAVIA+XR+A90K+OLED+4K+UHD+Smart+Google+TV"
+  "similar": "https://www.google.com/search?tbm=shop&q=Open+Boxes+Sony+48+Class+BRAVIA+XR+A90K+OLED+4K+UHD+Smart+Google+TV",
+  "checked_at": "2026-11-03T03:06:54Z"
  },
  {
   "id": "86446f45af0b486f",
@@ -3553,7 +3555,8 @@
   "price": 2498.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Sony+65+Inch+BRAVIA+8+II+QD+OLED+4K+HDR+Smart+Google+TV"
+  "similar": "https://www.google.com/search?tbm=shop&q=Sony+65+Inch+BRAVIA+8+II+QD+OLED+4K+HDR+Smart+Google+TV",
+  "checked_at": "2026-11-03T03:06:57Z"
  },
  {
   "id": "871463d2e57ebd03",
@@ -3568,7 +3571,8 @@
   "price": 2500.0,
   "found_at": "2026-11-02T20:40:47Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Sony+Bravia+8+II+65+OLED"
+  "similar": "https://www.google.com/search?tbm=shop&q=Sony+Bravia+8+II+65+OLED",
+  "checked_at": "2026-11-03T03:06:58Z"
  },
  {
   "id": "2116f1b5b0bc986e",
@@ -3586,7 +3590,8 @@
   "source_url": "https://slickdeals.net/f/20240295-dyson-hushjet-compact-pure-control-air-purifier-259-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+HushJet+Compact+Pure+Control+Air+Purifier",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:06:59Z"
  },
  {
   "id": "9b5d7055e5a7c6f6",
@@ -3602,7 +3607,8 @@
   "found_at": "2026-11-02T20:40:55Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T03:07:01Z"
  },
  {
   "id": "3d06b9fccc965daa",
@@ -3620,7 +3626,8 @@
   "source_url": "https://slickdeals.net/f/20232024-dyson-purifier-hot-cool-hp11-399-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+Purifier+Hot%2BCool+HP11",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:07:02Z"
  },
  {
   "id": "11a0de8880295c77",
@@ -29552,7 +29559,7 @@
  {
   "id": "17041a89b34f68ba",
   "title": "Ray-Ban, Oakley, & Persol Sunglasses, $48 - $222 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29564,12 +29571,13 @@
   "source_url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77405fee632c279f",
   "title": "Oakley & Smith Pivlock Sunglass Collection Starting at $43.99 +FS",
-  "url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29581,12 +29589,13 @@
   "source_url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c9e945c8b937d285",
   "title": "Oakley Sunglasses: Men's Polarized Valve Rectangular Sunglasses $59 or less w/ 2.5% SD Cashback & More + Free S/H w/ Prime",
-  "url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29598,12 +29607,13 @@
   "source_url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d72c78fb2ac550cc",
   "title": "Oakley Sunglasses: Oakley Chainlink Matte Black Sunglasses (Grey Polarized Lens) $45 & More + Free Shipping",
-  "url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29615,7 +29625,8 @@
   "source_url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f41bef8eb9c2fad3",
@@ -35465,11 +35476,11 @@
   "pct": 30,
   "price": 59.46,
   "found_at": "2026-11-03T02:54:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "74b2008d9f2b632c",
@@ -35553,11 +35564,11 @@
   "pct": null,
   "price": 86.5,
   "found_at": "2026-11-03T02:54:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a7e1813e585eee24",
@@ -35589,10 +35600,28 @@
   "pct": 64,
   "price": null,
   "found_at": "2026-11-03T02:54:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19614381-costa-del-mar-sunglasses-sale-men-s-and-women-s-up-to-64-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Costa+Del+Mar+Sunglasses+-+Men%27s+and+Women%27s+-+Up+to+64+off",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "9c5be835912e7f38",
+  "title": "Prime Members: BIRCEN Womens Acetate Sunglasses (Various Colors) $12 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Prime+Members+BIRCEN+Womens+Acetate+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Prada",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.0,
+  "found_at": "2026-11-03T03:03:41Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19582773-prime-members-bircen-womens-acetate-sunglasses-various-colors-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Prime+Members+BIRCEN+Womens+Acetate+Sunglasses",
   "exact": false
  }
 ]
