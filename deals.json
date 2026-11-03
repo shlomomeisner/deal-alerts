@@ -458,7 +458,8 @@
   "source_url": "https://slickdeals.net/f/20184822-lululemon-shorts-from-14-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Shorts+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:46:43Z"
  },
  {
   "id": "6ee38f057db88765",
@@ -476,7 +477,8 @@
   "source_url": "https://slickdeals.net/f/20146953-lululemon-32l-scuba-backpack-2-colors-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+32L+Scuba+Backpack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:46:44Z"
  },
  {
   "id": "7ff8038627aab01c",
@@ -494,7 +496,8 @@
   "source_url": "https://slickdeals.net/f/20044209-lululemon-women-s-wunder-puff-mini-boot-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Wunder+Puff+Mini+Boot",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:46:46Z"
  },
  {
   "id": "3af2d27fd37c4883",
@@ -512,7 +515,8 @@
   "source_url": "https://slickdeals.net/f/20043942-lululemon-women-s-softstreme-high-rise-4-shorts-black-size-0-2-6-from-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Softstreme+High-Rise+4+Shorts+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:46:48Z"
  },
  {
   "id": "1d1312c96b14b7ce",
@@ -530,7 +534,8 @@
   "source_url": "https://slickdeals.net/f/20028489-lululemon-men-s-lunar-new-year-steady-state-relaxed-fit-jogger-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Lunar+Year+Steady+State+Relaxed-Fit+Jogger",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:46:50Z"
  },
  {
   "id": "6434b117b9768c27",
@@ -548,7 +553,8 @@
   "source_url": "https://slickdeals.net/f/19979676-lululemon-we-made-too-much-under-50-sale-29?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+-+We+made+too+much+under",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:46:51Z"
  },
  {
   "id": "093769d0135de740",
@@ -29333,7 +29339,7 @@
  {
   "id": "f7b1dfba31cad334",
   "title": "Initio Sonic Electric Toothbrush w/ Travel Case + 8 Brush Heads (Various Colors) $11 + Free Shipping w/ Prime or on Orders $25+",
-  "url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29345,12 +29351,13 @@
   "source_url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f75c909e50839ff1",
   "title": "Initio Sonic Electric Toothbrush with Travel Case (4 colors) $12.07 + Free Shipping",
-  "url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29362,12 +29369,13 @@
   "source_url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a9e13a8a44a3d82c",
   "title": "Initio Sonic Electric Toothbrush for Adults (5 colors) $9 + Free Shipping w/ Prime or $25+ orders",
-  "url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29379,7 +29387,8 @@
   "source_url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fbfac18e4b0e3610",
@@ -29400,7 +29409,7 @@
  {
   "id": "0bc0830081b92f9b",
   "title": "HackMotion Sensor 4 $70-$200 off $275",
-  "url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HackMotion+Sensor+4",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -29412,7 +29421,8 @@
   "source_url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HackMotion+Sensor+4",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "08eb4132d419e62d",
@@ -34023,11 +34033,11 @@
   "pct": null,
   "price": 1000.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17167033-romeo-mule-1000?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=romeo+mule+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "80c49cc32ac0e6ba",
@@ -34041,11 +34051,11 @@
   "pct": 40,
   "price": 72.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17144542-jomashop-sunglasses-sale-ray-ban-geometric-72-oakley-fuel-cell-wrap-61-80-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Sunglasses+Ray-Ban+Geometric",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3058bf3f2f22f276",
@@ -34059,11 +34069,11 @@
   "pct": 30,
   "price": 72.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16825979-oakley-prizm-sunglasses-72-ray-ban-caravan-green-classic-g-15-sunglasses-82-more-free-shipping-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=OAKLEY+Prizm+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "21a5ff04d599a97d",
@@ -34077,11 +34087,11 @@
   "pct": 30,
   "price": 63.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16617164-oakley-men-s-cmdn-prizm-grey-browline-sunglasses-63-costa-del-maranaa-ladies-sunglasses-66-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+CMDN+Prizm+Grey+Browline+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f842b402b310c763",
@@ -34095,11 +34105,11 @@
   "pct": null,
   "price": 51.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b19e2fd067298534",
@@ -34113,11 +34123,11 @@
   "pct": 10,
   "price": 660.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16446895-balenciaga-speed-2-0-sneaker-in-black-660?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Balenciaga+Speed+2.0+Sneaker+in+Black+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "47ff94e47b25ab1c",
@@ -34131,11 +34141,11 @@
   "pct": null,
   "price": 63.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16150561-jomashop-sunglasses-sale-ray-ban-aviators-63-men-s-oakley-holbrooks-69-women-s-costa-del-mar-isabelas-53-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Sunglasses+RAY-BAN+Aviators",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "67514d40474a2994",
@@ -34149,11 +34159,11 @@
   "pct": null,
   "price": 120.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15924463-yeezy-gap-items-still-available-120?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Yeezy+Gap+items+still+available+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a85ae7cd8a4d083a",
@@ -34167,11 +34177,11 @@
   "pct": 60,
   "price": 250.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15559555-designer-balenciaga-mallorca-slide-sandal-250?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Balenciaga+Mallorca+Slide+Sandal+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "69b97fcc3bd04511",
@@ -34203,11 +34213,11 @@
   "pct": 30,
   "price": 21.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/14774890-designer-footwear-sale-take-extra-30-off-on-1000-styles-ferragamo-balenciaga-burbery-and-more-starting-at-21?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Footwear+Take+EXTRA+30+OFF+on+1000%2B+styles+-+Ferragamo+Balenciaga+Burbe",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9285b60f6bb95e7b",
@@ -34239,11 +34249,11 @@
   "pct": 70,
   "price": null,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/12584854-century-21-balenciaga-handbags-70-off-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CENTURY+21+BALENCIAGA+Handbags+70+Off+%2B+free+s+h",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "82577faaf61ab279",
@@ -34257,11 +34267,11 @@
   "pct": null,
   "price": 1669.0,
   "found_at": "2026-11-03T22:34:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11647859-balenciaga-soft-lambskin-large-shopping-bag-1669?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Balenciaga+Soft+lambskin+large+shopping+bag",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "82cc73fdce5fc653",
@@ -34294,5 +34304,97 @@
   "link_tried3": true,
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "c04c2214849da734",
+  "title": "$19.99 | Turtle Beach Rematch Wired Controller The Legend of Zelda Nintendo Switch 2 at Amazon",
+  "url": "https://slickdeals.net/f/20239056-19-99-turtle-beach-rematch-wired-controller-the-legend-of-zelda-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-03T22:43:31Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "7be8d96c249cd774",
+  "title": "$3.49 | Squishmallows Original 8in Tudor The Maroon Leatherback Turtle at Amazon",
+  "url": "https://slickdeals.net/f/20061558-3-49-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3.49,
+  "found_at": "2026-11-03T22:43:31Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "80fdf7c76a125d90",
+  "title": "$19.99 Sale for The Tudors: The Complete Series",
+  "url": "https://slickdeals.net/f/19989642-19-99-sale-for-the-tudors-the-complete-series?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-03T22:43:31Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "984b0a6ac9f45526",
+  "title": "This huge 83-inch Sony BRAVIA OLED TV is at its lowest price ever, with a $1,600 discount - Neowin",
+  "url": "https://www.google.com/search?tbm=shop&q=This+huge+83-inch+Sony+BRAVIA+OLED+TV+is+at+its+lowest+price+ever+with+a",
+  "why": "Oled — lowest price ever",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 1600.0,
+  "found_at": "2026-11-03T22:43:31Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFVEc01wOW13U2oxRmNRMlBReXJBVFhhbEJ4UlRfcVFXR1g2WTFrcVRQaXJ6c0tLNVR6MWQwejBpTGdoakx4SDY2bklzRG1NWFF5al9Za1ktYXBFVDhueXN3OFk0eGdyUmhuNjk0RFZHdnJZQnMxUGpIeGJTYV9ZS1lXa0RfMWlYWk84RlRseEhGZFlrN3FDV3VPSVlpOHI2NVlsdFdRbjJQS1VLRjBKWnpJNFV1R3M?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=This+huge+83-inch+Sony+BRAVIA+OLED+TV+is+at+its+lowest+price+ever+with+a",
+  "exact": false
+ },
+ {
+  "id": "f7aca872efb67ba3",
+  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
+  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.99,
+  "found_at": "2026-11-03T22:46:54Z"
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-03T22:47:03Z"
  }
 ]
