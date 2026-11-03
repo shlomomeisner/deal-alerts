@@ -572,7 +572,8 @@
   "source_url": "https://slickdeals.net/f/19901979-lululemon-women-s-energy-longline-bra-3-colors-39-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Energy+Longline+Bra",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:27Z"
  },
  {
   "id": "9d3d7e26e65e2e7c",
@@ -590,7 +591,8 @@
   "source_url": "https://slickdeals.net/f/19841139-lululemon-women-s-organic-cotton-baby-tee-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Organic+Cotton+Baby+Tee",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:28Z"
  },
  {
   "id": "c24efe38c3a195ee",
@@ -608,7 +610,8 @@
   "source_url": "https://slickdeals.net/f/19810434-lululemon-scuba-high-rise-mini-skirt-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+Scuba+High-Rise+Mini+Skirt",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:29Z"
  },
  {
   "id": "fb8d0b4ab88ac52d",
@@ -626,7 +629,8 @@
   "source_url": "https://slickdeals.net/f/19810422-lululemon-wundermost-ultra-soft-nulu-mesh-scoop-back-sleeveless-thong-bodysuit-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+Wundermost+Ultra-Soft+Nulu+Mesh+Scoop-Back+Sleeveless+Thong+Bodysuit",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:31Z"
  },
  {
   "id": "c0b294466f12389c",
@@ -644,7 +648,8 @@
   "source_url": "https://slickdeals.net/f/19809150-lululemon-align-high-rise-shorts-6-9?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Align+High-Rise+Shorts+6",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:32Z"
  },
  {
   "id": "1c8eb4ec1ca1f61d",
@@ -662,7 +667,8 @@
   "source_url": "https://slickdeals.net/f/19805433-lululemon-thermal-high-rise-running-tight-28-39?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+Thermal+High-Rise+Running+Tight+28",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:34Z"
  },
  {
   "id": "9d75c8afce95e077",
@@ -680,7 +686,8 @@
   "source_url": "https://slickdeals.net/f/19805427-lululemon-align-high-rise-leggings-with-pockets-25-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Align+High-Rise+Leggings+with+Pockets+25",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:35Z"
  },
  {
   "id": "68409ec6cd892ca5",
@@ -698,7 +705,8 @@
   "source_url": "https://slickdeals.net/f/19773444-amx-offer-lululemon-spend-135-or-more-earn-35-back?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=Amx+Offer+-+lululemon+spend",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:55:37Z"
  },
  {
   "id": "a9d7b3fcb39835d0",
@@ -29231,7 +29239,7 @@
  {
   "id": "46774eb2bddb37ee",
   "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "url": "https://slickdeals.net/f/17064664-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29243,13 +29251,12 @@
   "source_url": "https://slickdeals.net/f/17064664-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e173ea16b18ae8be",
   "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "url": "https://slickdeals.net/f/16998058-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29261,13 +29268,12 @@
   "source_url": "https://slickdeals.net/f/16998058-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "726ed2651a56e9dc",
   "title": "Initio Sonic Electric Toothbrush w/ Travel Case + 8 Brush Heads (Various Colors) $11 + Free Shipping w/ Prime or on Orders $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "url": "https://slickdeals.net/f/16938931-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29279,13 +29285,12 @@
   "source_url": "https://slickdeals.net/f/16938931-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3b5ac9a2173a3e98",
   "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "url": "https://slickdeals.net/f/16936000-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29297,13 +29302,12 @@
   "source_url": "https://slickdeals.net/f/16936000-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "72b8d686d28815fc",
   "title": "Initio Sonic Electric Toothbrush (4 Colors) $8 + Free Shipping w/ Prime or $35+ orders",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "url": "https://slickdeals.net/f/16866764-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29315,13 +29319,12 @@
   "source_url": "https://slickdeals.net/f/16866764-initio-sonic-electric-toothbrush-4-colors-8-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "20b0be3ab745830f",
   "title": "Initio Sonic Electric Toothbrush (5 Colors) $8 + Free Shipping w/ Prime or $25+ orders",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
+  "url": "https://slickdeals.net/f/16804547-initio-sonic-electric-toothbrush-5-colors-8-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29333,13 +29336,12 @@
   "source_url": "https://slickdeals.net/f/16804547-initio-sonic-electric-toothbrush-5-colors-8-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f7b1dfba31cad334",
   "title": "Initio Sonic Electric Toothbrush w/ Travel Case + 8 Brush Heads (Various Colors) $11 + Free Shipping w/ Prime or on Orders $25+",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
+  "url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29351,13 +29353,12 @@
   "source_url": "https://slickdeals.net/f/16759028-initio-sonic-electric-toothbrush-w-travel-case-8-brush-heads-various-colors-11-free-shipping-w-prime-or-on-orders-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+w+Travel+Case+%2B+8+Brush+Heads",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f75c909e50839ff1",
   "title": "Initio Sonic Electric Toothbrush with Travel Case (4 colors) $12.07 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
+  "url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29369,13 +29370,12 @@
   "source_url": "https://slickdeals.net/f/16723904-initio-sonic-electric-toothbrush-with-travel-case-4-colors-12-07-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+with+Travel+Case",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a9e13a8a44a3d82c",
   "title": "Initio Sonic Electric Toothbrush for Adults (5 colors) $9 + Free Shipping w/ Prime or $25+ orders",
-  "url": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
+  "url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Initio",
@@ -29387,8 +29387,7 @@
   "source_url": "https://slickdeals.net/f/16719425-initio-sonic-electric-toothbrush-for-adults-5-colors-9-free-shipping-w-prime-or-25-orders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Initio+Sonic+Electric+Toothbrush+for+Adults",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fbfac18e4b0e3610",
@@ -29409,7 +29408,7 @@
  {
   "id": "0bc0830081b92f9b",
   "title": "HackMotion Sensor 4 $70-$200 off $275",
-  "url": "https://www.google.com/search?tbm=shop&q=HackMotion+Sensor+4",
+  "url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -29421,8 +29420,7 @@
   "source_url": "https://slickdeals.net/f/20234229-hackmotion-sensor-4-70-200-off-275?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HackMotion+Sensor+4",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "08eb4132d419e62d",
@@ -34365,36 +34363,269 @@
   "pct": null,
   "price": 1600.0,
   "found_at": "2026-11-03T22:43:31Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFVEc01wOW13U2oxRmNRMlBReXJBVFhhbEJ4UlRfcVFXR1g2WTFrcVRQaXJ6c0tLNVR6MWQwejBpTGdoakx4SDY2bklzRG1NWFF5al9Za1ktYXBFVDhueXN3OFk0eGdyUmhuNjk0RFZHdnJZQnMxUGpIeGJTYV9ZS1lXa0RfMWlYWk84RlRseEhGZFlrN3FDV3VPSVlpOHI2NVlsdFdRbjJQS1VLRjBKWnpJNFV1R3M?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+huge+83-inch+Sony+BRAVIA+OLED+TV+is+at+its+lowest+price+ever+with+a",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "1ed86dd689c7165a",
+  "title": "Squishmallows Original 8in Tudor The Maroon Leatherback Turtle $5.02 + Free S&H w/ Prime or $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Squishmallows+Original+8in+Tudor+The+Maroon+Leatherback+Turtle",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 5.02,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Squishmallows+Original+8in+Tudor+The+Maroon+Leatherback+Turtle",
   "exact": false
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-03T22:46:54Z"
- },
- {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "8338e10583c21465",
+  "title": "Tudor's Biscuit World- $2.50 chili dogs",
+  "url": "https://www.google.com/search?tbm=shop&q=Tudor%27s+Biscuit+World-",
   "why": "",
   "category": "watches",
-  "source": "Web search: Omega price drop",
+  "source": "Slickdeals: Tudor",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-03T22:47:03Z"
+  "price": 2.5,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Tudor%27s+Biscuit+World-",
+  "exact": false
+ },
+ {
+  "id": "945d20969947ccd2",
+  "title": "Hasbro Gaming Clue Escape: Treachery at Tudor Mansion $3.99 + Free Shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Hasbro+Gaming+Clue+Escape+Treachery+at+Tudor+Mansion",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3.99,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19152106-hasbro-gaming-clue-escape-treachery-at-tudor-mansion-3-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hasbro+Gaming+Clue+Escape+Treachery+at+Tudor+Mansion",
+  "exact": false
+ },
+ {
+  "id": "96f5f9dd5b8ff444",
+  "title": "Lego - Icons Tudor Corner Building Kit - 10350 - $189.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Lego+-+Icons+Tudor+Corner+Building+Kit+-+10350+-",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 189.99,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18839467-lego-icons-tudor-corner-building-kit-10350-189-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Lego+-+Icons+Tudor+Corner+Building+Kit+-+10350+-",
+  "exact": false
+ },
+ {
+  "id": "b9fb244bb21617a0",
+  "title": "Cluedo: An Escape And Solve Mystery Board Game Treachery At Tudor Mansion(Ages 10+) $8.78 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=Cluedo+An+Escape+And+Solve+Mystery+Board+Game+Treachery+At+Tudor+Mansion",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.78,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18807088-cluedo-an-escape-and-solve-mystery-board-game-treachery-at-tudor-mansion-ages-10-8-78-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Cluedo+An+Escape+And+Solve+Mystery+Board+Game+Treachery+At+Tudor+Mansion",
+  "exact": false
+ },
+ {
+  "id": "cd0bb40a47c93e82",
+  "title": "Clue Board Game Treachery at Tudor Mansion, Clue Escape Room Game, Murder Mystery Games, Cooperative Family Board Game, Ages 10 and up, 1-6 Players $8.98",
+  "url": "https://www.amazon.com/s?k=Clue+Board+Game+Treachery+at+Tudor+Mansion+Clue+Escape+Room+Game+Murder+Mystery+",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.98,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18661039-clue-board-game-treachery-at-tudor-mansion-clue-escape-room-game-murder-mystery-games-cooperative-family-board-game-ages-10-and-up-1-6-players-8-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Clue+Board+Game+Treachery+at+Tudor+Mansion+Clue+Escape+Room+Game+Murder+Mystery+",
+  "exact": false
+ },
+ {
+  "id": "bf7592e40dbd0554",
+  "title": "Tudor 41mm 1926 Automatic Silver Dial Men's Watch $1795 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Tudor+41mm+1926+Automatic+Silver+Dial+Men%27s+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1795.0,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18487291-tudor-41mm-1926-automatic-silver-dial-men-s-watch-1795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Tudor+41mm+1926+Automatic+Silver+Dial+Men%27s+Watch",
+  "exact": false
+ },
+ {
+  "id": "8826a4685fed5215",
+  "title": "Breitling Top Time B01 Deus Chronograph Automatic Chronometer Black Dial Men's Watch $3450 & More + Free Shipping",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Top+Time+B01+Deus+Chronograph+Automatic+Chronometer+Black+Dial+Men%27s+W",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3450.0,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18295441-breitling-top-time-b01-deus-chronograph-automatic-chronometer-black-dial-men-s-watch-3450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Top+Time+B01+Deus+Chronograph+Automatic+Chronometer+Black+Dial+Men%27s+W",
+  "exact": false
+ },
+ {
+  "id": "6f0db578147517b3",
+  "title": "Breitling Endurance Pro Chronograph Quartz Chronometer Black Dial Men's Watch $1895 + Free Shipping",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Endurance+Pro+Chronograph+Quartz+Chronometer+Black+Dial+Men%27s+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1895.0,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18276298-breitling-endurance-pro-chronograph-quartz-chronometer-black-dial-men-s-watch-1895-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Endurance+Pro+Chronograph+Quartz+Chronometer+Black+Dial+Men%27s+Watch",
+  "exact": false
+ },
+ {
+  "id": "5d145dc57b57ec9e",
+  "title": "Breitling Navitimer Super 8 B20 Automatic Chronometer 46 mm Black Dial Men's Watch $1995 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Breitling+Navitimer+Super+8+B20+Automatic+Chronometer+46+mm+Black+Dial+Men%27s+Wat",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1995.0,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18178798-breitling-navitimer-super-8-b20-automatic-chronometer-46-mm-black-dial-men-s-watch-1995-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Breitling+Navitimer+Super+8+B20+Automatic+Chronometer+46+mm+Black+Dial+Men%27s+Wat",
+  "exact": false
+ },
+ {
+  "id": "09b51176caedece6",
+  "title": "Citizen Promaster Dive Automatic Watch - \"Fugu\" $279.99 @ Gilt.com",
+  "url": "https://www.google.com/search?tbm=shop&q=Citizen+Promaster+Dive+Automatic+Watch+-+Fugu",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Gilt",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 279.99,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17747739-citizen-promaster-dive-automatic-watch-fugu-279-99-gilt-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Promaster+Dive+Automatic+Watch+-+Fugu",
+  "exact": false
+ },
+ {
+  "id": "6b3ec347f7a9ba3a",
+  "title": "Hugo Boss Unisex Boss 1088/S 56mm Sunglasses $69.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Unisex+Boss+1088+S+56mm+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gilt",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16738571-hugo-boss-unisex-boss-1088-s-56mm-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Unisex+Boss+1088+S+56mm+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "edb577632f8b9454",
+  "title": "Gucci Mesh, Leather and Infinity Stone Sandal - $699.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Gucci+Mesh+Leather+and+Infinity+Stone+Sandal+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Gilt",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-03T22:52:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16401784-gucci-mesh-leather-and-infinity-stone-sandal-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Mesh+Leather+and+Infinity+Stone+Sandal+-",
+  "exact": false
+ },
+ {
+  "id": "ee79d669e2baef6f",
+  "title": "Avianca Cuenca-Guayaquil From $97: How to Connect to New York - deeparrival.com",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20deeparrival%20on%202026-12-08%20through%202026-12-13&hl=en&gl=us&curr=USD",
+  "why": "$97 from NEW YORK",
+  "category": "flights",
+  "source": "Google: airline sale",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 97.0,
+  "found_at": "2026-11-03T22:52:15Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXJTczVUQjBhN2NEWG03ZVNNdG5xVE1EUTE3dXFCeUtYdTQweFBHZlRyM0N0SHhHRGxHaXpFNDJQMVEwdDNHU0h5NjJ2dVM1bThLcW9fQ29OTGNQaGZaMExoSWZsNmZsMk55VDc0MU01Z1EyNktYYm9mRUlqci1IamlaMU9ldWJidUE?oc=5",
+  "picked": true,
+  "depart": "2026-12-08",
+  "return": "2026-12-13",
+  "fcode": [
+   "NYC",
+   null
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20deeparrival&hl=en&gl=us&curr=USD",
+  "route_fixed2": true
  }
 ]
