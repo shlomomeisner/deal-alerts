@@ -1504,7 +1504,8 @@
   "source_url": "https://slickdeals.net/f/20211648-apple-macbook-air-early-2026-15-3-m5-24gb-ram-1tb-ssd-more-1699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20MacBook%20Air%2015.3%20M5%2024GB%20RAM%201TB%20SSD%20%26%20More",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:16Z"
  },
  {
   "id": "bc786cac03bf2f85",
@@ -1521,23 +1522,8 @@
   "source_url": "https://slickdeals.net/f/20226150-hp-omnibook-x-14-3k-120hz-oled-touch-rtx-spark-n1x-20-core-64gb-lpddr5x-9400-2tb-ssd-3499-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HP+OmniBook+X+14+3K+120Hz+OLED+Touch+RTX+Spark+N1X+20-core+64GB+LPDDR5x-9400+2TB",
-  "exact": false
- },
- {
-  "id": "2db375454c64bcf3",
-  "title": "Logitech Combo Touch iPad Pro ...& M5 Keyboard - Midnight Black - down 50.00% ($130.00) to $129.99 from $259.99",
-  "url": "https://www.amazon.com/dp/B0D3NKVVM6",
-  "why": "",
-  "category": "tech",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 130.0,
-  "found_at": "2026-11-02T20:18:10Z",
-  "source_url": "https://camelcamelcamel.com/product/B0D3NKVVM6",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Logitech+Combo+Touch+iPad+Pro+...%26+M5+Keyboard+-+Midnight+Black+-+down+50.00"
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:17Z"
  },
  {
   "id": "8b678efd3340dda8",
@@ -1555,7 +1541,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42TDdSVE1lMzQwS05rOGRwMDFsVEtHbEhhdE9KT1hmYUd3V09iTGdxTldlWGR5ODc3bkdFNk11NGlwT216NHE2ejRpWGhoRHV4NjdXQzlyMDRwcURxbnY5N19BTjF1TnBQN1djdWc2MGwzQTA?oc=5",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/The%20Apple%20Watch%20Ultra%204%20just%20hit%20its%20lowest%20price%20ever%20ahead%20of%20Black%20Friday%20-%20Z",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:19Z"
  },
  {
   "id": "b868f90a4b83fe10",
@@ -1573,7 +1560,8 @@
   "source_url": "https://slickdeals.net/f/20235876-costco-members-14-2-apple-macbook-pro-laptop-3024x1964-m5-chip-16gb-1tb-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+14.2+Apple+MacBook+Pro+Laptop+3024x1964+M5+Chip+16GB+1TB",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:20Z"
  },
  {
   "id": "a90c5d5496214c1f",
@@ -1591,7 +1579,8 @@
   "source_url": "https://slickdeals.net/f/20235504-14-apple-macbook-pro-3024x1964-120hz-m5-10-core-chip-16gb-ram-1tb-ssd-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/14%20Apple%20MacBook%20Pro%203024x1964%20120Hz%20M5%2010-Core%20Chip%2016GB%20RAM%201TB%20SSD",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:21Z"
  },
  {
   "id": "0e9ca21d49ee42c0",
@@ -1609,7 +1598,8 @@
   "source_url": "https://slickdeals.net/f/20229570-apple-macbook-pro-14-inch-laptop-m6-chip-with-12-core-cpu-and-12-core-gpu-free-100-e-gift-card-from-1999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+14-inch+Laptop+-+M6+chip+with+12-core+CPU+and+12-core+GPU+%2BF",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:23Z"
  },
  {
   "id": "24f004c80bbb5859",
@@ -1627,7 +1617,8 @@
   "source_url": "https://slickdeals.net/f/20229555-apple-macbook-pro-16-inch-laptop-with-proled-xdr-touch-display-m5-pro-chip-free-100-e-gift-card-from-3999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+16-inch+Laptop+with+PROLED+XDR+Touch+Display+-+M5+Pro+chip+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:24Z"
  },
  {
   "id": "0a27e9243dc00fab",
@@ -1645,7 +1636,8 @@
   "source_url": "https://slickdeals.net/f/20229528-apple-macbook-pro-14-inch-laptop-with-proled-xdr-touch-display-m5-pro-chip-free-100-e-gift-card-from-2899?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+14-inch+Laptop+with+PROLED+XDR+Touch+Display+-+M5+Pro+chip+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:25Z"
  },
  {
   "id": "eaa0ddd5a20429c2",
@@ -1663,7 +1655,8 @@
   "source_url": "https://slickdeals.net/f/20225862-apple-macbook-pro-14-2-m5-32gb-ram-1tb-ssd-1999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20MacBook%20Pro%2014.2%20M5%2032GB%20RAM%201TB%20SSD",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:26Z"
  },
  {
   "id": "591d50c24570847f",
@@ -1681,7 +1674,8 @@
   "source_url": "https://slickdeals.net/f/20222673-apple-macbook-pro-early-2026-16-2-m5-pro-18c-20c-24gb-ram-1tb-ssd-silver-2499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20MacBook%20Pro%2016.2%20M5%20Pro%2024GB%20RAM%201TB%20SSD%20Silver",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:27Z"
  },
  {
   "id": "6f961b796fb7796c",
@@ -1699,7 +1693,8 @@
   "source_url": "https://slickdeals.net/f/20245587-apple-watch-ultra-4-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:49:28Z"
  },
  {
   "id": "e0bcbf33265b583d",
@@ -1715,7 +1710,8 @@
   "found_at": "2026-11-02T20:21:39Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T00:49:29Z"
  },
  {
   "id": "c936c8c7bfd04e08",
@@ -1731,7 +1727,8 @@
   "found_at": "2026-11-02T20:21:39Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T00:49:30Z"
  },
  {
   "id": "27a092d2e94f50ee",
@@ -1747,7 +1744,8 @@
   "found_at": "2026-11-02T20:21:39Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T00:49:32Z"
  },
  {
   "id": "01760d882a564d09",
@@ -28810,7 +28808,7 @@
  {
   "id": "4ce5dc3fd998fd2f",
   "title": "Ralph Lauren 2-Piece World of Polo Eau de Toilette Gift Set $21.00",
-  "url": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+2-Piece+World+of+Polo+Eau+de+Toilette+Gift+Set",
+  "url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -28822,8 +28820,7 @@
   "source_url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+2-Piece+World+of+Polo+Eau+de+Toilette+Gift+Set",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "eed71a7e4bf0757e",
@@ -28844,7 +28841,7 @@
  {
   "id": "6691b6ace28a316e",
   "title": "[Prime] Ralph Lauren Ralph 3.4-Oz Eau de Toilette $61.80 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+Ralph+3.4-Oz+Eau+de+Toilette",
+  "url": "https://slickdeals.net/f/20120679-prime-ralph-lauren-ralph-3-4-oz-eau-de-toilette-61-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -28856,8 +28853,7 @@
   "source_url": "https://slickdeals.net/f/20120679-prime-ralph-lauren-ralph-3-4-oz-eau-de-toilette-61-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+Ralph+3.4-Oz+Eau+de+Toilette",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "014503e4a4a560fa",
@@ -28880,7 +28876,7 @@
  {
   "id": "2c809cbe5896224c",
   "title": "4-Piece Lauren Ralph Lauren Spencer 475-Thread Count Cotton Sateen Sheet Set (Queen, Various Colors) $67.83 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=4-Piece+Lauren+Ralph+Lauren+Spencer+475-Thread+Count+Cotton+Sateen+Sheet+Set",
+  "url": "https://slickdeals.net/f/20071476-4-piece-lauren-ralph-lauren-spencer-475-thread-count-cotton-sateen-sheet-set-queen-various-colors-67-83-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -28892,8 +28888,7 @@
   "source_url": "https://slickdeals.net/f/20071476-4-piece-lauren-ralph-lauren-spencer-475-thread-count-cotton-sateen-sheet-set-queen-various-colors-67-83-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=4-Piece+Lauren+Ralph+Lauren+Spencer+475-Thread+Count+Cotton+Sateen+Sheet+Set",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a28278797dcd11cd",
@@ -28934,7 +28929,7 @@
  {
   "id": "3538ca55be5517b5",
   "title": "Extra 30% Off: Ralph Lauren Labor Day Event",
-  "url": "https://www.google.com/search?tbm=shop&q=Extra+30+Off+Ralph+Lauren+Labor+Day+Event",
+  "url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ralph Lauren sale",
@@ -28946,8 +28941,7 @@
   "source_url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Extra+30+Off+Ralph+Lauren+Labor+Day+Event",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "107edceb6e627b94",
@@ -28970,7 +28964,7 @@
  {
   "id": "fd989c2d449ff3f4",
   "title": "2.5oz Ralph Lauren Men's Polo 67 Eau de Parfum $40 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=2.5oz+Ralph+Lauren+Men%27s+Polo+67+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/19910031-2-5oz-ralph-lauren-men-s-polo-67-eau-de-parfum-40-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -28982,13 +28976,12 @@
   "source_url": "https://slickdeals.net/f/19910031-2-5oz-ralph-lauren-men-s-polo-67-eau-de-parfum-40-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2.5oz+Ralph+Lauren+Men%27s+Polo+67+Eau+de+Parfum",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3cb5ee87c6fcda30",
   "title": "2.5-Oz Ralph Lauren Polo 67 Eau de Parfum Cologne for Men $40 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=2.5-Oz+Ralph+Lauren+Polo+67+Eau+de+Parfum+Cologne+for+Men",
+  "url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ralph Lauren sale",
@@ -29000,8 +28993,7 @@
   "source_url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2.5-Oz+Ralph+Lauren+Polo+67+Eau+de+Parfum+Cologne+for+Men",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6257337fcf8ce88c",
@@ -29147,7 +29139,7 @@
  {
   "id": "1154e731d10180f6",
   "title": "UGG Women's GoldenGlow Toggle Sandals $47.99 + Free Store Pick-Up at Urban Outfitters or FS on $60+",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+GoldenGlow+Toggle+Sandals",
+  "url": "https://slickdeals.net/f/20132436-ugg-women-s-goldenglow-toggle-sandals-47-99-free-store-pick-up-at-urban-outfitters-or-fs-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -29159,13 +29151,12 @@
   "source_url": "https://slickdeals.net/f/20132436-ugg-women-s-goldenglow-toggle-sandals-47-99-free-store-pick-up-at-urban-outfitters-or-fs-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+GoldenGlow+Toggle+Sandals",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8600342f3c4cba30",
   "title": "[Prime] UGG Whitecap 50\" x 70\" Plush Fleece Throw Blanket (3 Colors) $59.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Whitecap+50+x+70+Plush+Fleece+Throw+Blanket",
+  "url": "https://slickdeals.net/f/20123034-prime-ugg-whitecap-50-x-70-plush-fleece-throw-blanket-3-colors-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -29177,13 +29168,12 @@
   "source_url": "https://slickdeals.net/f/20123034-prime-ugg-whitecap-50-x-70-plush-fleece-throw-blanket-3-colors-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Whitecap+50+x+70+Plush+Fleece+Throw+Blanket",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b0294b35224565c2",
   "title": "Woot! Fall Shoes: Hunter, UGG, & More: Muck Men's Excursion Pro Mid Boots $54.60 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Fall+Shoes+Hunter+UGG+%26+More+Muck+Men%27s+Excursion+Pro+Mid+Boots",
+  "url": "https://slickdeals.net/f/20114961-woot-fall-shoes-hunter-ugg-more-muck-men-s-excursion-pro-mid-boots-54-60-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -29195,13 +29185,12 @@
   "source_url": "https://slickdeals.net/f/20114961-woot-fall-shoes-hunter-ugg-more-muck-men-s-excursion-pro-mid-boots-54-60-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+Fall+Shoes+Hunter+UGG+%26+More+Muck+Men%27s+Excursion+Pro+Mid+Boots",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "14a7a98841b879c7",
   "title": "Extra 22% off on Fall Shoes: Hunter, UGG, & More at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Fall+Shoes+Hunter+UGG+%26+More",
+  "url": "https://slickdeals.net/f/20119698-extra-22-off-on-fall-shoes-hunter-ugg-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG sale",
@@ -29213,13 +29202,12 @@
   "source_url": "https://slickdeals.net/f/20119698-extra-22-off-on-fall-shoes-hunter-ugg-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Fall+Shoes+Hunter+UGG+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "be30aca49322bcde",
   "title": "Koolaburra by UGG Women's FUZZ'N II Sandal, Natural, Size 8 - $22.74 and More Options",
-  "url": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+UGG+Women%27s+FUZZ%27N+II+Sandal+Natural+Size+8+-",
+  "url": "https://slickdeals.net/f/16996177-koolaburra-by-ugg-women-s-fuzz-n-ii-sandal-natural-size-8-22-74-and-more-options?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -29231,8 +29219,7 @@
   "source_url": "https://slickdeals.net/f/16996177-koolaburra-by-ugg-women-s-fuzz-n-ii-sandal-natural-size-8-22-74-and-more-options?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+UGG+Women%27s+FUZZ%27N+II+Sandal+Natural+Size+8+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "09687fe832f9c337",
@@ -29253,7 +29240,7 @@
  {
   "id": "3322fca0cfcfd333",
   "title": "Koolaburra by Ugg Women's Sherpa Fleece Shawl $15 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+Ugg+Women%27s+Sherpa+Fleece+Shawl",
+  "url": "https://slickdeals.net/f/16406656-koolaburra-by-ugg-women-s-sherpa-fleece-shawl-15-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -29265,13 +29252,12 @@
   "source_url": "https://slickdeals.net/f/16406656-koolaburra-by-ugg-women-s-sherpa-fleece-shawl-15-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+Ugg+Women%27s+Sherpa+Fleece+Shawl",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "77f948fe4e384991",
   "title": "Saks off 5th: ugg perforated shearling glove [free shipping via shop runner] small/large size only. $31.49",
-  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+off+5th+ugg+perforated+shearling+glove+small+large+size+only.",
+  "url": "https://slickdeals.net/e/13738088-saks-off-5th-ugg-perforated-shearling-glove-free-shipping-via-shop-runner-small-large-size-only-31-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -29283,13 +29269,12 @@
   "source_url": "https://slickdeals.net/e/13738088-saks-off-5th-ugg-perforated-shearling-glove-free-shipping-via-shop-runner-small-large-size-only-31-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+off+5th+ugg+perforated+shearling+glove+small+large+size+only.",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "091b78066110c6fa",
   "title": "UGG Women's W Bailey Bow Ii Fashion Boot for $49.95! Huge Price Drop!",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for",
+  "url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -29301,13 +29286,12 @@
   "source_url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c7c25f4522cc2567",
   "title": "UGG Women's W Bailey Bow Ii Fashion Boot for just $49.95! Huge Price Drop!",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for+just",
+  "url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -29319,13 +29303,12 @@
   "source_url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for+just",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c259de3fd306fe4c",
   "title": "UGG Clearance Sale! Up to 60% off plus extra 10% off with code",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Clearance+Up+to+60+off+plus+extra+10+off+with+code",
+  "url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -29337,13 +29320,12 @@
   "source_url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Clearance+Up+to+60+off+plus+extra+10+off+with+code",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c9a57d5e29a9684a",
   "title": "UGG Classic Unlined Mini Ankle Boot (Women's) Reg. $120 now $48.71 + F/S",
-  "url": "https://www.google.com/search?tbm=shop&q=UGG+Classic+Unlined+Mini+Ankle+Boot+Reg.",
+  "url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: UGG price drop",
@@ -29355,8 +29337,7 @@
   "source_url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Classic+Unlined+Mini+Ankle+Boot+Reg.",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1c42be5557486691",
@@ -29609,7 +29590,7 @@
  {
   "id": "9ac1b8e61dcddd72",
   "title": "3.4-Oz Tom Ford Ombre Leather Men's Eau De Parfum $112 ~ Woot",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+3.4-Oz+Tom+Ford+Ombre+Leather+Men%27s+Eau+De+Parfum",
+  "url": "https://slickdeals.net/f/18931168-3-4-oz-tom-ford-ombre-leather-men-s-eau-de-parfum-112-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -29621,8 +29602,7 @@
   "source_url": "https://slickdeals.net/f/18931168-3-4-oz-tom-ford-ombre-leather-men-s-eau-de-parfum-112-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+3.4-Oz+Tom+Ford+Ombre+Leather+Men%27s+Eau+De+Parfum",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dcbce20c1f11daaf",
@@ -29645,7 +29625,7 @@
  {
   "id": "e5a5c56c22e7e510",
   "title": "Asiana: New York – Phuket, Thailand. $845. Roundtrip, including all Taxes",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjBqBRIDTllDcgUSA0hLVBoaEgoyMDI3LTAxLTI3agUSA0hLVHIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://www.theflightdeal.com/2026/11/02/asiana-new-york-phuket-thailand-845-roundtrip-including-all-taxes/",
   "why": "🌴 NEW YORK → Phuket",
   "category": "flights",
   "source": "The Flight Deal",
@@ -29665,8 +29645,7 @@
    "HKT"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HKT&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HKT&hl=en&gl=us&curr=USD"
  },
  {
   "id": "118f29e19d9d17ae",
@@ -29705,7 +29684,7 @@
  {
   "id": "40d02f40b2459ebe",
   "title": "83\" LG C6 OLED evo AI 4K 120Hz HDR Smart TV $2387 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
+  "url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -29717,8 +29696,7 @@
   "source_url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b6c724522b71db96",
@@ -35966,11 +35944,11 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-11-03T00:38:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3b9656feff013e68",
@@ -35984,11 +35962,11 @@
   "pct": null,
   "price": 99.99,
   "found_at": "2026-11-03T00:38:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20136123-maui-jim-men-s-polarized-sunglasses-various-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Men%27s+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5e096280de0d59e9",
@@ -36002,11 +35980,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T00:38:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20128317-woot-sunglasses-maui-jim-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+-+Sunglasses+Maui+Jim+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9adb906f3f94960a",
@@ -36020,16 +35998,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T00:38:50Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20041857-sunglasses-maui-jim-serengeti-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Sunglasses+Maui+Jim+Serengeti+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2bd3506838ffd4de",
   "title": "Golden Goose Resources Corp. (GGR) Closes $1.03M First Tranche - TradingView",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0oxWGdMa3p0QWVOalFYN3hkWUlZOFA0MXZkaWF4dkFlSjRUbnRHR3ptd1NjRmNLdlZtc082ZGlrbjFpb2J6UUxsSzJub1Y3VkctaGEzTktYMmllZVE5cUVFLTUwdC1UbGN6NktZbWpxd0x2bVFCM0UzMWVXV3FweEd0YjhuWU53SmlWenB3S18zNEJoNFhxR040VEotYzR0bkZlTG10a1BjZkZydHBfUWN4NGxOVUV5ZDhSNzI4QUd1dw?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Golden Goose sale",
@@ -36037,6 +36015,349 @@
   "hot": false,
   "pct": null,
   "price": 1.03,
-  "found_at": "2026-11-03T00:41:38Z"
+  "found_at": "2026-11-03T00:41:38Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0oxWGdMa3p0QWVOalFYN3hkWUlZOFA0MXZkaWF4dkFlSjRUbnRHR3ptd1NjRmNLdlZtc082ZGlrbjFpb2J6UUxsSzJub1Y3VkctaGEzTktYMmllZVE5cUVFLTUwdC1UbGN6NktZbWpxd0x2bVFCM0UzMWVXV3FweEd0YjhuWU53SmlWenB3S18zNEJoNFhxR040VEotYzR0bkZlTG10a1BjZkZydHBfUWN4NGxOVUV5ZDhSNzI4QUd1dw?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
+  "exact": false
+ },
+ {
+  "id": "2780e677d3f8688b",
+  "title": "[WTS] Tom Ford Plum Japonais 2015 batch (1, 2, 5, 10, 20, 30ml, 50ml, 50ml +) (Decant)",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Plum+Japonais+2015+batch",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmesel/wts_tom_ford_plum_japonais_2015_batch_1_2_5_10_20/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Plum+Japonais+2015+batch",
+  "exact": false
+ },
+ {
+  "id": "2f3e0c544d8352e9",
+  "title": "Citizen Men's Eco-Drive Dive 3 43.5mm Super Titanium Analog Watch $414.86 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 414.86,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245518-citizen-men-s-eco-drive-dive-3-43-5mm-super-titanium-analog-watch-414-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Dive+3+43.5mm+Super+Titanium+Analog+Watch",
+  "exact": false
+ },
+ {
+  "id": "fc21dde7daa45442",
+  "title": "Citizen Men's Eco-Drive Classic 42mm Stainless Steel Bracelet Watch (AW0081-54L) $176.14 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Classic+42mm+Stainless+Steel+Bracelet+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 176.14,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20234430-citizen-men-s-eco-drive-classic-42mm-stainless-steel-bracelet-watch-aw0081-54l-176-14-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Eco-Drive+Classic+42mm+Stainless+Steel+Bracelet+Watch",
+  "exact": false
+ },
+ {
+  "id": "0bc16bbbe22fa8cd",
+  "title": "Citizen Quartz Mens Watch, Stainless Steel with Leather strap, Casual, Black (Model: BI5000-01A) $112.95",
+  "url": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+with+Leather+strap+Casual+Black",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 112.95,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20231400-citizen-quartz-mens-watch-stainless-steel-with-leather-strap-casual-black-model-bi5000-01a-112-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+with+Leather+strap+Casual+Black",
+  "exact": false
+ },
+ {
+  "id": "520cb9482ecb29d1",
+  "title": "Citizen Analog Black Dial Men's Watch-BI5017-50E $89",
+  "url": "https://www.amazon.com/s?k=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5017-50E",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.0,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5017-50E",
+  "exact": false
+ },
+ {
+  "id": "dbe2e64929d7dca0",
+  "title": "Citizen Men's Classic Corso Eco-Drive Watch, Chronograph, 12/24 Hour Time, Date, Sapphire Crystal, Stainless/ Blue Dial $318.75",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Classic+Corso+Eco-Drive+Watch+Chronograph+12+24+Hour+Time+Date+Sap",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 318.75,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20229123-citizen-men-s-classic-corso-eco-drive-watch-chronograph-12-24-hour-time-date-sapphire-crystal-stainless-blue-dial-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Classic+Corso+Eco-Drive+Watch+Chronograph+12+24+Hour+Time+Date+Sap",
+  "exact": false
+ },
+ {
+  "id": "0d615a06dbf31013",
+  "title": "Citizen Men's Classic Eco-Drive Watch with 3-Hand Day and Date, Stainless/ Blue Dial $176.14",
+  "url": "https://www.amazon.com/s?k=Citizen+Men%27s+Classic+Eco-Drive+Watch+with+3-Hand+Day+and+Date+Stainless+Blue+Di",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 176.14,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20224839-citizen-men-s-classic-eco-drive-watch-with-3-hand-day-and-date-stainless-blue-dial-176-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Men%27s+Classic+Eco-Drive+Watch+with+3-Hand+Day+and+Date+Stainless+Blue+Di",
+  "exact": false
+ },
+ {
+  "id": "94826f0ff17350fe",
+  "title": "CITIZEN Ladies' Eco-Drive Crystal 31mm Stainless Steel FE1190-53L $292.04",
+  "url": "https://www.amazon.com/s?k=CITIZEN+Ladies%27+Eco-Drive+Crystal+31mm+Stainless+Steel+FE1190-53L",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 292.04,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20224719-citizen-ladies-eco-drive-crystal-31mm-stainless-steel-fe1190-53l-292-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=CITIZEN+Ladies%27+Eco-Drive+Crystal+31mm+Stainless+Steel+FE1190-53L",
+  "exact": false
+ },
+ {
+  "id": "3d7a8c8a2c405e1d",
+  "title": "CITIZEN Men's Eco-Drive Classic 40mm Stainless Steel AW1236-03A $187.45",
+  "url": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Classic+40mm+Stainless+Steel+AW1236-03A",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 187.45,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20224485-citizen-men-s-eco-drive-classic-40mm-stainless-steel-aw1236-03a-187-45?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Classic+40mm+Stainless+Steel+AW1236-03A",
+  "exact": false
+ },
+ {
+  "id": "1beccf3e068b32fb",
+  "title": "$337.50* | 42mm Citizen Men's Green Dial Chronograph Stainless Steel Bracelet Watch at Amazon",
+  "url": "https://slickdeals.net/f/20218671-337-50-42mm-citizen-men-s-green-dial-chronograph-stainless-steel-bracelet-watch-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 337.5,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "2f16fe029993e19a",
+  "title": "$176.14* | Citizen Men's Classic Eco-Drive Watch with 3-Hand Day and Date at Amazon",
+  "url": "https://slickdeals.net/f/20215809-176-14-citizen-men-s-classic-eco-drive-watch-with-3-hand-day-and-date-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 176.14,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "f8adf8bb2ff8b725",
+  "title": "REFURBISHED Citizen Men's Chronograph Date Window Silver Eco-Drive Watch 43MM CA4654-55L $207.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Chronograph+Date+Window+Silver+Eco-Drive+Watch+43MM+CA",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 207.99,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20212494-refurbished-citizen-men-s-chronograph-date-window-silver-eco-drive-watch-43mm-ca4654-55l-207-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Chronograph+Date+Window+Silver+Eco-Drive+Watch+43MM+CA",
+  "exact": false
+ },
+ {
+  "id": "56b1b5992c152cd4",
+  "title": "REFURBISHED Citizen Men's Sport Casual Date Indicator Silver Eco-Drive Watch 42MM AW1571-76E $126.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Sport+Casual+Date+Indicator+Silver+Eco-Drive+Watch+42M",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 126.99,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20212464-refurbished-citizen-men-s-sport-casual-date-indicator-silver-eco-drive-watch-42mm-aw1571-76e-126-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Sport+Casual+Date+Indicator+Silver+Eco-Drive+Watch+42M",
+  "exact": false
+ },
+ {
+  "id": "1bf65dbf34b55cdd",
+  "title": "Citizen® ISO-compliant Promaster 44mm Professional Diver with Eco-Drive $199",
+  "url": "https://www.google.com/search?tbm=shop&q=Citizen+ISO-compliant+Promaster+44mm+Professional+Diver+with+Eco-Drive",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20212422-citizen-iso-compliant-promaster-44mm-professional-diver-with-eco-drive-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Citizen+ISO-compliant+Promaster+44mm+Professional+Diver+with+Eco-Drive",
+  "exact": false
+ },
+ {
+  "id": "9550ded9d2eea992",
+  "title": "CITIZEN Men's Eco-Drive Stormtrooper 44mm Stainless Steel AW1659-00W $191.25",
+  "url": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Stormtrooper+44mm+Stainless+Steel+AW1659-00W",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 191.25,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20211723-citizen-men-s-eco-drive-stormtrooper-44mm-stainless-steel-aw1659-00w-191-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Stormtrooper+44mm+Stainless+Steel+AW1659-00W",
+  "exact": false
+ },
+ {
+  "id": "a937b42f311f7749",
+  "title": "CITIZEN Men's Eco-Drive Sport Casual 42.5mm Stainless Steel AW1837-11H $215.47",
+  "url": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Sport+Casual+42.5mm+Stainless+Steel+AW1837-11H",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 215.47,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20211666-citizen-men-s-eco-drive-sport-casual-42-5mm-stainless-steel-aw1837-11h-215-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Sport+Casual+42.5mm+Stainless+Steel+AW1837-11H",
+  "exact": false
+ },
+ {
+  "id": "09d160faf8b1047a",
+  "title": "CITIZEN Men's Eco-Drive Sport 42.6mm Stainless Steel AT0368-82L $337.5",
+  "url": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Sport+42.6mm+Stainless+Steel+AT0368-82L",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 337.5,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20210982-citizen-men-s-eco-drive-sport-42-6mm-stainless-steel-at0368-82l-337-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Sport+42.6mm+Stainless+Steel+AT0368-82L",
+  "exact": false
+ },
+ {
+  "id": "893d4a1ef894016e",
+  "title": "CITIZEN Marine 1810 Eco-Drive Black Dial 41.5mm Men's Watch $149",
+  "url": "https://www.google.com/search?tbm=shop&q=CITIZEN+Marine+1810+Eco-Drive+Black+Dial+41.5mm+Men%27s+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.0,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20208972-citizen-marine-1810-eco-drive-black-dial-41-5mm-men-s-watch-149?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=CITIZEN+Marine+1810+Eco-Drive+Black+Dial+41.5mm+Men%27s+Watch",
+  "exact": false
+ },
+ {
+  "id": "10ca07f894111b33",
+  "title": "CITIZEN Men's Eco-Drive Sport Casual 44mm Stainless Steel CA4500-24H $254.3",
+  "url": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Sport+Casual+44mm+Stainless+Steel+CA4500-24H",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 254.3,
+  "found_at": "2026-11-03T00:46:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20208240-citizen-men-s-eco-drive-sport-casual-44mm-stainless-steel-ca4500-24h-254-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=CITIZEN+Men%27s+Eco-Drive+Sport+Casual+44mm+Stainless+Steel+CA4500-24H",
+  "exact": false
  }
 ]
