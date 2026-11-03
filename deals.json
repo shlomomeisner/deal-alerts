@@ -3094,7 +3094,8 @@
   "price": 350.0,
   "found_at": "2026-11-02T20:40:39Z",
   "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8f54619f343de811af1622207fa65&url=https%3a%2f%2fwww.gadgetreview.com%2fsonys-playstation-monitor-has-a-dualsense-charging-hook-worth-350&c=12354013285295430656&mkt=en-us",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T02:40:22Z"
  },
  {
   "id": "2b3406e39f3a6847",
@@ -3109,7 +3110,8 @@
   "price": 1599.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:40:23Z"
  },
  {
   "id": "056800a10096891f",
@@ -3124,7 +3126,8 @@
   "price": 999.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=LG+-+55+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+"
+  "similar": "https://www.google.com/search?tbm=shop&q=LG+-+55+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+",
+  "checked_at": "2026-11-03T02:40:24Z"
  },
  {
   "id": "0cbbc2033acd2109",
@@ -3139,7 +3142,8 @@
   "price": 1399.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:40:25Z"
  },
  {
   "id": "c389c7ae2a0cefeb",
@@ -3154,7 +3158,8 @@
   "price": 599.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=LG+48+B6+Series+OLED+120Hz+4K+TV+with+Perfect+Black+Vivid+Color+and+Magic+Remote"
+  "similar": "https://www.google.com/search?tbm=shop&q=LG+48+B6+Series+OLED+120Hz+4K+TV+with+Perfect+Black+Vivid+Color+and+Magic+Remote",
+  "checked_at": "2026-11-03T02:40:26Z"
  },
  {
   "id": "bb6f11ed1892e97c",
@@ -3169,7 +3174,8 @@
   "price": 1799.96,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:40:28Z"
  },
  {
   "id": "8df46b13d490811a",
@@ -3184,7 +3190,8 @@
   "price": 499.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=LG+27GS93QE+27-inch+Ultragear+OLED+Gaming+Monitor+QHD+1440p+240Hz+0.03ms+Display"
+  "similar": "https://www.google.com/search?tbm=shop&q=LG+27GS93QE+27-inch+Ultragear+OLED+Gaming+Monitor+QHD+1440p+240Hz+0.03ms+Display",
+  "checked_at": "2026-11-03T02:40:29Z"
  },
  {
   "id": "fdf269c336700168",
@@ -3199,7 +3206,8 @@
   "price": 3299.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:40:30Z"
  },
  {
   "id": "75db9c334ecc68b5",
@@ -3214,7 +3222,8 @@
   "price": 5299.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=LG+83+inch+Class+LG+OLED+evo+AI+W6+4K+Smart+TV+2026+with+Wallpaper+Design+Wallpa"
+  "similar": "https://www.google.com/search?tbm=shop&q=LG+83+inch+Class+LG+OLED+evo+AI+W6+4K+Smart+TV+2026+with+Wallpaper+Design+Wallpa",
+  "checked_at": "2026-11-03T02:40:32Z"
  },
  {
   "id": "1a84acb0cbc7f459",
@@ -3229,7 +3238,8 @@
   "price": 3699.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:40:33Z"
  },
  {
   "id": "0d29f9ef6fae6146",
@@ -3244,7 +3254,8 @@
   "price": 1349.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:40:34Z"
  },
  {
   "id": "358572d0e30e28a1",
@@ -3259,7 +3270,8 @@
   "price": 999.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+48+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+"
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+48+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+",
+  "checked_at": "2026-11-03T02:40:36Z"
  },
  {
   "id": "21212a43b1985b6e",
@@ -3274,7 +3286,8 @@
   "price": 1900.0,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T02:40:37Z"
  },
  {
   "id": "fb408d31cd67daaf",
@@ -3289,7 +3302,8 @@
   "price": 1133.99,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=39+LG+UltraGear+evo+GX9+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+330Hz+Gaming+Moni"
+  "similar": "https://www.google.com/search?tbm=shop&q=39+LG+UltraGear+evo+GX9+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+330Hz+Gaming+Moni",
+  "checked_at": "2026-11-03T02:40:39Z"
  },
  {
   "id": "e1ccba46f3eaab71",
@@ -3304,7 +3318,8 @@
   "price": 1.0,
   "found_at": "2026-11-02T20:40:44Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+45+Inch+UltraGear+evo+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+33"
+  "similar": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+45+Inch+UltraGear+evo+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+33",
+  "checked_at": "2026-11-03T02:40:40Z"
  },
  {
   "id": "fa30792b2a664f25",
@@ -29054,7 +29069,7 @@
  {
   "id": "227324f1cdc23e64",
   "title": "HOKA Men's & Women's Clifton 10 Running Shoes (All Colors/Sizes) $105 + Free Shipping @ JD Sports",
-  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+%26+Women%27s+Clifton+10+Running+Shoes",
+  "url": "https://slickdeals.net/f/19659207-hoka-men-s-women-s-clifton-10-running-shoes-all-colors-sizes-105-free-shipping-jd-sports?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -29066,13 +29081,12 @@
   "source_url": "https://slickdeals.net/f/19659207-hoka-men-s-women-s-clifton-10-running-shoes-all-colors-sizes-105-free-shipping-jd-sports?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+%26+Women%27s+Clifton+10+Running+Shoes",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "baaa995c2bd8094c",
   "title": "Hoka Women's Bondi 8 Shoes (Harbor Mist/Lunar Rock, Limited Sizes) $100.80 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Bondi+8+Shoes",
+  "url": "https://slickdeals.net/f/18031665-hoka-women-s-bondi-8-shoes-harbor-mist-lunar-rock-limited-sizes-100-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -29084,13 +29098,12 @@
   "source_url": "https://slickdeals.net/f/18031665-hoka-women-s-bondi-8-shoes-harbor-mist-lunar-rock-limited-sizes-100-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Bondi+8+Shoes",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4819a4fe84afd9a7",
   "title": "Hoka Men and Women's Clifton 9 $95.99, On Running Men's Roger Centre Court $99.99 & More + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Men+and+Women%27s+Clifton+9",
+  "url": "https://slickdeals.net/f/17938059-hoka-men-and-women-s-clifton-9-95-99-on-running-men-s-roger-centre-court-99-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -29102,8 +29115,7 @@
   "source_url": "https://slickdeals.net/f/17938059-hoka-men-and-women-s-clifton-9-95-99-on-running-men-s-roger-centre-court-99-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Men+and+Women%27s+Clifton+9",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2489f5490038f3fc",
@@ -29563,7 +29575,7 @@
  {
   "id": "878ee869ad1d8dff",
   "title": "Extra 10% off on Sunnies: Ray-Ban, Oakley, & More! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Sunnies+Ray-Ban+Oakley+%26+More",
+  "url": "https://slickdeals.net/f/19596303-extra-10-off-on-sunnies-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29575,8 +29587,7 @@
   "source_url": "https://slickdeals.net/f/19596303-extra-10-off-on-sunnies-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Sunnies+Ray-Ban+Oakley+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "158b07db0f368d74",
@@ -29645,7 +29656,7 @@
  {
   "id": "76dcdd5b05331e9a",
   "title": "Oakley Men's Enduro 2.0 30L Backpack (Core Camo) $50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Enduro+2.0+30L+Backpack",
+  "url": "https://slickdeals.net/f/19571664-oakley-men-s-enduro-2-0-30l-backpack-core-camo-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29657,8 +29668,7 @@
   "source_url": "https://slickdeals.net/f/19571664-oakley-men-s-enduro-2-0-30l-backpack-core-camo-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Enduro+2.0+30L+Backpack",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6e8a1cbf1cc18807",
@@ -34838,11 +34848,11 @@
   "pct": null,
   "price": 70.0,
   "found_at": "2026-11-03T02:13:59Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1eGNNYmQ4LTNKNzA4RzBRZXVObjdxMndzSV83NnpuNmNMZ3VtSDJFSUZ2TGoweDduSlJDdjM5SVBaRG9CNXU0dENCN2ZkQnR1ekxRb2dFMURVOVFTNklCMmYySWhzUFlmLXc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=The+Garmin+v+voactive+6+has+dropped+to+a+record-low+price+save",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4c9fb8bc47301e42",
@@ -34856,11 +34866,11 @@
   "pct": null,
   "price": 519.0,
   "found_at": "2026-11-03T02:19:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238324-dji-avata-360-8k-camera-drone-with-dual-shooting-modes-519-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Avata+360+8K+Camera+Drone+with+Dual+Shooting+Modes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8ab4252a7030ac1c",
@@ -34874,10 +34884,116 @@
   "pct": 70,
   "price": null,
   "found_at": "2026-11-03T02:19:07Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "2699e82ce2a0099b",
+  "title": "Costco Members: 3 fl. oz. Gucci Guilty Pour Femme Women's Eau de Toilette $55 + Free S&H",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3+fl.+oz.+Gucci+Guilty+Pour+Femme+Women%27s+Eau+de+Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 55.0,
+  "found_at": "2026-11-03T02:37:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+3+fl.+oz.+Gucci+Guilty+Pour+Femme+Women%27s+Eau+de+Toilette",
+  "exact": false
+ },
+ {
+  "id": "ce71b75d68ac0986",
+  "title": "Gucci Guilty Pour Femme Eau de Toilette, 3.0 fl oz $54.99 Free shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.99,
+  "found_at": "2026-11-03T02:37:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
+  "exact": false
+ },
+ {
+  "id": "093756cf73f5b818",
+  "title": "Nikon Z 8 | Professional Full-Frame mirrorless Stills/Video Hybrid Camera | Nikon USA Model $3196.95",
+  "url": "https://www.amazon.com/s?k=Nikon+Z+8+Professional+Full-Frame+mirrorless+Stills+Video+Hybrid+Camera+Nikon+US",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3196.95,
+  "found_at": "2026-11-03T02:37:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247504-nikon-z-8-professional-full-frame-mirrorless-stills-video-hybrid-camera-nikon-usa-model-3196-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Nikon+Z+8+Professional+Full-Frame+mirrorless+Stills+Video+Hybrid+Camera+Nikon+US",
+  "exact": false
+ },
+ {
+  "id": "dd2ef92f6bbe0f31",
+  "title": "PowerA Slim Case for Nintendo Switch 2 (Metroid Prime 4) - $12.03 @ Amazon",
+  "url": "https://www.amazon.com/s?k=PowerA+Slim+Case+for+Nintendo+Switch+2+-",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.03,
+  "found_at": "2026-11-03T02:37:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247474-powera-slim-case-for-nintendo-switch-2-metroid-prime-4-12-03-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=PowerA+Slim+Case+for+Nintendo+Switch+2+-",
+  "exact": false
+ },
+ {
+  "id": "2ec57319374faa32",
+  "title": "AHMED AL MAGHRIBI Couture Noir...g Lasting Eau De Parfum -100ml - down 19.82% ($8.40) to $33.99 from $42.39",
+  "url": "https://www.amazon.com/dp/B0D8FX2X9Z",
+  "why": "",
+  "category": "fragrance",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.4,
+  "found_at": "2026-11-03T02:37:21Z",
+  "source_url": "https://camelcamelcamel.com/product/B0D8FX2X9Z",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=AHMED+AL+MAGHRIBI+Couture+Noir...g+Lasting+Eau+De+Parfum+-100ml+-+down+19.82"
+ },
+ {
+  "id": "298eceffa3a657a6",
+  "title": "PowerA Slim Case for Nintendo Switch 2 (Metroid Prime 4) - $12.03 @ Amazon",
+  "url": "https://www.amazon.com/s?k=PowerA+Slim+Case+for+Nintendo+Switch+2+-",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 12.03,
+  "found_at": "2026-11-03T02:37:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247474-powera-slim-case-for-nintendo-switch-2-metroid-prime-4-12-03-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=PowerA+Slim+Case+for+Nintendo+Switch+2+-",
   "exact": false
  }
 ]
