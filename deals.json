@@ -697,7 +697,8 @@
   "source_url": "https://9to5mac.com/2026/10/14/apple-homeview-pre-order-deals-live/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+HomeView+pre-order+discount+AirTag+2+Magic+Keyboard+AirPods+more"
+  "similar": "https://www.amazon.com/s?k=Deals+Apple+HomeView+pre-order+discount+AirTag+2+Magic+Keyboard+AirPods+more",
+  "checked_at": "2026-11-03T17:12:27Z"
  },
  {
   "id": "74d8ed50915ec968",
@@ -715,7 +716,8 @@
   "source_url": "https://9to5mac.com/2026/10/13/deals-m5-pro-macbook-pro-mac-mini-airpods-pro-3/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro"
+  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro",
+  "checked_at": "2026-11-03T17:12:27Z"
  },
  {
   "id": "5d4c68af3b125400",
@@ -733,7 +735,8 @@
   "source_url": "https://9to5mac.com/2026/10/10/apple-weekend-deals-mac-mini/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+up+to"
+  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+up+to",
+  "checked_at": "2026-11-03T17:12:27Z"
  },
  {
   "id": "7a17c5443a07a7e6",
@@ -751,7 +754,8 @@
   "source_url": "https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Max+2"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Max+2",
+  "checked_at": "2026-11-03T17:12:27Z"
  },
  {
   "id": "b86d3afd3d76f6ae",
@@ -769,7 +773,8 @@
   "source_url": "https://9to5mac.com/2026/10/08/deals-airpods-m6-mac-mini-apple-watch-series-12/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+Max+2+all-time+lows+on+M6+Mac+mini+Apple+Watch+Series+12+18+"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+Max+2+all-time+lows+on+M6+Mac+mini+Apple+Watch+Series+12+18+",
+  "checked_at": "2026-11-03T17:12:28Z"
  },
  {
   "id": "6fcba512a8264dfb",
@@ -787,7 +792,8 @@
   "source_url": "https://9to5mac.com/2026/10/07/best-fall-prime-day-apple-deals-live/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/gp/goldbox?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:12:28Z"
  },
  {
   "id": "aa0bb7c8860407d0",
@@ -805,7 +811,8 @@
   "source_url": "https://9to5mac.com/2026/10/07/apples-flagship-airpods-now-up-to-120-off-for-prime-day/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/primebigdealdays?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:12:29Z"
  },
  {
   "id": "37023372cd449568",
@@ -823,7 +830,8 @@
   "source_url": "https://9to5mac.com/2026/10/07/prime-day-deals-mac-mini-airpods-apple-watch-find-my/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/primebigdealdays?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:12:30Z"
  },
  {
   "id": "a634b023fce6fea1",
@@ -841,7 +849,8 @@
   "source_url": "https://9to5mac.com/2026/10/07/official-prime-day-apple-accessory-deals-elevate-your-iphone-and-mac-setup-from-24/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/primebigdealdays?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:12:30Z"
  },
  {
   "id": "e7f01f856d6e1357",
@@ -859,7 +868,8 @@
   "source_url": "https://9to5mac.com/2026/10/06/prime-day-deals-airpods-pro-3-m6-mac-mini-macbook-air/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/primebigdealdays?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:12:31Z"
  },
  {
   "id": "440caad4bc38a719",
@@ -877,7 +887,8 @@
   "source_url": "https://9to5mac.com/2026/10/06/prime-day-apple-watch-deals-series-12-all-time-low-ultra-4-100-off-ceramic-more/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/primebigdealdays?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:12:32Z"
  },
  {
   "id": "02f443d07a7aa74a",
@@ -895,7 +906,8 @@
   "source_url": "https://9to5mac.com/2026/10/05/deals-airpods-pro-3-airpods-max-2-mac-mini-series-12/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+AirPods+Max+2"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+AirPods+Max+2",
+  "checked_at": "2026-11-03T17:12:32Z"
  },
  {
   "id": "dcc009cfa7b4f171",
@@ -913,7 +925,8 @@
   "source_url": "https://9to5mac.com/2026/10/04/apple-weekend-deals-macbook-discounts/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+Pro+3"
+  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+Pro+3",
+  "checked_at": "2026-11-03T17:12:32Z"
  },
  {
   "id": "aea44f7a67dbc196",
@@ -931,7 +944,8 @@
   "source_url": "https://9to5mac.com/2026/10/04/airpods-pro-3-prime-day-deal/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/gp/goldbox?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T17:12:32Z"
  },
  {
   "id": "287d4e11218a239f",
@@ -949,7 +963,8 @@
   "source_url": "https://9to5mac.com/2026/10/02/deals-m5-macbook-air-pro-airtag-2-iphone-18-cases/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+MacBook+Air+MacBook+Pro+AirTag+2+smart+display+power+bank+early+Prime+D"
+  "similar": "https://www.amazon.com/s?k=Deals+M5+MacBook+Air+MacBook+Pro+AirTag+2+smart+display+power+bank+early+Prime+D",
+  "checked_at": "2026-11-03T17:12:33Z"
  },
  {
   "id": "8f1f340ff3444b28",
@@ -29106,7 +29121,7 @@
  {
   "id": "f34f29d112d340a8",
   "title": "Used Condition: DJI Neo Mini Drone w/ 4K UHD Camera (Neo Controller-Free) $65.40 or Less + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
+  "url": "https://slickdeals.net/f/20248839-used-dji-neo-mini-drone-with-4k-uhd-camera-69-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -29118,8 +29133,7 @@
   "source_url": "https://slickdeals.net/f/20248839-used-dji-neo-mini-drone-with-4k-uhd-camera-69-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f94be75178e91b7b",
@@ -29192,7 +29206,7 @@
  {
   "id": "bca79685452bcb52",
   "title": "Round Trip New Jersey to Aruba $267 Nonstop Airfares on United Airlines BE (Travel January - February 2027)",
-  "url": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
+  "url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "🌴 EWR → Aruba",
   "category": "flights",
   "source": "Slickdeals: flights",
@@ -29208,8 +29222,7 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba"
  },
  {
   "id": "f7ea776183029e1d",
@@ -29471,7 +29484,7 @@
  {
   "id": "7acf3ca97c3af964",
   "title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
+  "url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Prada sale",
@@ -29483,8 +29496,7 @@
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "03bf1f92abeb8466",
@@ -29559,7 +29571,7 @@
  {
   "id": "a697edc37637e6af",
   "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $86.50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
+  "url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Prada sale",
@@ -29571,8 +29583,7 @@
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4b174c791c7a0e43",
@@ -29595,7 +29606,7 @@
  {
   "id": "8bf144d8b5b11e19",
   "title": "Men's 3.3oz + 0.34oz. Yves Saint Laurent Y EDP Fragrance Travel Gift Set $99.75 + Free S&H on $100+",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+3.3oz+%2B+0.34oz.+Yves+Saint+Laurent+Y+EDP+Fragrance+Travel+Gift+Set",
+  "url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29607,8 +29618,7 @@
   "source_url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+3.3oz+%2B+0.34oz.+Yves+Saint+Laurent+Y+EDP+Fragrance+Travel+Gift+Set",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0dfee97fb73a6d14",
@@ -29631,7 +29641,7 @@
  {
   "id": "266a8a1e72063bba",
   "title": "3.4-Oz Yves Saint Laurent YSL Myslf Eau de Parfum Spray for Men $60 Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
+  "url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29643,8 +29653,7 @@
   "source_url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "328618f6dd15452b",
@@ -29665,7 +29674,7 @@
  {
   "id": "71fe1ef8a749cd9c",
   "title": "3.4-Oz Yves Saint Laurent YSL Myslf Eau de Parfum Spray for Men $68.98 Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
+  "url": "https://slickdeals.net/f/19749792-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-68-98-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29677,13 +29686,12 @@
   "source_url": "https://slickdeals.net/f/19749792-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-68-98-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fdc30b86b4c0fad7",
   "title": "Yves Saint Laurent Y Eau de Parfum $14.30 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Y+Eau+de+Parfum",
+  "url": "https://slickdeals.net/f/19389798-yves-saint-laurent-y-eau-de-parfum-14-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29695,8 +29703,7 @@
   "source_url": "https://slickdeals.net/f/19389798-yves-saint-laurent-y-eau-de-parfum-14-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Y+Eau+de+Parfum",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "bc89fc6e45c331e3",
@@ -29717,7 +29724,7 @@
  {
   "id": "85af1dabb548d21a",
   "title": "Yves Saint Laurent Black Opium Eau de Parfum Glitter with Marshmallow & Coffee 3 oz / 90 ml eau de parfum spray $86",
-  "url": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium+Eau+de+Parfum+Glitter+with+Marshmallow+%26+Coffee+3",
+  "url": "https://slickdeals.net/f/19290402-yves-saint-laurent-black-opium-eau-de-parfum-glitter-with-marshmallow-coffee-3-oz-90-ml-eau-de-parfum-spray-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29729,13 +29736,12 @@
   "source_url": "https://slickdeals.net/f/19290402-yves-saint-laurent-black-opium-eau-de-parfum-glitter-with-marshmallow-coffee-3-oz-90-ml-eau-de-parfum-spray-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium+Eau+de+Parfum+Glitter+with+Marshmallow+%26+Coffee+3",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "323c4486b408229a",
   "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
+  "url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -29747,8 +29753,7 @@
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d63b489062df5a0b",
@@ -29771,7 +29776,7 @@
  {
   "id": "6d5b12d47797c849",
   "title": "Bottega Veneta Men's Mix Of Stripes Shirt $6900",
-  "url": "https://www.google.com/search?tbm=shop&q=Bottega+Veneta+Men%27s+Mix+Of+Stripes+Shirt",
+  "url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Bottega Veneta sale",
@@ -29783,13 +29788,12 @@
   "source_url": "https://slickdeals.net/f/16720601-bottega-veneta-men-s-mix-of-stripes-shirt-6900?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bottega+Veneta+Men%27s+Mix+Of+Stripes+Shirt",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "82415a9d3c31c545",
   "title": "Jomashop.com: BOTTEGA VENETA intrecciato Weave 3.5 CM Belt - $299 + FS",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+BOTTEGA+VENETA+intrecciato+Weave+3.5+CM+Belt+-",
+  "url": "https://slickdeals.net/f/14804311-jomashop-com-bottega-veneta-intrecciato-weave-3-5-cm-belt-299-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Bottega Veneta sale",
@@ -29801,13 +29805,12 @@
   "source_url": "https://slickdeals.net/f/14804311-jomashop-com-bottega-veneta-intrecciato-weave-3-5-cm-belt-299-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+BOTTEGA+VENETA+intrecciato+Weave+3.5+CM+Belt+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5e42c9c2fe702d20",
   "title": "Luxomo: Bottega Veneta Sunglasses - $74.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Luxomo+Bottega+Veneta+Sunglasses+-",
+  "url": "https://slickdeals.net/e/11675607-luxomo-bottega-veneta-sunglasses-74-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Bottega Veneta sale",
@@ -29819,8 +29822,7 @@
   "source_url": "https://slickdeals.net/e/11675607-luxomo-bottega-veneta-sunglasses-74-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Luxomo+Bottega+Veneta+Sunglasses+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a580b8817872728d",
@@ -30075,7 +30077,7 @@
  {
   "id": "3d8e5621a23b4d35",
   "title": "FERRAGAMO Racing Men's Watch extra 10% OFF with CODE LUCKY10 $319.49 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
+  "url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Ferragamo sale",
@@ -30087,13 +30089,12 @@
   "source_url": "https://slickdeals.net/f/16648658-ferragamo-racing-men-s-watch-extra-10-off-with-code-lucky10-319-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FERRAGAMO+Racing+Men%27s+Watch+extra+10+OFF+with+CODE+LUCKY10",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a13fc15e24d5fdfc",
   "title": "Jomashop Designer Sunglasses Sale: Salavtore Ferragamo Green Square $51, Ray-Ban Clubmaster Classic $77, Oakley Plazma Prizm Grey Sport & More + Free Shipping on Orders $100+",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
+  "url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Ferragamo sale",
@@ -30105,13 +30106,12 @@
   "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "98d58cc9c2855cfd",
   "title": "Salvatore Ferragamo Double-Bridge Aviator - $62 - $370",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
+  "url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -30123,13 +30123,12 @@
   "source_url": "https://slickdeals.net/f/16454674-salvatore-ferragamo-double-bridge-aviator-62-370?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Double-Bridge+Aviator+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b29da18163a0b811",
   "title": "Salvatore Ferragamo Gancini Bit Leather Driver Moccasins - $225 - $225",
-  "url": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
+  "url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Ferragamo sale",
@@ -30141,8 +30140,7 @@
   "source_url": "https://slickdeals.net/f/16407949-salvatore-ferragamo-gancini-bit-leather-driver-moccasins-225-225?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Gancini+Bit+Leather+Driver+Moccasins+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "aa0b72c9f6de0e0f",
