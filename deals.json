@@ -3656,7 +3656,8 @@
   "found_at": "2026-11-02T21:39:35Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T09:51:55Z"
  },
  {
   "id": "781687ce6dd3b8bd",
@@ -3672,7 +3673,8 @@
   "found_at": "2026-11-02T21:39:35Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T09:51:57Z"
  },
  {
   "id": "b144a9a9a5ecff9f",
@@ -3690,7 +3692,8 @@
   "source_url": "https://slickdeals.net/f/20215362-lattafa-layaan-fruity-floral-woody-musky-eau-de-parfum-spray-long-lasting-fragrance-for-women-2-53-ounce-75-ml?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Lattafa+Layaan+Fruity+Floral+Woody+Musky+Eau+de+Parfum+Spray+Long-Lasting+Fragra",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T09:51:59Z"
  },
  {
   "id": "e6740cd65e3c67a5",
@@ -3706,7 +3709,8 @@
   "found_at": "2026-11-02T21:39:35Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T09:52:01Z"
  },
  {
   "id": "007e4d50528ebe13",
@@ -3724,7 +3728,8 @@
   "source_url": "https://slickdeals.net/f/20204352-100-ml-rayhaan-pacific-aloha-eau-de-parfum-spray-28-or-less?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=100+ml+Rayhaan+Pacific+Aloha+Eau+De+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T09:52:02Z"
  },
  {
   "id": "106513dde2f184ef",
@@ -3742,7 +3747,8 @@
   "source_url": "https://slickdeals.net/f/20189616-1-7-oz-dossier-ambery-saffron-unisex-eau-de-parfum-33-32-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=1.7-Oz+Dossier+Ambery+Saffron+Unisex+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T09:52:04Z"
  },
  {
   "id": "526f7027b7c81c39",
@@ -3759,7 +3765,8 @@
   "source_url": "https://slickdeals.net/f/20142276-liz-claiborne-women-s-perfume-eau-de-parfum-spray-mambo-3-4-fl-oz-14-43?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Liz+Claiborne+Women%27s+Perfume+Eau+De+Parfum+Spray+Mambo+3.4+Fl+Oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T09:52:05Z"
  },
  {
   "id": "3ab07871c0309194",
@@ -3775,7 +3782,8 @@
   "found_at": "2026-11-02T21:39:35Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T09:52:07Z"
  },
  {
   "id": "03628b2b4d30c101",
@@ -3792,7 +3800,8 @@
   "source_url": "https://slickdeals.net/f/20127303-french-avenue-liquid-brun-eau-de-parfum-3-4-oz-24-99-after-20-coupon-at-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+French+Avenue+Liquid+Brun+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T09:52:08Z"
  },
  {
   "id": "18bd868b8cd7af26",
@@ -3810,7 +3819,8 @@
   "source_url": "https://slickdeals.net/f/20126556-xerjoff-erba-pura-eau-de-parfum-3-4-fl-oz-149-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Xerjoff+Erba+Pura+Eau+de+Parfum+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T09:52:10Z"
  },
  {
   "id": "9cba64d8d47d318c",
@@ -27955,7 +27965,7 @@
  {
   "id": "c0aaf6afb94be9ed",
   "title": "TISSOT PR 100 Quartz Men's Watch $232",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+TISSOT+PR+100+Quartz+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals Popular",
@@ -27967,8 +27977,7 @@
   "source_url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+TISSOT+PR+100+Quartz+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fc40d5dcc4ee9ca6",
@@ -28327,7 +28336,7 @@
  {
   "id": "5b3df7eaa4879efd",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: airfare",
@@ -28347,13 +28356,12 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
  },
  {
   "id": "f8754e3f8baaa9f0",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -28373,13 +28381,12 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
  },
  {
   "id": "8fd63b50b1674359",
   "title": "Round Trip New York to Aruba $351 Nonstop Airfares on JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA0FVQRoaEgoyMDI2LTExLTE0agUSA0FVQXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -28399,8 +28406,7 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
  },
  {
   "id": "b8bca1f319b4aa4a",
@@ -34708,11 +34714,11 @@
   "pct": null,
   "price": 87.47,
   "found_at": "2026-11-03T09:40:02Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f356f7bf49a1deac",
@@ -34846,11 +34852,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T09:40:02Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+-+77+Class+C6H+OLED+evo+AI+4K+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c683234180eaefca",
@@ -34883,5 +34889,252 @@
   "link_tried3": true,
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "8d1860d7ccf74e4d",
+  "title": "$88.51* | 3-Oz Gucci Unisex Intense Oud Eau de Parfum Perfume/Cologne at Amazon",
+  "url": "https://slickdeals.net/f/20240796-88-51-3-oz-gucci-unisex-intense-oud-eau-de-parfum-perfume-cologne-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 88.51,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "80f314b67c7213db",
+  "title": "[SnS] $41.18 | English Laundry Crown Cologne Eau de Parfum Spray, 3.4 Fl Oz at Amazon",
+  "url": "https://slickdeals.net/f/20239275-sns-41-18-english-laundry-crown-cologne-eau-de-parfum-spray-3-4-fl-oz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 41.18,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "eac505d58ad051d1",
+  "title": "adidas Victory League Giftset including Eau de Toilette (1.6fl oz.) and Shower Gel (8.4fl oz.), For Him $9.99",
+  "url": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.99,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20228817-adidas-victory-league-giftset-including-eau-de-toilette-1-6fl-oz-and-shower-gel-8-4fl-oz-for-him-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
+  "exact": false
+ },
+ {
+  "id": "724a88ee28fcd065",
+  "title": "8.4-Oz Versace Eros Men's Shower Gel $27.38 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 27.38,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
+  "exact": false
+ },
+ {
+  "id": "8030c850b93854cd",
+  "title": "$72.99* | 6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray at Amazon",
+  "url": "https://slickdeals.net/f/20216013-72-99-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 72.99,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "e849de1032aefea9",
+  "title": "Fragrances from D&G, Creed and More! at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "exact": false
+ },
+ {
+  "id": "55c09e7ec0e72076",
+  "title": "[SnS] $40.28 | 3.3-Oz MONTBLANC Legend Eau de Toilette - Men's Fragrance at Amazon",
+  "url": "https://slickdeals.net/f/20205600-sns-40-28-3-3-oz-montblanc-legend-eau-de-toilette-men-s-fragrance-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 40.28,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "f79d55be1849bd4d",
+  "title": "[SnS] $41.18 | English Laundry Crown Cologne Eau de Parfum Spray, 3.4 Fl Oz at Amazon",
+  "url": "https://slickdeals.net/f/20239275-sns-41-18-english-laundry-crown-cologne-eau-de-parfum-spray-3-4-fl-oz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 41.18,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "a460bb788635eea3",
+  "title": "[NEW] $87.50 | 3.4-Oz Salvatore Ferragamo Spicy Leather Parfum Pour Homme, Cologne Spray for Men at Amazon",
+  "url": "https://slickdeals.net/f/20162688-new-87-50-3-4-oz-salvatore-ferragamo-spicy-leather-parfum-pour-homme-cologne-spray-for-men-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 87.5,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "5a40dfc8ae8c3445",
+  "title": "Ferragamo Oversized Classic Rectangle Sunglasses $59 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Ferragamo+Oversized+Classic+Rectangle+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ferragamo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.0,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19766538-ferragamo-oversized-classic-rectangle-sunglasses-59-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+Oversized+Classic+Rectangle+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "a8b868dba9fae4aa",
+  "title": "Lexar 512GB Silver SD Memory Card for $100, 1TB for $200 + free shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Lexar+512GB+Silver+SD+Memory+Card+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Lexar-512-GB-Silver-SD-Memory-Card-for-100-1-TB-for-200-free-shipping-w-Prime/22341714.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Lexar+512GB+Silver+SD+Memory+Card+for",
+  "exact": false
+ },
+ {
+  "id": "bb0591aab70a45cd",
+  "title": "Dyson 360 Vis Nav Robot Vacuum for $250 + free shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+360+Vis+Nav+Robot+Vacuum+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 250.0,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/products/Dyson/Dyson-360-Vis-Nav-Robot-Vacuum/493145.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+360+Vis+Nav+Robot+Vacuum+for",
+  "exact": false
+ },
+ {
+  "id": "fcde6c9423e1b3a1",
+  "title": "Home & Kitchen Deals at Woot: Up to 70% off + free shipping w/ Prime",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Home+%26+Kitchen+Deals",
+  "why": "70% off",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 70,
+  "price": null,
+  "found_at": "2026-11-03T09:48:49Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Home-Kitchen-Deals-at-Woot-Up-to-70-off-free-shipping-w-Prime/22341710.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Home+%26+Kitchen+Deals",
+  "exact": false
+ },
+ {
+  "id": "4798b09f06c2a9e8",
+  "title": "United Airlines Flight Connects St. Croix to Newark - St. Thomas Source",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDRVdScgUSA1NUVBoaEgoyMDI2LTEyLTEzagUSA1NUVHIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "🌴 NEWARK → St. Thomas",
+  "category": "flights",
+  "source": "Google: NYC Caribbean flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T09:48:49Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzVKVEkzWi1PQUJhTzNRTjJWU1o4WjRRS0gwQ2UyQ2JLaVJGcVUwd3RWeTdTX1ZrNmhHSElBMkVEQzJMRm5ST0VuYlZIZ00zem9qLVdyWEVWcXRXRUUzeUxEU0U1Q1dHMzZKTTE0Q1Y1dHVseXVfb3ozWHB6ZENfVTl5aGpwODBfbGIzZGIteUUyb3RKS2dTNTliZUFBdw?oc=5",
+  "picked": true,
+  "depart": "2026-12-08",
+  "return": "2026-12-13",
+  "fcode": [
+   "EWR",
+   "STT"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20STT&hl=en&gl=us&curr=USD",
+  "route_fixed2": true
  }
 ]
