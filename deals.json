@@ -6282,7 +6282,8 @@
   "found_at": "2026-11-02T21:30:32Z",
   "store_url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.apple.com/us/search/Pre-order%202026%20MacBook%20Pro%2016.3%20PROLED%20XDR%20OLED%20Touch%20Apple%20M5%20Pro%20Laptop"
+  "similar": "https://www.apple.com/us/search/Pre-order%202026%20MacBook%20Pro%2016.3%20PROLED%20XDR%20OLED%20Touch%20Apple%20M5%20Pro%20Laptop",
+  "checked_at": "2026-11-03T08:14:12Z"
  },
  {
   "id": "56b88083c4b7550b",
@@ -6298,23 +6299,8 @@
   "found_at": "2026-11-02T21:30:32Z",
   "store_url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Nubwo+HG04L+Wired+Gaming+Headset"
- },
- {
-  "id": "cb16ca36775576a5",
-  "title": "Citizen 100M Water-Resistant Men's Luxury Eco-Drive Chronograph Watch $337.50",
-  "url": "https://www.amazon.com/gp/product/B0B916MQGN/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "watches",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 337.5,
-  "found_at": "2026-11-02T21:30:32Z",
-  "store_url": "https://www.amazon.com/gp/product/B0B916MQGN/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Citizen+100M+Water-Resistant+Men%27s+Luxury+Eco-Drive+Chronograph+Watch"
+  "similar": "https://www.google.com/search?tbm=shop&q=Nubwo+HG04L+Wired+Gaming+Headset",
+  "checked_at": "2026-11-03T08:14:12Z"
  },
  {
   "id": "f132bf31b56e7ba1",
@@ -6330,7 +6316,8 @@
   "found_at": "2026-11-02T21:30:32Z",
   "store_url": "https://www.amazon.com/gp/product/B0FMRPKN3G/ref=ox_sc_act_image_1?smid=A1RS007LH1WSHI&th=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XC1+Bose+Dolby+Audio+Open+Ear+Wireless+Clip-on+Earbuds"
+  "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XC1+Bose+Dolby+Audio+Open+Ear+Wireless+Clip-on+Earbuds",
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "75ba5689eb1f5e51",
@@ -6346,7 +6333,8 @@
   "found_at": "2026-11-02T21:30:32Z",
   "store_url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Power+2000+3000W+2048Wh+LFP+Portable+Power+Station"
+  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Power+2000+3000W+2048Wh+LFP+Portable+Power+Station",
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "a6653d8925ee4459",
@@ -6362,7 +6350,8 @@
   "found_at": "2026-11-02T21:30:32Z",
   "store_url": "https://www.walmart.com/ip/Dyson-PencilWash-Cordless-Wet-Cleaner-Bright-Copper-New-Latest-Technology/19881062881",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+PencilWash+Cordless+Wet+Cleaner"
+  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+PencilWash+Cordless+Wet+Cleaner",
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "b3f6cccb8fd75f7e",
@@ -6378,7 +6367,8 @@
   "found_at": "2026-11-02T21:30:32Z",
   "store_url": "https://www.amazon.com/gp/product/B0GDSC8K2H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
   "exact": true,
-  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Odyssey+QD-OLED+G6+27+2560x1440+240Hz+Gaming+Monitor"
+  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Odyssey+QD-OLED+G6+27+2560x1440+240Hz+Gaming+Monitor",
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "7f52f3f96e58ed66",
@@ -6403,7 +6393,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "6f8f190fe47ce8ba",
@@ -6421,7 +6412,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNU2NhSlIwWHFZdzNqdkMyWmxSa2lHMFJESmx1NmxYbm96a2JUU09GWmgybUx4Zzl4dXdsSGJYYUNPbjhlY0JVS1pZNm1vdzVlQW85V3ZfekZaWVEyRVJBZkZqbEp4M0dVb2JiSXhubFZZcW1BNExITE1qMktYcjBvNVV5N0hneTJpS2tKU2VfT1lHQ0RlZzZFdjE0aTBnM1VCZzdtV3RKOUtwVDlkTy1xSjhoZDZ3a3N4enhiemFGd0dTdGZVbmNjOVNZQ1JNQjB4S1o4UVJxNW1wZG1GckNWVUZOOFdhNVRtcnhrRU5oNVp2THFCdnJZbzlPbXA3MDN3Y1p3azM5V2tGVEhxcklyNlJUbFBoRlBldHc?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Alaska%20Air%3A%20Seattle%20/%20Las%20Vegas%20/%20Los%20Angeles%20/%20New%20York%20/%20Phoenix%20/%20Portland%20/%20Sacramento%20/%20San%20Diego%20/%20San%20Francisco%20%E2%80%93%20Tokyo%20/%20Osaka%2C%20Japan.%20Starting",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "2fcf8271e49d71dc",
@@ -6446,7 +6438,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "8e82341f3d6eb074",
@@ -6471,7 +6464,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Sapporo%2C%20Japan&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "0e5a58cb178881c3",
@@ -6496,7 +6490,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "efdfa5f039ebd7ce",
@@ -6521,7 +6516,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SJU&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "185c5b8db66c1e0f",
@@ -6546,7 +6542,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "b3564e2e97a9fbc5",
@@ -6571,7 +6568,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20PLS&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T08:14:13Z"
  },
  {
   "id": "52b39cd91e517717",
@@ -27936,7 +27934,7 @@
  {
   "id": "887cc93dd86828a5",
   "title": "Seiko Men's Japanese-Automatic Watch (Model: SARB035) $340",
-  "url": "https://slickdeals.net/e/14011691-seiko-men-s-japanese-automatic-watch-model-sarb035-340?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Japanese-Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -27948,7 +27946,8 @@
   "source_url": "https://slickdeals.net/e/14011691-seiko-men-s-japanese-automatic-watch-model-sarb035-340?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Japanese-Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6e975af6e20951ff",
@@ -28195,7 +28194,7 @@
  {
   "id": "3c7a900647ab67e0",
   "title": "This Is My Secret to Saving More Than 35% Off Luxury Perfumes From Gucci, YSL, Byredo, and More - Yahoo",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkxoSW8wTUY0ZHNxcjM4SXJjTEdqcy10S01qZjFQUTloZjFsNHN4LU5HUjhMQmp0aHFCQm4tQXZKMEZhWnNpSmoyZG5wTkRRMjFYLXdlX2Fwd3lwbGJzVzRPT3lSaG81M19GcFRvaFJ2dGRVeENWejFnM2JKeUd0NnpNOGYtWFdzSHQzdHBLRkRkSnFQcGZrWQ?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=This+Is+My+Secret+to+Saving+More+Than+35+Off+Luxury+Perfumes+From+Gucci+YSL+Byre",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Byredo sale",
@@ -28207,7 +28206,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkxoSW8wTUY0ZHNxcjM4SXJjTEdqcy10S01qZjFQUTloZjFsNHN4LU5HUjhMQmp0aHFCQm4tQXZKMEZhWnNpSmoyZG5wTkRRMjFYLXdlX2Fwd3lwbGJzVzRPT3lSaG81M19GcFRvaFJ2dGRVeENWejFnM2JKeUd0NnpNOGYtWFdzSHQzdHBLRkRkSnFQcGZrWQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+Is+My+Secret+to+Saving+More+Than+35+Off+Luxury+Perfumes+From+Gucci+YSL+Byre",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "aeaa9865d75ca01a",
@@ -33874,7 +33874,7 @@
  {
   "id": "641aa951dc6c7542",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://www.google.com/search?tbm=shop&q=Dyson+Ball+Animal+2+Upright+Vacuum",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -35062,75 +35062,150 @@
   "pct": null,
   "price": 36.99,
   "found_at": "2026-11-03T08:02:22Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20248413-samsung-galaxy-buds-core-earbuds-bluetooth-5-4-2025-international-model-36-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+Buds+Core+Earbuds+-+Bluetooth+5.4",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "0e57568adc7a91c1",
+  "title": "Nebraska Furniture Mart 50\" Class QM6K Series QD-Mini LED QLED 4K UHD in Black $399.00",
+  "url": "https://www.google.com/search?tbm=shop&q=Nebraska+Furniture+Mart+50+Class+QM6K+Series+QD-Mini+LED+QLED+4K+UHD+in+Black",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: price mistake",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.0,
+  "found_at": "2026-11-03T08:11:14Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20097591-nebraska-furniture-mart-50-class-qm6k-series-qd-mini-led-qled-4k-uhd-in-black-399-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Nebraska+Furniture+Mart+50+Class+QM6K+Series+QD-Mini+LED+QLED+4K+UHD+in+Black",
   "exact": false
  },
  {
-  "id": "90aaf7ef7d047890",
-  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
-  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "db7b7c95ce077c5f",
+  "title": "Steam PC Games: Assassin's Creed 2 $5; The Farmer Was Replaced $7; Teardown $15; Assassin's Creed Black Flag Resynced $45 & More",
+  "url": "https://www.google.com/search?tbm=shop&q=Steam+PC+Games+Assassin%27s+Creed+2",
   "why": "",
   "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "source": "Slickdeals: Creed",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-03T08:05:40Z"
+  "price": 5.0,
+  "found_at": "2026-11-03T08:11:14Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20246022-steam-pc-games-assassin-s-creed-2-5-the-farmer-was-replaced-7-teardown-15-assassin-s-creed-black-flag-resynced-45-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Steam+PC+Games+Assassin%27s+Creed+2",
+  "exact": false
  },
  {
-  "id": "4f0a1c4bc4a70083",
-  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
-  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "b5169ce970134ca5",
+  "title": "Hisense 32-Inch Class QD4SR Series Hi-QLED HD Smart Roku TV (32QD4HSR, 2026 Model) $107.77",
+  "url": "https://www.amazon.com/s?k=Hisense+32-Inch+Class+QD4SR+Series+Hi-QLED+HD+Smart+Roku+TV",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 30.0,
-  "found_at": "2026-11-03T08:05:40Z"
+  "price": 107.77,
+  "found_at": "2026-11-03T08:11:14Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20248506-hisense-32-inch-class-qd4sr-series-hi-qled-hd-smart-roku-tv-32qd4hsr-2026-model-107-77?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Hisense+32-Inch+Class+QD4SR+Series+Hi-QLED+HD+Smart+Roku+TV",
+  "exact": false
  },
  {
-  "id": "369670327d50bde8",
-  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
-  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "9972d681d0f38102",
+  "title": "$308.38* | 26.5\" Acer Predator WQHD QD-OLED 240Hz FreeSync Gaming Monitor at Amazon",
+  "url": "https://slickdeals.net/f/20248455-308-38-26-5-acer-predator-wqhd-qd-oled-240hz-freesync-gaming-monitor-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 7.19,
-  "found_at": "2026-11-03T08:05:40Z"
+  "price": 308.38,
+  "found_at": "2026-11-03T08:11:14Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
-  "id": "54c78884a6741a29",
-  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
-  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "9d54de90c73387bf",
+  "title": "42mm Tag Heuer Men's Connected Calibre E4 Smartwatch $658.75 + Free Shipping",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=42mm+Tag+Heuer+Men%27s+Connected+Calibre+E4+Smartwatch",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
+  "category": "tech",
+  "source": "Slickdeals: Galaxy Watch",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 49.99,
-  "found_at": "2026-11-03T08:05:41Z"
+  "price": 658.75,
+  "found_at": "2026-11-03T08:11:14Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20242758-42mm-tag-heuer-men-s-connected-calibre-e4-smartwatch-658-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=42mm+Tag+Heuer+Men%27s+Connected+Calibre+E4+Smartwatch",
+  "exact": false
  },
  {
-  "id": "4316bff61d09c558",
-  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
-  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "6c4b5332a5188ac1",
+  "title": "Magnetic Portable Charger, Ultra Slim 10000mAh Magnetic Power Bank, 20W PD Fast Charging Wireless Power Bank Compatible with iPhone 18/17/16/15/14/13 Pro Max, Black $20.99",
+  "url": "https://slickdeals.net/f/20247636-magnetic-portable-charger-ultra-slim-10000mah-magnetic-power-bank-20w-pd-fast-charging-wireless-power-bank-compatible-with-iphone-18-17-16-15-14-13-pro-max-black-20-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 15.49,
-  "found_at": "2026-11-03T08:05:41Z"
+  "price": 20.99,
+  "found_at": "2026-11-03T08:14:26Z"
+ },
+ {
+  "id": "6ff2e255ec4a138b",
+  "title": "85W USB C Super Fast Charger and 3+6+10+10ft USB C to C Cable Long, Type C Block Plug Brick/Android Phone Charging Cord for Samsung Galaxy S26/S25/iPhone Duo 18 17 Pro $19.99",
+  "url": "https://slickdeals.net/f/20244963-85w-usb-c-super-fast-charger-and-3-6-10-10ft-usb-c-to-c-cable-long-type-c-block-plug-brick-android-phone-charging-cord-for-samsung-galaxy-s26-s25-iphone-duo-18-17-pro-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-03T08:14:26Z"
+ },
+ {
+  "id": "1a7a80ba45218cd6",
+  "title": "Portable Charger with Built in Cables for iPhone 18/17/16/15/14/13, Android, Samsung $11.50",
+  "url": "https://slickdeals.net/f/20244072-portable-charger-with-built-in-cables-for-iphone-18-17-16-15-14-13-android-samsung-11-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": 50,
+  "price": 11.5,
+  "found_at": "2026-11-03T08:14:26Z"
+ },
+ {
+  "id": "1762bd8ec2df3170",
+  "title": "Magnetic Wireless Charger, 2-Pack 15W Fast Mag-Safe Stand for iPhone $5.99",
+  "url": "https://slickdeals.net/f/20241108-magnetic-wireless-charger-2-pack-15w-fast-mag-safe-stand-for-iphone-5-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 5.99,
+  "found_at": "2026-11-03T08:14:26Z"
  }
 ]
