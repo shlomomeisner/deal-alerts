@@ -3382,7 +3382,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:10:41Z"
  },
  {
   "id": "59f354c7f6224287",
@@ -3400,7 +3401,8 @@
   "source_url": "https://slickdeals.net/f/20208231-lg-83-inch-class-lg-oled-evo-ai-w6-4k-smart-tv-2026-with-wallpaper-design-wallpaper-design-with-zero-connect-hyper-radiant-color-tech-5299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=LG+83+inch+Class+LG+OLED+evo+AI+W6+4K+Smart+TV+2026+with+Wallpaper+Design+Wallpa",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:43Z"
  },
  {
   "id": "c6dcff6e4fac28b9",
@@ -3416,7 +3418,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:10:44Z"
  },
  {
   "id": "166c01f853da6844",
@@ -3434,7 +3437,8 @@
   "source_url": "https://slickdeals.net/f/20245512-samsung-edu-epp-unlocked-samsung-galaxy-z-fold8-256-gb-plus-400-credit-for-accessories-1304-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+Z+fold8+256+GB+plus",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:45Z"
  },
  {
   "id": "149ab30726c4dfe8",
@@ -3452,7 +3456,8 @@
   "source_url": "https://slickdeals.net/f/20244657-refurbished-samsung-galaxy-s26-ultra-256gb-unlocked-smartphone-w-1-year-allstate-warranty-687-99-free-s-h-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+S26+Ultra+256GB+Unlocked+Smartphone+w+1-Year+Allstate+Warranty+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:47Z"
  },
  {
   "id": "6fc760b45f0b362b",
@@ -3470,7 +3475,8 @@
   "source_url": "https://slickdeals.net/f/20238420-samsung-galaxy-s26-ultra-256gb-12gb-ram-brand-new-purple-846-00-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Samsung+Galaxy+S26+Ultra+-+Brand+-+Purple",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:48Z"
  },
  {
   "id": "e1bc7e870872e5fe",
@@ -3488,7 +3494,8 @@
   "source_url": "https://slickdeals.net/f/20237421-samsung-galaxy-tab-s10-plus-12-4-512gb-android-tablet-moonstone-gray-799-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Galaxy+Tab+S10%2B+Plus+12.4+512GB+Android+Tablet+Moonstone+Gray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:50Z"
  },
  {
   "id": "8deb058bf46048c7",
@@ -3506,7 +3513,8 @@
   "source_url": "https://slickdeals.net/f/20237241-samsung-galaxy-s26-unlocked-android-smartphone-256gb-black-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty-789?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+256GB+Black+Powerful+Processor+Ga",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:52Z"
  },
  {
   "id": "f90fe589b0de49e9",
@@ -3524,7 +3532,8 @@
   "source_url": "https://slickdeals.net/f/20235939-samsung-galaxy-s26-unlocked-android-smartphone-512gb-cobalt-violet-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+512GB+Cobalt+Violet+Powerful+Proc",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:54Z"
  },
  {
   "id": "8e5966f527b4be5e",
@@ -3542,7 +3551,8 @@
   "source_url": "https://slickdeals.net/f/20234244-samsung-galaxy-watch5-pro-45mm-wifi-bluetooth-cellular-r920-r925-good-66?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+Watch5+Pro+45mm+WiFi+%2B+Bluetooth+%2B+Cellular+R920+R925+-+Good",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:55Z"
  },
  {
   "id": "e83fb3981dcc4859",
@@ -3560,7 +3570,8 @@
   "source_url": "https://slickdeals.net/f/20231436-samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlocked-android-ai-photo-edits-large-screen-long-battery-life-2025-us-1-yr-manufacturer-warranty-mint-1349-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold7+Cell+Phone+256GB+AI+Smartphone+Unlocked+Android+AI+Photo+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:56Z"
  },
  {
   "id": "951c68da8e76426a",
@@ -3578,7 +3589,8 @@
   "source_url": "https://slickdeals.net/f/20229699-samsung-edu-epp-unlocked-galaxy-z-fold8-ultra-green-shadow-512-gb-plus-400-for-accessories-1584-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Galaxy+Z+fold8+Ultra+Green+Shadow+512+GB+plus",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:27Z"
  },
  {
   "id": "6297a6ca6fe76394",
@@ -3596,7 +3608,8 @@
   "source_url": "https://slickdeals.net/f/20227758-samsung-galaxy-s26-ultra-unlocked-android-smartphone-512gb-cobalt-violet-1127?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+S26+Ultra+Unlocked+Android+Smartphone+512GB+Cobalt+Violet",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:29Z"
  },
  {
   "id": "4baef7006c098d70",
@@ -3614,7 +3627,8 @@
   "source_url": "https://slickdeals.net/f/20224908-samsung-edu-epp-unlocked-samsung-galaxy-s26-ultra-256-gb-plus-300-for-accessories-879-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+S26+Ultra+256+GB+plus",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:31Z"
  },
  {
   "id": "21c5eb060dec8654",
@@ -3632,7 +3646,8 @@
   "source_url": "https://slickdeals.net/f/20224902-samsung-edu-epp-unlocked-galaxy-z-fold8-256gb-plus-400-for-accessories-1404-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Galaxy+Z+fold8+256GB+plus",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:32Z"
  },
  {
   "id": "07e1caea0ccbca76",
@@ -3650,7 +3665,8 @@
   "source_url": "https://slickdeals.net/f/20242116-bose-tv-speaker-bluetooth-soundbar-199-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+TV+Speaker+Bluetooth+Soundbar",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:34Z"
  },
  {
   "id": "145859179e2e7e70",
@@ -3667,7 +3683,8 @@
   "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:35Z"
  },
  {
   "id": "93e6990d6954de5f",
@@ -3685,7 +3702,8 @@
   "source_url": "https://slickdeals.net/f/20237457-bose-smart-dolby-atmos-soundbar-all-in-one-soundbar-for-tv-a-i-dialogue-mode-voice-control-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+Smart+Dolby+Atmos+Soundbar+All-in-One+Soundbar+for+TV+A.I.+Dialogue+Mode+Vo",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:36Z"
  },
  {
   "id": "d355af4d7911ce6c",
@@ -3702,7 +3720,8 @@
   "source_url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+lifestyle+ultra+soundbar",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:37Z"
  },
  {
   "id": "8e38002f772deb56",
@@ -3718,7 +3737,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:19:39Z"
  },
  {
   "id": "1fbc3005f7add17f",
@@ -3736,7 +3756,8 @@
   "source_url": "https://slickdeals.net/f/20234856-bose-quietcomfort-headphones-2nd-gen-179-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Bose+Quietcomfort+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:40Z"
  },
  {
   "id": "280b33612df586ce",
@@ -3754,7 +3775,8 @@
   "source_url": "https://slickdeals.net/f/20234193-bose-quietcomfort-headphones-2nd-gen-wireless-over-ear-active-noise-cancelling-immersive-audio-usb-c-charging-hazelnut-taupe-199-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Bose+-+QuietComfort+Headphones+-+Wireless+Over+Ear+Active+Noise+Cancelling+Immer",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:41Z"
  },
  {
   "id": "4d5e94bfb12558c4",
@@ -3772,7 +3794,8 @@
   "source_url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Bose+QuietComfort+ANC+Over+Ear+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:42Z"
  },
  {
   "id": "1fbb4a94c7751f10",
@@ -3789,7 +3812,8 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:43Z"
  },
  {
   "id": "41513b3ef3ed3d18",
@@ -3806,7 +3830,8 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:19:45Z"
  },
  {
   "id": "8aa733bd6641b404",
@@ -3822,7 +3847,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:19:46Z"
  },
  {
   "id": "6f13edb6c69b21cf",
@@ -3840,7 +3866,8 @@
   "source_url": "https://slickdeals.net/f/20231346-bose-soundlink-plus-portable-bluetooth-speaker-sunset-peach-blue-dusk-179-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+SoundLink+Plus+Portable+Bluetooth+Speaker+Sunset+Peach+Blue+Dusk",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:28:30Z"
  },
  {
   "id": "35cde0a3d8bdf63c",
@@ -3858,7 +3885,8 @@
   "source_url": "https://slickdeals.net/f/20231214-bose-quietcomfort-ultra-earbuds-2nd-gen-various-colors-229-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Earbuds+Various+Colors",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:28:32Z"
  },
  {
   "id": "4e8266c9d7884c9a",
@@ -3874,7 +3902,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:33Z"
  },
  {
   "id": "d3d95fc9786eafe6",
@@ -3890,7 +3919,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:36Z"
  },
  {
   "id": "593875abcfb2efea",
@@ -3906,7 +3936,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:37Z"
  },
  {
   "id": "34a186c27f3fbcaa",
@@ -3922,7 +3953,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:38Z"
  },
  {
   "id": "782a0baab9990587",
@@ -3938,7 +3970,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:39Z"
  },
  {
   "id": "ab4a99f4d7de4072",
@@ -3954,7 +3987,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:40Z"
  },
  {
   "id": "1ddfe80a3875501d",
@@ -3972,7 +4006,8 @@
   "source_url": "https://slickdeals.net/f/20222349-baseus-inspire-xc1-open-ear-clip-on-earbuds-w-sound-by-bose-dolby-spatial-audio-79-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Baseus+Inspire+XC1+Open+Ear+Clip-On+Earbuds+w+Sound+by+Bose+%26+Dolby+Spatial+Audi",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:28:42Z"
  },
  {
   "id": "bfe8efb7cbbdb4ff",
@@ -3990,7 +4025,8 @@
   "source_url": "https://slickdeals.net/f/20213037-bose-smart-ultra-dolby-atmos-soundbar-all-in-one-surround-sound-system-for-tv-a-i-dialogue-mode-alexa-and-google-voice-control-hdmi-earc-white-or-black?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+Smart+Ultra+Dolby+Atmos+Soundbar+All-in-One+Surround+Sound+System+for+TV+A.",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:28:43Z"
  },
  {
   "id": "ab717996e2482186",
@@ -4008,7 +4044,8 @@
   "source_url": "https://slickdeals.net/f/20210781-bose-soundlink-home-bluetooth-speaker-warm-wood-light-silver-cool-gray-119-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Bose+SoundLink+Home+Bluetooth+Speaker+Warm+Wood+Light+silver+Cool+Gray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:28:45Z"
  },
  {
   "id": "7f5fcbfe0cd2230f",
@@ -4025,7 +4062,8 @@
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:28:46Z"
  },
  {
   "id": "2fc9fde54f04926f",
@@ -4041,7 +4079,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:48Z"
  },
  {
   "id": "0ad1590f27a03274",
@@ -4057,7 +4096,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:49Z"
  },
  {
   "id": "611e5cad4e11678e",
@@ -4073,7 +4113,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:28:51Z"
  },
  {
   "id": "2fabda829efeed21",
@@ -4091,7 +4132,8 @@
   "source_url": "https://slickdeals.net/f/20213016-garmin-fusion-apollo-ms-erx400-marine-wired-remote-with-ethernet-a-garmin-brand-229-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Fusion+Apollo+MS-ERX400+Marine+Wired+Remote+with+Ethernet+A+Garmin+Brand",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:37:30Z"
  },
  {
   "id": "d41a9a187ecbe6c0",
@@ -4109,7 +4151,8 @@
   "source_url": "https://slickdeals.net/f/20208267-garmin-v-voactive-5-health-fitness-gps-smartwatch-42mm-various-colors-from-191?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+v+voactive+5+Health+%26+Fitness+GPS+Smartwatch+42mm+various+colors+from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:37:31Z"
  },
  {
   "id": "52fc2df6b6476628",
@@ -4127,7 +4170,8 @@
   "source_url": "https://slickdeals.net/f/20208249-garmin-approach-ct10-full-set-automatic-club-tracking-system-14-sensors-white-010-01994-00-249-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Approach+CT10+Full+Set+Automatic+Club+Tracking+System+14+Sensors+White+01",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:37:33Z"
  },
  {
   "id": "ec19949c85b5d1e1",
@@ -4145,7 +4189,8 @@
   "source_url": "https://slickdeals.net/f/20191461-garmin-venu-3-premium-fitness-smartwatch-45mm-black-body-battery-energy-monitoring-sleep-coach-workout-benefit-recovery-time-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Venu+3+Premium+Fitness+Smartwatch+45mm+Black+Body+Battery+Energy+Monitori",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:37:34Z"
  },
  {
   "id": "260c75a3e2085147",
@@ -4161,7 +4206,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:37:35Z"
  },
  {
   "id": "d9e427275f060e5f",
@@ -4179,7 +4225,8 @@
   "source_url": "https://slickdeals.net/f/20184462-garmin-pro-trashbreaker-handheld-269-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+PRO+Trashbreaker+Handheld",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:37:37Z"
  },
  {
   "id": "56fc85e341abd406",
@@ -4196,7 +4243,8 @@
   "source_url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:37:38Z"
  },
  {
   "id": "c052cf7adba2f2a0",
@@ -4212,7 +4260,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:37:39Z"
  },
  {
   "id": "021138da7ac582e2",
