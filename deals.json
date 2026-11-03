@@ -1,26 +1,5 @@
 [
  {
-  "id": "05b2cf7b5aa2987b",
-  "title": "frame-denim Superfine Polo Sweater -- Grey Melange",
-  "url": "https://frame-store.com/products/superfine-polo-sweater-grey-melange?variant=44507908276400",
-  "exact": true,
-  "similar": "https://frame-store.com/search?q=frame-denim+Superfine+Polo+Sweater+--+Grey+Melange",
-  "why": "60% off at Frame",
-  "category": "fashion",
-  "source": "Frame sale",
-  "store": "Frame",
-  "store_reader": "Frame",
-  "urgent": false,
-  "hot": true,
-  "pct": 60,
-  "price": 159.0,
-  "was": 398.0,
-  "found_at": "2026-11-02T20:37:02Z",
-  "seen_at": "2026-11-02T20:37:02Z",
-  "checked_at": "2026-11-02T20:37:02Z",
-  "image": "https://cdn.shopify.com/s/files/1/2259/1799/files/MF25KSW003_GRYM_PCK_Front.jpg?v=1789156022"
- },
- {
   "id": "3055443dcc22bb45",
   "title": "frame-denim The Ruler -- Taboo",
   "url": "https://frame-store.com/products/the-ruler-taboo?variant=44170475765936",
@@ -3643,7 +3622,8 @@
   "found_at": "2026-11-02T20:40:55Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T03:15:27Z"
  },
  {
   "id": "51d0a3dddd10c71f",
@@ -3661,7 +3641,8 @@
   "source_url": "https://slickdeals.net/f/20229585-dyson-supersonic-nural-hair-dryer-in-strawberry-bronze-and-blush-pink-with-dyson-designed-presentation-372-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Dyson+Supersonic+Nural+Hair+Dryer+in+Strawberry+Bronze+and+Blush+Pink+with+Dyson",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:29Z"
  },
  {
   "id": "8ad9109b340f7ca4",
@@ -3679,7 +3660,8 @@
   "source_url": "https://slickdeals.net/f/20223270-dyson-pencilwash-cordless-wet-cleaner-bright-copper-199-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Dyson+PencilWash+Cordless+Wet+Cleaner+Bright+Copper",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:30Z"
  },
  {
   "id": "63d181cc06279cb3",
@@ -3697,7 +3679,8 @@
   "source_url": "https://slickdeals.net/f/20218608-dyson-ball-animal-optic-corded-upright-vacuum-299-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+Ball+Animal+Optic+Corded+Upright+Vacuum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:31Z"
  },
  {
   "id": "fefff5dd38b07bab",
@@ -3713,7 +3696,8 @@
   "found_at": "2026-11-02T20:40:55Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T03:15:32Z"
  },
  {
   "id": "ad95ff7f23bdf47d",
@@ -3731,7 +3715,8 @@
   "source_url": "https://slickdeals.net/f/20210835-dyson-hp07-hp07-purifier-hot-cool-fan-black-nickel-refurbished-319-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Dyson+HP07+HP07+Purifier+Hot+%2B+Cool+Fan+Black+Nickel+Refurbished",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:33Z"
  },
  {
   "id": "3ad249261dddc659",
@@ -3749,7 +3734,8 @@
   "source_url": "https://slickdeals.net/f/20209797-dyson-r2-nurovi-wash-dry-robot-vacuum-559-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+R2+Nurovi+Wash+Dry+Robot+Vacuum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:35Z"
  },
  {
   "id": "b8751a43e7a42120",
@@ -3767,7 +3753,8 @@
   "source_url": "https://slickdeals.net/f/20208063-dyson-purifier-cool-pc1-hepa-air-purifier-tower-fan-app-and-remote-controlled-350-oscillation-10-levels-bladeless-white-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Dyson+Purifier+Cool+PC1+HEPA+Air+Purifier+Tower+Fan+App+and+remote+controlled+35",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:36Z"
  },
  {
   "id": "5b7663f3c390d928",
@@ -3783,7 +3770,8 @@
   "found_at": "2026-11-02T20:40:55Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T03:15:37Z"
  },
  {
   "id": "6ffaf7c15b648905",
@@ -3801,7 +3789,8 @@
   "source_url": "https://slickdeals.net/f/20202444-dyson-corrale-hair-straightener-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Dyson+Corrale+Hair+Straightener",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:40Z"
  },
  {
   "id": "8fd3c0ef6b995d06",
@@ -3819,7 +3808,8 @@
   "source_url": "https://slickdeals.net/f/20202435-dyson-airwrap-i-d-multi-styler-and-dryer-curly-coily-in-ceramic-pink-and-rose-gold-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Dyson+Airwrap+i.d.+Multi-Styler+and+Dryer+Curly%2BCoily+in+Ceramic+Pink+and+Rose+G",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:42Z"
  },
  {
   "id": "8e1aa2f9fcbfac2c",
@@ -3837,7 +3827,8 @@
   "source_url": "https://slickdeals.net/f/20198493-dyson-v8-cyclone-cordless-vacuum-with-anti-tangle-brush-starts-11-6-249?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsclub",
   "similar": "https://www.samsclub.com/s/Dyson%20V8%20Cyclone%20Cordless%20Vacuum%20with%20Anti-Tangle%20Brush%20-%20Starts%2011%206",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T03:15:43Z"
  },
  {
   "id": "4350510bdd40425d",
@@ -3853,7 +3844,8 @@
   "found_at": "2026-11-02T20:40:55Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T03:15:45Z"
  },
  {
   "id": "f78b3e2626f335cc",
@@ -35622,6 +35614,24 @@
   "source_url": "https://slickdeals.net/f/19582773-prime-members-bircen-womens-acetate-sunglasses-various-colors-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Prime+Members+BIRCEN+Womens+Acetate+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "fc40d5dcc4ee9ca6",
+  "title": "Pre-Owned Hermes Birkin Handbag Grey Togo with Palladium Hardware 35 at Nordstrom, Size Medium",
+  "url": "https://www.nordstrom.com/sr?keyword=Pre-Owned+Hermes+Birkin+Handbag+Grey+Togo+with+Palladium+Hardware+35",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Nordstrom Designer",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": null,
+  "found_at": "2026-11-03T03:12:23Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20199510-pre-owned-hermes-birkin-handbag-grey-togo-with-palladium-hardware-35-at-nordstrom-size-medium?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "similar": "https://www.nordstrom.com/sr?keyword=Pre-Owned+Hermes+Birkin+Handbag+Grey+Togo+with+Palladium+Hardware+35",
   "exact": false
  }
 ]
