@@ -1,62 +1,5 @@
 [
  {
-  "id": "0f35bb305926b6b1",
-  "title": "Deals: M5 Pro MacBook Pro $500 off, Apple Watch Series 11 $150 off, AirPods, AirTag 2, MagSafe Battery, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Apple Watch 30% off",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 30,
-  "price": 500.0,
-  "found_at": "2026-11-02T22:51:17Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/07/24/deals-m5-pro-macbook-pro-apple-watch-airpods-airtag-2/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro",
-  "checked_at": "2026-11-03T16:28:24Z"
- },
- {
-  "id": "062e221fa7ed8963",
-  "title": "Best ‘Black Friday in July’ Apple deals: $500 off MacBook Pro, $100 off AirPods, more",
-  "url": "https://www.amazon.com/dp/B0GR1N1H1W",
-  "why": "Apple Watch 40% off",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 40,
-  "price": 500.0,
-  "found_at": "2026-11-02T22:51:17Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/07/24/best-black-friday-in-july-apple-deals-50-off-airpods-pro-400-off-macbook-pro-more/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Best+Black+Friday+in+July+Apple+deals",
-  "checked_at": "2026-11-03T16:28:24Z"
- },
- {
-  "id": "b1b95375ba2e2db9",
-  "title": "Deals: M5 Pro MacBook Pro $320 off, Series 11 from $299, AirPods Pro 3, Satechi 25W MagSafe stand 40% off, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Apple Watch 40% off",
-  "category": "watches",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": 40,
-  "price": 320.0,
-  "found_at": "2026-11-02T22:51:17Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/07/23/deals-macbook-pro-series-11-airpods-25w-magsafe/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro",
-  "checked_at": "2026-11-03T16:28:24Z"
- },
- {
   "id": "93607ca6f45292de",
   "title": "Birkenstock Women's Madrid Big Buckle EVA Sandals (Pure Sage) $21.57 + Free Shipping on $49",
   "url": "https://slickdeals.net/f/20226690-birkenstock-women-s-madrid-big-buckle-eva-sandals-pure-sage-21-57-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -198,7 +141,8 @@
   "source_url": "https://slickdeals.net/f/20208930-birkenstock-women-s-lutry-365-suede-clog-shoes-light-rose-61-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Lutry+365+Suede+Clog+Shoes",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:00Z"
  },
  {
   "id": "b50563f55a86a041",
@@ -215,7 +159,8 @@
   "source_url": "https://slickdeals.net/f/20193420-birkenstock-papillio-women-s-arizona-chunky-sandals-baby-blue-50-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Papillio+Women%27s+Arizona+Chunky+Sandals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:02Z"
  },
  {
   "id": "19ff966cdc4074fd",
@@ -232,7 +177,8 @@
   "source_url": "https://slickdeals.net/f/20193309-birkenstock-women-s-arizona-gold-birko-flor-sandal-gold-up-to-size-7-5-50-04-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+Gold+Birko-Flor+Sandal",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:04Z"
  },
  {
   "id": "ed77ef7f7212e02a",
@@ -249,7 +195,8 @@
   "source_url": "https://slickdeals.net/f/20162592-papillio-by-birkenstock-women-s-arizona-chunky-birko-flor-platform-sandals-50-95-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Papillio+by+Birkenstock+Women%27s+Arizona+Chunky+Birko-Flor+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:05Z"
  },
  {
   "id": "55a9fc9c2ee5a837",
@@ -266,7 +213,8 @@
   "source_url": "https://slickdeals.net/f/20162196-birkenstock-women-s-madrid-big-buckle-eva-sandals-pure-sage-20-37-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:07Z"
  },
  {
   "id": "f60aa96fc8086c9e",
@@ -283,7 +231,8 @@
   "source_url": "https://slickdeals.net/f/20137536-birkenstock-women-s-arizona-eva-stealth-buckle-sandals-2-colors-20-free-shipping-on-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+EVA+Stealth+Buckle+Sandals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:08Z"
  },
  {
   "id": "e09b5fbeae2d512e",
@@ -300,7 +249,8 @@
   "source_url": "https://slickdeals.net/f/20134554-birkenstock-women-s-madrid-big-buckle-eva-sandals-sage-23-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:10Z"
  },
  {
   "id": "45d78b2cacbad402",
@@ -317,7 +267,8 @@
   "source_url": "https://slickdeals.net/f/20100732-birkenstock-papillio-women-s-arizona-chunky-birko-flor-platform-sandals-blue-59-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Papillio+Women%27s+Arizona+Chunky+Birko-Flor+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:11Z"
  },
  {
   "id": "355ba51a6339c8d0",
@@ -334,7 +285,8 @@
   "source_url": "https://slickdeals.net/f/20095722-birkenstock-women-s-tokyo-super-grip-black-leather-clogs-size-8-8-5-77-91-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women+s+Tokyo+Super+Grip+Black+Leather+Clogs",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:13Z"
  },
  {
   "id": "b6cd44def5c30e44",
@@ -351,7 +303,8 @@
   "source_url": "https://slickdeals.net/f/20076708-qvc-new-customer-birkenstock-women-s-boston-eva-adjustable-recovery-clog-various-colors-26-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=QVC+Customer+Birkenstock+Women%27s+Boston+EVA+Adjustable+Recovery+Clog",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:14Z"
  },
  {
   "id": "8966b86747675411",
@@ -368,7 +321,8 @@
   "source_url": "https://slickdeals.net/f/20061477-birkenstock-women-s-madrid-big-buckle-eva-sandals-sage-23-77-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:16Z"
  },
  {
   "id": "b5aebddf30698b4a",
@@ -385,7 +339,8 @@
   "source_url": "https://slickdeals.net/f/20060742-birkenstock-women-s-tokio-shoes-pure-sage-89-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Tokio+Shoes",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T16:37:18Z"
  },
  {
   "id": "d625588df1eab94d",
@@ -30475,7 +30430,7 @@
  {
   "id": "f34f29d112d340a8",
   "title": "Used Condition: DJI Neo Mini Drone w/ 4K UHD Camera (Neo Controller-Free) $65.40 or Less + Free S&H",
-  "url": "https://slickdeals.net/f/20248839-used-dji-neo-mini-drone-with-4k-uhd-camera-69-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -30487,7 +30442,8 @@
   "source_url": "https://slickdeals.net/f/20248839-used-dji-neo-mini-drone-with-4k-uhd-camera-69-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f94be75178e91b7b",
@@ -30560,7 +30516,7 @@
  {
   "id": "bca79685452bcb52",
   "title": "Round Trip New Jersey to Aruba $267 Nonstop Airfares on United Airlines BE (Travel January - February 2027)",
-  "url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
   "why": "🌴 EWR → Aruba",
   "category": "flights",
   "source": "Slickdeals: flights",
@@ -30576,12 +30532,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
+  "link_tried3": true
  },
  {
   "id": "f7ea776183029e1d",
   "title": "Round Trip New York to Tokyo Japan Very Few $315 or $614 Airfares on Alaska/Hawaiian Airlines (Limited Travel January - February 2027)",
-  "url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjdqBRIDTllDcgUSA1RZTxoaEgoyMDI3LTAyLTA1agUSA1RZT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: airfare",
@@ -30601,7 +30558,8 @@
    "TYO"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "5297d01d77837196",
@@ -30838,7 +30796,7 @@
  {
   "id": "7acf3ca97c3af964",
   "title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
-  "url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Prada sale",
@@ -30850,7 +30808,8 @@
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "03bf1f92abeb8466",
@@ -30925,7 +30884,7 @@
  {
   "id": "a697edc37637e6af",
   "title": "Prada Paradigme Eau de Parfum Refillable Spray 1.6-Ounce $86.50 + Free Shipping",
-  "url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Prada sale",
@@ -30937,7 +30896,8 @@
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b174c791c7a0e43",
@@ -30960,7 +30920,7 @@
  {
   "id": "8bf144d8b5b11e19",
   "title": "Men's 3.3oz + 0.34oz. Yves Saint Laurent Y EDP Fragrance Travel Gift Set $99.75 + Free S&H on $100+",
-  "url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+3.3oz+%2B+0.34oz.+Yves+Saint+Laurent+Y+EDP+Fragrance+Travel+Gift+Set",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -30972,7 +30932,8 @@
   "source_url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+3.3oz+%2B+0.34oz.+Yves+Saint+Laurent+Y+EDP+Fragrance+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0dfee97fb73a6d14",
@@ -30995,7 +30956,7 @@
  {
   "id": "266a8a1e72063bba",
   "title": "3.4-Oz Yves Saint Laurent YSL Myslf Eau de Parfum Spray for Men $60 Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -31007,7 +30968,8 @@
   "source_url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "328618f6dd15452b",
@@ -31028,7 +30990,7 @@
  {
   "id": "71fe1ef8a749cd9c",
   "title": "3.4-Oz Yves Saint Laurent YSL Myslf Eau de Parfum Spray for Men $68.98 Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/19749792-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-68-98-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -31040,12 +31002,13 @@
   "source_url": "https://slickdeals.net/f/19749792-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-68-98-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fdc30b86b4c0fad7",
   "title": "Yves Saint Laurent Y Eau de Parfum $14.30 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19389798-yves-saint-laurent-y-eau-de-parfum-14-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Y+Eau+de+Parfum",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -31057,7 +31020,8 @@
   "source_url": "https://slickdeals.net/f/19389798-yves-saint-laurent-y-eau-de-parfum-14-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Y+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bc89fc6e45c331e3",
@@ -31078,7 +31042,7 @@
  {
   "id": "85af1dabb548d21a",
   "title": "Yves Saint Laurent Black Opium Eau de Parfum Glitter with Marshmallow & Coffee 3 oz / 90 ml eau de parfum spray $86",
-  "url": "https://slickdeals.net/f/19290402-yves-saint-laurent-black-opium-eau-de-parfum-glitter-with-marshmallow-coffee-3-oz-90-ml-eau-de-parfum-spray-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium+Eau+de+Parfum+Glitter+with+Marshmallow+%26+Coffee+3",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -31090,12 +31054,13 @@
   "source_url": "https://slickdeals.net/f/19290402-yves-saint-laurent-black-opium-eau-de-parfum-glitter-with-marshmallow-coffee-3-oz-90-ml-eau-de-parfum-spray-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium+Eau+de+Parfum+Glitter+with+Marshmallow+%26+Coffee+3",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "323c4486b408229a",
   "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
-  "url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Saint Laurent sale",
@@ -31107,7 +31072,8 @@
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d63b489062df5a0b",
@@ -34539,11 +34505,11 @@
   "pct": null,
   "price": 21.0,
   "found_at": "2026-11-03T16:19:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20180799-ralph-lauren-2-piece-world-of-polo-eau-de-toilette-gift-set-21-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+2-Piece+World+of+Polo+Eau+de+Toilette+Gift+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "eed71a7e4bf0757e",
@@ -34573,11 +34539,11 @@
   "pct": null,
   "price": 61.8,
   "found_at": "2026-11-03T16:19:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20120679-prime-ralph-lauren-ralph-3-4-oz-eau-de-toilette-61-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ralph+Lauren+Ralph+3.4-Oz+Eau+de+Toilette",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "014503e4a4a560fa",
@@ -34609,11 +34575,11 @@
   "pct": null,
   "price": 67.83,
   "found_at": "2026-11-03T16:19:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20071476-4-piece-lauren-ralph-lauren-spencer-475-thread-count-cotton-sateen-sheet-set-queen-various-colors-67-83-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=4-Piece+Lauren+Ralph+Lauren+Spencer+475-Thread+Count+Cotton+Sateen+Sheet+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a28278797dcd11cd",
@@ -34663,11 +34629,11 @@
   "pct": 30,
   "price": null,
   "found_at": "2026-11-03T16:19:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19984638-extra-30-off-ralph-lauren-labor-day-event?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Extra+30+Off+Ralph+Lauren+Labor+Day+Event",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "107edceb6e627b94",
@@ -34699,11 +34665,11 @@
   "pct": null,
   "price": 40.0,
   "found_at": "2026-11-03T16:19:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19910031-2-5oz-ralph-lauren-men-s-polo-67-eau-de-parfum-40-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2.5oz+Ralph+Lauren+Men%27s+Polo+67+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3cb5ee87c6fcda30",
@@ -34717,11 +34683,11 @@
   "pct": null,
   "price": 40.0,
   "found_at": "2026-11-03T16:19:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19907880-2-5-oz-ralph-lauren-polo-67-eau-de-parfum-cologne-for-men-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2.5-Oz+Ralph+Lauren+Polo+67+Eau+de+Parfum+Cologne+for+Men",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6257337fcf8ce88c",
@@ -34753,11 +34719,11 @@
   "pct": null,
   "price": 47.83,
   "found_at": "2026-11-03T16:19:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19841034-polo-ralph-lauren-men-s-jogger-pull-on-pants-47-83?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Jogger+Pull-On+Pants",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c6db07af82aca579",
@@ -34876,11 +34842,11 @@
   "pct": null,
   "price": 200.0,
   "found_at": "2026-11-03T16:25:12Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/products/Dyson/Dyson-Hot-Cool-Gen1-HP10-Air-Purifier/531875.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Hot%2BCool+Gen1+HP10+Air+Purifier+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bd7619de400293d9",
@@ -34930,11 +34896,11 @@
   "pct": null,
   "price": 923.12,
   "found_at": "2026-11-03T16:25:12Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Aviation+45mm+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "31c3a572d361cd30",
@@ -34948,11 +34914,11 @@
   "pct": null,
   "price": 272.0,
   "found_at": "2026-11-03T16:25:12Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154366-40mm-tissot-carson-men-s-automatic-powermatic-80-watch-272-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Automatic+Powermatic+80+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b2a0cef43948c300",
@@ -34966,11 +34932,11 @@
   "pct": 15,
   "price": 956.25,
   "found_at": "2026-11-03T16:25:12Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20125365-tissot-seastar-2000-professional-powermatic-80-automatic-watch-44mm-956-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Seastar+2000+Professional+Powermatic+80+Automatic+Watch+-+44mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f26ff067390667ac",
@@ -35002,11 +34968,11 @@
   "pct": null,
   "price": 615.1,
   "found_at": "2026-11-03T16:25:12Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20089467-42mm-hamilton-american-classic-black-dial-men-s-automatic-watch-615-10-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+American+Classic+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c5f8a503635382af",
@@ -35038,11 +35004,11 @@
   "pct": null,
   "price": 367.0,
   "found_at": "2026-11-03T16:25:12Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+American+Classic+Intra-Matic+38mm+Black+and+Brown+Dial+Men%27s+Automatic+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ee5d9d4c8d7d36a9",
@@ -35056,11 +35022,11 @@
   "pct": null,
   "price": 344.5,
   "found_at": "2026-11-03T16:25:12Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19998840-40mm-tissot-seastar-1000-watch-black-or-blue-dial-344-50-9-80-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Seastar+1000+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4d97f8d922f10fa7",
@@ -35114,12 +35080,13 @@
   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3d5bjlBb0I1aDYzRjBkaEF4UGNxOFFQclRqd09KY0plT3htbTE5RWNEVFlsdzRBTVFwS21SWnlnRHZEdHhCa3FITUpFOVl4Ynk5akpRTjZnblNxRzVvMzgxRWJZdHB3UTRRSERsaDAwTDhGT0g1MkN6OXlLams1b0VDUUUwWXA0WDBiZXM1VWhTS2xIUVVNWHIycHpVTDFZVm1SVWczbTRoc3ZFMmcw?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Flight%20from%20Buffalo%20to%20NYC%20reportedly%20reached",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "34075af5bcac4c6e",
   "title": "No Boundaries Cloud Core Collection Women's Short-Sleeve Top and Boxer Shorts Pajama Set (Various) from $7.08 + Free S&H w/ Walmart+ or on $35+",
-  "url": "https://slickdeals.net/f/20249358-no-boundaries-cloud-core-collection-women-s-short-sleeve-top-and-boxer-shorts-pajama-set-various-from-7-08-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=No+Boundaries+Cloud+Core+Collection+Women%27s+Short-Sleeve+Top+and+Boxer+Shorts+Pa",
   "why": "",
   "category": "everything",
   "source": "Web search: On Cloud sale",
@@ -35127,6 +35094,144 @@
   "hot": false,
   "pct": null,
   "price": 7.08,
-  "found_at": "2026-11-03T16:28:37Z"
+  "found_at": "2026-11-03T16:28:37Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20249358-no-boundaries-cloud-core-collection-women-s-short-sleeve-top-and-boxer-shorts-pajama-set-various-from-7-08-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=No+Boundaries+Cloud+Core+Collection+Women%27s+Short-Sleeve+Top+and+Boxer+Shorts+Pa",
+  "exact": false
+ },
+ {
+  "id": "20bc81d468babb35",
+  "title": "[WTS] Chanel Allure Homme EDT 150ml + (3) Brand New 8ml Travel Sprays (Bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Chanel+Allure+Homme+EDT+150ml+%2B+Brand+8ml+Travel+Sprays",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T16:33:57Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmximn/wts_chanel_allure_homme_edt_150ml_3_brand_new_8ml/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Chanel+Allure+Homme+EDT+150ml+%2B+Brand+8ml+Travel+Sprays",
+  "exact": false
+ },
+ {
+  "id": "e65f2b5dcf2abf5e",
+  "title": "$799.99 | Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch (Black Titanium Case, Black Titanium Milanese Loop - L) at Amazon",
+  "url": "https://slickdeals.net/f/20243292-799-99-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-black-titanium-case-black-titanium-milanese-loop-l-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.99,
+  "found_at": "2026-11-03T16:33:57Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "1d526a61fe7569f9",
+  "title": "$699.99 | Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch at Amazon",
+  "url": "https://slickdeals.net/f/20243283-699-99-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-03T16:33:57Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "d5efd57d73e0bbcf",
+  "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch | Natural Titanium Case $699.99",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Smartwatch%20Natural%20Titanium%20Case",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Ultra",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-03T16:33:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20250096-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-case-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Smartwatch%20Natural%20Titanium%20Case",
+  "exact": false
+ },
+ {
+  "id": "90aaf7ef7d047890",
+  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-03T16:37:31Z"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-03T16:37:31Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-03T16:37:31Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-03T16:37:32Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-03T16:37:32Z"
  }
 ]
