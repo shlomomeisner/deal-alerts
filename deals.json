@@ -3917,7 +3917,8 @@
   "source_url": "https://slickdeals.net/f/20207544-apple-airtag-1-pack-2nd-generation-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+AirTag+1+pack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:13Z"
  },
  {
   "id": "e384e50064e5bbc8",
@@ -3935,7 +3936,8 @@
   "source_url": "https://slickdeals.net/f/20207481-apple-airtag-2nd-generation-23?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirTag",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:15Z"
  },
  {
   "id": "8d4a2335e767d1b7",
@@ -3952,7 +3954,8 @@
   "source_url": "https://slickdeals.net/f/20200374-apple-watch-sport-loop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Sport+Loop",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:16Z"
  },
  {
   "id": "c55f118d87198113",
@@ -3970,7 +3973,8 @@
   "source_url": "https://slickdeals.net/f/20200368-apple-watch-alpine-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Watch%20Alpine%20Loop%20-%2049mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:18Z"
  },
  {
   "id": "33dd8eb60f936c06",
@@ -3987,7 +3991,8 @@
   "source_url": "https://slickdeals.net/f/20200365-apple-watch-trail-loop-49mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Trail+Loop+-+49mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:19Z"
  },
  {
   "id": "f522898743a1a139",
@@ -4004,7 +4009,8 @@
   "source_url": "https://slickdeals.net/f/20243409-otterbox-case-for-iphone-17-pro-iphone-18-pro-defender-series-xt-pro-dual-layer-with-military-grade-drop-protection-magsafe-capable-clear-black-free-shipping-12-88?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Otterbox+Case+for+iPhone+17+Pro+iPhone+18+Pro+Defender+Series+XT+Pro+Dual-Layer+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:21Z"
  },
  {
   "id": "6fc4eedceb347a50",
@@ -4021,7 +4027,8 @@
   "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mic+Mini+Wireless+Microphone",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:22Z"
  },
  {
   "id": "d08548087f3cd383",
@@ -4037,7 +4044,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T19:10:23Z"
  },
  {
   "id": "147d5f87479c653d",
@@ -4054,7 +4062,8 @@
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:25Z"
  },
  {
   "id": "a95e2f9d52be0c48",
@@ -4071,7 +4080,8 @@
   "source_url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:27Z"
  },
  {
   "id": "84be02714a03d73d",
@@ -4088,7 +4098,8 @@
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:28Z"
  },
  {
   "id": "2053beb34eadd1f1",
@@ -4105,7 +4116,8 @@
   "source_url": "https://slickdeals.net/f/20116122-prime-oakley-men-s-si-cotton-cap-various-lg-xl-from-16-free-shipping-16-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+SI+Cotton+Cap+LG+XL+from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:30Z"
  },
  {
   "id": "7c8a146ea7325dec",
@@ -4122,7 +4134,8 @@
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:32Z"
  },
  {
   "id": "8fffa76aeec20a14",
@@ -4139,7 +4152,8 @@
   "source_url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:34Z"
  },
  {
   "id": "a1b0e0ab61b0901e",
@@ -4156,7 +4170,8 @@
   "source_url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:10:36Z"
  },
  {
   "id": "98ee2219db3a0988",
@@ -4173,7 +4188,8 @@
   "source_url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:18:51Z"
  },
  {
   "id": "6016dba37bf94473",
@@ -4190,7 +4206,8 @@
   "source_url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:18:53Z"
  },
  {
   "id": "79c9b49b804bbd7d",
@@ -4208,7 +4225,8 @@
   "source_url": "https://slickdeals.net/f/19714995-oakley-men-s-dry-os-knit-sneaker-2-colors-29-98-oakley-men-s-os-lx-sneaker-3-colors-35-98-free-store-pick-up-at-nordstrom-rack-or-fs-on-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Nordstromrack",
   "similar": "https://www.nordstromrack.com/sr?keyword=Oakley+Men%27s+Dry+OS+Knit+Sneaker",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:18:54Z"
  },
  {
   "id": "49bb29d9e325df2a",
@@ -4225,7 +4243,8 @@
   "source_url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:18:56Z"
  },
  {
   "id": "b2d271285c69e4ac",
@@ -4242,7 +4261,8 @@
   "source_url": "https://slickdeals.net/f/19652295-extra-20-off-on-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+Oakley+%26+More",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:18:58Z"
  },
  {
   "id": "0311a434f8a74583",
@@ -4259,7 +4279,8 @@
   "source_url": "https://slickdeals.net/f/19651938-men-s-women-s-ray-ban-oakley-more-sunglasses-extra-20-off-oakley-men-s-sutro-rectangular-sunglasses-79-99-more-fs-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+%26+Women%27s+Ray-Ban+Oakley+%26+More+Sunglasses+Extra+20+Off+Oakley+Men%27s+Sutro",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:19:00Z"
  },
  {
   "id": "e2a621ddb574b853",
@@ -4275,7 +4296,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T19:19:02Z"
  },
  {
   "id": "fa10c2d1f418f801",
@@ -4292,7 +4314,8 @@
   "source_url": "https://slickdeals.net/f/19608867-30l-oakley-blade-backpack-blackout-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=30L+Oakley+Blade+Backpack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:19:04Z"
  },
  {
   "id": "8512cf5aad1ad8ca",
@@ -4308,7 +4331,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T19:19:06Z"
  },
  {
   "id": "f8c9124907ae872b",
@@ -4325,7 +4349,8 @@
   "source_url": "https://slickdeals.net/f/19596303-extra-10-off-on-sunnies-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Sunnies+Ray-Ban+Oakley+%26+More",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:19:08Z"
  },
  {
   "id": "7eef97d677815e71",
@@ -4341,7 +4366,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T19:19:10Z"
  },
  {
   "id": "8e0e58136182551f",
@@ -4357,7 +4383,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T19:19:12Z"
  },
  {
   "id": "d1c1011d57a18e9b",
@@ -4373,7 +4400,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T19:19:14Z"
  },
  {
   "id": "d1ad8bc675f1d6e1",
@@ -4390,7 +4418,8 @@
   "source_url": "https://slickdeals.net/f/19571664-oakley-men-s-enduro-2-0-30l-backpack-core-camo-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Enduro+2.0+30L+Backpack",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:19:16Z"
  },
  {
   "id": "8e2247559c77b60a",
@@ -4408,7 +4437,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3gtY0xjMG81TGJWZ2pfZEc4eWI0WFozTk1nVS0zY09QdjJpV3JNcGdsREZmdmFlZUNfWkJRTVU4eG9KZkNkZm9iVVpTQlZfN01HY0I2SFFXTkVkQnMwQUZPYWJ1cmhTTGdIM2ZCaEp0SXFaQUMzQjg0SE9NN2xoMXFn?oc=5",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Deals+Rare+hits+Google+Home+Speaker+Galaxy+Z+Fold+8+up+to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T19:19:16Z"
  },
  {
   "id": "6e21ee67189d5a25",
@@ -29480,7 +29510,7 @@
  {
   "id": "36b588ec9adb0d55",
   "title": "Fendi Baby Blanket $386.40 w/Free Shipping at Saks Fifth Avenue",
-  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Fendi+Baby+Blanket",
+  "url": "https://slickdeals.net/f/16570106-fendi-baby-blanket-386-40-w-free-shipping-at-saks-fifth-avenue?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29492,13 +29522,12 @@
   "source_url": "https://slickdeals.net/f/16570106-fendi-baby-blanket-386-40-w-free-shipping-at-saks-fifth-avenue?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Fendi+Baby+Blanket",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0312b9d32fec7c75",
   "title": "Fendi Women's Eyeglasses (Frame Only) F664 618 Burgundy 53 14 140 $14.50 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Women%27s+Eyeglasses+F664+618+Burgundy+53+14+140",
+  "url": "https://slickdeals.net/f/15888064-fendi-women-s-eyeglasses-frame-only-f664-618-burgundy-53-14-140-14-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29510,13 +29539,12 @@
   "source_url": "https://slickdeals.net/f/15888064-fendi-women-s-eyeglasses-frame-only-f664-618-burgundy-53-14-140-14-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Women%27s+Eyeglasses+F664+618+Burgundy+53+14+140",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "53ad38e623bb2720",
   "title": "Jomashop Summer Sunglasses - Ray-Ban, Fendi, Oakley, Costa Del Mar from $67.19 +Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Summer+Sunglasses+-+Ray-Ban+Fendi+Oakley+Costa+Del+Mar+from",
+  "url": "https://slickdeals.net/f/15873880-jomashop-summer-sunglasses-ray-ban-fendi-oakley-costa-del-mar-from-67-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29528,8 +29556,7 @@
   "source_url": "https://slickdeals.net/f/15873880-jomashop-summer-sunglasses-ray-ban-fendi-oakley-costa-del-mar-from-67-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Summer+Sunglasses+-+Ray-Ban+Fendi+Oakley+Costa+Del+Mar+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "fad6f4380269e2be",
@@ -29552,7 +29579,7 @@
  {
   "id": "195339d432a2c3f8",
   "title": "Extra 50% Off Sunglasses (various styles): Costa from $59, Ray-Ban from $61, Gucci from $118, Fendi from $75.5",
-  "url": "https://www.google.com/search?tbm=shop&q=Extra+50+Off+Sunglasses+Costa+from",
+  "url": "https://slickdeals.net/f/15686962-extra-50-off-sunglasses-various-styles-costa-from-59-ray-ban-from-61-gucci-from-118-fendi-from-75-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Fendi sale",
@@ -29564,13 +29591,12 @@
   "source_url": "https://slickdeals.net/f/15686962-extra-50-off-sunglasses-various-styles-costa-from-59-ray-ban-from-61-gucci-from-118-fendi-from-75-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Extra+50+Off+Sunglasses+Costa+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c30fcb21d597eafe",
   "title": "FENDI Women's Brown Ochre Round Sunglasses FF $75.50 + $5.99 shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Women%27s+Brown+Ochre+Round+Sunglasses+FF",
+  "url": "https://slickdeals.net/f/15685954-fendi-women-s-brown-ochre-round-sunglasses-ff-75-50-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29582,13 +29608,12 @@
   "source_url": "https://slickdeals.net/f/15685954-fendi-women-s-brown-ochre-round-sunglasses-ff-75-50-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Women%27s+Brown+Ochre+Round+Sunglasses+FF",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1e8dd20604e21186",
   "title": "Sunglasses Super Sale: Dior, Fendi, Gucci, Ray-Ban- Extra 50% Off: Starting at $14",
-  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Super+Dior+Fendi+Gucci+Ray-Ban-+Extra+50+Off+Starting+at",
+  "url": "https://slickdeals.net/f/15664330-sunglasses-super-sale-dior-fendi-gucci-ray-ban-extra-50-off-starting-at-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Fendi sale",
@@ -29600,13 +29625,12 @@
   "source_url": "https://slickdeals.net/f/15664330-sunglasses-super-sale-dior-fendi-gucci-ray-ban-extra-50-off-starting-at-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sunglasses+Super+Dior+Fendi+Gucci+Ray-Ban-+Extra+50+Off+Starting+at",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "be68edbf7906a4ea",
   "title": "FENDI Sky Blue Mirror Square Sunglasses FF 0216/S $94.04",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Sky+Blue+Mirror+Square+Sunglasses+FF+0216+S",
+  "url": "https://slickdeals.net/f/15190891-fendi-sky-blue-mirror-square-sunglasses-ff-0216-s-94-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29618,13 +29642,12 @@
   "source_url": "https://slickdeals.net/f/15190891-fendi-sky-blue-mirror-square-sunglasses-ff-0216-s-94-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Sky+Blue+Mirror+Square+Sunglasses+FF+0216+S",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f0ed8f1e5d04d474",
   "title": "Woot! Eyewear & Sunglasses Sale on Brand Names: Ray-Ban, Oakley, Tiffany, Nike, Gucci, Fendi and more. $32 - $115 + FS with PRIME",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Eyewear+%26+Sunglasses+on+Brand+Names+Ray-Ban+Oakley+Tiffany+Nike+Gucci+Fendi",
+  "url": "https://slickdeals.net/f/14962061-woot-eyewear-sunglasses-sale-on-brand-names-ray-ban-oakley-tiffany-nike-gucci-fendi-and-more-32-115-fs-with-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29636,13 +29659,12 @@
   "source_url": "https://slickdeals.net/f/14962061-woot-eyewear-sunglasses-sale-on-brand-names-ray-ban-oakley-tiffany-nike-gucci-fendi-and-more-32-115-fs-with-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+Eyewear+%26+Sunglasses+on+Brand+Names+Ray-Ban+Oakley+Tiffany+Nike+Gucci+Fendi",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0fc021baea1bfbfb",
   "title": "Fendi Geometric Rimless Aviator Sunglasses (Gold) $89 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Geometric+Rimless+Aviator+Sunglasses",
+  "url": "https://slickdeals.net/e/14954456-fendi-geometric-rimless-aviator-sunglasses-gold-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29654,13 +29676,12 @@
   "source_url": "https://slickdeals.net/e/14954456-fendi-geometric-rimless-aviator-sunglasses-gold-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Geometric+Rimless+Aviator+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6f7169dba762984c",
   "title": "FENDIBrown Gradient Square Sunglasses with Turquoise Studs FF 0260/S 3H2/53 52 for $74.99 Shipped",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDIBrown+Gradient+Square+Sunglasses+with+Turquoise+Studs+FF+0260+S+3H2+53+52+f",
+  "url": "https://slickdeals.net/f/14948321-fendibrown-gradient-square-sunglasses-with-turquoise-studs-ff-0260-s-3h2-53-52-for-74-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29672,13 +29693,12 @@
   "source_url": "https://slickdeals.net/f/14948321-fendibrown-gradient-square-sunglasses-with-turquoise-studs-ff-0260-s-3h2-53-52-for-74-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDIBrown+Gradient+Square+Sunglasses+with+Turquoise+Studs+FF+0260+S+3H2+53+52+f",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ea703a10fcd5f907",
   "title": "Designer Sunglasses Sale: Ray-Ban Arista Green Square Sunglasses $48, Dior Pink Aviator Ladies Sunglasses $70, Gucci, Fendi, Oakley, Salvatore Ferragamo, & More",
-  "url": "https://www.google.com/search?tbm=shop&q=Designer+Sunglasses+Ray-Ban+Arista+Green+Square+Sunglasses",
+  "url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29690,13 +29710,12 @@
   "source_url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Sunglasses+Ray-Ban+Arista+Green+Square+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "669ac36d3c43d001",
   "title": "FENDI Gray Rose Gold Ladies Sunglasses FF 0382/S 35J 99 - $84.99",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Gray+Rose+Gold+Ladies+Sunglasses+FF+0382+S+35J+99+-",
+  "url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29708,13 +29727,12 @@
   "source_url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Gray+Rose+Gold+Ladies+Sunglasses+FF+0382+S+35J+99+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "741d2e8a18f406a6",
   "title": "Fendi Designer Sunglasses (various styles) $60 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Designer+Sunglasses",
+  "url": "https://slickdeals.net/e/14734733-fendi-designer-sunglasses-various-styles-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29726,13 +29744,12 @@
   "source_url": "https://slickdeals.net/e/14734733-fendi-designer-sunglasses-various-styles-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Designer+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2a40d423744ea896",
   "title": "Fendi Sunglasses (various styles/colors) from $69 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Sunglasses+from",
+  "url": "https://slickdeals.net/e/14666480-fendi-sunglasses-various-styles-colors-from-69-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29744,13 +29761,12 @@
   "source_url": "https://slickdeals.net/e/14666480-fendi-sunglasses-various-styles-colors-from-69-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Sunglasses+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2f64f552801d2a5b",
   "title": "FENDI Pink Gradient Round Sunglasses for $69.99 Shipped",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Pink+Gradient+Round+Sunglasses+for",
+  "url": "https://slickdeals.net/e/14652575-fendi-pink-gradient-round-sunglasses-for-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29762,13 +29778,12 @@
   "source_url": "https://slickdeals.net/e/14652575-fendi-pink-gradient-round-sunglasses-for-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Pink+Gradient+Round+Sunglasses+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b6cea7f4e3fa5b38",
   "title": "Fendi Rimless Shield Wrap w/ Mirror Lens Sunglasses $89 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Rimless+Shield+Wrap+w+Mirror+Lens+Sunglasses",
+  "url": "https://slickdeals.net/e/14559029-fendi-rimless-shield-wrap-w-mirror-lens-sunglasses-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29780,13 +29795,12 @@
   "source_url": "https://slickdeals.net/e/14559029-fendi-rimless-shield-wrap-w-mirror-lens-sunglasses-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Rimless+Shield+Wrap+w+Mirror+Lens+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1cd3e42d712bf43e",
   "title": "Men's FENDI SILVER-TONE/AZURE RIMLESS AVIATOR $79",
-  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+FENDI+SILVER-TONE+AZURE+RIMLESS+AVIATOR",
+  "url": "https://slickdeals.net/e/14507138-men-s-fendi-silver-tone-azure-rimless-aviator-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -29798,8 +29812,7 @@
   "source_url": "https://slickdeals.net/e/14507138-men-s-fendi-silver-tone-azure-rimless-aviator-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+FENDI+SILVER-TONE+AZURE+RIMLESS+AVIATOR",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6b55c236eae91816",
@@ -29905,7 +29918,7 @@
  {
   "id": "471451705acb84c1",
   "title": "Niimbot D110 Portable Thermal Label Maker for $8 + free shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Niimbot+D110+Portable+Thermal+Label+Maker+for",
+  "url": "https://www.dealnews.com/products/Niimbot/NIIMBOT-D110-Portable-Thermal-Label-Maker/553463.html?iref=rss",
   "why": "",
   "category": "amazon",
   "source": "DealNews",
@@ -29917,13 +29930,12 @@
   "source_url": "https://www.dealnews.com/products/Niimbot/NIIMBOT-D110-Portable-Thermal-Label-Maker/553463.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Niimbot+D110+Portable+Thermal+Label+Maker+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6e716ca1d95ed840",
   "title": "Pixel Watch 5 41mm LTE Free After Bill Credits on Google Fi",
-  "url": "https://www.google.com/search?tbm=shop&q=Pixel+Watch+5+41mm+LTE+Free+After+Bill+Credits+on+Google+Fi",
+  "url": "https://slickdeals.net/f/20249544-pixel-watch-5-41mm-lte-free-after-bill-credits-on-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: watch",
@@ -29935,13 +29947,12 @@
   "source_url": "https://slickdeals.net/f/20249544-pixel-watch-5-41mm-lte-free-after-bill-credits-on-google-fi?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Pixel+Watch+5+41mm+LTE+Free+After+Bill+Credits+on+Google+Fi",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d6abe96facdcf450",
   "title": "PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2/Switch Lite/OLED w/Motion - $24.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
+  "url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Amazon",
@@ -29953,13 +29964,12 @@
   "source_url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "efbbe6ba8e25f1d9",
   "title": "CRKD Nitro Deck (Switch / Switch OLED) - from $32.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+CRKD+Nitro+Deck+-+from",
+  "url": "https://slickdeals.net/f/20249664-crkd-nitro-deck-switch-switch-oled-from-32-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Amazon",
@@ -29971,8 +29981,7 @@
   "source_url": "https://slickdeals.net/f/20249664-crkd-nitro-deck-switch-switch-oled-from-32-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+CRKD+Nitro+Deck+-+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "71d2a19d3eadc039",
@@ -30027,7 +30036,7 @@
  {
   "id": "a03b7d445529437b",
   "title": "PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2/Switch Lite/OLED w/Motion - $24.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
+  "url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch",
@@ -30039,8 +30048,7 @@
   "source_url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0767cedce6c735b3",
@@ -30063,7 +30071,7 @@
  {
   "id": "c9ab4103ac83332b",
   "title": "DIOR VIII Montaigne Automatic Mother of Pearl Dial Ladies Watch CD1535I0M001 for $1995",
-  "url": "https://www.google.com/search?tbm=shop&q=DIOR+VIII+Montaigne+Automatic+Mother+of+Pearl+Dial+Ladies+Watch+CD1535I0M001+for",
+  "url": "https://slickdeals.net/f/15023710-dior-viii-montaigne-automatic-mother-of-pearl-dial-ladies-watch-cd1535i0m001-for-1995?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Web search: Dior price drop",
@@ -30075,13 +30083,12 @@
   "source_url": "https://slickdeals.net/f/15023710-dior-viii-montaigne-automatic-mother-of-pearl-dial-ladies-watch-cd1535i0m001-for-1995?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DIOR+VIII+Montaigne+Automatic+Mother+of+Pearl+Dial+Ladies+Watch+CD1535I0M001+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0c9f664c28d0f3bb",
   "title": "DIOR Christian Dior Blue Antiglare Aviator Ladies Sunglasses DIORMONSIEUR106JA963 for $109.99",
-  "url": "https://www.google.com/search?tbm=shop&q=DIOR+Christian+Dior+Blue+Antiglare+Aviator+Ladies+Sunglasses+DIORMONSIEUR106JA96",
+  "url": "https://slickdeals.net/f/15023476-dior-christian-dior-blue-antiglare-aviator-ladies-sunglasses-diormonsieur106ja963-for-109-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Dior price drop",
@@ -30093,8 +30100,7 @@
   "source_url": "https://slickdeals.net/f/15023476-dior-christian-dior-blue-antiglare-aviator-ladies-sunglasses-diormonsieur106ja963-for-109-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DIOR+Christian+Dior+Blue+Antiglare+Aviator+Ladies+Sunglasses+DIORMONSIEUR106JA96",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f89488c930b239d6",
@@ -30117,7 +30123,7 @@
  {
   "id": "38e67716b4c36cf3",
   "title": "Chanel LE LIFT CREME YEUX, 5.6 oz. $79.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Chanel+LE+LIFT+CREME+YEUX+5.6+oz.",
+  "url": "https://slickdeals.net/f/18632623-chanel-le-lift-creme-yeux-5-6-oz-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Chanel sale",
@@ -30129,8 +30135,7 @@
   "source_url": "https://slickdeals.net/f/18632623-chanel-le-lift-creme-yeux-5-6-oz-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+LE+LIFT+CREME+YEUX+5.6+oz.",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9b036219f4552daa",
@@ -30153,7 +30158,7 @@
  {
   "id": "2e5e365e63c67976",
   "title": "Chanel 2025 Results: $19.3 Billion Revenue, Growth with Blazy and New Price Increases - nss magazine",
-  "url": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
   "why": "",
   "category": "fashion",
   "source": "Web search: Chanel price drop",
@@ -30165,8 +30170,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b3831e98cafa48f5",
@@ -30255,7 +30259,7 @@
  {
   "id": "b36eb719c1dd0591",
   "title": "Hermes Jour D'hermes Eau de Parfum Spray for Women, Refillable, 2.87 Fluid Ounce $77.12",
-  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
+  "url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Hermes sale",
@@ -30267,8 +30271,7 @@
   "source_url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7202089894b4dcd8",
@@ -30291,7 +30294,7 @@
  {
   "id": "0a95b06eb24b78a2",
   "title": "Hermes Terre D'Hermes Eau de Toilette, 3.3 fl oz $89.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
+  "url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Hermes sale",
@@ -30303,8 +30306,7 @@
   "source_url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "44bb6218c31b3c7f",
@@ -30379,7 +30381,7 @@
  {
   "id": "f450d125d6ad996d",
   "title": "Celine Micro Luggage Handbag | Black Calfskin (Open Box) $1,199 w/ Free Prime Ship $1199",
-  "url": "https://www.google.com/search?tbm=shop&q=Celine+Micro+Luggage+Handbag+Black+Calfskin",
+  "url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Celine sale",
@@ -30391,13 +30393,12 @@
   "source_url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Celine+Micro+Luggage+Handbag+Black+Calfskin",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a78f4a290a6ed9c5",
   "title": "Celine Micro Luggage (Black) Made in Italy - $1,999.99 w/ Free Prime Ship Sold by WOOT $1999.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Celine+Micro+Luggage+Made+in+Italy+-",
+  "url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Celine sale",
@@ -30409,13 +30410,12 @@
   "source_url": "https://slickdeals.net/f/16142734-celine-micro-luggage-black-made-in-italy-1-999-99-w-free-prime-ship-sold-by-woot-1999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Celine+Micro+Luggage+Made+in+Italy+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c6daa3e06e63574c",
   "title": "CELINE Geometric Ladies Sunglasses CL40069U30N61 for $159.99 + FS",
-  "url": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
+  "url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Celine sale",
@@ -30427,13 +30427,12 @@
   "source_url": "https://slickdeals.net/f/15191692-celine-geometric-ladies-sunglasses-cl40069u30n61-for-159-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CELINE+Geometric+Ladies+Sunglasses+CL40069U30N61+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "20a6bf1289cb092e",
   "title": "Celine 48 Hour Sale - Price Reduced on 100+ Items | Ladies Vertical Celine Cabas Tote $899.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Celine+48+Hour+-+Price+Reduced+on+100%2B+Items+Ladies+Vertical+Celine+Cabas+Tote",
+  "url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Celine sale",
@@ -30445,8 +30444,7 @@
   "source_url": "https://slickdeals.net/f/14799400-celine-48-hour-sale-price-reduced-on-100-items-ladies-vertical-celine-cabas-tote-899-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Celine+48+Hour+-+Price+Reduced+on+100%2B+Items+Ladies+Vertical+Celine+Cabas+Tote",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "be5ad2cdbb66f60b",
@@ -30781,7 +30779,7 @@
  {
   "id": "7349aa9efd8f33ff",
   "title": "(used, like new) DJI Osmo Nano Action Camera Standard Combo: 64GB $120, 128GB $136 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Action+Camera+Standard+Combo+64GB",
+  "url": "https://slickdeals.net/f/20238270-used-like-new-dji-osmo-nano-action-camera-standard-combo-64gb-120-128gb-136-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -30793,13 +30791,12 @@
   "source_url": "https://slickdeals.net/f/20238270-used-like-new-dji-osmo-nano-action-camera-standard-combo-64gb-120-128gb-136-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Action+Camera+Standard+Combo+64GB",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "84f7f7eb8298c05a",
   "title": "(refurb) DJI Osmo Action 5 Pro Camer $191 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+Camer",
+  "url": "https://slickdeals.net/f/20238243-refurb-dji-osmo-action-5-pro-camer-191-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -30811,13 +30808,12 @@
   "source_url": "https://slickdeals.net/f/20238243-refurb-dji-osmo-action-5-pro-camer-191-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+Camer",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5d6039434c1fac48",
   "title": "DJI Osmo Pocket 3 1-Inch CMOS Gimbal Camera 4K/120fps $263 + F/S",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+1-Inch+CMOS+Gimbal+Camera+4K+120fps",
+  "url": "https://slickdeals.net/f/20238099-dji-osmo-pocket-3-1-inch-cmos-gimbal-camera-4k-120fps-263-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -30829,13 +30825,12 @@
   "source_url": "https://slickdeals.net/f/20238099-dji-osmo-pocket-3-1-inch-cmos-gimbal-camera-4k-120fps-263-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+1-Inch+CMOS+Gimbal+Camera+4K+120fps",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c8bb598901a76b17",
   "title": "DJI Osmo Pocket 3 4K Pocket Gimbal Camera $263 or Less + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+4K+Pocket+Gimbal+Camera",
+  "url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-263-or-less-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -30847,8 +30842,7 @@
   "source_url": "https://slickdeals.net/f/20238018-dji-osmo-pocket-3-4k-pocket-gimbal-camera-263-or-less-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+4K+Pocket+Gimbal+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f6a957ad3dd9966f",
@@ -30871,7 +30865,7 @@
  {
   "id": "860914d548b05301",
   "title": "DJI Osmo Action 4 Motorcycling/Mountain Cycling Combo, Action Camera 4K with 155º FOV, 1/1.3-Inch Sensor, Stabilization, with Chest Strap Mount $264.15",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Motorcycling+Mountain+Cycling+Combo+Action+Camera+4K+with+155+",
+  "url": "https://slickdeals.net/f/20229951-dji-osmo-action-4-motorcycling-mountain-cycling-combo-action-camera-4k-with-155-fov-1-1-3-inch-sensor-stabilization-with-chest-strap-mount-264-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -30883,8 +30877,7 @@
   "source_url": "https://slickdeals.net/f/20229951-dji-osmo-action-4-motorcycling-mountain-cycling-combo-action-camera-4k-with-155-fov-1-1-3-inch-sensor-stabilization-with-chest-strap-mount-264-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Motorcycling+Mountain+Cycling+Combo+Action+Camera+4K+with+155+",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6fd3704cba70d0c9",
@@ -33445,7 +33438,7 @@
  {
   "id": "89032a8bc3d6a518",
   "title": "Icelandair: New York – Rome, Italy. $465 (Basic Economy) / $625 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA0ZDTxoaEgoyMDI2LTEyLTEzagUSA0ZDT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMTlqBRIDTllDcgUSA0ZDTxoaEgoyMDI3LTAxLTI4agUSA0ZDT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -33456,9 +33449,8 @@
   "found_at": "2026-11-03T18:22:15Z",
   "dates_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVI3M01VVHg4MlY2UkFLeURMeXJ6WFEwOF92TDN6QjJOZm9LelMwVkR2VGJTYTZRRXVxRzF2bXUySWpxUi1GOWVvVkhrWHZzVFFrWmJiLTlKYjdmSElhWFBaWEhvTFJibkF5aThZLTBWNjNDS2lzU2RmWmdWXy00UG1CRzhBeGgwSlRRVjhwSms1bzI4amlCOUxzZFRoSVZRT0o2YUwwUUVNZmhWRVVaNFo4ekZxTjlKYkl0TmRUY1ptREhFQ2xDMnczM3JyNHVpdFFZMXNLbw?oc=5",
-  "picked": true,
-  "depart": "2026-12-08",
-  "return": "2026-12-13",
+  "depart": "2027-01-19",
+  "return": "2027-01-28",
   "fcode": [
    "NYC",
    "FCO"
