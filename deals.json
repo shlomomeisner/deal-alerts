@@ -123,7 +123,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T20:22:09Z"
  },
  {
   "id": "d40889fca42984b2",
@@ -141,7 +142,8 @@
   "source_url": "https://slickdeals.net/f/20235552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-with-translucent-gray-ocean-band-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+Watch+Ultra+4+GPS+%2B+Cellular+49mm+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:22:10Z"
  },
  {
   "id": "206c05ec405a9c6e",
@@ -159,7 +161,8 @@
   "source_url": "https://slickdeals.net/f/20234550-walmart-fs-70-or-60-ac-with-code-ymmv-apple-airtag-2nd-generation-4-pack?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Walmart+FS",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:22:12Z"
  },
  {
   "id": "2d65b61253151417",
@@ -175,7 +178,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T20:22:14Z"
  },
  {
   "id": "347ec5cbd7808bb7",
@@ -191,7 +195,8 @@
   "found_at": "2026-11-03T01:03:36Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T20:22:15Z"
  },
  {
   "id": "12789141842d3447",
@@ -209,7 +214,8 @@
   "source_url": "https://slickdeals.net/f/20231253-4-pack-apple-airtag-2nd-generation-69-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/4-Pack%20Apple%20AirTag",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:22:17Z"
  },
  {
   "id": "6274233e504e5cfb",
@@ -226,7 +232,8 @@
   "source_url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:22:18Z"
  },
  {
   "id": "480bdf6b93d8a326",
