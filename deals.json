@@ -3458,7 +3458,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:10:36Z"
  },
  {
   "id": "e7afd8643fb489d0",
@@ -3476,7 +3477,8 @@
   "source_url": "https://slickdeals.net/f/20227728-select-epp-edu-samsung-oled-s95h-4k-165hz-smart-tv-w-music-studio-5-77-2248-83-3713-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+OLED+S95H+4K+165Hz+Smart+TV+w+Music+Studio+5+77",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:37Z"
  },
  {
   "id": "412d141f08a76fb0",
@@ -3493,7 +3495,8 @@
   "source_url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+-+77+Class+C6H+OLED+evo+AI+4K+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:38Z"
  },
  {
   "id": "c683234180eaefca",
@@ -3509,7 +3512,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:10:40Z"
  },
  {
   "id": "fd40cc2f482b061f",
@@ -3525,7 +3529,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:10:41Z"
  },
  {
   "id": "59f354c7f6224287",
@@ -3543,7 +3548,8 @@
   "source_url": "https://slickdeals.net/f/20208231-lg-83-inch-class-lg-oled-evo-ai-w6-4k-smart-tv-2026-with-wallpaper-design-wallpaper-design-with-zero-connect-hyper-radiant-color-tech-5299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=LG+83+inch+Class+LG+OLED+evo+AI+W6+4K+Smart+TV+2026+with+Wallpaper+Design+Wallpa",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:43Z"
  },
  {
   "id": "c6dcff6e4fac28b9",
@@ -3559,7 +3565,8 @@
   "found_at": "2026-11-02T20:46:21Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T04:10:44Z"
  },
  {
   "id": "166c01f853da6844",
@@ -3577,7 +3584,8 @@
   "source_url": "https://slickdeals.net/f/20245512-samsung-edu-epp-unlocked-samsung-galaxy-z-fold8-256-gb-plus-400-credit-for-accessories-1304-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Unlocked+Samsung+Galaxy+Z+fold8+256+GB+plus",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:45Z"
  },
  {
   "id": "149ab30726c4dfe8",
@@ -3595,7 +3603,8 @@
   "source_url": "https://slickdeals.net/f/20244657-refurbished-samsung-galaxy-s26-ultra-256gb-unlocked-smartphone-w-1-year-allstate-warranty-687-99-free-s-h-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+S26+Ultra+256GB+Unlocked+Smartphone+w+1-Year+Allstate+Warranty+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:47Z"
  },
  {
   "id": "6fc760b45f0b362b",
@@ -3613,7 +3622,8 @@
   "source_url": "https://slickdeals.net/f/20238420-samsung-galaxy-s26-ultra-256gb-12gb-ram-brand-new-purple-846-00-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Samsung+Galaxy+S26+Ultra+-+Brand+-+Purple",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:48Z"
  },
  {
   "id": "e1bc7e870872e5fe",
@@ -3631,7 +3641,8 @@
   "source_url": "https://slickdeals.net/f/20237421-samsung-galaxy-tab-s10-plus-12-4-512gb-android-tablet-moonstone-gray-799-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Galaxy+Tab+S10%2B+Plus+12.4+512GB+Android+Tablet+Moonstone+Gray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:50Z"
  },
  {
   "id": "8deb058bf46048c7",
@@ -3649,7 +3660,8 @@
   "source_url": "https://slickdeals.net/f/20237241-samsung-galaxy-s26-unlocked-android-smartphone-256gb-black-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty-789?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+256GB+Black+Powerful+Processor+Ga",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:52Z"
  },
  {
   "id": "f90fe589b0de49e9",
@@ -3667,7 +3679,8 @@
   "source_url": "https://slickdeals.net/f/20235939-samsung-galaxy-s26-unlocked-android-smartphone-512gb-cobalt-violet-powerful-processor-galaxy-ai-immersive-viewing-durable-battery-2026-us-1-year-warranty?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+S26+Unlocked+Android+Smartphone+512GB+Cobalt+Violet+Powerful+Proc",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:54Z"
  },
  {
   "id": "8e5966f527b4be5e",
@@ -3685,7 +3698,8 @@
   "source_url": "https://slickdeals.net/f/20234244-samsung-galaxy-watch5-pro-45mm-wifi-bluetooth-cellular-r920-r925-good-66?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+Watch5+Pro+45mm+WiFi+%2B+Bluetooth+%2B+Cellular+R920+R925+-+Good",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:55Z"
  },
  {
   "id": "e83fb3981dcc4859",
@@ -3703,7 +3717,8 @@
   "source_url": "https://slickdeals.net/f/20231436-samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlocked-android-ai-photo-edits-large-screen-long-battery-life-2025-us-1-yr-manufacturer-warranty-mint-1349-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold7+Cell+Phone+256GB+AI+Smartphone+Unlocked+Android+AI+Photo+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T04:10:56Z"
  },
  {
   "id": "951c68da8e76426a",
@@ -28642,7 +28657,7 @@
  {
   "id": "67eadb1ed59eb5ec",
   "title": "Persol Steve McQueen Folding Sunglasses $235",
-  "url": "https://slickdeals.net/f/18828877-persol-steve-mcqueen-folding-sunglasses-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Steve+McQueen+Folding+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -28654,7 +28669,8 @@
   "source_url": "https://slickdeals.net/f/18828877-persol-steve-mcqueen-folding-sunglasses-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Steve+McQueen+Folding+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1bf5f539c44ecaa9",
@@ -35022,10 +35038,41 @@
   "pct": 70,
   "price": null,
   "found_at": "2026-11-03T03:58:45Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUVVUDEtY1JoV0pwdEhiZU9lV3FabE14dlJOZ29UZjdBV1lsclFnc0dBU2stU01kclhURG1sTktxZ3lOdHFLeVhhNmE5ZUQ1dFRTcVN3S1BRMXlOZFlVZGRRLXY3SVNGNzNUblJ6QTZJN2ZIMDdaWUlXN3FBeWowbFhzTWhYNGZ2dVFpTDZjd1VCUnBqSzFXWl94TXVlTUZMVk5talZNeUQyOU45OHFXWVRRcHFjNy1sTWNVdFBGMUdJeFlpV094UUlVUm1oU3VZWUlLMWl1NTBJTXZnQnFHNFdtX2lrb1XSAecBQVVfeXFMTnlFVVAxLWNSaFdKcHRIYmVPZVdxWmxNeHZSTmdvVGY3QVdZbHJRZ3NHQVNrLVNNZHJYVERtbE5LcWd5TnRxS3lYYTZhOWVENXRUU3FTd0tQUTF5TmRZVWRkUS12N0lTRjczVG5SekE2STdmSDA3WllJVzdxQXlqMGxYc01oWDRmdnVRaUw2Y3dVQlJwaksxV1pfeE11ZU1GTFZObWpWTXlEMjlOOThxV1lUUXBxYzctbE1jVXRQRjFHSXhZaVdPeFFJVVJtaFN1WVlJSzFpdTUwSU12Z0JxRzRXbV9pa29V?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Saint+Laurent+slashed+in+70+off+-+News.com.au",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "b8bca1f319b4aa4a",
+  "title": "Refurb: DJI Osmo Action 5 Pro 4K Action Camera $193.30 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Action+5+Pro+4K+Action+Camera",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 193.3,
+  "found_at": "2026-11-03T04:07:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238243-refurb-dji-osmo-action-5-pro-camer-191-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Action+5+Pro+4K+Action+Camera",
   "exact": false
+ },
+ {
+  "id": "06d4c9cf834efba5",
+  "title": "What to Buy at Amazon This Week: 13 Super Steep Deals on Ugg, Levi’s, and Dr. Scholl’s — Up to 75% Off",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae95eda15c847128af287573b941037&url=https%3a%2f%2fpeople.com%2fwhat-to-buy-amazon-10-28-2026-12196508&c=7646499874603148806&mkt=en-us",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: UGG price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": 75,
+  "price": null,
+  "found_at": "2026-11-03T04:11:06Z"
  }
 ]
