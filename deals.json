@@ -250,7 +250,8 @@
   "source_url": "https://slickdeals.net/f/20226894-new-apple-watch-ultra-3-smartwatch-gps-cellular-649-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+3+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:41:34Z"
  },
  {
   "id": "2b23486ab16cec53",
@@ -268,7 +269,8 @@
   "source_url": "https://slickdeals.net/f/20224668-pugo-top-stainless-steel-band-for-apple-watch-various-from-9-50-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Pugo%20Top%20Stainless%20Steel%20Band%20for%20Apple%20Watch%20from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:41:35Z"
  },
  {
   "id": "dc3f5e5242073aca",
@@ -286,7 +288,8 @@
   "source_url": "https://slickdeals.net/f/20218329-apple-watch-ultra-3-gps-cellular-49mm-various-colors-649?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+Watch+Ultra+3+various+colors",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:41:37Z"
  },
  {
   "id": "aa688f708f988d6d",
@@ -843,7 +846,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONElvSkhFWFVBZ0ZJUXBKZlBLRzYwY2UzM3JYOXVkTXFOSzBsTFh4ODJHX3RzZXZoUW90SmlJX1JINXNXSEZpNGpIcksyNmJ5eXltRDNzTEItMXlJSGh4bDVEM1oyV2RIT1ZYeEVIb1hQSXpiUUNFSlhlWTRtMXlqUEdVVjNmX002Z1RPZjdxNms?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Man%20Gets%20Upgraded%20To%20Business%20Class%20On%20Flight%20To%20New%20York.%20Then%20The%20Flight%20Attendant%20Shames%20Him%20For%20It%3A%20%E2%80%98Keep%20Your%20Head%20Down%E2%80%A6People%20Paid%20Actually%20Good%20Money%20For%20These%20Seats%E2%80%99%20-%20BroBible",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-03T20:41:37Z"
  },
  {
   "id": "e512dcf5d0c6bd43",
@@ -860,7 +864,8 @@
   "source_url": "https://slickdeals.net/f/19098289-allen-edmonds-carson-lace-up-hybrid-wingtip-oxford-4-colors-97-48-final-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Carson+Lace-up+Hybrid+Wingtip+Oxford",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T20:41:45Z"
  },
  {
   "id": "dde150bca5930e3c",
@@ -30562,7 +30567,7 @@
  {
   "id": "f443e6760f67035b",
   "title": "Deals: Nothing CMF Buds Neo $21 all-time low, Galaxy Z Fold 8 $380 off, huge laptop discounts up to $1,050 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+CMF+Buds+Neo",
+  "url": "https://9to5google.com/2026/09/23/deals-galaxy-fold-8-nothing-buds-neo-ring-doorbell-4k/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30574,13 +30579,12 @@
   "source_url": "https://9to5google.com/2026/09/23/deals-galaxy-fold-8-nothing-buds-neo-ring-doorbell-4k/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Nothing+CMF+Buds+Neo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6b3c5a2e5ea5d76a",
   "title": "Deals: Galaxy Z Fold 8 Ultra up to $577 off, Fold 8 $250+ off, Copilot+ PC sale up to $650 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
+  "url": "https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/",
   "why": "",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30592,13 +30596,12 @@
   "source_url": "https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c0a30bc4f2e9d7d4",
   "title": "Deals: Pixel Watch 5 LTE $100 off, Pixel 11 $120 off, Lenovo Yoga Mini PC $320 off, Bose flash sale, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+LTE",
+  "url": "https://9to5google.com/2026/09/17/deals-pixel-watch-5-pixel-11-lenovo-yoga-mini-pc-bose/",
   "why": "Watch deal",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30610,8 +30613,7 @@
   "source_url": "https://9to5google.com/2026/09/17/deals-pixel-watch-5-pixel-11-lenovo-yoga-mini-pc-bose/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+LTE",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "991d5d381bb5ca8f",
@@ -30652,7 +30654,7 @@
  {
   "id": "944a3eb58ee13576",
   "title": "Deals: Galaxy Z Fold 8 + Galaxy Watch 8/Ultra 2 up to $520 off, Pixel 11 models up to $322 off, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+%2B+Galaxy+Watch+8+Ultra+2+up+to",
+  "url": "https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/",
   "why": "Watch deal",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30664,13 +30666,12 @@
   "source_url": "https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+%2B+Galaxy+Watch+8+Ultra+2+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "28965c7b41204eb8",
   "title": "Deals: Galaxy Z Fold 8 lowest price ever at $250 off, Lenovo Pro Gen 2 Android tab $315, Nothing Ear (3a) $80, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+lowest+price+ever+at",
+  "url": "https://9to5google.com/2026/09/08/deals-galaxy-z-fold-8-lowest-price-lenovo-tab-pro-gen-2/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30682,13 +30683,12 @@
   "source_url": "https://9to5google.com/2026/09/08/deals-galaxy-z-fold-8-lowest-price-lenovo-tab-pro-gen-2/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+Z+Fold+8+lowest+price+ever+at",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "130b3bd57183a26a",
   "title": "All of the best Labor Day deals: Galaxy Z Fold 8 $250 off, Pixel 11, Anker chargers, TVs, much more",
-  "url": "https://www.google.com/search?tbm=shop&q=All+of+the+best+Labor+Day+deals+Galaxy+Z+Fold+8",
+  "url": "https://9to5google.com/2026/09/07/all-best-labor-day-deals/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -30700,8 +30700,7 @@
   "source_url": "https://9to5google.com/2026/09/07/all-best-labor-day-deals/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=All+of+the+best+Labor+Day+deals+Galaxy+Z+Fold+8",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "211d55fec2cce644",
@@ -33297,11 +33296,11 @@
   "pct": 40,
   "price": 47.99,
   "found_at": "2026-11-03T20:13:24Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20132436-ugg-women-s-goldenglow-toggle-sandals-47-99-free-store-pick-up-at-urban-outfitters-or-fs-on-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+GoldenGlow+Toggle+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8600342f3c4cba30",
@@ -33315,11 +33314,11 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-11-03T20:13:24Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20123034-prime-ugg-whitecap-50-x-70-plush-fleece-throw-blanket-3-colors-59-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Whitecap+50+x+70+Plush+Fleece+Throw+Blanket",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "be30aca49322bcde",
@@ -33333,11 +33332,11 @@
   "pct": 62,
   "price": 22.74,
   "found_at": "2026-11-03T20:13:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16996177-koolaburra-by-ugg-women-s-fuzz-n-ii-sandal-natural-size-8-22-74-and-more-options?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+UGG+Women%27s+FUZZ%27N+II+Sandal+Natural+Size+8+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "09687fe832f9c337",
@@ -33367,11 +33366,11 @@
   "pct": null,
   "price": 15.0,
   "found_at": "2026-11-03T20:13:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16406656-koolaburra-by-ugg-women-s-sherpa-fleece-shawl-15-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Koolaburra+by+Ugg+Women%27s+Sherpa+Fleece+Shawl",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77f948fe4e384991",
@@ -33385,11 +33384,11 @@
   "pct": null,
   "price": 31.49,
   "found_at": "2026-11-03T20:13:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13738088-saks-off-5th-ugg-perforated-shearling-glove-free-shipping-via-shop-runner-small-large-size-only-31-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+off+5th+ugg+perforated+shearling+glove+small+large+size+only.",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "091b78066110c6fa",
@@ -33403,11 +33402,11 @@
   "pct": null,
   "price": 49.95,
   "found_at": "2026-11-03T20:13:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c7c25f4522cc2567",
@@ -33421,11 +33420,11 @@
   "pct": null,
   "price": 49.95,
   "found_at": "2026-11-03T20:13:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for+just",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c259de3fd306fe4c",
@@ -33439,11 +33438,11 @@
   "pct": 60,
   "price": null,
   "found_at": "2026-11-03T20:13:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Clearance+Up+to+60+off+plus+extra+10+off+with+code",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c9a57d5e29a9684a",
@@ -33457,11 +33456,11 @@
   "pct": 25,
   "price": 120.0,
   "found_at": "2026-11-03T20:13:25Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Classic+Unlined+Mini+Ankle+Boot+Reg.",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "50a0fc90ab406837",
@@ -33490,11 +33489,11 @@
   "pct": null,
   "price": 21.57,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20226690-birkenstock-women-s-madrid-big-buckle-eva-sandals-pure-sage-21-57-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "725f3e1782fb511c",
@@ -33508,11 +33507,11 @@
   "pct": null,
   "price": 45.87,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20226675-birkenstock-papillio-women-s-arizona-platform-sandals-blue-45-87-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Papillio+Women%27s+Arizona+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9da245263c56600e",
@@ -33526,11 +33525,11 @@
   "pct": null,
   "price": 67.74,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20221770-birkenstock-women-s-gizeh-flowers-sandals-black-67-74-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Gizeh+Flowers+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6e09130a1ff7d510",
@@ -33562,11 +33561,11 @@
   "pct": null,
   "price": 67.82,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20209071-birkenstock-women-s-gizeh-flowers-sandals-black-67-82-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Gizeh+Flowers+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c23944849d4dc0d7",
@@ -33580,11 +33579,11 @@
   "pct": null,
   "price": 57.6,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20209062-birkenstock-women-s-florida-platform-3-strap-sandals-sandcastle-57-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Platform+3-Strap+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "842ee29c55b5e932",
@@ -33598,11 +33597,11 @@
   "pct": null,
   "price": 47.18,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20209032-birkenstock-women-s-florida-3-strap-sandals-sage-47-18-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+3-Strap+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "784908910481d5e3",
@@ -33616,11 +33615,11 @@
   "pct": null,
   "price": 61.98,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20208930-birkenstock-women-s-lutry-365-suede-clog-shoes-light-rose-61-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Lutry+365+Suede+Clog+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b50563f55a86a041",
@@ -33634,11 +33633,11 @@
   "pct": null,
   "price": 50.97,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20193420-birkenstock-papillio-women-s-arizona-chunky-sandals-baby-blue-50-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Papillio+Women%27s+Arizona+Chunky+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "19ff966cdc4074fd",
@@ -33652,11 +33651,11 @@
   "pct": null,
   "price": 50.04,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20193309-birkenstock-women-s-arizona-gold-birko-flor-sandal-gold-up-to-size-7-5-50-04-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+Gold+Birko-Flor+Sandal",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ed77ef7f7212e02a",
@@ -33670,11 +33669,11 @@
   "pct": null,
   "price": 50.95,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20162592-papillio-by-birkenstock-women-s-arizona-chunky-birko-flor-platform-sandals-50-95-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Papillio+by+Birkenstock+Women%27s+Arizona+Chunky+Birko-Flor+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "55a9fc9c2ee5a837",
@@ -33688,11 +33687,11 @@
   "pct": null,
   "price": 20.37,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20162196-birkenstock-women-s-madrid-big-buckle-eva-sandals-pure-sage-20-37-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f60aa96fc8086c9e",
@@ -33706,11 +33705,11 @@
   "pct": null,
   "price": 20.0,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20137536-birkenstock-women-s-arizona-eva-stealth-buckle-sandals-2-colors-20-free-shipping-on-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+EVA+Stealth+Buckle+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e09b5fbeae2d512e",
@@ -33724,11 +33723,11 @@
   "pct": null,
   "price": 23.97,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20134554-birkenstock-women-s-madrid-big-buckle-eva-sandals-sage-23-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "45d78b2cacbad402",
@@ -33742,11 +33741,11 @@
   "pct": null,
   "price": 59.97,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20100732-birkenstock-papillio-women-s-arizona-chunky-birko-flor-platform-sandals-blue-59-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Papillio+Women%27s+Arizona+Chunky+Birko-Flor+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "355ba51a6339c8d0",
@@ -33760,11 +33759,11 @@
   "pct": null,
   "price": 77.91,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20095722-birkenstock-women-s-tokyo-super-grip-black-leather-clogs-size-8-8-5-77-91-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women+s+Tokyo+Super+Grip+Black+Leather+Clogs",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b6cd44def5c30e44",
@@ -33778,11 +33777,11 @@
   "pct": null,
   "price": 26.98,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20076708-qvc-new-customer-birkenstock-women-s-boston-eva-adjustable-recovery-clog-various-colors-26-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=QVC+Customer+Birkenstock+Women%27s+Boston+EVA+Adjustable+Recovery+Clog",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8966b86747675411",
@@ -33796,11 +33795,11 @@
   "pct": null,
   "price": 23.77,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20061477-birkenstock-women-s-madrid-big-buckle-eva-sandals-sage-23-77-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b5aebddf30698b4a",
@@ -33814,11 +33813,11 @@
   "pct": null,
   "price": 89.97,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20060742-birkenstock-women-s-tokio-shoes-pure-sage-89-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Tokio+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d625588df1eab94d",
@@ -33832,11 +33831,11 @@
   "pct": null,
   "price": 24.62,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20060568-birkenstock-women-s-arizona-stealth-buckle-eva-sandals-purple-or-green-24-62-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Arizona+Stealth+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "10b632780d304597",
@@ -33850,11 +33849,11 @@
   "pct": null,
   "price": 24.78,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20037927-birkenstock-women-s-florida-flex-1-platform-eva-sandals-fondant-pink-24-78-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+1+Platform+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e45576141ed523ab",
@@ -33868,11 +33867,11 @@
   "pct": null,
   "price": 51.18,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20033217-birkenstock-women-s-florida-flex-platform-sandals-sage-51-18-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Florida+Flex+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "539146d6a8ca86c9",
@@ -33886,11 +33885,11 @@
   "pct": null,
   "price": 61.98,
   "found_at": "2026-11-03T20:13:26Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20027190-birkenstock-women-s-papillio-boston-chunky-platform-clogs-beige-61-98-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Papillio+Boston+Chunky+Platform+Clogs",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0163d693f67d81d2",
@@ -33904,11 +33903,11 @@
   "pct": null,
   "price": 60.0,
   "found_at": "2026-11-03T20:13:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16070224-price-drop-on-a-lot-of-men-s-birkenstocks-many-sizes-available-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=on+a+lot+of+Men%27s+Birkenstocks+many+sizes+available",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d500809cbe968776",
@@ -33940,11 +33939,11 @@
   "pct": 70,
   "price": null,
   "found_at": "2026-11-03T20:13:29Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19725162-allen-edmonds-summer-warehouse-sale-save-up-to-70-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Summer+Warehouse+Save+up+to+70+Off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6275b360c44172d6",
@@ -33958,11 +33957,11 @@
   "pct": 20,
   "price": null,
   "found_at": "2026-11-03T20:13:29Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19547877-allen-edmonds-shoe-bank-extra-20-off-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Shoe+Bank+Extra+20+Off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77edf66a926736ed",
@@ -34008,11 +34007,11 @@
   "pct": null,
   "price": 50.0,
   "found_at": "2026-11-03T20:13:29Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19219933-amex-offer-allen-edmonds-earn-50-when-you-spend-250-expires-3-29-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Amex+Offer+Allen+Edmonds+Earn",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c2453c9977061ac3",
@@ -34026,11 +34025,11 @@
   "pct": null,
   "price": 97.48,
   "found_at": "2026-11-03T20:13:29Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19106728-allen-edmonds-suede-carson-hybrid-chukka-in-brown-or-blue-97-48?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Suede+Carson+Hybrid+Chukka+in+Brown+or+Blue",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f080af44b4380722",
@@ -34044,11 +34043,11 @@
   "pct": null,
   "price": 186.97,
   "found_at": "2026-11-03T20:13:29Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19102258-schott-n-y-c-wool-town-coat-size-xl-charcoal-186-97-allenedmonds-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Schott+N.Y.C.+Wool+Town+Coat+Size+XL+Charcoal",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "31b5bff787a7a1e4",
@@ -34062,11 +34061,11 @@
   "pct": null,
   "price": 216.97,
   "found_at": "2026-11-03T20:13:29Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19102225-barbour-prestbury-waxed-cotton-jacket-olive-green-size-small-216-97-allenedmonds-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Barbour+Prestbury+Waxed+Cotton+Jacket+Olive+Green+Size+Small",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7f8d9ceb5930131d",
@@ -34080,11 +34079,11 @@
   "pct": null,
   "price": 141.97,
   "found_at": "2026-11-03T20:13:29Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19102207-barbour-chelsea-quilted-jacket-navy-141-97-allenedmonds-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Barbour+Chelsea+Quilted+Jacket+Navy",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f361887aeabadea5",
@@ -34170,11 +34169,11 @@
   "pct": null,
   "price": 99.0,
   "found_at": "2026-11-03T20:28:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224803-maui-jim-polarized-sunglasses-various-styles-colors-from-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8f6042f25bad4ebd",
@@ -34188,11 +34187,11 @@
   "pct": null,
   "price": 469.0,
   "found_at": "2026-11-03T20:28:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238393-new-nintendo-switch-2-system-469?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Nintendo+Switch+2+Console",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e19a5f6dd422bc15",
@@ -34206,11 +34205,11 @@
   "pct": null,
   "price": 24.99,
   "found_at": "2026-11-03T20:28:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1a43efd52201271b",
@@ -34260,11 +34259,11 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-03T20:28:47Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Bose-Quiet-Comfort-2-nd-Gen-Wireless-Noise-Cancelling-Over-Ear-Headphones-for-199-free-shipping/22342384.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Wireless+Noise+Cancelling+Over-Ear+Headphones+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3243a1085a7ea7ac",
@@ -34346,11 +34345,11 @@
   "pct": null,
   "price": 246.4,
   "found_at": "2026-11-03T20:28:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6aa4e18f4d978ceb",
@@ -34477,7 +34476,7 @@
  {
   "id": "dc80557e6ed6f934",
   "title": "HOKA Men's Crescendo 2 MD Track and Field Shoes (White/Blue) $17.14 + Free Shipping on $49",
-  "url": "https://slickdeals.net/f/20232009-hoka-men-s-crescendo-2-md-track-and-field-shoes-white-blue-17-14-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+Crescendo+2+MD+Track+and+Field+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34485,12 +34484,17 @@
   "hot": false,
   "pct": null,
   "price": 17.14,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20232009-hoka-men-s-crescendo-2-md-track-and-field-shoes-white-blue-17-14-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+Crescendo+2+MD+Track+and+Field+Shoes",
+  "exact": false
  },
  {
   "id": "f6fe7b50ae252bea",
   "title": "HOKA Women's Clifton One9 Shoes (Limited Sizes) from $60",
-  "url": "https://slickdeals.net/f/20220510-hoka-women-s-clifton-one9-shoes-limited-sizes-from-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.nordstrom.com/sr?keyword=HOKA+Women%27s+Clifton+One9+Shoes+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34498,12 +34502,17 @@
   "hot": false,
   "pct": null,
   "price": 60.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20220510-hoka-women-s-clifton-one9-shoes-limited-sizes-from-60?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstrom",
+  "similar": "https://www.nordstrom.com/sr?keyword=HOKA+Women%27s+Clifton+One9+Shoes+from",
+  "exact": false
  },
  {
   "id": "eee20d0fba3fa344",
   "title": "Hoka Women's Mafate Speed 4 Lite Running Sneakers (Various) $90 + Free Shipping",
-  "url": "https://slickdeals.net/f/20220000-hoka-women-s-mafate-speed-4-lite-running-sneakers-various-90-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bloomingdales.com/shop/search?keyword=Hoka+Women%27s+Mafate+Speed+4+Lite+Running+Sneakers",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34511,7 +34520,12 @@
   "hot": false,
   "pct": null,
   "price": 90.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20220000-hoka-women-s-mafate-speed-4-lite-running-sneakers-various-90-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bloomingdales",
+  "similar": "https://www.bloomingdales.com/shop/search?keyword=Hoka+Women%27s+Mafate+Speed+4+Lite+Running+Sneakers",
+  "exact": false
  },
  {
   "id": "ea8d7afc68c55cec",
@@ -34524,12 +34538,15 @@
   "hot": false,
   "pct": null,
   "price": 99.93,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "fadf3cf45155d521",
   "title": "Up to 49% Off HOKA Sale: Select Apparel, Shoes & More",
-  "url": "https://slickdeals.net/f/20198856-up-to-49-off-hoka-sale-select-apparel-shoes-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Up+to+49+Off+HOKA+Select+Apparel+Shoes+%26+More",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34537,12 +34554,17 @@
   "hot": false,
   "pct": 49,
   "price": null,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20198856-up-to-49-off-hoka-sale-select-apparel-shoes-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Up+to+49+Off+HOKA+Select+Apparel+Shoes+%26+More",
+  "exact": false
  },
  {
   "id": "5cfdccd26e31224c",
   "title": "New JD Sports Members: Men's HOKA Elevon 2 TS Running Shoes (Foggy Grey/Grout) $64 + Free Shipping on Orders $75+",
-  "url": "https://slickdeals.net/f/20169924-new-jd-sports-members-men-s-hoka-elevon-2-ts-running-shoes-foggy-grey-grout-64-free-shipping-on-orders-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JD+Sports+Members+Men%27s+HOKA+Elevon+2+TS+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34550,12 +34572,17 @@
   "hot": false,
   "pct": null,
   "price": 64.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20169924-new-jd-sports-members-men-s-hoka-elevon-2-ts-running-shoes-foggy-grey-grout-64-free-shipping-on-orders-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=JD+Sports+Members+Men%27s+HOKA+Elevon+2+TS+Running+Shoes",
+  "exact": false
  },
  {
   "id": "4e02135706624fd5",
   "title": "HOKA Women's Arahi 8 Running Shoes Alabaster/Tangerine Glow $119.99",
-  "url": "https://slickdeals.net/f/20120778-hoka-women-s-arahi-8-running-shoes-alabaster-tangerine-glow-119-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Arahi+8+Running+Shoes+Alabaster+Tangerine+Glow",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34563,7 +34590,12 @@
   "hot": false,
   "pct": null,
   "price": 119.99,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20120778-hoka-women-s-arahi-8-running-shoes-alabaster-tangerine-glow-119-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Arahi+8+Running+Shoes+Alabaster+Tangerine+Glow",
+  "exact": false
  },
  {
   "id": "839ea15a5b8132d8",
@@ -34576,7 +34608,10 @@
   "hot": false,
   "pct": 22,
   "price": 108.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "470fe71231889e33",
@@ -34589,12 +34624,15 @@
   "hot": false,
   "pct": null,
   "price": 13.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "fa300eb6e33b5352",
   "title": "HOKA Women's Transport Hike GTX Waterproof Hiking Boots (2 Colors) $94.85 + Free S&H on $100+",
-  "url": "https://slickdeals.net/f/20089764-hoka-women-s-transport-hike-gtx-waterproof-hiking-boots-2-colors-94-85-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.rei.com/search?q=HOKA+Women%27s+Transport+Hike+GTX+Waterproof+Hiking+Boots",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34602,12 +34640,17 @@
   "hot": false,
   "pct": null,
   "price": 94.85,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20089764-hoka-women-s-transport-hike-gtx-waterproof-hiking-boots-2-colors-94-85-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Rei",
+  "similar": "https://www.rei.com/search?q=HOKA+Women%27s+Transport+Hike+GTX+Waterproof+Hiking+Boots",
+  "exact": false
  },
  {
   "id": "f93f3bf6bf67ed5e",
   "title": "Hoka Men's Solimar Running Shoes (Black/White, Sizes: 7-11.5) $75.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20089593-hoka-men-s-solimar-running-shoes-black-white-sizes-7-11-5-75-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Men%27s+Solimar+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34615,12 +34658,17 @@
   "hot": false,
   "pct": 20,
   "price": 75.99,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20089593-hoka-men-s-solimar-running-shoes-black-white-sizes-7-11-5-75-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Men%27s+Solimar+Running+Shoes",
+  "exact": false
  },
  {
   "id": "438b86937516b019",
   "title": "Hoka Project Transport Unisex Shoes (3 Colors, Sizes: 4.5-11.5) $87.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/20080182-hoka-project-transport-unisex-shoes-3-colors-sizes-4-5-11-5-87-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Project+Transport+Unisex+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34628,12 +34676,17 @@
   "hot": false,
   "pct": 20,
   "price": 87.99,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20080182-hoka-project-transport-unisex-shoes-3-colors-sizes-4-5-11-5-87-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Project+Transport+Unisex+Shoes",
+  "exact": false
  },
  {
   "id": "dfab8ca4f6b54e27",
   "title": "Girls' HOKA Rincon 4 Running Shoes, Mauve/Black Cherry (Sizes 4–6.5) $53.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20079219-girls-hoka-rincon-4-running-shoes-mauve-black-cherry-sizes-4-6-5-53-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Girls%27+HOKA+Rincon+4+Running+Shoes+Mauve+Black+Cherry",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34641,12 +34694,17 @@
   "hot": false,
   "pct": null,
   "price": 53.99,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20079219-girls-hoka-rincon-4-running-shoes-mauve-black-cherry-sizes-4-6-5-53-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Girls%27+HOKA+Rincon+4+Running+Shoes+Mauve+Black+Cherry",
+  "exact": false
  },
  {
   "id": "cdc33d8d667379b4",
   "title": "HOKA Cielo X 3 MD Track and Field Shoes (Black/Yellow) $27.73 + Free Shipping on $49",
-  "url": "https://slickdeals.net/f/20078928-hoka-cielo-x-3-md-track-and-field-shoes-black-yellow-27-73-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Cielo+X+3+MD+Track+and+Field+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34654,12 +34712,17 @@
   "hot": false,
   "pct": null,
   "price": 27.73,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20078928-hoka-cielo-x-3-md-track-and-field-shoes-black-yellow-27-73-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Cielo+X+3+MD+Track+and+Field+Shoes",
+  "exact": false
  },
  {
   "id": "a700856e53de4774",
   "title": "Extra 20-30% off on Hoka & On Running Shoes at Woot!",
-  "url": "https://slickdeals.net/f/20072262-extra-20-30-off-on-hoka-on-running-shoes-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20-30+off+on+Hoka+%26+On+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34667,12 +34730,17 @@
   "hot": false,
   "pct": 30,
   "price": null,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20072262-extra-20-30-off-on-hoka-on-running-shoes-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20-30+off+on+Hoka+%26+On+Running+Shoes",
+  "exact": false
  },
  {
   "id": "b74684766dc490ac",
   "title": "Hoka Women's Mach 6 Running Shoe (Oyster Mushroom Truffle Salt, Limited Sizes: 9.5, 10, 11) $70 + Free Shipping",
-  "url": "https://slickdeals.net/f/20051151-hoka-women-s-mach-6-running-shoe-oyster-mushroom-truffle-salt-limited-sizes-9-5-10-11-70-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Mach+6+Running+Shoe",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34680,12 +34748,17 @@
   "hot": false,
   "pct": null,
   "price": 70.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20051151-hoka-women-s-mach-6-running-shoe-oyster-mushroom-truffle-salt-limited-sizes-9-5-10-11-70-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Mach+6+Running+Shoe",
+  "exact": false
  },
  {
   "id": "17ebb7e6fbc3892a",
   "title": "Hoka Men's Tor Summit + Sneaker $88 + Free Shipping",
-  "url": "https://slickdeals.net/f/20051139-hoka-men-s-tor-summit-sneaker-88-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Men%27s+Tor+Summit+%2B+Sneaker",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34693,12 +34766,17 @@
   "hot": false,
   "pct": null,
   "price": 88.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20051139-hoka-men-s-tor-summit-sneaker-88-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Men%27s+Tor+Summit+%2B+Sneaker",
+  "exact": false
  },
  {
   "id": "41bf684af228b07d",
   "title": "HOKA Women's Anacapa 2 Freedom Waterproof Hiking Shoes (Ash Grey/Cosmic Grey) $88.97 + Free Shipping on $49+",
-  "url": "https://slickdeals.net/f/20051121-hoka-women-s-anacapa-2-freedom-waterproof-hiking-shoes-ash-grey-cosmic-grey-88-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Anacapa+2+Freedom+Waterproof+Hiking+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34706,12 +34784,17 @@
   "hot": false,
   "pct": null,
   "price": 88.97,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20051121-hoka-women-s-anacapa-2-freedom-waterproof-hiking-shoes-ash-grey-cosmic-grey-88-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Anacapa+2+Freedom+Waterproof+Hiking+Shoes",
+  "exact": false
  },
  {
   "id": "9b2562466f6af1a7",
   "title": "HOKA Men's Clifton 10 Running Shoes(Black and More, Size 8 ~ 13 ) $91.57 at Dick's Sporting Goods",
-  "url": "https://slickdeals.net/f/20036430-hoka-men-s-clifton-10-running-shoes-black-and-more-size-8-13-91-57-at-dick-s-sporting-goods?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+Clifton+10+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34719,7 +34802,12 @@
   "hot": false,
   "pct": null,
   "price": 91.57,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20036430-hoka-men-s-clifton-10-running-shoes-black-and-more-size-8-13-91-57-at-dick-s-sporting-goods?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+Clifton+10+Running+Shoes",
+  "exact": false
  },
  {
   "id": "695a957d79334ca6",
@@ -34732,7 +34820,10 @@
   "hot": false,
   "pct": null,
   "price": 120.0,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "18e017c3391be7ec",
@@ -34745,12 +34836,15 @@
   "hot": false,
   "pct": null,
   "price": 99.83,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "a3bb8a27a98c689e",
   "title": "HOKA Men's Arahi 8 Running Shoes(Various Colors) $99.99 at Dick's Sporting Goods",
-  "url": "https://slickdeals.net/f/20022945-hoka-men-s-arahi-8-running-shoes-various-colors-99-99-at-dick-s-sporting-goods?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+Arahi+8+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34758,12 +34852,17 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-11-03T20:32:09Z"
+  "found_at": "2026-11-03T20:32:09Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20022945-hoka-men-s-arahi-8-running-shoes-various-colors-99-99-at-dick-s-sporting-goods?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+Arahi+8+Running+Shoes",
+  "exact": false
  },
  {
   "id": "4a2913d06c2e59a2",
   "title": "HOKA Clifton 10 Men's and Women's Sneakers (Various - Includes Wide) - from $79.86 + free shipping",
-  "url": "https://slickdeals.net/f/19967913-hoka-clifton-10-men-s-and-women-s-sneakers-various-includes-wide-from-79-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Clifton+10+Men%27s+and+Women%27s+Sneakers+-+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34771,12 +34870,17 @@
   "hot": false,
   "pct": 20,
   "price": 79.86,
-  "found_at": "2026-11-03T20:32:10Z"
+  "found_at": "2026-11-03T20:32:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19967913-hoka-clifton-10-men-s-and-women-s-sneakers-various-includes-wide-from-79-86-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Clifton+10+Men%27s+and+Women%27s+Sneakers+-+from",
+  "exact": false
  },
  {
   "id": "1d76973b88b0d431",
   "title": "HOKA Women's Bondi 9 Running Shoes (White/Light Grey) $93.02 + Free Shipping",
-  "url": "https://slickdeals.net/f/19853214-hoka-women-s-bondi-9-running-shoes-white-light-grey-93-02-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Bondi+9+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34784,6 +34888,180 @@
   "hot": false,
   "pct": null,
   "price": 93.02,
-  "found_at": "2026-11-03T20:32:10Z"
+  "found_at": "2026-11-03T20:32:10Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19853214-hoka-women-s-bondi-9-running-shoes-white-light-grey-93-02-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Bondi+9+Running+Shoes",
+  "exact": false
+ },
+ {
+  "id": "f52d8aa9cd7cad93",
+  "title": "$34.99* | DRAGON QUEST I & II HD-2D Remake (Various Systems) at Amazon",
+  "url": "https://slickdeals.net/f/20230677-34-99-dragon-quest-i-ii-hd-2d-remake-various-systems-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.99,
+  "found_at": "2026-11-03T20:38:23Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "ca6864123fd86df5",
+  "title": "Samsonite Friends & Family Luggage Deals at Macy's: Extra 30% off, up to 76% off, ending today + free shipping w/ $39",
+  "url": "https://www.macys.com/shop/featured/Samsonite%20Friends%20%26%20Family%20Luggage%20Deals",
+  "why": "76% off",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 76,
+  "price": 39.0,
+  "found_at": "2026-11-03T20:38:23Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Samsonite-Friends-Family-Luggage-Deals-at-Macys-Extra-30-off-up-to-76-off-ending-today-free-shipping-w-39/22342387.html?iref=rss",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Samsonite%20Friends%20%26%20Family%20Luggage%20Deals",
+  "exact": false
+ },
+ {
+  "id": "4e7b8114fa19ba35",
+  "title": "[SnS, AC] $61.95 | 2.5-Oz Hugo Boss Hugo Man Eau de Toilette at Amazon",
+  "url": "https://slickdeals.net/f/20251452-sns-ac-61-95-2-5-oz-hugo-boss-hugo-man-eau-de-toilette-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 61.95,
+  "found_at": "2026-11-03T20:38:23Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "eaed8e48e7a3e5b3",
+  "title": "[Costco Members] - Apple Macboook Pro PROLED XDR Display 14\" & 16\" - Receive $100 Costco Shop Card & 1-year AppleCare+ Included",
+  "url": "https://www.costco.com/CatalogSearch?keyword=-+Apple+Macboook+Pro+PROLED+XDR+Display+14+%26+16+-+Receive",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-03T20:38:23Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=-+Apple+Macboook+Pro+PROLED+XDR+Display+14+%26+16+-+Receive",
+  "exact": false
+ },
+ {
+  "id": "89c856424127d661",
+  "title": "Costco Members: 14.2\" Apple MacBook Pro Laptop: 3024x1964, M5 Chip, 16GB, 1TB $1350 + Free S&H",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+14.2+Apple+MacBook+Pro+Laptop+3024x1964+M5+Chip+16GB+1TB",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1350.0,
+  "found_at": "2026-11-03T20:38:23Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20235876-costco-members-14-2-apple-macbook-pro-laptop-3024x1964-m5-chip-16gb-1tb-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+14.2+Apple+MacBook+Pro+Laptop+3024x1964+M5+Chip+16GB+1TB",
+  "exact": false
+ },
+ {
+  "id": "f52e6b26b9949b21",
+  "title": "14\" Apple MacBook Pro: 3024x1964 120Hz, M5 10-Core Chip, 16GB RAM, 1TB SSD $1350 + Free S&H",
+  "url": "https://www.apple.com/us/search/14%20Apple%20MacBook%20Pro%203024x1964%20120Hz%20M5%2010-Core%20Chip%2016GB%20RAM%201TB%20SSD",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1350.0,
+  "found_at": "2026-11-03T20:38:23Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20235504-14-apple-macbook-pro-3024x1964-120hz-m5-10-core-chip-16gb-ram-1tb-ssd-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/14%20Apple%20MacBook%20Pro%203024x1964%20120Hz%20M5%2010-Core%20Chip%2016GB%20RAM%201TB%20SSD",
+  "exact": false
+ },
+ {
+  "id": "90aaf7ef7d047890",
+  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-03T20:41:53Z"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-03T20:41:53Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-03T20:41:53Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-03T20:41:54Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-03T20:41:54Z"
  }
 ]
