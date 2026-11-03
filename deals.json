@@ -950,7 +950,8 @@
   "source_url": "https://slickdeals.net/f/20228721-apple-airpods-pro-3-with-2-years-of-applecare-and-free-delivery-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20with%202%20years%20of%20AppleCare%2B%20and%20free%20delivery",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:32:55Z"
  },
  {
   "id": "77918c98c3f3d60e",
@@ -968,7 +969,8 @@
   "source_url": "https://slickdeals.net/f/20212419-good-refurbished-apple-airpods-pro-3-wireless-active-noise-canceling-earbuds-mfhp4ll-a-123-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20Wireless%20Active%20Noise%20Canceling%20Earbuds",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:32:56Z"
  },
  {
   "id": "e3b09deac49fab26",
@@ -986,7 +988,8 @@
   "source_url": "https://slickdeals.net/f/20184717-open-box-excellent-pelican-marine-case-for-apple-airpods-pro-3rd-generation-black-9-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open-Box+Excellent+Pelican+-+Marine+Case+for+Apple+Airpods+Pro+3rd+Generation+-+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:32:58Z"
  },
  {
   "id": "b17a367dfe8d3c8a",
@@ -1004,7 +1007,8 @@
   "source_url": "https://slickdeals.net/f/20218311-apple-airpods-max-2-wireless-over-ear-headphones-various-colors-449-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirPods+Max+2+Wireless+Over-Ear+Headphones+various+colors",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:00Z"
  },
  {
   "id": "d2f35d2e4dde930c",
@@ -1020,7 +1024,8 @@
   "found_at": "2026-11-02T20:09:50Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T00:33:02Z"
  },
  {
   "id": "8ce7695c1147573c",
@@ -1036,7 +1041,8 @@
   "found_at": "2026-11-02T20:09:53Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T00:33:03Z"
  },
  {
   "id": "a8a20586bd03aefa",
@@ -1054,7 +1060,8 @@
   "source_url": "https://slickdeals.net/f/20235639-ugreen-nexode-20000mah-45w-power-bank-built-in-cable-for-iphone-17-pro-34-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=UGREEN+Nexode+20000mAh+45W+Power+Bank+Built-in+Cable+for+iPhone+17+Pro",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:04Z"
  },
  {
   "id": "0fcd760d71bab284",
@@ -1072,7 +1079,8 @@
   "source_url": "https://slickdeals.net/f/20233500-ulanzi-mt86-60-auto-open-4-leg-phone-tripod-selfie-stick-for-iphone-17-18-11-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Ulanzi+MT86+60%27%27+Auto+Open+4+Leg+Phone+Tripod+Selfie+Stick+for+iPhone+17+18",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:05Z"
  },
  {
   "id": "df01937a7b312114",
@@ -1090,7 +1098,8 @@
   "source_url": "https://slickdeals.net/f/20232960-aochuan-smart-x3-360-pan-rotation-gimbal-stabilizer-for-iphone-w-magnetic-remote-black-36-48-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=AOCHUAN+Smart+X3+360+Pan+Rotation+Gimbal+Stabilizer+for+iPhone+w+Magnetic+Remote",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:06Z"
  },
  {
   "id": "c2b1bd99bf31d3f7",
@@ -1108,7 +1117,8 @@
   "source_url": "https://slickdeals.net/f/20232909-goldyipe-usb-c-sd-card-reader-for-iphone-ipad-macbook-4-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=GOLDYIPE+USB-C+SD+Card+Reader+for+iPhone+iPad+%26+MacBook",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:07Z"
  },
  {
   "id": "c1d77efdae209bbf",
@@ -1126,7 +1136,8 @@
   "source_url": "https://slickdeals.net/f/20231463-apple-iphone-16e-128gb-apple-intelligence-unlocked-white-539-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+iPhone+16e+128GB+-+Apple+Intelligence+-+White",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:09Z"
  },
  {
   "id": "35ab3fd4243b73e3",
@@ -1142,7 +1153,8 @@
   "found_at": "2026-11-02T20:09:54Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T00:33:11Z"
  },
  {
   "id": "d776c93d2647c74a",
@@ -1159,7 +1171,8 @@
   "source_url": "https://slickdeals.net/f/19055371-topdon-thermal-imaging-camera-tc002c-for-android-iphone-usb-type-c-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Topdon+Thermal+Imaging+Camera+TC002C+for+Android+Iphone",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:12Z"
  },
  {
   "id": "90ccb5cca43dc042",
@@ -1177,7 +1190,8 @@
   "source_url": "https://slickdeals.net/f/18045924-128gb-apple-iphone-12-5g-smartphone-metro-by-t-mobile-metro-flex-plus-plan-75-w-port-in?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/128GB%20Apple%20iPhone%2012%205G%20Smartphone%20Metro%20Flex%20Plus%20Plan",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:14Z"
  },
  {
   "id": "628b1d8964696bf5",
@@ -1195,7 +1209,8 @@
   "source_url": "https://slickdeals.net/f/17085991-straight-talk-apple-iphone-12-64gb-black-prepaid-smartphone-locked-to-straight-talk-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Straight%20Talk%20Apple%20iPhone%2012%2064GB%20Black-%20Prepaid%20Smartphone",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T00:33:16Z"
  },
  {
   "id": "3ed50b0c91f1e217",
@@ -28695,7 +28710,7 @@
  {
   "id": "506b1c5f7c1afa0b",
   "title": "Montblanc Legend Red EDP 3-Piece Set $47.99 at Woot",
-  "url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Montblanc sale",
@@ -28707,7 +28722,8 @@
   "source_url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "65c3c21550761d7f",
@@ -35603,11 +35619,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-03T00:19:38Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmdsnk/items_fs_only/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Items+FS+only",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3243a1085a7ea7ac",
@@ -35689,11 +35705,11 @@
   "pct": null,
   "price": 246.4,
   "found_at": "2026-11-03T00:19:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6aa4e18f4d978ceb",
@@ -35784,16 +35800,147 @@
   "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "ca81a7e6349ac9bc",
+  "title": "[WTS][WTT] Amouage, Byredo, Maison Crivelli, Penhaligon’s, and more!",
+  "url": "https://www.google.com/search?tbm=shop&q=Amouage+Byredo+Maison+Crivelli+Penhaligon+s+and+more",
   "why": "",
-  "category": "watches",
-  "source": "Web search: Omega price drop",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-03T00:22:41Z"
+  "price": null,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmeegj/wtswtt_amouage_byredo_maison_crivelli_penhaligons/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Amouage+Byredo+Maison+Crivelli+Penhaligon+s+and+more",
+  "exact": false
+ },
+ {
+  "id": "3d7f6405e80499bd",
+  "title": "[WTS] Louis Vuitton Orage & Nouveau Monde – 100ml Decants – $210 Each / $385 Bundle Shipped",
+  "url": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+Orage+%26+Nouveau+Monde+100ml+Decants",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 210.0,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmbgm4/wts_louis_vuitton_orage_nouveau_monde_100ml/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+Orage+%26+Nouveau+Monde+100ml+Decants",
+  "exact": false
+ },
+ {
+  "id": "07b74c814ea01e72",
+  "title": "Steal Bundle",
+  "url": "https://www.google.com/search?tbm=shop&q=Steal+Bundle",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xm63y3/steal_bundle/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Steal+Bundle",
+  "exact": false
+ },
+ {
+  "id": "25d8626b024d3f64",
+  "title": "[WTS] Bottles (Bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Bottles",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xm2her/wts_bottles_bottle/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Bottles",
+  "exact": false
+ },
+ {
+  "id": "ce79e693cbeeabcf",
+  "title": "[WTS] Valentino (Bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Valentino",
+  "why": "",
+  "category": "fashion",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xm1mpl/wts_valentino_bottle/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Valentino",
+  "exact": false
+ },
+ {
+  "id": "d4570baa61cfe47f",
+  "title": "[WTS] Louis Vuitton California Dream. New lowered price to move.(bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+California+Dream.+lowered+price+to+move.",
+  "why": "",
+  "category": "fashion",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlxjp4/wts_louis_vuitton_california_dream_new_lowered/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+California+Dream.+lowered+price+to+move.",
+  "exact": false
+ },
+ {
+  "id": "bcd7362580e96d4b",
+  "title": "FS - Niche & De",
+  "url": "https://www.google.com/search?tbm=shop&q=FS+-+Niche+%26+De",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlwwmc/fs_niche_de/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=FS+-+Niche+%26+De",
+  "exact": false
+ },
+ {
+  "id": "38ea7c551849ad4a",
+  "title": "[WTS] HELP ME BUILD A WAR CHEST FOR SCENTXPLORE Amouage, Roja, Ex Nihilo, Tom Ford, Imaginary Authors. Priced to move!",
+  "url": "https://www.google.com/search?tbm=shop&q=HELP+ME+BUILD+A+WAR+CHEST+FOR+SCENTXPLORE+Amouage+Roja+Ex+Nihilo+Tom+Ford+Imagin",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-03T00:31:02Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xlu96h/wts_help_me_build_a_war_chest_for_scentxplore/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HELP+ME+BUILD+A+WAR+CHEST+FOR+SCENTXPLORE+Amouage+Roja+Ex+Nihilo+Tom+Ford+Imagin",
+  "exact": false
  }
 ]
