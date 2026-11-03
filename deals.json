@@ -1029,7 +1029,8 @@
   "source_url": "https://slickdeals.net/f/19919715-maui-jim-polarized-sunglasses-various-styles-colors-from-109-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Polarized+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:19:50Z"
  },
  {
   "id": "a22f42fdb9949c89",
@@ -1046,7 +1047,8 @@
   "source_url": "https://slickdeals.net/f/19855038-maui-jim-makaha-polarized-sunglasses-unisex-black-grey-149-10-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Makaha+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:19:52Z"
  },
  {
   "id": "74f48906b179bc4f",
@@ -1063,7 +1065,8 @@
   "source_url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:19:54Z"
  },
  {
   "id": "6e54c604aec6b6d3",
@@ -1080,7 +1083,8 @@
   "source_url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T22:19:55Z"
  },
  {
   "id": "c93e00fbf76c03ca",
@@ -28516,7 +28520,7 @@
  {
   "id": "e085be29d7333585",
   "title": "Polo Ralph Lauren Men's Lightweight Windbreaker for $130 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Lightweight+Windbreaker+for",
+  "url": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Lightweight-Windbreaker-for-130-free-shipping/22342335.html?iref=rss",
   "why": "",
   "category": "fashion",
   "source": "DealNews",
@@ -28528,13 +28532,12 @@
   "source_url": "https://www.dealnews.com/Polo-Ralph-Lauren-Mens-Lightweight-Windbreaker-for-130-free-shipping/22342335.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Polo+Ralph+Lauren+Men%27s+Lightweight+Windbreaker+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "11dff33698dc007f",
   "title": "IdeaPad Slim 3i Intel N150 15.6\" Laptop for $260 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=IdeaPad+Slim+3i+Intel+N150+15.6+Laptop+for",
+  "url": "https://www.dealnews.com/products/Lenovo/Idea-Pad-Slim-3-i-Intel-N150-15-6-Laptop/498533.html?iref=rss",
   "why": "Laptop — all-time low",
   "category": "tech",
   "source": "DealNews",
@@ -28546,13 +28549,12 @@
   "source_url": "https://www.dealnews.com/products/Lenovo/Idea-Pad-Slim-3-i-Intel-N150-15-6-Laptop/498533.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=IdeaPad+Slim+3i+Intel+N150+15.6+Laptop+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5b62ea5d358a3f22",
   "title": "Fragrances For Dad at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+For+Dad",
+  "url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -28564,8 +28566,7 @@
   "source_url": "https://slickdeals.net/f/19599612-fragrances-for-dad-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+For+Dad",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5dfa8e76e0d1e4f3",
@@ -28712,7 +28713,7 @@
  {
   "id": "53beaddaf3209683",
   "title": "jetBlue: New York – Montego Bay, Jamaica. $327 (Basic Economy) / $377 (Regular Economy). Roundtrip, including all Taxes",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjFqBRIDTllDcgUSA01CShoaEgoyMDI3LTAxLTI2agUSA01CSnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://www.theflightdeal.com/2026/11/03/jetblue-new-york-montego-bay-jamaica-327-basic-economy-377-regular-economy-roundtrip-including-all-taxes-2/",
   "why": "🌴 NEW YORK → Jamaica",
   "category": "flights",
   "source": "The Flight Deal",
@@ -28732,8 +28733,7 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
  },
  {
   "id": "93b51ea51cb0ecde",
@@ -28806,7 +28806,7 @@
  {
   "id": "b4a690db13db8255",
   "title": "Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Week+1+early+Black+Friday+Doorbusters+Pixel+11+series+up+to",
+  "url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
   "why": "Watch 25% off",
   "category": "tech",
   "source": "9to5Google deals",
@@ -28818,13 +28818,12 @@
   "source_url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Week+1+early+Black+Friday+Doorbusters+Pixel+11+series+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ecf9686a375f71aa",
   "title": "Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo’s new Android tablets $316 off, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra",
+  "url": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
   "why": "Galaxy — all-time low",
   "category": "tech",
   "source": "9to5Google deals",
@@ -28836,13 +28835,12 @@
   "source_url": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Galaxy+S26+Ultra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1242bb5e9589d09c",
   "title": "Deals: Galaxy Z Fold 8/Ultra up to $570+ off, CMF Watch 3 Pro for $59, buds from $20, more",
-  "url": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
+  "url": "https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/",
   "why": "Watch deal",
   "category": "watches",
   "source": "9to5Google deals",
@@ -28854,13 +28852,12 @@
   "source_url": "https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Galaxy+Z+Fold+8+Ultra+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0f51d815491d1a4a",
   "title": "Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more",
-  "url": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+up+to",
+  "url": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
   "why": "Watch 55% off",
   "category": "tech",
   "source": "9to5Google deals",
@@ -28872,8 +28869,7 @@
   "source_url": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Alenovo.com+Deals+Pixel+Watch+5+up+to",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9860226c4f9edf23",
@@ -30241,7 +30237,7 @@
  {
   "id": "daed3a32bd5ee7b9",
   "title": "PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2/Switch Lite/OLED w/Motion - $24.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
+  "url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch 2",
@@ -30253,13 +30249,12 @@
   "source_url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dc61976466bb7b32",
   "title": "NYXI Hyperion 3 Wireless Controller for Nintendo Switch 2 - $34.65 @ AliExpress",
-  "url": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
+  "url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Nintendo Switch 2",
@@ -30271,8 +30266,7 @@
   "source_url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "beb5eb13957136ef",
@@ -34564,11 +34558,11 @@
   "pct": null,
   "price": 49.99,
   "found_at": "2026-11-03T22:02:06Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20251215-dyson-hushjet-portable-mini-cool-fan-stone-blush-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+HushJet+Portable+Mini+Cool+Fan",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3dc649c91282976d",
@@ -34598,11 +34592,11 @@
   "pct": null,
   "price": 195.0,
   "found_at": "2026-11-03T22:02:08Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20243691-refurb-dji-osmo-360-8k-1-inch-360-action-camera-105gb-storage-195-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+360+8K+1-Inch+360+Action+Camera+105GB+Storage",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0189cb783e77e606",
@@ -34616,11 +34610,11 @@
   "pct": null,
   "price": 33.47,
   "found_at": "2026-11-03T22:02:08Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20239680-open-box-dji-osmo-mobile-7-gimbal-stabilizer-for-iphone-android-built-in-tripod-portable-stabilizer-33-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Osmo+Mobile+7+Gimbal+Stabilizer+for+iPhone+Android+Built-in+Tripod+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3c5b5aad344d0148",
@@ -34650,11 +34644,11 @@
   "pct": null,
   "price": 170.0,
   "found_at": "2026-11-03T22:02:15Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGp2d1dhbkI1anJqNWNaNDBUTWNzLVFtWGRIVTV0b3dZZWV3TTM0N2ppTGN2LXZOZk55Q29zV3JIcE15dnJYZUVqa1Z5d25TRlpaSkdJY2dkM2ZGQnFEQlFnN01ZZTNwQ3lrUUlLY21FOUNldFNpYmNiNWxJV3JZU1ZnQmxETHVkSkVxNW5tN3JoY2VMc1Q5RjRMNEp3UEQ0clgtWFo0U2J2THhEdEUtZnVmbFRQcVY5eE1UYQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c403f375c760fbf0",
@@ -34668,11 +34662,11 @@
   "pct": null,
   "price": 149.95,
   "found_at": "2026-11-03T22:07:33Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "471cd2e75710d915",
@@ -34686,11 +34680,11 @@
   "pct": null,
   "price": 599.0,
   "found_at": "2026-11-03T22:07:33Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18948850-balenciaga-men-s-romeo-mules-shoes-black-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Balenciaga+Men%27s+Romeo+Mules+Shoes+-+Black",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ece1591dd7ef1c03",
@@ -34704,11 +34698,11 @@
   "pct": null,
   "price": 30.0,
   "found_at": "2026-11-03T22:07:33Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17614758-gap-x-yeezy-apparel-at-exclusivedna-crop-tee-s-30-pants-55-with-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gap+X+Yeezy+Apparel+at+ExclusiveDNA+Crop+Tee%27s",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "db8f29a189843d87",
@@ -34816,6 +34810,291 @@
   "dates_tried3": true,
   "source_url": "https://viewfromthewing.com/12000-buffalo-new-york-fares-making-headlines-im-finding-nonstops-for-337-roundtrip/",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20",
+  "link_tried3": true
+ },
+ {
+  "id": "5b00968b0c15f797",
+  "title": "romeo mule - $1000",
+  "url": "https://www.google.com/search?tbm=shop&q=romeo+mule+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1000.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17167033-romeo-mule-1000?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=romeo+mule+-",
+  "exact": false
+ },
+ {
+  "id": "80c49cc32ac0e6ba",
+  "title": "Jomashop Sunglasses Sale: Ray-Ban Geometric $72, Oakley Fuel Cell Wrap $61.80 & More + $5.99 Shipping",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Sunglasses+Ray-Ban+Geometric",
+  "why": "Gucci 40% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": 72.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17144542-jomashop-sunglasses-sale-ray-ban-geometric-72-oakley-fuel-cell-wrap-61-80-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Sunglasses+Ray-Ban+Geometric",
+  "exact": false
+ },
+ {
+  "id": "3058bf3f2f22f276",
+  "title": "OAKLEY Prizm Sunglasses $72, RAY-BAN Caravan Green Classic G-15 Sunglasses $82 & More + Free Shipping w/ $100+",
+  "url": "https://www.google.com/search?tbm=shop&q=OAKLEY+Prizm+Sunglasses",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 72.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16825979-oakley-prizm-sunglasses-72-ray-ban-caravan-green-classic-g-15-sunglasses-82-more-free-shipping-w-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=OAKLEY+Prizm+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "21a5ff04d599a97d",
+  "title": "Oakley Men's CMDN Prizm Grey Browline Sunglasses $63, COSTA DEL MARANAA Ladies Sunglasses $66 & More + Free Shipping on $100+",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+CMDN+Prizm+Grey+Browline+Sunglasses",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 63.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16617164-oakley-men-s-cmdn-prizm-grey-browline-sunglasses-63-costa-del-maranaa-ladies-sunglasses-66-more-free-shipping-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+CMDN+Prizm+Grey+Browline+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "f842b402b310c763",
+  "title": "Jomashop Designer Sunglasses Sale: Salavtore Ferragamo Green Square $51, Ray-Ban Clubmaster Classic $77, Oakley Plazma Prizm Grey Sport & More + Free Shipping on Orders $100+",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 51.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16504402-jomashop-designer-sunglasses-sale-salavtore-ferragamo-green-square-51-ray-ban-clubmaster-classic-77-oakley-plazma-prizm-grey-sport-more-free-shipping-on-orders-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Designer+Sunglasses+Salavtore+Ferragamo+Green+Square",
+  "exact": false
+ },
+ {
+  "id": "b19e2fd067298534",
+  "title": "Balenciaga Speed 2.0 Sneaker in Black - $660",
+  "url": "https://www.google.com/search?tbm=shop&q=Balenciaga+Speed+2.0+Sneaker+in+Black+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": 660.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16446895-balenciaga-speed-2-0-sneaker-in-black-660?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Balenciaga+Speed+2.0+Sneaker+in+Black+-",
+  "exact": false
+ },
+ {
+  "id": "47ff94e47b25ab1c",
+  "title": "Jomashop Sunglasses Sale: RAY-BAN Aviators $63, Men's OAKLEY Holbrooks $69, Women's COSTA DEL MAR Isabelas $53, & More + $5.99 Shipping",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Sunglasses+RAY-BAN+Aviators",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 63.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16150561-jomashop-sunglasses-sale-ray-ban-aviators-63-men-s-oakley-holbrooks-69-women-s-costa-del-mar-isabelas-53-more-5-99-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Sunglasses+RAY-BAN+Aviators",
+  "exact": false
+ },
+ {
+  "id": "67514d40474a2994",
+  "title": "Yeezy Gap items still available - $120",
+  "url": "https://www.google.com/search?tbm=shop&q=Yeezy+Gap+items+still+available+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 120.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15924463-yeezy-gap-items-still-available-120?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Yeezy+Gap+items+still+available+-",
+  "exact": false
+ },
+ {
+  "id": "a85ae7cd8a4d083a",
+  "title": "Designer Balenciaga Mallorca Slide Sandal - $250",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Balenciaga+Mallorca+Slide+Sandal+-",
+  "why": "Balenciaga 60% off",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": true,
+  "pct": 60,
+  "price": 250.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15559555-designer-balenciaga-mallorca-slide-sandal-250?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Designer+Balenciaga+Mallorca+Slide+Sandal+-",
+  "exact": false
+ },
+ {
+  "id": "69b97fcc3bd04511",
+  "title": "HERMES and other fragrances at Costco Buy 3, Get $60 OFF $60 TO $80 range",
+  "url": "https://www.costco.com/CatalogSearch?keyword=HERMES+and+other+fragrances",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 60.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15050782-hermes-and-other-fragrances-at-costco-buy-3-get-60-off-60-to-80-range?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=HERMES+and+other+fragrances",
+  "exact": false
+ },
+ {
+  "id": "3706e48a11ad49a2",
+  "title": "Designer Footwear Sale: Take EXTRA 30% OFF on 1000+ styles - Ferragamo, Balenciaga, Burbery and MORE: Starting at $21",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Footwear+Take+EXTRA+30+OFF+on+1000%2B+styles+-+Ferragamo+Balenciaga+Burbe",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 21.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/14774890-designer-footwear-sale-take-extra-30-off-on-1000-styles-ferragamo-balenciaga-burbery-and-more-starting-at-21?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Designer+Footwear+Take+EXTRA+30+OFF+on+1000%2B+styles+-+Ferragamo+Balenciaga+Burbe",
+  "exact": false
+ },
+ {
+  "id": "9285b60f6bb95e7b",
+  "title": "Nordstrom Rack: Extra 25% off Sunglasses!",
+  "url": "https://www.nordstromrack.com/sr?keyword=Nordstrom+Rack+Extra+25+off+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": null,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13324612-nordstrom-rack-extra-25-off-sunglasses?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstromrack",
+  "similar": "https://www.nordstromrack.com/sr?keyword=Nordstrom+Rack+Extra+25+off+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "588e924bd4c9bebb",
+  "title": "CENTURY 21: BALENCIAGA Handbags 70% Off + free s/h",
+  "url": "https://www.google.com/search?tbm=shop&q=CENTURY+21+BALENCIAGA+Handbags+70+Off+%2B+free+s+h",
+  "why": "Balenciaga 70% off",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": true,
+  "pct": 70,
+  "price": null,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/12584854-century-21-balenciaga-handbags-70-off-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=CENTURY+21+BALENCIAGA+Handbags+70+Off+%2B+free+s+h",
+  "exact": false
+ },
+ {
+  "id": "82577faaf61ab279",
+  "title": "Balenciaga Soft lambskin large shopping bag, $1669",
+  "url": "https://www.google.com/search?tbm=shop&q=Balenciaga+Soft+lambskin+large+shopping+bag",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Balenciaga",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1669.0,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/11647859-balenciaga-soft-lambskin-large-shopping-bag-1669?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Balenciaga+Soft+lambskin+large+shopping+bag",
+  "exact": false
+ },
+ {
+  "id": "82cc73fdce5fc653",
+  "title": "$319.99, FS, +2 yr warranty, REFURB Dyson V15 Detect Total Clean Extra | Yellow/Nickel",
+  "url": "https://slickdeals.net/f/20251812-319-99-fs-2-yr-warranty-refurb-dyson-v15-detect-total-clean-extra-yellow-nickel?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 319.99,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "98427d8d2aa6fa64",
+  "title": "$211.99, FS, 2 yr warranty, REFURB Dyson Outsize Plus Extra Cordless Vacuum Cleaner | Nickel",
+  "url": "https://slickdeals.net/f/20251806-211-99-fs-2-yr-warranty-refurb-dyson-outsize-plus-extra-cordless-vacuum-cleaner-nickel?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 211.99,
+  "found_at": "2026-11-03T22:16:35Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  }
 ]
