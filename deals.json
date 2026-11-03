@@ -4657,7 +4657,8 @@
   "found_at": "2026-11-02T20:49:44Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T05:13:31Z"
  },
  {
   "id": "73f36a4d6b81d64e",
@@ -4674,7 +4675,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+1-Inch+Sensor+107GB+Storage+ActiveT",
   "source_url": "https://slickdeals.net/f/19644405-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-1-inch-sensor-107gb-storage-activetrack-7-0-453-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-03T05:13:32Z"
  },
  {
   "id": "cfcf2efca5c19dcf",
@@ -4691,7 +4693,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+4K+120fps+Waterproof+Action+Camera",
   "source_url": "https://slickdeals.net/f/19627359-dji-osmo-action-4-4k-120fps-waterproof-action-camera-essential-combo-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-03T05:13:35Z"
  },
  {
   "id": "582aaf295626fad8",
@@ -4708,7 +4711,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
   "source_url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-03T05:13:37Z"
  },
  {
   "id": "751ee57a167a763a",
@@ -4725,7 +4729,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
   "source_url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-03T05:13:38Z"
  },
  {
   "id": "879fb8f39198168b",
@@ -4742,7 +4747,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
   "source_url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-03T05:13:40Z"
  },
  {
   "id": "6a3ae3e929bc79a1",
@@ -4758,7 +4764,8 @@
   "found_at": "2026-11-02T20:49:44Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-03T05:13:42Z"
  },
  {
   "id": "580836c687e889a3",
@@ -4775,7 +4782,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
   "source_url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-03T05:13:43Z"
  },
  {
   "id": "e19f8941efbd1320",
@@ -4792,7 +4800,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
   "source_url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "checked_at": "2026-11-03T05:13:45Z"
  },
  {
   "id": "17dc79747cec5338",
@@ -28774,7 +28783,7 @@
  {
   "id": "5e1cd3136ac8635b",
   "title": "Persol Polarized Aviator Sunglasses - Jomashop $100",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
+  "url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -28786,13 +28795,12 @@
   "source_url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b73ec195be552eeb",
   "title": "Prada,Persol premium brand sunglasses@$94.99+fs",
-  "url": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
+  "url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -28804,8 +28812,7 @@
   "source_url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "68e4551811157e22",
@@ -35087,6 +35094,92 @@
   "hot": false,
   "pct": null,
   "price": 72.5,
-  "found_at": "2026-11-03T05:04:56Z"
+  "found_at": "2026-11-03T05:04:56Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "cda225654bea7353",
+  "title": "RUNBOX AirTag Wallet for Men w/ RFID & Pop-Up Card Holder (various colors) - $11.99",
+  "url": "https://www.amazon.com/s?k=RUNBOX+AirTag+Wallet+for+Men+w+RFID+%26+Pop-Up+Card+Holder+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: B&H Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-03T05:10:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247966-runbox-airtag-wallet-for-men-w-rfid-pop-up-card-holder-various-colors-11-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=RUNBOX+AirTag+Wallet+for+Men+w+RFID+%26+Pop-Up+Card+Holder+-",
+  "exact": false
+ },
+ {
+  "id": "90aaf7ef7d047890",
+  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-03T05:13:52Z"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-03T05:13:52Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-03T05:13:52Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-03T05:13:54Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-03T05:13:54Z"
  }
 ]
