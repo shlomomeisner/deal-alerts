@@ -2014,7 +2014,8 @@
   "source_url": "https://slickdeals.net/f/20125818-xerjoff-naxos-eau-de-parfum-3-4-fl-oz-149-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Xerjoff+Naxos+Eau+de+Parfum+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T10:28:52Z"
  },
  {
   "id": "5d6c8bb030b7e47c",
@@ -2031,7 +2032,8 @@
   "source_url": "https://slickdeals.net/f/20124414-prime-1-oz-pacifica-tahitian-gardenia-eau-de-parfum-spray-10-53-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=1-Oz+Pacifica+Tahitian+Gardenia+Eau+de+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T10:28:53Z"
  },
  {
   "id": "604d1c52cd2f1cc2",
@@ -2048,7 +2050,8 @@
   "source_url": "https://slickdeals.net/f/20119851-prime-guy-laroche-drakkar-noir-eau-de-toilette-1-7-oz-25-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Guy+Laroche+Drakkar+Noir+Eau+de+Toilette",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T10:28:56Z"
  },
  {
   "id": "28d116bea0bee7f8",
@@ -2064,7 +2067,8 @@
   "found_at": "2026-11-02T21:39:35Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-03T10:28:57Z"
  },
  {
   "id": "f8e881b0b6057491",
@@ -2081,7 +2085,8 @@
   "source_url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-03T10:28:59Z"
  },
  {
   "id": "b6d7587d079637b6",
@@ -27368,7 +27373,7 @@
  {
   "id": "91b2b15c1245d280",
   "title": "Sonos Sub Mini - White - Compact Wireless Subwoofer $399",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+White+-+Compact+Wireless+Subwoofer",
+  "url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -27380,8 +27385,7 @@
   "source_url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+White+-+Compact+Wireless+Subwoofer",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "69e97d9438ac05bc",
@@ -34404,5 +34408,73 @@
   "link_tried3": true,
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "a9c98a4a73d1a592",
+  "title": "Samsung The Frame LS03C QN32LS03C 32\" QLED Smart TV for $380 + free shipping w/ Prime",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+The+Frame+LS03C+QN32LS03C+32+QLED+Smart+TV+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 380.0,
+  "found_at": "2026-11-03T10:25:38Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Samsung-The-Frame-LS03-C-QN32-LS03-C-32-QLED-Smart-TV-for-380-free-shipping-w-Prime/22341753.html?iref=rss",
+  "store": "Samsung",
+  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+The+Frame+LS03C+QN32LS03C+32+QLED+Smart+TV+for",
+  "exact": false
+ },
+ {
+  "id": "e4852b9be7b40aea",
+  "title": "Fragrance Testers & Gift Sets Deals at Woot: Up to 75% off + free shipping w/ Prime",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrance+Testers+%26+Gift+Sets+Deals",
+  "why": "Versace 75% off",
+  "category": "fragrance",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 75,
+  "price": null,
+  "found_at": "2026-11-03T10:25:38Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Fragrance-Testers-Gift-Sets-Deals-at-Woot-Up-to-75-off-free-shipping-w-Prime/22341749.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrance+Testers+%26+Gift+Sets+Deals",
+  "exact": false
+ },
+ {
+  "id": "ebfe6c956e60f9df",
+  "title": "Redeeming Apologetics: Restori... Defending the Christian Faith - down 4.74% ($0.85) to $17.10 from $17.95",
+  "url": "https://www.amazon.com/dp/1952221153",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 0.85,
+  "found_at": "2026-11-03T10:25:38Z",
+  "source_url": "https://camelcamelcamel.com/product/1952221153",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Redeeming+Apologetics+Restori...+Defending+the+Christian+Faith+-+down+4.74"
+ },
+ {
+  "id": "90ec092e3dd98a23",
+  "title": "Google Pixel 11 6.3\" Unlocked Android Smartphone (12GB, 256GB) $699.00",
+  "url": "https://www.amazon.com/gp/product/B0H836MLYT/ref=ox_sc_act_title_1?ie=UTF8&smid=ATVPDKIKX0DER&redirect=true&psc=1&s=psc&ASIN=B0H836MLYT",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-11-03T10:25:38Z",
+  "store_url": "https://www.amazon.com/gp/product/B0H836MLYT/ref=ox_sc_act_title_1?ie=UTF8&smid=ATVPDKIKX0DER&redirect=true&psc=1&s=psc&ASIN=B0H836MLYT",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+6.3+Unlocked+Android+Smartphone"
  }
 ]
