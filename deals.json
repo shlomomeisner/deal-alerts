@@ -4114,7 +4114,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3d5bjlBb0I1aDYzRjBkaEF4UGNxOFFQclRqd09KY0plT3htbTE5RWNEVFlsdzRBTVFwS21SWnlnRHZEdHhCa3FITUpFOVl4Ynk5akpRTjZnblNxRzVvMzgxRWJZdHB3UTRRSERsaDAwTDhGT0g1MkN6OXlLams1b0VDUUUwWXA0WDBiZXM1VWhTS2xIUVVNWHIycHpVTDFZVm1SVWczbTRoc3ZFMmcw?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Flight%20from%20Buffalo%20to%20NYC%20reportedly%20reached",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-04T15:10:40Z"
  },
  {
   "id": "34075af5bcac4c6e",
@@ -4132,7 +4133,8 @@
   "source_url": "https://slickdeals.net/f/20249358-no-boundaries-cloud-core-collection-women-s-short-sleeve-top-and-boxer-shorts-pajama-set-various-from-7-08-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=No+Boundaries+Cloud+Core+Collection+Women%27s+Short-Sleeve+Top+and+Boxer+Shorts+Pa",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:43Z"
  },
  {
   "id": "20bc81d468babb35",
@@ -4149,7 +4151,8 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xmximn/wts_chanel_allure_homme_edt_150ml_3_brand_new_8ml/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+Allure+Homme+EDT+150ml+%2B+Brand+8ml+Travel+Sprays",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:43Z"
  },
  {
   "id": "e65f2b5dcf2abf5e",
@@ -4165,7 +4168,8 @@
   "found_at": "2026-11-03T16:33:57Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T15:10:44Z"
  },
  {
   "id": "1d526a61fe7569f9",
@@ -4181,7 +4185,8 @@
   "found_at": "2026-11-03T16:33:57Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T15:10:45Z"
  },
  {
   "id": "d5efd57d73e0bbcf",
@@ -4199,7 +4204,8 @@
   "source_url": "https://slickdeals.net/f/20250096-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-case-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Smartwatch%20Natural%20Titanium%20Case",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:46Z"
  },
  {
   "id": "cb50075a010aa9a4",
@@ -4217,7 +4223,8 @@
   "source_url": "https://www.dealnews.com/products/Apple/Apple-Air-Pods-Pro-3-2025/493669.html?iref=rss",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Refurb%20Apple%20AirPods%20Pro%203%20for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:47Z"
  },
  {
   "id": "6556230841dd04a3",
@@ -4235,7 +4242,8 @@
   "source_url": "https://9to5toys.com/2026/11/02/apple-2026-mac-mini-deals-black-friday-month/",
   "store": "Link",
   "similar": "https://link.amazon/B03zBQBet",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:47Z"
  },
  {
   "id": "e5a5c56c22e7e510",
@@ -4260,7 +4268,8 @@
    "HKT"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HKT&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HKT&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-04T15:10:47Z"
  },
  {
   "id": "bba47c7acea558c8",
@@ -4278,7 +4287,8 @@
   "source_url": "https://slickdeals.net/f/20235930-select-accounts-apple-airpods-4-w-usb-c-charging-case-filler-item-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Select%20Accounts%20Apple%20AirPods%204%20USB-C%20Charging%20Case%20%2B%20Filler%20item%20-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:48Z"
  },
  {
   "id": "b33c878e1639f717",
@@ -4296,7 +4306,8 @@
   "source_url": "https://slickdeals.net/f/20228721-apple-airpods-pro-3-with-2-years-of-applecare-and-free-delivery-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20with%202%20years%20of%20AppleCare%2B%20and%20free%20delivery",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:49Z"
  },
  {
   "id": "3fe77c648dcc6c51",
@@ -4312,7 +4323,8 @@
   "found_at": "2026-11-03T16:43:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T15:10:50Z"
  },
  {
   "id": "b27c61d089e688b2",
@@ -4330,7 +4342,8 @@
   "source_url": "https://slickdeals.net/f/20222082-apple-airpods-4-wireless-earbuds-w-usb-c-case-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Apple+AirPods+4+Wireless+Earbuds+w+USB-C+Case+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:52Z"
  },
  {
   "id": "310e4e7888ac1f71",
@@ -4346,7 +4359,8 @@
   "found_at": "2026-11-03T16:43:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T15:10:53Z"
  },
  {
   "id": "d6cb96d191fabd85",
@@ -4364,7 +4378,8 @@
   "source_url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=3-in-1+Esr+MagSafe+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+AirPods",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T15:10:56Z"
  },
  {
   "id": "a89baef45ce03575",
@@ -27975,7 +27990,7 @@
  {
   "id": "0e5a58cb178881c3",
   "title": "American: New York – Tokyo, Japan. $798 (Basic Economy) / $1,058 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdW9NVnVOQ1NySnlkdk1jZnV4c1RnYWNQQVMtdVFrZkhyQWdrS2pBZTNfOWd2Z05xWHJuWFB6TFYtRnl5dGJleW1oRnlTNUxoMGFQRzh1ODhqVDdGWXRpOXpKcXBBZmo3Z243b2tlQVliN1ZXLVZsN05YSlFfeHdNUlljQ2FHTXV5bWc1SmZxN1h6em5aVXFweldPdnVraGxHWjZRY3ZYRWZKc0lvUkJnQ0FnMW9mNHpQbTNUVlA2TjhDaU5JaGtycVF1T0JubURDWFlVXzNTTQ?oc=5",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA1RZTxoaEgoyMDI2LTEyLTEzagUSA1RZT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -27995,7 +28010,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "efdfa5f039ebd7ce",
@@ -34513,335 +34529,270 @@
   "pct": null,
   "price": 16.0,
   "found_at": "2026-11-04T14:59:59Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/The-Beard-Club-Enhanced-Beard-Growth-Kit-w-Derma-Roller-Growth-Oil-2-Pack-Sandalwood-Balm-Comb-for-16-w-Sub-Save-free-shipping-w-Prime/22346576.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=The+Beard+Club+Enhanced+Beard+Growth+Kit+w+Derma+Roller+Growth+Oil+2-Pack+Sandal",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "685d22a45ed438fc",
+  "title": "3oz. Coach Floral EDP Eau de Parfum Spray $53 + Free S&H",
+  "url": "https://www.walmart.com/search?q=3oz.+Coach+Floral+EDP+Eau+de+Parfum+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 53.0,
+  "found_at": "2026-11-04T15:08:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20252034-coach-floral-eau-de-parfum-3-oz-51-26-reg-112?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=3oz.+Coach+Floral+EDP+Eau+de+Parfum+Spray",
   "exact": false
  },
  {
-  "id": "ec0fc1bc6a698c33",
-  "title": "[AC] $41.67 | Nioh 3: SteelBook Launch Edition - PlayStation 5 at Amazon",
-  "url": "https://slickdeals.net/f/20253720-ac-41-67-nioh-3-steelbook-launch-edition-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "fede6dfca344715d",
+  "title": "PopSockets iPhone 15 Plus Case...ble, Harry Potter - Gryffindor - down 23.79% ($4.59) to $14.70 from $19.29",
+  "url": "https://www.amazon.com/dp/B0CS4GYSYD",
   "why": "",
   "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
+  "source": "camelcamelcamel Amazon drops",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 41.67,
-  "found_at": "2026-11-04T15:03:02Z"
+  "price": 4.59,
+  "found_at": "2026-11-04T15:08:15Z",
+  "source_url": "https://camelcamelcamel.com/product/B0CS4GYSYD",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=PopSockets+iPhone+15+Plus+Case...ble+Harry+Potter+-+Gryffindor+-+down+23.79"
  },
  {
-  "id": "a264330eb8ddaf73",
-  "title": "PRAGMATA (PlayStation 5) $49.99 + Free S&H at Amazon",
-  "url": "https://slickdeals.net/f/20253552-pragmata-playstation-5-49-99-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "d7bd1d1a45a282b9",
+  "title": "Nike Women's Dunk Low Shoes (Coconut Milk/Sail, 6,6.5,7.5-8.5,9.5,10) $71.99 + Free Shipping",
+  "url": "https://www.nike.com/w?q=Nike+Women%27s+Dunk+Low+Shoes",
   "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
+  "category": "fashion",
+  "source": "Slickdeals: Dunks",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 49.99,
-  "found_at": "2026-11-04T15:03:02Z"
+  "price": 71.99,
+  "found_at": "2026-11-04T15:08:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20254920-nike-women-s-dunk-low-shoes-coconut-milk-sail-6-6-5-7-5-8-5-9-5-10-71-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nike",
+  "similar": "https://www.nike.com/w?q=Nike+Women%27s+Dunk+Low+Shoes",
+  "exact": false
  },
  {
-  "id": "c2249bbd49df37da",
-  "title": "Select Accts: LEGO Batman: Legacy of the Dark Knight - PlayStation 5 Game + Filler $49.99 w/Store Pick-Up",
-  "url": "https://slickdeals.net/f/20250210-select-accts-lego-batman-legacy-of-the-dark-knight-playstation-5-game-filler-49-99-w-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "f4bbf19183b52644",
+  "title": "Trails in the Sky 1st Chapter: Nintendo Switch 2 Edition (Digital) $30.49 or Switch $29.99",
+  "url": "https://slickdeals.net/f/20254371-trails-in-the-sky-1st-chapter-nintendo-switch-2-edition-digital-30-49-or-switch-29-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 49.99,
-  "found_at": "2026-11-04T15:03:02Z"
+  "price": 30.49,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "9b7fd94c4627c041",
-  "title": "MLB The Show 26 (PlayStation 5, Nintendo Switch, Xbox Series X) - $29.83",
-  "url": "https://slickdeals.net/f/20248038-mlb-the-show-26-playstation-5-nintendo-switch-xbox-series-x-29-83?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "025d4054aa276709",
+  "title": "$34.99* | Final Fantasy VII: Rebirth (Nintendo Switch 2, Game-Key Card) at Amazon",
+  "url": "https://slickdeals.net/f/20254134-34-99-final-fantasy-vii-rebirth-nintendo-switch-2-game-key-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 29.83,
-  "found_at": "2026-11-04T15:03:02Z"
+  "price": 34.99,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "9af9c2f679162e6b",
-  "title": "Dead Space (PlayStation 5) - $14.97 @ Walmart",
-  "url": "https://slickdeals.net/f/20247954-dead-space-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "b5b46d1c3e26f8e3",
+  "title": "$35: Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - Nintendo Switch at Amazon",
+  "url": "https://slickdeals.net/f/20249616-35-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-nintendo-switch-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-04T15:03:02Z"
+  "price": 35.0,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "90aaf7ef7d047890",
-  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
-  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "f3717d90b6d85859",
+  "title": "Cronos (Nintendo Switch 2, Game-Key Card) - $23.89 @ Amazon",
+  "url": "https://slickdeals.net/f/20248626-cronos-nintendo-switch-2-game-key-card-23-89-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: PlayStation 5 deal",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-04T15:03:02Z"
+  "price": 23.89,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "3622699b55b7b38d",
-  "title": "Avatar: Frontiers of Pandora From the Ashes Edition (PlayStation 5) $14.95",
-  "url": "https://slickdeals.net/f/20247447-avatar-frontiers-of-pandora-from-the-ashes-edition-playstation-5-14-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "3fed5236311c6587",
+  "title": "Sonic X Shadow Generations (Nintendo Switch 2) $21.97 w/ S&S + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20248260-sonic-x-shadow-generations-nintendo-switch-2-21-97-w-s-s-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 14.95,
-  "found_at": "2026-11-04T15:03:02Z"
+  "price": 21.97,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "75a6881f52086eea",
-  "title": "Avatar: Frontiers of Pandora (PlayStation 5) - $14.97 @ Walmart",
-  "url": "https://slickdeals.net/f/20244567-avatar-frontiers-of-pandora-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "81e90e89743520d6",
+  "title": "Bravely Default Flying Fairy HD Remaster (Nintendo Switch 2, GameKey Card) - $20 @ Walmart",
+  "url": "https://slickdeals.net/f/20248080-bravely-default-flying-fairy-hd-remaster-nintendo-switch-2-gamekey-card-20-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "b1600fc1b5f7dc64",
-  "title": "$15 | Sonic Origins Plus (PlayStation 5) at Amazon",
-  "url": "https://slickdeals.net/f/20244354-15-sonic-origins-plus-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.0,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "2c5bba40a83e6d17",
-  "title": "Metal Gear Solid: Snake Eater Tactical Edition (PlayStation 5) - $25 @ Walmart",
-  "url": "https://slickdeals.net/f/20244267-metal-gear-solid-snake-eater-tactical-edition-playstation-5-25-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 25.0,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "5db09e678d036c0a",
-  "title": "Star Wars Jedi: Survivor (PlayStation 5) - $14.97 @ Walmart",
-  "url": "https://slickdeals.net/f/20244054-star-wars-jedi-survivor-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "7cfd5ec5323e97d9",
-  "title": "Star Wars Outlaws (PlayStation 5) - $14.97 @ Amazon",
-  "url": "https://slickdeals.net/f/20243934-star-wars-outlaws-playstation-5-14-97-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "19fdc44d8d426009",
-  "title": "$25* | Metal Gear Solid Delta: Snake Eater Tactical Edition (PlayStation 5) at Amazon",
-  "url": "https://slickdeals.net/f/20243424-25-metal-gear-solid-delta-snake-eater-tactical-edition-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 25.0,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "0603643625605536",
-  "title": "$15* | Undisputed (PlayStation 5) at Amazon",
-  "url": "https://slickdeals.net/f/20242869-15-undisputed-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.0,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "2d27053f014293df",
-  "title": "$99.21 | 007 First Light - Collector's Edition - PlayStation 5 at Amazon",
-  "url": "https://slickdeals.net/f/20242305-99-21-007-first-light-collector-s-edition-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 99.21,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "e6cb4a5d4bb84773",
-  "title": "Resident Evil 2 (PlayStation 5) $15.19 + Free Shipping w/ Walmart+ or on $35+",
-  "url": "https://slickdeals.net/f/20242110-resident-evil-2-playstation-5-15-19-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.19,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "c28b0869d011c656",
-  "title": "$15.19* | Resident Evil 2 (PlayStation 5) at Amazon",
-  "url": "https://slickdeals.net/f/20240625-15-19-resident-evil-2-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: PlayStation 5 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.19,
-  "found_at": "2026-11-04T15:03:02Z"
- },
- {
-  "id": "e97f1628dd7c355e",
-  "title": "Borderlands 4 (Physical) PS5 $21.87 or Xbox Series X $19.91 at Amazon",
-  "url": "https://slickdeals.net/f/20251377-borderlands-4-physical-ps5-21-87-or-xbox-series-x-19-91-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Xbox Series X deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 21.87,
-  "found_at": "2026-11-04T15:03:05Z"
- },
- {
-  "id": "aece4b92b395de62",
-  "title": "WWE 2K26 (Xbox Series X) $20 + Free Shipping w/ Walmart+ or on $35+",
-  "url": "https://slickdeals.net/f/20248281-wwe-2k26-xbox-series-x-20-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Xbox Series X deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
   "price": 20.0,
-  "found_at": "2026-11-04T15:03:05Z"
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "537fdbb1eb0056fe",
-  "title": "WWE 2K26 (Xbox Series X) $20 + Free S&H w/ Prime or $35+ at Amazon",
-  "url": "https://slickdeals.net/f/20247354-wwe-2k26-xbox-series-x-20-free-s-h-w-prime-or-35-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "f4c7aafdaf8d6f8c",
+  "title": "Star Fox (Nintendo Switch 2 Digital) - $36.23 @ Eneba",
+  "url": "https://slickdeals.net/f/20247123-star-fox-nintendo-switch-2-digital-36-23-eneba?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: Xbox Series X deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 20.0,
-  "found_at": "2026-11-04T15:03:05Z"
+  "price": 36.23,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "2b182b6c8a1b399f",
-  "title": "007 First Light Collector's Edition (PS5, XBOX Series X, PC) $99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20240805-007-first-light-collector-s-edition-ps5-xbox-series-x-pc-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "ad373676f7ace9f5",
+  "title": "512GB SanDisk GamePLAY microSD Express Card (Works w/ Nintendo Switch 2) - $89.99 @ Costco",
+  "url": "https://slickdeals.net/f/20246208-512gb-sandisk-gameplay-microsd-express-card-works-w-nintendo-switch-2-89-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: Xbox Series X deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 99.0,
-  "found_at": "2026-11-04T15:03:05Z"
+  "price": 89.99,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "71150b85693adda2",
-  "title": "007 FIRST LIGHT - LEGACY EDITION - PlayStation 5 or Xbox Series X $99.99",
-  "url": "https://slickdeals.net/f/20234955-007-first-light-legacy-edition-playstation-5-or-xbox-series-x-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "e45eadc646e2a0ac",
+  "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles (Nintendo Switch, Switch 2) Deluxe Edition $35.99 - Standard $29.99",
+  "url": "https://slickdeals.net/f/20245833-final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-switch-2-deluxe-edition-35-99-standard-29-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: Xbox Series X deal",
+  "source": "Web search: Nintendo Switch 2 deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 99.99,
-  "found_at": "2026-11-04T15:03:05Z"
+  "price": 35.99,
+  "found_at": "2026-11-04T15:10:59Z"
  },
  {
-  "id": "4dbd2f0e1c2284ac",
-  "title": "MLB The Show 26 (Xbox Series X) $30 + Free Shipping w/ Prime or on orders over $35",
-  "url": "https://slickdeals.net/f/20230803-mlb-the-show-26-xbox-series-x-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "8f646b8e92bca802",
+  "title": "Total 43% OFF！！JSAUX Video Capture Card Intended for Nintendo Switch 2/Steam Deck/ROG Ally",
+  "url": "https://slickdeals.net/f/20054385-total-43-off-jsaux-video-capture-card-intended-for-nintendo-switch-2-steam-deck-rog-ally?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: Xbox Series X deal",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": 43,
+  "price": null,
+  "found_at": "2026-11-04T15:11:00Z"
+ },
+ {
+  "id": "8a473f51f0d1d5b5",
+  "title": "JSAUX Video Capture Card Intended for Nintendo Switch 2/Steam Deck/ROG Ally $23.99",
+  "url": "https://slickdeals.net/f/19987194-jsaux-video-capture-card-intended-for-nintendo-switch-2-steam-deck-rog-ally-23-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 30.0,
-  "found_at": "2026-11-04T15:03:05Z"
+  "price": 23.99,
+  "found_at": "2026-11-04T15:11:00Z"
  },
  {
-  "id": "a71b964256815900",
-  "title": "$47.99* | Star Wars Zero Company (PS5 / Xbox Series X) at Amazon",
-  "url": "https://slickdeals.net/f/20228556-47-99-star-wars-zero-company-ps5-xbox-series-x-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "634b9e3d576a2543",
+  "title": "Nintendo Switch Digital Titles: Flipping Death $2 & more",
+  "url": "https://slickdeals.net/f/16876994-nintendo-switch-digital-titles-flipping-death-2-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: Xbox Series X deal",
+  "source": "Web search: Nintendo Switch 2 record low",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 47.99,
-  "found_at": "2026-11-04T15:03:05Z"
+  "price": 2.0,
+  "found_at": "2026-11-04T15:11:00Z"
  },
  {
-  "id": "ec4cd63bea358e7e",
-  "title": "Borderlands 4 (PS5 or Xbox Series X) $19",
-  "url": "https://slickdeals.net/f/20218557-borderlands-4-ps5-or-xbox-series-x-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "72b37efde2a10335",
+  "title": "Nintendo Switch Digital Games: Immortals Fenyx Rising $9, Layers of Fear 2 $4.50 & More",
+  "url": "https://slickdeals.net/f/16846136-nintendo-switch-digital-games-immortals-fenyx-rising-9-layers-of-fear-2-4-50-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: Xbox Series X deal",
+  "source": "Web search: Nintendo Switch 2 record low",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 19.0,
-  "found_at": "2026-11-04T15:03:05Z"
+  "price": 9.0,
+  "found_at": "2026-11-04T15:11:00Z"
+ },
+ {
+  "id": "1a647d1b81335a79",
+  "title": "Nintendo Switch Digital eShop: Jet Kave Adventure $1.99, Welcome to Hanwell $2.24, A Day Without Me $2.49 & More",
+  "url": "https://slickdeals.net/f/15500356-nintendo-switch-digital-eshop-jet-kave-adventure-1-99-welcome-to-hanwell-2-24-a-day-without-me-2-49-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": 15,
+  "price": 1.99,
+  "found_at": "2026-11-04T15:11:00Z"
+ },
+ {
+  "id": "12a8a1e5899bdef0",
+  "title": "Nintendo Switch Digital Games: Quake $6, Slay the Spire $10, Inside $2 & More",
+  "url": "https://slickdeals.net/f/15437587-nintendo-switch-digital-games-quake-6-slay-the-spire-10-inside-2-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.0,
+  "found_at": "2026-11-04T15:11:00Z"
+ },
+ {
+  "id": "76df21661cdbadc6",
+  "title": "Nintendo Switch Digital Games: Project Warlock $6, Figment $2.20 & More",
+  "url": "https://slickdeals.net/f/15369424-nintendo-switch-digital-games-project-warlock-6-figment-2-20-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Nintendo Switch 2 record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.0,
+  "found_at": "2026-11-04T15:11:00Z"
  }
 ]
