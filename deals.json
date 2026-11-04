@@ -862,7 +862,8 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T07:53:24Z"
  },
  {
   "id": "41513b3ef3ed3d18",
@@ -879,7 +880,8 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T07:53:25Z"
  },
  {
   "id": "8aa733bd6641b404",
@@ -895,7 +897,8 @@
   "found_at": "2026-11-03T12:31:42Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T07:53:26Z"
  },
  {
   "id": "6f13edb6c69b21cf",
@@ -913,7 +916,8 @@
   "source_url": "https://slickdeals.net/f/20231346-bose-soundlink-plus-portable-bluetooth-speaker-sunset-peach-blue-dusk-179-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+SoundLink+Plus+Portable+Bluetooth+Speaker+Sunset+Peach+Blue+Dusk",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T07:53:28Z"
  },
  {
   "id": "35cde0a3d8bdf63c",
@@ -25469,7 +25473,7 @@
  {
   "id": "b18c76a129319cf5",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
+  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -25481,8 +25485,7 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e9cddb35fee50f2e",
@@ -25689,7 +25692,7 @@
  {
   "id": "576c4c689980bd02",
   "title": "[WTS] BNIB Blockade, Fzotic, La Ree (bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=BNIB+Blockade+Fzotic+La+Ree",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xn93ej/wts_bnib_blockade_fzotic_la_ree_bottle/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -25701,8 +25704,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xn93ej/wts_bnib_blockade_fzotic_la_ree_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=BNIB+Blockade+Fzotic+La+Ree",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2676f2e71cd38f1d",
@@ -34830,16 +34832,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-04T07:41:23Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Best+gaming+monitor+LG%27s+27-inch+240Hz+OLED+hits+-+Mashable",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ab8acb85106f9628",
   "title": "Kryndors Cloud Pillow, Ergonomic Memory Foam Pillow, Cervical Neck Support & Pressure Relief $19.99",
-  "url": "https://slickdeals.net/f/20253129-kryndors-cloud-pillow-ergonomic-memory-foam-pillow-cervical-neck-support-pressure-relief-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Kryndors+Cloud+Pillow+Ergonomic+Memory+Foam+Pillow+Cervical+Neck+Support+%26+Press",
   "why": "",
   "category": "everything",
   "source": "Web search: On Cloud sale",
@@ -34847,7 +34849,12 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-11-04T07:44:43Z"
+  "found_at": "2026-11-04T07:44:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20253129-kryndors-cloud-pillow-ergonomic-memory-foam-pillow-cervical-neck-support-pressure-relief-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Kryndors+Cloud+Pillow+Ergonomic+Memory+Foam+Pillow+Cervical+Neck+Support+%26+Press",
+  "exact": false
  },
  {
   "id": "dbc356167108ea46",
@@ -34860,6 +34867,90 @@
   "hot": false,
   "pct": null,
   "price": 82.0,
-  "found_at": "2026-11-04T07:44:51Z"
+  "found_at": "2026-11-04T07:44:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "1f885f98217cb723",
+  "title": "Smartish® iPhone 6/6s Wallet C...iPhone 6s/6 (Silk) - Red Rouge - down 7.55% ($0.99) to $12.13 from $13.12",
+  "url": "https://www.amazon.com/dp/B00R1XCABG",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 0.99,
+  "found_at": "2026-11-04T07:50:07Z",
+  "source_url": "https://camelcamelcamel.com/product/B00R1XCABG",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Smartish+iPhone+6+6s+Wallet+C...iPhone+6s+6+-+Red+Rouge+-+down+7.55"
+ },
+ {
+  "id": "90aaf7ef7d047890",
+  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-04T07:53:40Z"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-04T07:53:40Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-04T07:53:40Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-04T07:53:41Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-04T07:53:41Z"
  }
 ]
