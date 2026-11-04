@@ -28395,7 +28395,7 @@
  {
   "id": "061ebe7e9be1e22b",
   "title": "Extra 20% off on Ray-Ban & Oakley Sunglasses at Woot!",
-  "url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -28407,12 +28407,13 @@
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "172b7cd005d28cd2",
   "title": "Refurbished Meta Ray-ban Wayfarer (Gen 1) $197.00",
-  "url": "https://slickdeals.net/f/20062158-refurbished-meta-ray-ban-wayfarer-gen-1-197-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurbished+Meta+Ray-ban+Wayfarer",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -28424,7 +28425,8 @@
   "source_url": "https://slickdeals.net/f/20062158-refurbished-meta-ray-ban-wayfarer-gen-1-197-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurbished+Meta+Ray-ban+Wayfarer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "123fe5e6fccbe958",
@@ -28447,7 +28449,7 @@
  {
   "id": "6409cf98052b3c83",
   "title": "Ray-Ban RB3016 Clubmaster Classic Square Sunglasses(Open Box)",
-  "url": "https://slickdeals.net/f/19968951-ray-ban-rb3016-clubmaster-classic-square-sunglasses-open-box?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+RB3016+Clubmaster+Classic+Square+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -28459,7 +28461,8 @@
   "source_url": "https://slickdeals.net/f/19968951-ray-ban-rb3016-clubmaster-classic-square-sunglasses-open-box?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+RB3016+Clubmaster+Classic+Square+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4f0aff800c20a512",
@@ -28482,7 +28485,7 @@
  {
   "id": "fca0b13426a01b3b",
   "title": "Ray-Ban Justin Classic Sunglasses (Men's, Rubber Black/Grey Gradient) $89 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/19880088-ray-ban-justin-classic-sunglasses-men-s-rubber-black-grey-gradient-89-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Justin+Classic+Sunglasses",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ray-Ban",
@@ -28494,7 +28497,8 @@
   "source_url": "https://slickdeals.net/f/19880088-ray-ban-justin-classic-sunglasses-men-s-rubber-black-grey-gradient-89-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Justin+Classic+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6cac3b90326bc125",
@@ -34848,11 +34852,11 @@
   "pct": null,
   "price": 259.99,
   "found_at": "2026-11-04T02:46:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20226909-new-apple-watch-se-3-smartwatch-gps-cellular-fitness-and-sleep-trackers-heart-rate-monitor-always-on-display-water-resistant-259-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+SE+3+Smartwatch+-+Fitness+and+Sleep+Trackers+Heart+Rate+Monitor+Alwa",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c0b33a9a5f4e711e",
@@ -35014,6 +35018,43 @@
   "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdk1zY1Rlc0Y0azVkZVpRbV9NUHRsVmJvNXl4ZlQ2V214eEFlYjNDTTloOEhoZXFmR0VBWDI1Y21hckp1aDZzYXljOG82bnowS1VLUXJoQzBTS3hPRVdmYm9EWDJjUjlYVk4zdjhKRjZZbks1NVp6YUxvWGM2SnI5bExLS2IzRU5VNTFXeVpJcUZ0YThOR2NpbVJlbXZtWEVkMVJLU0FOR2NoemwwdGhfZTQzendVZnBHMkxQbTNCbEhwTFZiQzFoREYxaE5DTFNGNHliVWlsRUJfWUZXek1lQk9YNnVfY09DZzd6WXZGYw?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20American%3A%20Phoenix%20%E2%80%93%20Buffalo%2C%20New%20York%20%28and%20vice%20versa%29.",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
+ },
+ {
+  "id": "19b9549f581e1286",
+  "title": "REFURBISHED Citizen Men's Tsuyosa Calendar Automatic Yellow Watch 40MM NJ0150-56Z",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Tsuyosa+Calendar+Automatic+Yellow+Watch+40MM+NJ0150-56",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-04T02:55:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20252172-refurbished-citizen-men-s-tsuyosa-calendar-automatic-yellow-watch-40mm-nj0150-56z?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Tsuyosa+Calendar+Automatic+Yellow+Watch+40MM+NJ0150-56",
+  "exact": false
+ },
+ {
+  "id": "b37ae745fd9568a1",
+  "title": "REFURBISHED Citizen Men's Tough Date Window GMT Silver Stainless Steel Watch 39MM BJ7150-50W $297.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Tough+Date+Window+GMT+Silver+Stainless+Steel+Watch+39M",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 297.99,
+  "found_at": "2026-11-04T02:55:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20252229-refurbished-citizen-men-s-tough-date-window-gmt-silver-stainless-steel-watch-39mm-bj7150-50w-297-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Tough+Date+Window+GMT+Silver+Stainless+Steel+Watch+39M",
+  "exact": false
  }
 ]
