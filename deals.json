@@ -31049,7 +31049,7 @@
  {
   "id": "e3486f9dc7492678",
   "title": "Givenchy Men's or Women's Sunglasses: 60mm Gradient Sunglasses $67.47, 56mm Cat Eye Sunglasses $67.47 & More + Free Shipping on $89+",
-  "url": "https://slickdeals.net/f/16894804-givenchy-men-s-or-women-s-sunglasses-60mm-gradient-sunglasses-67-47-56mm-cat-eye-sunglasses-67-47-more-free-shipping-on-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Givenchy+Men%27s+or+Women%27s+Sunglasses+60mm+Gradient+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Givenchy sale",
@@ -31061,7 +31061,8 @@
   "source_url": "https://slickdeals.net/f/16894804-givenchy-men-s-or-women-s-sunglasses-60mm-gradient-sunglasses-67-47-56mm-cat-eye-sunglasses-67-47-more-free-shipping-on-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Givenchy+Men%27s+or+Women%27s+Sunglasses+60mm+Gradient+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "303059b38a65e2ef",
@@ -35086,19 +35087,6 @@
   "link_tried3": true
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-04T23:28:33Z"
- },
- {
   "id": "692ed1e0b5b2092d",
   "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebbfa4186e4187a4efc484004aaa4c&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
@@ -35109,6 +35097,86 @@
   "hot": false,
   "pct": null,
   "price": 26.6,
-  "found_at": "2026-11-04T23:28:36Z"
+  "found_at": "2026-11-04T23:28:36Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebbfa4186e4187a4efc484004aaa4c&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
+  "exact": false
+ },
+ {
+  "id": "786e980bd94babb0",
+  "title": "Open Box Open Box Apple Macbook Pro 16\" M5 Pro 24GB RAM 1TB SSD 20-core GPU Space Black MGEA4LL/A $2149",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+Open+Box+Apple+Macbook+Pro+16+M5+Pro+24GB+RAM+1TB+SSD+20-core+GPU+Space",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2149.0,
+  "found_at": "2026-11-04T23:33:42Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20257035-open-box-open-box-apple-macbook-pro-16-m5-pro-24gb-ram-1tb-ssd-20-core-gpu-space-black-mgea4ll-a-2149?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+Open+Box+Apple+Macbook+Pro+16+M5+Pro+24GB+RAM+1TB+SSD+20-core+GPU+Space",
+  "exact": false
+ },
+ {
+  "id": "0b473a0582968d66",
+  "title": "DJI Osmo Pocket 3 creator combo $461 + free shipping",
+  "url": "https://www.walmart.com/search?q=DJI+Osmo+Pocket+3+creator+combo",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 461.0,
+  "found_at": "2026-11-04T23:33:42Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20257356-dji-osmo-pocket-3-creator-combo-461-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=DJI+Osmo+Pocket+3+creator+combo",
+  "exact": false
+ },
+ {
+  "id": "e82de4d835673ba1",
+  "title": "$72.50: Oakley Men's Drift Recycled Mountain Bike Sneaker (Size 11 ONLY)",
+  "url": "https://slickdeals.net/f/19571004-72-50-oakley-men-s-drift-recycled-mountain-bike-sneaker-size-11-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Oakley",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 72.5,
+  "found_at": "2026-11-04T23:33:42Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-04T23:37:08Z"
+ },
+ {
+  "id": "c7747eec833ec293",
+  "title": "Tudor-backed hedge fund Xantium plans record $9B spinout: FT",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebc1a60f034e2d9ea95e40a50ebbb8&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4661875-tudor-backed-hedge-fund-xantium-plans-record-9b-spinout-ft&c=9578000527434395329&mkt=en-us",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Tudor price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.0,
+  "found_at": "2026-11-04T23:37:10Z"
  }
 ]
