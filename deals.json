@@ -848,7 +848,8 @@
   "source_url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+3.4oz+Valentino+Uomo+Born+In+Roma+Intense+EDP",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:34Z"
  },
  {
   "id": "062780edbd52e7c0",
@@ -866,7 +867,8 @@
   "source_url": "https://slickdeals.net/f/20246190-infiixso-standard-mulberry-silk-pillowcase-w-zipper-light-grey-3-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Infiixso+20+x26+Mulberry+Soft+Silk+Pillow+Case+w+Zipper",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:35Z"
  },
  {
   "id": "f34f29d112d340a8",
@@ -883,7 +885,8 @@
   "source_url": "https://slickdeals.net/f/20248839-used-dji-neo-mini-drone-with-4k-uhd-camera-69-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:36Z"
  },
  {
   "id": "f94be75178e91b7b",
@@ -899,7 +902,8 @@
   "found_at": "2026-11-03T14:10:47Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "d5c4140715231d10",
@@ -917,7 +921,8 @@
   "source_url": "https://www.dealnews.com/lululemon-Womens-Hotty-Hot-2-5-High-Rise-Lined-Shorts-for-29-free-shipping/22342008.html?iref=rss",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Hotty+Hot+2.5+High-Rise+Lined+Shorts+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "9436dc5c6d184bee",
@@ -935,7 +940,8 @@
   "source_url": "https://www.dealnews.com/lululemon-Underwear-Specials-for-From-14-multipacks-from-39-free-shipping/22341987.html?iref=rss",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Underwear+Specials+for+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "eff7e3fc7b3dbfc2",
@@ -951,7 +957,8 @@
   "found_at": "2026-11-03T14:10:47Z",
   "source_url": "https://camelcamelcamel.com/product/B0F8374PX3",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Belkin+Eco+USB-C+to+USB-C+Cabl...Book+iPad+Pro+%26+More+-+White+-+down+11.12"
+  "similar": "https://www.google.com/search?tbm=shop&q=Belkin+Eco+USB-C+to+USB-C+Cabl...Book+iPad+Pro+%26+More+-+White+-+down+11.12",
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "bca79685452bcb52",
@@ -972,7 +979,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
+  "checked_at": "2026-11-04T11:56:40Z"
  },
  {
   "id": "f7ea776183029e1d",
@@ -997,7 +1005,8 @@
    "TYO"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-04T11:56:41Z"
  },
  {
   "id": "5297d01d77837196",
@@ -1015,7 +1024,8 @@
   "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:43Z"
  },
  {
   "id": "579e6bf49e7c480f",
@@ -1031,7 +1041,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T11:56:44Z"
  },
  {
   "id": "175c898d2f368cb8",
@@ -1047,7 +1058,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T11:56:46Z"
  },
  {
   "id": "977d0940fe638649",
@@ -1065,7 +1077,8 @@
   "source_url": "https://slickdeals.net/f/20049954-guilty-intense-by-gucci-for-women-3-oz-edp-spray-93-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Guilty+Intense+by+Gucci+for+Women+-+3+oz+EDP+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:48Z"
  },
  {
   "id": "267c46fa204f321a",
@@ -27635,7 +27648,7 @@
  {
   "id": "72a906f4d92d54f1",
   "title": "(Refurb/Used) DJI Avata 2 Fly Smart Combo FPV Drone with 4K Camera Includes Goggles N3 RC $499.02",
-  "url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
   "why": "",
   "category": "flights",
   "source": "Web search: DJI deal",
@@ -27648,12 +27661,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
+  "link_tried3": true
  },
  {
   "id": "17ddc3509e84b673",
   "title": "DJI Air 3S Fly More Combo (RC-N3), Used Drone with 1\" CMOS Wide-Angle & Medium Tele Camera $954.28",
-  "url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27665,12 +27679,13 @@
   "source_url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cee741fc605a0b67",
   "title": "DJI Mini 5 Pro 4k Camera Drone RC2 Fly More Combo ~$773.50 & More + Free S/H",
-  "url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27682,7 +27697,8 @@
   "source_url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c5f277b7031d3732",
@@ -28019,7 +28035,7 @@
  {
   "id": "582aaf295626fad8",
   "title": "DJI Osmo Pocket 4 Digital 4K 3-Axis Gimbal Vlog Camera $433.45 + Free S&H",
-  "url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28031,12 +28047,13 @@
   "source_url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "751ee57a167a763a",
   "title": "DJI Osmo Pocket 4 4K/6K Pocket Gimbal Camera w/ 1\" Sensor 107GB Storage ActionTrack 7.0 Vlog Camera + F/S $426.7",
-  "url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28048,12 +28065,13 @@
   "source_url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "879fb8f39198168b",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $288 + Free Shipping",
-  "url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28065,7 +28083,8 @@
   "source_url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6a3ae3e929bc79a1",
@@ -28086,7 +28105,7 @@
  {
   "id": "580836c687e889a3",
   "title": "DJI Osmo Action 4 Waterproof Action Camera Bundle $289.98 shipped",
-  "url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28098,12 +28117,13 @@
   "source_url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e19f8941efbd1320",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $316.80 + Free Shipping",
-  "url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28115,7 +28135,8 @@
   "source_url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "17dc79747cec5338",
@@ -28136,7 +28157,7 @@
  {
   "id": "0f79a9d0b066246e",
   "title": "(Certified Refurbished) DJI Air 3S Drone w/ RC-N3 Controller $799.20 + Free Shipping",
-  "url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28148,12 +28169,13 @@
   "source_url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b83285bcf34caa3",
   "title": "DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera $198",
-  "url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28165,12 +28187,13 @@
   "source_url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e144f43c57fffd3a",
   "title": "DJI Osmo 360 Waterproof 8K 360° Action Camera Standard Combo w/ 105GB Built-in Storage $285 + Free Shipping",
-  "url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28182,7 +28205,8 @@
   "source_url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0e2f4dd2fce7e103",
@@ -33890,11 +33914,11 @@
   "pct": null,
   "price": 599.99,
   "found_at": "2026-11-04T11:44:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "499fda72edd40b11",
@@ -33908,11 +33932,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-04T11:44:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+51mm+Fenix+8+Smartwatch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fdbcb52e94c9b2e6",
@@ -33960,11 +33984,11 @@
   "pct": null,
   "price": 699.99,
   "found_at": "2026-11-04T11:44:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20088267-garmin-fenix-8-amoled-slate-gray-black-51mm-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+Slate+Gray+Black+51mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a3ebf11896c7157b",
@@ -33978,11 +34002,11 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-04T11:44:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20051241-garmin-edge-840-solar-cycling-computer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+840+Solar+Cycling+Computer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cd11ebe07696911b",
@@ -34086,11 +34110,11 @@
   "pct": null,
   "price": 250.0,
   "found_at": "2026-11-04T11:44:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20010492-garmin-edge-540-gps-cycling-computer-250?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+540+GPS+Cycling+Computer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3dca07f4de700745",
@@ -34204,11 +34228,11 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-04T11:44:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19962918-garmin-edge-1040-solar-premium-bike-computer-399-expertvoice-member-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+1040+Solar+Premium+Bike+Computer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d0fdf4de75cdd5d8",
@@ -34353,5 +34377,147 @@
   "store_url": "https://www.amazon.com/gp/product/B0HPM9B9Q4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
   "similar": "https://www.apple.com/us/search/Pre-order%202026%20MacBook%20Pro%2016.3%20PROLED%20XDR%20OLED%20Touch%20Apple%20M5%20Pro%20Laptop"
+ },
+ {
+  "id": "8390f1728c8a62d6",
+  "title": "$66.30* | 1.67-Oz Marc Jacobs Daisy Murakami Limited Edition Eau de Parfum at Amazon",
+  "url": "https://slickdeals.net/f/20254176-66-30-1-67-oz-marc-jacobs-daisy-murakami-limited-edition-eau-de-parfum-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 66.3,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "208b53c245edc783",
+  "title": "Ray-Ban Unisex Sunglasses RB4420 - Black, 65mm. Free Shipping. $79.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Unisex+Sunglasses+RB4420+-+Black+65mm.+.",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglass Hut Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19511103-ray-ban-unisex-sunglasses-rb4420-black-65mm-free-shipping-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Unisex+Sunglasses+RB4420+-+Black+65mm.+.",
+  "exact": false
+ },
+ {
+  "id": "77a8905da1924c21",
+  "title": "Earn $20 Macy’s Star Rewards for every $100 spent - Sonos Products Included",
+  "url": "https://www.google.com/search?tbm=shop&q=Earn",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Sunglass Hut Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.0,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19475376-earn-20-macy-s-star-rewards-for-every-100-spent-sonos-products-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Earn",
+  "exact": false
+ },
+ {
+  "id": "a89841286d173103",
+  "title": "Select Ray-Ban Stories Smart Glasses (Wayfarer or Meteor) $199.99 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Ray-Ban+Stories+Smart+Glasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglass Hut Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16970803-select-ray-ban-stories-smart-glasses-wayfarer-or-meteor-199-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Select+Ray-Ban+Stories+Smart+Glasses",
+  "exact": false
+ },
+ {
+  "id": "cd10797a73381edf",
+  "title": "G-Shock GBX100-7 46mm Digital Watch - $120 + Free S&H at Macy's",
+  "url": "https://www.macys.com/shop/featured/G-Shock%20GBX100-7%2046mm%20Digital%20Watch%20-",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Sunglass Hut Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 120.0,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16943689-g-shock-gbx100-7-46mm-digital-watch-120-free-s-h-at-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/G-Shock%20GBX100-7%2046mm%20Digital%20Watch%20-",
+  "exact": false
+ },
+ {
+  "id": "a26676bf33de7cee",
+  "title": "G-Shock GBD200UU-9 46mm Digital Watch - $112.50 + Free S&H at Macy's",
+  "url": "https://www.macys.com/shop/featured/G-Shock%20GBD200UU-9%2046mm%20Digital%20Watch%20-",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Sunglass Hut Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 112.5,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16943674-g-shock-gbd200uu-9-46mm-digital-watch-112-50-free-s-h-at-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/G-Shock%20GBD200UU-9%2046mm%20Digital%20Watch%20-",
+  "exact": false
+ },
+ {
+  "id": "77603c36d2381398",
+  "title": "G-Shock DW-H5600 44.5mm Digital Watch - $224.25 + Free S&H at Macy's",
+  "url": "https://www.macys.com/shop/featured/G-Shock%20DW-H5600%2044.5mm%20Digital%20Watch%20-",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Sunglass Hut Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 224.25,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16943659-g-shock-dw-h5600-44-5mm-digital-watch-224-25-free-s-h-at-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/G-Shock%20DW-H5600%2044.5mm%20Digital%20Watch%20-",
+  "exact": false
+ },
+ {
+  "id": "147d53b759b67016",
+  "title": "Sunglasses Hut - Up to 50% off - Bright Friday + Discover CB bonus 20% Off Gift Card",
+  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Hut+-+Up+to+50+off+-+Bright+Friday+%2B+Discover+CB+bonus+20+Off+Gift+Ca",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglass Hut Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 50,
+  "price": null,
+  "found_at": "2026-11-04T11:53:27Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14600414-sunglasses-hut-up-to-50-off-bright-friday-discover-cb-bonus-20-off-gift-card?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Sunglasses+Hut+-+Up+to+50+off+-+Bright+Friday+%2B+Discover+CB+bonus+20+Off+Gift+Ca",
+  "exact": false
  }
 ]
