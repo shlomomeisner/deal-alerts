@@ -867,7 +867,8 @@
   "source_url": "https://slickdeals.net/f/20246190-infiixso-standard-mulberry-silk-pillowcase-w-zipper-light-grey-3-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Infiixso+20+x26+Mulberry+Soft+Silk+Pillow+Case+w+Zipper",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:35Z"
  },
  {
   "id": "f34f29d112d340a8",
@@ -884,7 +885,8 @@
   "source_url": "https://slickdeals.net/f/20248839-used-dji-neo-mini-drone-with-4k-uhd-camera-69-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:36Z"
  },
  {
   "id": "f94be75178e91b7b",
@@ -900,7 +902,8 @@
   "found_at": "2026-11-03T14:10:47Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "d5c4140715231d10",
@@ -918,7 +921,8 @@
   "source_url": "https://www.dealnews.com/lululemon-Womens-Hotty-Hot-2-5-High-Rise-Lined-Shorts-for-29-free-shipping/22342008.html?iref=rss",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Hotty+Hot+2.5+High-Rise+Lined+Shorts+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "9436dc5c6d184bee",
@@ -936,7 +940,8 @@
   "source_url": "https://www.dealnews.com/lululemon-Underwear-Specials-for-From-14-multipacks-from-39-free-shipping/22341987.html?iref=rss",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Underwear+Specials+for+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "eff7e3fc7b3dbfc2",
@@ -952,7 +957,8 @@
   "found_at": "2026-11-03T14:10:47Z",
   "source_url": "https://camelcamelcamel.com/product/B0F8374PX3",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Belkin+Eco+USB-C+to+USB-C+Cabl...Book+iPad+Pro+%26+More+-+White+-+down+11.12"
+  "similar": "https://www.google.com/search?tbm=shop&q=Belkin+Eco+USB-C+to+USB-C+Cabl...Book+iPad+Pro+%26+More+-+White+-+down+11.12",
+  "checked_at": "2026-11-04T11:56:38Z"
  },
  {
   "id": "bca79685452bcb52",
@@ -973,7 +979,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
+  "checked_at": "2026-11-04T11:56:40Z"
  },
  {
   "id": "f7ea776183029e1d",
@@ -998,7 +1005,8 @@
    "TYO"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-04T11:56:41Z"
  },
  {
   "id": "5297d01d77837196",
@@ -1016,7 +1024,8 @@
   "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:43Z"
  },
  {
   "id": "579e6bf49e7c480f",
@@ -1032,7 +1041,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T11:56:44Z"
  },
  {
   "id": "175c898d2f368cb8",
@@ -1048,7 +1058,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T11:56:46Z"
  },
  {
   "id": "977d0940fe638649",
@@ -1066,7 +1077,8 @@
   "source_url": "https://slickdeals.net/f/20049954-guilty-intense-by-gucci-for-women-3-oz-edp-spray-93-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Guilty+Intense+by+Gucci+for+Women+-+3+oz+EDP+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T11:56:48Z"
  },
  {
   "id": "267c46fa204f321a",
@@ -1082,7 +1094,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T12:05:41Z"
  },
  {
   "id": "9bf7e3a5f06b4218",
@@ -1098,7 +1111,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T12:05:42Z"
  },
  {
   "id": "184f5627df8fb08a",
@@ -27636,7 +27650,7 @@
  {
   "id": "72a906f4d92d54f1",
   "title": "(Refurb/Used) DJI Avata 2 Fly Smart Combo FPV Drone with 4K Camera Includes Goggles N3 RC $499.02",
-  "url": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
+  "url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: DJI deal",
@@ -27649,8 +27663,7 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC"
  },
  {
   "id": "17ddc3509e84b673",
@@ -28161,7 +28174,7 @@
  {
   "id": "4b83285bcf34caa3",
   "title": "DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera $198",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
+  "url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28173,13 +28186,12 @@
   "source_url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e144f43c57fffd3a",
   "title": "DJI Osmo 360 Waterproof 8K 360° Action Camera Standard Combo w/ 105GB Built-in Storage $285 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
+  "url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28191,8 +28203,7 @@
   "source_url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0e2f4dd2fce7e103",
