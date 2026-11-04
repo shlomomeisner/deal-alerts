@@ -1094,7 +1094,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T12:05:41Z"
  },
  {
   "id": "9bf7e3a5f06b4218",
@@ -1110,7 +1111,8 @@
   "found_at": "2026-11-03T14:13:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T12:05:42Z"
  },
  {
   "id": "184f5627df8fb08a",
@@ -27648,7 +27650,7 @@
  {
   "id": "72a906f4d92d54f1",
   "title": "(Refurb/Used) DJI Avata 2 Fly Smart Combo FPV Drone with 4K Camera Includes Goggles N3 RC $499.02",
-  "url": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
+  "url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: DJI deal",
@@ -27661,13 +27663,12 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC"
  },
  {
   "id": "17ddc3509e84b673",
   "title": "DJI Air 3S Fly More Combo (RC-N3), Used Drone with 1\" CMOS Wide-Angle & Medium Tele Camera $954.28",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
+  "url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27679,13 +27680,12 @@
   "source_url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "cee741fc605a0b67",
   "title": "DJI Mini 5 Pro 4k Camera Drone RC2 Fly More Combo ~$773.50 & More + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
+  "url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27697,8 +27697,7 @@
   "source_url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c5f277b7031d3732",
@@ -28175,7 +28174,7 @@
  {
   "id": "4b83285bcf34caa3",
   "title": "DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera $198",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
+  "url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28187,13 +28186,12 @@
   "source_url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e144f43c57fffd3a",
   "title": "DJI Osmo 360 Waterproof 8K 360° Action Camera Standard Combo w/ 105GB Built-in Storage $285 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
+  "url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28205,8 +28203,7 @@
   "source_url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0e2f4dd2fce7e103",
@@ -34406,11 +34403,11 @@
   "pct": null,
   "price": 79.99,
   "found_at": "2026-11-04T11:53:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19511103-ray-ban-unisex-sunglasses-rb4420-black-65mm-free-shipping-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Unisex+Sunglasses+RB4420+-+Black+65mm.+.",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77a8905da1924c21",
@@ -34424,11 +34421,11 @@
   "pct": null,
   "price": 20.0,
   "found_at": "2026-11-04T11:53:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19475376-earn-20-macy-s-star-rewards-for-every-100-spent-sonos-products-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Earn",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a89841286d173103",
@@ -34442,11 +34439,11 @@
   "pct": null,
   "price": 199.99,
   "found_at": "2026-11-04T11:53:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16970803-select-ray-ban-stories-smart-glasses-wayfarer-or-meteor-199-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Ray-Ban+Stories+Smart+Glasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cd10797a73381edf",
@@ -34514,10 +34511,202 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-11-04T11:53:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14600414-sunglasses-hut-up-to-50-off-bright-friday-discover-cb-bonus-20-off-gift-card?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sunglasses+Hut+-+Up+to+50+off+-+Bright+Friday+%2B+Discover+CB+bonus+20+Off+Gift+Ca",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "f4662e51f17d541e",
+  "title": "Avalon Waterways 7-Night Budapest to Romania Danube River Cruise for From $8,402 for 2",
+  "url": "https://www.google.com/search?tbm=shop&q=Avalon+Waterways+7-Night+Budapest+to+Romania+Danube+River+Cruise+for+From",
+  "why": "",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8402.0,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Avalon-Waterways-7-Night-Budapest-to-Romania-Danube-River-Cruise-for-From-8-402-for-2/22342110.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Avalon+Waterways+7-Night+Budapest+to+Romania+Danube+River+Cruise+for+From",
   "exact": false
+ },
+ {
+  "id": "5e6fa6c4a27b2491",
+  "title": "3.3 fl. oz. Givenchy Pi Men's Eau De Toilette Spray $33 + Free S&H on $69+",
+  "url": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 33.0,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19808352-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-free-s-h-on-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray",
+  "exact": false
+ },
+ {
+  "id": "6b566b56b3ae3015",
+  "title": "Designer, Niche, and Middle Eastern Fragrances at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Designer+Niche+and+Middle+Eastern+Fragrances",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19507296-designer-niche-and-middle-eastern-fragrances-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Designer+Niche+and+Middle+Eastern+Fragrances",
+  "exact": false
+ },
+ {
+  "id": "de3ca488818de425",
+  "title": "Givenchy Gentleman Reserve Privee by Givenchy for Men - 3.3 oz EDP Spray $67.49",
+  "url": "https://www.google.com/search?tbm=shop&q=Givenchy+Gentleman+Reserve+Privee+by+Givenchy+for+Men+-+3.3+oz+EDP+Spray",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 67.49,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19481430-givenchy-gentleman-reserve-privee-by-givenchy-for-men-3-3-oz-edp-spray-67-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Givenchy+Gentleman+Reserve+Privee+by+Givenchy+for+Men+-+3.3+oz+EDP+Spray",
+  "exact": false
+ },
+ {
+  "id": "55fbfeec0768b45c",
+  "title": "Givenchy GENTLEMAN BOISEE Eau De Parfum Spray for Men, 6.7 Ounce $106.75",
+  "url": "https://www.amazon.com/s?k=Givenchy+GENTLEMAN+BOISEE+Eau+De+Parfum+Spray+for+Men+6.7+Ounce",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 106.75,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19401198-givenchy-gentleman-boisee-eau-de-parfum-spray-for-men-6-7-ounce-106-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Givenchy+GENTLEMAN+BOISEE+Eau+De+Parfum+Spray+for+Men+6.7+Ounce",
+  "exact": false
+ },
+ {
+  "id": "3be59ca9359e3bac",
+  "title": "3.0-oz Gucci Guilty Pour Homme EDT $45, 6.7oz Versace Pour Homme EDT $60 & More ~ Costco",
+  "url": "https://www.costco.com/CatalogSearch?keyword=3.0-oz+Gucci+Guilty+Pour+Homme+EDT",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 45.0,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19263892-3-0-oz-gucci-guilty-pour-homme-edt-45-6-7oz-versace-pour-homme-edt-60-more-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=3.0-oz+Gucci+Guilty+Pour+Homme+EDT",
+  "exact": false
+ },
+ {
+  "id": "02247d1a7034843b",
+  "title": "Macy's: Givenchy Gold/Silver Tone Crystal Stone Bracelet $29 + Free pickup",
+  "url": "https://www.macys.com/shop/featured/Macy%27s%20Givenchy%20Gold%20Silver%20Tone%20Crystal%20Stone%20Bracelet",
+  "why": "Givenchy 50% off",
+  "category": "fashion",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 29.0,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19170586-macy-s-givenchy-gold-silver-tone-crystal-stone-bracelet-29-free-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macy%27s%20Givenchy%20Gold%20Silver%20Tone%20Crystal%20Stone%20Bracelet",
+  "exact": false
+ },
+ {
+  "id": "6185e3ec3a4f1b33",
+  "title": "Costco: 3-oz Gucci Guilty Pour Homme Eau de Toilette $45 & More",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+3-oz+Gucci+Guilty+Pour+Homme+Eau+de+Toilette",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 45.0,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19165225-costco-3-oz-gucci-guilty-pour-homme-eau-de-toilette-45-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+3-oz+Gucci+Guilty+Pour+Homme+Eau+de+Toilette",
+  "exact": false
+ },
+ {
+  "id": "a2a7b0e7ea4ce8b0",
+  "title": "$79.95: 3.4-Oz Givenchy Gentleman Society Eau De Parfum Spray at Amazon",
+  "url": "https://slickdeals.net/f/19017643-79-95-3-4-oz-givenchy-gentleman-society-eau-de-parfum-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "Eau De Parfum 39% off",
+  "category": "fragrance",
+  "source": "Slickdeals: Givenchy",
+  "urgent": false,
+  "hot": true,
+  "pct": 39,
+  "price": 79.95,
+  "found_at": "2026-11-04T12:02:22Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "778e0f221e378e5f",
+  "title": "Tech21 EvoLite Case for iPhone...rotection | MagSafe Compatible - down 9.88% ($3.95) to $36.04 from $39.99",
+  "url": "https://www.amazon.com/dp/B0FLF9ZLN2",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3.95,
+  "found_at": "2026-11-04T12:02:22Z",
+  "source_url": "https://camelcamelcamel.com/product/B0FLF9ZLN2",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Tech21+EvoLite+Case+for+iPhone...rotection+MagSafe+Compatible+-+down+9.88"
+ },
+ {
+  "id": "17f2ea8b5368c5ac",
+  "title": "VRS Design Modern for Apple Ai...ith AirPods Pro 3 (Sand Stone) - down 7.56% ($3.70) to $45.24 from $48.94",
+  "url": "https://www.amazon.com/dp/B0FP4D6CY1",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3.7,
+  "found_at": "2026-11-04T12:02:22Z",
+  "source_url": "https://camelcamelcamel.com/product/B0FP4D6CY1",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/VRS%20Design%20Modern%20for%20Apple%20Ai...ith%20AirPods%20Pro%203%20-%20down%207.56"
  }
 ]
