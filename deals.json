@@ -578,7 +578,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-04T06:42:27Z"
  },
  {
   "id": "6f8f190fe47ce8ba",
@@ -596,7 +597,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNU2NhSlIwWHFZdzNqdkMyWmxSa2lHMFJESmx1NmxYbm96a2JUU09GWmgybUx4Zzl4dXdsSGJYYUNPbjhlY0JVS1pZNm1vdzVlQW85V3ZfekZaWVEyRVJBZkZqbEp4M0dVb2JiSXhubFZZcW1BNExITE1qMktYcjBvNVV5N0hneTJpS2tKU2VfT1lHQ0RlZzZFdjE0aTBnM1VCZzdtV3RKOUtwVDlkTy1xSjhoZDZ3a3N4enhiemFGd0dTdGZVbmNjOVNZQ1JNQjB4S1o4UVJxNW1wZG1GckNWVUZOOFdhNVRtcnhrRU5oNVp2THFCdnJZbzlPbXA3MDN3Y1p3azM5V2tGVEhxcklyNlJUbFBoRlBldHc?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Alaska%20Air%3A%20Seattle%20/%20Las%20Vegas%20/%20Los%20Angeles%20/%20New%20York%20/%20Phoenix%20/%20Portland%20/%20Sacramento%20/%20San%20Diego%20/%20San%20Francisco%20%E2%80%93%20Tokyo%20/%20Osaka%2C%20Japan.%20Starting",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-04T06:42:27Z"
  },
  {
   "id": "4fe2608a2ca916a6",
@@ -612,7 +614,8 @@
   "found_at": "2026-11-03T12:22:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T06:42:29Z"
  },
  {
   "id": "088cf763b451e3fd",
@@ -628,7 +631,8 @@
   "found_at": "2026-11-03T12:22:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T06:51:04Z"
  },
  {
   "id": "9a421bf84a3723ee",
@@ -646,7 +650,8 @@
   "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:05Z"
  },
  {
   "id": "ae530bdff6b6c95e",
@@ -662,7 +667,8 @@
   "found_at": "2026-11-03T12:22:40Z",
   "source_url": "https://camelcamelcamel.com/product/B00AROSQQY",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Instructional+Coaches+and+the+...or+School-Building+Improvement+-+down+12.48"
+  "similar": "https://www.google.com/search?tbm=shop&q=Instructional+Coaches+and+the+...or+School-Building+Improvement+-+down+12.48",
+  "checked_at": "2026-11-04T06:51:07Z"
  },
  {
   "id": "c8dff3b5da3170af",
@@ -680,7 +686,8 @@
   "source_url": "https://9to5toys.com/2026/11/02/app-store-deals-kingdom-rush-frontiers-td/",
   "store": "Link",
   "similar": "https://link.amazon/B0bgl7cnh",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:07Z"
  },
  {
   "id": "901b0078c65130e8",
@@ -698,7 +705,8 @@
   "source_url": "https://9to5toys.com/2026/11/01/top-10-early-black-friday-deals-now-live-2/",
   "store": "Link",
   "similar": "https://link.amazon/B0da2waxL",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:07Z"
  },
  {
   "id": "9d5cb69817e14a1c",
@@ -715,7 +723,8 @@
   "source_url": "https://slickdeals.net/f/20239680-open-box-dji-osmo-mobile-7-gimbal-stabilizer-for-iphone-android-built-in-tripod-portable-stabilizer-33-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Osmo+Mobile+7+Gimbal+Stabilizer+for+iPhone+Android+Built-in+Tripod+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:09Z"
  },
  {
   "id": "9b638ebea21b129d",
@@ -25635,7 +25644,7 @@
  {
   "id": "b18c76a129319cf5",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
+  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -25647,13 +25656,12 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e9cddb35fee50f2e",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
+  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -25665,8 +25673,7 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d3f892c1f45ce7d3",
@@ -25737,7 +25744,7 @@
  {
   "id": "b5e88b50288dc778",
   "title": "Bose QuietComfort Ultra Headphones (2nd Gen) - Refurbished $279 Various Colors",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
+  "url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -25749,13 +25756,12 @@
   "source_url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "93ed17e4cecbb765",
   "title": "Comply Premium Memory Foam Replacement Ear Pads for Bose QuietComfort Ultra Gen 1 & 2 Headphones | $4.99 w/ Free Ship from Woot using Prime",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
+  "url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -25767,8 +25773,7 @@
   "source_url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "90ced29374ebd560",
@@ -25858,7 +25863,7 @@
  {
   "id": "576c4c689980bd02",
   "title": "[WTS] BNIB Blockade, Fzotic, La Ree (bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=BNIB+Blockade+Fzotic+La+Ree",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xn93ej/wts_bnib_blockade_fzotic_la_ree_bottle/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -25870,8 +25875,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xn93ej/wts_bnib_blockade_fzotic_la_ree_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=BNIB+Blockade+Fzotic+La+Ree",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2676f2e71cd38f1d",
@@ -26002,7 +26006,7 @@
  {
   "id": "bb7a47bdb03cf13e",
   "title": "XBOX Series X: Gaming Console All Digital: 1TB Storage, Wi-Fi 5, USB-C, Includes XBOX Wireless Controller - Robot WhiteXbox Series X Digital $599.99",
-  "url": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
+  "url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -26014,13 +26018,12 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dafa4177b0196ad0",
   "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
+  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -26032,8 +26035,7 @@
   "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dc69877372ee70c5",
@@ -26072,7 +26074,7 @@
  {
   "id": "5643b3a09762b433",
   "title": "Marvel Wolverine Game + Wolverine Limited Edition PS5 DualSense Controller for $142.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
+  "url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DualSense deal",
@@ -26084,8 +26086,7 @@
   "source_url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8b935d5d8c00b91c",
@@ -26173,7 +26174,7 @@
  {
   "id": "92a27d64a445323a",
   "title": "LG Partners Store 55\" Class LG OLED evo AI C6 4K Smart TV 2026 $809.99 (plus tax)",
-  "url": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
+  "url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: LG OLED deal",
@@ -26185,8 +26186,7 @@
   "source_url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7d8cc6c946f7752c",
@@ -26609,7 +26609,7 @@
  {
   "id": "363eb23e1d7d37c1",
   "title": "United: Newark – Santo Domingo, Dominican Republic. $311 (Basic Economy) / $371 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDRVdScgUSA1NEURoaEgoyMDI2LTEyLTEzagUSA1NEUXIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2w2VFZSd0dDN3JEY1Q0clNUYUhRV3h0ZU1VSE1FOFNFMjJFVVhzcVJKUHFUdEczekF2NzZFQjBfSU1RRDV5aTlTVENPOU9Yb1d3YU82WjZfc19TYURsWnpfeGM2SnU5bmJvaGRqbzE5QnNzaS1xTDY1aEgtUTB5c2dPZy1iajVwSFFkZ2toZnVwTE1XMHNtVWVDSlVfaEVQUDJ5MzZOT1daaFdFUWdFSW1oRHBiQ1I0QXhKeUxjNlFBMk5uaS1oREZ4NDJOdENqSExzclVvcVFMekRyeFJhM1dTUWVfWVJ5VE5HVQ?oc=5",
   "why": "🌴 NEWARK → Santo Domingo",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -26629,13 +26629,12 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20SDQ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "f8754e3f8baaa9f0",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -26655,13 +26654,12 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
  },
  {
   "id": "8fd63b50b1674359",
   "title": "Round Trip New York to Aruba $351 Nonstop Airfares on JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA0FVQRoaEgoyMDI2LTExLTE0agUSA0FVQXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -26681,8 +26679,7 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
  },
  {
   "id": "a0a2249bc0dbd49e",
