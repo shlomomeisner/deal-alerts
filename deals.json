@@ -112,7 +112,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-04T06:42:27Z"
  },
  {
   "id": "6f8f190fe47ce8ba",
@@ -130,7 +131,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNU2NhSlIwWHFZdzNqdkMyWmxSa2lHMFJESmx1NmxYbm96a2JUU09GWmgybUx4Zzl4dXdsSGJYYUNPbjhlY0JVS1pZNm1vdzVlQW85V3ZfekZaWVEyRVJBZkZqbEp4M0dVb2JiSXhubFZZcW1BNExITE1qMktYcjBvNVV5N0hneTJpS2tKU2VfT1lHQ0RlZzZFdjE0aTBnM1VCZzdtV3RKOUtwVDlkTy1xSjhoZDZ3a3N4enhiemFGd0dTdGZVbmNjOVNZQ1JNQjB4S1o4UVJxNW1wZG1GckNWVUZOOFdhNVRtcnhrRU5oNVp2THFCdnJZbzlPbXA3MDN3Y1p3azM5V2tGVEhxcklyNlJUbFBoRlBldHc?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Alaska%20Air%3A%20Seattle%20/%20Las%20Vegas%20/%20Los%20Angeles%20/%20New%20York%20/%20Phoenix%20/%20Portland%20/%20Sacramento%20/%20San%20Diego%20/%20San%20Francisco%20%E2%80%93%20Tokyo%20/%20Osaka%2C%20Japan.%20Starting",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-04T06:42:27Z"
  },
  {
   "id": "4fe2608a2ca916a6",
@@ -146,7 +148,8 @@
   "found_at": "2026-11-03T12:22:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T06:42:29Z"
  },
  {
   "id": "088cf763b451e3fd",
@@ -25169,7 +25172,7 @@
  {
   "id": "b18c76a129319cf5",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
+  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -25181,13 +25184,12 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e9cddb35fee50f2e",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
+  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -25199,8 +25201,7 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d3f892c1f45ce7d3",
@@ -25390,7 +25391,7 @@
  {
   "id": "576c4c689980bd02",
   "title": "[WTS] BNIB Blockade, Fzotic, La Ree (bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=BNIB+Blockade+Fzotic+La+Ree",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xn93ej/wts_bnib_blockade_fzotic_la_ree_bottle/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -25402,8 +25403,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xn93ej/wts_bnib_blockade_fzotic_la_ree_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=BNIB+Blockade+Fzotic+La+Ree",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2676f2e71cd38f1d",
@@ -25534,7 +25534,7 @@
  {
   "id": "bb7a47bdb03cf13e",
   "title": "XBOX Series X: Gaming Console All Digital: 1TB Storage, Wi-Fi 5, USB-C, Includes XBOX Wireless Controller - Robot WhiteXbox Series X Digital $599.99",
-  "url": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
+  "url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -25546,13 +25546,12 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dafa4177b0196ad0",
   "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
+  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -25564,8 +25563,7 @@
   "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dc69877372ee70c5",
@@ -25604,7 +25602,7 @@
  {
   "id": "5643b3a09762b433",
   "title": "Marvel Wolverine Game + Wolverine Limited Edition PS5 DualSense Controller for $142.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
+  "url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DualSense deal",
@@ -25616,8 +25614,7 @@
   "source_url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8b935d5d8c00b91c",
@@ -25705,7 +25702,7 @@
  {
   "id": "92a27d64a445323a",
   "title": "LG Partners Store 55\" Class LG OLED evo AI C6 4K Smart TV 2026 $809.99 (plus tax)",
-  "url": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
+  "url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: LG OLED deal",
@@ -25717,8 +25714,7 @@
   "source_url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7d8cc6c946f7752c",
@@ -25845,7 +25841,7 @@
  {
   "id": "5363dbf2de9640a2",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
+  "url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dyson",
@@ -25857,8 +25853,7 @@
   "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c1979fa8e67f2738",
@@ -26141,7 +26136,7 @@
  {
   "id": "363eb23e1d7d37c1",
   "title": "United: Newark – Santo Domingo, Dominican Republic. $311 (Basic Economy) / $371 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDRVdScgUSA1NEURoaEgoyMDI2LTEyLTEzagUSA1NEUXIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2w2VFZSd0dDN3JEY1Q0clNUYUhRV3h0ZU1VSE1FOFNFMjJFVVhzcVJKUHFUdEczekF2NzZFQjBfSU1RRDV5aTlTVENPOU9Yb1d3YU82WjZfc19TYURsWnpfeGM2SnU5bmJvaGRqbzE5QnNzaS1xTDY1aEgtUTB5c2dPZy1iajVwSFFkZ2toZnVwTE1XMHNtVWVDSlVfaEVQUDJ5MzZOT1daaFdFUWdFSW1oRHBiQ1I0QXhKeUxjNlFBMk5uaS1oREZ4NDJOdENqSExzclVvcVFMekRyeFJhM1dTUWVfWVJ5VE5HVQ?oc=5",
   "why": "🌴 NEWARK → Santo Domingo",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -26161,13 +26156,12 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20SDQ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true,
-  "link_tried3": true
+  "route_fixed2": true
  },
  {
   "id": "f8754e3f8baaa9f0",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -26187,13 +26181,12 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
  },
  {
   "id": "8fd63b50b1674359",
   "title": "Round Trip New York to Aruba $351 Nonstop Airfares on JetBlue BE (Travel November - February 2027)",
-  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA0FVQRoaEgoyMDI2LTExLTE0agUSA0FVQXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -26213,13 +26206,12 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
  },
  {
   "id": "a0a2249bc0dbd49e",
   "title": "This is your rare chance to get a Garmin smartwatch for under $170 - 9to5Google",
-  "url": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -26231,8 +26223,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4368ce0f878f31a7",
@@ -26255,7 +26246,7 @@
  {
   "id": "489820e1648fa02c",
   "title": "[WTS] Ton of bangers here!!! (Bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=Ton+of+bangers+here",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xnbbtb/wts_ton_of_bangers_here_bottle/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -26267,8 +26258,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xnbbtb/wts_ton_of_bangers_here_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ton+of+bangers+here",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "acb932b7c0887269",
@@ -26361,7 +26351,7 @@
  {
   "id": "f370138ad676fad7",
   "title": "Frederique Constant Men's Watch: Slimline Power Reserve (Silver Tone Dial) $999",
-  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+Slimline+Power+Reserve",
+  "url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26373,13 +26363,12 @@
   "source_url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+Slimline+Power+Reserve",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a5c41220b4865c73",
   "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
+  "url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26391,13 +26380,12 @@
   "source_url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3ce191795bf97bd1",
   "title": "Frederique Constant: Men's Quartz Grey Dial $275, Slimline Small Seconds Quartz Watch $349 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Quartz+Grey+Dial",
+  "url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26409,13 +26397,12 @@
   "source_url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Quartz+Grey+Dial",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9f19bf3d5ca9508f",
   "title": "Frederique Constant Quartz Grey Dial $309.95, Classics Automatic Blue Dial Men's Watch $495.95 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Quartz+Grey+Dial",
+  "url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26427,13 +26414,12 @@
   "source_url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Quartz+Grey+Dial",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5a59460e116f2306",
   "title": "FREDERIQUE CONSTANT - Automatic Silver Dial Ladies Watch - $339.99 after coupon - Jomashop **FREE SHIPPING**",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+FREDERIQUE+CONSTANT+-+Automatic+Silver+Dial+Ladies+Watch+-",
+  "url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26445,13 +26431,12 @@
   "source_url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+FREDERIQUE+CONSTANT+-+Automatic+Silver+Dial+Ladies+Watch+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2cfc93e6fa1b6494",
   "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299",
-  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
+  "url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26463,13 +26448,12 @@
   "source_url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "15e6b9cfd596c4c3",
   "title": "Frederique Constant Horological 34mm Quartz Ladies Smartwatch FC-281WH3ER6B $199",
-  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Horological+34mm+Quartz+Ladies+Smartwatch+FC-281WH3ER6B",
+  "url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Frederique Constant",
@@ -26481,13 +26465,12 @@
   "source_url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Horological+34mm+Quartz+Ladies+Smartwatch+FC-281WH3ER6B",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e94c903d2e374d6b",
   "title": "Frederique Constant Watches Sale-Classics Silver Dial Watch $299.99/Horological Quartz Smart Watch $249/Classics Quartz Silver Dial $249 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Watches+-Classics+Silver+Dial+Watch",
+  "url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "Watch 77% off",
   "category": "tech",
   "source": "Slickdeals: Frederique Constant",
@@ -26499,13 +26482,12 @@
   "source_url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Watches+-Classics+Silver+Dial+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "70ebe705c6317f04",
   "title": "TechnoMarine Ocean Manta Chronograph Quartz Men's Watch $66.99, Tissot Mother of Pearl Ladies Watch $149 & More + Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+TechnoMarine+Ocean+Manta+Chronograph+Quartz+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26517,8 +26499,7 @@
   "source_url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+TechnoMarine+Ocean+Manta+Chronograph+Quartz+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d6a381bc8fb55dea",
@@ -34490,7 +34471,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Sapporo%2C%20Japan&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "0e5a58cb178881c3",
@@ -34515,7 +34497,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "efdfa5f039ebd7ce",
@@ -34540,7 +34523,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SJU&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "b3564e2e97a9fbc5",
@@ -34565,12 +34549,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20PLS&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "327f2332a20ed21e",
   "title": "Golden Goose Resources Corp. (GGR) Closes $1.03M First Tranche of Private Placement - TradingView",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYzBPRnJfRlNLZUFjOWpiMy1xLWRaUlE2TG5TVUZqR0xadnFVVHlEYWt1ZkFxa1Zja0lUaUx6N2lJWXA0LW5CR0pHNVN0Yzlwek04YnRySEdNTmJRT0VyRENUMS1iQWRyQ1Fpd3ljXzZfNG5UcHBCaTdrdE1xM0EtbEd5RXA5ZE03NE95U0tXYllMSkdxaWV4RnlKZF9ZY2V5eEwzdEdNMlR2UDRGbGhzQzFwYUxkV1lVUThiRUlteks3dGk0MS1WQk5PZHhiamhhZjFINWdqN0w?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Golden Goose sale",
@@ -34578,6 +34563,367 @@
   "hot": false,
   "pct": null,
   "price": 1.03,
-  "found_at": "2026-11-04T06:33:44Z"
+  "found_at": "2026-11-04T06:33:44Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYzBPRnJfRlNLZUFjOWpiMy1xLWRaUlE2TG5TVUZqR0xadnFVVHlEYWt1ZkFxa1Zja0lUaUx6N2lJWXA0LW5CR0pHNVN0Yzlwek04YnRySEdNTmJRT0VyRENUMS1iQWRyQ1Fpd3ljXzZfNG5UcHBCaTdrdE1xM0EtbEd5RXA5ZE03NE95U0tXYllMSkdxaWV4RnlKZF9ZY2V5eEwzdEdNMlR2UDRGbGhzQzFwYUxkV1lVUThiRUlteks3dGk0MS1WQk5PZHhiamhhZjFINWdqN0w?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
+  "exact": false
+ },
+ {
+  "id": "ae65e015a574f27a",
+  "title": "Citizen’s ‘Elegant and Classy’ Calendar Watch Is Now Nearly 50% Off at Macy’s - Men's Journal",
+  "url": "https://www.google.com/search?tbm=shop&q=Citizen+s+Elegant+and+Classy+Calendar+Watch+Is+Now+Nearly+50+Off+at+Macy+s+-+Men",
+  "why": "Citizen 50% off",
+  "category": "watches",
+  "source": "Google: watch deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": null,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2VnblNWSUNOaHMxdkN2STJzV2kwVU9mN2RMNGllN2E2eEpYVi10UXZRaGNmTVkwSXlON1NkMXltWERmYTd4LTU5Zjh4TVpBYnNjMWFzWFBiX3ctcFViZEw2ZG1jc3BwdzJKSTZYbnJLZVZuNDVjWDdxbTFEaDNOaHBHWGpmQlhQOVoyNnFyVjFDcGxvY2pPTFBnRXlTUndBN2tXdl9uTEhWd0pRZVhVMmVtMXVuS2VPTW5F?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Citizen+s+Elegant+and+Classy+Calendar+Watch+Is+Now+Nearly+50+Off+at+Macy+s+-+Men",
+  "exact": false
+ },
+ {
+  "id": "31655b537d3c7682",
+  "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
+  "why": "Gucci 40% off",
+  "category": "fashion",
+  "source": "Slickdeals: Century 21",
+  "urgent": false,
+  "hot": true,
+  "pct": 40,
+  "price": null,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
+  "exact": false
+ },
+ {
+  "id": "7091ff206d5be99d",
+  "title": "Century 21: 2-Days Only! Take Up to 40% Off TUMI, Valid until 11/15",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+2-Days+Only+Take+Up+to+40+Off+TUMI+Valid+until+11+15",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Century 21",
+  "urgent": false,
+  "hot": false,
+  "pct": 40,
+  "price": null,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13561984-century-21-2-days-only-take-up-to-40-off-tumi-valid-until-11-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Century+21+2-Days+Only+Take+Up+to+40+Off+TUMI+Valid+until+11+15",
+  "exact": false
+ },
+ {
+  "id": "dc4444e1460b684e",
+  "title": "$57.59 | 3.4-Oz Versace Eros Energy Pour Homme Eau de Parfum at Woot!",
+  "url": "https://slickdeals.net/f/20231649-57-59-3-4-oz-versace-eros-energy-pour-homme-eau-de-parfum-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 57.59,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "13a052c75f305aeb",
+  "title": "8.4-Oz Versace Eros Men's Shower Gel $27.38 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 27.38,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
+  "exact": false
+ },
+ {
+  "id": "6d58cbeebd2f65d5",
+  "title": "$72.99* | 6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray at Amazon",
+  "url": "https://slickdeals.net/f/20216013-72-99-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 72.99,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "598778e20fba8e4e",
+  "title": "$59.51* | 3.4-Oz Versace Eros for Men Eau de Parfum Spray at Amazon",
+  "url": "https://slickdeals.net/f/20179803-59-51-3-4-oz-versace-eros-for-men-eau-de-parfum-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.51,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "f4a9b2b49c1d6169",
+  "title": "[NEW] $60.33 | Versace Eros Energy by Versace for Men - 3 Pc Gift Set 3.4oz EDP Spray, 0.33oz EDP Spray (Mini), Trousse at Amazon",
+  "url": "https://slickdeals.net/f/20171217-new-60-33-versace-eros-energy-by-versace-for-men-3-pc-gift-set-3-4oz-edp-spray-0-33oz-edp-spray-mini-trousse-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 60.33,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "0c397b625fbc7a96",
+  "title": "$54.99* | 3.4-Oz Versace Eros Energy Pour Homme Eau de Parfum at Amazon",
+  "url": "https://slickdeals.net/f/20171211-54-99-3-4-oz-versace-eros-energy-pour-homme-eau-de-parfum-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.99,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "2102a6a3dabdf1de",
+  "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 72.85,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
+  "exact": false
+ },
+ {
+  "id": "9668b184d6ce3748",
+  "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.0,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
+  "exact": false
+ },
+ {
+  "id": "551c41e5f4913d89",
+  "title": "Select Accounts: 1.6-Oz Prada Paradoxe Men Eau de Parfum Refillable Spray $59.46 w/ S&S + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 59.46,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
+  "exact": false
+ },
+ {
+  "id": "37217ba910a7a366",
+  "title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 47.36,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
+  "exact": false
+ },
+ {
+  "id": "ab4b3b79f553d4d4",
+  "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.99,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "exact": false
+ },
+ {
+  "id": "357034b15cbae234",
+  "title": "$57.99* | 3.4-Oz Versace Eros Energy Pour Homme Eau de Parfum at Amazon",
+  "url": "https://slickdeals.net/f/19968165-57-99-3-4-oz-versace-eros-energy-pour-homme-eau-de-parfum-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 57.99,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "084305d1ae2f1a14",
+  "title": "$69.99* | 6.7-Oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray at Amazon",
+  "url": "https://slickdeals.net/f/19955034-69-99-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "07522323bac52a64",
+  "title": "$31.99 | Versace Eros for Men 3.4 oz Eau de Toilette Spray at Woot!",
+  "url": "https://slickdeals.net/f/19943643-31-99-versace-eros-for-men-3-4-oz-eau-de-toilette-spray-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 31.99,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "a74c6f59b57c7934",
+  "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
+  "exact": false
+ },
+ {
+  "id": "7193e4f26fe916c6",
+  "title": "[SnS] $38.76 | 4-Pack 0.68-Oz English Laundry Eau de Parfum Collection at Amazon",
+  "url": "https://slickdeals.net/f/19901025-sns-38-76-4-pack-0-68-oz-english-laundry-eau-de-parfum-collection-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 38.76,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "795a37d815159348",
+  "title": "[NEW, SnS] $41.04 | English Laundry Signature Eau de Parfum, 3.4 Fl Oz at Amazon",
+  "url": "https://slickdeals.net/f/19901004-new-sns-41-04-english-laundry-signature-eau-de-parfum-3-4-fl-oz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 41.04,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "e5edc1fb4758ff7b",
+  "title": "[NEW, SnS] $41.04 | English Laundry Oxford Bleu Eau de Parfum, 3.4 Fl Oz at Amazon",
+  "url": "https://slickdeals.net/f/19900602-new-sns-41-04-english-laundry-oxford-bleu-eau-de-parfum-3-4-fl-oz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Versace Eros",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 41.04,
+  "found_at": "2026-11-04T06:39:07Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  }
 ]
