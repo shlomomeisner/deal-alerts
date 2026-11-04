@@ -862,7 +862,8 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T07:53:24Z"
  },
  {
   "id": "41513b3ef3ed3d18",
@@ -879,7 +880,8 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T07:53:25Z"
  },
  {
   "id": "8aa733bd6641b404",
@@ -895,7 +897,8 @@
   "found_at": "2026-11-03T12:31:42Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T07:53:26Z"
  },
  {
   "id": "6f13edb6c69b21cf",
@@ -913,7 +916,8 @@
   "source_url": "https://slickdeals.net/f/20231346-bose-soundlink-plus-portable-bluetooth-speaker-sunset-peach-blue-dusk-179-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Bose+SoundLink+Plus+Portable+Bluetooth+Speaker+Sunset+Peach+Blue+Dusk",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T07:53:28Z"
  },
  {
   "id": "35cde0a3d8bdf63c",
