@@ -1,23 +1,5 @@
 [
  {
-  "id": "a700856e53de4774",
-  "title": "Extra 20-30% off on Hoka & On Running Shoes at Woot!",
-  "url": "https://slickdeals.net/f/20072262-extra-20-30-off-on-hoka-on-running-shoes-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Web search: Hoka sale",
-  "urgent": false,
-  "hot": false,
-  "pct": 30,
-  "price": null,
-  "found_at": "2026-11-03T20:32:09Z",
-  "source_url": "https://slickdeals.net/f/20072262-extra-20-30-off-on-hoka-on-running-shoes-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20-30+off+on+Hoka+%26+On+Running+Shoes",
-  "exact": false,
-  "checked_at": "2026-11-04T18:32:25Z"
- },
- {
   "id": "b74684766dc490ac",
   "title": "Hoka Women's Mach 6 Running Shoe (Oyster Mushroom Truffle Salt, Limited Sizes: 9.5, 10, 11) $70 + Free Shipping",
   "url": "https://slickdeals.net/f/20051151-hoka-women-s-mach-6-running-shoe-oyster-mushroom-truffle-salt-limited-sizes-9-5-10-11-70-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -731,7 +713,8 @@
   "source_url": "https://slickdeals.net/f/20219658-3-in-1-mag-safe-wireless-charger-stand-for-iphone-apple-watch-airpods-adjustable-blue-ambient-light-15w-magnetic-charging-station-17-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=3+in+1+Mag-Safe+Wireless+Charger+Stand+for+iPhone+Apple+Watch+AirPods+Adjustable",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:12Z"
  },
  {
   "id": "0c9efd3b613f6a56",
@@ -749,7 +732,8 @@
   "source_url": "https://slickdeals.net/f/20218311-apple-airpods-max-2-wireless-over-ear-headphones-various-colors-449-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirPods+Max+2+Wireless+Over-Ear+Headphones+various+colors",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:14Z"
  },
  {
   "id": "ae6e3961453f489a",
@@ -765,7 +749,8 @@
   "found_at": "2026-11-03T21:41:02Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T18:56:16Z"
  },
  {
   "id": "f43f13e352c80404",
@@ -783,7 +768,8 @@
   "source_url": "https://slickdeals.net/f/20212419-good-refurbished-apple-airpods-pro-3-wireless-active-noise-canceling-earbuds-mfhp4ll-a-123-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20Wireless%20Active%20Noise%20Canceling%20Earbuds",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:18Z"
  },
  {
   "id": "7314b579a0a9c915",
@@ -799,7 +785,8 @@
   "found_at": "2026-11-03T21:41:02Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T18:56:20Z"
  },
  {
   "id": "330ee2bf704d7a09",
@@ -815,7 +802,8 @@
   "found_at": "2026-11-03T21:50:04Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T18:56:21Z"
  },
  {
   "id": "8fcd7dbab18fafd3",
@@ -832,7 +820,8 @@
   "source_url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:23Z"
  },
  {
   "id": "34a28d4c3cd01db4",
@@ -848,7 +837,8 @@
   "found_at": "2026-11-03T21:53:03Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T18:56:24Z"
  },
  {
   "id": "85576da6dc10c99c",
@@ -863,7 +853,8 @@
   "price": 350.0,
   "found_at": "2026-11-03T21:53:08Z",
   "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea57c39fc94e568914ee57d52ea59c&url=https%3a%2f%2fwww.gadgetreview.com%2fsonys-playstation-monitor-has-a-dualsense-charging-hook-worth-350&c=12354013285295430656&mkt=en-us",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:24Z"
  },
  {
   "id": "4487d43d29d28cb1",
@@ -881,7 +872,8 @@
   "source_url": "https://slickdeals.net/f/20251311-open-box-excellent-48-lg-b6-oled-ai-4k-120hz-smart-webos-tv-2026-552-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=48+LG+B6+OLED+AI+4K+120Hz+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:25Z"
  },
  {
   "id": "50d76c72d383c934",
@@ -898,7 +890,8 @@
   "source_url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:26Z"
  },
  {
   "id": "3de901affc9535ea",
@@ -916,7 +909,8 @@
   "source_url": "https://slickdeals.net/f/20243076-lg-65-class-c5-series-oled-evo-ai-4k-uhd-smart-webos-tv-2025-open-box-from-738?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+65+Class+C5+Series+OLED+evo+AI+4K+UHD+Smart+webOS+TV+Open+Box+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:28Z"
  },
  {
   "id": "65abc3df1307b017",
@@ -934,7 +928,8 @@
   "source_url": "https://slickdeals.net/f/20244657-refurbished-samsung-galaxy-s26-ultra-256gb-unlocked-smartphone-w-1-year-allstate-warranty-687-99-free-s-h-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Samsung+Galaxy+S26+Ultra+256GB+Unlocked+Smartphone+w+1-Year+Allstate+Warranty+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:29Z"
  },
  {
   "id": "f43b5e7a90dc4941",
@@ -952,7 +947,8 @@
   "source_url": "https://slickdeals.net/f/20235855-gku-4k-front-1080p-rear-dual-dash-cam-w-sony-starvis-2-sensor-wifi-6-gps-voice-control-64gb-card-59-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=GKU+4K+Front+%26+1080p+Rear+Dual+Dash+Cam+w+Voice+Control+WiFi+6+%26+GPS",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:30Z"
  },
  {
   "id": "8383e5ddb4e91f67",
@@ -970,7 +966,8 @@
   "source_url": "https://slickdeals.net/f/20149407-1-6-oz-hugo-boss-bottled-absolu-parfum-intense-59-97-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Nordstromrack",
   "similar": "https://www.nordstromrack.com/sr?keyword=1.6-Oz+Hugo+Boss+Bottled+Absolu+Parfum+Intense",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T18:56:32Z"
  },
  {
   "id": "b4634cd1ca5cb581",
@@ -30695,7 +30692,7 @@
  {
   "id": "f86947db85240fac",
   "title": "16\" Multipet Canada Goose Migrator Bird Plush Dog Toy (Gray) $4.25 w/ S&S + Free S&H w/ Prime or $25+",
-  "url": "https://www.google.com/search?tbm=shop&q=16+Multipet+Canada+Goose+Migrator+Bird+Plush+Dog+Toy",
+  "url": "https://slickdeals.net/f/16325515-16-multipet-canada-goose-migrator-bird-plush-dog-toy-gray-4-25-w-s-s-free-s-h-w-prime-or-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Canada Goose sale",
@@ -30707,13 +30704,12 @@
   "source_url": "https://slickdeals.net/f/16325515-16-multipet-canada-goose-migrator-bird-plush-dog-toy-gray-4-25-w-s-s-free-s-h-w-prime-or-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=16+Multipet+Canada+Goose+Migrator+Bird+Plush+Dog+Toy",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f03963329bfd4f9f",
   "title": "Canada Goose - Neiman Marcus ($50 - $750 Gift Card) code GC4YOU",
-  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+-+Neiman+Marcus",
+  "url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Canada Goose sale",
@@ -30725,8 +30721,7 @@
   "source_url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+-+Neiman+Marcus",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7095797b44cd5223",
@@ -35126,7 +35121,7 @@
  {
   "id": "d179c601593bb573",
   "title": "Official Apple iPhone Duo Cases at around 20% Off",
-  "url": "https://slickdeals.net/f/20255643-official-apple-iphone-duo-cases-at-around-20-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.apple.com/us/search/Official%20Apple%20iPhone%20Duo%20Cases%20at%20around%2020%20Off",
   "why": "",
   "category": "tech",
   "source": "Web search: iPhone deal",
@@ -35134,12 +35129,17 @@
   "hot": false,
   "pct": 25,
   "price": null,
-  "found_at": "2026-11-04T18:49:04Z"
+  "found_at": "2026-11-04T18:49:04Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20255643-official-apple-iphone-duo-cases-at-around-20-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Official%20Apple%20iPhone%20Duo%20Cases%20at%20around%2020%20Off",
+  "exact": false
  },
  {
   "id": "4da64151014190b1",
   "title": "3 Pack ESR for iPhone 17 Pro/17 Pro Max Screen Protectors From $6.99 + Free Shipping w/Prime or $35+",
-  "url": "https://slickdeals.net/f/20255592-3-pack-esr-for-iphone-17-pro-17-pro-max-screen-protectors-from-6-99-free-shipping-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=3+Pack+ESR+for+iPhone+17+Pro+17+Pro+Max+Screen+Protectors+From",
   "why": "",
   "category": "tech",
   "source": "Web search: iPhone deal",
@@ -35147,45 +35147,114 @@
   "hot": false,
   "pct": null,
   "price": 6.99,
-  "found_at": "2026-11-04T18:49:04Z"
+  "found_at": "2026-11-04T18:49:04Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20255592-3-pack-esr-for-iphone-17-pro-17-pro-max-screen-protectors-from-6-99-free-shipping-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=3+Pack+ESR+for+iPhone+17+Pro+17+Pro+Max+Screen+Protectors+From",
+  "exact": false
  },
  {
-  "id": "4778a27ee676548f",
-  "title": "UGREEN Nexode Air 65W USB C GaN Charger with 3.3ft USB C to USB C Cable | 60W AVS Fast Charging for iPhone Duo, Mini Size $24.99",
-  "url": "https://slickdeals.net/f/20251296-ugreen-nexode-air-65w-usb-c-gan-charger-with-3-3ft-usb-c-to-usb-c-cable-60w-avs-fast-charging-for-iphone-duo-mini-size-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "b3c6b25d97ab624e",
+  "title": "United: Newark – Seoul, South Korea. $773 (Basic Economy) / $1,053 (Regular Economy). Roundtrip, including all Taxes",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjFqBRIDRVdScgUSA0lDThoaEgoyMDI3LTAxLTI4agUSA0lDTnIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
+  "category": "flights",
+  "source": "The Flight Deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 24.99,
-  "found_at": "2026-11-04T18:49:04Z"
+  "price": 773.0,
+  "found_at": "2026-11-04T18:54:16Z",
+  "window": "January 21st – 28th, 2027",
+  "depart": "2027-01-21",
+  "return": "2027-01-28",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://www.theflightdeal.com/2026/11/04/united-newark-seoul-south-korea-773-basic-economy-1053-regular-economy-roundtrip-including-all-taxes/",
+  "fcode": [
+   "EWR",
+   "ICN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20ICN&hl=en&gl=us&curr=USD"
  },
  {
-  "id": "a22239a01402eb6a",
-  "title": "45W USB C Charger Block Multiport Adapter Fast Charging | for iPhone 18/Duo/17/16/15/14, Galaxy S26/S25, iPad & More, 2 USB-C & 2 USB-A ports, Compact Wall Charger, 2 Pack $9.99",
-  "url": "https://slickdeals.net/f/20248971-45w-usb-c-charger-block-multiport-adapter-fast-charging-for-iphone-18-duo-17-16-15-14-galaxy-s26-s25-ipad-more-2-usb-c-2-usb-a-ports-compact-wall-charger-2-pack-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "6602d787a7ff4138",
+  "title": "Zspoly Sport Nylon Stretchy Elastic Band for Apple Watch (Black, 44–49mm Series 4–11 / SE / Ultra or 42mm Series 1–3) $4.19 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20255556-zspoly-sport-nylon-stretchy-elastic-band-for-apple-watch-black-44-49mm-series-4-11-se-ultra-or-42mm-series-1-3-4-19-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
+  "category": "watches",
+  "source": "Web search: Apple Watch Ultra deal",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 4.19,
+  "found_at": "2026-11-04T18:56:39Z"
+ },
+ {
+  "id": "0ad97f1d7bbdc478",
+  "title": "Apple Watch Ultra 3 (GPS+Cellular) 49mm Titanium Case with Black Ocean Band - Black - (2025) $549",
+  "url": "https://slickdeals.net/f/20255169-apple-watch-ultra-3-gps-cellular-49mm-titanium-case-with-black-ocean-band-black-2025-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Apple Watch Ultra deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 9.99,
-  "found_at": "2026-11-04T18:49:04Z"
+  "price": 549.0,
+  "found_at": "2026-11-04T18:56:39Z"
  },
  {
-  "id": "6c4b5332a5188ac1",
-  "title": "Magnetic Portable Charger, Ultra Slim 10000mAh Magnetic Power Bank, 20W PD Fast Charging Wireless Power Bank Compatible with iPhone 18/17/16/15/14/13 Pro Max, Black $20.99",
-  "url": "https://slickdeals.net/f/20247636-magnetic-portable-charger-ultra-slim-10000mah-magnetic-power-bank-20w-pd-fast-charging-wireless-power-bank-compatible-with-iphone-18-17-16-15-14-13-pro-max-black-20-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "4d7cbf7c2ecba510",
+  "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch | Natural Titanium Case $699.99",
+  "url": "https://slickdeals.net/f/20250096-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-case-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
+  "category": "watches",
+  "source": "Web search: Apple Watch Ultra deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 20.99,
-  "found_at": "2026-11-04T18:49:04Z"
+  "price": 699.99,
+  "found_at": "2026-11-04T18:56:39Z"
+ },
+ {
+  "id": "63ac39a6e03d88a0",
+  "title": "$14* | 2-Pk 5-ft Beats USB-C to USB-C Charging Cables (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20186319-14-2-pk-5-ft-beats-usb-c-to-usb-c-charging-cables-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.0,
+  "found_at": "2026-11-04T18:56:43Z"
+ },
+ {
+  "id": "932e7074e641db8e",
+  "title": "$7.60* | Beats USB-C to USB-C Woven Short Cable (8 in, 20 cm) - Bolt Black at Amazon",
+  "url": "https://slickdeals.net/f/20161383-7-60-beats-usb-c-to-usb-c-woven-short-cable-8-in-20-cm-bolt-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.6,
+  "found_at": "2026-11-04T18:56:43Z"
+ },
+ {
+  "id": "1fa8eaaccf8f8b96",
+  "title": "JBL Vibe Beam 2 - Noise Cancelling Earbuds - White | JBL Pure Bass sound, Active Noise Cancelling with Smart Ambient, 4 mics for crisp, clear calls, Water and dust resistant $39.95",
+  "url": "https://slickdeals.net/f/20249094-jbl-vibe-beam-2-noise-cancelling-earbuds-white-jbl-pure-bass-sound-active-noise-cancelling-with-smart-ambient-4-mics-for-crisp-clear-calls-water-and-dust-resistant-39-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: JBL deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.95,
+  "found_at": "2026-11-04T18:56:46Z"
  }
 ]
