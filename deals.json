@@ -165,7 +165,8 @@
   "found_at": "2026-11-03T12:22:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T06:51:04Z"
  },
  {
   "id": "9a421bf84a3723ee",
@@ -183,7 +184,8 @@
   "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:05Z"
  },
  {
   "id": "ae530bdff6b6c95e",
@@ -199,7 +201,8 @@
   "found_at": "2026-11-03T12:22:40Z",
   "source_url": "https://camelcamelcamel.com/product/B00AROSQQY",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Instructional+Coaches+and+the+...or+School-Building+Improvement+-+down+12.48"
+  "similar": "https://www.google.com/search?tbm=shop&q=Instructional+Coaches+and+the+...or+School-Building+Improvement+-+down+12.48",
+  "checked_at": "2026-11-04T06:51:07Z"
  },
  {
   "id": "c8dff3b5da3170af",
@@ -217,7 +220,8 @@
   "source_url": "https://9to5toys.com/2026/11/02/app-store-deals-kingdom-rush-frontiers-td/",
   "store": "Link",
   "similar": "https://link.amazon/B0bgl7cnh",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:07Z"
  },
  {
   "id": "901b0078c65130e8",
@@ -235,7 +239,8 @@
   "source_url": "https://9to5toys.com/2026/11/01/top-10-early-black-friday-deals-now-live-2/",
   "store": "Link",
   "similar": "https://link.amazon/B0da2waxL",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:07Z"
  },
  {
   "id": "9d5cb69817e14a1c",
@@ -252,7 +257,8 @@
   "source_url": "https://slickdeals.net/f/20239680-open-box-dji-osmo-mobile-7-gimbal-stabilizer-for-iphone-android-built-in-tripod-portable-stabilizer-33-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Osmo+Mobile+7+Gimbal+Stabilizer+for+iPhone+Android+Built-in+Tripod+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T06:51:09Z"
  },
  {
   "id": "9b638ebea21b129d",
@@ -25841,7 +25847,7 @@
  {
   "id": "5363dbf2de9640a2",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dyson",
@@ -25853,7 +25859,8 @@
   "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c1979fa8e67f2738",
@@ -26211,7 +26218,7 @@
  {
   "id": "a0a2249bc0dbd49e",
   "title": "This is your rare chance to get a Garmin smartwatch for under $170 - 9to5Google",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -26223,7 +26230,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4368ce0f878f31a7",
@@ -26246,7 +26254,7 @@
  {
   "id": "489820e1648fa02c",
   "title": "[WTS] Ton of bangers here!!! (Bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xnbbtb/wts_ton_of_bangers_here_bottle/",
+  "url": "https://www.google.com/search?tbm=shop&q=Ton+of+bangers+here",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -26258,7 +26266,8 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xnbbtb/wts_ton_of_bangers_here_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ton+of+bangers+here",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "acb932b7c0887269",
@@ -26351,7 +26360,7 @@
  {
   "id": "f370138ad676fad7",
   "title": "Frederique Constant Men's Watch: Slimline Power Reserve (Silver Tone Dial) $999",
-  "url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+Slimline+Power+Reserve",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26363,12 +26372,13 @@
   "source_url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+Slimline+Power+Reserve",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a5c41220b4865c73",
   "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299.99",
-  "url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26380,12 +26390,13 @@
   "source_url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3ce191795bf97bd1",
   "title": "Frederique Constant: Men's Quartz Grey Dial $275, Slimline Small Seconds Quartz Watch $349 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Quartz+Grey+Dial",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26397,12 +26408,13 @@
   "source_url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Quartz+Grey+Dial",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9f19bf3d5ca9508f",
   "title": "Frederique Constant Quartz Grey Dial $309.95, Classics Automatic Blue Dial Men's Watch $495.95 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Quartz+Grey+Dial",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26414,12 +26426,13 @@
   "source_url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Quartz+Grey+Dial",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5a59460e116f2306",
   "title": "FREDERIQUE CONSTANT - Automatic Silver Dial Ladies Watch - $339.99 after coupon - Jomashop **FREE SHIPPING**",
-  "url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+FREDERIQUE+CONSTANT+-+Automatic+Silver+Dial+Ladies+Watch+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26431,12 +26444,13 @@
   "source_url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+FREDERIQUE+CONSTANT+-+Automatic+Silver+Dial+Ladies+Watch+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2cfc93e6fa1b6494",
   "title": "Frederique Constant Slimline 38mm Quartz Silver Dial Men's Watch FC-220S5S6 $299",
-  "url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26448,12 +26462,13 @@
   "source_url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "15e6b9cfd596c4c3",
   "title": "Frederique Constant Horological 34mm Quartz Ladies Smartwatch FC-281WH3ER6B $199",
-  "url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Horological+34mm+Quartz+Ladies+Smartwatch+FC-281WH3ER6B",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Frederique Constant",
@@ -26465,12 +26480,13 @@
   "source_url": "https://slickdeals.net/f/16487986-frederique-constant-horological-34mm-quartz-ladies-smartwatch-fc-281wh3er6b-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Horological+34mm+Quartz+Ladies+Smartwatch+FC-281WH3ER6B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e94c903d2e374d6b",
   "title": "Frederique Constant Watches Sale-Classics Silver Dial Watch $299.99/Horological Quartz Smart Watch $249/Classics Quartz Silver Dial $249 + Free Shipping",
-  "url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Watches+-Classics+Silver+Dial+Watch",
   "why": "Watch 77% off",
   "category": "tech",
   "source": "Slickdeals: Frederique Constant",
@@ -26482,12 +26498,13 @@
   "source_url": "https://slickdeals.net/f/16282435-frederique-constant-watches-sale-classics-silver-dial-watch-299-99-horological-quartz-smart-watch-249-classics-quartz-silver-dial-249-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Watches+-Classics+Silver+Dial+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "70ebe705c6317f04",
   "title": "TechnoMarine Ocean Manta Chronograph Quartz Men's Watch $66.99, Tissot Mother of Pearl Ladies Watch $149 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+TechnoMarine+Ocean+Manta+Chronograph+Quartz+Men%27s+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Frederique Constant",
@@ -26499,7 +26516,8 @@
   "source_url": "https://slickdeals.net/f/16274881-technomarine-ocean-manta-chronograph-quartz-men-s-watch-66-99-tissot-mother-of-pearl-ladies-watch-149-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+TechnoMarine+Ocean+Manta+Chronograph+Quartz+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d6a381bc8fb55dea",
@@ -34564,11 +34582,11 @@
   "pct": null,
   "price": 1.03,
   "found_at": "2026-11-04T06:33:44Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYzBPRnJfRlNLZUFjOWpiMy1xLWRaUlE2TG5TVUZqR0xadnFVVHlEYWt1ZkFxa1Zja0lUaUx6N2lJWXA0LW5CR0pHNVN0Yzlwek04YnRySEdNTmJRT0VyRENUMS1iQWRyQ1Fpd3ljXzZfNG5UcHBCaTdrdE1xM0EtbEd5RXA5ZE03NE95U0tXYllMSkdxaWV4RnlKZF9ZY2V5eEwzdEdNMlR2UDRGbGhzQzFwYUxkV1lVUThiRUlteks3dGk0MS1WQk5PZHhiamhhZjFINWdqN0w?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Resources+Corp.+Closes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae65e015a574f27a",
@@ -34582,11 +34600,11 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2VnblNWSUNOaHMxdkN2STJzV2kwVU9mN2RMNGllN2E2eEpYVi10UXZRaGNmTVkwSXlON1NkMXltWERmYTd4LTU5Zjh4TVpBYnNjMWFzWFBiX3ctcFViZEw2ZG1jc3BwdzJKSTZYbnJLZVZuNDVjWDdxbTFEaDNOaHBHWGpmQlhQOVoyNnFyVjFDcGxvY2pPTFBnRXlTUndBN2tXdl9uTEhWd0pRZVhVMmVtMXVuS2VPTW5F?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+s+Elegant+and+Classy+Calendar+Watch+Is+Now+Nearly+50+Off+at+Macy+s+-+Men",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "31655b537d3c7682",
@@ -34600,11 +34618,11 @@
   "pct": 40,
   "price": null,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7091ff206d5be99d",
@@ -34618,11 +34636,11 @@
   "pct": 40,
   "price": null,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/13561984-century-21-2-days-only-take-up-to-40-off-tumi-valid-until-11-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+2-Days+Only+Take+Up+to+40+Off+TUMI+Valid+until+11+15",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dc4444e1460b684e",
@@ -34734,11 +34752,11 @@
   "pct": null,
   "price": 72.85,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9668b184d6ce3748",
@@ -34752,11 +34770,11 @@
   "pct": null,
   "price": 69.0,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "551c41e5f4913d89",
@@ -34770,11 +34788,11 @@
   "pct": 30,
   "price": 59.46,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "37217ba910a7a366",
@@ -34788,11 +34806,11 @@
   "pct": null,
   "price": 47.36,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ab4b3b79f553d4d4",
@@ -34806,11 +34824,11 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "357034b15cbae234",
@@ -34872,11 +34890,11 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-04T06:39:07Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7193e4f26fe916c6",
@@ -34925,5 +34943,21 @@
   "link_tried3": true,
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "7ab61fdbd373cdfb",
+  "title": "Creative Home 33129 Natural Ma... Off-White (patterns may very) - down 22.78% ($7.10) to $24.07 from $31.17",
+  "url": "https://www.amazon.com/dp/B01MQXKN93",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.1,
+  "found_at": "2026-11-04T06:47:48Z",
+  "source_url": "https://camelcamelcamel.com/product/B01MQXKN93",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Creative+Home+33129+Natural+Ma...+Off-White+-+down+22.78"
  }
 ]
