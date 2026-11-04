@@ -579,7 +579,8 @@
   "source_url": "https://slickdeals.net/f/19852344-fragrances-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:16Z"
  },
  {
   "id": "fb6b38357deb992c",
@@ -595,7 +596,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:17Z"
  },
  {
   "id": "70c90d000a185583",
@@ -611,7 +613,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:18Z"
  },
  {
   "id": "9754f42a38ff2186",
@@ -628,7 +631,8 @@
   "source_url": "https://slickdeals.net/f/19739346-fragrances-for-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:20Z"
  },
  {
   "id": "397d2778d3cb3e1c",
@@ -644,7 +648,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:21Z"
  },
  {
   "id": "1bdd6641d04eb51a",
@@ -661,7 +666,8 @@
   "source_url": "https://slickdeals.net/f/19372356-mont-blanc-explorer-tester-38-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Mont+Blanc+Explorer+tester",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:23Z"
  },
  {
   "id": "b3775a117136056f",
@@ -678,7 +684,8 @@
   "source_url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:24Z"
  },
  {
   "id": "060826f912096139",
@@ -694,7 +701,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:26Z"
  },
  {
   "id": "e0101bf56760e909",
@@ -711,7 +719,8 @@
   "source_url": "https://slickdeals.net/f/18858139-montblanc-men-s-explorer-ultra-blue-eau-de-parfum-3-3-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Montblanc+Men%27s+Explorer+Ultra+Blue+Eau+de+Parfum+3.3-oz.",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:27Z"
  },
  {
   "id": "8a28829786e50eb5",
@@ -729,7 +738,8 @@
   "source_url": "https://slickdeals.net/f/18856939-18-piece-men-s-or-women-s-fragrance-cologne-sampler-set-15-free-store-pickup-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Macys",
   "similar": "https://www.macys.com/shop/featured/18-Piece%20Men%27s%20or%20Women%27s%20Fragrance%20Cologne%20Sampler%20Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:29Z"
  },
  {
   "id": "f49c80203d61abb7",
@@ -745,7 +755,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "source_url": "https://camelcamelcamel.com/product/0816649243",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Radical+Thought+in+Italy+A+Po...olitics+-+down+4.43"
+  "similar": "https://www.google.com/search?tbm=shop&q=Radical+Thought+in+Italy+A+Po...olitics+-+down+4.43",
+  "checked_at": "2026-11-04T01:36:29Z"
  },
  {
   "id": "fa0a04ae91e32bcd",
@@ -762,7 +773,8 @@
   "source_url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Star+Legacy+39MM+Automatic+Silvery+White+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:30Z"
  },
  {
   "id": "99787b2210b4fa4e",
@@ -779,7 +791,8 @@
   "source_url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:32Z"
  },
  {
   "id": "2d1ce5da6e6f8dfd",
@@ -796,7 +809,8 @@
   "source_url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:33Z"
  },
  {
   "id": "1d762a8a5404ea0f",
@@ -813,7 +827,8 @@
   "source_url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+Set+with+Shower+Gel",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:35Z"
  },
  {
   "id": "9d08ea6834465c52",
@@ -34973,7 +34988,7 @@
  {
   "id": "d6a381bc8fb55dea",
   "title": "REFURBISHED Citizen Men 's Sport Luxury Day Date Eco-Drive Titanium Watch 39 MM AW0130-85X $231",
-  "url": "https://slickdeals.net/f/20252121-refurbished-citizen-men-s-sport-luxury-day-date-eco-drive-titanium-watch-39-mm-aw0130-85x-231?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men+%27s+Sport+Luxury+Day+Date+Eco-Drive+Titanium+Watch+39+MM+",
   "why": "",
   "category": "watches",
   "source": "Web search: luxury watch price drop",
@@ -34981,19 +34996,60 @@
   "hot": false,
   "pct": null,
   "price": 231.0,
-  "found_at": "2026-11-04T01:28:06Z"
+  "found_at": "2026-11-04T01:28:06Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20252121-refurbished-citizen-men-s-sport-luxury-day-date-eco-drive-titanium-watch-39-mm-aw0130-85x-231?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men+%27s+Sport+Luxury+Day+Date+Eco-Drive+Titanium+Watch+39+MM+",
+  "exact": false
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "489820e1648fa02c",
+  "title": "[WTS] Ton of bangers here!!! (Bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Ton+of+bangers+here",
   "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-04T01:28:13Z"
+  "price": null,
+  "found_at": "2026-11-04T01:33:21Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xnbbtb/wts_ton_of_bangers_here_bottle/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Ton+of+bangers+here",
+  "exact": false
+ },
+ {
+  "id": "29bf9833cc6cb6dc",
+  "title": "American: Phoenix – Buffalo, New York (and vice versa). $186 (Basic Economy) / $306 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
+  "url": "https://www.google.com/travel/flights?q=Flights%20American%3A%20Phoenix%20%E2%80%93%20Buffalo%2C%20New%20York%20%28and%20vice%20versa%29.",
+  "why": "$186 from NEW YORK",
+  "category": "flights",
+  "source": "Google: Flight Deal NYC",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 186.0,
+  "found_at": "2026-11-04T01:33:21Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdk1zY1Rlc0Y0azVkZVpRbV9NUHRsVmJvNXl4ZlQ2V214eEFlYjNDTTloOEhoZXFmR0VBWDI1Y21hckp1aDZzYXljOG82bnowS1VLUXJoQzBTS3hPRVdmYm9EWDJjUjlYVk4zdjhKRjZZbks1NVp6YUxvWGM2SnI5bExLS2IzRU5VNTFXeVpJcUZ0YThOR2NpbVJlbXZtWEVkMVJLU0FOR2NoemwwdGhfZTQzendVZnBHMkxQbTNCbEhwTFZiQzFoREYxaE5DTFNGNHliVWlsRUJfWUZXek1lQk9YNnVfY09DZzd6WXZGYw?oc=5",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20American%3A%20Phoenix%20%E2%80%93%20Buffalo%2C%20New%20York%20%28and%20vice%20versa%29.",
+  "route_fixed2": true
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-04T01:36:42Z"
  }
 ]
