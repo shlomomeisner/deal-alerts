@@ -211,7 +211,8 @@
   "found_at": "2026-11-03T06:58:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:18:43Z"
  },
  {
   "id": "1ae890e781a104f1",
@@ -229,7 +230,8 @@
   "source_url": "https://slickdeals.net/f/19517094-0-33-oz-valentino-donna-born-in-roma-eau-de-parfum-spray-women-s-16-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=0.33-Oz+Valentino+Donna+Born+in+Roma+Eau+de+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:18:45Z"
  },
  {
   "id": "2bd529fe50fee574",
@@ -247,7 +249,8 @@
   "source_url": "https://slickdeals.net/f/19492551-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-21-83-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:18:47Z"
  },
  {
   "id": "6e8d137980941214",
@@ -264,7 +267,8 @@
   "source_url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:18:49Z"
  },
  {
   "id": "cf84de637645d31b",
@@ -281,7 +285,8 @@
   "source_url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:18:50Z"
  },
  {
   "id": "9d8250e8d03d7f94",
@@ -299,7 +304,8 @@
   "source_url": "https://slickdeals.net/f/19263892-3-0-oz-gucci-guilty-pour-homme-edt-45-6-7oz-versace-pour-homme-edt-60-more-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=3.0-oz+Gucci+Guilty+Pour+Homme+EDT",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:18:52Z"
  },
  {
   "id": "482617f642f68342",
@@ -317,7 +323,8 @@
   "source_url": "https://slickdeals.net/f/19224994-valentino-uomo-eau-de-toilette-3-4-fl-oz-73-99-at-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Valentino+Uomo+Eau+de+Toilette+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:18:53Z"
  },
  {
   "id": "97ffe0e766fe8408",
@@ -334,7 +341,8 @@
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:18:55Z"
  },
  {
   "id": "3b6b6d8556c49453",
@@ -352,7 +360,8 @@
   "source_url": "https://slickdeals.net/f/18944767-sephora-holiday-perfume-sampler-set-w-redeemable-voucher-from-95-use-code-savegifts-for-20-off-final-sale-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Sephora",
   "similar": "https://www.sephora.com/search?keyword=Sephora+Holiday+Perfume+Sampler+Set+w+Redeemable+Voucher+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:38Z"
  },
  {
   "id": "c9a4cf66885c8073",
@@ -369,7 +378,8 @@
   "source_url": "https://slickdeals.net/f/18915166-free-valentino-signature-water-bottle-w-any-purchase?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Free+Valentino+Signature+Water+Bottle+w+ANY+Purchase",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:39Z"
  },
  {
   "id": "91033e75fbdf0a7e",
@@ -387,7 +397,8 @@
   "source_url": "https://slickdeals.net/f/18856939-18-piece-men-s-or-women-s-fragrance-cologne-sampler-set-15-free-store-pickup-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Macys",
   "similar": "https://www.macys.com/shop/featured/18-Piece%20Men%27s%20or%20Women%27s%20Fragrance%20Cologne%20Sampler%20Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:41Z"
  },
  {
   "id": "9a283cfbe4ac4358",
@@ -404,7 +415,8 @@
   "source_url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+3.4oz+Valentino+Uomo+Born+In+Roma+Intense+EDP",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:43Z"
  },
  {
   "id": "37a5c298759d60c1",
@@ -422,7 +434,8 @@
   "source_url": "https://slickdeals.net/f/20240463-xbox-series-x-all-digital-gaming-console-1tb-ssd-includes-xbox-wireless-controller-4k-gaming-120fps-robot-white-599-99-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=XBOX+Series+X+-+All+Digital+Gaming+Console+-+1TB+SSD+-+Includes+XBOX+Wireless+Co",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:44Z"
  },
  {
   "id": "3a47526c47cafb2e",
@@ -439,7 +452,8 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:45Z"
  },
  {
   "id": "cf7873b5dbd36b7a",
@@ -456,7 +470,8 @@
   "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:46Z"
  },
  {
   "id": "f36e35bd8382bd1a",
@@ -472,7 +487,8 @@
   "found_at": "2026-11-03T06:58:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:27:47Z"
  },
  {
   "id": "ca6dab01f5f7067f",
@@ -490,7 +506,8 @@
   "source_url": "https://slickdeals.net/f/20248227-gopro-max2-360-action-camera-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo",
   "similar": "https://www.bhphotovideo.com/c/search?q=GoPro+MAX2+360+Action+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:48Z"
  },
  {
   "id": "34737b49654bbf44",
@@ -506,7 +523,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:27:50Z"
  },
  {
   "id": "11112aaf50c466db",
@@ -524,7 +542,8 @@
   "source_url": "https://slickdeals.net/f/20023917-montblanc-legend-red-eau-de-parfum-spray-cologne-for-men-3-3oz-30-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Montblanc+Legend+Red+Eau+De+Parfum+Spray+Cologne+for+Men+3.3oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:53Z"
  },
  {
   "id": "7b53eb1c06a710ac",
@@ -542,7 +561,8 @@
   "source_url": "https://slickdeals.net/f/19929597-montblanc-explorer-platinum-eau-de-parfum-spray-3-3-fl-oz-81-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Macys",
   "similar": "https://www.macys.com/shop/featured/MONTBLANC%20Explorer%20Platinum%20Eau%20de%20Parfum%20Spray%203.3%20fl%20oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:27:55Z"
  },
  {
   "id": "8ab2fb9178b46bd9",
@@ -559,7 +579,8 @@
   "source_url": "https://slickdeals.net/f/19852344-fragrances-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:16Z"
  },
  {
   "id": "fb6b38357deb992c",
@@ -575,7 +596,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:17Z"
  },
  {
   "id": "70c90d000a185583",
@@ -591,7 +613,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:18Z"
  },
  {
   "id": "9754f42a38ff2186",
@@ -608,7 +631,8 @@
   "source_url": "https://slickdeals.net/f/19739346-fragrances-for-49-99-or-less-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:20Z"
  },
  {
   "id": "397d2778d3cb3e1c",
@@ -624,7 +648,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:21Z"
  },
  {
   "id": "1bdd6641d04eb51a",
@@ -641,7 +666,8 @@
   "source_url": "https://slickdeals.net/f/19372356-mont-blanc-explorer-tester-38-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Mont+Blanc+Explorer+tester",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:23Z"
  },
  {
   "id": "b3775a117136056f",
@@ -658,7 +684,8 @@
   "source_url": "https://slickdeals.net/f/19227940-gucci-black-sunglasses-149-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:24Z"
  },
  {
   "id": "060826f912096139",
@@ -674,7 +701,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T01:36:26Z"
  },
  {
   "id": "e0101bf56760e909",
@@ -691,7 +719,8 @@
   "source_url": "https://slickdeals.net/f/18858139-montblanc-men-s-explorer-ultra-blue-eau-de-parfum-3-3-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Montblanc+Men%27s+Explorer+Ultra+Blue+Eau+de+Parfum+3.3-oz.",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:27Z"
  },
  {
   "id": "8a28829786e50eb5",
@@ -709,7 +738,8 @@
   "source_url": "https://slickdeals.net/f/18856939-18-piece-men-s-or-women-s-fragrance-cologne-sampler-set-15-free-store-pickup-macy-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Macys",
   "similar": "https://www.macys.com/shop/featured/18-Piece%20Men%27s%20or%20Women%27s%20Fragrance%20Cologne%20Sampler%20Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:29Z"
  },
  {
   "id": "f49c80203d61abb7",
@@ -725,7 +755,8 @@
   "found_at": "2026-11-03T07:07:32Z",
   "source_url": "https://camelcamelcamel.com/product/0816649243",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Radical+Thought+in+Italy+A+Po...olitics+-+down+4.43"
+  "similar": "https://www.google.com/search?tbm=shop&q=Radical+Thought+in+Italy+A+Po...olitics+-+down+4.43",
+  "checked_at": "2026-11-04T01:36:29Z"
  },
  {
   "id": "fa0a04ae91e32bcd",
@@ -742,7 +773,8 @@
   "source_url": "https://slickdeals.net/f/18421630-montblanc-star-legacy-39mm-automatic-silvery-white-dial-men-s-watch-1245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Star+Legacy+39MM+Automatic+Silvery+White+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:30Z"
  },
  {
   "id": "99787b2210b4fa4e",
@@ -759,7 +791,8 @@
   "source_url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:32Z"
  },
  {
   "id": "2d1ce5da6e6f8dfd",
@@ -776,7 +809,8 @@
   "source_url": "https://slickdeals.net/f/18293875-montblanc-legend-red-edp-3-piece-set-47-99-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+3-Piece+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:33Z"
  },
  {
   "id": "1d762a8a5404ea0f",
@@ -793,7 +827,8 @@
   "source_url": "https://slickdeals.net/f/18293872-montblanc-legend-red-edp-set-with-shower-gel-45-99-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Montblanc+Legend+Red+EDP+Set+with+Shower+Gel",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T01:36:35Z"
  },
  {
   "id": "9d08ea6834465c52",
