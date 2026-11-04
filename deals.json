@@ -925,7 +925,8 @@
   "found_at": "2026-11-03T22:34:28Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T19:27:21Z"
  },
  {
   "id": "98427d8d2aa6fa64",
@@ -941,7 +942,8 @@
   "found_at": "2026-11-03T22:34:28Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T19:27:22Z"
  },
  {
   "id": "c04c2214849da734",
@@ -957,7 +959,8 @@
   "found_at": "2026-11-03T22:43:31Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T19:27:24Z"
  },
  {
   "id": "7be8d96c249cd774",
@@ -973,7 +976,8 @@
   "found_at": "2026-11-03T22:43:31Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T19:27:25Z"
  },
  {
   "id": "80fdf7c76a125d90",
@@ -989,7 +993,8 @@
   "found_at": "2026-11-03T22:43:31Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-04T19:27:27Z"
  },
  {
   "id": "984b0a6ac9f45526",
@@ -1006,7 +1011,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFVEc01wOW13U2oxRmNRMlBReXJBVFhhbEJ4UlRfcVFXR1g2WTFrcVRQaXJ6c0tLNVR6MWQwejBpTGdoakx4SDY2bklzRG1NWFF5al9Za1ktYXBFVDhueXN3OFk0eGdyUmhuNjk0RFZHdnJZQnMxUGpIeGJTYV9ZS1lXa0RfMWlYWk84RlRseEhGZFlrN3FDV3VPSVlpOHI2NVlsdFdRbjJQS1VLRjBKWnpJNFV1R3M?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+huge+83-inch+Sony+BRAVIA+OLED+TV+is+at+its+lowest+price+ever+with+a",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:27Z"
  },
  {
   "id": "1ed86dd689c7165a",
@@ -1023,7 +1029,8 @@
   "source_url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Squishmallows+Original+8in+Tudor+The+Maroon+Leatherback+Turtle",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:29Z"
  },
  {
   "id": "8338e10583c21465",
@@ -1040,7 +1047,8 @@
   "source_url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tudor%27s+Biscuit+World-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:31Z"
  },
  {
   "id": "945d20969947ccd2",
@@ -1057,7 +1065,8 @@
   "source_url": "https://slickdeals.net/f/19152106-hasbro-gaming-clue-escape-treachery-at-tudor-mansion-3-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hasbro+Gaming+Clue+Escape+Treachery+at+Tudor+Mansion",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:32Z"
  },
  {
   "id": "96f5f9dd5b8ff444",
@@ -1074,7 +1083,8 @@
   "source_url": "https://slickdeals.net/f/18839467-lego-icons-tudor-corner-building-kit-10350-189-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Lego+-+Icons+Tudor+Corner+Building+Kit+-+10350+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:34Z"
  },
  {
   "id": "b9fb244bb21617a0",
@@ -1091,7 +1101,8 @@
   "source_url": "https://slickdeals.net/f/18807088-cluedo-an-escape-and-solve-mystery-board-game-treachery-at-tudor-mansion-ages-10-8-78-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Cluedo+An+Escape+And+Solve+Mystery+Board+Game+Treachery+At+Tudor+Mansion",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:37Z"
  },
  {
   "id": "cd0bb40a47c93e82",
@@ -1109,7 +1120,8 @@
   "source_url": "https://slickdeals.net/f/18661039-clue-board-game-treachery-at-tudor-mansion-clue-escape-room-game-murder-mystery-games-cooperative-family-board-game-ages-10-and-up-1-6-players-8-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Clue+Board+Game+Treachery+at+Tudor+Mansion+Clue+Escape+Room+Game+Murder+Mystery+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:38Z"
  },
  {
   "id": "bf7592e40dbd0554",
@@ -1126,7 +1138,8 @@
   "source_url": "https://slickdeals.net/f/18487291-tudor-41mm-1926-automatic-silver-dial-men-s-watch-1795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tudor+41mm+1926+Automatic+Silver+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:40Z"
  },
  {
   "id": "8826a4685fed5215",
@@ -1143,7 +1156,8 @@
   "source_url": "https://slickdeals.net/f/18295441-breitling-top-time-b01-deus-chronograph-automatic-chronometer-black-dial-men-s-watch-3450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Top+Time+B01+Deus+Chronograph+Automatic+Chronometer+Black+Dial+Men%27s+W",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:42Z"
  },
  {
   "id": "6f0db578147517b3",
@@ -1160,7 +1174,8 @@
   "source_url": "https://slickdeals.net/f/18276298-breitling-endurance-pro-chronograph-quartz-chronometer-black-dial-men-s-watch-1895-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Breitling+Endurance+Pro+Chronograph+Quartz+Chronometer+Black+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-04T19:27:44Z"
  },
  {
   "id": "5d145dc57b57ec9e",
@@ -29974,7 +29989,7 @@
  {
   "id": "c1731546d66a4073",
   "title": "Christian Louboutin Women's Fifi 100 Pumps (various) $375 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
+  "url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29986,13 +30001,12 @@
   "source_url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3b09a10dad338139",
   "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
-  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
+  "url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30004,13 +30018,12 @@
   "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d92e4bb554b19a86",
   "title": "Christian Louboutin Palais Royal Peep Toe Platform Pumps (various colors) $450 & More + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
+  "url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30022,13 +30035,12 @@
   "source_url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dcb15ec738a4e6e9",
   "title": "Christian Louboutin Fifi pumps (various) - $359.99 (AC)",
-  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
+  "url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30040,13 +30052,12 @@
   "source_url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e69c9d1888824553",
   "title": "Christian Louboutin Pumps Leather Fifi Pumps (Pink) $345 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
+  "url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30058,13 +30069,12 @@
   "source_url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d20ef466dd6fb8e9",
   "title": "Christian Louboutin Pumps: Leather Fifi Pumps $360, Leather Pigalle Pumps $387 + free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
+  "url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30076,13 +30086,12 @@
   "source_url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "01bb67bf95794c00",
   "title": "Christian Louboutin Fifi Leather Pumps (Various) $385 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
+  "url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30094,13 +30103,12 @@
   "source_url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "06bc1cdb25bf3453",
   "title": "Christian Louboutins on sale again 👠 👠 $395",
-  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutins+on+again",
+  "url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -30112,8 +30120,7 @@
   "source_url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutins+on+again",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3a54c04ab5c156f6",
@@ -30250,7 +30257,7 @@
  {
   "id": "6b1a06d794da5015",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -30262,13 +30269,12 @@
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8b827833236ed77b",
   "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
+  "url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -30280,13 +30286,12 @@
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "065802b90c6ea678",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $74.93",
-  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -30298,13 +30303,12 @@
   "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "7775ec090470d5b0",
   "title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -30316,8 +30320,7 @@
   "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ca86c9619d808fc7",
@@ -30338,7 +30341,7 @@
  {
   "id": "64a68267c3ffe1b8",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -30350,8 +30353,7 @@
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "25e2fdf0d896e8d0",
@@ -30420,7 +30422,7 @@
  {
   "id": "ad1120f9790d15a0",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -30432,8 +30434,7 @@
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c55d867834b05277",
@@ -30456,7 +30457,7 @@
  {
   "id": "0bfe2f3c5149b816",
   "title": "Versace Man Eau Fraiche/Versace EDT Spray (Blue) Unboxed 3.3 Oz (M) Blue Bottle $47.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
+  "url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Versace sale",
@@ -30468,8 +30469,7 @@
   "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0bd57abc7605d976",
@@ -30836,7 +30836,7 @@
  {
   "id": "560cf71520761487",
   "title": "DJI Neo 2 Motion Fly More Combo ~$401 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+Motion+Fly+More+Combo",
+  "url": "https://slickdeals.net/f/20238024-dji-neo-2-motion-fly-more-combo-401-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Mini",
@@ -30848,8 +30848,7 @@
   "source_url": "https://slickdeals.net/f/20238024-dji-neo-2-motion-fly-more-combo-401-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+Motion+Fly+More+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4a182784dd154160",
@@ -34650,11 +34649,11 @@
   "pct": null,
   "price": 485.0,
   "found_at": "2026-11-04T19:12:24Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20255661-dji-neo-2-motion-fly-more-combo-with-goggles-n3-485-455?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+Motion+Fly+More+Combo+with+Goggles+N3",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8ad139a3d36b719b",
@@ -34672,7 +34671,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249853-open-box-dji-mavic-4-pro-fly-more-combo-with-dji-rc-2-1516-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202",
+  "link_tried3": true
  },
  {
   "id": "0e62e59c1be23562",
@@ -34686,11 +34686,11 @@
   "pct": null,
   "price": 696.0,
   "found_at": "2026-11-04T19:12:24Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249409-dji-mini-5-pro-4k-camera-drone-fly-more-combo-w-rc-n3-controller-696-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+Fly+More+Combo+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dd5a9a1af2fbf8ec",
@@ -34708,7 +34708,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249352-open-box-dji-osmo-360-camera-standard-combo-1-inch-360-imaging-native-8k-video-105gb-storage-256-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Osmo%20360%20Camera%20Standard%20Combo%3A%201-Inch%20360%C2%B0%20Imaging%20Native%208K%20Video%20105GB%20Storage"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Osmo%20360%20Camera%20Standard%20Combo%3A%201-Inch%20360%C2%B0%20Imaging%20Native%208K%20Video%20105GB%20Storage",
+  "link_tried3": true
  },
  {
   "id": "3f114936b66a1ca3",
@@ -34722,11 +34723,11 @@
   "pct": null,
   "price": 128.5,
   "found_at": "2026-11-04T19:12:24Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249223-used-dji-osmo-action-4-camera-standard-essential-combo-128-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Camera+Standard+Essential+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6f7281140dd00518",
@@ -34740,29 +34741,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-04T19:17:30Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xnx19r/wts_aaron_terence_hughes_discounts_below_see_list/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Aaron+Terence+Hughes+discounts+below+See+list+All+sizes",
-  "exact": false
- },
- {
-  "id": "b043bad2b6f283e1",
-  "title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19987707-lc-dolida-fence-mount-w-sun-rain-visor-for-gopro-dji-insta360-smartphones-9-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: GoPro deal",
-  "urgent": false,
-  "hot": false,
-  "pct": 50,
-  "price": 9.97,
-  "found_at": "2026-11-04T19:19:52Z"
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "08ec7696e4e9b165",
   "title": "Garmin Dash Cam Mini 3 1080p Dash Camera w/ 140° FOV & Clarity Polarizer $99.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20255820-garmin-dash-cam-mini-3-1080p-dash-camera-w-140-fov-clarity-polarizer-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Garmin+Dash+Cam+Mini+3+1080p+Dash+Camera+w+140+FOV+%26+Clarity+Polarizer",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin deal",
@@ -34770,19 +34758,297 @@
   "hot": false,
   "pct": null,
   "price": 99.99,
-  "found_at": "2026-11-04T19:19:55Z"
+  "found_at": "2026-11-04T19:19:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20255820-garmin-dash-cam-mini-3-1080p-dash-camera-w-140-fov-clarity-polarizer-99-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Garmin+Dash+Cam+Mini+3+1080p+Dash+Camera+w+140+FOV+%26+Clarity+Polarizer",
+  "exact": false
  },
  {
   "id": "7f804ca09589b99d",
   "title": "Garmin Fenix 8 AMOLED 47MM Grey/Black or Silver/Whitestone $599.99",
-  "url": "https://slickdeals.net/f/20255295-garmin-fenix-8-amoled-47mm-grey-black-or-silver-whitestone-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+47MM+Grey+Black+or+Silver+Whitestone",
   "why": "",
-  "category": "watches",
+  "category": "tech",
   "source": "Web search: Garmin deal",
   "urgent": false,
   "hot": false,
   "pct": null,
   "price": 599.99,
-  "found_at": "2026-11-04T19:19:55Z"
+  "found_at": "2026-11-04T19:19:55Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20255295-garmin-fenix-8-amoled-47mm-grey-black-or-silver-whitestone-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+47MM+Grey+Black+or+Silver+Whitestone",
+  "exact": false
+ },
+ {
+  "id": "440b956965e70a1d",
+  "title": "41mm Tissot Men's T-Sport Sideral Powermatic Automatic Watch $399 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=41mm+Tissot+Men%27s+T-Sport+Sideral+Powermatic+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=41mm+Tissot+Men%27s+T-Sport+Sideral+Powermatic+Automatic+Watch",
+  "exact": false
+ },
+ {
+  "id": "dfbb4e78b9ab30f7",
+  "title": "Up to 66% off + Extra 12% off On Hamilton and Movado watches on Ashford $351",
+  "url": "https://www.google.com/search?tbm=shop&q=Up+to+66+off+%2B+Extra+12+off+On+Hamilton+and+Movado+watches+on+Ashford",
+  "why": "Hamilton 66% off",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": true,
+  "pct": 66,
+  "price": 351.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20130747-up-to-66-off-extra-12-off-on-hamilton-and-movado-watches-on-ashford-351?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Up+to+66+off+%2B+Extra+12+off+On+Hamilton+and+Movado+watches+on+Ashford",
+  "exact": false
+ },
+ {
+  "id": "eb47f7ecbf47ad55",
+  "title": "42mm Hamilton American Classic Black Dial Men's Automatic Watch $615.10 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+American+Classic+Black+Dial+Men%27s+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 615.1,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20089467-42mm-hamilton-american-classic-black-dial-men-s-automatic-watch-615-10-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+American+Classic+Black+Dial+Men%27s+Automatic+Watch",
+  "exact": false
+ },
+ {
+  "id": "5adcb7518a4aee90",
+  "title": "Hamilton Khaki Navy Frogman Black Dial Men's Automatic Watch (Various) $569 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+Black+Dial+Men%27s+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 569.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+Black+Dial+Men%27s+Automatic+Watch",
+  "exact": false
+ },
+ {
+  "id": "29fa315a2e0b70ce",
+  "title": "HAMILTON Khaki Navy Scuba 37mm White Dial Unisex Quartz Watch $367",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 367.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
+  "exact": false
+ },
+ {
+  "id": "2ae3a25e98c64289",
+  "title": "HAMILTON American Classic Intra-Matic 38mm Black and Brown Dial Men's Automatic Watch $367",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+American+Classic+Intra-Matic+38mm+Black+and+Brown+Dial+Men%27s+Automatic+",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 367.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+American+Classic+Intra-Matic+38mm+Black+and+Brown+Dial+Men%27s+Automatic+",
+  "exact": false
+ },
+ {
+  "id": "aaf0f58dfd014458",
+  "title": "39mm Tissot Chemin des Tourelles Blue Dial Men's Automatic Watch $324 + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=39mm+Tissot+Chemin+des+Tourelles+Blue+Dial+Men%27s+Automatic+Watch",
+  "why": "Tissot 63% off",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": true,
+  "pct": 63,
+  "price": 324.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19968477-39mm-tissot-chemin-des-tourelles-blue-dial-men-s-automatic-watch-324-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=39mm+Tissot+Chemin+des+Tourelles+Blue+Dial+Men%27s+Automatic+Watch",
+  "exact": false
+ },
+ {
+  "id": "efad5676dd2aa65b",
+  "title": "Hamilton Khaki Navy Frogman 46mm Black Dial Men's Automatic Watch",
+  "url": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+46mm+Black+Dial+Men%27s+Automatic+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+46mm+Black+Dial+Men%27s+Automatic+Watch",
+  "exact": false
+ },
+ {
+  "id": "7a91c934c4e48b21",
+  "title": "Up to 30% Off TAG Heuer Watches at eBay",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Up+to+30+Off+TAG+Heuer+Watches",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": null,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19921083-up-to-30-off-tag-heuer-watches-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Up+to+30+Off+TAG+Heuer+Watches",
+  "exact": false
+ },
+ {
+  "id": "ca0c583c191bbd77",
+  "title": "42mm Hamilton Men's Pan Europ Automatic Day-Date Watch (Green Sunburst) $615.12 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+Men%27s+Pan+Europ+Automatic+Day-Date+Watch",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Ashford Watches",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 615.12,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19907691-42mm-hamilton-men-s-pan-europ-automatic-day-date-watch-green-sunburst-615-12-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+Men%27s+Pan+Europ+Automatic+Day-Date+Watch",
+  "exact": false
+ },
+ {
+  "id": "eaed8e48e7a3e5b3",
+  "title": "[Costco Members] - Apple Macboook Pro PROLED XDR Display 14\" & 16\" - Receive $100 Costco Shop Card & 1-year AppleCare+ Included",
+  "url": "https://www.costco.com/CatalogSearch?keyword=-+Apple+Macboook+Pro+PROLED+XDR+Display+14+%26+16+-+Receive",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20236593-costco-members-apple-macboook-pro-proled-xdr-display-14-16-receive-100-costco-shop-card-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=-+Apple+Macboook+Pro+PROLED+XDR+Display+14+%26+16+-+Receive",
+  "exact": false
+ },
+ {
+  "id": "89c856424127d661",
+  "title": "Costco Members: 14.2\" Apple MacBook Pro Laptop: 3024x1964, M5 Chip, 16GB, 1TB $1350 + Free S&H",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+14.2+Apple+MacBook+Pro+Laptop+3024x1964+M5+Chip+16GB+1TB",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1350.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20235876-costco-members-14-2-apple-macbook-pro-laptop-3024x1964-m5-chip-16gb-1tb-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+14.2+Apple+MacBook+Pro+Laptop+3024x1964+M5+Chip+16GB+1TB",
+  "exact": false
+ },
+ {
+  "id": "f52e6b26b9949b21",
+  "title": "14\" Apple MacBook Pro: 3024x1964 120Hz, M5 10-Core Chip, 16GB RAM, 1TB SSD $1350 + Free S&H",
+  "url": "https://www.apple.com/us/search/14%20Apple%20MacBook%20Pro%203024x1964%20120Hz%20M5%2010-Core%20Chip%2016GB%20RAM%201TB%20SSD",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1350.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20235504-14-apple-macbook-pro-3024x1964-120hz-m5-10-core-chip-16gb-ram-1tb-ssd-1350-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/14%20Apple%20MacBook%20Pro%203024x1964%20120Hz%20M5%2010-Core%20Chip%2016GB%20RAM%201TB%20SSD",
+  "exact": false
+ },
+ {
+  "id": "df8aca2c168ede1e",
+  "title": "LG - 65\" Class C5 Series OLED evo AI 4K UHD Smart webOS TV (2025) Open Box From $738",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+65+Class+C5+Series+OLED+evo+AI+4K+UHD+Smart+webOS+TV+Open+Box+From",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Lg C5",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 738.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20243076-lg-65-class-c5-series-oled-evo-ai-4k-uhd-smart-webos-tv-2025-open-box-from-738?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+65+Class+C5+Series+OLED+evo+AI+4K+UHD+Smart+webOS+TV+Open+Box+From",
+  "exact": false
+ },
+ {
+  "id": "d728e73ac8612df5",
+  "title": "$1900 BJs Members to 11/15: LG 77\" OLED C5 evo AI 4K Smart TV with 5-Year Coverage",
+  "url": "https://slickdeals.net/f/20199792-1900-bjs-members-to-11-15-lg-77-oled-c5-evo-ai-4k-smart-tv-with-5-year-coverage?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Lg C5",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1900.0,
+  "found_at": "2026-11-04T19:25:16Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  }
 ]
