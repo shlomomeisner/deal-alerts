@@ -13,7 +13,8 @@
   "found_at": "2026-11-04T05:01:19Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T02:18:54Z"
  },
  {
   "id": "9d60860151353c28",
@@ -31,7 +32,8 @@
   "source_url": "https://slickdeals.net/f/20138982-costco-members-samsung-galaxy-buds4-pro-true-wireless-earbuds-169-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Costco+Members+Samsung+Galaxy+Buds4+Pro+True+Wireless+Earbuds+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:18:56Z"
  },
  {
   "id": "d114bd08ab927fec",
@@ -48,7 +50,8 @@
   "source_url": "https://slickdeals.net/f/17220493-elgato-hd60-x-stream-and-record-in-1080p60-hdr10-or-4k30-with-ultra-low-latency-on-ps5-ps4-pro-xbox-series-x-s-xbox-one-x-s-in-obs-and-more-works-with-pc-and-mac-159?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Elgato+HD60+X+-+Stream+and+record+in+1080p60+HDR10+or+4K30+with+ultra-low+latenc",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:18:57Z"
  },
  {
   "id": "05a5c4bc2dc34d8c",
@@ -66,7 +69,8 @@
   "source_url": "https://slickdeals.net/f/20247474-powera-slim-case-for-nintendo-switch-2-metroid-prime-4-12-03-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=PowerA+Slim+Case+for+Nintendo+Switch+2+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:18:59Z"
  },
  {
   "id": "34298fd672bd83ba",
@@ -84,23 +88,8 @@
   "source_url": "https://slickdeals.net/f/19567929-sony-playstation-5-dualsense-wireless-controller-icon-blue-walmart-exclusive-64-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Sony+PlayStation+5+DualSense+Wireless+Controller+-+Icon+Blue+-",
-  "exact": false
- },
- {
-  "id": "ed8418af507c3823",
-  "title": "Speck iPhone 15 Plus Case - Cl...o2 Grip Black/Slate Grey/White - down 17.28% ($4.49) to $21.50 from $25.99",
-  "url": "https://www.amazon.com/dp/B0CFW1L7NZ",
-  "why": "",
-  "category": "tech",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 4.49,
-  "found_at": "2026-11-04T05:10:23Z",
-  "source_url": "https://camelcamelcamel.com/product/B0CFW1L7NZ",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Speck+iPhone+15+Plus+Case+-+Cl...o2+Grip+Black+Slate+Grey+White+-+down+17.28"
+  "exact": false,
+  "checked_at": "2026-11-05T02:19:00Z"
  },
  {
   "id": "b19e2d2dcaf66343",
@@ -118,7 +107,8 @@
   "source_url": "https://9to5mac.com/2026/09/21/deals-apple-watch-ultra-4-airpods-pro-3-studio-display/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/primebigdealdays?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:19:03Z"
  },
  {
   "id": "d911d2ca5272f339",
@@ -136,7 +126,8 @@
   "source_url": "https://9to5mac.com/2026/09/18/deals-airpods-pro-3-iphone-18-pro-cases-m5-macbook/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+iPhone+18+Pro+cases+and+chargers+M5+MacBook+Pro"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+iPhone+18+Pro+cases+and+chargers+M5+MacBook+Pro",
+  "checked_at": "2026-11-05T02:19:05Z"
  },
  {
   "id": "46dfa9d1f0ab3e51",
@@ -154,7 +145,8 @@
   "source_url": "https://9to5mac.com/2026/09/17/deals-airpods-m6-mac-mini-studio-display-thunderbolt-5-dock/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+M6+Mac+mini+Apple+Studio+Display"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+M6+Mac+mini+Apple+Studio+Display",
+  "checked_at": "2026-11-05T02:19:05Z"
  },
  {
   "id": "396be34d20f28c7f",
@@ -172,7 +164,8 @@
   "source_url": "https://9to5mac.com/2026/09/16/deals-airpods-5-pro-3-apple-watch-ultra-4/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/primebigdealdays?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:19:06Z"
  },
  {
   "id": "e7c4136ebe4a0fc1",
@@ -190,7 +183,8 @@
   "source_url": "https://9to5mac.com/2026/09/15/deals-airpods-5-m5-macbook-air-apple-watch-series-12/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+5"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+5",
+  "checked_at": "2026-11-05T02:19:06Z"
  },
  {
   "id": "813a3be52c38fbfa",
@@ -208,25 +202,8 @@
   "source_url": "https://9to5mac.com/2026/09/14/deals-airpods-series-12-anker-25w-charging-stations/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+MacBook+Air"
- },
- {
-  "id": "0ee4bb03a8da82ab",
-  "title": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
-  "url": "https://www.amazon.com/dp/B0HJB69GJL",
-  "why": "Apple Watch deal",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/12/weekend-apple-deals-airpods-5-apple-watch-series-12/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Weekend+Apple+deals+AirPods+5+Pro+3+Apple+Watch+Series+12+AirTag+2+Studio+Displa"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+MacBook+Air",
+  "checked_at": "2026-11-05T02:19:06Z"
  },
  {
   "id": "6ddff5c9d5785b4d",
@@ -29243,7 +29220,7 @@
  {
   "id": "b519b30a71576703",
   "title": "Ray-Ban, Oakley, Costa, Under Armour Sunglasses (Non & Polarized) Up to 60% Off + Free Shipping",
-  "url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29255,12 +29232,13 @@
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b9e59bb922de70d3",
   "title": "Oakley Tincan Men's 6-Panel Cap (Large, Nile Green) $18.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29272,12 +29250,13 @@
   "source_url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d083855914bbc148",
   "title": "Oakley & Ray-Ban Sunglasses Deals at Zulily $56.99",
-  "url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29289,12 +29268,13 @@
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f4b5cab1d00c8244",
   "title": "[Prime] Oakley Men's SI Cotton Cap (Various) LG/XL from $16 + Free Shipping $16.04",
-  "url": "https://slickdeals.net/f/20116122-prime-oakley-men-s-si-cotton-cap-various-lg-xl-from-16-free-shipping-16-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+SI+Cotton+Cap+LG+XL+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29306,12 +29286,13 @@
   "source_url": "https://slickdeals.net/f/20116122-prime-oakley-men-s-si-cotton-cap-various-lg-xl-from-16-free-shipping-16-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+SI+Cotton+Cap+LG+XL+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "485b68fc815cb37b",
   "title": "Extra 20% off on Ray-Ban & Oakley Sunglasses at Woot!",
-  "url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29323,12 +29304,13 @@
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9a651ea0e74dd5b1",
   "title": "Oakley Men's Valve Polarized Sunglasses $69.99",
-  "url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29340,12 +29322,13 @@
   "source_url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1256c38a22620cce",
   "title": "Oakley Mens Sub Temp Recycled Gore-Tex Jacket 2.0, Army Green, X-Large $100.4",
-  "url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29357,12 +29340,13 @@
   "source_url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5b2ba18439b460a7",
   "title": "Extra 22% off on Shade Parade: Oakley, Ray-Ban, & More! at Woot!",
-  "url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29374,12 +29358,13 @@
   "source_url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a542b1fb7676fa56",
   "title": "Oakley O Frame MX Jet Black Ski/Snowboard Goggles $29.06 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29391,7 +29376,8 @@
   "source_url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c8399c9395e0b3dd",
@@ -29414,7 +29400,7 @@
  {
   "id": "cf445281636d0280",
   "title": "Oakley Enduro 20L 3.0 Backpack (Army Green/Pebble) $30.00 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29426,7 +29412,8 @@
   "source_url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "89b7cb3da1263f34",
@@ -29776,7 +29763,7 @@
  {
   "id": "ae627494e8c15fbe",
   "title": "Active again - Oakley Scuderia Ferrari Carbon Sunglasses @ Massdrop + Free Ship $99.99",
-  "url": "https://slickdeals.net/e/11257035-active-again-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Active+again+-+Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29788,12 +29775,13 @@
   "source_url": "https://slickdeals.net/e/11257035-active-again-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Active+again+-+Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0fecb54ce706377f",
   "title": "Oakley Scuderia Ferrari Carbon Sunglasses @ Massdrop + Free Ship $99.99",
-  "url": "https://slickdeals.net/e/11170643-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29805,7 +29793,8 @@
   "source_url": "https://slickdeals.net/e/11170643-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "de099db4e0ef9385",
@@ -34351,11 +34340,11 @@
   "pct": null,
   "price": 170.0,
   "found_at": "2026-11-05T02:01:50Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "05abfa795ca8aba2",
@@ -34504,7 +34493,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "363eb23e1d7d37c1",
@@ -34529,7 +34519,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20SDQ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "f8754e3f8baaa9f0",
@@ -34554,7 +34545,8 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "8fd63b50b1674359",
@@ -34579,6 +34571,41 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "link_tried3": true
+ },
+ {
+  "id": "fb24c386cf0741e4",
+  "title": "Acer Swift 16 AI (2026): 16\" 3K OLED 120Hz Touch, Intel Ultra X7 358H, Intel Arc B390, 16GB LPDDR5, 1TB SSD $999.99",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Acer+Swift+16+AI+16+3K+OLED+120Hz+Touch+Intel+Ultra+X7+358H+Intel+Arc+B390+16GB+",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 999.99,
+  "found_at": "2026-11-05T02:15:47Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20253519-acer-swift-16-ai-2026-16-3k-oled-120hz-touch-intel-ultra-x7-358h-intel-arc-b390-16gb-lpddr5-1tb-ssd-999-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Acer+Swift+16+AI+16+3K+OLED+120Hz+Touch+Intel+Ultra+X7+358H+Intel+Arc+B390+16GB+",
+  "exact": false
+ },
+ {
+  "id": "e82de4d835673ba1",
+  "title": "$72.50: Oakley Men's Drift Recycled Mountain Bike Sneaker (Size 11 ONLY)",
+  "url": "https://slickdeals.net/f/19571004-72-50-oakley-men-s-drift-recycled-mountain-bike-sneaker-size-11-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Oakley",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 72.5,
+  "found_at": "2026-11-05T02:15:47Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  }
 ]
