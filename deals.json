@@ -1201,23 +1201,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/gp/product/B0CGLG8CDW/ref=ox_sc_act_title_1?smid=A190NNAUEHDQVJ&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Infiixso+20+x26+Mulberry+Silk+Pillowcase"
- },
- {
-  "id": "246f6ff194f28b88",
-  "title": "Bose Smart Ultra Dolby Atmos Soundbar (Alexa, HDMI eARC) $649",
-  "url": "https://www.amazon.com/gp/product/B0C547BMQZ/ref=ox_sc_act_title_1?smid=A13BNE3P7C8THK&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 649.0,
-  "found_at": "2026-11-04T11:26:34Z",
-  "store_url": "https://www.amazon.com/gp/product/B0C547BMQZ/ref=ox_sc_act_title_1?smid=A13BNE3P7C8THK&psc=1",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+Smart+Ultra+Dolby+Atmos+Soundbar"
+  "similar": "https://www.google.com/search?tbm=shop&q=Infiixso+20+x26+Mulberry+Silk+Pillowcase",
+  "checked_at": "2026-11-05T08:34:49Z"
  },
  {
   "id": "f43173e5c22be633",
@@ -1233,7 +1218,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/gp/product/B0HJB6SFRD/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Black%20Titanium%20Case%20Smartwatch"
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Black%20Titanium%20Case%20Smartwatch",
+  "checked_at": "2026-11-05T08:34:50Z"
  },
  {
   "id": "c8665a43d3b2f432",
@@ -1249,7 +1235,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/Apple-iPad-mini-A20-Pro/dp/B0HPBW4WL3",
   "exact": true,
-  "similar": "https://www.apple.com/us/search/Apple%20iPad%20mini%20128GB%20A20%20Pro%208.5%20OLED%20WiFi%20Tablet"
+  "similar": "https://www.apple.com/us/search/Apple%20iPad%20mini%20128GB%20A20%20Pro%208.5%20OLED%20WiFi%20Tablet",
+  "checked_at": "2026-11-05T08:34:50Z"
  },
  {
   "id": "02f885b87da28695",
@@ -1265,7 +1252,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/gp/product/B0HGKSQMX6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
   "exact": true,
-  "similar": "https://www.apple.com/us/search/Apple%202026%20Mac%20Studio%20M5%20Max%2018-Core%20CPU%2032-Core%20GPU%20Desktop%20w%2036GB%20RAM%20512GB%20SS"
+  "similar": "https://www.apple.com/us/search/Apple%202026%20Mac%20Studio%20M5%20Max%2018-Core%20CPU%2032-Core%20GPU%20Desktop%20w%2036GB%20RAM%20512GB%20SS",
+  "checked_at": "2026-11-05T08:34:50Z"
  },
  {
   "id": "56b88083c4b7550b",
@@ -1281,7 +1269,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Nubwo+HG04L+Wired+Gaming+Headset"
+  "similar": "https://www.google.com/search?tbm=shop&q=Nubwo+HG04L+Wired+Gaming+Headset",
+  "checked_at": "2026-11-05T08:34:50Z"
  },
  {
   "id": "1de51c3f7009cfc2",
@@ -1297,7 +1286,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.walmart.com/ip/seort/2084195888",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Big+Ball+Turbinehead+Canister+Vacuum"
+  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Big+Ball+Turbinehead+Canister+Vacuum",
+  "checked_at": "2026-11-05T08:34:51Z"
  },
  {
   "id": "7e1870a0ac9e73e9",
@@ -1313,7 +1303,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/gp/product/B088KRPCQJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+Bluetooth+HDMI-ARC+TV+Speaker+with+Remote"
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+Bluetooth+HDMI-ARC+TV+Speaker+with+Remote",
+  "checked_at": "2026-11-05T08:34:51Z"
  },
  {
   "id": "4b64ac5bcc337de3",
@@ -1329,7 +1320,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/gp/product/B0GJTXVN9Z/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.apple.com/us/search/Apple%20AirTag%202nd%20Generation%20Tracker"
+  "similar": "https://www.apple.com/us/search/Apple%20AirTag%202nd%20Generation%20Tracker",
+  "checked_at": "2026-11-05T08:34:51Z"
  },
  {
   "id": "6b48610f24eface3",
@@ -1345,7 +1337,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "store_url": "https://www.amazon.com/gp/product/B0CCZ26B5V/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+24Hr+Playtime+Active+Noise+Cancelling+Bluetooth+Over+Ear+Headp"
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+24Hr+Playtime+Active+Noise+Cancelling+Bluetooth+Over+Ear+Headp",
+  "checked_at": "2026-11-05T08:34:51Z"
  },
  {
   "id": "2e121b94bb3bf5bb",
@@ -1363,7 +1356,8 @@
   "source_url": "https://slickdeals.net/f/20252034-coach-floral-eau-de-parfum-3-oz-51-26-reg-112?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Coach+Floral+Eau+de+Parfum+3+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:34:52Z"
  },
  {
   "id": "f4662e51f17d541e",
@@ -1380,7 +1374,8 @@
   "source_url": "https://www.dealnews.com/Avalon-Waterways-7-Night-Budapest-to-Romania-Danube-River-Cruise-for-From-8-402-for-2/22342110.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Avalon+Waterways+7-Night+Budapest+to+Romania+Danube+River+Cruise+for+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:34:52Z"
  },
  {
   "id": "421969c805b26e3c",
@@ -1398,7 +1393,8 @@
   "source_url": "https://www.dealnews.com/eBay-Refurbished-Tech-Home-Sale-Extra-20-off-free-shipping/22346286.html?iref=rss",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=eBay+Refurbished+Tech+%26+Home+Extra+20+off+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:34:52Z"
  },
  {
   "id": "0e578ae09ac507e2",
@@ -1416,7 +1412,8 @@
   "source_url": "https://www.dealnews.com/lululemon-Mens-Wildfeel-Trail-Running-Shoe-for-109-free-shipping/22346319.html?iref=rss",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+Wildfeel+Trail+Running+Shoe+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:34:52Z"
  },
  {
   "id": "809df0a7b4bf903f",
@@ -1434,7 +1431,8 @@
   "source_url": "https://www.dealnews.com/lululemon-Mens-32-L-Scuba-Backpack-for-89-free-shipping/22346302.html?iref=rss",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Men%27s+32L+Scuba+Backpack+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:34:52Z"
  },
  {
   "id": "972ca490172b3bad",
@@ -35063,7 +35061,7 @@
  {
   "id": "ab8acb85106f9628",
   "title": "Kryndors Cloud Pillow, Ergonomic Memory Foam Pillow, Cervical Neck Support & Pressure Relief $19.99",
-  "url": "https://slickdeals.net/f/20253129-kryndors-cloud-pillow-ergonomic-memory-foam-pillow-cervical-neck-support-pressure-relief-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Kryndors+Cloud+Pillow+Ergonomic+Memory+Foam+Pillow+Cervical+Neck+Support+%26+Press",
   "why": "",
   "category": "everything",
   "source": "Web search: On Cloud sale",
@@ -35071,6 +35069,37 @@
   "hot": false,
   "pct": null,
   "price": 19.99,
-  "found_at": "2026-11-05T08:26:40Z"
+  "found_at": "2026-11-05T08:26:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20253129-kryndors-cloud-pillow-ergonomic-memory-foam-pillow-cervical-neck-support-pressure-relief-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Kryndors+Cloud+Pillow+Ergonomic+Memory+Foam+Pillow+Cervical+Neck+Support+%26+Press",
+  "exact": false
+ },
+ {
+  "id": "dbc356167108ea46",
+  "title": "$82 - Oakley Mens OO9102 Holbrook Square Sunglasses,Polished Black/Prizm Sapphire, 57mm",
+  "url": "https://slickdeals.net/f/19585065-82-oakley-mens-oo9102-holbrook-square-sunglasses-polished-black-prizm-sapphire-57mm?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Oakley sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 82.0,
+  "found_at": "2026-11-05T08:34:55Z"
+ },
+ {
+  "id": "ff4f7cf5eb98ef8f",
+  "title": "Lululemon’s ‘we made too much section’ got a November refresh—shop cozy layers, polished trousers, and more from $14",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3fb9e3954bd085690876f5fae2f2&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2flululemon-s-we-made-too-much-section-got-a-november-refresh-shop-cozy-layers-polished-trousers-and-more-from-14%2far-AA2gMPGX&c=4861903579280911913&mkt=en-us",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.0,
+  "found_at": "2026-11-05T08:35:06Z"
  }
 ]
