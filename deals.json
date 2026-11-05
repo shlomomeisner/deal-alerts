@@ -944,7 +944,8 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T08:26:09Z"
  },
  {
   "id": "0f79e1d3b34e4494",
@@ -970,7 +971,8 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T08:26:10Z"
  },
  {
   "id": "f70ce9fee1c4364a",
@@ -989,7 +991,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13154440-san-francisco-to-curacao-424-rt-on-jetblue-airways-very-few-dates-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20San%20Francisco%20to%20Curacao"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20San%20Francisco%20to%20Curacao",
+  "checked_at": "2026-11-05T08:26:10Z"
  },
  {
   "id": "52b39cd91e517717",
@@ -1014,7 +1017,8 @@
    "HNL"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T08:26:12Z"
  },
  {
   "id": "c12fad50b76b60df",
@@ -1032,7 +1036,8 @@
   "source_url": "https://www.dealnews.com/Samsung-Galaxy-Phone-Early-Black-Friday-Deals-at-Best-Buy-for-From-245-free-shipping/22346288.html?iref=rss",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung+Galaxy+Phone+Early+Black+Friday+Deals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:26:20Z"
  },
  {
   "id": "378e50cfc25d27b5",
@@ -1050,7 +1055,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "checked_at": "2026-11-05T08:26:21Z"
  },
  {
   "id": "4fe2608a2ca916a6",
@@ -1066,7 +1072,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T08:26:23Z"
  },
  {
   "id": "088cf763b451e3fd",
@@ -1082,7 +1089,8 @@
   "found_at": "2026-11-04T11:26:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T08:26:24Z"
  },
  {
   "id": "625869b9c1f40565",
@@ -1100,7 +1108,8 @@
   "source_url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-Air-256-GB-Smartphone/510105.html?iref=rss",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Unlocked%20Apple%20iPhone%20Air%20Smartphone%20for%20From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:26:25Z"
  },
  {
   "id": "79f32e0edb3bd0c4",
@@ -1118,7 +1127,8 @@
   "source_url": "https://www.dealnews.com/lululemon-Trouser-Specials-Up-to-53-off-free-shipping/22346296.html?iref=rss",
   "store": "Lululemon",
   "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Trouser+Specials+Up+to+53+off+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:26:25Z"
  },
  {
   "id": "5fa82516c17d2cf9",
@@ -1136,7 +1146,8 @@
   "source_url": "https://slickdeals.net/f/20254059-ai-smart-glasses-music-sunglasses-with-open-ear-speaker-voice-control-hd-mic-uv400-lens-10h-playtime-21-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=AI+Smart+glasses+Music+Sunglasses+with+Open-Ear+Speaker+Voice+Control+%26+HD+Mic+U",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:26:26Z"
  },
  {
   "id": "41e0bbf99335f801",
@@ -1154,7 +1165,8 @@
   "source_url": "https://slickdeals.net/f/20252142-34-acer-predator-x34-3440x1440-360hz-oled-curved-ultrawide-gaming-monitor-694-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo",
   "similar": "https://www.bhphotovideo.com/c/search?q=34+Acer+Predator+X34+3440x1440+360Hz+OLED+Curved+Ultrawide+Gaming+Monitor",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:26:28Z"
  },
  {
   "id": "d16f4064eb21e9a7",
@@ -1172,7 +1184,8 @@
   "source_url": "https://slickdeals.net/f/20252097-toveen-trendy-photochromic-multifocal-reading-glasses-black-green-blue-1-5-16-49-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=TOVEEN+Trendy+Photochromic+Multifocal+Reading+Glasses+Black+Green+Blue+%2B1.5",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:26:29Z"
  },
  {
   "id": "1be95fe57210b12e",
@@ -34987,11 +35000,11 @@
   "pct": null,
   "price": 13.79,
   "found_at": "2026-11-05T08:14:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20256765-kloium-ipad-a16-case-ipad-11th-10th-generation-case-13-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Kloium+iPad+A16+Case+iPad+11th+10th+Generation+Case+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "13e6d93beb0994ab",
@@ -35005,11 +35018,11 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-11-05T08:14:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20248923-bose-x-kendra-scott-ultra-open-earbuds-3-colors-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+x+Kendra+Scott+Ultra+Open+Earbuds",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "98edb748fdcff9f6",
@@ -35028,5 +35041,36 @@
   "store": "Target",
   "similar": "https://www.target.com/s?searchTerm=Target+of+the+Day+11+9+30+off+Dyson+V10+Stick+Vacuums",
   "exact": false
+ },
+ {
+  "id": "b7ef912fbfe0c85f",
+  "title": "Apple AirPods 5 w/ Active Noise Cancellation for $119 + free shipping w/ Prime",
+  "url": "https://www.apple.com/us/search/Apple%20AirPods%205%20w%20Active%20Noise%20Cancellation%20for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 119.0,
+  "found_at": "2026-11-05T08:23:09Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Apple-Air-Pods-5-w-Active-Noise-Cancellation-for-119-free-shipping-w-Prime/22350578.html?iref=rss",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20AirPods%205%20w%20Active%20Noise%20Cancellation%20for",
+  "exact": false
+ },
+ {
+  "id": "ab8acb85106f9628",
+  "title": "Kryndors Cloud Pillow, Ergonomic Memory Foam Pillow, Cervical Neck Support & Pressure Relief $19.99",
+  "url": "https://slickdeals.net/f/20253129-kryndors-cloud-pillow-ergonomic-memory-foam-pillow-cervical-neck-support-pressure-relief-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: On Cloud sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.99,
+  "found_at": "2026-11-05T08:26:40Z"
  }
 ]
