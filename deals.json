@@ -5249,7 +5249,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:49:41Z"
  },
  {
   "id": "b3831e98cafa48f5",
@@ -5267,7 +5268,8 @@
   "source_url": "https://slickdeals.net/f/20243925-hermes-un-jardin-sur-le-nil-eau-de-toilette-3-3-fl-oz-84-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Hermes+Un+Jardin+sur+le+Nil+Eau+de+Toilette+3.3+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:49:43Z"
  },
  {
   "id": "fcb7e8ff0280a27e",
@@ -5283,7 +5285,8 @@
   "found_at": "2026-11-04T17:30:23Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:49:45Z"
  },
  {
   "id": "274ed5244a7c2ae8",
@@ -5301,7 +5304,8 @@
   "source_url": "https://slickdeals.net/f/20130552-20-off-hermes-new-pre-owned-handbags-deals-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=20+Off+Hermes+Pre-owned+Handbags+Deals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:49:47Z"
  },
  {
   "id": "b46124d1d204e6b2",
@@ -5317,7 +5321,8 @@
   "found_at": "2026-11-04T17:30:23Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:49:49Z"
  },
  {
   "id": "4aee8dd82d1ca186",
@@ -5333,7 +5338,8 @@
   "found_at": "2026-11-04T17:30:23Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:49:51Z"
  },
  {
   "id": "b36eb719c1dd0591",
@@ -5350,7 +5356,8 @@
   "source_url": "https://slickdeals.net/f/19867287-hermes-jour-d-hermes-eau-de-parfum-spray-for-women-refillable-2-87-fluid-ounce-77-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Jour+D%27hermes+Eau+de+Parfum+Spray+for+Women+Refillable+2.87+Fluid+Ounce",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:49:53Z"
  },
  {
   "id": "7202089894b4dcd8",
@@ -5368,7 +5375,8 @@
   "source_url": "https://slickdeals.net/f/19756947-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:49:55Z"
  },
  {
   "id": "0a95b06eb24b78a2",
@@ -5385,7 +5393,8 @@
   "source_url": "https://slickdeals.net/f/19577667-hermes-terre-d-hermes-eau-de-toilette-3-3-fl-oz-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hermes+Terre+D%27Hermes+Eau+de+Toilette+3.3+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:49:56Z"
  },
  {
   "id": "44bb6218c31b3c7f",
@@ -5403,7 +5412,8 @@
   "source_url": "https://slickdeals.net/f/20079987-celine-dion-these-are-special-times-2lp-pearly-white-vinyl-34-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Celine+Dion+These+Are+Special+Times",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:49:58Z"
  },
  {
   "id": "a2a59460f6d8112f",
@@ -5419,7 +5429,8 @@
   "found_at": "2026-11-04T17:30:26Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:50:00Z"
  },
  {
   "id": "a73baeb0be190225",
@@ -5437,7 +5448,8 @@
   "source_url": "https://slickdeals.net/f/19917945-celine-dion-falling-into-you-vinyl-lp-mp3-album-27-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Celine+Dion+Falling+Into+You",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:50:02Z"
  },
  {
   "id": "092d434ca12500d4",
@@ -5455,7 +5467,8 @@
   "source_url": "https://slickdeals.net/f/18560644-3-piece-celine-line-high-quality-comforter-set-king-cal-king-black-gray-23-40-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=3-Piece+Celine+Line+High+Quality+Comforter+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:50:06Z"
  },
  {
   "id": "f450d125d6ad996d",
@@ -5472,7 +5485,8 @@
   "source_url": "https://slickdeals.net/f/16379251-celine-micro-luggage-handbag-black-calfskin-open-box-1-199-w-free-prime-ship-1199?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Celine+Micro+Luggage+Handbag+Black+Calfskin",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:50:08Z"
  },
  {
   "id": "a78f4a290a6ed9c5",
@@ -27747,7 +27761,7 @@
  {
   "id": "847c054aa6e9e3ce",
   "title": "Kloium iPad A16 Case, iPad 11th/10th Generation Case - $13.79 AC",
-  "url": "https://slickdeals.net/f/20256765-kloium-ipad-a16-case-ipad-11th-10th-generation-case-13-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Kloium+iPad+A16+Case+iPad+11th+10th+Generation+Case+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ipad Air",
@@ -27759,7 +27773,8 @@
   "source_url": "https://slickdeals.net/f/20256765-kloium-ipad-a16-case-ipad-11th-10th-generation-case-13-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Kloium+iPad+A16+Case+iPad+11th+10th+Generation+Case+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "13e6d93beb0994ab",
@@ -27866,7 +27881,7 @@
  {
   "id": "cdfd4f64f9462d4d",
   "title": "Shoe Washing Machine Bag for $7 + free shipping w/ Prime",
-  "url": "https://www.dealnews.com/Shoe-Washing-Machine-Bag-for-7-free-shipping-w-Prime/22350601.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Shoe+Washing+Machine+Bag+for",
   "why": "",
   "category": "amazon",
   "source": "DealNews",
@@ -27878,12 +27893,13 @@
   "source_url": "https://www.dealnews.com/Shoe-Washing-Machine-Bag-for-7-free-shipping-w-Prime/22350601.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Shoe+Washing+Machine+Bag+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c8f3d27d1995b7a3",
   "title": "Woot Beauty & Personal Care Clearance: Up to 74% off + free shipping w/ Prime",
-  "url": "https://www.dealnews.com/Woot-Beauty-Personal-Care-Clearance-Up-to-74-off-free-shipping-w-Prime/22350599.html?iref=rss",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Beauty+%26+Personal+Care+Clearance+Up+to+74+off+%2B+w+Prime",
   "why": "Gucci 74% off",
   "category": "fragrance",
   "source": "DealNews",
@@ -27895,7 +27911,8 @@
   "source_url": "https://www.dealnews.com/Woot-Beauty-Personal-Care-Clearance-Up-to-74-off-free-shipping-w-Prime/22350599.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+Beauty+%26+Personal+Care+Clearance+Up+to+74+off+%2B+w+Prime",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ab3158f6c589c1ab",
@@ -27918,7 +27935,7 @@
  {
   "id": "771cb4b8aa5ec4ee",
   "title": "Refurbished: 32GB 10.2\" Apple iPad (8th Gen, 2020) - $87.47 @ Woot!",
-  "url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ipad",
@@ -27930,7 +27947,8 @@
   "source_url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8c319ac81bb8c195",
@@ -28415,7 +28433,7 @@
  {
   "id": "bc5e6b6e7cd98032",
   "title": "Garmin Forerunner 265 46mm GPS Smartwatch with AMOLED Display $203 + Free Shipping $203.3",
-  "url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin Forerunner",
@@ -28427,12 +28445,13 @@
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3fc0f69bee99a70f",
   "title": "[GOVX] Garmin Forerunner 970 Watch",
-  "url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+Watch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin Forerunner",
@@ -28444,7 +28463,8 @@
   "source_url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "039a8ee8eab545ac",
@@ -28499,7 +28519,7 @@
  {
   "id": "46be5cad8cbaeb0a",
   "title": "Garmin Forerunner 970 GPS Running Smartwatch (Carbon Gray) $530 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20113917-garmin-forerunner-970-gps-running-smartwatch-carbon-gray-530-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+GPS+Running+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin Forerunner",
@@ -28511,7 +28531,8 @@
   "source_url": "https://slickdeals.net/f/20113917-garmin-forerunner-970-gps-running-smartwatch-carbon-gray-530-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+GPS+Running+Smartwatch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "11a83881dcace2ec",
@@ -28566,7 +28587,7 @@
  {
   "id": "047c6fa92470fac3",
   "title": "Garmin 26mm quickfit band & other bands + FS OEM store $37.49",
-  "url": "https://slickdeals.net/f/20013600-garmin-26mm-quickfit-band-other-bands-fs-oem-store-37-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+26mm+quickfit+band+%26+other+bands+%2B+FS+OEM+store",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin Forerunner",
@@ -28578,12 +28599,13 @@
   "source_url": "https://slickdeals.net/f/20013600-garmin-26mm-quickfit-band-other-bands-fs-oem-store-37-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+26mm+quickfit+band+%26+other+bands+%2B+FS+OEM+store",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3fc14ab0ecca3da9",
   "title": "Garmin Forerunner 265 GPS 46mm Smartwatch 1.3\" AMOLED Touchscreen Display Heart Rate Monitoring $241.34",
-  "url": "https://slickdeals.net/f/20012886-garmin-forerunner-265-gps-46mm-smartwatch-1-3-amoled-touchscreen-display-heart-rate-monitoring-241-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+GPS+46mm+Smartwatch+1.3+AMOLED+Touchscreen+Display+Heart+R",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin Forerunner",
@@ -28595,7 +28617,8 @@
   "source_url": "https://slickdeals.net/f/20012886-garmin-forerunner-265-gps-46mm-smartwatch-1-3-amoled-touchscreen-display-heart-rate-monitoring-241-34?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+GPS+46mm+Smartwatch+1.3+AMOLED+Touchscreen+Display+Heart+R",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "43f2db2e0ac67f47",
@@ -28684,7 +28707,7 @@
  {
   "id": "38ba02620fed8eda",
   "title": "Garmin vívoactive® 5, Health & Fitness GPS Smartwatch, 42mm, Ivory $181.97",
-  "url": "https://slickdeals.net/f/19953834-garmin-v-voactive-5-health-fitness-gps-smartwatch-42mm-ivory-181-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+v+voactive+5+Health+%26+Fitness+GPS+Smartwatch+42mm+Ivory",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin Forerunner",
@@ -28696,12 +28719,13 @@
   "source_url": "https://slickdeals.net/f/19953834-garmin-v-voactive-5-health-fitness-gps-smartwatch-42mm-ivory-181-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+v+voactive+5+Health+%26+Fitness+GPS+Smartwatch+42mm+Ivory",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c2d3adf2587c7471",
   "title": "Garmin Forerunner 55 GPS Running Watch (Black) $129 + Free Shipping",
-  "url": "https://slickdeals.net/f/19923882-garmin-forerunner-55-gps-running-watch-black-129-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+55+GPS+Running+Watch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin Forerunner",
@@ -28713,7 +28737,8 @@
   "source_url": "https://slickdeals.net/f/19923882-garmin-forerunner-55-gps-running-watch-black-129-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+55+GPS+Running+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0f8b1e153036aff2",
@@ -28754,7 +28779,7 @@
  {
   "id": "0b0c31099345d89c",
   "title": "Best gaming monitor deal: LG's 27-inch 240Hz OLED hits all-time low - Mashable",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Best+gaming+monitor+LG%27s+27-inch+240Hz+OLED+hits+-+Mashable",
   "why": "Oled — all-time low",
   "category": "tech",
   "source": "Google: OLED TV deal",
@@ -28766,7 +28791,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Best+gaming+monitor+LG%27s+27-inch+240Hz+OLED+hits+-+Mashable",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b15d052857f299f2",
@@ -33840,11 +33866,11 @@
   "pct": null,
   "price": 599.99,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20255295-garmin-fenix-8-amoled-47mm-grey-black-or-silver-whitestone-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+47MM+Grey+Black+or+Silver+Whitestone",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1b99bba8366a96d2",
@@ -33874,11 +33900,11 @@
   "pct": null,
   "price": 158.5,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping-at-nexwear-store-via-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+Sports+Smartwatch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7f5fcbfe0cd2230f",
@@ -33892,11 +33918,11 @@
   "pct": null,
   "price": 203.0,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6964559054fcf823",
@@ -33946,11 +33972,11 @@
   "pct": null,
   "price": 599.99,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e85c3a9afc85d927",
@@ -34150,11 +34176,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c052cf7adba2f2a0",
@@ -34200,11 +34226,11 @@
   "pct": null,
   "price": 680.0,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18987919-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-680?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Classic+Swiss+Made+Automatic+Silver+Stainless+Steel+Wa",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b224a3ba926962f2",
@@ -34218,11 +34244,11 @@
   "pct": null,
   "price": 799.99,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18962188-frederique-constant-men-s-classic-swiss-made-automatic-silver-stainless-steel-watch-799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Classic+Swiss+Made+Automatic+Silver+Stainless+Steel+Wa",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e9c27f70f1659175",
@@ -34236,11 +34262,11 @@
   "pct": null,
   "price": 998.01,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18045150-frederique-constant-men-s-watch-slimline-automatic-black-leather-strap-723gr3s6-sale-998-01-with-code-nys2520?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+-+Slimline+Automatic+Black+Leather+Strap+723GR3S",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bb798663026440f7",
@@ -34254,11 +34280,11 @@
   "pct": 30,
   "price": 940.96,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17873613-frederique-constant-men-s-watch-slimline-automatic-940-96?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f370138ad676fad7",
@@ -34272,11 +34298,11 @@
   "pct": null,
   "price": 999.0,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17618073-frederique-constant-men-s-watch-slimline-power-reserve-silver-tone-dial-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Watch+Slimline+Power+Reserve",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a5c41220b4865c73",
@@ -34290,11 +34316,11 @@
   "pct": null,
   "price": 299.99,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17123770-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3ce191795bf97bd1",
@@ -34308,11 +34334,11 @@
   "pct": null,
   "price": 275.0,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17122099-frederique-constant-men-s-quartz-grey-dial-275-slimline-small-seconds-quartz-watch-349-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Men%27s+Quartz+Grey+Dial",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9f19bf3d5ca9508f",
@@ -34326,11 +34352,11 @@
   "pct": null,
   "price": 309.95,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17012404-frederique-constant-quartz-grey-dial-309-95-classics-automatic-blue-dial-men-s-watch-495-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Quartz+Grey+Dial",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5a59460e116f2306",
@@ -34344,11 +34370,11 @@
   "pct": 30,
   "price": 339.99,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16629056-frederique-constant-automatic-silver-dial-ladies-watch-339-99-after-coupon-jomashop-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+FREDERIQUE+CONSTANT+-+Automatic+Silver+Dial+Ladies+Watch+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2cfc93e6fa1b6494",
@@ -34362,11 +34388,11 @@
   "pct": null,
   "price": 299.0,
   "found_at": "2026-11-05T16:38:03Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16596842-frederique-constant-slimline-38mm-quartz-silver-dial-men-s-watch-fc-220s5s6-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Frederique+Constant+Slimline+38mm+Quartz+Silver+Dial+Men%27s+Watch+FC-220S5S6",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bd6bc89e3238c9bd",
@@ -34409,12 +34435,13 @@
    "ARN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20ARN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20ARN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "fa88a6bf423ab94d",
   "title": "Cert. Refurb: Dyson V15 Detect Total Clean Extra Yellow/Nickel $320 + Free Shipping",
-  "url": "https://slickdeals.net/f/20255058-cert-refurb-dyson-v15-detect-total-clean-extra-yellow-nickel-320-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Cert.+Refurb+Dyson+V15+Detect+Total+Clean+Extra+Yellow+Nickel",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -34422,12 +34449,17 @@
   "hot": false,
   "pct": null,
   "price": 320.0,
-  "found_at": "2026-11-05T16:41:33Z"
+  "found_at": "2026-11-05T16:41:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20255058-cert-refurb-dyson-v15-detect-total-clean-extra-yellow-nickel-320-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Cert.+Refurb+Dyson+V15+Detect+Total+Clean+Extra+Yellow+Nickel",
+  "exact": false
  },
  {
   "id": "a98863c5bed110b3",
   "title": "Target Deal of the Day 11/9 30% off Dyson V10 Stick Vacuums",
-  "url": "https://slickdeals.net/f/20254707-target-deal-of-the-day-11-9-30-off-dyson-v10-stick-vacuums?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.target.com/s?searchTerm=Target+of+the+Day+11+9+30+off+Dyson+V10+Stick+Vacuums",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -34435,12 +34467,17 @@
   "hot": false,
   "pct": 30,
   "price": null,
-  "found_at": "2026-11-05T16:41:33Z"
+  "found_at": "2026-11-05T16:41:33Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20254707-target-deal-of-the-day-11-9-30-off-dyson-v10-stick-vacuums?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Target",
+  "similar": "https://www.target.com/s?searchTerm=Target+of+the+Day+11+9+30+off+Dyson+V10+Stick+Vacuums",
+  "exact": false
  },
  {
   "id": "09b9b305d157db06",
   "title": "Refurb: DJI Osmo Nano 128GB Action Camera Combo with 1/1.3-Inch Sensor and 4K/60fps Video $141.2 + Free Shipping",
-  "url": "https://slickdeals.net/f/20261451-refurb-dji-osmo-nano-128gb-action-camera-combo-with-1-1-3-inch-sensor-and-4k-60fps-video-141-2-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Nano+128GB+Action+Camera+Combo+with+1+1.3-Inch+Sensor+and+4K+60f",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -34448,45 +34485,255 @@
   "hot": false,
   "pct": null,
   "price": 141.2,
-  "found_at": "2026-11-05T16:41:36Z"
+  "found_at": "2026-11-05T16:41:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20261451-refurb-dji-osmo-nano-128gb-action-camera-combo-with-1-1-3-inch-sensor-and-4k-60fps-video-141-2-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Nano+128GB+Action+Camera+Combo+with+1+1.3-Inch+Sensor+and+4K+60f",
+  "exact": false
  },
  {
-  "id": "8d068d78ed61ba18",
-  "title": "DJI Mic 3 Wireless Microphone Set with Charging Case $148",
-  "url": "https://slickdeals.net/f/20245671-dji-mic-3-wireless-microphone-set-with-charging-case-148?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "4562db8091ea96b7",
+  "title": "Verizon Holiday Deals: Up to $650 off + free shipping",
+  "url": "https://www.google.com/search?q=site%3Averizon.com+Verizon+Holiday+Deals+Up+to",
   "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
+  "category": "watches",
+  "source": "DealNews",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 148.0,
-  "found_at": "2026-11-05T16:41:36Z"
+  "price": 650.0,
+  "found_at": "2026-11-05T16:46:47Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Verizon-Holiday-Deals-Up-to-650-off-free-shipping/22351241.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Averizon.com+Verizon+Holiday+Deals+Up+to",
+  "exact": false
  },
  {
-  "id": "15dc2ad9d5d1d069",
-  "title": "DJI Mic Mini Wireless Microphone System 2 TX + 1 RX + Charging Case $57 + Free Shipping",
-  "url": "https://slickdeals.net/f/20243667-dji-mic-mini-wireless-microphone-system-2-tx-1-rx-charging-case-57-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "452546608e7b538a",
+  "title": "MacBook pro 14in m5 pro 18/20, 1TB SSD, 48GB $2799",
+  "url": "https://www.google.com/search?tbm=shop&q=MacBook+pro+14in+m5+pro+18+20+1TB+SSD+48GB",
   "why": "",
   "category": "tech",
-  "source": "Web search: DJI deal",
+  "source": "Slickdeals: Macbook",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 57.0,
-  "found_at": "2026-11-05T16:41:36Z"
+  "price": 2799.0,
+  "found_at": "2026-11-05T16:46:47Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20261787-macbook-pro-14in-m5-pro-18-20-1tb-ssd-48gb-2799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=MacBook+pro+14in+m5+pro+18+20+1TB+SSD+48GB",
+  "exact": false
  },
  {
-  "id": "b043bad2b6f283e1",
-  "title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19987707-lc-dolida-fence-mount-w-sun-rain-visor-for-gopro-dji-insta360-smartphones-9-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "33c833e38dcb70d2",
+  "title": "$99.99* | Garmin Dash Cam Mini 3 (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20186394-99-99-garmin-dash-cam-mini-3-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
-  "source": "Web search: GoPro deal",
+  "source": "Web search: Garmin deal",
   "urgent": false,
   "hot": false,
-  "pct": 50,
-  "price": 9.97,
-  "found_at": "2026-11-05T16:41:39Z"
+  "pct": null,
+  "price": 99.99,
+  "found_at": "2026-11-05T16:50:10Z"
+ },
+ {
+  "id": "2a38bfac27e8a97c",
+  "title": "Garmin PRO Trashbreaker Handheld $269.99",
+  "url": "https://slickdeals.net/f/20184462-garmin-pro-trashbreaker-handheld-269-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 269.99,
+  "found_at": "2026-11-05T16:50:10Z"
+ },
+ {
+  "id": "7beb0e563796f30e",
+  "title": "$279.99* | 45mm Garmin Venu 3 Premium Fitness Smartwatch at Amazon",
+  "url": "https://slickdeals.net/f/20163039-279-99-45mm-garmin-venu-3-premium-fitness-smartwatch-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Garmin deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 279.99,
+  "found_at": "2026-11-05T16:50:10Z"
+ },
+ {
+  "id": "e82ace12c69493d2",
+  "title": "Garmin Dash Cam™ Mini 3, Ultracompact 1080p HD Dash Cam $99.99 + Free S&H at Amazon",
+  "url": "https://slickdeals.net/f/20144541-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-99-99-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.99,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "1c2c13145ea2a182",
+  "title": "Garmin Forerunner 165 Running Smartwatch $199.99 (reg. $249.99) — Record Low at Amazon",
+  "url": "https://slickdeals.net/f/19464609-garmin-forerunner-165-running-smartwatch-199-99-reg-249-99-record-low-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 199.99,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "c6ddeb5bf36a8b4b",
+  "title": "$99.99: Garmin Dash Cam Mini 3 (Black) at Amazon",
+  "url": "https://slickdeals.net/f/19395585-99-99-garmin-dash-cam-mini-3-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.99,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "0187c7806f6b43dd",
+  "title": "Garmin - Dash Cam X210 1440p Dash Cam with a 140-degree Field of View and built-in Clarity Polarizer - Black $249",
+  "url": "https://slickdeals.net/f/19002871-garmin-dash-cam-x210-1440p-dash-cam-with-a-140-degree-field-of-view-and-built-in-clarity-polarizer-black-249?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 249.0,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "377191f2d9010616",
+  "title": "Garmin Epix Gen 2 Sapphire 47mm GPS Smartwatch, White Titanium #010-02582-20 - $399",
+  "url": "https://slickdeals.net/f/17950593-garmin-epix-gen-2-sapphire-47mm-gps-smartwatch-white-titanium-010-02582-20-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.0,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "d44e5d734b7529f7",
+  "title": "Garmin Varia RCT715 Rearview Bike Radar w/ Camera & Tail Light $300 + Free Shipping",
+  "url": "https://slickdeals.net/f/17710125-garmin-varia-rct715-rearview-bike-radar-w-camera-tail-light-300-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 300.0,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "3127d4199931f48b",
+  "title": "Garmin Approach R10 Golf Launch Monitor $470 + Free Shipping",
+  "url": "https://slickdeals.net/f/17450997-garmin-approach-r10-golf-launch-monitor-470-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 470.0,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "a67506805be03461",
+  "title": "GARMIN Edge 820 NHO (274.99 w/ Free Ship / Refurb by Garmin) $274.99",
+  "url": "https://slickdeals.net/e/14314103-garmin-edge-820-nho-274-99-w-free-ship-refurb-by-garmin-274-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 274.99,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "d338b63b61e02521",
+  "title": "Garmin - Mini Dash Cam $79.99",
+  "url": "https://slickdeals.net/e/13737188-garmin-mini-dash-cam-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "30ce45c3226ee96c",
+  "title": "Garmin Dash Cam 65 $197 FS w/Prime $197",
+  "url": "https://slickdeals.net/e/13283572-garmin-dash-cam-65-197-fs-w-prime-197?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Garmin record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 197.0,
+  "found_at": "2026-11-05T16:50:11Z"
+ },
+ {
+  "id": "302feda81dd52808",
+  "title": "Trek Power 26\" 48V 500W Electric City Commuter Bike (Black) $249.99 + Free Shipping",
+  "url": "https://slickdeals.net/f/19628676-trek-power-26-48v-500w-electric-city-commuter-bike-black-249-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Trek bike deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 249.99,
+  "found_at": "2026-11-05T16:50:13Z"
+ },
+ {
+  "id": "4601e96173a248ec",
+  "title": "Specialized Camber MIPS Helmet - bike, bicycle helmet $39.99",
+  "url": "https://slickdeals.net/f/19985787-specialized-camber-mips-helmet-bike-bicycle-helmet-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Specialized bike deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-05T16:50:16Z"
+ },
+ {
+  "id": "65c305977976371f",
+  "title": "Specialized Static 4 Bike Helmet $59.99",
+  "url": "https://slickdeals.net/f/19975650-specialized-static-4-bike-helmet-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Specialized bike deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.99,
+  "found_at": "2026-11-05T16:50:16Z"
  }
 ]
