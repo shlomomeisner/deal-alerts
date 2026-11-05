@@ -287,7 +287,8 @@
   "source_url": "https://www.dealnews.com/products/Vizio/Vizio-M55-Q6-L4-55-HDR-QLED-UHD-Smart-TV/483584.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open-Box+Vizio+M55Q6-L4+M-Series+55+HDR+QLED+UHD+Smart+TV+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T07:59:03Z"
  },
  {
   "id": "3a8ea7523b0e4560",
@@ -303,7 +304,8 @@
   "found_at": "2026-11-04T10:15:07Z",
   "store_url": "https://www.amazon.com/gp/product/B0CCZ1SQ8G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+ANC+Wireless+Bluetooth+Over+Ear+Headphones"
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+ANC+Wireless+Bluetooth+Over+Ear+Headphones",
+  "checked_at": "2026-11-05T07:59:03Z"
  },
  {
   "id": "39201ac13d2b132b",
@@ -319,7 +321,8 @@
   "found_at": "2026-11-04T10:15:07Z",
   "store_url": "https://www.amazon.com/gp/product/B0F7HVC62G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+SoundLink+Plus+Waterproof+and+Dustproof+Portable+Bluetooth+Speaker"
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+SoundLink+Plus+Waterproof+and+Dustproof+Portable+Bluetooth+Speaker",
+  "checked_at": "2026-11-05T07:59:03Z"
  },
  {
   "id": "32bc3ee64cc0bafb",
@@ -335,7 +338,8 @@
   "found_at": "2026-11-04T10:15:07Z",
   "store_url": "https://www.amazon.com/gp/product/B0H7X6SX6R/ref=ox_sc_act_title_1?ie=UTF8&smid=ATVPDKIKX0DER&redirect=true&psc=1&s=psc&ASIN=B0H7X6SX6R",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+Watch+5+41mm+Android+Smartwatch"
+  "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+Watch+5+41mm+Android+Smartwatch",
+  "checked_at": "2026-11-05T07:59:03Z"
  },
  {
   "id": "623636f1f74d0e6c",
@@ -360,7 +364,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T07:59:05Z"
  },
  {
   "id": "831894177b06a361",
@@ -385,7 +390,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T07:59:06Z"
  },
  {
   "id": "c260a7d58134c98f",
@@ -410,7 +416,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T07:59:08Z"
  },
  {
   "id": "16eaf8de538cf6e5",
@@ -435,7 +442,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T07:59:09Z"
  },
  {
   "id": "6104edd228f64ec4",
@@ -460,7 +468,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T07:59:11Z"
  },
  {
   "id": "7aeeb030cdbea5f6",
@@ -485,7 +494,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T07:59:12Z"
  },
  {
   "id": "efec9c897194bfae",
@@ -510,7 +520,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T07:59:14Z"
  },
  {
   "id": "9b18ba97c10d83e8",
@@ -529,7 +540,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at",
+  "checked_at": "2026-11-05T07:59:15Z"
  },
  {
   "id": "a7b53356a8236536",
@@ -26832,7 +26844,7 @@
  {
   "id": "d2036810ceb52321",
   "title": "JBL 305P MKII Super White 5\" Powered Studio Monitor $89 (Each) FS",
-  "url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
   "why": "",
   "category": "tech",
   "source": "Web search: JBL record low",
@@ -26844,12 +26856,13 @@
   "source_url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "afa09cd57ece6e51",
   "title": "JBL SUB 550PBK $189.95 (back ordered Dec. 14)",
-  "url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -26861,12 +26874,13 @@
   "source_url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "878820e264ac6595",
   "title": "JBL M-Patch Active-1 - $49.99 +free shipping",
-  "url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -26878,12 +26892,13 @@
   "source_url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "334ce60d3c03e9b5",
   "title": "JBL Live 780NC with 80-hour battery life drop below $140 with a 44% discount - PhoneArena",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BRmdQWm13eWhGaV9NMWd0eVg2aTU1WUpuLXZMV1AwZXJTaEJJOUlETHd2b3lNSlR2R0VBbGM1VTFReXlpTEZrQVZuTi1paXcya0NjZnJId1FENV9BQzJCT1dMWDM5OFhmSkpOY0tQR0U0UlNNQmc?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+Live+780NC+with+80-hour+battery+life+drop+below",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -26895,7 +26910,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BRmdQWm13eWhGaV9NMWd0eVg2aTU1WUpuLXZMV1AwZXJTaEJJOUlETHd2b3lNSlR2R0VBbGM1VTFReXlpTEZrQVZuTi1paXcya0NjZnJId1FENV9BQzJCT1dMWDM5OFhmSkpOY0tQR0U0UlNNQmc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+Live+780NC+with+80-hour+battery+life+drop+below",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6fc823e95080e015",
@@ -27054,7 +27070,7 @@
  {
   "id": "b5e88b50288dc778",
   "title": "Bose QuietComfort Ultra Headphones (2nd Gen) - Refurbished $279 Various Colors",
-  "url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27066,12 +27082,13 @@
   "source_url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "93ed17e4cecbb765",
   "title": "Comply Premium Memory Foam Replacement Ear Pads for Bose QuietComfort Ultra Gen 1 & 2 Headphones | $4.99 w/ Free Ship from Woot using Prime",
-  "url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27083,12 +27100,13 @@
   "source_url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "90ced29374ebd560",
   "title": "Save 60% for 2 Days Only Bose QuietComfort Headphones - Refurbished Black $129 Bose.com",
-  "url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27100,12 +27118,13 @@
   "source_url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2059224dc35a99df",
   "title": "Certified Refurb: Bose QuietComfort Noise Cancelling Headphones $123 + Free S&H",
-  "url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27117,7 +27136,8 @@
   "source_url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "45a074aeaa06aeff",
@@ -27140,7 +27160,7 @@
  {
   "id": "b4ede2b9121da669",
   "title": "Duratech 1/4\" Drive Ratchet Handle $8.79, Bose QuietComfort Noise Cancelling Headphones $159.20 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Duratech+1+4+Drive+Ratchet+Handle",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27152,7 +27172,8 @@
   "source_url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Duratech+1+4+Drive+Ratchet+Handle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "da1a598c1fda8cec",
