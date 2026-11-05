@@ -1,100 +1,5 @@
 [
  {
-  "id": "a35a98209c883385",
-  "title": "All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more",
-  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "why": "Le Labo deal",
-  "category": "fragrance",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false,
-  "checked_at": "2026-11-05T02:27:47Z"
- },
- {
-  "id": "1d2cdcf96af24549",
-  "title": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false,
-  "checked_at": "2026-11-05T02:27:49Z"
- },
- {
-  "id": "1db29fb40cb772df",
-  "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display XDR $329+ off, iPad Air $100 off, charging gear, more",
-  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "why": "Ipad — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 329.0,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false,
-  "checked_at": "2026-11-05T02:27:49Z"
- },
- {
-  "id": "6d30cf3d0e2864d5",
-  "title": "Apple Labor Day 2026 deals now live: AirPods Pro 3, M6 Mac mini, AirTag 2, iPhone, more [Updated]",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Apple Watch deal",
-  "category": "fragrance",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+Labor+Day+2026+deals+now+live+AirPods+Pro+3+M6+Mac+mini+AirTag+2+iPhone+mo",
-  "checked_at": "2026-11-05T02:27:49Z"
- },
- {
-  "id": "5101ee1597b50994",
-  "title": "Deals: iPhone Air up to $359 off, iPhone 17 Pro, M5 MacBook Air $240 off, AirTag 2, more",
-  "url": "https://bestbuycreators.7tiv.net/MAMazN",
-  "why": "Iphone — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 359.0,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
-  "store": "7Tiv",
-  "similar": "https://bestbuycreators.7tiv.net/MAMazN",
-  "exact": false,
-  "checked_at": "2026-11-05T02:27:49Z"
- },
- {
   "id": "b83a2a5fedf5c880",
   "title": "Deals: AirPods from $80, MagSafe Battery up to 60% off, AirTag 2 $20 each, Apple Pencil, more",
   "url": "https://www.amazon.com/events/labordaysale?language=en_US",
@@ -1105,7 +1010,8 @@
   "source_url": "https://slickdeals.net/f/20096997-costco-members-77-sony-bravia-6-oled-series-4k-smart-google-tv-w-5-year-warranty-2200-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+77+Sony+BRAVIA+6+OLED+Series+4K+Smart+Google+TV+w+5+Year+Warranty",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:15:33Z"
  },
  {
   "id": "3952533f1de3f70d",
@@ -1121,7 +1027,8 @@
   "found_at": "2026-11-04T05:13:51Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T04:15:35Z"
  },
  {
   "id": "a2a30d9b97273cb4",
@@ -1139,7 +1046,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+65+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20037975-sony-65-inch-bravia-6-oled-4k-hdr-smart-google-tv-with-gemini-k-65a60-1698?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-05T04:15:36Z"
  },
  {
   "id": "59a9b408379e56ec",
@@ -1157,7 +1065,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+48+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20018544-sony-48-inch-bravia-6-oled-4k-hdr-smart-google-tv-with-gemini-k-48a60-1098?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-05T04:15:37Z"
  },
  {
   "id": "d931de79fdff1290",
@@ -1173,7 +1082,8 @@
   "found_at": "2026-11-04T05:13:51Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T04:15:39Z"
  },
  {
   "id": "934690ccc899f5c5",
@@ -1189,7 +1099,8 @@
   "found_at": "2026-11-04T05:13:51Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T04:15:41Z"
  },
  {
   "id": "96cbe36558671df4",
@@ -1207,7 +1118,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Boxes+Sony+48+Class+BRAVIA+XR+A90K+OLED+4K+UHD+Smart+Google+TV",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19947495-open-boxes-sony-48-class-bravia-xr-a90k-oled-4k-uhd-smart-google-tv-2022-564-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-05T04:15:43Z"
  },
  {
   "id": "86446f45af0b486f",
@@ -1225,7 +1137,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+65+Inch+BRAVIA+8+II+QD+OLED+4K+HDR+Smart+Google+TV",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19919724-sony-65-inch-bravia-8-ii-qd-oled-4k-hdr-smart-google-tv-k-65xr80m2-2498?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-05T04:15:46Z"
  },
  {
   "id": "871463d2e57ebd03",
@@ -28983,7 +28896,7 @@
  {
   "id": "b519b30a71576703",
   "title": "Ray-Ban, Oakley, Costa, Under Armour Sunglasses (Non & Polarized) Up to 60% Off + Free Shipping",
-  "url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -28995,12 +28908,13 @@
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b9e59bb922de70d3",
   "title": "Oakley Tincan Men's 6-Panel Cap (Large, Nile Green) $18.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29012,12 +28926,13 @@
   "source_url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d083855914bbc148",
   "title": "Oakley & Ray-Ban Sunglasses Deals at Zulily $56.99",
-  "url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29029,7 +28944,8 @@
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f4b5cab1d00c8244",
@@ -29480,7 +29396,7 @@
  {
   "id": "b173023aed32112c",
   "title": "Half Jacket 2.0 Sunglasses - Polished Black/PolarizedOakley $79.99",
-  "url": "https://slickdeals.net/e/12156904-half-jacket-2-0-sunglasses-polished-black-polarizedoakley-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Half+Jacket+2.0+Sunglasses+-+Polished+Black+PolarizedOakley",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29492,12 +29408,13 @@
   "source_url": "https://slickdeals.net/e/12156904-half-jacket-2-0-sunglasses-polished-black-polarizedoakley-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Half+Jacket+2.0+Sunglasses+-+Polished+Black+PolarizedOakley",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8761647c17ea4172",
   "title": "Oakley Holbrook Sunglasses $30 $20",
-  "url": "https://slickdeals.net/e/11712383-oakley-holbrook-sunglasses-30-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Holbrook+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29509,12 +29426,13 @@
   "source_url": "https://slickdeals.net/e/11712383-oakley-holbrook-sunglasses-30-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Holbrook+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae627494e8c15fbe",
   "title": "Active again - Oakley Scuderia Ferrari Carbon Sunglasses @ Massdrop + Free Ship $99.99",
-  "url": "https://slickdeals.net/e/11257035-active-again-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Active+again+-+Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29526,12 +29444,13 @@
   "source_url": "https://slickdeals.net/e/11257035-active-again-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Active+again+-+Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0fecb54ce706377f",
   "title": "Oakley Scuderia Ferrari Carbon Sunglasses @ Massdrop + Free Ship $99.99",
-  "url": "https://slickdeals.net/e/11170643-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29543,7 +29462,8 @@
   "source_url": "https://slickdeals.net/e/11170643-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "de099db4e0ef9385",
@@ -35191,5 +35111,70 @@
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Boxes+Apple+MacBook+Pro+16+M5+Max+48GB+RAM+2TB+SSD",
   "exact": false
+ },
+ {
+  "id": "90aaf7ef7d047890",
+  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-05T04:15:54Z"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-05T04:15:54Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-05T04:15:54Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-05T04:15:55Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-05T04:15:55Z"
  }
 ]
