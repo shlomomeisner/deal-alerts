@@ -5278,7 +5278,8 @@
   "found_at": "2026-11-04T16:59:09Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T15:18:35Z"
  },
  {
   "id": "381ed4b0b7c416cb",
@@ -5296,7 +5297,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249853-open-box-dji-mavic-4-pro-fly-more-combo-with-dji-rc-2-1516-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202",
+  "checked_at": "2026-11-05T15:18:36Z"
  },
  {
   "id": "317686df405ffdaf",
@@ -5313,7 +5315,8 @@
   "source_url": "https://slickdeals.net/f/20249409-dji-mini-5-pro-4k-camera-drone-fly-more-combo-w-rc-n3-controller-696-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+Fly+More+Combo+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:38Z"
  },
  {
   "id": "704d59a7dd7e2ea1",
@@ -5330,7 +5333,8 @@
   "source_url": "https://slickdeals.net/f/20248839-used-condition-dji-neo-mini-drone-w-4k-uhd-camera-neo-controller-free-65-40-or-less-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:40Z"
  },
  {
   "id": "ad0181f67fb01982",
@@ -5347,7 +5351,8 @@
   "source_url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:41Z"
  },
  {
   "id": "95766edcf0d2ece3",
@@ -5364,7 +5369,8 @@
   "source_url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:43Z"
  },
  {
   "id": "f4525f7668dd7b86",
@@ -5381,7 +5387,8 @@
   "source_url": "https://9to5google.com/2026/11/04/deals-pixel-watch-5-galaxy-z-fold-8-moto-tag-2-anker/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Deals+Pixel+Watch+5+up+to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:43Z"
  },
  {
   "id": "b147d5489e564e9c",
@@ -5398,7 +5405,8 @@
   "source_url": "https://slickdeals.net/f/19342647-canada-goose-kid-s-crofton-striped-logo-quilted-jacket-size-2-7-258-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Kid%27s+Crofton+Striped+Logo+Quilted+Jacket+Size+2-7",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:44Z"
  },
  {
   "id": "42c9881326aeabb9",
@@ -5415,7 +5423,8 @@
   "source_url": "https://slickdeals.net/f/18347692-amex-offers-canada-goose-spend-500-to-earn-10k-points-exp-6-30-25-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Amex+Offers+Canada+Goose+Spend",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:46Z"
  },
  {
   "id": "71db0ee9013e44a9",
@@ -5433,7 +5442,8 @@
   "source_url": "https://slickdeals.net/f/18094585-canada-goose-men-s-langford-parka-1149-98-sam-s-club?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsclub",
   "similar": "https://www.samsclub.com/s/Canada%20Goose%20Men%20s%20Langford%20Parka%20-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:49Z"
  },
  {
   "id": "e893dc8c843ed84c",
@@ -5451,7 +5461,8 @@
   "source_url": "https://slickdeals.net/f/17743593-squishmallows-original-16-inch-gertrude-grey-and-black-canada-goose-official-jazwares-large-plush-19-99-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Squishmallows+Original+16-Inch+Gertrude+Grey+and+Black+Canada+Goose+-+Official+J",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:51Z"
  },
  {
   "id": "e8ee1b01b7a268ca",
@@ -5468,7 +5479,8 @@
   "source_url": "https://slickdeals.net/f/17371548-canada-goose-women-s-parkas-45-53-off-640?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Women%27s+Parkas+45-53+off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:52Z"
  },
  {
   "id": "eceee07013072d7b",
@@ -5485,7 +5497,8 @@
   "source_url": "https://slickdeals.net/f/17360097-canada-goose-women-s-ellison-packable-quilted-jacket-black-300-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Women+s+Ellison+Packable+Quilted+Jacket+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:54Z"
  },
  {
   "id": "368569888e231ebb",
@@ -5502,7 +5515,8 @@
   "source_url": "https://slickdeals.net/f/17128939-canada-goose-spend-500-get-10-000-mr-points-select-amex-cardholders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+spend",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:56Z"
  },
  {
   "id": "32a49a228b87928c",
@@ -5519,7 +5533,8 @@
   "source_url": "https://slickdeals.net/f/16462591-canada-goose-parka-sale-men-and-women-arctic-tech-or-classic-fit-parkas-more-678-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CANADA+GOOSE+Parka+Men+and+Women+Arctic+Tech+or+Classic+Fit+Parkas+%26+More",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T15:18:58Z"
  },
  {
   "id": "f86947db85240fac",
@@ -26452,7 +26467,7 @@
  {
   "id": "582aaf295626fad8",
   "title": "DJI Osmo Pocket 4 Digital 4K 3-Axis Gimbal Vlog Camera $433.45 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
+  "url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26464,8 +26479,7 @@
   "source_url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "751ee57a167a763a",
@@ -34311,11 +34325,11 @@
   "pct": null,
   "price": 2.23,
   "found_at": "2026-11-05T15:01:32Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUmVMaEZ6Uzh4bWV0TzV3Tk5kcmtKeHZEVjJ5YWJ4WDVXaEpsT3NSODFNZFJMSG5DSDBMQkJsbTE3ZG9IbmJIMzFPaDJiSVhQRTFYOEJGcDVSN0lnZjZuUV9XT25RQW1zTHdSQWdtVzRVdmRNY2J2Q2VFU0o2R3FieXFVVkh6VlExVTI5WUNfd1pjSzNKNHc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Advent+may+sell+French+brand+Parfums+de+Marly+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f8435ffc27b4db65",
@@ -34365,11 +34379,11 @@
   "pct": null,
   "price": 46.0,
   "found_at": "2026-11-05T15:06:54Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/products/LZHome/Hexagon-LED-Garage-Light-25-Pack/530030.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hexagon+LED+Garage+Light+25-Pack+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b436d8decac7b9f",
@@ -34390,35 +34404,9 @@
   "exact": false
  },
  {
-  "id": "bc25f6184178c853",
-  "title": "Prime Members: Anker Nano 45W USB-C Smart Display Charger for iPhones $26 + Free S&H",
-  "url": "https://slickdeals.net/f/20256759-prime-members-anker-nano-45w-usb-c-smart-display-charger-for-iphones-26-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 26.0,
-  "found_at": "2026-11-05T15:10:17Z"
- },
- {
-  "id": "ebffa352a7231609",
-  "title": "Jogrytece Travel Essentials iPhone iWatch Charger - $15.59 After coupon",
-  "url": "https://slickdeals.net/f/20256495-jogrytece-travel-essentials-iphone-iwatch-charger-15-59-after-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Web search: iPhone deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.59,
-  "found_at": "2026-11-05T15:10:17Z"
- },
- {
   "id": "6e1ed0ddc1d8a651",
   "title": "PinLiSheng MagSafe iPhone 17 Pro Max / 18 Pro Max Case (Orange) $2.94 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20253930-pinlisheng-magsafe-iphone-17-pro-max-18-pro-max-case-orange-2-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=PinLiSheng+MagSafe+iPhone+17+Pro+Max+18+Pro+Max+Case",
   "why": "",
   "category": "tech",
   "source": "Web search: iPhone deal",
@@ -34426,6 +34414,130 @@
   "hot": false,
   "pct": null,
   "price": 2.94,
-  "found_at": "2026-11-05T15:10:17Z"
+  "found_at": "2026-11-05T15:10:17Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20253930-pinlisheng-magsafe-iphone-17-pro-max-18-pro-max-case-orange-2-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=PinLiSheng+MagSafe+iPhone+17+Pro+Max+18+Pro+Max+Case",
+  "exact": false
+ },
+ {
+  "id": "5faefc5c8a74ab30",
+  "title": "60% OFF KENZO x VERDY Oversized Logo-Jacquard Cotton Shirt $254",
+  "url": "https://www.google.com/search?tbm=shop&q=60+OFF+KENZO+x+VERDY+Oversized+Logo-Jacquard+Cotton+Shirt",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Mr Porter",
+  "urgent": false,
+  "hot": false,
+  "pct": 60,
+  "price": 254.0,
+  "found_at": "2026-11-05T15:15:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19466508-60-off-kenzo-x-verdy-oversized-logo-jacquard-cotton-shirt-254?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=60+OFF+KENZO+x+VERDY+Oversized+Logo-Jacquard+Cotton+Shirt",
+  "exact": false
+ },
+ {
+  "id": "296db6ecf8680c12",
+  "title": "40% OFF Mr Porter Summer Sale - Nike Sportswear Club Logo-Embroidered Cotton-Jersey T-Shirt $12.5",
+  "url": "https://www.nike.com/w?q=40+OFF+Mr+Porter+Summer+-+Nike+Sportswear+Club+Logo-Embroidered+Cotton-Jersey+T-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Mr Porter",
+  "urgent": false,
+  "hot": false,
+  "pct": 40,
+  "price": 12.5,
+  "found_at": "2026-11-05T15:15:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15830155-40-off-mr-porter-summer-sale-nike-sportswear-club-logo-embroidered-cotton-jersey-t-shirt-12-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nike",
+  "similar": "https://www.nike.com/w?q=40+OFF+Mr+Porter+Summer+-+Nike+Sportswear+Club+Logo-Embroidered+Cotton-Jersey+T-",
+  "exact": false
+ },
+ {
+  "id": "ecbfeddb5eace59b",
+  "title": "Gray The Yoga Kit | LULULEMON | MR PORTER - $54.00",
+  "url": "https://shop.lululemon.com/search?Ntt=Gray+The+Yoga+Kit+LULULEMON+MR+PORTER+-",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Mr Porter",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.0,
+  "found_at": "2026-11-05T15:15:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15531946-gray-the-yoga-kit-lululemon-mr-porter-54-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Gray+The+Yoga+Kit+LULULEMON+MR+PORTER+-",
+  "exact": false
+ },
+ {
+  "id": "5ddc8010d128f8ca",
+  "title": "$649 | Apple Watch Ultra 3 [GPS + Cellular 49mm] (Black Titanium Case w Black Titanium Milanese Loop) at Amazon",
+  "url": "https://slickdeals.net/f/20255037-649-apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-w-black-titanium-milanese-loop-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Apple Watch Ultra deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 649.0,
+  "found_at": "2026-11-05T15:19:00Z"
+ },
+ {
+  "id": "e843967ad3d6d95c",
+  "title": "Apple Watch Ultra 3 (GPS + Cellular, 49mm, Anchor Blue Ocean) $549.00 + Free Shipping",
+  "url": "https://slickdeals.net/f/20255007-apple-watch-ultra-3-gps-cellular-49mm-anchor-blue-ocean-549-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Apple Watch Ultra deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 549.0,
+  "found_at": "2026-11-05T15:19:00Z"
+ },
+ {
+  "id": "b6e73b32ee1af319",
+  "title": "49mm Apple Watch Ultra 3 GPS+Cellular Titanium Watch w/ Titanium Milanese Loop $649 + Free S&H",
+  "url": "https://slickdeals.net/f/20254128-49mm-apple-watch-ultra-3-gps-cellular-titanium-watch-w-titanium-milanese-loop-649-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Apple Watch Ultra deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 649.0,
+  "found_at": "2026-11-05T15:19:00Z"
+ },
+ {
+  "id": "63ac39a6e03d88a0",
+  "title": "$14* | 2-Pk 5-ft Beats USB-C to USB-C Charging Cables (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20186319-14-2-pk-5-ft-beats-usb-c-to-usb-c-charging-cables-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.0,
+  "found_at": "2026-11-05T15:19:05Z"
+ },
+ {
+  "id": "932e7074e641db8e",
+  "title": "$7.60* | Beats USB-C to USB-C Woven Short Cable (8 in, 20 cm) - Bolt Black at Amazon",
+  "url": "https://slickdeals.net/f/20161383-7-60-beats-usb-c-to-usb-c-woven-short-cable-8-in-20-cm-bolt-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.6,
+  "found_at": "2026-11-05T15:19:05Z"
  }
 ]
