@@ -1450,7 +1450,8 @@
   "source_url": "https://www.dealnews.com/Apple-Early-Black-Friday-Deals-at-Best-Buy-Up-to-1-200-off-free-shipping/22346301.html?iref=rss",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+Early+Black+Friday+Deals",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:17Z"
  },
  {
   "id": "54a2168d2d2ccaa0",
@@ -1467,7 +1468,8 @@
   "source_url": "https://www.dealnews.com/Garmin-Forerunner-255-46-mm-1-3-Sports-Smartwatch-for-207-free-shipping/22346285.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+1.3+Sports+Smartwatch+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:17Z"
  },
  {
   "id": "bda9595c92ce5481",
@@ -1483,7 +1485,8 @@
   "found_at": "2026-11-04T12:11:50Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T08:43:19Z"
  },
  {
   "id": "8390f1728c8a62d6",
@@ -1499,7 +1502,8 @@
   "found_at": "2026-11-04T12:11:50Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T08:43:20Z"
  },
  {
   "id": "df6da7d26c071812",
@@ -1515,7 +1519,8 @@
   "found_at": "2026-11-04T12:11:50Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T08:43:21Z"
  },
  {
   "id": "85f4ae7940d45c30",
@@ -1531,7 +1536,8 @@
   "found_at": "2026-11-04T12:11:50Z",
   "source_url": "https://camelcamelcamel.com/product/B0FG5HB75W",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=OtterBox+iPhone+15+Symmetry+Se...r+for+MagSafe+-+Riverside+Blue+-+down+16.80"
+  "similar": "https://www.google.com/search?tbm=shop&q=OtterBox+iPhone+15+Symmetry+Se...r+for+MagSafe+-+Riverside+Blue+-+down+16.80",
+  "checked_at": "2026-11-05T08:43:21Z"
  },
  {
   "id": "73d2b84afbf4a613",
@@ -1547,7 +1553,8 @@
   "found_at": "2026-11-04T12:11:50Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T08:43:22Z"
  },
  {
   "id": "a1ec8c198f2bb342",
@@ -1565,7 +1572,8 @@
   "source_url": "https://9to5toys.com/2026/11/03/apple-2026-m5-max-mac-studio-lowest-price/",
   "store": "Link",
   "similar": "https://link.amazon/B00ApRVrQ",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:22Z"
  },
  {
   "id": "ee9321f3bca4d6fa",
@@ -1583,7 +1591,8 @@
   "source_url": "https://9to5toys.com/2026/11/03/massive-pixel-11-price-drops-now-live/",
   "store": "7Tiv",
   "similar": "https://bestbuycreators.7tiv.net/m4qW6M",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:22Z"
  },
  {
   "id": "410ef34cce39c4bc",
@@ -1599,7 +1608,8 @@
   "found_at": "2026-11-04T12:11:50Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T08:43:23Z"
  },
  {
   "id": "1aeafa68571a633c",
@@ -1617,7 +1627,8 @@
   "source_url": "https://slickdeals.net/f/20233482-3-pack-kaliyadi-men-s-or-women-s-aviator-polarized-sunglasses-blue-rainbow-light-pink-13-76-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=3-Pack+KALIYADI+Men%27s+or+Women%27s+Aviator+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:24Z"
  },
  {
   "id": "51c1874efad33e3d",
@@ -1635,7 +1646,8 @@
   "source_url": "https://slickdeals.net/f/20232681-kaliyadi-polarized-sunglasses-13-19-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=KALIYADI+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:26Z"
  },
  {
   "id": "1516da06f0fd7c22",
@@ -1652,7 +1664,8 @@
   "source_url": "https://slickdeals.net/f/20230161-oho-open-ear-smart-glasses-uv400-z87-1-lightweight-bluetooth-sunglasses-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=OhO+Open+Ear+Smart+Glasses+UV400+Z87.1+Lightweight+Bluetooth+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:27Z"
  },
  {
   "id": "c9c6ffea7de71403",
@@ -1669,7 +1682,8 @@
   "source_url": "https://slickdeals.net/f/20229960-pit-viper-polarized-non-polarized-sunglasses-from-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Pit+Viper+Polarized+%26+Non+Polarized+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:29Z"
  },
  {
   "id": "bc2a2dd98161bb61",
@@ -1686,7 +1700,8 @@
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T08:43:30Z"
  },
  {
   "id": "6b29bfa32417ccba",
@@ -26870,7 +26885,7 @@
  {
   "id": "d2036810ceb52321",
   "title": "JBL 305P MKII Super White 5\" Powered Studio Monitor $89 (Each) FS",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
+  "url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: JBL record low",
@@ -26882,8 +26897,7 @@
   "source_url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "afa09cd57ece6e51",
@@ -35087,7 +35101,10 @@
   "hot": false,
   "pct": null,
   "price": 82.0,
-  "found_at": "2026-11-05T08:34:55Z"
+  "found_at": "2026-11-05T08:34:55Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "ff4f7cf5eb98ef8f",
@@ -35100,6 +35117,91 @@
   "hot": false,
   "pct": null,
   "price": 14.0,
-  "found_at": "2026-11-05T08:35:06Z"
+  "found_at": "2026-11-05T08:35:06Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec3fb9e3954bd085690876f5fae2f2&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2flululemon-s-we-made-too-much-section-got-a-november-refresh-shop-cozy-layers-polished-trousers-and-more-from-14%2far-AA2gMPGX&c=4861903579280911913&mkt=en-us",
+  "exact": false
+ },
+ {
+  "id": "c8f3d27d1995b7a3",
+  "title": "Woot Beauty & Personal Care Clearance: Up to 74% off + free shipping w/ Prime",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Beauty+%26+Personal+Care+Clearance+Up+to+74+off+%2B+w+Prime",
+  "why": "Gucci 74% off",
+  "category": "fragrance",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 74,
+  "price": null,
+  "found_at": "2026-11-05T08:40:12Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Woot-Beauty-Personal-Care-Clearance-Up-to-74-off-free-shipping-w-Prime/22350599.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+Beauty+%26+Personal+Care+Clearance+Up+to+74+off+%2B+w+Prime",
+  "exact": false
+ },
+ {
+  "id": "90aaf7ef7d047890",
+  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-05T08:43:34Z"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-05T08:43:34Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-05T08:43:34Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-05T08:43:35Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-05T08:43:35Z"
  }
 ]
