@@ -1,39 +1,5 @@
 [
  {
-  "id": "ececfed760362a05",
-  "title": "Dyson V8 3 Speed Cyclone Cordless Vacuum Cleaner $299.00",
-  "url": "https://www.amazon.com/gp/product/B0GT28CSYM/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 299.0,
-  "found_at": "2026-11-04T19:41:21Z",
-  "store_url": "https://www.amazon.com/gp/product/B0GT28CSYM/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+V8+3+Speed+Cyclone+Cordless+Vacuum+Cleaner",
-  "checked_at": "2026-11-05T19:30:43Z"
- },
- {
-  "id": "bfd96dadde4f540f",
-  "title": "Apple AirPods Pro 3 Active Noise Cancellation Wireless Earbuds $199",
-  "url": "https://www.amazon.com/gp/product/B0FQFB8FMG/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 199.0,
-  "found_at": "2026-11-04T19:41:21Z",
-  "store_url": "https://www.amazon.com/gp/product/B0FQFB8FMG/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
-  "exact": true,
-  "similar": "https://www.apple.com/us/search/Apple%20AirPods%20Pro%203%20Active%20Noise%20Cancellation%20Wireless%20Earbuds",
-  "checked_at": "2026-11-05T19:30:43Z"
- },
- {
   "id": "c095c16f79f3735d",
   "title": "Apple AirPods Max 2 Active Noise Cancelling Wireless Headphones $449.99",
   "url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
@@ -472,7 +438,8 @@
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:44Z"
  },
  {
   "id": "74b2008d9f2b632c",
@@ -488,7 +455,8 @@
   "found_at": "2026-11-04T19:58:29Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T20:06:46Z"
  },
  {
   "id": "e134b83c53511510",
@@ -506,7 +474,8 @@
   "source_url": "https://slickdeals.net/f/19890237-1-6-ounce-prada-paradigme-eau-de-parfum-rechargeable-spray-81-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=1.6-Ounce+Prada+Paradigme+Eau+de+Parfum+Rechargeable+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:48Z"
  },
  {
   "id": "b60cf3741d1a7fa2",
@@ -524,7 +493,8 @@
   "source_url": "https://slickdeals.net/f/19854645-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-87-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:49Z"
  },
  {
   "id": "009f37304165615e",
@@ -542,7 +512,8 @@
   "source_url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsclub",
   "similar": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:51Z"
  },
  {
   "id": "cf29e717664a1ffa",
@@ -560,7 +531,8 @@
   "source_url": "https://slickdeals.net/f/20250228-factory-restored-dyson-pure-humidify-cool-ph01-3-in-1-hepa-air-purifier-humidifier-fan-white-199-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Dyson+Pure+Humidify%2BCool+PH01+3-in-1+HEPA+Air+Purifier+Humidifier+%26+Fan",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:52Z"
  },
  {
   "id": "8b3a9399f4f0aab3",
@@ -577,7 +549,8 @@
   "source_url": "https://slickdeals.net/f/20255907-nintendo-eshop-arco-8-blue-prince-18-high-on-life-20-more-switch-1-2-digital-games?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Nintendo+eShop+Arco",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:53Z"
  },
  {
   "id": "7a10af2c1b4dab21",
@@ -594,7 +567,8 @@
   "source_url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:54Z"
  },
  {
   "id": "4320ac292dfd9260",
@@ -611,7 +585,8 @@
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T20:06:56Z"
  },
  {
   "id": "a7e1813e585eee24",
@@ -29650,7 +29625,7 @@
  {
   "id": "772a9684a89b7c2e",
   "title": "Valentino Uomo Born In Roma Yellow Dream for Men - 3.4 oz EDT Spray $70.99",
-  "url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -29662,12 +29637,13 @@
   "source_url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "21887c22df721275",
   "title": "Valentino Voce Viva Eau de Parfum Spray for Women, 0.33 Ounce/ 10 ml $19.99",
-  "url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -29679,7 +29655,8 @@
   "source_url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ee759b3d50ca1569",
@@ -29844,7 +29821,7 @@
  {
   "id": "07607daece5e4064",
   "title": "Canada Goose Women's Parkas 45-53% off $640",
-  "url": "https://slickdeals.net/f/17371548-canada-goose-women-s-parkas-45-53-off-640?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Women%27s+Parkas+45-53+off",
   "why": "Canada Goose 53% off",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29856,12 +29833,13 @@
   "source_url": "https://slickdeals.net/f/17371548-canada-goose-women-s-parkas-45-53-off-640?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Women%27s+Parkas+45-53+off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "325be61f000f7464",
   "title": "Canada Goose Women’s Ellison Packable Quilted Jacket (Black)- $300.00 (Free Shipping)",
-  "url": "https://slickdeals.net/f/17360097-canada-goose-women-s-ellison-packable-quilted-jacket-black-300-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Women+s+Ellison+Packable+Quilted+Jacket+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29873,12 +29851,13 @@
   "source_url": "https://slickdeals.net/f/17360097-canada-goose-women-s-ellison-packable-quilted-jacket-black-300-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Women+s+Ellison+Packable+Quilted+Jacket+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6ce81ed1b4f2c62b",
   "title": "Canada Goose spend $500 get 10,000 MR points select Amex cardholders",
-  "url": "https://slickdeals.net/f/17128939-canada-goose-spend-500-get-10-000-mr-points-select-amex-cardholders?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+spend",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29890,12 +29869,13 @@
   "source_url": "https://slickdeals.net/f/17128939-canada-goose-spend-500-get-10-000-mr-points-select-amex-cardholders?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+spend",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6a1231f889397d48",
   "title": "CANADA GOOSE Parka Sale: Men and Women Arctic Tech or Classic Fit Parkas & More $678 + Free Shipping",
-  "url": "https://slickdeals.net/f/16462591-canada-goose-parka-sale-men-and-women-arctic-tech-or-classic-fit-parkas-more-678-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=CANADA+GOOSE+Parka+Men+and+Women+Arctic+Tech+or+Classic+Fit+Parkas+%26+More",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29907,12 +29887,13 @@
   "source_url": "https://slickdeals.net/f/16462591-canada-goose-parka-sale-men-and-women-arctic-tech-or-classic-fit-parkas-more-678-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CANADA+GOOSE+Parka+Men+and+Women+Arctic+Tech+or+Classic+Fit+Parkas+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9d8aecad52727244",
   "title": "16\" Multipet Canada Goose Migrator Bird Plush Dog Toy (Gray) $4.25 w/ S&S + Free S&H w/ Prime or $25+",
-  "url": "https://slickdeals.net/f/16325515-16-multipet-canada-goose-migrator-bird-plush-dog-toy-gray-4-25-w-s-s-free-s-h-w-prime-or-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=16+Multipet+Canada+Goose+Migrator+Bird+Plush+Dog+Toy",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29924,12 +29905,13 @@
   "source_url": "https://slickdeals.net/f/16325515-16-multipet-canada-goose-migrator-bird-plush-dog-toy-gray-4-25-w-s-s-free-s-h-w-prime-or-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=16+Multipet+Canada+Goose+Migrator+Bird+Plush+Dog+Toy",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "64ad4bd9e503fddb",
   "title": "Triple F.A.T Goose Huron Parka - $576 with email coupon - No Tax - FS",
-  "url": "https://slickdeals.net/f/16077190-triple-f-a-t-goose-huron-parka-576-with-email-coupon-no-tax-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Triple+F.A.T+Goose+Huron+Parka+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29941,12 +29923,13 @@
   "source_url": "https://slickdeals.net/f/16077190-triple-f-a-t-goose-huron-parka-576-with-email-coupon-no-tax-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Triple+F.A.T+Goose+Huron+Parka+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "939cb74ff1659eeb",
   "title": "Canada Goose Made in Italy Galloway Sweater (For Men) - Save 53%",
-  "url": "https://slickdeals.net/f/15578380-canada-goose-made-in-italy-galloway-sweater-for-men-save-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Made+in+Italy+Galloway+Sweater+-+Save+53",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29958,12 +29941,13 @@
   "source_url": "https://slickdeals.net/f/15578380-canada-goose-made-in-italy-galloway-sweater-for-men-save-53?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+Made+in+Italy+Galloway+Sweater+-+Save+53",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c88a1fc047f1da2e",
   "title": "Canada Goose - Neiman Marcus ($50 - $750 Gift Card) code GC4YOU",
-  "url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Canada+Goose+-+Neiman+Marcus",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29975,12 +29959,13 @@
   "source_url": "https://slickdeals.net/f/15464401-canada-goose-neiman-marcus-50-750-gift-card-code-gc4you?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canada+Goose+-+Neiman+Marcus",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e528ad8adf021f33",
   "title": "Canada Goose Sale - Saks",
-  "url": "https://slickdeals.net/f/15454327-canada-goose-sale-saks?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Canada+Goose+-+Saks",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -29992,12 +29977,13 @@
   "source_url": "https://slickdeals.net/f/15454327-canada-goose-sale-saks?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Canada+Goose+-+Saks",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c73404af67499556",
   "title": "Alpine Shop Vermont - 20% Off works on Canada Goose, The North Face, and Patagonia",
-  "url": "https://slickdeals.net/f/15442483-alpine-shop-vermont-20-off-works-on-canada-goose-the-north-face-and-patagonia?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Alpine+Shop+Vermont+-+20+Off+works+on+Canada+Goose+The+North+Face+and+Patagonia",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -30009,12 +29995,13 @@
   "source_url": "https://slickdeals.net/f/15442483-alpine-shop-vermont-20-off-works-on-canada-goose-the-north-face-and-patagonia?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Alpine+Shop+Vermont+-+20+Off+works+on+Canada+Goose+The+North+Face+and+Patagonia",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bcf260ed8a623a93",
   "title": "Saks Fifth Ave:Select Canada Goose Men' sand Women's Jackets 20% Off Regular Price + Free shipping",
-  "url": "https://slickdeals.net/e/14611294-saks-fifth-ave-select-canada-goose-men-sand-women-s-jackets-20-off-regular-price-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Ave+Select+Canada+Goose+Men%27+sand+Women%27s+Jackets+20+Off+Regular+Pric",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -30026,12 +30013,13 @@
   "source_url": "https://slickdeals.net/e/14611294-saks-fifth-ave-select-canada-goose-men-sand-women-s-jackets-20-off-regular-price-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Ave+Select+Canada+Goose+Men%27+sand+Women%27s+Jackets+20+Off+Regular+Pric",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "545600839a2bb479",
   "title": "YMMV Amex Offers:24s.com Canada Goose Jackets",
-  "url": "https://slickdeals.net/e/14604259-ymmv-amex-offers-24s-com-canada-goose-jackets?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Amex+Offers+24s.com+Canada+Goose+Jackets",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Canada Goose",
@@ -30043,12 +30031,13 @@
   "source_url": "https://slickdeals.net/e/14604259-ymmv-amex-offers-24s-com-canada-goose-jackets?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Amex+Offers+24s.com+Canada+Goose+Jackets",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5faefc5c8a74ab30",
   "title": "60% OFF KENZO x VERDY Oversized Logo-Jacquard Cotton Shirt $254",
-  "url": "https://slickdeals.net/f/19466508-60-off-kenzo-x-verdy-oversized-logo-jacquard-cotton-shirt-254?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=60+OFF+KENZO+x+VERDY+Oversized+Logo-Jacquard+Cotton+Shirt",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Mr Porter",
@@ -30060,7 +30049,8 @@
   "source_url": "https://slickdeals.net/f/19466508-60-off-kenzo-x-verdy-oversized-logo-jacquard-cotton-shirt-254?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=60+OFF+KENZO+x+VERDY+Oversized+Logo-Jacquard+Cotton+Shirt",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e494b8e2a053d685",
@@ -30173,7 +30163,7 @@
  {
   "id": "3f9ee48a6a652287",
   "title": "On Women's Cloudspike Citius 2 Track and Field Shoes (Yellow/White) $29.97 + Free Shipping on $49",
-  "url": "https://slickdeals.net/f/20215719-on-women-s-cloudspike-citius-2-track-and-field-shoes-yellow-white-29-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=On+Women%27s+Cloudspike+Citius+2+Track+and+Field+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: On Running",
@@ -30185,7 +30175,8 @@
   "source_url": "https://slickdeals.net/f/20215719-on-women-s-cloudspike-citius-2-track-and-field-shoes-yellow-white-29-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=On+Women%27s+Cloudspike+Citius+2+Track+and+Field+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5297d01d77837196",
@@ -34532,11 +34523,11 @@
   "pct": 20,
   "price": 39.99,
   "found_at": "2026-11-05T19:49:21Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20262645-hyperx-cloud-ii-7-1-surround-sound-gaming-headset-red-39-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+HyperX+Cloud+II+7.1+Surround+Sound+Gaming+Headset",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "16d0a0dd8b45c81f",
@@ -34586,11 +34577,11 @@
   "pct": null,
   "price": 77.49,
   "found_at": "2026-11-05T19:49:24Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20255034-hoka-women-s-clifton-10-shoes-black-white-77-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Clifton+10+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3de211a6649bd178",
@@ -34896,71 +34887,25 @@
   "dates_tried3": true,
   "source_url": "https://viewfromthewing.com/passenger-forced-to-pay-employee-retention-fee-for-jfk-airport-self-checkout-machines/",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Passenger%20Forced%20To%20Pay%20%E2%80%98Employee%20Retention%20Fee%E2%80%99%20For%20JFK%20Airport%20Self-Checkout%20Machines"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Passenger%20Forced%20To%20Pay%20%E2%80%98Employee%20Retention%20Fee%E2%80%99%20For%20JFK%20Airport%20Self-Checkout%20Machines",
+  "link_tried3": true
  },
  {
-  "id": "90aaf7ef7d047890",
-  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
-  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "925a7efb2d04cd70",
+  "title": "DJI Osmo Nano Standard Combo, 4K Wearable Camera, 1/1.3″ Sensor 1/1.3″ Sensor $204",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Standard+Combo+4K+Wearable+Camera+1+1.3+Sensor+1+1.3+Sensor",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "tech",
+  "source": "Slickdeals: Dji Osmo",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-05T19:58:18Z"
- },
- {
-  "id": "4f0a1c4bc4a70083",
-  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
-  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 30.0,
-  "found_at": "2026-11-05T19:58:18Z"
- },
- {
-  "id": "369670327d50bde8",
-  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
-  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 7.19,
-  "found_at": "2026-11-05T19:58:18Z"
- },
- {
-  "id": "54c78884a6741a29",
-  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
-  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 49.99,
-  "found_at": "2026-11-05T19:58:23Z"
- },
- {
-  "id": "4316bff61d09c558",
-  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
-  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.49,
-  "found_at": "2026-11-05T19:58:23Z"
+  "price": 204.0,
+  "found_at": "2026-11-05T20:03:34Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20262819-dji-osmo-nano-standard-combo-4k-wearable-camera-1-1-3-sensor-1-1-3-sensor-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Standard+Combo+4K+Wearable+Camera+1+1.3+Sensor+1+1.3+Sensor",
+  "exact": false
  }
 ]
