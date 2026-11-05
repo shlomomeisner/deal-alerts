@@ -901,7 +901,8 @@
   "found_at": "2026-11-04T05:13:47Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T03:12:34Z"
  },
  {
   "id": "c389c7ae2a0cefeb",
@@ -919,7 +920,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=LG+48+B6+Series+OLED+120Hz+4K+TV+with+Perfect+Black+Vivid+Color+and+Magic+Remote",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231310-lg-48-b6-series-oled-120hz-4k-tv-with-perfect-black-vivid-color-and-magic-remote-2026-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-05T03:12:36Z"
  },
  {
   "id": "bb6f11ed1892e97c",
@@ -935,7 +937,8 @@
   "found_at": "2026-11-04T05:13:47Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T03:12:37Z"
  },
  {
   "id": "8df46b13d490811a",
@@ -953,7 +956,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=LG+27GS93QE+27-inch+Ultragear+OLED+Gaming+Monitor+QHD+1440p+240Hz+0.03ms+Display",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20216145-lg-27gs93qe-27-inch-ultragear-oled-gaming-monitor-qhd-1440p-240hz-0-03ms-displayhdr-499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-05T03:12:39Z"
  },
  {
   "id": "fdf269c336700168",
@@ -969,7 +973,8 @@
   "found_at": "2026-11-04T05:13:47Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T03:12:41Z"
  },
  {
   "id": "75db9c334ecc68b5",
@@ -987,7 +992,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=LG+83+inch+Class+LG+OLED+evo+AI+W6+4K+Smart+TV+2026+with+Wallpaper+Design+Wallpa",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20208231-lg-83-inch-class-lg-oled-evo-ai-w6-4k-smart-tv-2026-with-wallpaper-design-wallpaper-design-with-zero-connect-hyper-radiant-color-tech-5299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon"
+  "store": "Amazon",
+  "checked_at": "2026-11-05T03:12:43Z"
  },
  {
   "id": "1a84acb0cbc7f459",
@@ -35053,11 +35059,11 @@
   "pct": null,
   "price": 40.61,
   "found_at": "2026-11-05T03:00:38Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "778e86fe6be6aa10",
@@ -35075,6 +35081,24 @@
   "source_url": "https://slickdeals.net/f/20257011-prime-members-ivanky-4k-144hz-8-in-1-steam-deck-docking-station-asus-rog-ally-x-valve-steam-deck-oled-legion-go-2-s-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Prime+Members+iVANKY+4K+144Hz+8-in-1+Steam+Deck+Docking+Station",
+  "exact": false
+ },
+ {
+  "id": "1dda00789381c4c2",
+  "title": "Acer Swift Go 16 AI (2026): 16” FHD+ OLED Touch, Intel Ultra 5 322, 16GB LPDDR5, 512GB SSD $699.99",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Acer+Swift+Go+16+AI+16+FHD%2B+OLED+Touch+Intel+Ultra+5+322+16GB+LPDDR5+512GB+SSD",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-05T03:09:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20253516-acer-swift-go-16-ai-2026-16-fhd-oled-touch-intel-ultra-5-322-16gb-lpddr5-512gb-ssd-699-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Acer+Swift+Go+16+AI+16+FHD%2B+OLED+Touch+Intel+Ultra+5+322+16GB+LPDDR5+512GB+SSD",
   "exact": false
  }
 ]
