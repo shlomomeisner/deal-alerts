@@ -829,7 +829,8 @@
   "source_url": "https://slickdeals.net/f/20232024-dyson-purifier-hot-cool-hp11-399-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+Purifier+Hot%2BCool+HP11",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:33:06Z"
  },
  {
   "id": "11a0de8880295c77",
@@ -845,7 +846,8 @@
   "found_at": "2026-11-04T05:14:00Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T04:33:07Z"
  },
  {
   "id": "51d0a3dddd10c71f",
@@ -863,7 +865,8 @@
   "source_url": "https://slickdeals.net/f/20229585-dyson-supersonic-nural-hair-dryer-in-strawberry-bronze-and-blush-pink-with-dyson-designed-presentation-372-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Dyson+Supersonic+Nural+Hair+Dryer+in+Strawberry+Bronze+and+Blush+Pink+with+Dyson",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:33:09Z"
  },
  {
   "id": "8ad9109b340f7ca4",
@@ -881,7 +884,8 @@
   "source_url": "https://slickdeals.net/f/20223270-dyson-pencilwash-cordless-wet-cleaner-bright-copper-199-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Dyson+PencilWash+Cordless+Wet+Cleaner+Bright+Copper",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:33:10Z"
  },
  {
   "id": "63d181cc06279cb3",
@@ -899,7 +903,8 @@
   "source_url": "https://slickdeals.net/f/20218608-dyson-ball-animal-optic-corded-upright-vacuum-299-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+Ball+Animal+Optic+Corded+Upright+Vacuum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:33:12Z"
  },
  {
   "id": "fefff5dd38b07bab",
@@ -915,7 +920,8 @@
   "found_at": "2026-11-04T05:14:00Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T04:33:13Z"
  },
  {
   "id": "ad95ff7f23bdf47d",
@@ -933,7 +939,8 @@
   "source_url": "https://slickdeals.net/f/20210835-dyson-hp07-hp07-purifier-hot-cool-fan-black-nickel-refurbished-319-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Dyson+HP07+HP07+Purifier+Hot+%2B+Cool+Fan+Black+Nickel+Refurbished",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:33:15Z"
  },
  {
   "id": "3ad249261dddc659",
@@ -951,7 +958,8 @@
   "source_url": "https://slickdeals.net/f/20209797-dyson-r2-nurovi-wash-dry-robot-vacuum-559-99-9-99-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Dyson+R2+Nurovi+Wash+Dry+Robot+Vacuum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:33:16Z"
  },
  {
   "id": "b8751a43e7a42120",
@@ -969,7 +977,8 @@
   "source_url": "https://slickdeals.net/f/20208063-dyson-purifier-cool-pc1-hepa-air-purifier-tower-fan-app-and-remote-controlled-350-oscillation-10-levels-bladeless-white-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Dyson+Purifier+Cool+PC1+HEPA+Air+Purifier+Tower+Fan+App+and+remote+controlled+35",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:33:18Z"
  },
  {
   "id": "5b7663f3c390d928",
@@ -28872,7 +28881,7 @@
  {
   "id": "d72c78fb2ac550cc",
   "title": "Oakley Sunglasses: Oakley Chainlink Matte Black Sunglasses (Grey Polarized Lens) $45 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
+  "url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -28884,8 +28893,7 @@
   "source_url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f41bef8eb9c2fad3",
@@ -34719,11 +34727,11 @@
   "pct": null,
   "price": 279.99,
   "found_at": "2026-11-05T04:21:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17747739-citizen-promaster-dive-automatic-watch-fugu-279-99-gilt-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Promaster+Dive+Automatic+Watch+-+Fugu",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6b3ec347f7a9ba3a",
@@ -34737,11 +34745,11 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-05T04:21:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16738571-hugo-boss-unisex-boss-1088-s-56mm-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Unisex+Boss+1088+S+56mm+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "edb577632f8b9454",
@@ -34755,11 +34763,11 @@
   "pct": null,
   "price": 699.99,
   "found_at": "2026-11-05T04:21:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16401784-gucci-mesh-leather-and-infinity-stone-sandal-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Gucci+Mesh+Leather+and+Infinity+Stone+Sandal+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8941f2eff1814dde",
@@ -34773,11 +34781,11 @@
   "pct": null,
   "price": 189.0,
   "found_at": "2026-11-05T04:21:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/16017526-tissot-watch-at-189-188-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Watch+at",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "967d1ea86e8a631c",
@@ -34791,11 +34799,11 @@
   "pct": null,
   "price": 200.0,
   "found_at": "2026-11-05T04:21:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15374572-sony-kd85x85j-4k-tv-85-x85j-200-gilt-card-at-brabdsmart-usa-florida-georgia-only-for-2000-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+KD85X85J+4k+tv+-+85+X85J+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3f62ff343a08a961",
@@ -34809,11 +34817,11 @@
   "pct": 60,
   "price": null,
   "found_at": "2026-11-05T04:21:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/15253168-fossil-rayban-up-to-60-off-watches-smartwatches-sunglasses-leather-goods-free-shipping-returns?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FOSSIL+RayBan+UP+To+60+Off+Watches+Smartwatches+Sunglasses+Leather+Goods+%2B+Retur",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "60288a55a3ed3f84",
@@ -34834,42 +34842,119 @@
   "exact": false
  },
  {
-  "id": "bc25f6184178c853",
-  "title": "Prime Members: Anker Nano 45W USB-C Smart Display Charger for iPhones $26 + Free S&H",
-  "url": "https://slickdeals.net/f/20256759-prime-members-anker-nano-45w-usb-c-smart-display-charger-for-iphones-26-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "3fb2924a5d76770a",
+  "title": "[Ebay REFUB] Sony LinkBuds Fit True Wireless Noise Canceling Earbuds - Sage Green $39.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
   "why": "",
   "category": "tech",
-  "source": "Web search: iPhone deal",
+  "source": "Slickdeals: Airpods",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 26.0,
-  "found_at": "2026-11-05T04:24:50Z"
+  "price": 39.99,
+  "found_at": "2026-11-05T04:29:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258646-ebay-refub-sony-linkbuds-fit-true-wireless-noise-canceling-earbuds-sage-green-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "exact": false
  },
  {
-  "id": "ebffa352a7231609",
-  "title": "Jogrytece Travel Essentials iPhone iWatch Charger - $15.59 After coupon",
-  "url": "https://slickdeals.net/f/20256495-jogrytece-travel-essentials-iphone-iwatch-charger-15-59-after-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Web search: iPhone deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 15.59,
-  "found_at": "2026-11-05T04:24:50Z"
- },
- {
-  "id": "a22239a01402eb6a",
-  "title": "45W USB C Charger Block Multiport Adapter Fast Charging | for iPhone 18/Duo/17/16/15/14, Galaxy S26/S25, iPad & More, 2 USB-C & 2 USB-A ports, Compact Wall Charger, 2 Pack $9.99",
-  "url": "https://slickdeals.net/f/20248971-45w-usb-c-charger-block-multiport-adapter-fast-charging-for-iphone-18-duo-17-16-15-14-galaxy-s26-s25-ipad-more-2-usb-c-2-usb-a-ports-compact-wall-charger-2-pack-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "a661840820c2cb8d",
+  "title": "[Ebay REFUB] Sony LinkBuds Fit True Wireless Noise Canceling Earbuds - Sage Green $39.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
   "why": "",
   "category": "tech",
-  "source": "Web search: iPhone deal",
+  "source": "Slickdeals: Bose",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 9.99,
-  "found_at": "2026-11-05T04:24:50Z"
+  "price": 39.99,
+  "found_at": "2026-11-05T04:29:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258646-ebay-refub-sony-linkbuds-fit-true-wireless-noise-canceling-earbuds-sage-green-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "exact": false
+ },
+ {
+  "id": "9f8eeb29d03964ff",
+  "title": "[Ebay REFUB] Sony LinkBuds Fit True Wireless Noise Canceling Earbuds - Sage Green $39.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-05T04:29:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258646-ebay-refub-sony-linkbuds-fit-true-wireless-noise-canceling-earbuds-sage-green-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "exact": false
+ },
+ {
+  "id": "e43f1ea3a9a1270d",
+  "title": "[Ebay REFUB] Sony LinkBuds Fit True Wireless Noise Canceling Earbuds - Sage Green $39.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Bose Quietcomfort",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-05T04:29:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258646-ebay-refub-sony-linkbuds-fit-true-wireless-noise-canceling-earbuds-sage-green-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "exact": false
+ },
+ {
+  "id": "3ef8d7f10ea9c77c",
+  "title": "[Ebay REFUB] Sony LinkBuds Fit True Wireless Noise Canceling Earbuds - Sage Green $39.99",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Refurbished",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-05T04:29:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258646-ebay-refub-sony-linkbuds-fit-true-wireless-noise-canceling-earbuds-sage-green-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
+  "exact": false
+ },
+ {
+  "id": "63ac39a6e03d88a0",
+  "title": "$14* | 2-Pk 5-ft Beats USB-C to USB-C Charging Cables (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20186319-14-2-pk-5-ft-beats-usb-c-to-usb-c-charging-cables-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.0,
+  "found_at": "2026-11-05T04:33:35Z"
+ },
+ {
+  "id": "932e7074e641db8e",
+  "title": "$7.60* | Beats USB-C to USB-C Woven Short Cable (8 in, 20 cm) - Bolt Black at Amazon",
+  "url": "https://slickdeals.net/f/20161383-7-60-beats-usb-c-to-usb-c-woven-short-cable-8-in-20-cm-bolt-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.6,
+  "found_at": "2026-11-05T04:33:35Z"
  }
 ]
