@@ -6084,7 +6084,8 @@
   "found_at": "2026-11-04T17:02:51Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:02:24Z"
  },
  {
   "id": "128454a3af92d238",
@@ -6100,7 +6101,8 @@
   "found_at": "2026-11-04T17:02:51Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:02:26Z"
  },
  {
   "id": "7b7acb2722009a24",
@@ -6116,7 +6118,8 @@
   "found_at": "2026-11-04T17:02:51Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:02:27Z"
  },
  {
   "id": "ad1120f9790d15a0",
@@ -6133,7 +6136,8 @@
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:29Z"
  },
  {
   "id": "c55d867834b05277",
@@ -6151,7 +6155,8 @@
   "source_url": "https://slickdeals.net/f/19901835-versace-2-pc-bright-crystal-eau-de-toilette-summer-set-with-tote-bag-108?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Macys",
   "similar": "https://www.macys.com/shop/featured/Versace%202-Pc.%20Bright%20Crystal%20Eau%20de%20Toilette%20Summer%20Set%20with%20Tote%20Bag",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:31Z"
  },
  {
   "id": "0bfe2f3c5149b816",
@@ -6168,7 +6173,8 @@
   "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:32Z"
  },
  {
   "id": "0bd57abc7605d976",
@@ -6184,7 +6190,8 @@
   "found_at": "2026-11-04T17:02:51Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:02:34Z"
  },
  {
   "id": "c0a79039734f5777",
@@ -6200,7 +6207,8 @@
   "found_at": "2026-11-04T17:02:51Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T16:02:36Z"
  },
  {
   "id": "2d67a05ff7994220",
@@ -6218,7 +6226,8 @@
   "source_url": "https://slickdeals.net/f/19842681-costco-members-6-7oz-versace-pour-homme-edt-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+6.7oz+Versace+Pour+Homme+EDT",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:37Z"
  },
  {
   "id": "e427c3f28893239a",
@@ -6236,7 +6245,8 @@
   "source_url": "https://slickdeals.net/f/20251503-hoka-women-s-arahi-8-shoes-various-colors-sizes-6-12-97-50-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Zappos",
   "similar": "https://www.zappos.com/search?term=HOKA+Women%27s+Arahi+8+Shoes",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:38Z"
  },
  {
   "id": "e85db4e3875886c7",
@@ -6254,7 +6264,8 @@
   "source_url": "https://slickdeals.net/f/20229048-2-in-1-switch-2-dock-capture-card-1080p-60fps-for-switch-2-oled-usb-c-24-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=2-in-1+Switch+2+Dock+%26+Capture+Card+1080P+60FPS+for+Switch+2+OLED+%26+USB-C",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:40Z"
  },
  {
   "id": "0ac31e7a67de2990",
@@ -6272,7 +6283,8 @@
   "source_url": "https://www.dealnews.com/Refurb-Unlocked-Samsung-Galaxy-Phone-Deals-at-eBay-Up-to-78-off-free-shipping/22346768.html?iref=rss",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Refurb+Unlocked+Samsung+Galaxy+Phone+Deals+at+eBay+Up+to+78+off+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:41Z"
  },
  {
   "id": "fc98f563e36d0641",
@@ -6289,7 +6301,8 @@
   "source_url": "https://www.dealnews.com/The-Beard-Club-Soothing-Aftershave-Lotion-for-Men-w-Chamomile-Tea-Tree-Oil-Willow-Bark-3-Pack-for-7-free-shipping-w-Prime/22346755.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=The+Beard+Club+Soothing+Aftershave+Lotion+for+Men+w+Chamomile+Tea+Tree+Oil+%26+Wil",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:41Z"
  },
  {
   "id": "a14ce4fc692184ae",
@@ -6307,7 +6320,8 @@
   "source_url": "https://slickdeals.net/f/20255556-zspoly-sport-nylon-stretchy-elastic-band-for-apple-watch-black-44-49mm-series-4-11-se-ultra-or-42mm-series-1-3-4-19-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Zspoly+Sport+Nylon+Stretchy+Elastic+Band+for+Apple+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:42Z"
  },
  {
   "id": "704dea34cd8bc694",
@@ -6325,7 +6339,8 @@
   "source_url": "https://slickdeals.net/f/20255556-zspoly-sport-nylon-stretchy-elastic-band-for-apple-watch-black-44-49mm-series-4-11-se-ultra-or-42mm-series-1-3-4-19-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Zspoly+Sport+Nylon+Stretchy+Elastic+Band+for+Apple+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T16:02:43Z"
  },
  {
   "id": "9109d3938f42a186",
@@ -26759,7 +26774,7 @@
  {
   "id": "3e2716fe53df201e",
   "title": "[WTS] CREED PDM XERJOFF MAISON MARGIELA REPLICA AND MORE",
-  "url": "https://www.google.com/search?tbm=shop&q=CREED+PDM+XERJOFF+MAISON+MARGIELA+REPLICA+AND+MORE",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xobbwl/wts_creed_pdm_xerjoff_maison_margiela_replica_and/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -26771,13 +26786,12 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xobbwl/wts_creed_pdm_xerjoff_maison_margiela_replica_and/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CREED+PDM+XERJOFF+MAISON+MARGIELA+REPLICA+AND+MORE",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "516452cbdc52d4dd",
   "title": "[WTS] Ex Nihilo Brompton Immortals & Demon Dancer – BNIB 100mL (Bottle)",
-  "url": "https://www.google.com/search?tbm=shop&q=Ex+Nihilo+Brompton+Immortals+%26+Demon+Dancer+BNIB+100mL",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xoapeg/wts_ex_nihilo_brompton_immortals_demon_dancer/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -26789,8 +26803,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xoapeg/wts_ex_nihilo_brompton_immortals_demon_dancer/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ex+Nihilo+Brompton+Immortals+%26+Demon+Dancer+BNIB+100mL",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "725633d9e3031163",
@@ -27392,7 +27405,7 @@
  {
   "id": "839456d831c6b7b0",
   "title": "Certified Refurb: Bose QuietComfort Noise Cancelling Headphones $123 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
+  "url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -27404,8 +27417,7 @@
   "source_url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6e55ef14ea99ab4c",
@@ -27428,7 +27440,7 @@
  {
   "id": "96a75911cf317bb2",
   "title": "Refurbished: 32GB 10.2\" Apple iPad (8th Gen, 2020) - $87.47 @ Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
+  "url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27440,8 +27452,7 @@
   "source_url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "be77a8db64e78338",
@@ -27482,7 +27493,7 @@
  {
   "id": "7ec3285bc1896926",
   "title": "Spooky Good Apple iPhone & Watches (Refurbished - S&D) at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Spooky+Good+Apple+iPhone+%26+Watches",
+  "url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Apple Refurbished",
@@ -27494,8 +27505,7 @@
   "source_url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Spooky+Good+Apple+iPhone+%26+Watches",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "133b87351f29d395",
@@ -27536,7 +27546,7 @@
  {
   "id": "1d0dcb16caa08c05",
   "title": "Apple iPhones and Watches Grade A at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+iPhones+and+Watches+Grade+A",
+  "url": "https://slickdeals.net/f/20173506-apple-iphones-and-watches-grade-a-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Apple Refurbished",
@@ -27548,8 +27558,7 @@
   "source_url": "https://slickdeals.net/f/20173506-apple-iphones-and-watches-grade-a-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+iPhones+and+Watches+Grade+A",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ae3efc1755b8bd8c",
@@ -27590,7 +27599,7 @@
  {
   "id": "dcbdcb606b74025e",
   "title": "(Refurbished) Apple AirPods Pro 3 with MagSafe Charging Case - Verizon Ebay Store $129",
-  "url": "https://www.google.com/search?q=site%3Averizon.com+Apple+AirPods+Pro+3+with+MagSafe+Charging+Case+-+Verizon+Ebay+Store",
+  "url": "https://slickdeals.net/f/20147757-refurbished-apple-airpods-pro-3-with-magsafe-charging-case-verizon-ebay-store-129?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27602,8 +27611,7 @@
   "source_url": "https://slickdeals.net/f/20147757-refurbished-apple-airpods-pro-3-with-magsafe-charging-case-verizon-ebay-store-129?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Averizon.com+Apple+AirPods+Pro+3+with+MagSafe+Charging+Case+-+Verizon+Ebay+Store",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a61859deea1741ea",
@@ -27692,7 +27700,7 @@
  {
   "id": "7a511673151a0a7e",
   "title": "from $80.99 | Apple 10.2\" iPad 7 (2019) (Grade A Refurbished) at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+from",
+  "url": "https://slickdeals.net/f/20082801-from-80-99-apple-10-2-ipad-7-2019-grade-a-refurbished-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27704,13 +27712,12 @@
   "source_url": "https://slickdeals.net/f/20082801-from-80-99-apple-10-2-ipad-7-2019-grade-a-refurbished-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+from",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ef583bb7cc0f8db0",
   "title": "Extra 10% off on Apple MacBooks, iPads, and Much More at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Apple+MacBooks+iPads+and+Much+More",
+  "url": "https://slickdeals.net/f/20081634-extra-10-off-on-apple-macbooks-ipads-and-much-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27722,13 +27729,12 @@
   "source_url": "https://slickdeals.net/f/20081634-extra-10-off-on-apple-macbooks-ipads-and-much-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Apple+MacBooks+iPads+and+Much+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8ebbd016fdc427de",
   "title": "Refurbished Excellent - iPhone Air 5G 256GB (Unlocked) $750.00",
-  "url": "https://www.google.com/search?tbm=shop&q=Refurbished+Excellent+-+iPhone+Air+5G+256GB",
+  "url": "https://slickdeals.net/f/20066691-refurbished-excellent-iphone-air-5g-256gb-unlocked-750-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27740,13 +27746,12 @@
   "source_url": "https://slickdeals.net/f/20066691-refurbished-excellent-iphone-air-5g-256gb-unlocked-750-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurbished+Excellent+-+iPhone+Air+5G+256GB",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a12bd10d0e8cb625",
   "title": "Beats Solo 4 - Wireless Bluetooth On-Ear Headphones, (Grade A Refurbished) $79.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+-+Wireless+Bluetooth+On-Ear+Headphones",
+  "url": "https://slickdeals.net/f/20042109-beats-solo-4-wireless-bluetooth-on-ear-headphones-grade-a-refurbished-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Apple Refurbished",
@@ -27758,8 +27763,7 @@
   "source_url": "https://slickdeals.net/f/20042109-beats-solo-4-wireless-bluetooth-on-ear-headphones-grade-a-refurbished-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+-+Wireless+Bluetooth+On-Ear+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b9c2b9228c693073",
@@ -34708,16 +34712,16 @@
   "pct": null,
   "price": 141.2,
   "found_at": "2026-11-05T15:50:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20261451-refurb-dji-osmo-nano-128gb-action-camera-combo-with-1-1-3-inch-sensor-and-4k-60fps-video-141-2-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Nano+128GB+Action+Camera+Combo+with+1+1.3-Inch+Sensor+and+4K+60f",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0109187a789f5191",
   "title": "Advent may sell French brand Parfums de Marly for $2.23 billion - AKM.RU",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUmVMaEZ6Uzh4bWV0TzV3Tk5kcmtKeHZEVjJ5YWJ4WDVXaEpsT3NSODFNZFJMSG5DSDBMQkJsbTE3ZG9IbmJIMzFPaDJiSVhQRTFYOEJGcDVSN0lnZjZuUV9XT25RQW1zTHdSQWdtVzRVdmRNY2J2Q2VFU0o2R3FieXFVVkh6VlExVTI5WUNfd1pjSzNKNHc?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Advent+may+sell+French+brand+Parfums+de+Marly+for",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Parfums de Marly sale",
@@ -34725,6 +34729,480 @@
   "hot": false,
   "pct": null,
   "price": 2.23,
-  "found_at": "2026-11-05T15:53:24Z"
+  "found_at": "2026-11-05T15:53:24Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUmVMaEZ6Uzh4bWV0TzV3Tk5kcmtKeHZEVjJ5YWJ4WDVXaEpsT3NSODFNZFJMSG5DSDBMQkJsbTE3ZG9IbmJIMzFPaDJiSVhQRTFYOEJGcDVSN0lnZjZuUV9XT25RQW1zTHdSQWdtVzRVdmRNY2J2Q2VFU0o2R3FieXFVVkh6VlExVTI5WUNfd1pjSzNKNHc?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Advent+may+sell+French+brand+Parfums+de+Marly+for",
+  "exact": false
+ },
+ {
+  "id": "c387f10ddad195a6",
+  "title": "eBay Refurbished Smartphone Deals: Up to 86% off + extra 20% off + free shipping",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=eBay+Refurbished+Smartphone+Deals+Up+to+86+off+%2B+extra+20+off+%2B",
+  "why": "86% off",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 86,
+  "price": null,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/eBay-Refurbished-Smartphone-Deals-Up-to-86-off-extra-20-off-free-shipping/22351179.html?iref=rss",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=eBay+Refurbished+Smartphone+Deals+Up+to+86+off+%2B+extra+20+off+%2B",
+  "exact": false
+ },
+ {
+  "id": "ea5722da383f1b3a",
+  "title": "DII Woven Rugs Collection Ribb... 2x3', French Blue & Off-White - down 31.62% ($7.59) to $16.41 from $24.00",
+  "url": "https://www.amazon.com/dp/B08VJNF2B5",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.59,
+  "found_at": "2026-11-05T15:59:43Z",
+  "source_url": "https://camelcamelcamel.com/product/B08VJNF2B5",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=DII+Woven+Rugs+Collection+Ribb...+2x3%27+French+Blue+%26+Off-White+-+down+31.62"
+ },
+ {
+  "id": "7f01876093f015dd",
+  "title": "Meta Quest 3S 128GB All-in-One VR Headset $248 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Meta+Quest+3S+128GB+All-in-One+VR+Headset",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 248.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20249910-meta-quest-3s-128gb-all-in-one-vr-headset-248-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Meta+Quest+3S+128GB+All-in-One+VR+Headset",
+  "exact": false
+ },
+ {
+  "id": "4dae748e09cea1e4",
+  "title": "$499 | 512GB Meta Quest 3 at Amazon",
+  "url": "https://slickdeals.net/f/20180439-499-512gb-meta-quest-3-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 499.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "6d125b8dadbc7df1",
+  "title": "$5.92 | AMZDM Silicone Controller Grip Covers w/ Knuckle Straps & Thumbstick Covers for Meta Quest 3 & 3S at Amazon",
+  "url": "https://slickdeals.net/f/20120721-5-92-amzdm-silicone-controller-grip-covers-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 5.92,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "7100db9a5199065d",
+  "title": "$297.49 | 128GB Meta Quest 3S VR Headset (Gorilla Tag Bundle) at Amazon",
+  "url": "https://slickdeals.net/f/20108826-297-49-128gb-meta-quest-3s-vr-headset-gorilla-tag-bundle-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 297.49,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "56bb15fc3bf4c049",
+  "title": "Refurb: Meta Quest 3 512GB $439.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3+512GB",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 439.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20105577-refurb-meta-quest-3-512gb-439-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3+512GB",
+  "exact": false
+ },
+ {
+  "id": "3b40410a7bd38a73",
+  "title": "Refurb: Meta Quest 3S 128GB $255.99 // 256GB $327.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3S+128GB",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 255.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20105574-refurb-meta-quest-3s-128gb-255-99-256gb-327-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3S+128GB",
+  "exact": false
+ },
+ {
+  "id": "7a46de79fe210a6a",
+  "title": "AMZDM Silicone Controller Grip Cover w/ Knuckle Straps & Thumbstick Covers for Meta Quest 3 / 3S $6.24 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Cover+w+Knuckle+Straps+%26+Thumbstick+Covers+for+Me",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.24,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20105511-amzdm-silicone-controller-grip-cover-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-24-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Cover+w+Knuckle+Straps+%26+Thumbstick+Covers+for+Me",
+  "exact": false
+ },
+ {
+  "id": "16b6c5c0fb1c733d",
+  "title": "$6.60* | AMZDM Silicone Controller Grip Covers w/ Knuckle Straps & Thumbstick Covers for Meta Quest 3 & 3S at Amazon",
+  "url": "https://slickdeals.net/f/20074314-6-60-amzdm-silicone-controller-grip-covers-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.6,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "7beaed91c60e601f",
+  "title": "AMZDM Silicone Controller Grip Covers w/ Knuckle Straps & Thumbstick Covers for Meta Quest 3 & 3S $6.95 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Covers+w+Knuckle+Straps+%26+Thumbstick+Covers+for+M",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.95,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20070912-amzdm-silicone-controller-grip-covers-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-95-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Covers+w+Knuckle+Straps+%26+Thumbstick+Covers+for+M",
+  "exact": false
+ },
+ {
+  "id": "141ad93fed849505",
+  "title": "$2.99: AMZDM Silicone Face Cover for Meta Quest 3, Washable VR Cover with Lens Protectors, Cover Only at Woot!",
+  "url": "https://slickdeals.net/f/20060559-2-99-amzdm-silicone-face-cover-for-meta-quest-3-washable-vr-cover-with-lens-protectors-cover-only-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Meta Quest",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "d1223c7f3e2ba90b",
+  "title": "Kuntengo 6.1\" Military-Grade Drop Protection MagSafe Apple iPhone 15 Case $9.99",
+  "url": "https://www.amazon.com/gp/product/B0H451KJS3/ref=ox_sc_act_title_2?smid=A3TW1RU6DPFBTU&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0H451KJS3/ref=ox_sc_act_title_2?smid=A3TW1RU6DPFBTU&psc=1",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Kuntengo%206.1%20Military-Grade%20Drop%20Protection%20MagSafe%20Apple%20iPhone%2015%20Case"
+ },
+ {
+  "id": "f43173e5c22be633",
+  "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Black Titanium Case Smartwatch $699.99",
+  "url": "https://www.amazon.com/gp/product/B0HJB6SFRD/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0HJB6SFRD/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Black%20Titanium%20Case%20Smartwatch"
+ },
+ {
+  "id": "c8665a43d3b2f432",
+  "title": "Apple iPad mini 128GB A20 Pro 8.5\" OLED WiFi Tablet $699",
+  "url": "https://www.amazon.com/Apple-iPad-mini-A20-Pro/dp/B0HPBW4WL3",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/Apple-iPad-mini-A20-Pro/dp/B0HPBW4WL3",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Apple%20iPad%20mini%20128GB%20A20%20Pro%208.5%20OLED%20WiFi%20Tablet"
+ },
+ {
+  "id": "5c2c5f9bc097294f",
+  "title": "Garmin Vivoactive 5 42mm Water Resistant Health & Fitness GPS Smartwatch $169.99",
+  "url": "https://www.amazon.com/gp/product/B0CG6NR413/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0CG6NR413/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+42mm+Water+Resistant+Health+%26+Fitness+GPS+Smartwatch"
+ },
+ {
+  "id": "2bf650104ca21930",
+  "title": "Bose QuietComfort Ultra 2nd Gen Wireless Noise Cancelling Earbuds $229",
+  "url": "https://www.amazon.com/gp/product/B0F7M3HPBD/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 229.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0F7M3HPBD/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+2nd+Gen+Wireless+Noise+Cancelling+Earbuds"
+ },
+ {
+  "id": "1be95fe57210b12e",
+  "title": "Infiixso 20\"x26\" Mulberry Silk Pillowcase $3.99",
+  "url": "https://www.amazon.com/gp/product/B0CGLG8CDW/ref=ox_sc_act_title_1?smid=A190NNAUEHDQVJ&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0CGLG8CDW/ref=ox_sc_act_title_1?smid=A190NNAUEHDQVJ&psc=1",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Infiixso+20+x26+Mulberry+Silk+Pillowcase"
+ },
+ {
+  "id": "56b88083c4b7550b",
+  "title": "Nubwo HG04L Wired Gaming Headset (PS5/PS4, Xbox Series X|S, PC) $11.99",
+  "url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Nubwo+HG04L+Wired+Gaming+Headset"
+ },
+ {
+  "id": "1de51c3f7009cfc2",
+  "title": "Dyson Big Ball Turbinehead Canister Vacuum $199.99",
+  "url": "https://www.walmart.com/ip/seort/2084195888",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.walmart.com/ip/seort/2084195888",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Big+Ball+Turbinehead+Canister+Vacuum"
+ },
+ {
+  "id": "7e1870a0ac9e73e9",
+  "title": "Bose Bluetooth HDMI-ARC TV Speaker with Remote $199.00",
+  "url": "https://www.amazon.com/gp/product/B088KRPCQJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B088KRPCQJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+Bluetooth+HDMI-ARC+TV+Speaker+with+Remote"
+ },
+ {
+  "id": "4b64ac5bcc337de3",
+  "title": "Apple AirTag 2nd Generation Tracker (4-Pack) $69.99",
+  "url": "https://www.amazon.com/gp/product/B0GJTXVN9Z/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.99,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0GJTXVN9Z/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Apple%20AirTag%202nd%20Generation%20Tracker"
+ },
+ {
+  "id": "6b48610f24eface3",
+  "title": "Bose QuietComfort 24Hr Playtime Active Noise Cancelling Bluetooth Over Ear Headphones $169",
+  "url": "https://www.amazon.com/gp/product/B0CCZ26B5V/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "store_url": "https://www.amazon.com/gp/product/B0CCZ26B5V/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+24Hr+Playtime+Active+Noise+Cancelling+Bluetooth+Over+Ear+Headp"
+ },
+ {
+  "id": "bba1d312fab4e15c",
+  "title": "Business Class Deal: New York to London $1735 Round Trip (nonstop)",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA0xIUhoaEgoyMDI2LTEyLTEzagUSA0xIUnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "Reddit r/flightdeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1735.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17xkyx5/business_class_deal_new_york_to_london_1735_round/",
+  "picked": true,
+  "depart": "2026-12-08",
+  "return": "2026-12-13",
+  "fcode": [
+   "NYC",
+   "LHR"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20LHR&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "a7a87a5addf57719",
+  "title": "Business Class Deal: New York ↔ Los Angeles $1320 Round Trip/ $790 oneway",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA0xBWBoaEgoyMDI2LTEyLTEzagUSA0xBWHIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "Reddit r/flightdeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1320.0,
+  "found_at": "2026-11-05T15:59:43Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://www.reddit.com/r/Flightdeals/comments/17uee9u/business_class_deal_new_york_los_angeles_1320/",
+  "picked": true,
+  "depart": "2026-12-08",
+  "return": "2026-12-13",
+  "fcode": [
+   "NYC",
+   "LAX"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20LAX&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "bc25f6184178c853",
+  "title": "Prime Members: Anker Nano 45W USB-C Smart Display Charger for iPhones $26 + Free S&H",
+  "url": "https://slickdeals.net/f/20256759-prime-members-anker-nano-45w-usb-c-smart-display-charger-for-iphones-26-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 26.0,
+  "found_at": "2026-11-05T16:03:12Z"
+ },
+ {
+  "id": "ebffa352a7231609",
+  "title": "Jogrytece Travel Essentials iPhone iWatch Charger - $15.59 After coupon",
+  "url": "https://slickdeals.net/f/20256495-jogrytece-travel-essentials-iphone-iwatch-charger-15-59-after-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.59,
+  "found_at": "2026-11-05T16:03:12Z"
+ },
+ {
+  "id": "6e1ed0ddc1d8a651",
+  "title": "PinLiSheng MagSafe iPhone 17 Pro Max / 18 Pro Max Case (Orange) $2.94 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20253930-pinlisheng-magsafe-iphone-17-pro-max-18-pro-max-case-orange-2-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2.94,
+  "found_at": "2026-11-05T16:03:12Z"
  }
 ]
