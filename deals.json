@@ -3048,7 +3048,8 @@
   "found_at": "2026-11-04T16:44:49Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:49:02Z"
  },
  {
   "id": "fb9bc0097122b0db",
@@ -3064,7 +3065,8 @@
   "found_at": "2026-11-04T16:44:49Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:49:04Z"
  },
  {
   "id": "0c6815f60dc67129",
@@ -3082,7 +3084,8 @@
   "source_url": "https://slickdeals.net/f/19517094-0-33-oz-valentino-donna-born-in-roma-eau-de-parfum-spray-women-s-16-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=0.33-Oz+Valentino+Donna+Born+in+Roma+Eau+de+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:05Z"
  },
  {
   "id": "4cf0b8fca83c5549",
@@ -3100,7 +3103,8 @@
   "source_url": "https://slickdeals.net/f/19492551-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-21-83-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:08Z"
  },
  {
   "id": "772a9684a89b7c2e",
@@ -3117,7 +3121,8 @@
   "source_url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:10Z"
  },
  {
   "id": "21887c22df721275",
@@ -3134,7 +3139,8 @@
   "source_url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:13Z"
  },
  {
   "id": "ee759b3d50ca1569",
@@ -3152,7 +3158,8 @@
   "source_url": "https://slickdeals.net/f/19224994-valentino-uomo-eau-de-toilette-3-4-fl-oz-73-99-at-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Valentino+Uomo+Eau+de+Toilette+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:14Z"
  },
  {
   "id": "13107a90e69b86c8",
@@ -3169,7 +3176,8 @@
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:16Z"
  },
  {
   "id": "0bd89fddb121fe6b",
@@ -3186,7 +3194,8 @@
   "source_url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+3.4oz+Valentino+Uomo+Born+In+Roma+Intense+EDP",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:18Z"
  },
  {
   "id": "5297d01d77837196",
@@ -3204,7 +3213,8 @@
   "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:20Z"
  },
  {
   "id": "579e6bf49e7c480f",
@@ -26367,7 +26377,7 @@
  {
   "id": "879fb8f39198168b",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $288 + Free Shipping",
-  "url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26379,7 +26389,8 @@
   "source_url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6a3ae3e929bc79a1",
@@ -26400,7 +26411,7 @@
  {
   "id": "580836c687e889a3",
   "title": "DJI Osmo Action 4 Waterproof Action Camera Bundle $289.98 shipped",
-  "url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26412,12 +26423,13 @@
   "source_url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e19f8941efbd1320",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $316.80 + Free Shipping",
-  "url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26429,7 +26441,8 @@
   "source_url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "17dc79747cec5338",
@@ -26450,7 +26463,7 @@
  {
   "id": "0f79a9d0b066246e",
   "title": "(Certified Refurbished) DJI Air 3S Drone w/ RC-N3 Controller $799.20 + Free Shipping",
-  "url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26462,12 +26475,13 @@
   "source_url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b83285bcf34caa3",
   "title": "DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera $198",
-  "url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26479,12 +26493,13 @@
   "source_url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e144f43c57fffd3a",
   "title": "DJI Osmo 360 Waterproof 8K 360° Action Camera Standard Combo w/ 105GB Built-in Storage $285 + Free Shipping",
-  "url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26496,7 +26511,8 @@
   "source_url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "98dbd0d92119a764",
@@ -33520,11 +33536,11 @@
   "pct": null,
   "price": 59.99,
   "found_at": "2026-11-05T13:37:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f0e01407173fb806",
@@ -33538,11 +33554,11 @@
   "pct": null,
   "price": 53.0,
   "found_at": "2026-11-05T13:37:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fragrance+1.7-Oz+Chloe+Love+Story+EDP",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3e9693faa022b320",
@@ -33628,11 +33644,11 @@
   "pct": null,
   "price": 533.49,
   "found_at": "2026-11-05T13:37:27Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20256135-new-unlocked-galaxy-s25-edge-533-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Unlocked+Galaxy+S25+Edge",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6e9439015506deac",
@@ -33669,5 +33685,86 @@
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Amazon+Quietly+Dropped+Early+Black+Friday+Deals+on+Dyson+LEGO+and+More+up+to+59+",
   "exact": false
+ },
+ {
+  "id": "fd680b3b9ef33438",
+  "title": "OtterBox Galaxy S23 Ultra (Onl...tection - Non-Retail Packaging - down 5.02% ($0.93) to $17.59 from $18.52",
+  "url": "https://www.amazon.com/dp/B0BS53C4TK",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 0.93,
+  "found_at": "2026-11-05T13:45:58Z",
+  "source_url": "https://camelcamelcamel.com/product/B0BS53C4TK",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=OtterBox+Galaxy+S23+Ultra+Onl...tection+-+Non-Retail+Packaging+-+down+5.02"
+ },
+ {
+  "id": "85f3cc40383f4273",
+  "title": "OtterBox CLEARLY PROTECTED FIL...n Protector for Google Pixel 7 - down 60.53% ($8.39) to $5.47 from $13.86",
+  "url": "https://www.amazon.com/dp/B0BGYGQQ41",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.39,
+  "found_at": "2026-11-05T13:45:58Z",
+  "source_url": "https://camelcamelcamel.com/product/B0BGYGQQ41",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=OtterBox+CLEARLY+PROTECTED+FIL...n+Protector+for+Google+Pixel+7+-+down+60.53"
+ },
+ {
+  "id": "e79f63da5e25f9df",
+  "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch | Natural Titanium Case - One Size. Advanced Health + Fitness Tracking, 2+ Day Battery $699.99",
+  "url": "https://www.amazon.com/s?k=Apple+Watch+Ultra+4+GPS+%2B+Cellular+49mm+Smartwatch+Natural+Titanium+Case+-+One+S",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-05T13:45:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20241585-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-case-one-size-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Apple+Watch+Ultra+4+GPS+%2B+Cellular+49mm+Smartwatch+Natural+Titanium+Case+-+One+S",
+  "exact": false
+ },
+ {
+  "id": "502fd54d41e67144",
+  "title": "Apple Watch Ultra 4 GPS + Cellular 49mm Smartwatch | Black Titanium Case - L. Advanced Health + Fitness Tracking, 2+ Day Battery $699.99",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Smartwatch%20Black%20Titanium%20Case%20-%20L.%20Adva",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-05T13:45:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20241552-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-black-titanium-case-l-advanced-health-fitness-tracking-2-day-battery-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Smartwatch%20Black%20Titanium%20Case%20-%20L.%20Adva",
+  "exact": false
+ },
+ {
+  "id": "f5d8effbe5e89fd2",
+  "title": "It’s happening! Amazon just dropped its Black Friday sale early—Ugg, Levi’s, and Adidas are up to 73% off",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec897266a34d65ba85394fb0150ff1&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fit-s-happening-amazon-just-dropped-its-black-friday-sale-early-ugg-levi-s-and-adidas-are-up-to-73-off%2far-AA2gOCOF&c=13378981587879602106&mkt=en-us",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: UGG price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": 73,
+  "price": null,
+  "found_at": "2026-11-05T13:49:38Z"
  }
 ]
