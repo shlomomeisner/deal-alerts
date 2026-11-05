@@ -1606,7 +1606,8 @@
   "source_url": "https://slickdeals.net/f/20254707-taarget-deal-of-the-day-11-9-30-off-dyson-v10-stick-vacuums?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Taarget+of+the+Day+11+9+30+off+Dyson+V10+Stick+Vacuums",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:12Z"
  },
  {
   "id": "33c833e38dcb70d2",
@@ -1622,7 +1623,8 @@
   "found_at": "2026-11-04T16:07:09Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:42:14Z"
  },
  {
   "id": "2a38bfac27e8a97c",
@@ -1640,7 +1642,8 @@
   "source_url": "https://slickdeals.net/f/20184462-garmin-pro-trashbreaker-handheld-269-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+PRO+Trashbreaker+Handheld",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:15Z"
  },
  {
   "id": "7beb0e563796f30e",
@@ -1656,7 +1659,8 @@
   "found_at": "2026-11-04T16:07:09Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:42:16Z"
  },
  {
   "id": "a6ab228f8101f9f0",
@@ -1674,7 +1678,8 @@
   "source_url": "https://slickdeals.net/f/20154771-garmin-010-02091-51-gpsmap-8610xsv-with-mapping-and-sonar-10-navionics-2299-99-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+010-02091-51+GPSMAP+8610xsv+with+Mapping+and+Sonar+-+10+Navionics%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:17Z"
  },
  {
   "id": "e82ace12c69493d2",
@@ -1692,7 +1697,8 @@
   "source_url": "https://slickdeals.net/f/20144541-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-99-99-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Dash+Cam+Mini+3+Ultracompact+1080p+HD+Dash+Cam",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:19Z"
  },
  {
   "id": "b94e07dcf5a325c2",
@@ -1709,7 +1715,8 @@
   "source_url": "https://slickdeals.net/f/20144085-garmin-epix-gen-2-gps-smartwatch-47mm-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+epix+Gen+2+GPS+Smartwatch+47mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:20Z"
  },
  {
   "id": "1c2c13145ea2a182",
@@ -1727,7 +1734,8 @@
   "source_url": "https://slickdeals.net/f/19464609-garmin-forerunner-165-running-smartwatch-199-99-reg-249-99-record-low-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Forerunner+165+Running+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:22Z"
  },
  {
   "id": "c6ddeb5bf36a8b4b",
@@ -1743,7 +1751,8 @@
   "found_at": "2026-11-04T16:07:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:42:24Z"
  },
  {
   "id": "0187c7806f6b43dd",
@@ -1760,7 +1769,8 @@
   "source_url": "https://slickdeals.net/f/19002871-garmin-dash-cam-x210-1440p-dash-cam-with-a-140-degree-field-of-view-and-built-in-clarity-polarizer-black-249?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+-+Dash+Cam+X210+1440p+Dash+Cam+with+a+140-degree+Field+of+View+and+built-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:25Z"
  },
  {
   "id": "377191f2d9010616",
@@ -1777,7 +1787,8 @@
   "source_url": "https://slickdeals.net/f/17950593-garmin-epix-gen-2-sapphire-47mm-gps-smartwatch-white-titanium-010-02582-20-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Epix+Gen+2+Sapphire+47mm+GPS+Smartwatch+White+Titanium+010-02582-20+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:26Z"
  },
  {
   "id": "d44e5d734b7529f7",
@@ -1794,7 +1805,8 @@
   "source_url": "https://slickdeals.net/f/17710125-garmin-varia-rct715-rearview-bike-radar-w-camera-tail-light-300-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Varia+RCT715+Rearview+Bike+Radar+w+Camera+%26+Tail+Light",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:29Z"
  },
  {
   "id": "3127d4199931f48b",
@@ -1811,7 +1823,8 @@
   "source_url": "https://slickdeals.net/f/17450997-garmin-approach-r10-golf-launch-monitor-470-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Approach+R10+Golf+Launch+Monitor",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:33Z"
  },
  {
   "id": "a67506805be03461",
@@ -1828,7 +1841,8 @@
   "source_url": "https://slickdeals.net/e/14314103-garmin-edge-820-nho-274-99-w-free-ship-refurb-by-garmin-274-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GARMIN+Edge+820+NHO",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:33Z"
  },
  {
   "id": "d338b63b61e02521",
@@ -1845,7 +1859,8 @@
   "source_url": "https://slickdeals.net/e/13737188-garmin-mini-dash-cam-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+-+Mini+Dash+Cam",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:42:34Z"
  },
  {
   "id": "30ce45c3226ee96c",
@@ -27823,7 +27838,7 @@
  {
   "id": "e647b4785875ffc8",
   "title": "Restored Dyson Supersonic Nural Hair Dryer $219.99",
-  "url": "https://slickdeals.net/f/20252739-restored-dyson-supersonic-nural-hair-dryer-219-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Restored+Dyson+Supersonic+Nural+Hair+Dryer",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -27835,7 +27850,8 @@
   "source_url": "https://slickdeals.net/f/20252739-restored-dyson-supersonic-nural-hair-dryer-219-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Restored+Dyson+Supersonic+Nural+Hair+Dryer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8b67f2ea3160e634",
@@ -28134,7 +28150,7 @@
  {
   "id": "4bad0a6949d3412b",
   "title": "Woot-Dyson 360 Vis Nav Robot Vacuum $299.99",
-  "url": "https://slickdeals.net/f/19051048-woot-dyson-360-vis-nav-robot-vacuum-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot-Dyson+360+Vis+Nav+Robot+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson record low",
@@ -28146,7 +28162,8 @@
   "source_url": "https://slickdeals.net/f/19051048-woot-dyson-360-vis-nav-robot-vacuum-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot-Dyson+360+Vis+Nav+Robot+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "320f56a26b8b7071",
@@ -34951,7 +34968,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "link_tried3": true
  },
  {
   "id": "9b6c5d40028e6aed",
@@ -35048,10 +35066,28 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-05T11:32:01Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Google-Pixel-11-256-GB-Android-Smartphone-for-Mint-Mobile-Free-w-trade-in-free-shipping/22350727.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+256GB+Android+Smartphone+for+Mint+Mobile+Free+w+trade-in+%2B",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "5e426a6a35233a10",
+  "title": "Open-Box Apple MacBook Air M5 13.6\" Laptop (2026) for $1,169 + free shipping",
+  "url": "https://www.apple.com/us/search/Open-Box%20Apple%20MacBook%20Air%20M5%2013.6%20Laptop%20for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1169.0,
+  "found_at": "2026-11-05T11:39:59Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Air-M5-13-6-Laptop-2026/498482.html?iref=rss",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Open-Box%20Apple%20MacBook%20Air%20M5%2013.6%20Laptop%20for",
   "exact": false
  }
 ]
