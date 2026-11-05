@@ -2775,7 +2775,8 @@
   "found_at": "2026-11-04T16:41:39Z",
   "store_url": "https://www.amazon.com/gp/product/B0961X3R2H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Sony+HT-S40R+5.1ch+Home+Theater+Soundbar+System"
+  "similar": "https://www.google.com/search?tbm=shop&q=Sony+HT-S40R+5.1ch+Home+Theater+Soundbar+System",
+  "checked_at": "2026-11-05T14:25:51Z"
  },
  {
   "id": "3671f54405962b3c",
@@ -2793,7 +2794,8 @@
   "source_url": "https://slickdeals.net/f/20242758-42mm-tag-heuer-men-s-connected-calibre-e4-smartwatch-658-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=42mm+Tag+Heuer+Men%27s+Connected+Calibre+E4+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:25:53Z"
  },
  {
   "id": "23b6f96278bae422",
@@ -2810,7 +2812,8 @@
   "source_url": "https://slickdeals.net/f/20039055-tag-heuer-connected-calibre-e4-golf-edition-849?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TAG+Heuer+Connected+Calibre+E4+Golf+Edition",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:25:54Z"
  },
  {
   "id": "8e7e53a5db0f5f35",
@@ -2827,7 +2830,8 @@
   "source_url": "https://slickdeals.net/f/20039049-tag-heuer-smart-watch-fitness-watch-connected-calibre-e4-45-mm-golf-edition-949?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TAG+Heuer+Smart+Watch+Fitness+Watch+Connected+Calibre+E4+45+mm+Golf+Edition",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:25:56Z"
  },
  {
   "id": "8305f8e598cc9713",
@@ -2845,7 +2849,8 @@
   "source_url": "https://slickdeals.net/f/19921083-up-to-30-off-tag-heuer-watches-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Up+to+30+Off+TAG+Heuer+Watches",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:25:57Z"
  },
  {
   "id": "799ce602ed1b1085",
@@ -2863,7 +2868,8 @@
   "source_url": "https://slickdeals.net/f/19773492-up-to-30-off-tag-heuer-watches-sale-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Up+to+30+Off+TAG+Heuer+Watches",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:25:59Z"
  },
  {
   "id": "e77f27a09615a4c5",
@@ -2881,7 +2887,8 @@
   "source_url": "https://slickdeals.net/f/19498503-up-to-40-off-tag-heuer-men-s-watch-clearance-sale-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Up+to+40+Off+Tag+Heuer+Men%27s+Watch+Clearance",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:01Z"
  },
  {
   "id": "298f278b0f8a7078",
@@ -2898,7 +2905,8 @@
   "source_url": "https://slickdeals.net/f/18599761-men-s-tag-heuer-connected-golf-quartz-titanium-45mm-smart-watch-1098-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+Tag+Heuer+Connected+Golf+Quartz+Titanium+45mm+Smart+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:03Z"
  },
  {
   "id": "2f63fe403e073ae5",
@@ -2915,7 +2923,8 @@
   "source_url": "https://slickdeals.net/f/17702592-tag-heuer-formula-1-blue-black-dial-stainless-steel-men-s-watch-1150-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Tag+Heuer+Formula+1+Blue+Black+Dial+Stainless+Steel+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:05Z"
  },
  {
   "id": "9f59eeeb195c6b69",
@@ -2932,7 +2941,8 @@
   "source_url": "https://slickdeals.net/f/16854125-watchbox-has-10-off-select-pre-owned-luxury-watches-tag-heuer-link-calibre-5-auto-41mm-steel-mens-bracelet-watch-1823-zenith-elite-ultra-thin-watch-2713-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Watchbox+has+10+off+Select+Pre-Owned+Luxury+Watches+Tag+Heuer+Link+Calibre+5+Aut",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:07Z"
  },
  {
   "id": "9d6f33d4fddbc2a1",
@@ -2949,7 +2959,8 @@
   "source_url": "https://slickdeals.net/f/16616249-pre-owned-tag-heuer-carrera-tourbillon-chrono-titanium-46mm-automatic-men-s-watch-acbf5a80-8950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Pre-owned+Tag+Heuer+Carrera+Tourbillon+Chrono+Titanium+46mm+Automatic+Men%27s+Watc",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:08Z"
  },
  {
   "id": "1740b69b14feb3d9",
@@ -2966,7 +2977,8 @@
   "source_url": "https://slickdeals.net/f/16266094-tag-heuer-connect-watch-orange-band-200?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tag+Heuer+Connect+Watch+orange+band",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:10Z"
  },
  {
   "id": "bd3d3229df3a4d55",
@@ -2983,7 +2995,8 @@
   "source_url": "https://slickdeals.net/f/16146640-jomashop-tag-heuer-formula-1-black-dial-men-s-watch-980-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+JomaShop+TAG+HEUER+Formula+1+Black+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:12Z"
  },
  {
   "id": "eb97b5d2e4210c9f",
@@ -2999,7 +3012,8 @@
   "found_at": "2026-11-04T16:44:49Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T14:26:14Z"
  },
  {
   "id": "24371147bd5a6590",
@@ -3017,7 +3031,8 @@
   "source_url": "https://slickdeals.net/f/19919517-disney-s-wish-valentino-magical-moving-talking-toy-8-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Disney%27s+Wish+Valentino+Magical+Moving+%26+Talking+Toy",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:26:16Z"
  },
  {
   "id": "0a287f7dc094ee0c",
@@ -26298,7 +26313,7 @@
  {
   "id": "cfcf2efca5c19dcf",
   "title": "DJI Osmo Action 4 4K/120fps Waterproof Action Camera (Essential Combo) $169 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+4K+120fps+Waterproof+Action+Camera",
+  "url": "https://slickdeals.net/f/19627359-dji-osmo-action-4-4k-120fps-waterproof-action-camera-essential-combo-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26310,13 +26325,12 @@
   "source_url": "https://slickdeals.net/f/19627359-dji-osmo-action-4-4k-120fps-waterproof-action-camera-essential-combo-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+4K+120fps+Waterproof+Action+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "582aaf295626fad8",
   "title": "DJI Osmo Pocket 4 Digital 4K 3-Axis Gimbal Vlog Camera $433.45 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
+  "url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26328,13 +26342,12 @@
   "source_url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "751ee57a167a763a",
   "title": "DJI Osmo Pocket 4 4K/6K Pocket Gimbal Camera w/ 1\" Sensor 107GB Storage ActionTrack 7.0 Vlog Camera + F/S $426.7",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
+  "url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26346,13 +26359,12 @@
   "source_url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "879fb8f39198168b",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $288 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
+  "url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26364,8 +26376,7 @@
   "source_url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6a3ae3e929bc79a1",
@@ -26386,7 +26397,7 @@
  {
   "id": "580836c687e889a3",
   "title": "DJI Osmo Action 4 Waterproof Action Camera Bundle $289.98 shipped",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
+  "url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26398,13 +26409,12 @@
   "source_url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e19f8941efbd1320",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $316.80 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
+  "url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26416,8 +26426,7 @@
   "source_url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "17dc79747cec5338",
@@ -33458,6 +33467,256 @@
   "source_url": "https://slickdeals.net/f/20253306-save-250-on-select-apple-watch-ultra-3-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Save",
+  "exact": false
+ },
+ {
+  "id": "4b3e5674b979e33a",
+  "title": "$626.08* | Renewed Excellent Condition: 256GB Samsung Galaxy S25 Ultra Unlocked Smartphone + 10% Back w/ Prime Visa Card at Amazon",
+  "url": "https://slickdeals.net/f/20260164-626-08-renewed-excellent-condition-256gb-samsung-galaxy-s25-ultra-unlocked-smartphone-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 626.08,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "b0f66ef2ea0daf7e",
+  "title": "Refurbished Excellent Samsung Galaxy Z Fold7 - 512GB - Unlocked - with code SAVE20TECH $1019.79",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Refurbished+Excellent+Samsung+Galaxy+Z+Fold7+-+512GB+-+Unlocked+-+with+code+SAVE",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1019.79,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260323-refurbished-excellent-samsung-galaxy-z-fold7-512gb-unlocked-with-code-save20tech-1019-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Refurbished+Excellent+Samsung+Galaxy+Z+Fold7+-+512GB+-+Unlocked+-+with+code+SAVE",
+  "exact": false
+ },
+ {
+  "id": "c67148d790f28ec9",
+  "title": "Samsung P9 Express 512GB microSDXC Memory Card for $99 + free shipping",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+P9+Express+512GB+microSDXC+Memory+Card+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.0,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Samsung-P9-Express-512-GB-micro-SDXC-Memory-Card-for-99-free-shipping/22351031.html?iref=rss",
+  "store": "Samsung",
+  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+P9+Express+512GB+microSDXC+Memory+Card+for",
+  "exact": false
+ },
+ {
+  "id": "4c406ed3587eda65",
+  "title": "Apple Watch Ultra 3 (GPS+Cellular) 49mm Titanium Case with Black Ocean Band - Black - (2025) $549",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+Watch+Ultra+3+49mm+Titanium+Case+with+Black+Ocean+Band+-+Black+-",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 549.0,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20255169-apple-watch-ultra-3-gps-cellular-49mm-titanium-case-with-black-ocean-band-black-2025-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+Watch+Ultra+3+49mm+Titanium+Case+with+Black+Ocean+Band+-+Black+-",
+  "exact": false
+ },
+ {
+  "id": "eba061293e911646",
+  "title": "Official PlayStation Store Black Friday sale now live: Over 2,200 titles up to 75% off",
+  "url": "https://link.amazon/B002rhcxI",
+  "why": "Ps5 — 75% off",
+  "category": "tech",
+  "source": "9to5Toys",
+  "urgent": false,
+  "hot": true,
+  "pct": 75,
+  "price": null,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://9to5toys.com/2026/11/05/playstation-store-black-friday-sale-live/",
+  "store": "Link",
+  "similar": "https://link.amazon/B002rhcxI",
+  "exact": false
+ },
+ {
+  "id": "11da6510f2e972ab",
+  "title": "Reebok Chloe 18\" Laptop Backpack (3 Colors) $11.20 + Free Shipping w/ Walmart+ or on $35+",
+  "url": "https://www.walmart.com/search?q=Reebok+Chloe+18+Laptop+Backpack",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.2,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20072949-reebok-chloe-18-laptop-backpack-3-colors-11-20-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=Reebok+Chloe+18+Laptop+Backpack",
+  "exact": false
+ },
+ {
+  "id": "a11a3810c19889b1",
+  "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 59.99,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "exact": false
+ },
+ {
+  "id": "f0e01407173fb806",
+  "title": "Fragrance Sale (Unboxed & Testers, Gift Sets): 1.7-Oz Chloe Love Story EDP $53 & More + Free S&H w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Fragrance+1.7-Oz+Chloe+Love+Story+EDP",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Chloe",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 53.0,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Fragrance+1.7-Oz+Chloe+Love+Story+EDP",
+  "exact": false
+ },
+ {
+  "id": "3e9693faa022b320",
+  "title": "Open Box Apple MacBook Pro 16\" M5 Max Chip 36GB RAM 2TB SSD 32-core GPU Silver MGE74LL/A $3449",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+Apple+MacBook+Pro+16+M5+Max+Chip+36GB+RAM+2TB+SSD+32-core+GPU+Silver+MG",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3449.0,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258814-open-box-apple-macbook-pro-16-m5-max-chip-36gb-ram-2tb-ssd-32-core-gpu-silver-mge74ll-a-3449?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+Apple+MacBook+Pro+16+M5+Max+Chip+36GB+RAM+2TB+SSD+32-core+GPU+Silver+MG",
+  "exact": false
+ },
+ {
+  "id": "1e3da241e28fd6f8",
+  "title": "Open Boxes: Apple MacBook Pro: 16\", M5 Max (18C/40C), 48GB RAM, 2TB SSD $3791.99 at Best Buy",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Boxes+Apple+MacBook+Pro+16+M5+Max+48GB+RAM+2TB+SSD",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3791.99,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20257761-open-boxes-apple-macbook-pro-16-m5-max-18c-40c-48gb-ram-2tb-ssd-3791-99-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Boxes+Apple+MacBook+Pro+16+M5+Max+48GB+RAM+2TB+SSD",
+  "exact": false
+ },
+ {
+  "id": "a1ffdb3342bd3318",
+  "title": "MacBook Pro Laptop (14-inch) - Apple M6 chip, Built for Apple Intelligence, 12-core CPU, 12-core GPU, 16GB Memory, 1TB SSD Storage, 1-year AppleCare+ Included",
+  "url": "https://www.apple.com/us/search/MacBook%20Pro%20Laptop%20-%20Apple%20M6%20chip%20Built%20for%20Apple%20Intelligence%2012-core%20CPU%2012-c",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20229765-macbook-pro-laptop-14-inch-apple-m6-chip-built-for-apple-intelligence-12-core-cpu-12-core-gpu-16gb-memory-1tb-ssd-storage-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/MacBook%20Pro%20Laptop%20-%20Apple%20M6%20chip%20Built%20for%20Apple%20Intelligence%2012-core%20CPU%2012-c",
+  "exact": false
+ },
+ {
+  "id": "0a969bac0f68cb47",
+  "title": "New Unlocked Galaxy S25 Edge $533.49",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Unlocked+Galaxy+S25+Edge",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Galaxy S25",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 533.49,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20256135-new-unlocked-galaxy-s25-edge-533-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Unlocked+Galaxy+S25+Edge",
+  "exact": false
+ },
+ {
+  "id": "6e9439015506deac",
+  "title": "Unlocked Samsung Galaxy S25 Ultra 256 GB Titanium Gray $799",
+  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Unlocked+Samsung+Galaxy+S25+Ultra+256+GB+Titanium+Gray",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Galaxy S25",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.0,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20223687-unlocked-samsung-galaxy-s25-ultra-256-gb-titanium-gray-nbsp-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Samsung",
+  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Unlocked+Samsung+Galaxy+S25+Ultra+256+GB+Titanium+Gray",
+  "exact": false
+ },
+ {
+  "id": "60288a55a3ed3f84",
+  "title": "Amazon Quietly Dropped Early Black Friday Deals on Dyson, LEGO, and More—up to 59% off - Yahoo",
+  "url": "https://www.amazon.com/s?k=Amazon+Quietly+Dropped+Early+Black+Friday+Deals+on+Dyson+LEGO+and+More+up+to+59+",
+  "why": "Dyson — 59% off",
+  "category": "tech",
+  "source": "Google: Dyson deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 59,
+  "price": null,
+  "found_at": "2026-11-05T14:23:36Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakswenZBZEljSVZKMUMzazVWV0dLWmxIMF80cXFDQTNwSHF6ZUoxWi1kYl9BWU9YeUh6eG0wVV90dnd5eENGMllaNWdXRXBWbkNJekFaem51NklCSUZYQ1Z5eXhQUllCNER2NGlSZlVyVnE0SXBtcExJWTZiTDdCWEpscHRhaWVEemUzdGlsN01nTF9tSEE?oc=5",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Amazon+Quietly+Dropped+Early+Black+Friday+Deals+on+Dyson+LEGO+and+More+up+to+59+",
   "exact": false
  }
 ]
