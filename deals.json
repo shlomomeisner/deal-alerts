@@ -1,77 +1,5 @@
 [
  {
-  "id": "7a59b9ac8d1840c9",
-  "title": "$649 | Apple Watch Ultra 3 [GPS + Cellular 49mm] (Black Titanium Case w Black Titanium Milanese Loop) at Amazon",
-  "url": "https://slickdeals.net/f/20255037-649-apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-w-black-titanium-milanese-loop-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Amazon watch",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 649.0,
-  "found_at": "2026-11-04T15:37:42Z",
-  "link_tried3": true,
-  "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=",
-  "checked_at": "2026-11-05T11:26:27Z"
- },
- {
-  "id": "53cfc0428c9d76ff",
-  "title": "$649 | Apple Watch Ultra 3 [GPS + Cellular 49mm] (Black Titanium Case w Black Titanium Milanese Loop) at Amazon",
-  "url": "https://slickdeals.net/f/20255037-649-apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-w-black-titanium-milanese-loop-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Apple Watch",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 649.0,
-  "found_at": "2026-11-04T15:37:42Z",
-  "link_tried3": true,
-  "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=",
-  "checked_at": "2026-11-05T11:26:29Z"
- },
- {
-  "id": "b5e88dabef1951d0",
-  "title": "Cert. Refurb: Dyson V15 Detect Total Clean Extra Yellow/Nickel $320 + Free Shipping",
-  "url": "https://www.ebay.com/sch/i.html?_nkw=Cert.+Refurb+Dyson+V15+Detect+Total+Clean+Extra+Yellow+Nickel",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Dyson",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 320.0,
-  "found_at": "2026-11-04T15:37:42Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20255058-cert-refurb-dyson-v15-detect-total-clean-extra-yellow-nickel-320-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Ebay",
-  "similar": "https://www.ebay.com/sch/i.html?_nkw=Cert.+Refurb+Dyson+V15+Detect+Total+Clean+Extra+Yellow+Nickel",
-  "exact": false,
-  "checked_at": "2026-11-05T10:58:19Z"
- },
- {
-  "id": "30290e7887e6f0aa",
-  "title": "Nike Women's Dunk Low Sneakers (Sail/Lt British Tan-White) $59.99 + Free Shipping $75+",
-  "url": "https://www.nike.com/w?q=Nike+Women%27s+Dunk+Low+Sneakers",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Dunks",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 59.99,
-  "found_at": "2026-11-04T15:37:42Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20249418-nike-women-s-dunk-low-sneakers-sail-lt-british-tan-white-59-99-free-shipping-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Nike",
-  "similar": "https://www.nike.com/w?q=Nike+Women%27s+Dunk+Low+Sneakers",
-  "exact": false,
-  "checked_at": "2026-11-05T10:58:22Z"
- },
- {
   "id": "f955749c76a612be",
   "title": "Nike Dunk Low Retro Men's Or Women's Shoes (Pink Rise/Elemental Pink/Beach/Velvet Brown, Various Sizes) $72.97 + Free Shipping",
   "url": "https://www.nike.com/w?q=Nike+Dunk+Low+Retro+Men%27s+Or+Women%27s+Shoes",
@@ -2333,7 +2261,8 @@
    "OGG"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T12:14:13Z"
  },
  {
   "id": "8ff303958f86bea5",
@@ -2358,7 +2287,8 @@
    "OGG"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T12:14:14Z"
  },
  {
   "id": "273e297a022efcb1",
@@ -2383,7 +2313,8 @@
    "HNL"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T12:14:16Z"
  },
  {
   "id": "d35ec84fe01436fe",
@@ -2408,7 +2339,8 @@
    "HNL"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T12:14:17Z"
  },
  {
   "id": "0fa37717e965f87a",
@@ -2426,7 +2358,8 @@
   "source_url": "https://slickdeals.net/f/19649586-nordstrom-designer-clearance-extra-25-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Nordstrom",
   "similar": "https://www.nordstrom.com/sr?keyword=Nordstrom+Designer+Clearance+Extra+25+Off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:14:19Z"
  },
  {
   "id": "847a0319be4d6309",
@@ -2443,7 +2376,8 @@
   "source_url": "https://www.dealnews.com/The-Beard-Club-Straight-Razor-Cedar-Shave-Gel-Kit-w-5-Blades-for-13-free-shipping-w-Prime/22346695.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=The+Beard+Club+Straight+Razor+%26+Cedar+Shave+Gel+Kit+w+5+Blades+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:14:19Z"
  },
  {
   "id": "3d2208d54b0b956d",
@@ -2460,7 +2394,8 @@
   "source_url": "https://www.dealnews.com/The-Beard-Club-Straight-Razor-w-5-Replaceable-Blades-for-5-free-shipping-w-Prime/22346693.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=The+Beard+Club+Straight+Razor+w+5+Replaceable+Blades+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:14:19Z"
  },
  {
   "id": "7329c1e0e83d8a36",
@@ -2476,7 +2411,8 @@
   "found_at": "2026-11-04T16:32:34Z",
   "source_url": "https://camelcamelcamel.com/product/B0BXBLRMR4",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=PopSockets+iPhone+14+Pro+Max+C...ss+Charging+Compatible+-+Clear+-+down+47.64"
+  "similar": "https://www.google.com/search?tbm=shop&q=PopSockets+iPhone+14+Pro+Max+C...ss+Charging+Compatible+-+Clear+-+down+47.64",
+  "checked_at": "2026-11-05T12:14:20Z"
  },
  {
   "id": "56b27465ab23a5f2",
@@ -2492,7 +2428,8 @@
   "found_at": "2026-11-04T16:32:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T12:14:21Z"
  },
  {
   "id": "275436210aa92042",
@@ -2510,7 +2447,8 @@
   "source_url": "https://slickdeals.net/f/20255007-apple-watch-ultra-3-gps-cellular-49mm-anchor-blue-ocean-549-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%203",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:14:22Z"
  },
  {
   "id": "c2f7f7c4a117cd47",
@@ -2528,7 +2466,8 @@
   "source_url": "https://slickdeals.net/f/20254128-49mm-apple-watch-ultra-3-gps-cellular-titanium-watch-w-titanium-milanese-loop-649-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=49mm+Apple+Watch+Ultra+3+GPS%2BCellular+Titanium+Watch+w+Titanium+Milanese+Loop",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:14:23Z"
  },
  {
   "id": "5d880b1365f93ae3",
@@ -2546,7 +2485,8 @@
   "source_url": "https://slickdeals.net/f/20253306-save-250-on-select-apple-watch-ultra-3-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Save",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:14:24Z"
  },
  {
   "id": "4f5267deea4a18f7",
@@ -2564,7 +2504,8 @@
   "source_url": "https://slickdeals.net/f/20245587-apple-watch-ultra-4-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:14:26Z"
  },
  {
   "id": "0692e3531ea1144a",
@@ -2580,7 +2521,8 @@
   "found_at": "2026-11-04T16:32:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T12:14:27Z"
  },
  {
   "id": "b077b1c20a82047c",
@@ -2596,7 +2538,8 @@
   "found_at": "2026-11-04T16:32:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T12:14:28Z"
  },
  {
   "id": "e3d26f4612ecad04",
@@ -27606,7 +27549,7 @@
  {
   "id": "72a906f4d92d54f1",
   "title": "(Refurb/Used) DJI Avata 2 Fly Smart Combo FPV Drone with 4K Camera Includes Goggles N3 RC $499.02",
-  "url": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
+  "url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "flights",
   "source": "Web search: DJI deal",
@@ -27619,13 +27562,12 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20245602-refurb-used-dji-avata-2-fly-smart-combo-fpv-drone-with-4k-camera-includes-goggles-n3-rc-499-02?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC",
-  "link_tried3": true
+  "similar": "https://www.google.com/travel/flights?q=Flights%20%28Refurb/Used%29%20DJI%20Avata%202%20Fly%20Smart%20Combo%20FPV%20Drone%20with%204K%20Camera%20Includes%20Goggles%20N3%20RC"
  },
  {
   "id": "17ddc3509e84b673",
   "title": "DJI Air 3S Fly More Combo (RC-N3), Used Drone with 1\" CMOS Wide-Angle & Medium Tele Camera $954.28",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
+  "url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27637,13 +27579,12 @@
   "source_url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "cee741fc605a0b67",
   "title": "DJI Mini 5 Pro 4k Camera Drone RC2 Fly More Combo ~$773.50 & More + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
+  "url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27655,13 +27596,12 @@
   "source_url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c5f277b7031d3732",
   "title": "(New) DJI Osmo Nano Standard Combo 128GB $249, 64GB $204 + FS",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Standard+Combo+128GB",
+  "url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27673,8 +27613,7 @@
   "source_url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Standard+Combo+128GB",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "95d49c3d18fc716c",
@@ -27751,7 +27690,7 @@
  {
   "id": "b8b1c3b495b2f754",
   "title": "DJI Osmo Action 6 $345",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+6",
+  "url": "https://slickdeals.net/f/19866543-dji-osmo-action-6-345?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27763,8 +27702,7 @@
   "source_url": "https://slickdeals.net/f/19866543-dji-osmo-action-6-345?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+6",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "70394287adc3e352",
@@ -27803,7 +27741,7 @@
  {
   "id": "4c1b30faca230fd8",
   "title": "DJI Osmo Pocket 4 4K: Gimbal Camera $423.95 or Creator Combo $539.75 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+Gimbal+Camera",
+  "url": "https://slickdeals.net/f/19754127-dji-osmo-pocket-4-4k-gimbal-camera-423-95-or-creator-combo-539-75-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27815,13 +27753,12 @@
   "source_url": "https://slickdeals.net/f/19754127-dji-osmo-pocket-4-4k-gimbal-camera-423-95-or-creator-combo-539-75-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+Gimbal+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4eb6b1a03ade1235",
   "title": "DJI Mini 5 Pro 4K Camera Drone Bundle with RC2 $869",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4K+Camera+Drone+Bundle+with+RC2",
+  "url": "https://slickdeals.net/f/19739202-dji-mini-5-pro-4k-camera-drone-bundle-with-rc2-869?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27833,13 +27770,12 @@
   "source_url": "https://slickdeals.net/f/19739202-dji-mini-5-pro-4k-camera-drone-bundle-with-rc2-869?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4K+Camera+Drone+Bundle+with+RC2",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ee214ed9cea70198",
   "title": "DJI Osmo Action 5 Pro Essential Combo 4K/120fps Waterproof Action Camera w/ 1/1.3\" Sensor & 47GB Built-in Storage $288.00 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+Essential+Combo+4K+120fps+Waterproof+Action+Camera+w+1+1.3",
+  "url": "https://slickdeals.net/f/19728996-dji-osmo-action-5-pro-essential-combo-4k-120fps-waterproof-action-camera-w-1-1-3-sensor-47gb-built-in-storage-288-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27851,8 +27787,7 @@
   "source_url": "https://slickdeals.net/f/19728996-dji-osmo-action-5-pro-essential-combo-4k-120fps-waterproof-action-camera-w-1-1-3-sensor-47gb-built-in-storage-288-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+Essential+Combo+4K+120fps+Waterproof+Action+Camera+w+1+1.3",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "548776643fa95d9e",
@@ -27873,7 +27808,7 @@
  {
   "id": "73f36a4d6b81d64e",
   "title": "DJI Osmo Pocket 4 4K/6K Pocket Gimbal Camera 1-Inch Sensor 107GB Storage ActiveTrack 7.0 $453 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+1-Inch+Sensor+107GB+Storage+ActiveT",
+  "url": "https://slickdeals.net/f/19644405-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-1-inch-sensor-107gb-storage-activetrack-7-0-453-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27885,13 +27820,12 @@
   "source_url": "https://slickdeals.net/f/19644405-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-1-inch-sensor-107gb-storage-activetrack-7-0-453-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+1-Inch+Sensor+107GB+Storage+ActiveT",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "cfcf2efca5c19dcf",
   "title": "DJI Osmo Action 4 4K/120fps Waterproof Action Camera (Essential Combo) $169 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+4K+120fps+Waterproof+Action+Camera",
+  "url": "https://slickdeals.net/f/19627359-dji-osmo-action-4-4k-120fps-waterproof-action-camera-essential-combo-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27903,13 +27837,12 @@
   "source_url": "https://slickdeals.net/f/19627359-dji-osmo-action-4-4k-120fps-waterproof-action-camera-essential-combo-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+4K+120fps+Waterproof+Action+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "582aaf295626fad8",
   "title": "DJI Osmo Pocket 4 Digital 4K 3-Axis Gimbal Vlog Camera $433.45 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
+  "url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27921,13 +27854,12 @@
   "source_url": "https://slickdeals.net/f/19595631-dji-osmo-pocket-4-digital-4k-3-axis-gimbal-vlog-camera-433-45-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+Digital+4K+3-Axis+Gimbal+Vlog+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "751ee57a167a763a",
   "title": "DJI Osmo Pocket 4 4K/6K Pocket Gimbal Camera w/ 1\" Sensor 107GB Storage ActionTrack 7.0 Vlog Camera + F/S $426.7",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
+  "url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27939,13 +27871,12 @@
   "source_url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "879fb8f39198168b",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $288 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
+  "url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27957,8 +27888,7 @@
   "source_url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6a3ae3e929bc79a1",
@@ -27979,7 +27909,7 @@
  {
   "id": "580836c687e889a3",
   "title": "DJI Osmo Action 4 Waterproof Action Camera Bundle $289.98 shipped",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
+  "url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27991,13 +27921,12 @@
   "source_url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e19f8941efbd1320",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $316.80 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
+  "url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28009,8 +27938,7 @@
   "source_url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "17dc79747cec5338",
@@ -28031,7 +27959,7 @@
  {
   "id": "0f79a9d0b066246e",
   "title": "(Certified Refurbished) DJI Air 3S Drone w/ RC-N3 Controller $799.20 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
+  "url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28043,13 +27971,12 @@
   "source_url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4b83285bcf34caa3",
   "title": "DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera $198",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
+  "url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28061,13 +27988,12 @@
   "source_url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e144f43c57fffd3a",
   "title": "DJI Osmo 360 Waterproof 8K 360° Action Camera Standard Combo w/ 105GB Built-in Storage $285 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
+  "url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28079,8 +28005,7 @@
   "source_url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "98dbd0d92119a764",
@@ -34937,7 +34862,9 @@
   "hot": false,
   "pct": 73,
   "price": null,
-  "found_at": "2026-11-05T12:06:46Z"
+  "found_at": "2026-11-05T12:06:46Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7156fb1046e0bdad254c62e48122&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fit-s-happening-amazon-just-dropped-its-black-friday-sale-early-ugg-levi-s-and-adidas-are-up-to-73-off%2far-AA2gOCOF&c=13378981587879602106&mkt=en-us",
+  "exact": false
  },
  {
   "id": "83085331b4b89ea7",
@@ -34950,6 +34877,340 @@
   "hot": false,
   "pct": null,
   "price": 72.0,
-  "found_at": "2026-11-05T12:06:46Z"
+  "found_at": "2026-11-05T12:06:46Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec7156fb1046e0bdad254c62e48122&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwe-found-classic-ugg-styles-and-ones-you-won-t-see-everyone-wearing-for-fall-shop-pairs-now-from-72%2far-AA2gI9ie&c=6918530792822542007&mkt=en-us",
+  "exact": false
+ },
+ {
+  "id": "049551dd3b0ac561",
+  "title": "Garmin Fenix 8 AMOLED 51mm $599.99 at Bass Pro Shop",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 599.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
+  "exact": false
+ },
+ {
+  "id": "499fda72edd40b11",
+  "title": "Garmin 51mm Fenix 8 Smartwatch",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+51mm+Fenix+8+Smartwatch",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+51mm+Fenix+8+Smartwatch",
+  "exact": false
+ },
+ {
+  "id": "fdbcb52e94c9b2e6",
+  "title": "$1099.99 | Garmin fēnix® 9 Pro, inReach®, Titanium, 51mm, Graphite/Black at Amazon",
+  "url": "https://slickdeals.net/f/20106675-1099-99-garmin-f-nix-9-pro-inreach-titanium-51mm-graphite-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1099.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "6a97de465b89e51c",
+  "title": "Garmin Quatix 7 Solar Marine GPS Smartwatch $549.95 + Free Shipping w/ Walmart+ or on $35+",
+  "url": "https://www.walmart.com/search?q=Garmin+Quatix+7+Solar+Marine+GPS+Smartwatch",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 549.95,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20100141-garmin-quatix-7-solar-marine-gps-smartwatch-549-95-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=Garmin+Quatix+7+Solar+Marine+GPS+Smartwatch",
+  "exact": false
+ },
+ {
+  "id": "1d3fc68ee289ceac",
+  "title": "Garmin Fenix 8 AMOLED Slate Gray/Black 51mm $699.99",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+Slate+Gray+Black+51mm",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 699.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20088267-garmin-fenix-8-amoled-slate-gray-black-51mm-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+Slate+Gray+Black+51mm",
+  "exact": false
+ },
+ {
+  "id": "a3ebf11896c7157b",
+  "title": "Garmin Edge 840 Solar Cycling Computer $399",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+840+Solar+Cycling+Computer",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.0,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20051241-garmin-edge-840-solar-cycling-computer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+840+Solar+Cycling+Computer",
+  "exact": false
+ },
+ {
+  "id": "cd11ebe07696911b",
+  "title": "Garmin quatix 8 47-mm AMOLED Sapphire Titanium for $949 , receive $227 Kohl's cash",
+  "url": "https://www.kohls.com/search.jsp?search=Garmin+quatix+8+47-mm+AMOLED+Sapphire+Titanium+for",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 949.0,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20039739-garmin-quatix-8-47-mm-amoled-sapphire-titanium-for-949-receive-227-kohl-s-cash?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Kohls",
+  "similar": "https://www.kohls.com/search.jsp?search=Garmin+quatix+8+47-mm+AMOLED+Sapphire+Titanium+for",
+  "exact": false
+ },
+ {
+  "id": "9d52991fab1ddbcf",
+  "title": "Garmin fēnix® 8 AMOLED Sapphire GPS Smartwatch for $850 receive $210.50 Kohl's cash",
+  "url": "https://www.kohls.com/search.jsp?search=Garmin+f+nix+8+AMOLED+Sapphire+GPS+Smartwatch+for",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 850.0,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20038311-garmin-f-nix-8-amoled-sapphire-gps-smartwatch-for-850-receive-210-50-kohl-s-cash?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Kohls",
+  "similar": "https://www.kohls.com/search.jsp?search=Garmin+f+nix+8+AMOLED+Sapphire+GPS+Smartwatch+for",
+  "exact": false
+ },
+ {
+  "id": "b07cc36ec6834dff",
+  "title": "Garmin fēnix® AMOLED Sapphire GPS Smartwatch",
+  "url": "https://www.kohls.com/search.jsp?search=Garmin+f+nix+AMOLED+Sapphire+GPS+Smartwatch",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20038287-garmin-f-nix-amoled-sapphire-gps-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Kohls",
+  "similar": "https://www.kohls.com/search.jsp?search=Garmin+f+nix+AMOLED+Sapphire+GPS+Smartwatch",
+  "exact": false
+ },
+ {
+  "id": "ec83e0a575d162fd",
+  "title": "Garmin quatix® 7X Solar Edition, Marine GPS Smartwatch $549.95 + Free S&H at Amazon",
+  "url": "https://www.amazon.com/s?k=Garmin+quatix+7X+Solar+Edition+Marine+GPS+Smartwatch",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 549.95,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20036334-garmin-quatix-7x-solar-edition-marine-gps-smartwatch-549-95-free-s-h-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Garmin+quatix+7X+Solar+Edition+Marine+GPS+Smartwatch",
+  "exact": false
+ },
+ {
+  "id": "b00c4f1147f67af3",
+  "title": "Citizen Weekender Titanium ecodrive sapphire $212.50 @Amazon",
+  "url": "https://www.amazon.com/s?k=Citizen+Weekender+Titanium+ecodrive+sapphire",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 212.5,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20019633-citizen-weekender-titanium-ecodrive-sapphire-212-50-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Weekender+Titanium+ecodrive+sapphire",
+  "exact": false
+ },
+ {
+  "id": "a012a4c3117099b6",
+  "title": "Garmin Edge 540 GPS Cycling Computer $250",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+540+GPS+Cycling+Computer",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 250.0,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20010492-garmin-edge-540-gps-cycling-computer-250?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+540+GPS+Cycling+Computer",
+  "exact": false
+ },
+ {
+  "id": "3dca07f4de700745",
+  "title": "$749.99* | Garmin fēnix® 8, 47mm, Black at Amazon",
+  "url": "https://slickdeals.net/f/20007942-749-99-garmin-f-nix-8-47mm-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 749.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "52065eb91ef9fcc7",
+  "title": "$399.99 | Garmin zūmo® XT3, 4.7” Rugged Motorcycle GPS Navigator at Amazon",
+  "url": "https://slickdeals.net/f/20007936-399-99-garmin-z-mo-xt3-4-7-rugged-motorcycle-gps-navigator-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "032a3271efab3a88",
+  "title": "$499.99 | Garmin zūmo® XT3, 6” Rugged Motorcycle GPS Navigator at Amazon",
+  "url": "https://slickdeals.net/f/20007798-499-99-garmin-z-mo-xt3-6-rugged-motorcycle-gps-navigator-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 499.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "3279e9bc657b5627",
+  "title": "$249.99* | Garmin Edge 540 Compact GPS Cycling Computer at Amazon",
+  "url": "https://slickdeals.net/f/20007774-249-99-garmin-edge-540-compact-gps-cycling-computer-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 249.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "5ee9c5e5d7cbc5d2",
+  "title": "Garmin fēnix® 8, 47mm, Black $799.99",
+  "url": "https://www.amazon.com/s?k=Garmin+f+nix+8+47mm+Black",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19985955-garmin-f-nix-8-47mm-black-799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Garmin+f+nix+8+47mm+Black",
+  "exact": false
+ },
+ {
+  "id": "406a43dc522c647f",
+  "title": "Garmin fēnix® 8, 43mm, Whitestone Premium Multisport Smartwatch, AMOLED Display, GPS, Built-In Flashlight, Dive-Rated, Built-In Speakers & Mic $749.99",
+  "url": "https://www.amazon.com/s?k=Garmin+f+nix+8+43mm+Whitestone+Premium+Multisport+Smartwatch+AMOLED+Display+GPS+",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 749.99,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19979658-garmin-f-nix-8-43mm-whitestone-premium-multisport-smartwatch-amoled-display-gps-built-in-flashlight-dive-rated-built-in-speakers-mic-749-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Garmin+f+nix+8+43mm+Whitestone+Premium+Multisport+Smartwatch+AMOLED+Display+GPS+",
+  "exact": false
+ },
+ {
+  "id": "a4638f3a5921d960",
+  "title": "Garmin Edge® 1040 Solar Premium Bike Computer $399(ExpertVoice member) YMMV",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+1040+Solar+Premium+Bike+Computer",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Garmin Fenix",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.0,
+  "found_at": "2026-11-05T12:11:51Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19962918-garmin-edge-1040-solar-premium-bike-computer-399-expertvoice-member-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+1040+Solar+Premium+Bike+Computer",
+  "exact": false
  }
 ]
