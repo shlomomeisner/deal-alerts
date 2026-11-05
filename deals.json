@@ -533,22 +533,6 @@
   "checked_at": "2026-11-05T11:18:10Z"
  },
  {
-  "id": "5c2c5f9bc097294f",
-  "title": "Garmin Vivoactive 5 42mm Water Resistant Health & Fitness GPS Smartwatch $169.99",
-  "url": "https://www.amazon.com/gp/product/B0CG6NR413/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 169.99,
-  "found_at": "2026-11-04T15:28:59Z",
-  "store_url": "https://www.amazon.com/gp/product/B0CG6NR413/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+42mm+Water+Resistant+Health+%26+Fitness+GPS+Smartwatch"
- },
- {
   "id": "6e1ed0ddc1d8a651",
   "title": "PinLiSheng MagSafe iPhone 17 Pro Max / 18 Pro Max Case (Orange) $2.94 + Free Shipping w/ Prime or on $35+",
   "url": "https://www.amazon.com/s?k=PinLiSheng+MagSafe+iPhone+17+Pro+Max+18+Pro+Max+Case",
@@ -564,7 +548,8 @@
   "source_url": "https://slickdeals.net/f/20253930-pinlisheng-magsafe-iphone-17-pro-max-18-pro-max-case-orange-2-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=PinLiSheng+MagSafe+iPhone+17+Pro+Max+18+Pro+Max+Case",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:26:20Z"
  },
  {
   "id": "21dbf7cb89955467",
@@ -582,7 +567,8 @@
   "source_url": "https://slickdeals.net/f/20254128-49mm-apple-watch-ultra-3-gps-cellular-titanium-watch-w-titanium-milanese-loop-649-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=49mm+Apple+Watch+Ultra+3+GPS%2BCellular+Titanium+Watch+w+Titanium+Milanese+Loop",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:26:21Z"
  },
  {
   "id": "9e38125a5529dfdb",
@@ -598,7 +584,8 @@
   "found_at": "2026-11-04T15:37:42Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:22Z"
  },
  {
   "id": "17c6d9ae03077b1b",
@@ -614,39 +601,8 @@
   "found_at": "2026-11-04T15:37:42Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
- },
- {
-  "id": "b81ace9f1beb3cfa",
-  "title": "OtterBox Google Pixel 8 Alpha ...ch response, easy installation - down 4.39% ($0.77) to $16.76 from $17.53",
-  "url": "https://www.amazon.com/dp/B0CHHPG6SK",
-  "why": "",
-  "category": "tech",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 0.77,
-  "found_at": "2026-11-04T15:37:42Z",
-  "source_url": "https://camelcamelcamel.com/product/B0CHHPG6SK",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=OtterBox+Google+Pixel+8+Alpha+...ch+response+easy+installation+-+down+4.39"
- },
- {
-  "id": "5ca32a67a6cad688",
-  "title": "Case-Mate Tough iPhone 15 Plus...ogy, Shock Absorbing Materials - down 9.99% ($3.48) to $31.37 from $34.85",
-  "url": "https://www.amazon.com/dp/B0CHGDF728",
-  "why": "",
-  "category": "tech",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 3.48,
-  "found_at": "2026-11-04T15:37:42Z",
-  "source_url": "https://camelcamelcamel.com/product/B0CHGDF728",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Case-Mate+Tough+iPhone+15+Plus...ogy+Shock+Absorbing+Materials+-+down+9.99"
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:23Z"
  },
  {
   "id": "7a59b9ac8d1840c9",
@@ -662,7 +618,8 @@
   "found_at": "2026-11-04T15:37:42Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:27Z"
  },
  {
   "id": "53cfc0428c9d76ff",
@@ -678,7 +635,8 @@
   "found_at": "2026-11-04T15:37:42Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:29Z"
  },
  {
   "id": "b5e88dabef1951d0",
@@ -1267,7 +1225,8 @@
   "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:26:30Z"
  },
  {
   "id": "e85c3a9afc85d927",
@@ -1283,7 +1242,8 @@
   "found_at": "2026-11-04T16:03:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:31Z"
  },
  {
   "id": "5575e32ebf3580ad",
@@ -1299,7 +1259,8 @@
   "found_at": "2026-11-04T16:03:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:32Z"
  },
  {
   "id": "2fc9fde54f04926f",
@@ -1315,7 +1276,8 @@
   "found_at": "2026-11-04T16:03:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:33Z"
  },
  {
   "id": "0ad1590f27a03274",
@@ -1331,7 +1293,8 @@
   "found_at": "2026-11-04T16:03:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:35Z"
  },
  {
   "id": "611e5cad4e11678e",
@@ -1347,7 +1310,8 @@
   "found_at": "2026-11-04T16:03:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:26:36Z"
  },
  {
   "id": "2fabda829efeed21",
@@ -26674,7 +26638,7 @@
  {
   "id": "3c7d19433881c165",
   "title": "Sonos ONE G2 Wireless Smart Speaker with Voice Control (White) $149.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+ONE+G2+Wireless+Smart+Speaker+with+Voice+Control",
+  "url": "https://slickdeals.net/f/20169270-sonos-one-g2-wireless-smart-speaker-with-voice-control-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -26686,13 +26650,12 @@
   "source_url": "https://slickdeals.net/f/20169270-sonos-one-g2-wireless-smart-speaker-with-voice-control-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+ONE+G2+Wireless+Smart+Speaker+with+Voice+Control",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4f6d65cf5d3f993d",
   "title": "Sonos Era 100 SL Wi-Fi & Bluetooth Wireless Speaker (Black or White) $149.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Era+100+SL+Wi-Fi+%26+Bluetooth+Wireless+Speaker",
+  "url": "https://slickdeals.net/f/20145576-sonos-era-100-sl-wi-fi-bluetooth-wireless-speaker-black-or-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -26704,13 +26667,12 @@
   "source_url": "https://slickdeals.net/f/20145576-sonos-era-100-sl-wi-fi-bluetooth-wireless-speaker-black-or-white-149-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Era+100+SL+Wi-Fi+%26+Bluetooth+Wireless+Speaker",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "58a69d44d361a1f4",
   "title": "Sonos Sub Mini - Black - Compact Wireless Subwoofer $399.00",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+Black+-+Compact+Wireless+Subwoofer",
+  "url": "https://slickdeals.net/f/20138610-sonos-sub-mini-black-compact-wireless-subwoofer-399-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -26722,8 +26684,7 @@
   "source_url": "https://slickdeals.net/f/20138610-sonos-sub-mini-black-compact-wireless-subwoofer-399-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+Black+-+Compact+Wireless+Subwoofer",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "544a8fbdd6528600",
@@ -26856,7 +26817,7 @@
  {
   "id": "306ee420bb34d0f6",
   "title": "Sonos Ultimate Immersive Set with Arc Ultra $2,446 $2446",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Ultimate+Immersive+Set+with+Arc+Ultra",
+  "url": "https://slickdeals.net/f/20102760-sonos-ultimate-immersive-set-with-arc-ultra-2-446-2446?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -26868,13 +26829,12 @@
   "source_url": "https://slickdeals.net/f/20102760-sonos-ultimate-immersive-set-with-arc-ultra-2-446-2446?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Ultimate+Immersive+Set+with+Arc+Ultra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "91b2b15c1245d280",
   "title": "Sonos Sub Mini - White - Compact Wireless Subwoofer $399",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+White+-+Compact+Wireless+Subwoofer",
+  "url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -26886,13 +26846,12 @@
   "source_url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Sub+Mini+-+White+-+Compact+Wireless+Subwoofer",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "69e97d9438ac05bc",
   "title": "resale Sonos Era 300 Wireless Smart Speaker with Dolby Atmos - White $244.92",
-  "url": "https://www.google.com/search?tbm=shop&q=resale+Sonos+Era+300+Wireless+Smart+Speaker+with+Dolby+Atmos+-+White",
+  "url": "https://slickdeals.net/f/19991547-resale-sonos-era-300-wireless-smart-speaker-with-dolby-atmos-white-244-92?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos deal",
@@ -26904,8 +26863,7 @@
   "source_url": "https://slickdeals.net/f/19991547-resale-sonos-era-300-wireless-smart-speaker-with-dolby-atmos-white-244-92?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=resale+Sonos+Era+300+Wireless+Smart+Speaker+with+Dolby+Atmos+-+White",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "67ab271e577deb41",
@@ -27013,7 +26971,7 @@
  {
   "id": "d9ee908f184da0d8",
   "title": "Sonos Play 1: $114, Play 3: $204, Play 5: $454 @ The Exchange (Military and Veterans Only)",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1",
+  "url": "https://slickdeals.net/e/11408171-sonos-play-1-114-play-3-204-play-5-454-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos record low",
@@ -27025,13 +26983,12 @@
   "source_url": "https://slickdeals.net/e/11408171-sonos-play-1-114-play-3-204-play-5-454-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "68ab3d0e3d57a040",
   "title": "Sonos Play 1 Wireless Speaker $109; Play 3 $209; Play 5 $459.95 @ The Exchange (Military and Veterans Only)",
-  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1+Wireless+Speaker",
+  "url": "https://slickdeals.net/e/11009487-sonos-play-1-wireless-speaker-109-play-3-209-play-5-459-95-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sonos record low",
@@ -27043,13 +27000,12 @@
   "source_url": "https://slickdeals.net/e/11009487-sonos-play-1-wireless-speaker-109-play-3-209-play-5-459-95-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Play+1+Wireless+Speaker",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d114bd08ab927fec",
   "title": "Elgato HD60 X - Stream and record in 1080p60 HDR10 or 4K30 with ultra-low latency on PS5, PS4/Pro, Xbox Series X/S, Xbox One X/S, in OBS and more, works with PC and Mac $159",
-  "url": "https://www.google.com/search?tbm=shop&q=Elgato+HD60+X+-+Stream+and+record+in+1080p60+HDR10+or+4K30+with+ultra-low+latenc",
+  "url": "https://slickdeals.net/f/17220493-elgato-hd60-x-stream-and-record-in-1080p60-hdr10-or-4k30-with-ultra-low-latency-on-ps5-ps4-pro-xbox-series-x-s-xbox-one-x-s-in-obs-and-more-works-with-pc-and-mac-159?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: PS5 Pro record low",
@@ -27061,8 +27017,7 @@
   "source_url": "https://slickdeals.net/f/17220493-elgato-hd60-x-stream-and-record-in-1080p60-hdr10-or-4k30-with-ultra-low-latency-on-ps5-ps4-pro-xbox-series-x-s-xbox-one-x-s-in-obs-and-more-works-with-pc-and-mac-159?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Elgato+HD60+X+-+Stream+and+record+in+1080p60+HDR10+or+4K30+with+ultra-low+latenc",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "940fb6b8e8e78eb8",
@@ -27085,7 +27040,7 @@
  {
   "id": "d77fa60bb174fd57",
   "title": "On Cloudtilt (women, selected sizes) $84.99 footlocker",
-  "url": "https://www.google.com/search?tbm=shop&q=On+Cloudtilt",
+  "url": "https://slickdeals.net/f/20254392-on-cloudtilt-women-selected-sizes-84-99-footlocker?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Slickdeals Popular",
@@ -27097,13 +27052,12 @@
   "source_url": "https://slickdeals.net/f/20254392-on-cloudtilt-women-selected-sizes-84-99-footlocker?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=On+Cloudtilt",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "672459d32d777b6f",
   "title": "Oakley Meta HSTN, Clear | Smart AI Glasses for Men, Women — Camera, Audio, Video — 8 Hour Battery — 3K HD Resolution — Clear to Grey Transitions® Lenses $383.2",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Meta+HSTN+Clear+Smart+AI+Glasses+for+Men+Women+Camera+Audio+Video+8+Hour+",
+  "url": "https://slickdeals.net/f/19551438-oakley-meta-hstn-clear-smart-ai-glasses-for-men-women-camera-audio-video-8-hour-battery-3k-hd-resolution-clear-to-grey-transitions-lenses-383-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -27115,8 +27069,7 @@
   "source_url": "https://slickdeals.net/f/19551438-oakley-meta-hstn-clear-smart-ai-glasses-for-men-women-camera-audio-video-8-hour-battery-3k-hd-resolution-clear-to-grey-transitions-lenses-383-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Meta+HSTN+Clear+Smart+AI+Glasses+for+Men+Women+Camera+Audio+Video+8+Hour+",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "05a5c4bc2dc34d8c",
@@ -27393,7 +27346,7 @@
  {
   "id": "fb408d31cd67daaf",
   "title": "[LG Partner Store] 39\" LG UltraGear evo GX9 OLED 5K2K WUHD 165Hz or WFHD Dual Mode 330Hz Gaming Monitor $1133.99",
-  "url": "https://www.google.com/search?tbm=shop&q=39+LG+UltraGear+evo+GX9+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+330Hz+Gaming+Moni",
+  "url": "https://slickdeals.net/f/20198364-lg-partner-store-39-lg-ultragear-evo-gx9-oled-5k2k-wuhd-165hz-or-wfhd-dual-mode-330hz-gaming-monitor-1133-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: LG OLED deal",
@@ -27405,13 +27358,12 @@
   "source_url": "https://slickdeals.net/f/20198364-lg-partner-store-39-lg-ultragear-evo-gx9-oled-5k2k-wuhd-165hz-or-wfhd-dual-mode-330hz-gaming-monitor-1133-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=39+LG+UltraGear+evo+GX9+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+330Hz+Gaming+Moni",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e1ccba46f3eaab71",
   "title": "LG Partner Store: 45 Inch UltraGear™ evo OLED 5K2K WUHD 165Hz or WFHD Dual Mode 330Hz 0.03ms G-sync Compatible DisplayPort 2.1 Gaming Monitor + $1 for 1 year premium care $1169.99",
-  "url": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+45+Inch+UltraGear+evo+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+33",
+  "url": "https://slickdeals.net/f/20194908-lg-partner-store-45-inch-ultragear-evo-oled-5k2k-wuhd-165hz-or-wfhd-dual-mode-330hz-0-03ms-g-sync-compatible-displayport-2-1-gaming-monitor-1-for-1-year-premium-care-1169-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: LG OLED deal",
@@ -27423,8 +27375,7 @@
   "source_url": "https://slickdeals.net/f/20194908-lg-partner-store-45-inch-ultragear-evo-oled-5k2k-wuhd-165hz-or-wfhd-dual-mode-330hz-0-03ms-g-sync-compatible-displayport-2-1-gaming-monitor-1-for-1-year-premium-care-1169-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partner+Store+45+Inch+UltraGear+evo+OLED+5K2K+WUHD+165Hz+or+WFHD+Dual+Mode+33",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "04ddae8832ee2baf",
@@ -27461,7 +27412,7 @@
  {
   "id": "3d383724f6d5451d",
   "title": "Open Box: Sony 77\" BRAVIA XR A95L OLED 4K UHD Smart Google TV (2023) as low as $1,124.99 - YMMV",
-  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+Sony+77+BRAVIA+XR+A95L+OLED+4K+UHD+Smart+Google+TV+as+low+as",
+  "url": "https://slickdeals.net/f/20179578-open-box-sony-77-bravia-xr-a95l-oled-4k-uhd-smart-google-tv-2023-as-low-as-1-124-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sony Bravia OLED deal",
@@ -27473,13 +27424,12 @@
   "source_url": "https://slickdeals.net/f/20179578-open-box-sony-77-bravia-xr-a95l-oled-4k-uhd-smart-google-tv-2023-as-low-as-1-124-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+Sony+77+BRAVIA+XR+A95L+OLED+4K+UHD+Smart+Google+TV+as+low+as",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b0b164573c4e2ff2",
   "title": "Sony 65 Inch BRAVIA XR8B OLED 4K HDR Smart Google TV (K-65XR8B) | XR Processor with AI Technology, Dolby Vision/Atmos, Exclusive Features for PlayStation®5 $1414.8",
-  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+65+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
+  "url": "https://slickdeals.net/f/20177262-sony-65-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-65xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1414-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sony Bravia OLED deal",
@@ -27491,13 +27441,12 @@
   "source_url": "https://slickdeals.net/f/20177262-sony-65-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-65xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1414-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+65+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3d831726e69f3d48",
   "title": "Sony - 65\" Class BRAVIA 8 II OLED 4K UHD Smart Google TV with Gemini (2025) $2149",
-  "url": "https://www.google.com/search?tbm=shop&q=Sony+-+65+Class+BRAVIA+8+II+OLED+4K+UHD+Smart+Google+TV+with+Gemini",
+  "url": "https://slickdeals.net/f/20136663-sony-65-class-bravia-8-ii-oled-4k-uhd-smart-google-tv-with-gemini-2025-2149?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sony Bravia OLED deal",
@@ -27509,13 +27458,12 @@
   "source_url": "https://slickdeals.net/f/20136663-sony-65-class-bravia-8-ii-oled-4k-uhd-smart-google-tv-with-gemini-2025-2149?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+-+65+Class+BRAVIA+8+II+OLED+4K+UHD+Smart+Google+TV+with+Gemini",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d2911f627bcfabe3",
   "title": "77\" Sony BRAVIA XR8B OLED 4K UHD 120Hz Google Smart TV (2025) $1600 + Free S&H + 10% back w/ Prime Visa",
-  "url": "https://www.google.com/search?tbm=shop&q=77+Sony+BRAVIA+XR8B+OLED+4K+UHD+120Hz+Google+Smart+TV",
+  "url": "https://slickdeals.net/f/20119263-77-sony-bravia-xr8b-oled-4k-uhd-120hz-google-smart-tv-2025-1600-free-s-h-10-back-w-prime-visa?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sony Bravia OLED deal",
@@ -27527,13 +27475,12 @@
   "source_url": "https://slickdeals.net/f/20119263-77-sony-bravia-xr8b-oled-4k-uhd-120hz-google-smart-tv-2025-1600-free-s-h-10-back-w-prime-visa?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=77+Sony+BRAVIA+XR8B+OLED+4K+UHD+120Hz+Google+Smart+TV",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "12ad4a084322c62a",
   "title": "Sony 77 Inch BRAVIA XR8C OLED 4K HDR Smart Google TV (K-77XR8C) for $1598",
-  "url": "https://www.google.com/search?tbm=shop&q=Sony+77+Inch+BRAVIA+XR8C+OLED+4K+HDR+Smart+Google+TV+for",
+  "url": "https://slickdeals.net/f/20110677-sony-77-inch-bravia-xr8c-oled-4k-hdr-smart-google-tv-k-77xr8c-for-1598?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sony Bravia OLED deal",
@@ -27545,8 +27492,7 @@
   "source_url": "https://slickdeals.net/f/20110677-sony-77-inch-bravia-xr8c-oled-4k-hdr-smart-google-tv-k-77xr8c-for-1598?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+77+Inch+BRAVIA+XR8C+OLED+4K+HDR+Smart+Google+TV+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d8c5f7c32512365d",
@@ -27793,7 +27739,7 @@
  {
   "id": "871463d2e57ebd03",
   "title": "Sony Bravia 8 II 65\" OLED $2500",
-  "url": "https://www.google.com/search?tbm=shop&q=Sony+Bravia+8+II+65+OLED",
+  "url": "https://slickdeals.net/f/19918782-sony-bravia-8-ii-65-oled-2500?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Sony Bravia OLED deal",
@@ -27805,8 +27751,7 @@
   "source_url": "https://slickdeals.net/f/19918782-sony-bravia-8-ii-65-oled-2500?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+Bravia+8+II+65+OLED",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "68e0cd11a3af08b7",
@@ -27865,7 +27810,7 @@
  {
   "id": "e647b4785875ffc8",
   "title": "Restored Dyson Supersonic Nural Hair Dryer $219.99",
-  "url": "https://slickdeals.net/f/20252739-restored-dyson-supersonic-nural-hair-dryer-219-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Restored+Dyson+Supersonic+Nural+Hair+Dryer",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -27877,7 +27822,8 @@
   "source_url": "https://slickdeals.net/f/20252739-restored-dyson-supersonic-nural-hair-dryer-219-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Restored+Dyson+Supersonic+Nural+Hair+Dryer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8b67f2ea3160e634",
@@ -27918,7 +27864,7 @@
  {
   "id": "641aa951dc6c7542",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -27930,7 +27876,8 @@
   "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2116f1b5b0bc986e",
@@ -28003,7 +27950,7 @@
  {
   "id": "51d0a3dddd10c71f",
   "title": "Dyson Supersonic Nural™ Hair Dryer in Strawberry Bronze and Blush Pink with Dyson-Designed Presentation $372.49",
-  "url": "https://slickdeals.net/f/20229585-dyson-supersonic-nural-hair-dryer-in-strawberry-bronze-and-blush-pink-with-dyson-designed-presentation-372-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+Supersonic+Nural+Hair+Dryer+in+Strawberry+Bronze+and+Blush+Pink+with+Dyson",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson deal",
@@ -28015,7 +27962,8 @@
   "source_url": "https://slickdeals.net/f/20229585-dyson-supersonic-nural-hair-dryer-in-strawberry-bronze-and-blush-pink-with-dyson-designed-presentation-372-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Supersonic+Nural+Hair+Dryer+in+Strawberry+Bronze+and+Blush+Pink+with+Dyson",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8ad9109b340f7ca4",
@@ -28158,7 +28106,7 @@
  {
   "id": "49033cf758dca067",
   "title": "(NEW!) Dyson 360 Vis Nav Robot Vacuum $280",
-  "url": "https://slickdeals.net/f/19133425-new-dyson-360-vis-nav-robot-vacuum-280?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+360+Vis+Nav+Robot+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson record low",
@@ -28170,12 +28118,13 @@
   "source_url": "https://slickdeals.net/f/19133425-new-dyson-360-vis-nav-robot-vacuum-280?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+360+Vis+Nav+Robot+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4bad0a6949d3412b",
   "title": "Woot-Dyson 360 Vis Nav Robot Vacuum $299.99",
-  "url": "https://slickdeals.net/f/19051048-woot-dyson-360-vis-nav-robot-vacuum-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot-Dyson+360+Vis+Nav+Robot+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Web search: Dyson record low",
@@ -28187,7 +28136,8 @@
   "source_url": "https://slickdeals.net/f/19051048-woot-dyson-360-vis-nav-robot-vacuum-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot-Dyson+360+Vis+Nav+Robot+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "320f56a26b8b7071",
@@ -28247,7 +28197,7 @@
  {
   "id": "cee741fc605a0b67",
   "title": "DJI Mini 5 Pro 4k Camera Drone RC2 Fly More Combo ~$773.50 & More + Free S/H",
-  "url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -28259,12 +28209,13 @@
   "source_url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c5f277b7031d3732",
   "title": "(New) DJI Osmo Nano Standard Combo 128GB $249, 64GB $204 + FS",
-  "url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Standard+Combo+128GB",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -28276,7 +28227,8 @@
   "source_url": "https://slickdeals.net/f/20242011-new-dji-osmo-nano-standard-combo-128gb-249-64gb-204-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+Standard+Combo+128GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "95d49c3d18fc716c",
@@ -34127,7 +34079,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "831894177b06a361",
@@ -34152,7 +34105,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "c260a7d58134c98f",
@@ -34177,7 +34131,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "16eaf8de538cf6e5",
@@ -34202,7 +34157,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "6104edd228f64ec4",
@@ -34227,7 +34183,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "7aeeb030cdbea5f6",
@@ -34252,7 +34209,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "efec9c897194bfae",
@@ -34277,7 +34235,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "9b18ba97c10d83e8",
@@ -34296,7 +34255,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at",
+  "link_tried3": true
  },
  {
   "id": "a7b53356a8236536",
@@ -34321,7 +34281,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "8a42b4c269eca5af",
@@ -34346,7 +34307,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "efab93a1a7e6e926",
@@ -34371,7 +34333,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "7eadae4bb125be0e",
@@ -34396,7 +34359,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "327bede70e069e22",
@@ -34421,7 +34385,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "6a312f352542d7b6",
@@ -34446,7 +34411,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "8d5326530eb955fb",
@@ -34471,7 +34437,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "5e308e66b34d1a8d",
@@ -34496,7 +34463,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "67f8969f825d4068",
@@ -34521,7 +34489,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "d3fbc542a9a0868e",
@@ -34546,7 +34515,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "c8da8e07535214ee",
@@ -34565,7 +34535,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/12781312-new-jersey-to-cancun-mx-258-rt-nonstop-airfares-on-vivaaerobus-airlines-limited-travel-april-may-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX",
+  "link_tried3": true
  },
  {
   "id": "2f1f16ed0a8a0f46",
@@ -34590,7 +34561,8 @@
    "BGI"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "3b971db850b45e83",
@@ -34614,7 +34586,8 @@
    "BGI"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "a5fc0dc017a4b00e",
@@ -34633,7 +34606,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13197742-new-york-new-jersey-to-bridgetown-barbados-320-rt-nonstop-airfares-on-jetblue-airways-very-few-dates-in-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20York%20/%20New%20Jersey%20to%20Bridgetown%20Barbados"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20York%20/%20New%20Jersey%20to%20Bridgetown%20Barbados",
+  "link_tried3": true
  },
  {
   "id": "84849ff0b6b2b095",
@@ -34658,7 +34632,8 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "5933a0fecfb01a75",
@@ -34684,7 +34659,8 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "0f79e1d3b34e4494",
@@ -34710,7 +34686,8 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "f70ce9fee1c4364a",
@@ -34729,7 +34706,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13154440-san-francisco-to-curacao-424-rt-on-jetblue-airways-very-few-dates-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20San%20Francisco%20to%20Curacao"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20San%20Francisco%20to%20Curacao",
+  "link_tried3": true
  },
  {
   "id": "2849117f4c877ef7",
@@ -34759,11 +34737,11 @@
   "pct": null,
   "price": 212.0,
   "found_at": "2026-11-05T11:14:59Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Certified-Refurb-Dyson-Airstrait-HS06-Hair-Straightener-for-212-free-shipping/22350757.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Dyson+Airstrait+HS06+Hair+Straightener+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "821438a454cb217b",
@@ -34813,11 +34791,11 @@
   "pct": null,
   "price": 449.0,
   "found_at": "2026-11-05T11:14:59Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Fujifilm-X-Half-Mirrorless-Camera-for-449-free-shipping/22350725.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fujifilm+X+Half+Mirrorless+Camera+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2f1d279fa965eb61",
@@ -34910,7 +34888,7 @@
  {
   "id": "52b39cd91e517717",
   "title": "Round Trip New York - Kauai Hawaii (The Garden Isle) or Vice Versa $435 Airfares on Alaska/Hawaiian Airlines BE (Travel October - March 2027)",
-  "url": "https://slickdeals.net/f/20111397-round-trip-new-york-kauai-hawaii-the-garden-isle-or-vice-versa-435-airfares-on-alaska-hawaiian-airlines-be-travel-october-march-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDhqBRIDTllDcgUSA0hOTBoaEgoyMDI2LTExLTE3agUSA0hOTHIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -34918,19 +34896,70 @@
   "hot": false,
   "pct": null,
   "price": 435.0,
-  "found_at": "2026-11-05T11:18:13Z"
+  "found_at": "2026-11-05T11:18:13Z",
+  "window": "October - March 2027) - 2026-10-06",
+  "depart": "2026-11-08",
+  "return": "2026-11-17",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20111397-round-trip-new-york-kauai-hawaii-the-garden-isle-or-vice-versa-435-airfares-on-alaska-hawaiian-airlines-be-travel-october-march-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "fcode": [
+   "NYC",
+   "HNL"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD"
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "55a00d291f104797",
+  "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec67ef67894d3a8eabc44c24f6f9dc&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
   "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
+  "category": "watches",
+  "source": "Web search: Rolex price drop",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-05T11:18:26Z"
+  "price": 26.6,
+  "found_at": "2026-11-05T11:26:39Z"
+ },
+ {
+  "id": "378e50cfc25d27b5",
+  "title": "Jomashop Christmas in July Deals: Breitling Colt Auto $2035; Tudor Heritage $2467; RW Maestro Auto $469; Omega DeVille Auto $2176; Seiko Flight Chrono $204",
+  "url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "flights",
+  "source": "Web search: Breitling price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2035.0,
+  "found_at": "2026-11-05T11:26:41Z"
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-05T11:26:44Z"
+ },
+ {
+  "id": "9b6c5d40028e6aed",
+  "title": "Tudor-backed hedge fund Xantium plans record $9B spinout: FT",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec67f62b7a412e9cb590984478def5&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4661875-tudor-backed-hedge-fund-xantium-plans-record-9b-spinout-ft&c=9578000527434395329&mkt=en-us",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Tudor price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.0,
+  "found_at": "2026-11-05T11:26:46Z"
  }
 ]
