@@ -2236,7 +2236,8 @@
   "found_at": "2026-11-04T16:36:11Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:12:16Z"
  },
  {
   "id": "d14e248a722d76b9",
@@ -2252,7 +2253,8 @@
   "found_at": "2026-11-04T16:36:11Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:12:18Z"
  },
  {
   "id": "703c4c86bb114dfe",
@@ -2268,7 +2270,8 @@
   "found_at": "2026-11-04T16:36:11Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:12:20Z"
  },
  {
   "id": "23dd3af85364f100",
@@ -2285,7 +2288,8 @@
   "source_url": "https://slickdeals.net/f/16525855-omega-railmaster-automatic-blue-jeans-dial-men-s-watch-220-12-40-20-03-001-2825?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Railmaster+Automatic+Blue+Jeans+Dial+Men%27s+Watch+220.12.40.20.03.001+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:22Z"
  },
  {
   "id": "20e8c73891081d90",
@@ -2302,7 +2306,8 @@
   "source_url": "https://slickdeals.net/e/12247003-omega-planet-ocean-co-axial-blue-dial-mid-size-titanium-watch-3795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Planet+Ocean+Co-Axial+Blue+Dial+Mid-size+Titanium+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:23Z"
  },
  {
   "id": "3594b719e856442a",
@@ -2319,7 +2324,8 @@
   "source_url": "https://slickdeals.net/e/11504223-wipeout-omega-collection-playstation-store-price-drop-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Wipeout+Omega+Collection+PlayStation+Store",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:24Z"
  },
  {
   "id": "c4085ed443bee8fd",
@@ -2335,7 +2341,8 @@
   "found_at": "2026-11-04T16:36:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:12:25Z"
  },
  {
   "id": "ce7dad55e1db6dc5",
@@ -2351,7 +2358,8 @@
   "found_at": "2026-11-04T16:36:13Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:12:27Z"
  },
  {
   "id": "89edb04438e0194a",
@@ -2368,7 +2376,8 @@
   "source_url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Squishmallows+Original+8in+Tudor+The+Maroon+Leatherback+Turtle",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:29Z"
  },
  {
   "id": "b08ad405bffc4ff8",
@@ -2385,7 +2394,8 @@
   "source_url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tudor%27s+Biscuit+World-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:31Z"
  },
  {
   "id": "3475b1d7c207c804",
@@ -2402,7 +2412,8 @@
   "source_url": "https://slickdeals.net/f/19152106-hasbro-gaming-clue-escape-treachery-at-tudor-mansion-3-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hasbro+Gaming+Clue+Escape+Treachery+at+Tudor+Mansion",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:33Z"
  },
  {
   "id": "e1b753a4bed82c5d",
@@ -2419,7 +2430,8 @@
   "source_url": "https://slickdeals.net/f/18839467-lego-icons-tudor-corner-building-kit-10350-189-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Lego+-+Icons+Tudor+Corner+Building+Kit+-+10350+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:35Z"
  },
  {
   "id": "7e501d9d92c7bb41",
@@ -2436,7 +2448,8 @@
   "source_url": "https://slickdeals.net/f/18807088-cluedo-an-escape-and-solve-mystery-board-game-treachery-at-tudor-mansion-ages-10-8-78-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Cluedo+An+Escape+And+Solve+Mystery+Board+Game+Treachery+At+Tudor+Mansion",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:37Z"
  },
  {
   "id": "be41c765760dd236",
@@ -2454,7 +2467,8 @@
   "source_url": "https://slickdeals.net/f/18661039-clue-board-game-treachery-at-tudor-mansion-clue-escape-room-game-murder-mystery-games-cooperative-family-board-game-ages-10-and-up-1-6-players-8-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Clue+Board+Game+Treachery+at+Tudor+Mansion+Clue+Escape+Room+Game+Murder+Mystery+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:39Z"
  },
  {
   "id": "eff292113ae46b3b",
@@ -2471,7 +2485,8 @@
   "source_url": "https://slickdeals.net/f/18487291-tudor-41mm-1926-automatic-silver-dial-men-s-watch-1795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tudor+41mm+1926+Automatic+Silver+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:12:40Z"
  },
  {
   "id": "9e5c693186574078",
@@ -26056,7 +26071,7 @@
  {
   "id": "95d49c3d18fc716c",
   "title": "DJI Mini 5 Pro 1-Inch Large CMOS Camera Nightscape Omnidirectional Obstacle Sensing Lightweight and Portable $692.64",
-  "url": "https://slickdeals.net/f/20134569-dji-mini-5-pro-1-inch-large-cmos-camera-nightscape-omnidirectional-obstacle-sensing-lightweight-and-portable-692-64?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+1-Inch+Large+CMOS+Camera+Nightscape+Omnidirectional+Obstacle+Sens",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26068,7 +26083,8 @@
   "source_url": "https://slickdeals.net/f/20134569-dji-mini-5-pro-1-inch-large-cmos-camera-nightscape-omnidirectional-obstacle-sensing-lightweight-and-portable-692-64?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+1-Inch+Large+CMOS+Camera+Nightscape+Omnidirectional+Obstacle+Sens",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "642d5f05f1b7b411",
@@ -26548,7 +26564,7 @@
  {
   "id": "3e2716fe53df201e",
   "title": "[WTS] CREED PDM XERJOFF MAISON MARGIELA REPLICA AND MORE",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xobbwl/wts_creed_pdm_xerjoff_maison_margiela_replica_and/",
+  "url": "https://www.google.com/search?tbm=shop&q=CREED+PDM+XERJOFF+MAISON+MARGIELA+REPLICA+AND+MORE",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -26560,12 +26576,13 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xobbwl/wts_creed_pdm_xerjoff_maison_margiela_replica_and/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CREED+PDM+XERJOFF+MAISON+MARGIELA+REPLICA+AND+MORE",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "516452cbdc52d4dd",
   "title": "[WTS] Ex Nihilo Brompton Immortals & Demon Dancer – BNIB 100mL (Bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xoapeg/wts_ex_nihilo_brompton_immortals_demon_dancer/",
+  "url": "https://www.google.com/search?tbm=shop&q=Ex+Nihilo+Brompton+Immortals+%26+Demon+Dancer+BNIB+100mL",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -26577,7 +26594,8 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xoapeg/wts_ex_nihilo_brompton_immortals_demon_dancer/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ex+Nihilo+Brompton+Immortals+%26+Demon+Dancer+BNIB+100mL",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "725633d9e3031163",
@@ -26600,7 +26618,7 @@
  {
   "id": "9eebdaee0f7257c5",
   "title": "(NEW) Apple AirPods 5 Wireless Earbuds with ANC $119",
-  "url": "https://slickdeals.net/f/20259027-new-apple-airpods-5-wireless-earbuds-with-anc-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+AirPods+5+Wireless+Earbuds+with+ANC",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Woot Apple",
@@ -26612,7 +26630,8 @@
   "source_url": "https://slickdeals.net/f/20259027-new-apple-airpods-5-wireless-earbuds-with-anc-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+AirPods+5+Wireless+Earbuds+with+ANC",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d5c91d7978247d60",
@@ -27323,7 +27342,7 @@
  {
   "id": "1d0dcb16caa08c05",
   "title": "Apple iPhones and Watches Grade A at Woot!",
-  "url": "https://slickdeals.net/f/20173506-apple-iphones-and-watches-grade-a-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+iPhones+and+Watches+Grade+A",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Apple Refurbished",
@@ -27335,7 +27354,8 @@
   "source_url": "https://slickdeals.net/f/20173506-apple-iphones-and-watches-grade-a-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+iPhones+and+Watches+Grade+A",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae3efc1755b8bd8c",
@@ -27376,7 +27396,7 @@
  {
   "id": "dcbdcb606b74025e",
   "title": "(Refurbished) Apple AirPods Pro 3 with MagSafe Charging Case - Verizon Ebay Store $129",
-  "url": "https://slickdeals.net/f/20147757-refurbished-apple-airpods-pro-3-with-magsafe-charging-case-verizon-ebay-store-129?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Averizon.com+Apple+AirPods+Pro+3+with+MagSafe+Charging+Case+-+Verizon+Ebay+Store",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27388,7 +27408,8 @@
   "source_url": "https://slickdeals.net/f/20147757-refurbished-apple-airpods-pro-3-with-magsafe-charging-case-verizon-ebay-store-129?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Averizon.com+Apple+AirPods+Pro+3+with+MagSafe+Charging+Case+-+Verizon+Ebay+Store",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a61859deea1741ea",
@@ -27477,7 +27498,7 @@
  {
   "id": "7a511673151a0a7e",
   "title": "from $80.99 | Apple 10.2\" iPad 7 (2019) (Grade A Refurbished) at Woot!",
-  "url": "https://slickdeals.net/f/20082801-from-80-99-apple-10-2-ipad-7-2019-grade-a-refurbished-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+from",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27489,12 +27510,13 @@
   "source_url": "https://slickdeals.net/f/20082801-from-80-99-apple-10-2-ipad-7-2019-grade-a-refurbished-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ef583bb7cc0f8db0",
   "title": "Extra 10% off on Apple MacBooks, iPads, and Much More at Woot!",
-  "url": "https://slickdeals.net/f/20081634-extra-10-off-on-apple-macbooks-ipads-and-much-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Apple+MacBooks+iPads+and+Much+More",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27506,12 +27528,13 @@
   "source_url": "https://slickdeals.net/f/20081634-extra-10-off-on-apple-macbooks-ipads-and-much-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+10+off+on+Apple+MacBooks+iPads+and+Much+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8ebbd016fdc427de",
   "title": "Refurbished Excellent - iPhone Air 5G 256GB (Unlocked) $750.00",
-  "url": "https://slickdeals.net/f/20066691-refurbished-excellent-iphone-air-5g-256gb-unlocked-750-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurbished+Excellent+-+iPhone+Air+5G+256GB",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Refurbished",
@@ -27523,12 +27546,13 @@
   "source_url": "https://slickdeals.net/f/20066691-refurbished-excellent-iphone-air-5g-256gb-unlocked-750-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurbished+Excellent+-+iPhone+Air+5G+256GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a12bd10d0e8cb625",
   "title": "Beats Solo 4 - Wireless Bluetooth On-Ear Headphones, (Grade A Refurbished) $79.99",
-  "url": "https://slickdeals.net/f/20042109-beats-solo-4-wireless-bluetooth-on-ear-headphones-grade-a-refurbished-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+-+Wireless+Bluetooth+On-Ear+Headphones",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Apple Refurbished",
@@ -27540,7 +27564,8 @@
   "source_url": "https://slickdeals.net/f/20042109-beats-solo-4-wireless-bluetooth-on-ear-headphones-grade-a-refurbished-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+-+Wireless+Bluetooth+On-Ear+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b9c2b9228c693073",
@@ -34600,11 +34625,11 @@
   "pct": null,
   "price": 24.99,
   "found_at": "2026-11-05T13:00:46Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249685-powera-enhanced-wireless-controller-for-nintendo-switch-switch-2-switch-lite-oled-w-motion-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Enhanced+Wireless+Controller+for+Nintendo+Switch+Switch+2+Switch+Lite+OLE",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0c1e1530985353f5",
@@ -34659,5 +34684,101 @@
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Save",
   "exact": false
+ },
+ {
+  "id": "2292f09f375b80df",
+  "title": "lululemon Women's Fast and Free 28\" 5 Pocket High-Rise Thermal Tights for $49 + free shipping",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Fast+and+Free+28+5+Pocket+High-Rise+Thermal+Tights+for",
+  "why": "Lululemon 67% off",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 67,
+  "price": 49.0,
+  "found_at": "2026-11-05T13:09:34Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/lululemon-Womens-Fast-and-Free-28-5-Pocket-High-Rise-Thermal-Tights-for-49-free-shipping/22350903.html?iref=rss",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+Women%27s+Fast+and+Free+28+5+Pocket+High-Rise+Thermal+Tights+for",
+  "exact": false
+ },
+ {
+  "id": "6df362f63ac27135",
+  "title": "Lululemon’s ‘we made too much section’ got a November refresh—shop cozy layers, polished trousers, and more from $14",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec80d4979647328a5241135c016716&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2flululemon-s-we-made-too-much-section-got-a-november-refresh-shop-cozy-layers-polished-trousers-and-more-from-14%2far-AA2gMPGX&c=4861903579280911913&mkt=en-us",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.0,
+  "found_at": "2026-11-05T13:12:52Z"
+ },
+ {
+  "id": "90aaf7ef7d047890",
+  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-05T13:12:57Z"
+ },
+ {
+  "id": "4f0a1c4bc4a70083",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-05T13:12:57Z"
+ },
+ {
+  "id": "369670327d50bde8",
+  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
+  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.19,
+  "found_at": "2026-11-05T13:12:57Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-05T13:12:58Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-05T13:12:58Z"
  }
 ]
