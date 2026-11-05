@@ -298,7 +298,8 @@
   "source_url": "https://slickdeals.net/f/20254128-49mm-apple-watch-ultra-3-gps-cellular-titanium-watch-w-titanium-milanese-loop-649-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=49mm+Apple+Watch+Ultra+3+GPS%2BCellular+Titanium+Watch+w+Titanium+Milanese+Loop",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:25Z"
  },
  {
   "id": "fb083be8a36a8f1a",
@@ -314,7 +315,8 @@
   "found_at": "2026-11-04T15:46:22Z",
   "source_url": "https://camelcamelcamel.com/product/B0765DYG2V",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Beats+Pill%2B+Speaker+-+Neighborhood+Collection+-+Turf+Green+-+down+8.50"
+  "similar": "https://www.google.com/search?tbm=shop&q=Beats+Pill%2B+Speaker+-+Neighborhood+Collection+-+Turf+Green+-+down+8.50",
+  "checked_at": "2026-11-05T11:06:27Z"
  },
  {
   "id": "1b99bba8366a96d2",
@@ -330,7 +332,8 @@
   "found_at": "2026-11-04T15:55:08Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T11:06:28Z"
  },
  {
   "id": "b7d8d72e9e06eeb8",
@@ -347,7 +350,8 @@
   "source_url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping-at-nexwear-store-via-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+Sports+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:29Z"
  },
  {
   "id": "7f5fcbfe0cd2230f",
@@ -364,7 +368,8 @@
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:30Z"
  },
  {
   "id": "66aea8b2d0e7cf7c",
@@ -382,7 +387,8 @@
   "source_url": "https://slickdeals.net/f/20229048-2-in-1-switch-2-dock-capture-card-1080p-60fps-for-switch-2-oled-usb-c-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=2-in-1+Switch+2+Dock+%26+Capture+Card+1080P+60FPS+for+Switch+2+OLED+%26+USB-C",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:31Z"
  },
  {
   "id": "a1c16f4a29c75dff",
@@ -400,7 +406,8 @@
   "source_url": "https://slickdeals.net/f/20225586-ivanky-14-in-1-docking-station-4k-120hz-for-steam-deck-oled-rog-ally-x-more-39-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=iVANKY+14-in-1+Docking+Station+4k+120Hz+for+Steam+Deck+OLED+ROG+Ally+X+%26+More",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:33Z"
  },
  {
   "id": "bca79685452bcb52",
@@ -421,7 +428,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
+  "checked_at": "2026-11-05T11:06:34Z"
  },
  {
   "id": "f7ea776183029e1d",
@@ -446,7 +454,8 @@
    "TYO"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-05T11:06:35Z"
  },
  {
   "id": "406342508964152d",
@@ -464,7 +473,8 @@
   "source_url": "https://slickdeals.net/f/20253306-save-250-on-select-apple-watch-ultra-3-bestbuy-com?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Save",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:36Z"
  },
  {
   "id": "d6d151f05b0edf13",
@@ -482,7 +492,8 @@
   "source_url": "https://www.dealnews.com/Grand-Theft-Auto-VI-Preorder-Offer-at-Best-Buy-10-in-rewards-for-members-free-shipping/22346650.html?iref=rss",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Grand+Theft+Auto+VI+Preorder+Offer",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:45Z"
  },
  {
   "id": "4c406ed3587eda65",
@@ -500,7 +511,8 @@
   "source_url": "https://slickdeals.net/f/20255169-apple-watch-ultra-3-gps-cellular-49mm-titanium-case-with-black-ocean-band-black-2025-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+Watch+Ultra+3+49mm+Titanium+Case+with+Black+Ocean+Band+-+Black+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:46Z"
  },
  {
   "id": "eda14513125016e0",
@@ -518,7 +530,8 @@
   "source_url": "https://slickdeals.net/f/20255169-apple-watch-ultra-3-gps-cellular-49mm-titanium-case-with-black-ocean-band-black-2025-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+Watch+Ultra+3+49mm+Titanium+Case+with+Black+Ocean+Band+-+Black+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:47Z"
  },
  {
   "id": "6964559054fcf823",
@@ -536,7 +549,8 @@
   "source_url": "https://slickdeals.net/f/20233128-garmin-dash-cam-mini-3-ultracompact-1080p-hd-dash-cam-with-a-140-degree-field-of-view-built-in-clarity-polarizer-voice-controlled-automatic-recording-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Garmin+Dash+Cam+Mini+3+Ultracompact+1080p+HD+Dash+Cam+with+a+140-degree+Field+of",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:49Z"
  },
  {
   "id": "b0605e77cb0ff61a",
@@ -554,7 +568,8 @@
   "source_url": "https://slickdeals.net/f/20224626-nitro-z19-xl-pro-19ft-3in-bass-boat-mercury-200-l-pro-xs-4-stroke-dual-garmin-livescope-echomap-garmin-force-pro-trolling-motor-tandem-trailer-free-shipping-39-379?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Nitro+Z19+XL+Pro+19ft.+3in.+Bass+Boat+Mercury+200+L+Pro+XS+4-Stroke+Dual+Garmin+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T11:06:50Z"
  },
  {
   "id": "1aa28653287ac77c",
@@ -27512,7 +27527,7 @@
  {
   "id": "17ddc3509e84b673",
   "title": "DJI Air 3S Fly More Combo (RC-N3), Used Drone with 1\" CMOS Wide-Angle & Medium Tele Camera $954.28",
-  "url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI deal",
@@ -27524,7 +27539,8 @@
   "source_url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cee741fc605a0b67",
@@ -34382,7 +34398,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "link_tried3": true
  },
  {
   "id": "3148dd0a9c551738",
@@ -34461,11 +34478,11 @@
   "pct": null,
   "price": 139.99,
   "found_at": "2026-11-05T10:55:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19932873-garmin-varia-515-139-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Varia+515",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bc81e30566909109",
@@ -34479,11 +34496,11 @@
   "pct": null,
   "price": 999.99,
   "found_at": "2026-11-05T10:55:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19924290-garmin-fenix-9-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+9",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "91784080c0839be2",
@@ -34708,5 +34725,41 @@
   "store_url": "https://www.amazon.com/gp/product/B0H5RLCXG8/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Gen2+Headphones+with+Active+Noise+Cancellation"
+ },
+ {
+  "id": "1f45b2beaabf1c88",
+  "title": "Certified Refurb Dyson Airstrait HS06 Hair Straightener for $212 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Dyson+Airstrait+HS06+Hair+Straightener+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 212.0,
+  "found_at": "2026-11-05T11:03:59Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Certified-Refurb-Dyson-Airstrait-HS06-Hair-Straightener-for-212-free-shipping/22350757.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Dyson+Airstrait+HS06+Hair+Straightener+for",
+  "exact": false
+ },
+ {
+  "id": "821438a454cb217b",
+  "title": "Refurb Apple AirPods 4 w/ Active Noise Cancellation for $78 + free shipping",
+  "url": "https://www.apple.com/us/search/Refurb%20Apple%20AirPods%204%20w%20Active%20Noise%20Cancellation%20for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 78.0,
+  "found_at": "2026-11-05T11:03:59Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/products/Apple/Apple-Air-Pods-4-w-Active-Noise-Cancellation/481773.html?iref=rss",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Refurb%20Apple%20AirPods%204%20w%20Active%20Noise%20Cancellation%20for",
+  "exact": false
  }
 ]
