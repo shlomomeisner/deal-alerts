@@ -1,43 +1,5 @@
 [
  {
-  "id": "dad109247d95a4c8",
-  "title": "Deals: M5 Pro MacBook Pro $500 off, AirPods Pro 3, AirPods Max 2, AirTag 2, chargers, and more",
-  "url": "https://www.amazon.com/dp/B0HJB69GJL",
-  "why": "Macbook — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/09/deals-m5-pro-macbook-pro-airpods-pro-3-airtag-2/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro",
-  "checked_at": "2026-11-05T02:27:46Z"
- },
- {
-  "id": "9ab2836c917b22d7",
-  "title": "Deals: New M5 Max Mac Studio first discount, MacBook Air $150 off, most affordable Studio Display $100 off, more",
-  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
-  "why": "Macbook — all-time low",
-  "category": "tech",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 150.0,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/08/deals-m5-max-mac-studio-macbook-air-studio-display/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Max+Mac+Studio+first+discount+MacBook+Air",
-  "checked_at": "2026-11-05T02:27:46Z"
- },
- {
   "id": "a35a98209c883385",
   "title": "All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more",
   "url": "https://www.amazon.com/events/labordaysale?language=en_US",
@@ -1107,7 +1069,8 @@
   "source_url": "https://slickdeals.net/f/20099046-sony-77-inch-bravia-6-oled-4k-hdr-smart-google-tv-with-gemini-1-798-at-amazon-with-free-prime-shipping-1798?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Sony+77+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T04:07:00Z"
  },
  {
   "id": "52faff8c8d437646",
@@ -1123,7 +1086,8 @@
   "found_at": "2026-11-04T05:13:51Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T04:07:02Z"
  },
  {
   "id": "b49a46feeaea001e",
@@ -29372,7 +29336,7 @@
  {
   "id": "6e8a1cbf1cc18807",
   "title": "Oakley Men's Sunglasses OO6042-03-52 - $69.99",
-  "url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29384,12 +29348,13 @@
   "source_url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "17041a89b34f68ba",
   "title": "Ray-Ban, Oakley, & Persol Sunglasses, $48 - $222 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29401,12 +29366,13 @@
   "source_url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77405fee632c279f",
   "title": "Oakley & Smith Pivlock Sunglass Collection Starting at $43.99 +FS",
-  "url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29418,12 +29384,13 @@
   "source_url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c9e945c8b937d285",
   "title": "Oakley Sunglasses: Men's Polarized Valve Rectangular Sunglasses $59 or less w/ 2.5% SD Cashback & More + Free S/H w/ Prime",
-  "url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29435,12 +29402,13 @@
   "source_url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d72c78fb2ac550cc",
   "title": "Oakley Sunglasses: Oakley Chainlink Matte Black Sunglasses (Grey Polarized Lens) $45 & More + Free Shipping",
-  "url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29452,12 +29420,13 @@
   "source_url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f41bef8eb9c2fad3",
   "title": "Oakley Sunglasses: Oakley Batwolf Clear Sunglasses (Ice Iridium Lens) $47.40 & More + Free Shipping",
-  "url": "https://slickdeals.net/e/13238356-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-47-40-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29469,12 +29438,13 @@
   "source_url": "https://slickdeals.net/e/13238356-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-47-40-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "803875cf7ec11b32",
   "title": "Oakley Drop Point Sunglasses $59.85",
-  "url": "https://slickdeals.net/e/13199182-oakley-drop-point-sunglasses-59-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Drop+Point+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29486,12 +29456,13 @@
   "source_url": "https://slickdeals.net/e/13199182-oakley-drop-point-sunglasses-59-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Drop+Point+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "79456a51c3ecfabc",
   "title": "Oakley Sunglasses: Oakley Batwolf Clear Sunglasses (Ice Iridium Lens) $48 & More + Free S&H",
-  "url": "https://slickdeals.net/e/13062412-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-48-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -29503,7 +29474,8 @@
   "source_url": "https://slickdeals.net/e/13062412-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-48-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b173023aed32112c",
@@ -29774,7 +29746,7 @@
  {
   "id": "5f0bcb9c9f58aa44",
   "title": "Persol Men's Polarized & Non-Polarized Sunglasses (Various Styles) $75 + Free Shipping",
-  "url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -29786,12 +29758,13 @@
   "source_url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "430cac3d4fc3549b",
   "title": "Persol PO3059S Sunglasses - $80 (or less w/ $10 off for New Users) + $2.75 Shipping",
-  "url": "https://slickdeals.net/e/12992425-persol-po3059s-sunglasses-80-or-less-w-10-off-for-new-users-2-75-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+PO3059S+Sunglasses+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -29803,12 +29776,13 @@
   "source_url": "https://slickdeals.net/e/12992425-persol-po3059s-sunglasses-80-or-less-w-10-off-for-new-users-2-75-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+PO3059S+Sunglasses+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5e1cd3136ac8635b",
   "title": "Persol Polarized Aviator Sunglasses - Jomashop $100",
-  "url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -29820,12 +29794,13 @@
   "source_url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b73ec195be552eeb",
   "title": "Prada,Persol premium brand sunglasses@$94.99+fs",
-  "url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -29837,12 +29812,13 @@
   "source_url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "68e4551811157e22",
   "title": "Persol Men's Icona Evolution 53mm Sunglasses $99.97",
-  "url": "https://slickdeals.net/e/11644355-persol-men-s-icona-evolution-53mm-sunglasses-99-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Icona+Evolution+53mm+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -29854,7 +29830,8 @@
   "source_url": "https://slickdeals.net/e/11644355-persol-men-s-icona-evolution-53mm-sunglasses-99-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Icona+Evolution+53mm+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "56589304ce250aee",
@@ -34952,11 +34929,11 @@
   "pct": null,
   "price": 533.13,
   "found_at": "2026-11-05T03:54:58Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249844-insta360-luna-ultra-8k-vlog-camera-dual-leica-lens-1-sensor-533-13-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Insta360+Luna+Ultra+8K+Vlog+Camera+Dual+Leica+Lens+1+Sensor",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d3c2cb2b3951f658",
@@ -34970,11 +34947,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-05T03:54:58Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xo89ve/wts_new_in_box_designer_and_a_couple_dupes/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=in+Box+Designer+and+a+Couple+Dupes+-+Paradigme+le+Parfum+Bad+Boy+Elixir+Coach+Dr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7bc43efc3fd8970b",
@@ -35087,12 +35064,14 @@
   "hot": false,
   "pct": null,
   "price": 72.0,
-  "found_at": "2026-11-05T03:58:21Z"
+  "found_at": "2026-11-05T03:58:21Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebfedd76ff4dd2ae7a3bb1ec32d39d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwe-found-classic-ugg-styles-and-ones-you-won-t-see-everyone-wearing-for-fall-shop-pairs-now-from-72%2far-AA2gI9ie&c=6918530792822542007&mkt=en-us",
+  "exact": false
  },
  {
   "id": "34d739af63dee62d",
   "title": "adidas men VL Court 3.0 Shoes (Grey Three / Cloud White / Cloud White) $22",
-  "url": "https://slickdeals.net/f/20246988-adidas-men-vl-court-3-0-shoes-grey-three-cloud-white-cloud-white-22?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=adidas+men+VL+Court+3.0+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud sale",
@@ -35100,12 +35079,17 @@
   "hot": false,
   "pct": null,
   "price": 22.0,
-  "found_at": "2026-11-05T03:58:28Z"
+  "found_at": "2026-11-05T03:58:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20246988-adidas-men-vl-court-3-0-shoes-grey-three-cloud-white-cloud-white-22?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=adidas+men+VL+Court+3.0+Shoes",
+  "exact": false
  },
  {
   "id": "de43318799f1c3f5",
   "title": "adidas Men's or Women's Adistar XLG 2.0 Shoes (Cloud White / Core Black / Solar Orange) $51 + Free Shipping",
-  "url": "https://slickdeals.net/f/20245674-adidas-men-s-or-women-s-adistar-xlg-2-0-shoes-cloud-white-core-black-solar-orange-51-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.adidas.com/us/search?q=adidas+Men%27s+or+Women%27s+Adistar+XLG+2.0+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud sale",
@@ -35113,12 +35097,17 @@
   "hot": false,
   "pct": null,
   "price": 51.0,
-  "found_at": "2026-11-05T03:58:28Z"
+  "found_at": "2026-11-05T03:58:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245674-adidas-men-s-or-women-s-adistar-xlg-2-0-shoes-cloud-white-core-black-solar-orange-51-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Adidas",
+  "similar": "https://www.adidas.com/us/search?q=adidas+Men%27s+or+Women%27s+Adistar+XLG+2.0+Shoes",
+  "exact": false
  },
  {
   "id": "3bf862e89c0a7746",
   "title": "adidas Women's Cloudfoam Flex Slounge Shoes (Light Solid Grey / Cloud White / Halo Blue) $28.05 + Free Shipping",
-  "url": "https://slickdeals.net/f/20245089-adidas-women-s-cloudfoam-flex-slounge-shoes-light-solid-grey-cloud-white-halo-blue-28-05-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.adidas.com/us/search?q=adidas+Women%27s+Cloudfoam+Flex+Slounge+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud sale",
@@ -35126,12 +35115,17 @@
   "hot": false,
   "pct": null,
   "price": 28.05,
-  "found_at": "2026-11-05T03:58:28Z"
+  "found_at": "2026-11-05T03:58:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20245089-adidas-women-s-cloudfoam-flex-slounge-shoes-light-solid-grey-cloud-white-halo-blue-28-05-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Adidas",
+  "similar": "https://www.adidas.com/us/search?q=adidas+Women%27s+Cloudfoam+Flex+Slounge+Shoes",
+  "exact": false
  },
  {
   "id": "9869756e1072e401",
   "title": "Nf - clouds (the mixtape)[lp] $16.10",
-  "url": "https://slickdeals.net/f/20244837-nf-clouds-the-mixtape-lp-16-10?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Nf+-+clouds",
   "why": "",
   "category": "amazon",
   "source": "Web search: On Cloud sale",
@@ -35139,12 +35133,17 @@
   "hot": false,
   "pct": null,
   "price": 16.1,
-  "found_at": "2026-11-05T03:58:28Z"
+  "found_at": "2026-11-05T03:58:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244837-nf-clouds-the-mixtape-lp-16-10?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Nf+-+clouds",
+  "exact": false
  },
  {
   "id": "332bdbeb798e78cd",
   "title": "adidas Women's Supernova Rise 3 Adaptive Running Shoes (Core Black / Cloud White / Carbon) $56 + Free Shipping",
-  "url": "https://slickdeals.net/f/20244798-adidas-women-s-supernova-rise-3-adaptive-running-shoes-core-black-cloud-white-carbon-56-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.adidas.com/us/search?q=adidas+Women%27s+Supernova+Rise+3+Adaptive+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud sale",
@@ -35152,6 +35151,45 @@
   "hot": false,
   "pct": null,
   "price": 56.0,
-  "found_at": "2026-11-05T03:58:28Z"
+  "found_at": "2026-11-05T03:58:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244798-adidas-women-s-supernova-rise-3-adaptive-running-shoes-core-black-cloud-white-carbon-56-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Adidas",
+  "similar": "https://www.adidas.com/us/search?q=adidas+Women%27s+Supernova+Rise+3+Adaptive+Running+Shoes",
+  "exact": false
+ },
+ {
+  "id": "fd2560c8a431db16",
+  "title": "$337.50* | Citizen Men's 42.6mm Sport Luxury Eco-Drive Chronograph Watch at Amazon",
+  "url": "https://slickdeals.net/f/20258442-337-50-citizen-men-s-42-6mm-sport-luxury-eco-drive-chronograph-watch-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Citizen Eco-Drive",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 337.5,
+  "found_at": "2026-11-05T04:03:42Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "4d31c473bc578bb5",
+  "title": "Open Boxes: Apple MacBook Pro: 16\", M5 Max (18C/40C), 48GB RAM, 2TB SSD $3791.99 at Best Buy",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Boxes+Apple+MacBook+Pro+16+M5+Max+48GB+RAM+2TB+SSD",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Best Buy Apple",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3791.99,
+  "found_at": "2026-11-05T04:03:42Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20257761-open-boxes-apple-macbook-pro-16-m5-max-18c-40c-48gb-ram-2tb-ssd-3791-99-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Boxes+Apple+MacBook+Pro+16+M5+Max+48GB+RAM+2TB+SSD",
+  "exact": false
  }
 ]
