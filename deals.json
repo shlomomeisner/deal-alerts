@@ -69,7 +69,8 @@
   "source_url": "https://slickdeals.net/f/20142276-liz-claiborne-women-s-perfume-eau-de-parfum-spray-mambo-3-4-fl-oz-14-43?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Liz+Claiborne+Women%27s+Perfume+Eau+De+Parfum+Spray+Mambo+3.4+Fl+Oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T07:33:07Z"
  },
  {
   "id": "3ab07871c0309194",
@@ -85,7 +86,8 @@
   "found_at": "2026-11-04T09:20:59Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T07:33:08Z"
  },
  {
   "id": "556ea5e572c12547",
@@ -101,7 +103,8 @@
   "found_at": "2026-11-04T09:20:59Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T07:33:10Z"
  },
  {
   "id": "437f64a7f1ec392a",
@@ -117,7 +120,8 @@
   "found_at": "2026-11-04T09:20:59Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T07:33:12Z"
  },
  {
   "id": "a1ffdb3342bd3318",
@@ -135,7 +139,8 @@
   "source_url": "https://slickdeals.net/f/20229765-macbook-pro-laptop-14-inch-apple-m6-chip-built-for-apple-intelligence-12-core-cpu-12-core-gpu-16gb-memory-1tb-ssd-storage-1-year-applecare-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/MacBook%20Pro%20Laptop%20-%20Apple%20M6%20chip%20Built%20for%20Apple%20Intelligence%2012-core%20CPU%2012-c",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T07:33:13Z"
  },
  {
   "id": "77fcec5c7f666981",
@@ -153,7 +158,8 @@
   "source_url": "https://slickdeals.net/f/20229570-apple-macbook-pro-14-inch-laptop-m6-chip-with-12-core-cpu-and-12-core-gpu-free-100-e-gift-card-from-1999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+14-inch+Laptop+-+M6+chip+with+12-core+CPU+and+12-core+GPU+%2BF",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T07:33:15Z"
  },
  {
   "id": "f3dcc982728b6091",
@@ -171,7 +177,8 @@
   "source_url": "https://slickdeals.net/f/20229555-apple-macbook-pro-16-inch-laptop-with-proled-xdr-touch-display-m5-pro-chip-free-100-e-gift-card-from-3999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+16-inch+Laptop+with+PROLED+XDR+Touch+Display+-+M5+Pro+chip+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T07:33:16Z"
  },
  {
   "id": "8099c15b955d88fc",
@@ -189,7 +196,8 @@
   "source_url": "https://slickdeals.net/f/20229528-apple-macbook-pro-14-inch-laptop-with-proled-xdr-touch-display-m5-pro-chip-free-100-e-gift-card-from-2899?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+14-inch+Laptop+with+PROLED+XDR+Touch+Display+-+M5+Pro+chip+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T07:33:18Z"
  },
  {
   "id": "af696f345ae60d4d",
@@ -207,7 +215,8 @@
   "source_url": "https://slickdeals.net/f/20229048-2-in-1-switch-2-dock-capture-card-1080p-60fps-for-switch-2-oled-usb-c-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=2-in-1+Switch+2+Dock+%26+Capture+Card+1080P+60FPS+for+Switch+2+OLED+%26+USB-C",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T07:33:19Z"
  },
  {
   "id": "7697d74b329b3f3b",
@@ -27660,7 +27669,7 @@
  {
   "id": "b18c76a129319cf5",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27672,12 +27681,13 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e9cddb35fee50f2e",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27689,7 +27699,8 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d3f892c1f45ce7d3",
@@ -27760,7 +27771,7 @@
  {
   "id": "b5e88b50288dc778",
   "title": "Bose QuietComfort Ultra Headphones (2nd Gen) - Refurbished $279 Various Colors",
-  "url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27772,12 +27783,13 @@
   "source_url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "93ed17e4cecbb765",
   "title": "Comply Premium Memory Foam Replacement Ear Pads for Bose QuietComfort Ultra Gen 1 & 2 Headphones | $4.99 w/ Free Ship from Woot using Prime",
-  "url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27789,12 +27801,13 @@
   "source_url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "90ced29374ebd560",
   "title": "Save 60% for 2 Days Only Bose QuietComfort Headphones - Refurbished Black $129 Bose.com",
-  "url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27806,12 +27819,13 @@
   "source_url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2059224dc35a99df",
   "title": "Certified Refurb: Bose QuietComfort Noise Cancelling Headphones $123 + Free S&H",
-  "url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -27823,7 +27837,8 @@
   "source_url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "45a074aeaa06aeff",
@@ -27897,7 +27912,7 @@
  {
   "id": "3908e69d0e04b836",
   "title": "Fragrances",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xo605j/fragrances/",
+  "url": "https://www.google.com/search?tbm=shop&q=Fragrances",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -27909,7 +27924,8 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xo605j/fragrances/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fragrances",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae28c37725449d17",
@@ -28012,7 +28028,7 @@
  {
   "id": "6d64b44e962e8823",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -28024,12 +28040,13 @@
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f89456044edaffb1",
   "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
-  "url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -28041,12 +28058,13 @@
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f87f64256bfc7a01",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $74.93",
-  "url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -28058,12 +28076,13 @@
   "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "78ad0eb583f44be6",
   "title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
-  "url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -28075,7 +28094,8 @@
   "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3e0146970f45744a",
@@ -28096,7 +28116,7 @@
  {
   "id": "f9622b11b360a6b0",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -28108,7 +28128,8 @@
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5997ad6df2ceff4a",
@@ -28177,7 +28198,7 @@
  {
   "id": "d23e0eaf9ef03b93",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
-  "url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -28189,7 +28210,8 @@
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1d3f48835aed3d91",
@@ -28212,7 +28234,7 @@
  {
   "id": "bb7a47bdb03cf13e",
   "title": "XBOX Series X: Gaming Console All Digital: 1TB Storage, Wi-Fi 5, USB-C, Includes XBOX Wireless Controller - Robot WhiteXbox Series X Digital $599.99",
-  "url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -28224,12 +28246,13 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dafa4177b0196ad0",
   "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
-  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -28241,7 +28264,8 @@
   "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dc69877372ee70c5",
@@ -28280,7 +28304,7 @@
  {
   "id": "5643b3a09762b433",
   "title": "Marvel Wolverine Game + Wolverine Limited Edition PS5 DualSense Controller for $142.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
   "why": "",
   "category": "tech",
   "source": "Web search: DualSense deal",
@@ -28292,7 +28316,8 @@
   "source_url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8b935d5d8c00b91c",
@@ -28364,7 +28389,7 @@
  {
   "id": "92a27d64a445323a",
   "title": "LG Partners Store 55\" Class LG OLED evo AI C6 4K Smart TV 2026 $809.99 (plus tax)",
-  "url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
   "why": "",
   "category": "tech",
   "source": "Web search: LG OLED deal",
@@ -28376,7 +28401,8 @@
   "source_url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "062ef7128435712d",
@@ -28399,7 +28425,7 @@
  {
   "id": "7fe6c13207a7ab33",
   "title": "Versace Man Eau Fraiche/Versace EDT Spray (Blue) Unboxed 3.3 Oz (M) Blue Bottle $47.99",
-  "url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Versace",
@@ -28411,12 +28437,13 @@
   "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a24545019628ba19",
   "title": "Fragrance Sale (Unboxed & Testers, Gift Sets): 1.7-Oz Chloe Love Story EDP $53 & More + Free S&H w/ Prime",
-  "url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fragrance+1.7-Oz+Chloe+Love+Story+EDP",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -28428,7 +28455,8 @@
   "source_url": "https://slickdeals.net/f/19865529-fragrance-sale-unboxed-testers-gift-sets-1-7-oz-chloe-love-story-edp-53-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fragrance+1.7-Oz+Chloe+Love+Story+EDP",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a72f547068c63d80",
@@ -28483,7 +28511,7 @@
  {
   "id": "887cc93dd86828a5",
   "title": "Seiko Men's Japanese-Automatic Watch (Model: SARB035) $340",
-  "url": "https://slickdeals.net/e/14011691-seiko-men-s-japanese-automatic-watch-model-sarb035-340?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Japanese-Automatic+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -28495,7 +28523,8 @@
   "source_url": "https://slickdeals.net/e/14011691-seiko-men-s-japanese-automatic-watch-model-sarb035-340?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Japanese-Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6e975af6e20951ff",
@@ -28518,7 +28547,7 @@
  {
   "id": "d7e15c988a6eb821",
   "title": "Men's Automatic Presage Black Leather Strap watch 40.5mm - $270.93 + Free Shipping | (36% off)",
-  "url": "https://slickdeals.net/e/13479637-men-s-automatic-presage-black-leather-strap-watch-40-5mm-270-93-free-shipping-36-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+Automatic+Presage+Black+Leather+Strap+watch+40.5mm+-",
   "why": "Seiko 36% off",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -28530,12 +28559,13 @@
   "source_url": "https://slickdeals.net/e/13479637-men-s-automatic-presage-black-leather-strap-watch-40-5mm-270-93-free-shipping-36-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+Automatic+Presage+Black+Leather+Strap+watch+40.5mm+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f49527c6c652b2c3",
   "title": "Seiko Automatic JDM - SARB035 (white) and SARB033 (black) - $318.75",
-  "url": "https://slickdeals.net/e/12395923-seiko-automatic-jdm-sarb035-white-and-sarb033-black-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Automatic+JDM+-+SARB035+and+SARB033+-",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -28547,12 +28577,13 @@
   "source_url": "https://slickdeals.net/e/12395923-seiko-automatic-jdm-sarb035-white-and-sarb033-black-318-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+Automatic+JDM+-+SARB035+and+SARB033+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "250fdde30a602a5b",
   "title": "Seiko Men's Le Grand Solar Chronograph Watch w/ Leather Strap $149.95 + Free Shipping",
-  "url": "https://slickdeals.net/e/12172666-seiko-men-s-le-grand-solar-chronograph-watch-w-leather-strap-149-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Le+Grand+Solar+Chronograph+Watch+w+Leather+Strap",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -28564,12 +28595,13 @@
   "source_url": "https://slickdeals.net/e/12172666-seiko-men-s-le-grand-solar-chronograph-watch-w-leather-strap-149-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Le+Grand+Solar+Chronograph+Watch+w+Leather+Strap",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "394879e905c63d5a",
   "title": "Seiko 5 SNKK27 for $57 free shipping with Prime (Prime day deal)",
-  "url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -28581,7 +28613,8 @@
   "source_url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8a52fd4a2a197c49",
@@ -28652,7 +28685,7 @@
  {
   "id": "a0a2249bc0dbd49e",
   "title": "This is your rare chance to get a Garmin smartwatch for under $170 - 9to5Google",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -28664,7 +28697,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHZkUVplOTBCU3JBWFRmdTMxbWxtWGloUWxGVGJlenJ6ODlCQ0hrQjFjczJKZmQtZm5BeFB2YXR4ckNCbGdHNEV0ZDVCMDdOTE9LT2o3OXZEQ3U5NmdWZG1PWGlLRmEyaWFtdWVnTDE4NnRRUG1obnE2NXVNMGN6SWpkYXRDcGtqVldjZ18xV2hXVGYxVzJaUVphNHo2bk9OLXc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+is+your+rare+chance+to+get+a+Garmin+smartwatch+for+under",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "05abfa795ca8aba2",
@@ -28793,7 +28827,7 @@
  {
   "id": "639e78273381d54e",
   "title": "Non-stop from New York to the Bahamas for only $290 roundtrip - Secret Flying",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tZDVBZGpPQlp6SU0xTHpFdGlxcXVOeE0tbWc3b1daRHVBbGsxdUZDYmxCT2NxNVh3WXNMMDRTWDVPMFNEdmRCM2FfalBySTFwTHVybVV5NGhOYnB0NmhOUjdrRnZ3VFltSnkxM2tMOW80bEJPbHRURw?oc=5",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA05BUxoaEgoyMDI2LTEyLTEzagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Google: Secret Flying NYC",
@@ -28813,12 +28847,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "363eb23e1d7d37c1",
   "title": "United: Newark – Santo Domingo, Dominican Republic. $311 (Basic Economy) / $371 (Regular Economy). Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2w2VFZSd0dDN3JEY1Q0clNUYUhRV3h0ZU1VSE1FOFNFMjJFVVhzcVJKUHFUdEczekF2NzZFQjBfSU1RRDV5aTlTVENPOU9Yb1d3YU82WjZfc19TYURsWnpfeGM2SnU5bmJvaGRqbzE5QnNzaS1xTDY1aEgtUTB5c2dPZy1iajVwSFFkZ2toZnVwTE1XMHNtVWVDSlVfaEVQUDJ5MzZOT1daaFdFUWdFSW1oRHBiQ1I0QXhKeUxjNlFBMk5uaS1oREZ4NDJOdENqSExzclVvcVFMekRyeFJhM1dTUWVfWVJ5VE5HVQ?oc=5",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDRVdScgUSA1NEURoaEgoyMDI2LTEyLTEzagUSA1NEUXIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -28838,12 +28873,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20SDQ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "f8754e3f8baaa9f0",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI2LTExLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -28863,12 +28899,13 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "8fd63b50b1674359",
   "title": "Round Trip New York to Aruba $351 Nonstop Airfares on JetBlue BE (Travel November - February 2027)",
-  "url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTEtMDlqBRIDTllDcgUSA0FVQRoaEgoyMDI2LTExLTE0agUSA0FVQXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -28888,7 +28925,8 @@
    "AUA"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "fb24c386cf0741e4",
@@ -28945,7 +28983,7 @@
  {
   "id": "8a3087e5ebff5fbb",
   "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ralph Lauren Purple Label",
@@ -28957,7 +28995,8 @@
   "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3d26bd347c6b1444",
@@ -33902,11 +33941,11 @@
   "pct": 10,
   "price": 809.99,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "be74fbdaa9318aff",
@@ -33972,11 +34011,11 @@
   "pct": null,
   "price": 2387.0,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6ba69ddb70d46a46",
@@ -34228,11 +34267,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20216406-lg-77-class-c6h-oled-evo-ai-4k-smart-webos-tv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+-+77+Class+C6H+OLED+evo+AI+4K+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "28d396b1a500fcb9",
@@ -34300,11 +34339,11 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20248923-bose-x-kendra-scott-ultra-open-earbuds-3-colors-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+x+Kendra+Scott+Ultra+Open+Earbuds",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "07e1caea0ccbca76",
@@ -34336,11 +34375,11 @@
   "pct": null,
   "price": 40.61,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "93e6990d6954de5f",
@@ -34372,11 +34411,11 @@
   "pct": 10,
   "price": 809.0,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+lifestyle+ultra+soundbar",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8e38002f772deb56",
@@ -34460,11 +34499,11 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "41513b3ef3ed3d18",
@@ -34478,11 +34517,11 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-11-05T07:21:10Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8aa733bd6641b404",
@@ -34691,7 +34730,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Sapporo%2C%20Japan&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "0e5a58cb178881c3",
@@ -34716,7 +34756,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "b3564e2e97a9fbc5",
@@ -34741,6 +34782,209 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20PLS&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
+ },
+ {
+  "id": "9d44a8c6969a7ae6",
+  "title": "[SnS, AC] $61.95 | 2.5-Oz Hugo Boss Hugo Man Eau de Toilette at Amazon",
+  "url": "https://slickdeals.net/f/20251452-sns-ac-61-95-2-5-oz-hugo-boss-hugo-man-eau-de-toilette-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 61.95,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "8d1860d7ccf74e4d",
+  "title": "$88.51* | 3-Oz Gucci Unisex Intense Oud Eau de Parfum Perfume/Cologne at Amazon",
+  "url": "https://slickdeals.net/f/20240796-88-51-3-oz-gucci-unisex-intense-oud-eau-de-parfum-perfume-cologne-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 88.51,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "80f314b67c7213db",
+  "title": "[SnS] $41.18 | English Laundry Crown Cologne Eau de Parfum Spray, 3.4 Fl Oz at Amazon",
+  "url": "https://slickdeals.net/f/20239275-sns-41-18-english-laundry-crown-cologne-eau-de-parfum-spray-3-4-fl-oz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 41.18,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "eac505d58ad051d1",
+  "title": "adidas Victory League Giftset including Eau de Toilette (1.6fl oz.) and Shower Gel (8.4fl oz.), For Him $9.99",
+  "url": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.99,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20228817-adidas-victory-league-giftset-including-eau-de-toilette-1-6fl-oz-and-shower-gel-8-4fl-oz-for-him-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=adidas+Victory+League+Giftset+including+Eau+de+Toilette+and+Shower+Gel+For+Him",
+  "exact": false
+ },
+ {
+  "id": "724a88ee28fcd065",
+  "title": "8.4-Oz Versace Eros Men's Shower Gel $27.38 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 27.38,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
+  "exact": false
+ },
+ {
+  "id": "8030c850b93854cd",
+  "title": "$72.99* | 6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray at Amazon",
+  "url": "https://slickdeals.net/f/20216013-72-99-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 72.99,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "e849de1032aefea9",
+  "title": "Fragrances from D&G, Creed and More! at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20214447-fragrances-from-d-g-creed-and-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Fragrances+from+D%26G+Creed+and+More",
+  "exact": false
+ },
+ {
+  "id": "55c09e7ec0e72076",
+  "title": "[SnS] $40.28 | 3.3-Oz MONTBLANC Legend Eau de Toilette - Men's Fragrance at Amazon",
+  "url": "https://slickdeals.net/f/20205600-sns-40-28-3-3-oz-montblanc-legend-eau-de-toilette-men-s-fragrance-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 40.28,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "0490cfcf8a93da1b",
+  "title": "Coach Floral Eau de Parfum 3 oz $51.26 (Reg. $112)",
+  "url": "https://www.walmart.com/search?q=Coach+Floral+Eau+de+Parfum+3+oz",
+  "why": "Eau De Parfum 54% off",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": true,
+  "pct": 54,
+  "price": 51.26,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20252034-coach-floral-eau-de-parfum-3-oz-51-26-reg-112?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=Coach+Floral+Eau+de+Parfum+3+oz",
+  "exact": false
+ },
+ {
+  "id": "c5c9976475038237",
+  "title": "Viktor & Rolf Flowerbomb Eau de Parfum, 3.4 fl oz $79.99 Free Shipping Costco.com",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Viktor+%26+Rolf+Flowerbomb+Eau+de+Parfum+3.4+fl+oz",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 79.99,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20244861-viktor-rolf-flowerbomb-eau-de-parfum-3-4-fl-oz-79-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Viktor+%26+Rolf+Flowerbomb+Eau+de+Parfum+3.4+fl+oz",
+  "exact": false
+ },
+ {
+  "id": "f79d55be1849bd4d",
+  "title": "[SnS] $41.18 | English Laundry Crown Cologne Eau de Parfum Spray, 3.4 Fl Oz at Amazon",
+  "url": "https://slickdeals.net/f/20239275-sns-41-18-english-laundry-crown-cologne-eau-de-parfum-spray-3-4-fl-oz-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 41.18,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "57075fab6258e081",
+  "title": "$649 | Apple Watch Ultra 3 [GPS + Cellular 49mm] Running & Multisport Smartwatch w/Rugged Titanium Case w/Natural Titanium Milanese Loop - M at Amazon",
+  "url": "https://slickdeals.net/f/20253705-649-apple-watch-ultra-3-gps-cellular-49mm-running-multisport-smartwatch-w-rugged-titanium-case-w-natural-titanium-milanese-loop-m-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 649.0,
+  "found_at": "2026-11-05T07:29:58Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  }
 ]
