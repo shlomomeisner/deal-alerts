@@ -3230,7 +3230,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:41Z"
  },
  {
   "id": "175c898d2f368cb8",
@@ -3246,7 +3247,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:43Z"
  },
  {
   "id": "977d0940fe638649",
@@ -3264,7 +3266,8 @@
   "source_url": "https://slickdeals.net/f/20049954-guilty-intense-by-gucci-for-women-3-oz-edp-spray-93-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Guilty+Intense+by+Gucci+for+Women+-+3+oz+EDP+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:57:45Z"
  },
  {
   "id": "267c46fa204f321a",
@@ -3280,7 +3283,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:47Z"
  },
  {
   "id": "9bf7e3a5f06b4218",
@@ -3296,7 +3300,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:49Z"
  },
  {
   "id": "184f5627df8fb08a",
@@ -3314,7 +3319,8 @@
   "source_url": "https://slickdeals.net/f/20022672-gucci-guilty-pour-homme-eau-de-parfum-3-0-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Homme+Eau+de+Parfum+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:57:50Z"
  },
  {
   "id": "a7f5c02fc292e780",
@@ -3332,7 +3338,8 @@
   "source_url": "https://slickdeals.net/f/19844367-gucci-flora-gorgeous-gardenia-eau-de-parfum-3-3-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Flora+Gorgeous+Gardenia+Eau+de+Parfum+3.3+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:57:52Z"
  },
  {
   "id": "bc915e5efb0e444f",
@@ -3348,7 +3355,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:54Z"
  },
  {
   "id": "cee19f64830c6073",
@@ -3364,7 +3372,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:56Z"
  },
  {
   "id": "e4297d41c6630b27",
@@ -3380,7 +3389,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:57Z"
  },
  {
   "id": "045b1de91b01cd94",
@@ -3396,7 +3406,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:59Z"
  },
  {
   "id": "ff0035ab4e390d6e",
@@ -3412,7 +3423,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:58:02Z"
  },
  {
   "id": "3325b7fad218f0c0",
@@ -3428,7 +3440,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:58:05Z"
  },
  {
   "id": "7acf3ca97c3af964",
@@ -3445,7 +3458,8 @@
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:58:07Z"
  },
  {
   "id": "03bf1f92abeb8466",
@@ -3461,7 +3475,8 @@
   "found_at": "2026-11-04T16:44:54Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:58:09Z"
  },
  {
   "id": "dd60addd5a82e98e",
@@ -33765,6 +33780,85 @@
   "hot": false,
   "pct": 73,
   "price": null,
-  "found_at": "2026-11-05T13:49:38Z"
+  "found_at": "2026-11-05T13:49:38Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec897266a34d65ba85394fb0150ff1&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fit-s-happening-amazon-just-dropped-its-black-friday-sale-early-ugg-levi-s-and-adidas-are-up-to-73-off%2far-AA2gOCOF&c=13378981587879602106&mkt=en-us",
+  "exact": false
+ },
+ {
+  "id": "104138e9d8c9bb62",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smartphones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T13:54:47Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smartphones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
+ },
+ {
+  "id": "b0f66ef2ea0daf7e",
+  "title": "Refurbished Excellent Samsung Galaxy Z Fold7 - 512GB - Unlocked - with code SAVE20TECH $1019.79",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Refurbished+Excellent+Samsung+Galaxy+Z+Fold7+-+512GB+-+Unlocked+-+with+code+SAVE",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1019.79,
+  "found_at": "2026-11-05T13:54:47Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260323-refurbished-excellent-samsung-galaxy-z-fold7-512gb-unlocked-with-code-save20tech-1019-79?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Refurbished+Excellent+Samsung+Galaxy+Z+Fold7+-+512GB+-+Unlocked+-+with+code+SAVE",
+  "exact": false
+ },
+ {
+  "id": "ace311f3de58918f",
+  "title": "Smartish - Army Green - iPhone...tible with Apple iPhone 13 Pro - down 4.86% ($1.70) to $33.29 from $34.99",
+  "url": "https://www.amazon.com/dp/B0BQ3Y3D9X",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1.7,
+  "found_at": "2026-11-05T13:54:47Z",
+  "source_url": "https://camelcamelcamel.com/product/B0BQ3Y3D9X",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Smartish%20-%20Army%20Green%20-%20iPhone...tible%20with%20Apple%20iPhone%2013%20Pro%20-%20down%204.86"
+ },
+ {
+  "id": "f7ea776183029e1d",
+  "title": "Round Trip New York to Tokyo Japan Very Few $315 or $614 Airfares on Alaska/Hawaiian Airlines (Limited Travel January - February 2027)",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjdqBRIDTllDcgUSA1RZTxoaEgoyMDI3LTAyLTA1agUSA1RZT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "Slickdeals: airfare",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 315.0,
+  "found_at": "2026-11-05T13:54:47Z",
+  "window": "January - February 2027) - 2026-11-01",
+  "depart": "2027-01-27",
+  "return": "2027-02-05",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20239779-round-trip-new-york-to-tokyo-japan-very-few-315-or-614-airfares-on-alaska-hawaiian-airlines-limited-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "fcode": [
+   "NYC",
+   "TYO"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20TYO&hl=en&gl=us&curr=USD"
  }
 ]
