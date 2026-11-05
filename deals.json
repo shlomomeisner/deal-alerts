@@ -3048,7 +3048,8 @@
   "found_at": "2026-11-04T16:44:49Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:49:02Z"
  },
  {
   "id": "fb9bc0097122b0db",
@@ -3064,7 +3065,8 @@
   "found_at": "2026-11-04T16:44:49Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:49:04Z"
  },
  {
   "id": "0c6815f60dc67129",
@@ -3082,7 +3084,8 @@
   "source_url": "https://slickdeals.net/f/19517094-0-33-oz-valentino-donna-born-in-roma-eau-de-parfum-spray-women-s-16-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=0.33-Oz+Valentino+Donna+Born+in+Roma+Eau+de+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:05Z"
  },
  {
   "id": "4cf0b8fca83c5549",
@@ -3100,7 +3103,8 @@
   "source_url": "https://slickdeals.net/f/19492551-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-21-83-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:08Z"
  },
  {
   "id": "772a9684a89b7c2e",
@@ -3117,7 +3121,8 @@
   "source_url": "https://slickdeals.net/f/19459398-valentino-uomo-born-in-roma-yellow-dream-for-men-3-4-oz-edt-spray-70-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Uomo+Born+In+Roma+Yellow+Dream+for+Men+-+3.4+oz+EDT+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:10Z"
  },
  {
   "id": "21887c22df721275",
@@ -3134,7 +3139,8 @@
   "source_url": "https://slickdeals.net/f/19445865-valentino-voce-viva-eau-de-parfum-spray-for-women-0-33-ounce-10-ml-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Valentino+Voce+Viva+Eau+de+Parfum+Spray+for+Women+0.33+Ounce+10+ml",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:13Z"
  },
  {
   "id": "ee759b3d50ca1569",
@@ -3152,7 +3158,8 @@
   "source_url": "https://slickdeals.net/f/19224994-valentino-uomo-eau-de-toilette-3-4-fl-oz-73-99-at-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Valentino+Uomo+Eau+de+Toilette+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:14Z"
  },
  {
   "id": "13107a90e69b86c8",
@@ -3169,7 +3176,8 @@
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:16Z"
  },
  {
   "id": "0bd89fddb121fe6b",
@@ -3186,7 +3194,8 @@
   "source_url": "https://slickdeals.net/f/18856528-3-4oz-valentino-uomo-born-in-roma-intense-edp-109-95-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+3.4oz+Valentino+Uomo+Born+In+Roma+Intense+EDP",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:18Z"
  },
  {
   "id": "5297d01d77837196",
@@ -3204,7 +3213,8 @@
   "source_url": "https://slickdeals.net/f/20243808-gucci-guilty-pour-femme-eau-de-toilette-3-0-fl-oz-54-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Femme+Eau+de+Toilette+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:49:20Z"
  },
  {
   "id": "579e6bf49e7c480f",
@@ -3220,7 +3230,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:41Z"
  },
  {
   "id": "175c898d2f368cb8",
@@ -3236,7 +3247,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:43Z"
  },
  {
   "id": "977d0940fe638649",
@@ -3254,7 +3266,8 @@
   "source_url": "https://slickdeals.net/f/20049954-guilty-intense-by-gucci-for-women-3-oz-edp-spray-93-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Guilty+Intense+by+Gucci+for+Women+-+3+oz+EDP+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:57:45Z"
  },
  {
   "id": "267c46fa204f321a",
@@ -3270,7 +3283,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:47Z"
  },
  {
   "id": "9bf7e3a5f06b4218",
@@ -3286,7 +3300,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:49Z"
  },
  {
   "id": "184f5627df8fb08a",
@@ -3304,7 +3319,8 @@
   "source_url": "https://slickdeals.net/f/20022672-gucci-guilty-pour-homme-eau-de-parfum-3-0-fl-oz-69-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Guilty+Pour+Homme+Eau+de+Parfum+3.0+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:57:50Z"
  },
  {
   "id": "a7f5c02fc292e780",
@@ -3322,7 +3338,8 @@
   "source_url": "https://slickdeals.net/f/19844367-gucci-flora-gorgeous-gardenia-eau-de-parfum-3-3-fl-oz-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Gucci+Flora+Gorgeous+Gardenia+Eau+de+Parfum+3.3+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:57:52Z"
  },
  {
   "id": "bc915e5efb0e444f",
@@ -3338,7 +3355,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:54Z"
  },
  {
   "id": "cee19f64830c6073",
@@ -3354,7 +3372,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:56Z"
  },
  {
   "id": "e4297d41c6630b27",
@@ -3370,7 +3389,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:57Z"
  },
  {
   "id": "045b1de91b01cd94",
@@ -3386,7 +3406,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:57:59Z"
  },
  {
   "id": "ff0035ab4e390d6e",
@@ -3402,7 +3423,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:58:02Z"
  },
  {
   "id": "3325b7fad218f0c0",
@@ -3418,7 +3440,8 @@
   "found_at": "2026-11-04T16:44:52Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:58:05Z"
  },
  {
   "id": "7acf3ca97c3af964",
@@ -3435,7 +3458,8 @@
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T13:58:07Z"
  },
  {
   "id": "03bf1f92abeb8466",
@@ -3451,7 +3475,8 @@
   "found_at": "2026-11-04T16:44:54Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T13:58:09Z"
  },
  {
   "id": "dd60addd5a82e98e",
@@ -3469,7 +3494,8 @@
   "source_url": "https://slickdeals.net/f/19890237-1-6-ounce-prada-paradigme-eau-de-parfum-rechargeable-spray-81-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=1.6-Ounce+Prada+Paradigme+Eau+de+Parfum+Rechargeable+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:24Z"
  },
  {
   "id": "b3219facb07183c0",
@@ -3487,7 +3513,8 @@
   "source_url": "https://slickdeals.net/f/19854645-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-87-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:26Z"
  },
  {
   "id": "77f6ae946c609621",
@@ -3505,7 +3532,8 @@
   "source_url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsclub",
   "similar": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:27Z"
  },
  {
   "id": "a697edc37637e6af",
@@ -3522,7 +3550,8 @@
   "source_url": "https://slickdeals.net/f/19706106-prada-paradigme-eau-de-parfum-refillable-spray-1-6-ounce-86-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Paradigme+Eau+de+Parfum+Refillable+Spray+1.6-Ounce",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:30Z"
  },
  {
   "id": "4b174c791c7a0e43",
@@ -3540,7 +3569,8 @@
   "source_url": "https://slickdeals.net/f/20094486-yves-saint-laurent-y-l-elixir-concentr-2-oz-parfum-spray-for-men-100-68-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Yves+Saint+Laurent+Y+L%27Elixir+Concentr+2-Oz+Parfum+Spray+for+Men",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:32Z"
  },
  {
   "id": "8bf144d8b5b11e19",
@@ -3557,7 +3587,8 @@
   "source_url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+3.3oz+%2B+0.34oz.+Yves+Saint+Laurent+Y+EDP+Fragrance+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:34Z"
  },
  {
   "id": "0dfee97fb73a6d14",
@@ -3575,7 +3606,8 @@
   "source_url": "https://slickdeals.net/f/19939128-yves-saint-laurent-libre-l-eau-nue-alcohol-free-perfume-with-green-mandarin-bergamot-1-7-oz-50-ml-parfum-spray-77-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Sephora",
   "similar": "https://www.sephora.com/search?keyword=Yves+Saint+Laurent+Libre+L%27eau+Nue+Alcohol-free+perfume+with+Green+Mandarin+%26+Be",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:35Z"
  },
  {
   "id": "266a8a1e72063bba",
@@ -3592,7 +3624,8 @@
   "source_url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:38Z"
  },
  {
   "id": "328618f6dd15452b",
@@ -3608,7 +3641,8 @@
   "found_at": "2026-11-04T16:44:57Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T14:06:40Z"
  },
  {
   "id": "71fe1ef8a749cd9c",
@@ -3625,7 +3659,8 @@
   "source_url": "https://slickdeals.net/f/19749792-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-68-98-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:42Z"
  },
  {
   "id": "fdc30b86b4c0fad7",
@@ -3642,7 +3677,8 @@
   "source_url": "https://slickdeals.net/f/19389798-yves-saint-laurent-y-eau-de-parfum-14-30-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Y+Eau+de+Parfum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:46Z"
  },
  {
   "id": "bc89fc6e45c331e3",
@@ -3658,7 +3694,8 @@
   "found_at": "2026-11-04T16:44:57Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T14:06:48Z"
  },
  {
   "id": "85af1dabb548d21a",
@@ -3675,7 +3712,8 @@
   "source_url": "https://slickdeals.net/f/19290402-yves-saint-laurent-black-opium-eau-de-parfum-glitter-with-marshmallow-coffee-3-oz-90-ml-eau-de-parfum-spray-86?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium+Eau+de+Parfum+Glitter+with+Marshmallow+%26+Coffee+3",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:50Z"
  },
  {
   "id": "323c4486b408229a",
@@ -3692,7 +3730,8 @@
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:51Z"
  },
  {
   "id": "d63b489062df5a0b",
@@ -3710,7 +3749,8 @@
   "source_url": "https://slickdeals.net/f/19171453-y-lelixir-concentre-by-yves-saint-laurent-for-men-2-oz-parfum-spray-valentine-s-day-gift-107-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Y+LElixir+Concentre+by+Yves+Saint+Laurent+for+Men+-+2+oz+Parfum+Spray+Valentine%27",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:06:53Z"
  },
  {
   "id": "bd7619de400293d9",
@@ -3728,7 +3768,8 @@
   "source_url": "https://slickdeals.net/f/20250096-apple-watch-ultra-4-gps-cellular-49mm-smartwatch-natural-titanium-case-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%20GPS%20%2B%20Cellular%2049mm%20Smartwatch%20Natural%20Titanium%20Case",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:15:08Z"
  },
  {
   "id": "a0928d4f9c37ac54",
@@ -3744,7 +3785,8 @@
   "found_at": "2026-11-04T16:50:17Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T14:15:10Z"
  },
  {
   "id": "6e716ca1d95ed840",
@@ -3761,7 +3803,8 @@
   "source_url": "https://slickdeals.net/f/20249544-ymmv-pixel-watch-5-41mm-or-45mm-lte-free-after-bill-credits-on-google-fi-existing-customers?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Pixel+Watch+5+41mm+or+45mm+LTE+Free+After+Bill+Credits+on+Google+Fi",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:15:12Z"
  },
  {
   "id": "6d5b12d47797c849",
@@ -3779,7 +3822,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bottega+Veneta+Men%27s+Mix+Of+Stripes+Shirt",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:13Z"
  },
  {
   "id": "82415a9d3c31c545",
@@ -3797,7 +3841,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+BOTTEGA+VENETA+intrecciato+Weave+3.5+CM+Belt+-",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:15Z"
  },
  {
   "id": "5e42c9c2fe702d20",
@@ -3815,7 +3860,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Luxomo+Bottega+Veneta+Sunglasses+-",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:16Z"
  },
  {
   "id": "a580b8817872728d",
@@ -3831,7 +3877,8 @@
   "found_at": "2026-11-04T16:53:48Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T14:15:18Z"
  },
  {
   "id": "332f13031ae21951",
@@ -3849,7 +3896,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+Oversized+Classic+Rectangle+Sunglasses",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:20Z"
  },
  {
   "id": "3df34b2067a854aa",
@@ -3867,7 +3915,8 @@
   "source_url": "https://slickdeals.net/f/19401279-discounted-ferragamo-salvatore-ferragamo-cat-eye-sunglasses-89-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Nordstrom",
   "similar": "https://www.nordstrom.com/sr?keyword=Discounted+FERRAGAMO+Salvatore+Ferragamo+Cat+Eye+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:15:22Z"
  },
  {
   "id": "525c56d751b846ef",
@@ -3885,7 +3934,8 @@
   "source_url": "https://slickdeals.net/f/19305972-ferragamo-womens-rook-chelsea-boots-377-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Ferragamo+Womens+Rook+Chelsea+Boots",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T14:15:24Z"
  },
  {
   "id": "ed265c06aadfb260",
@@ -3903,7 +3953,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Signorina+Libera+by+Salvatore+Ferragamo+EDP+Perfume+Spray+for+Women",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:26Z"
  },
  {
   "id": "e2452531bb766e98",
@@ -3921,7 +3972,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Salvatore+Ferragamo+Men%27s+F+Free+Time+EDT+Cologne+Spray",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:28Z"
  },
  {
   "id": "40b931aa16f8457d",
@@ -3939,7 +3991,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Free+Time+Eau+De+Toilette+Spray+for+Men+3.4+Ounce",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:31Z"
  },
  {
   "id": "ab2e18cc48ed4b17",
@@ -3957,7 +4010,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Salvatore+Ferragamo+Ladies%27+Amo+Ferragamo+Skin+Care+Gift+Set+w+1.7-Oz+EDP+Spray+",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:32Z"
  },
  {
   "id": "5796aedde7e19417",
@@ -3975,7 +4029,8 @@
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ferragamo+Low+Sneaker+With+Signature+In+-",
   "exact": false,
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T14:15:34Z"
  },
  {
   "id": "03b6236d102ffca5",
@@ -26447,7 +26502,7 @@
  {
   "id": "0f79a9d0b066246e",
   "title": "(Certified Refurbished) DJI Air 3S Drone w/ RC-N3 Controller $799.20 + Free Shipping",
-  "url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26459,12 +26514,13 @@
   "source_url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b83285bcf34caa3",
   "title": "DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera $198",
-  "url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26476,12 +26532,13 @@
   "source_url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e144f43c57fffd3a",
   "title": "DJI Osmo 360 Waterproof 8K 360° Action Camera Standard Combo w/ 105GB Built-in Storage $285 + Free Shipping",
-  "url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -26493,7 +26550,8 @@
   "source_url": "https://slickdeals.net/f/19485252-dji-osmo-360-waterproof-8k-360-action-camera-standard-combo-w-105gb-built-in-storage-285-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+Waterproof+8K+360+Action+Camera+Standard+Combo+w+105GB+Built-in+Sto",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "98dbd0d92119a764",
