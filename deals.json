@@ -221,7 +221,8 @@
   "source_url": "https://9to5mac.com/2026/09/11/deals-airpods-5-airpods-pro-3-studio-display-series-12/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+5+from"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+5+from",
+  "checked_at": "2026-11-05T02:27:46Z"
  },
  {
   "id": "df410682736eec04",
@@ -239,7 +240,8 @@
   "source_url": "https://9to5mac.com/2026/09/10/deals-airpods-5-apple-watch-series-12-ultra-4/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Apple+Watch+Series+12+and+Ultra+4+up+to"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Apple+Watch+Series+12+and+Ultra+4+up+to",
+  "checked_at": "2026-11-05T02:27:46Z"
  },
  {
   "id": "dad109247d95a4c8",
@@ -257,7 +259,8 @@
   "source_url": "https://9to5mac.com/2026/09/09/deals-m5-pro-macbook-pro-airpods-pro-3-airtag-2/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro"
+  "similar": "https://www.amazon.com/s?k=Deals+M5+Pro+MacBook+Pro",
+  "checked_at": "2026-11-05T02:27:46Z"
  },
  {
   "id": "9ab2836c917b22d7",
@@ -275,7 +278,8 @@
   "source_url": "https://9to5mac.com/2026/09/08/deals-m5-max-mac-studio-macbook-air-studio-display/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+M5+Max+Mac+Studio+first+discount+MacBook+Air"
+  "similar": "https://www.amazon.com/s?k=Deals+M5+Max+Mac+Studio+first+discount+MacBook+Air",
+  "checked_at": "2026-11-05T02:27:46Z"
  },
  {
   "id": "a35a98209c883385",
@@ -293,25 +297,8 @@
   "source_url": "https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false
- },
- {
-  "id": "c595ff2ce542c369",
-  "title": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more",
-  "url": "https://www.amazon.com/dp/B0GSS4SGZR",
-  "why": "Le Labo deal",
-  "category": "fragrance",
-  "source": "9to5Mac deals",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": null,
-  "found_at": "2026-11-04T05:10:23Z",
-  "link_tried3": true,
-  "source_url": "https://9to5mac.com/2026/09/05/apple-labor-day-weekend-deals-airpods/",
-  "store": "Amazon",
-  "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+Labor+Day+weekend+deals+AirPods+Pro+3+Studio+Display+Mac+mini+AirTag+2+cha"
+  "exact": false,
+  "checked_at": "2026-11-05T02:27:47Z"
  },
  {
   "id": "1d2cdcf96af24549",
@@ -329,7 +316,8 @@
   "source_url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:27:49Z"
  },
  {
   "id": "1db29fb40cb772df",
@@ -347,7 +335,8 @@
   "source_url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:27:49Z"
  },
  {
   "id": "6d30cf3d0e2864d5",
@@ -365,7 +354,8 @@
   "source_url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+Labor+Day+2026+deals+now+live+AirPods+Pro+3+M6+Mac+mini+AirTag+2+iPhone+mo"
+  "similar": "https://www.amazon.com/s?k=Apple+Labor+Day+2026+deals+now+live+AirPods+Pro+3+M6+Mac+mini+AirTag+2+iPhone+mo",
+  "checked_at": "2026-11-05T02:27:49Z"
  },
  {
   "id": "5101ee1597b50994",
@@ -383,7 +373,8 @@
   "source_url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
   "store": "7Tiv",
   "similar": "https://bestbuycreators.7tiv.net/MAMazN",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:27:49Z"
  },
  {
   "id": "b83a2a5fedf5c880",
@@ -401,7 +392,8 @@
   "source_url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:27:50Z"
  },
  {
   "id": "f304b3a0cd722b46",
@@ -419,7 +411,8 @@
   "source_url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:27:50Z"
  },
  {
   "id": "c3b89974d4557c47",
@@ -437,7 +430,8 @@
   "source_url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
   "store": "Amazon",
   "similar": "https://www.amazon.com/events/labordaysale?language=en_US",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T02:27:51Z"
  },
  {
   "id": "34e263b723a4d2aa",
@@ -455,7 +449,8 @@
   "source_url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+iPhone+17+Pro+up+to"
+  "similar": "https://www.amazon.com/s?k=Deals+iPhone+17+Pro+up+to",
+  "checked_at": "2026-11-05T02:27:51Z"
  },
  {
   "id": "8deb623d0fc9ebdf",
@@ -473,7 +468,8 @@
   "source_url": "https://9to5mac.com/2026/08/26/deals-airpods-airtag-2-m6-mac-mini-iphone-17-pro/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+AirTag+2+M6+Mac+mini+trades+up+to"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+AirTag+2+M6+Mac+mini+trades+up+to",
+  "checked_at": "2026-11-05T02:27:51Z"
  },
  {
   "id": "7a5678a7c004adc1",
@@ -29364,7 +29360,7 @@
  {
   "id": "a542b1fb7676fa56",
   "title": "Oakley O Frame MX Jet Black Ski/Snowboard Goggles $29.06 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
+  "url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29376,8 +29372,7 @@
   "source_url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c8399c9395e0b3dd",
@@ -29400,7 +29395,7 @@
  {
   "id": "cf445281636d0280",
   "title": "Oakley Enduro 20L 3.0 Backpack (Army Green/Pebble) $30.00 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
+  "url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29412,8 +29407,7 @@
   "source_url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "89b7cb3da1263f34",
@@ -34607,5 +34601,116 @@
   "link_tried3": true,
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "0665c21f5e883342",
+  "title": "Official Apple iPhone Duo Cases at around 20% Off",
+  "url": "https://www.apple.com/us/search/Official%20Apple%20iPhone%20Duo%20Cases%20at%20around%2020%20Off",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ralph Lauren Purple Label",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": null,
+  "found_at": "2026-11-05T02:24:31Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20255643-official-apple-iphone-duo-cases-at-around-20-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Official%20Apple%20iPhone%20Duo%20Cases%20at%20around%2020%20Off",
+  "exact": false
+ },
+ {
+  "id": "8a3087e5ebff5fbb",
+  "title": "(Factory Reconditioned) Dyson Ball Animal 2 Upright Vacuum (Purple) $179.99 + Free Shipping w/ Prime or $6 Fee per Order",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ralph Lauren Purple Label",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 179.99,
+  "found_at": "2026-11-05T02:24:31Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
+  "exact": false
+ },
+ {
+  "id": "3d26bd347c6b1444",
+  "title": "KEXIN 128GB Flash Drive up to 450MB/s $34.99",
+  "url": "https://www.amazon.com/s?k=KEXIN+128GB+Flash+Drive+up+to+450MB+s",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 17",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.99,
+  "found_at": "2026-11-05T02:24:31Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20249937-kexin-128gb-flash-drive-up-to-450mb-s-34-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=KEXIN+128GB+Flash+Drive+up+to+450MB+s",
+  "exact": false
+ },
+ {
+  "id": "d1285cf376f22e99",
+  "title": "Amazon - Smart Watches for Men Women, Alexa Built-in, 1.8\" Smartwatch with Heart Rate/SpO2/Sleep/Stress - $20.99",
+  "url": "https://www.amazon.com/s?k=Amazon+-+Smart+Watches+for+Men+Women+Alexa+Built-in+1.8+Smartwatch+with+Heart+Ra",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 17",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.99,
+  "found_at": "2026-11-05T02:24:31Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20247033-amazon-smart-watches-for-men-women-alexa-built-in-1-8-smartwatch-with-heart-rate-spo2-sleep-stress-20-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Amazon+-+Smart+Watches+for+Men+Women+Alexa+Built-in+1.8+Smartwatch+with+Heart+Ra",
+  "exact": false
+ },
+ {
+  "id": "f7aca872efb67ba3",
+  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
+  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.99,
+  "found_at": "2026-11-05T02:27:59Z"
+ },
+ {
+  "id": "be125cc7bdc25b49",
+  "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebe9b33f234d16a356722618190c78&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Rolex price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 26.6,
+  "found_at": "2026-11-05T02:28:03Z"
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-05T02:28:08Z"
  }
 ]
