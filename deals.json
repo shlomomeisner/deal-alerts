@@ -1009,7 +1009,8 @@
   "found_at": "2026-11-04T05:13:47Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T03:21:21Z"
  },
  {
   "id": "0d29f9ef6fae6146",
@@ -1025,7 +1026,8 @@
   "found_at": "2026-11-04T05:13:47Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T03:21:23Z"
  },
  {
   "id": "358572d0e30e28a1",
@@ -29282,7 +29284,7 @@
  {
   "id": "485b68fc815cb37b",
   "title": "Extra 20% off on Ray-Ban & Oakley Sunglasses at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
+  "url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29294,8 +29296,7 @@
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9a651ea0e74dd5b1",
@@ -35099,6 +35100,42 @@
   "source_url": "https://slickdeals.net/f/20253516-acer-swift-go-16-ai-2026-16-fhd-oled-touch-intel-ultra-5-322-16gb-lpddr5-512gb-ssd-699-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Acer+Swift+Go+16+AI+16+FHD%2B+OLED+Touch+Intel+Ultra+5+322+16GB+LPDDR5+512GB+SSD",
+  "exact": false
+ },
+ {
+  "id": "614e112b28e9b5a9",
+  "title": "Open Boxes: Apple MacBook Pro: 16\", M5 Max (18C/40C), 48GB RAM, 2TB SSD $3791.99",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Boxes+Apple+MacBook+Pro+16+M5+Max+48GB+RAM+2TB+SSD",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 3791.99,
+  "found_at": "2026-11-05T03:18:01Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20257761-open-boxes-apple-macbook-pro-16-m5-max-18c-40c-48gb-ram-2tb-ssd-3791-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Boxes+Apple+MacBook+Pro+16+M5+Max+48GB+RAM+2TB+SSD",
+  "exact": false
+ },
+ {
+  "id": "67f9bd9efcdbacd8",
+  "title": "[WTS] 🔥🔥= Sale Cont'd to 11/11 | Akro | Armani | BDK | BTV | BYREDO | Chanel | Diptyque | Dorsay | DS&DURGA | Francesca Bianchi | Goldfield & Bank | Initio | Michael Malul | Mind Games | Parfums De Marly | Pernoire | Sospriso | YSL 100ml (bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Cont%27d+to+11+11+Akro+Armani+BDK+BTV+BYREDO+Chanel+Diptyque+Dorsay+DS%26DURGA+Franc",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-05T03:18:01Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xo80lf/wts_sale_contd_to_1111_akro_armani_bdk_btv_byredo/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Cont%27d+to+11+11+Akro+Armani+BDK+BTV+BYREDO+Chanel+Diptyque+Dorsay+DS%26DURGA+Franc",
   "exact": false
  }
 ]
