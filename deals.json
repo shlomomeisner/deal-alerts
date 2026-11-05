@@ -2644,7 +2644,8 @@
   "source_url": "https://slickdeals.net/f/20247501-mac-mini-m4-16gb-256gb-ssd-650-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Mac+Mini+M4+16GB+256GB+SSD",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:43Z"
  },
  {
   "id": "e2ac85795e072a45",
@@ -2662,7 +2663,8 @@
   "source_url": "https://slickdeals.net/f/20237541-speck-presidio-lux-case-w-magsafe-for-apple-iphone-15-pro-clear-gold-glitter-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Speck+Presidio+Lux+Case+w+MagSafe+for+Apple+iPhone+15+Pro",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:44Z"
  },
  {
   "id": "1fc044a24426b52c",
@@ -2680,7 +2682,8 @@
   "source_url": "https://slickdeals.net/f/20233869-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-1399-free-sh?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=13.6+Apple+MacBook+Air+M5+Chip+16GB+RAM+1TB+SSD",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:45Z"
  },
  {
   "id": "32533c616310513c",
@@ -2698,7 +2701,8 @@
   "source_url": "https://slickdeals.net/f/20232726-apple-iphone-air-256gb-unlocked-space-black-799?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20-%20iPhone%20Air%20256GB%20-%20Space%20Black",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:46Z"
  },
  {
   "id": "847f823a81230aff",
@@ -2715,7 +2719,8 @@
   "source_url": "https://slickdeals.net/f/20231367-tcl-65-qm8l-series-sqd-mini-led-qled-144hz-4k-smart-google-tv-1000-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TCL+65+QM8L+Series+SQD-Mini+LED+QLED+144Hz+4K+Smart+Google+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:48Z"
  },
  {
   "id": "90fb4ab0e4d71552",
@@ -2733,7 +2738,8 @@
   "source_url": "https://slickdeals.net/f/20231253-4-pack-apple-airtag-2nd-generation-69-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/4-Pack%20Apple%20AirTag",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:49Z"
  },
  {
   "id": "e5a46a4698e67722",
@@ -2751,7 +2757,8 @@
   "source_url": "https://slickdeals.net/f/20229570-apple-macbook-pro-14-inch-laptop-m6-chip-with-12-core-cpu-and-12-core-gpu-free-100-e-gift-card-from-1999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+14-inch+Laptop+-+M6+chip+with+12-core+CPU+and+12-core+GPU+%2BF",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:51Z"
  },
  {
   "id": "117d6e57c7438a08",
@@ -2769,7 +2776,8 @@
   "source_url": "https://slickdeals.net/f/20229528-apple-macbook-pro-14-inch-laptop-with-proled-xdr-touch-display-m5-pro-chip-free-100-e-gift-card-from-2899?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+MacBook+Pro+14-inch+Laptop+with+PROLED+XDR+Touch+Display+-+M5+Pro+chip+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:53Z"
  },
  {
   "id": "7df7a0eafff1b73e",
@@ -2785,7 +2793,8 @@
   "found_at": "2026-11-04T16:32:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T12:37:54Z"
  },
  {
   "id": "d121bd0df38c7933",
@@ -2801,7 +2810,8 @@
   "found_at": "2026-11-04T16:32:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T12:37:56Z"
  },
  {
   "id": "970f0f2baa44e795",
@@ -2819,7 +2829,8 @@
   "source_url": "https://slickdeals.net/f/20220030-speck-luggage-tag-pro-for-apple-airtag-6-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Speck%20Luggage%20Tag%20Pro%20for%20Apple%20AirTag",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:58Z"
  },
  {
   "id": "29f3431bfaa0f4f8",
@@ -2837,7 +2848,8 @@
   "source_url": "https://slickdeals.net/f/20214435-hisense-65-class-qd5-hi-qled-series4k-uhd-smart-roku-tv-2026-329-99-at-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Hisense+65+Class+QD5+Hi-QLED+Series4K+UHD+Smart+Roku+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:37:59Z"
  },
  {
   "id": "55a8de79fc2fe72d",
@@ -2855,7 +2867,8 @@
   "source_url": "https://slickdeals.net/f/20211972-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smartphones-other-usb-c-devices-black-11-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+-+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+i",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:38:01Z"
  },
  {
   "id": "6b9d9994f35862e3",
@@ -2871,7 +2884,8 @@
   "found_at": "2026-11-04T16:32:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T12:38:03Z"
  },
  {
   "id": "300c2bd312d37922",
@@ -2889,7 +2903,8 @@
   "source_url": "https://slickdeals.net/f/20208378-8bitdo-pro-2-bluetooth-controller-for-switch-windows-macos-android-and-steam-deck-black-37-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=8Bitdo+Pro+2+Bluetooth+Controller+for+Switch+Windows+macOS+Android+and+Steam+Dec",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T12:38:05Z"
  },
  {
   "id": "ca8aad15966e70c0",
@@ -27691,7 +27706,7 @@
  {
   "id": "751ee57a167a763a",
   "title": "DJI Osmo Pocket 4 4K/6K Pocket Gimbal Camera w/ 1\" Sensor 107GB Storage ActionTrack 7.0 Vlog Camera + F/S $426.7",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
+  "url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27703,13 +27718,12 @@
   "source_url": "https://slickdeals.net/f/19582104-dji-osmo-pocket-4-4k-6k-pocket-gimbal-camera-w-1-sensor-107gb-storage-actiontrack-7-0-vlog-camera-f-s-426-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+4K+6K+Pocket+Gimbal+Camera+w+1+Sensor+107GB+Storage+ActionTrac",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "879fb8f39198168b",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $288 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
+  "url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27721,8 +27735,7 @@
   "source_url": "https://slickdeals.net/f/19581672-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-288-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6a3ae3e929bc79a1",
@@ -27743,7 +27756,7 @@
  {
   "id": "580836c687e889a3",
   "title": "DJI Osmo Action 4 Waterproof Action Camera Bundle $289.98 shipped",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
+  "url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27755,13 +27768,12 @@
   "source_url": "https://slickdeals.net/f/19543128-dji-osmo-action-4-waterproof-action-camera-bundle-289-98-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Waterproof+Action+Camera+Bundle",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e19f8941efbd1320",
   "title": "DJI Osmo 360 8K 360° Camera with Dual 1-Inch Sensors Standard Combo $316.80 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
+  "url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27773,8 +27785,7 @@
   "source_url": "https://slickdeals.net/f/19543089-dji-osmo-360-8k-360-camera-with-dual-1-inch-sensors-standard-combo-316-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera+with+Dual+1-Inch+Sensors+Standard+Combo",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "17dc79747cec5338",
@@ -27795,7 +27806,7 @@
  {
   "id": "0f79a9d0b066246e",
   "title": "(Certified Refurbished) DJI Air 3S Drone w/ RC-N3 Controller $799.20 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
+  "url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27807,13 +27818,12 @@
   "source_url": "https://slickdeals.net/f/19500690-certified-refurbished-dji-air-3s-drone-w-rc-n3-controller-799-20-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+w+RC-N3+Controller",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4b83285bcf34caa3",
   "title": "DJI Osmo Action 4 Essential Combo 4K/120fps Waterproof Action Camera $198",
-  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
+  "url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -27825,8 +27835,7 @@
   "source_url": "https://slickdeals.net/f/19496016-dji-osmo-action-4-essential-combo-4k-120fps-waterproof-action-camera-198?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4+Essential+Combo+4K+120fps+Waterproof+Action+Camera",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e144f43c57fffd3a",
@@ -34391,11 +34400,11 @@
   "pct": null,
   "price": 77.49,
   "found_at": "2026-11-05T12:26:14Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20255034-hoka-women-s-clifton-10-shoes-black-white-77-49-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Clifton+10+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "79f32e0edb3bd0c4",
@@ -34477,11 +34486,11 @@
   "pct": null,
   "price": 139.99,
   "found_at": "2026-11-05T12:26:14Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19932873-garmin-varia-515-139-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Varia+515",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bc81e30566909109",
@@ -34495,11 +34504,11 @@
   "pct": null,
   "price": 999.99,
   "found_at": "2026-11-05T12:26:14Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19924290-garmin-fenix-9-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+9",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "91784080c0839be2",
@@ -34796,7 +34805,8 @@
    "LHR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20LHR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20LHR&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "a7a87a5addf57719",
@@ -34821,6 +34831,169 @@
    "LAX"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20LAX&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20LAX&hl=en&gl=us&curr=USD",
+  "link_tried3": true
+ },
+ {
+  "id": "c2f69b55943a09cb",
+  "title": "DJI Osmo Action 5 Pro 4K Waterproof Essential Camera Bundle for $209 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+4K+Waterproof+Essential+Camera+Bundle+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 209.0,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/DJI-Osmo-Action-5-Pro-4-K-Waterproof-Essential-Camera-Bundle-for-209-free-shipping/22350860.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+4K+Waterproof+Essential+Camera+Bundle+for",
+  "exact": false
+ },
+ {
+  "id": "c8b5ad4eec4f7224",
+  "title": "[WTT] UNOPENED TF TUSCAN LEATHER 30ml FOR PDM Layton or Herod",
+  "url": "https://www.google.com/search?tbm=shop&q=UNOPENED+TF+TUSCAN+LEATHER+30ml+FOR+PDM+Layton+or+Herod",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xoh8au/wtt_unopened_tf_tuscan_leather_30ml_for_pdm/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=UNOPENED+TF+TUSCAN+LEATHER+30ml+FOR+PDM+Layton+or+Herod",
+  "exact": false
+ },
+ {
+  "id": "c19a47a5812b760b",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smarthones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smarthones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
+ },
+ {
+  "id": "7632e6db59459cba",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smarthones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smarthones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
+ },
+ {
+  "id": "96a31b70476d5a49",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smarthones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smarthones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
+ },
+ {
+  "id": "9bb616844b0c543f",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smarthones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ipad",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smarthones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
+ },
+ {
+  "id": "4daf074a2130eed1",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smarthones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smarthones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
+ },
+ {
+  "id": "215f1d1ea9c456e5",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smarthones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smarthones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
+ },
+ {
+  "id": "08db4ea75913e4e8",
+  "title": "Best Buy essentials™ 65W Dual Port USB-C and USB Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Smarthones & other USB-C Devices - Black - $11.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Best Buy Apple",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.99,
+  "found_at": "2026-11-05T12:34:56Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20260248-best-buy-essentials-65w-dual-port-usb-c-and-usb-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-smarthones-other-usb-c-devices-black-11-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+65W+Dual+Port+USB-C+and+USB+Wall+Charger+for+MacBook+Pro+iPa",
+  "exact": false
  }
 ]
