@@ -736,7 +736,8 @@
   "source_url": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+Watch+Series+11"
+  "similar": "https://www.amazon.com/s?k=Deals+Apple+Watch+Series+11",
+  "checked_at": "2026-11-05T03:03:54Z"
  },
  {
   "id": "d18e9865851d2008",
@@ -754,7 +755,8 @@
   "source_url": "https://9to5mac.com/2026/08/06/deals-airpods-pro-3-m5-macbook-air-iphone-air/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+now+even+lower+at+25+off+M5+MacBook+Air"
+  "similar": "https://www.amazon.com/s?k=Deals+AirPods+Pro+3+now+even+lower+at+25+off+M5+MacBook+Air",
+  "checked_at": "2026-11-05T03:03:54Z"
  },
  {
   "id": "0a1d37d03de5de89",
@@ -772,7 +774,8 @@
   "source_url": "https://9to5mac.com/2026/08/06/new-airpods-are-coming-but-this-is-one-of-the-best-deals-yet-on-airpods-pro-3/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=AirPods+are+coming+but+this+is+one+of+the+best+deals+yet+on+AirPods+Pro+3"
+  "similar": "https://www.amazon.com/s?k=AirPods+are+coming+but+this+is+one+of+the+best+deals+yet+on+AirPods+Pro+3",
+  "checked_at": "2026-11-05T03:03:54Z"
  },
  {
   "id": "372e642308d1fb18",
@@ -790,7 +793,8 @@
   "source_url": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+MacBook+Neo+up+to"
+  "similar": "https://www.amazon.com/s?k=Deals+MacBook+Neo+up+to",
+  "checked_at": "2026-11-05T03:03:54Z"
  },
  {
   "id": "4bd947e157c46825",
@@ -808,7 +812,8 @@
   "source_url": "https://9to5mac.com/2026/08/03/deals-apple-watch-ultra-3-100-off-airpods-anker-chargers/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Deals+Apple+Watch+Ultra+3"
+  "similar": "https://www.amazon.com/s?k=Deals+Apple+Watch+Ultra+3",
+  "checked_at": "2026-11-05T03:03:54Z"
  },
  {
   "id": "da4a6c25291ef02d",
@@ -826,7 +831,8 @@
   "source_url": "https://9to5mac.com/2026/08/01/apple-weekend-deals-airpods-air-m5/",
   "store": "Amazon",
   "exact": true,
-  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+Pro+3+Apple+Studio+Display"
+  "similar": "https://www.amazon.com/s?k=Apple+weekend+deals+AirPods+Pro+3+Apple+Studio+Display",
+  "checked_at": "2026-11-05T03:03:54Z"
  },
  {
   "id": "93eab32219781bba",
@@ -842,7 +848,8 @@
   "found_at": "2026-11-04T05:13:47Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T03:03:55Z"
  },
  {
   "id": "2b3406e39f3a6847",
@@ -858,7 +865,8 @@
   "found_at": "2026-11-04T05:13:47Z",
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=",
-  "link_tried3": true
+  "link_tried3": true,
+  "checked_at": "2026-11-05T03:03:57Z"
  },
  {
   "id": "056800a10096891f",
@@ -876,7 +884,8 @@
   "similar": "https://www.google.com/search?tbm=shop&q=LG+-+55+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+",
   "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20233896-lg-55-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy"
+  "store": "Bestbuy",
+  "checked_at": "2026-11-05T03:03:58Z"
  },
  {
   "id": "0cbbc2033acd2109",
@@ -29285,7 +29294,7 @@
  {
   "id": "9a651ea0e74dd5b1",
   "title": "Oakley Men's Valve Polarized Sunglasses $69.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
+  "url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29297,13 +29306,12 @@
   "source_url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1256c38a22620cce",
   "title": "Oakley Mens Sub Temp Recycled Gore-Tex Jacket 2.0, Army Green, X-Large $100.4",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
+  "url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29315,13 +29323,12 @@
   "source_url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5b2ba18439b460a7",
   "title": "Extra 22% off on Shade Parade: Oakley, Ray-Ban, & More! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
+  "url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29333,13 +29340,12 @@
   "source_url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a542b1fb7676fa56",
   "title": "Oakley O Frame MX Jet Black Ski/Snowboard Goggles $29.06 + Free Shipping w/ Prime or on $35+",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
+  "url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -29351,8 +29357,7 @@
   "source_url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c8399c9395e0b3dd",
@@ -35012,11 +35017,11 @@
   "pct": null,
   "price": 533.61,
   "found_at": "2026-11-05T02:52:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238489-insta360-luna-ultra-8k-pocket-gimbal-camera-w-dual-leica-lenses-1-sensor-2-touchscreen-black-533-61-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Insta360+Luna+Ultra+8K+Pocket+Gimbal+Camera+w+Dual+Leica+Lenses+1+Sensor+%26+2+Tou",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7533062dbc9b356a",
@@ -35030,10 +35035,46 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-05T02:52:09Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxIdHM3WFJadXBGYW10cndfU284YUxCSkhTbEV6QjJkSWNRUVljaU92d21KMmRaYm5WUmJOWjZhSlFZa2dFTXVZSDN4ZGxJcU80OWZxaWpQcHluZHVBREMzVnVuTXBqT1lMRjFPcWdVZF9YZnIyb3R5Ylp3allndWtOdWo?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Best+gaming+monitor+LG%27s+27-inch+240Hz+OLED+hits+-+Mashable",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "7718b734cef303fd",
+  "title": "Baseus Inspire XP1 Adaptive Noise Cancelling Earbuds, Sound by Bose (Black) $40.61 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 40.61,
+  "found_at": "2026-11-05T03:00:38Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
+  "exact": false
+ },
+ {
+  "id": "778e86fe6be6aa10",
+  "title": "Prime Members: iVANKY 4K@144Hz 8-in-1 Steam Deck Docking Station (ASUS ROG Ally X/Valve Steam Deck OLED/Legion Go 2/S) $20 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Prime+Members+iVANKY+4K+144Hz+8-in-1+Steam+Deck+Docking+Station",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.0,
+  "found_at": "2026-11-05T03:00:38Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20257011-prime-members-ivanky-4k-144hz-8-in-1-steam-deck-docking-station-asus-rog-ally-x-valve-steam-deck-oled-legion-go-2-s-20-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Prime+Members+iVANKY+4K+144Hz+8-in-1+Steam+Deck+Docking+Station",
   "exact": false
  }
 ]
