@@ -2553,7 +2553,8 @@
   "found_at": "2026-11-04T09:24:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-05T06:56:34Z"
  },
  {
   "id": "e1ad05263c94e23e",
@@ -2571,7 +2572,8 @@
   "source_url": "https://slickdeals.net/f/19749516-green-extreme-battery-for-gopro-hero-9-10-11-12-6-95-s-h-8-shipping-adorama-via-newegg?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Newegg",
   "similar": "https://www.newegg.com/p/pl?d=Green+Extreme+Battery+for+GoPro+HERO+9+10+11+12+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T06:56:36Z"
  },
  {
   "id": "2978397555e9e9e0",
@@ -2588,7 +2590,8 @@
   "source_url": "https://slickdeals.net/f/18023772-gopro-hero11-black-5-3k-uhd-action-camera-bundle-open-box-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+5.3K+UHD+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T06:56:37Z"
  },
  {
   "id": "0d5c0c42fae0d915",
@@ -2605,7 +2608,8 @@
   "source_url": "https://slickdeals.net/f/17777010-gopro-hero11-black-action-camera-bundle-open-box-199-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T06:56:39Z"
  },
  {
   "id": "f59ea039087434fc",
@@ -2622,7 +2626,8 @@
   "source_url": "https://slickdeals.net/f/17324907-gopro-hero11-black-action-camera-bundle-open-box-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T06:56:41Z"
  },
  {
   "id": "7a9a69cb66f107e2",
@@ -2639,7 +2644,8 @@
   "source_url": "https://slickdeals.net/f/17276989-gopro-hero11-5-4k-uhd-black-action-camera-bundle-w-case-open-box-chdcb-111-cn-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+5.4K+UHD+Black+Action+Camera+Bundle+w+Case",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T06:56:43Z"
  },
  {
   "id": "e9ad25f580e5ae48",
@@ -2657,7 +2663,8 @@
   "source_url": "https://slickdeals.net/f/17272813-gopro-hero11-black-action-camera-bundle-new-deal-costco-289-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=GoPro+HERO11+Black+Action+Camera+Bundle+COSTCO",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T06:56:44Z"
  },
  {
   "id": "8e1743ee04e87182",
@@ -2674,7 +2681,8 @@
   "source_url": "https://slickdeals.net/f/17244892-gopro-hero-11-black-bundle-219-free-shipping-open-box-it-s-back-limited-qty?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO+11+Black+Bundle+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-05T06:56:46Z"
  },
  {
   "id": "7fbbeb6c0ecbd10d",
@@ -29213,7 +29221,7 @@
  {
   "id": "01760d882a564d09",
   "title": "(NEW) Apple Watch Ultra 2 Smartwatch [GPS + Cellular] $569.99",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Smartwatch",
+  "url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Apple Watch Ultra deal",
@@ -29225,8 +29233,7 @@
   "source_url": "https://slickdeals.net/f/20226903-new-apple-watch-ultra-2-smartwatch-gps-cellular-569-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Ultra+2+Smartwatch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2301b444fdaaa987",
@@ -29267,7 +29274,7 @@
  {
   "id": "58889ee56955a1de",
   "title": "Open Box: Beats by Dre Solo Buds In-Ear Headphones (Matte Black) $24.84 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+by+Dre+Solo+Buds+In-Ear+Headphones",
+  "url": "https://slickdeals.net/f/20190105-open-box-beats-by-dre-solo-buds-in-ear-headphones-matte-black-24-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -29279,13 +29286,12 @@
   "source_url": "https://slickdeals.net/f/20190105-open-box-beats-by-dre-solo-buds-in-ear-headphones-matte-black-24-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+by+Dre+Solo+Buds+In-Ear+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1dc02cabac8ab8bf",
   "title": "Open Box: Beats Studio Pro Wireless Headphones - Matte White - $96 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+Studio+Pro+Wireless+Headphones+-+Matte+White+-",
+  "url": "https://slickdeals.net/f/20161335-open-box-beats-studio-pro-wireless-headphones-matte-white-96-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -29297,8 +29303,7 @@
   "source_url": "https://slickdeals.net/f/20161335-open-box-beats-studio-pro-wireless-headphones-matte-white-96-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+Studio+Pro+Wireless+Headphones+-+Matte+White+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c0f7e601672154bb",
@@ -29407,7 +29412,7 @@
  {
   "id": "48c8e218a5b768a5",
   "title": "JBL Tour One M3 Aviator Headphones $199.95 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+Tour+One+M3+Aviator+Headphones",
+  "url": "https://slickdeals.net/f/20220570-jbl-tour-one-m3-aviator-headphones-199-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL deal",
@@ -29419,8 +29424,7 @@
   "source_url": "https://slickdeals.net/f/20220570-jbl-tour-one-m3-aviator-headphones-199-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+Tour+One+M3+Aviator+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "940a655243edf6f9",
@@ -29461,7 +29465,7 @@
  {
   "id": "e76e618aee3ffaef",
   "title": "JBL Live Buds 3 ANC True Wireless Earbuds w/ Smart Display Charging Case $91.99",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+Live+Buds+3+ANC+True+Wireless+Earbuds+w+Smart+Display+Charging+Case",
+  "url": "https://slickdeals.net/f/20217795-jbl-live-buds-3-anc-true-wireless-earbuds-w-smart-display-charging-case-91-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL deal",
@@ -29473,8 +29477,7 @@
   "source_url": "https://slickdeals.net/f/20217795-jbl-live-buds-3-anc-true-wireless-earbuds-w-smart-display-charging-case-91-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+Live+Buds+3+ANC+True+Wireless+Earbuds+w+Smart+Display+Charging+Case",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9645287fbd1043d5",
@@ -29527,7 +29530,7 @@
  {
   "id": "5d3f3b0e72293cf1",
   "title": "[Certified Open Box | $89.1]JBL 305P MkII 5-inch Powered Studio Monitor Single",
-  "url": "https://www.google.com/search?tbm=shop&q=Certified+Open+Box",
+  "url": "https://slickdeals.net/f/20213259-certified-open-box-89-1-jbl-305p-mkii-5-inch-powered-studio-monitor-single?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: JBL deal",
@@ -29539,8 +29542,7 @@
   "source_url": "https://slickdeals.net/f/20213259-certified-open-box-89-1-jbl-305p-mkii-5-inch-powered-studio-monitor-single?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Open+Box",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e424e5e7d627d970",
@@ -29685,7 +29687,7 @@
  {
   "id": "d2036810ceb52321",
   "title": "JBL 305P MKII Super White 5\" Powered Studio Monitor $89 (Each) FS",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
+  "url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: JBL record low",
@@ -29697,13 +29699,12 @@
   "source_url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "afa09cd57ece6e51",
   "title": "JBL SUB 550PBK $189.95 (back ordered Dec. 14)",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
+  "url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -29715,13 +29716,12 @@
   "source_url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "878820e264ac6595",
   "title": "JBL M-Patch Active-1 - $49.99 +free shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
+  "url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -29733,13 +29733,12 @@
   "source_url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "334ce60d3c03e9b5",
   "title": "JBL Live 780NC with 80-hour battery life drop below $140 with a 44% discount - PhoneArena",
-  "url": "https://www.google.com/search?tbm=shop&q=JBL+Live+780NC+with+80-hour+battery+life+drop+below",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BRmdQWm13eWhGaV9NMWd0eVg2aTU1WUpuLXZMV1AwZXJTaEJJOUlETHd2b3lNSlR2R0VBbGM1VTFReXlpTEZrQVZuTi1paXcya0NjZnJId1FENV9BQzJCT1dMWDM5OFhmSkpOY0tQR0U0UlNNQmc?oc=5",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -29751,8 +29750,7 @@
   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BRmdQWm13eWhGaV9NMWd0eVg2aTU1WUpuLXZMV1AwZXJTaEJJOUlETHd2b3lNSlR2R0VBbGM1VTFReXlpTEZrQVZuTi1paXcya0NjZnJId1FENV9BQzJCT1dMWDM5OFhmSkpOY0tQR0U0UlNNQmc?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+Live+780NC+with+80-hour+battery+life+drop+below",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6fc823e95080e015",
@@ -29809,7 +29807,7 @@
  {
   "id": "b18c76a129319cf5",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
+  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -29821,13 +29819,12 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e9cddb35fee50f2e",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
+  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -29839,8 +29836,7 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d3f892c1f45ce7d3",
@@ -29911,7 +29907,7 @@
  {
   "id": "b5e88b50288dc778",
   "title": "Bose QuietComfort Ultra Headphones (2nd Gen) - Refurbished $279 Various Colors",
-  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
+  "url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -29923,13 +29919,12 @@
   "source_url": "https://slickdeals.net/f/20187735-bose-quietcomfort-ultra-headphones-2nd-gen-refurbished-279-various-colors?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+Headphones+-+Refurbished",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "93ed17e4cecbb765",
   "title": "Comply Premium Memory Foam Replacement Ear Pads for Bose QuietComfort Ultra Gen 1 & 2 Headphones | $4.99 w/ Free Ship from Woot using Prime",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
+  "url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -29941,13 +29936,12 @@
   "source_url": "https://slickdeals.net/f/20169273-comply-premium-memory-foam-replacement-ear-pads-for-bose-quietcomfort-ultra-gen-1-2-headphones-4-99-w-free-ship-from-woot-using-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Comply+Premium+Memory+Foam+Replacement+Ear+Pads+for+Bose+QuietComfort+Ultra+Gen+",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "90ced29374ebd560",
   "title": "Save 60% for 2 Days Only Bose QuietComfort Headphones - Refurbished Black $129 Bose.com",
-  "url": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
+  "url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -29959,13 +29953,12 @@
   "source_url": "https://slickdeals.net/f/20146935-save-60-for-2-days-only-bose-quietcomfort-headphones-refurbished-black-129-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Save+60+for+2+Days+Only+Bose+QuietComfort+Headphones+-+Refurbished+Black",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "2059224dc35a99df",
   "title": "Certified Refurb: Bose QuietComfort Noise Cancelling Headphones $123 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
+  "url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -29977,8 +29970,7 @@
   "source_url": "https://slickdeals.net/f/20144844-certified-refurb-bose-quietcomfort-noise-cancelling-headphones-123-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+QuietComfort+Noise+Cancelling+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "45a074aeaa06aeff",
@@ -30001,7 +29993,7 @@
  {
   "id": "b4ede2b9121da669",
   "title": "Duratech 1/4\" Drive Ratchet Handle $8.79, Bose QuietComfort Noise Cancelling Headphones $159.20 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Duratech+1+4+Drive+Ratchet+Handle",
+  "url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Bose QuietComfort deal",
@@ -30013,8 +30005,7 @@
   "source_url": "https://slickdeals.net/f/20120742-duratech-1-4-drive-ratchet-handle-8-79-bose-quietcomfort-noise-cancelling-headphones-159-20-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Duratech+1+4+Drive+Ratchet+Handle",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "da1a598c1fda8cec",
@@ -30053,7 +30044,7 @@
  {
   "id": "3908e69d0e04b836",
   "title": "Fragrances",
-  "url": "https://www.google.com/search?tbm=shop&q=Fragrances",
+  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xo605j/fragrances/",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -30065,8 +30056,7 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xo605j/fragrances/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fragrances",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ae28c37725449d17",
@@ -30169,7 +30159,7 @@
  {
   "id": "6d64b44e962e8823",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -30181,13 +30171,12 @@
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f89456044edaffb1",
   "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
+  "url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -30199,13 +30188,12 @@
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f87f64256bfc7a01",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $74.93",
-  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -30217,13 +30205,12 @@
   "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "78ad0eb583f44be6",
   "title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -30235,8 +30222,7 @@
   "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "3e0146970f45744a",
@@ -30257,7 +30243,7 @@
  {
   "id": "f9622b11b360a6b0",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
+  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -30269,8 +30255,7 @@
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5997ad6df2ceff4a",
@@ -30339,7 +30324,7 @@
  {
   "id": "d23e0eaf9ef03b93",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
+  "url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -30351,8 +30336,7 @@
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "1d3f48835aed3d91",
@@ -30375,7 +30359,7 @@
  {
   "id": "bb7a47bdb03cf13e",
   "title": "XBOX Series X: Gaming Console All Digital: 1TB Storage, Wi-Fi 5, USB-C, Includes XBOX Wireless Controller - Robot WhiteXbox Series X Digital $599.99",
-  "url": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
+  "url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -30387,13 +30371,12 @@
   "source_url": "https://slickdeals.net/f/20236215-xbox-series-x-gaming-console-all-digital-1tb-storage-wi-fi-5-usb-c-includes-xbox-wireless-controller-robot-whitexbox-series-x-digital-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=XBOX+Series+X+Gaming+Console+All+Digital+1TB+Storage+Wi-Fi+5+USB-C+Includes+XBOX",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dafa4177b0196ad0",
   "title": "PowerA Advantage Wired Controller w/ Lumectra (Xbox Series X|S, Black) $11.99 + Free S&H w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
+  "url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: Xbox Series X deal",
@@ -30405,8 +30388,7 @@
   "source_url": "https://slickdeals.net/f/20231334-powera-advantage-wired-controller-w-lumectra-xbox-series-x-s-black-11-99-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PowerA+Advantage+Wired+Controller+w+Lumectra",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "dc69877372ee70c5",
@@ -30445,7 +30427,7 @@
  {
   "id": "5643b3a09762b433",
   "title": "Marvel Wolverine Game + Wolverine Limited Edition PS5 DualSense Controller for $142.99 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
+  "url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: DualSense deal",
@@ -30457,8 +30439,7 @@
   "source_url": "https://slickdeals.net/f/20033877-marvel-wolverine-game-wolverine-limited-edition-ps5-dualsense-controller-for-142-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Marvel+Wolverine+Game+%2B+Wolverine+Limited+Edition+PS5+DualSense+Controller+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8b935d5d8c00b91c",
@@ -30530,7 +30511,7 @@
  {
   "id": "92a27d64a445323a",
   "title": "LG Partners Store 55\" Class LG OLED evo AI C6 4K Smart TV 2026 $809.99 (plus tax)",
-  "url": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
+  "url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Web search: LG OLED deal",
@@ -30542,8 +30523,7 @@
   "source_url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "062ef7128435712d",
@@ -30742,7 +30722,7 @@
  {
   "id": "394879e905c63d5a",
   "title": "Seiko 5 SNKK27 for $57 free shipping with Prime (Prime day deal)",
-  "url": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
+  "url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Grand Seiko",
@@ -30754,8 +30734,7 @@
   "source_url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8a52fd4a2a197c49",
