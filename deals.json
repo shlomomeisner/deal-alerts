@@ -414,7 +414,8 @@
   "source_url": "https://slickdeals.net/f/20251311-open-box-excellent-48-lg-b6-oled-ai-4k-120hz-smart-webos-tv-2026-552-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=48+LG+B6+OLED+AI+4K+120Hz+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:00:58Z"
  },
  {
   "id": "b1ed621583ba5926",
@@ -430,7 +431,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T22:00:59Z"
  },
  {
   "id": "fa59c5c59305c85e",
@@ -448,7 +450,8 @@
   "source_url": "https://slickdeals.net/f/20246280-samsung-s90h-77-inches-oled-for-edu-or-workplace?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+S90H+77+inches+OLED+for+EDU+or+Workplace",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:01:01Z"
  },
  {
   "id": "40d02f40b2459ebe",
@@ -465,7 +468,8 @@
   "source_url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:01:03Z"
  },
  {
   "id": "6ba69ddb70d46a46",
@@ -483,7 +487,8 @@
   "source_url": "https://slickdeals.net/f/20243076-lg-65-class-c5-series-oled-evo-ai-4k-uhd-smart-webos-tv-2025-open-box-from-738?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+65+Class+C5+Series+OLED+evo+AI+4K+UHD+Smart+webOS+TV+Open+Box+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:01:04Z"
  },
  {
   "id": "8107f954c570ca34",
@@ -501,7 +506,8 @@
   "source_url": "https://slickdeals.net/f/20242992-samsung-77-class-s90h-oled-4k-tv-with-samsungvisionai-2026-open-box-from-1395?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung+-+77+Class+S90H+OLED+4K+TV+with+SamsungVisionAI+Open+Box+From",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:01:05Z"
  },
  {
   "id": "b54a6476e55ff8f2",
@@ -517,7 +523,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T22:01:06Z"
  },
  {
   "id": "348cd3d682612ecb",
@@ -533,7 +540,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T22:01:08Z"
  },
  {
   "id": "c0e7b3b610a518fc",
@@ -549,7 +557,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T22:01:10Z"
  },
  {
   "id": "330f7f021486eb25",
@@ -565,7 +574,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T22:01:12Z"
  },
  {
   "id": "5b6ccc76075e74a6",
@@ -583,7 +593,8 @@
   "source_url": "https://slickdeals.net/f/20235120-65-samsung-s84h-oled-4k-uhd-120hz-smart-tv-2026-999-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=65+Samsung+S84H+OLED+4K+UHD+120Hz+Smart+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:01:13Z"
  },
  {
   "id": "f356f7bf49a1deac",
@@ -601,7 +612,8 @@
   "source_url": "https://slickdeals.net/f/20233896-lg-55-class-c6-oled-evo-ai-4k-smart-webos-tv-with-perfect-black-perfect-color-and-brightness-booster-2026-999-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+55+Class+C6+OLED+evo+AI+4K+Smart+webOS+TV+with+Perfect+Black+Perfect+Color+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:01:15Z"
  },
  {
   "id": "bd3e075918c17ea7",
@@ -617,7 +629,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T22:01:17Z"
  },
  {
   "id": "39e16dd0af655193",
@@ -635,7 +648,8 @@
   "source_url": "https://slickdeals.net/f/20231310-lg-48-b6-series-oled-120hz-4k-tv-with-perfect-black-vivid-color-and-magic-remote-2026-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+48+B6+Series+OLED+120Hz+4K+TV+with+Perfect+Black+Vivid+Color+and+Magic+Remote",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T22:01:18Z"
  },
  {
   "id": "ba30634463ad596a",
@@ -651,7 +665,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T22:01:19Z"
  },
  {
   "id": "8657535beec67b7a",
@@ -34394,11 +34409,11 @@
   "pct": null,
   "price": 457.0,
   "found_at": "2026-11-06T21:49:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20256867-dji-neo-2-4k-motion-fly-more-combo-w-goggles-n3-strobe-lights-457-or-less-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+4K+Motion+Fly+More+Combo+w+Goggles+N3+%26+Strobe+Lights",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3274a36dfc202132",
@@ -34412,11 +34427,11 @@
   "pct": null,
   "price": 824.5,
   "found_at": "2026-11-06T21:49:28Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20256861-dji-mini-5-pro-fly-more-combo-with-dji-rc-2-and-1-inch-cmos-4k-camera-803-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Fly+More+Combo+w+DJI+RC+2+%26+1-Inch+CMOS+4K+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "165dd3c89dcc0996",
@@ -34464,11 +34479,11 @@
   "pct": null,
   "price": 400.0,
   "found_at": "2026-11-06T21:49:28Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Refurb-Canon-EOS-Rebel-T7-24-1-MP-DSLR-Camera-w-3-Lens-Kit-for-400-free-shipping/22356038.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Canon+EOS+Rebel+T7+24.1MP+DSLR+Camera+w+3+Lens+Kit+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "46f3d61864149b31",
@@ -34482,11 +34497,11 @@
   "pct": 20,
   "price": 103.0,
   "found_at": "2026-11-06T21:49:28Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/products/Bose/Bose-Solo-Soundbar-Series-II/515410.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+Solo+Soundbar+Series+II+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "77800b6af15fc66b",
@@ -34500,11 +34515,11 @@
   "pct": null,
   "price": 180.0,
   "found_at": "2026-11-06T21:49:28Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/products/Hisense/Hisense-55-QD5-SR-55-4-K-UHD-QLED-Smart-Roku-TV/541164.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hisense+55QD5SR+55+4K+UHD+QLED+Smart+Roku+TV+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ad1c19adf22cc17d",
@@ -34601,7 +34616,8 @@
    "SIN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SIN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SIN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "259ee7350a87cfa3",
@@ -34691,7 +34707,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3NqMy15bTVvbnliX2lzbUNmUGJ5QzJ1ZHg3bUIxMkpFcDlScXlBaWgxeGZBc1ZWSmkxQmx6QVplYml1UmFsbFdkdTUyVFVfenRMSW9aVFVNeTRhekhmWFZkRUE1THRkYjAzMTZ4eDJOQjZ3S3Q5Y29mdXduTnh1OGRYQ0FYcWwxZldFZjNDdWZ5VkNZb1U4d21wbmV6dC11WjFaaDFjdVJneFJ5STRvbnVmSFY4bFhtaHpzaWtXbE9Bd3VkYlNTS1JBOHQydFZyN3RJbGwzRUdpdjNvNkdDLXpEVEw?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20MyFlyYatra%20Makes%20New%20York%20to%20Europe%20Business%20Class%20Travel%20More%20Affordable%20with%20Exclusive%20Flight%20Deals%20-%20ACCESS%20Newswire",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "454db073569223c7",
@@ -34716,7 +34733,8 @@
    "NBO"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NBO&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NBO&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "ed90ea6e952e28f6",
@@ -34741,7 +34759,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "2df849b71a7c1abb",
@@ -34766,7 +34785,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "0191738ae139fb1e",
@@ -34791,6 +34811,167 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
+ },
+ {
+  "id": "eb47986aa660c6ae",
+  "title": "Select Accts: 120-ct Sports Research Triple Strength Omega-3 Fish Oil Softgels $15.95 w/ S&S",
+  "url": "https://www.amazon.com/s?k=Select+Accts+120-ct+Sports+Research+Triple+Strength+Omega-3+Fish+Oil+Softgels",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 15.95,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20265624-90-count-sports-research-triple-strength-omega-3-fish-oil-softgels-17-58-w-s-s-more-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Select+Accts+120-ct+Sports+Research+Triple+Strength+Omega-3+Fish+Oil+Softgels",
+  "exact": false
+ },
+ {
+  "id": "b1aee6a5e4246e4e",
+  "title": "[WTS] ⚡ Flash Sale | LV Stellar Times, D&G Velvet Exotic Leather, Amouage Beach Hut Man, Néo Eden & Sadonaso (bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=Flash+LV+Stellar+Times+D%26G+Velvet+Exotic+Leather+Amouage+Beach+Hut+Man+N+o+Eden+",
+  "why": "",
+  "category": "fashion",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xpnfee/wts_flash_sale_lv_stellar_times_dg_velvet_exotic/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Flash+LV+Stellar+Times+D%26G+Velvet+Exotic+Leather+Amouage+Beach+Hut+Man+N+o+Eden+",
+  "exact": false
+ },
+ {
+  "id": "92213ece0a2391dc",
+  "title": "Bundle for 220 🚢",
+  "url": "https://www.google.com/search?tbm=shop&q=Bundle+for+220",
+  "why": "",
+  "category": "fashion",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xpne8f/bundle_for_220/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Bundle+for+220",
+  "exact": false
+ },
+ {
+  "id": "f4e6bbf3859448d5",
+  "title": "creed smw for trade or sell",
+  "url": "https://www.google.com/search?tbm=shop&q=creed+smw+for+trade+or+sell",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xpn9hq/creed_smw_for_trade_or_sell/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=creed+smw+for+trade+or+sell",
+  "exact": false
+ },
+ {
+  "id": "508666f3f157f637",
+  "title": "[WTS] MFK, Xerjoff, Byredo, YSL, Armani, Replica, Burberry & Jimmy Choo (Bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=MFK+Xerjoff+Byredo+YSL+Armani+Replica+Burberry+%26+Jimmy+Choo",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xpm7e2/wts_mfk_xerjoff_byredo_ysl_armani_replica/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=MFK+Xerjoff+Byredo+YSL+Armani+Replica+Burberry+%26+Jimmy+Choo",
+  "exact": false
+ },
+ {
+  "id": "018c43b32e557437",
+  "title": "[WTS] dupes.Afnan,Ahmed (Bottle)",
+  "url": "https://www.google.com/search?tbm=shop&q=dupes.Afnan+Ahmed",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xpk03i/wts_dupesafnanahmed_bottle/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=dupes.Afnan+Ahmed",
+  "exact": false
+ },
+ {
+  "id": "b4730e3b45702bd9",
+  "title": "[WTB] Rush of Unicorns or any of its flankers",
+  "url": "https://www.google.com/search?tbm=shop&q=Rush+of+Unicorns+or+any+of+its+flankers",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xpjto9/wtb_rush_of_unicorns_or_any_of_its_flankers/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Rush+of+Unicorns+or+any+of+its+flankers",
+  "exact": false
+ },
+ {
+  "id": "76f2da23261e84ed",
+  "title": "[WTS] Declutter",
+  "url": "https://www.google.com/search?tbm=shop&q=Declutter",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:58:22Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xpjlmo/wts_declutter/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Declutter",
+  "exact": false
+ },
+ {
+  "id": "56f368dc39ac7382",
+  "title": "Oakley Target Line M Goggles M... Black/Fire and Persimmon Lens - down 11.33% ($15.63) to $122.37 from $138.00",
+  "url": "https://www.amazon.com/dp/B0BRP95N63",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.63,
+  "found_at": "2026-11-06T21:58:22Z",
+  "source_url": "https://camelcamelcamel.com/product/B0BRP95N63",
+  "exact": true,
+  "similar": "https://www.target.com/s?searchTerm=Oakley+Target+Line+M+Goggles+M...+Black+Fire+and+Persimmon+Lens+-+down+11.33"
  }
 ]
