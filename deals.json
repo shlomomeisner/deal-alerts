@@ -229,7 +229,8 @@
   "price": 26.6,
   "found_at": "2026-11-05T07:15:46Z",
   "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec2d2185eb47a6be884a09e3d71a4a&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:37Z"
  },
  {
   "id": "e2206c76542ec122",
@@ -247,7 +248,8 @@
   "source_url": "https://slickdeals.net/f/20259075-90-count-qunol-advanced-omega-3-krill-fish-oil-complex-250mg-epa-dha-softgels-16-49-0-18-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=90-Count+Qunol+Advanced+Omega-3+Krill+%26+Fish+Oil+Complex+250mg+EPA+%26+DHA+Softgel",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:39Z"
  },
  {
   "id": "90097eb00c001caa",
@@ -265,7 +267,8 @@
   "source_url": "https://slickdeals.net/f/20253306-save-250-on-select-apple-watch-ultra-3-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Save",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:41Z"
  },
  {
   "id": "2d2a7fcba24b6048",
@@ -281,7 +284,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T21:52:42Z"
  },
  {
   "id": "3fb2924a5d76770a",
@@ -299,7 +303,8 @@
   "source_url": "https://slickdeals.net/f/20258646-ebay-refub-sony-linkbuds-fit-true-wireless-noise-canceling-earbuds-sage-green-39-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Sony+LinkBuds+Fit+True+Wireless+Noise+Canceling+Earbuds+-+Sage+Green",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:43Z"
  },
  {
   "id": "81a2e43d0fadf1cc",
@@ -317,7 +322,8 @@
   "source_url": "https://slickdeals.net/f/20257941-apple-airpods-pro-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Airpods%20Pro%203",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:44Z"
  },
  {
   "id": "377d61365485e76d",
@@ -335,7 +341,8 @@
   "source_url": "https://slickdeals.net/f/20252841-ymmv-in-store-target-airpods-4-w-anc-89-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Target",
   "similar": "https://www.target.com/s?searchTerm=Target+Airpods+4+w+ANC",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:46Z"
  },
  {
   "id": "fc1f7c3e427fceae",
@@ -353,7 +360,8 @@
   "source_url": "https://slickdeals.net/f/20253387-powera-advantage-wired-controller-for-nintendo-switch-2-mario-time-17-19-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=PowerA+Advantage+Wired+Controller+for+Nintendo+Switch+2",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:47Z"
  },
  {
   "id": "dd03dc1b12b0227d",
@@ -369,7 +377,8 @@
   "found_at": "2026-11-05T07:21:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T21:52:48Z"
  },
  {
   "id": "8ff3a06f8d9a5585",
@@ -386,7 +395,8 @@
   "source_url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T21:52:49Z"
  },
  {
   "id": "be74fbdaa9318aff",
@@ -26765,7 +26775,7 @@
  {
   "id": "6e8a1cbf1cc18807",
   "title": "Oakley Men's Sunglasses OO6042-03-52 - $69.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
+  "url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26777,13 +26787,12 @@
   "source_url": "https://slickdeals.net/f/15799963-oakley-men-s-sunglasses-oo6042-03-52-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Sunglasses+OO6042-03-52+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "17041a89b34f68ba",
   "title": "Ray-Ban, Oakley, & Persol Sunglasses, $48 - $222 + Free Shipping w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
+  "url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26795,13 +26804,12 @@
   "source_url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "77405fee632c279f",
   "title": "Oakley & Smith Pivlock Sunglass Collection Starting at $43.99 +FS",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
+  "url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26813,13 +26821,12 @@
   "source_url": "https://slickdeals.net/f/15405463-oakley-smith-pivlock-sunglass-collection-starting-at-43-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Smith+Pivlock+Sunglass+Collection+Starting+at",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "c9e945c8b937d285",
   "title": "Oakley Sunglasses: Men's Polarized Valve Rectangular Sunglasses $59 or less w/ 2.5% SD Cashback & More + Free S/H w/ Prime",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
+  "url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26831,13 +26838,12 @@
   "source_url": "https://slickdeals.net/f/14982944-oakley-sunglasses-men-s-polarized-valve-rectangular-sunglasses-59-or-less-w-2-5-sd-cashback-more-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Men%27s+Polarized+Valve+Rectangular+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "d72c78fb2ac550cc",
   "title": "Oakley Sunglasses: Oakley Chainlink Matte Black Sunglasses (Grey Polarized Lens) $45 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
+  "url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26849,13 +26855,12 @@
   "source_url": "https://slickdeals.net/e/13831460-oakley-sunglasses-oakley-chainlink-matte-black-sunglasses-grey-polarized-lens-45-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Chainlink+Matte+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f41bef8eb9c2fad3",
   "title": "Oakley Sunglasses: Oakley Batwolf Clear Sunglasses (Ice Iridium Lens) $47.40 & More + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
+  "url": "https://slickdeals.net/e/13238356-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-47-40-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26867,13 +26872,12 @@
   "source_url": "https://slickdeals.net/e/13238356-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-47-40-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "803875cf7ec11b32",
   "title": "Oakley Drop Point Sunglasses $59.85",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Drop+Point+Sunglasses",
+  "url": "https://slickdeals.net/e/13199182-oakley-drop-point-sunglasses-59-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26885,13 +26889,12 @@
   "source_url": "https://slickdeals.net/e/13199182-oakley-drop-point-sunglasses-59-85?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Drop+Point+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "79456a51c3ecfabc",
   "title": "Oakley Sunglasses: Oakley Batwolf Clear Sunglasses (Ice Iridium Lens) $48 & More + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
+  "url": "https://slickdeals.net/e/13062412-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-48-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26903,13 +26906,12 @@
   "source_url": "https://slickdeals.net/e/13062412-oakley-sunglasses-oakley-batwolf-clear-sunglasses-ice-iridium-lens-48-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Sunglasses+Oakley+Batwolf+Clear+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b173023aed32112c",
   "title": "Half Jacket 2.0 Sunglasses - Polished Black/PolarizedOakley $79.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Half+Jacket+2.0+Sunglasses+-+Polished+Black+PolarizedOakley",
+  "url": "https://slickdeals.net/e/12156904-half-jacket-2-0-sunglasses-polished-black-polarizedoakley-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26921,13 +26923,12 @@
   "source_url": "https://slickdeals.net/e/12156904-half-jacket-2-0-sunglasses-polished-black-polarizedoakley-79-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Half+Jacket+2.0+Sunglasses+-+Polished+Black+PolarizedOakley",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8761647c17ea4172",
   "title": "Oakley Holbrook Sunglasses $30 $20",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Holbrook+Sunglasses",
+  "url": "https://slickdeals.net/e/11712383-oakley-holbrook-sunglasses-30-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26939,13 +26940,12 @@
   "source_url": "https://slickdeals.net/e/11712383-oakley-holbrook-sunglasses-30-20?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Holbrook+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ae627494e8c15fbe",
   "title": "Active again - Oakley Scuderia Ferrari Carbon Sunglasses @ Massdrop + Free Ship $99.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Active+again+-+Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
+  "url": "https://slickdeals.net/e/11257035-active-again-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26957,13 +26957,12 @@
   "source_url": "https://slickdeals.net/e/11257035-active-again-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Active+again+-+Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0fecb54ce706377f",
   "title": "Oakley Scuderia Ferrari Carbon Sunglasses @ Massdrop + Free Ship $99.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
+  "url": "https://slickdeals.net/e/11170643-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley price drop",
@@ -26975,8 +26974,7 @@
   "source_url": "https://slickdeals.net/e/11170643-oakley-scuderia-ferrari-carbon-sunglasses-massdrop-free-ship-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Scuderia+Ferrari+Carbon+Sunglasses+Massdrop+%2B+Free+Ship",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "de099db4e0ef9385",
@@ -27179,7 +27177,7 @@
  {
   "id": "5f0bcb9c9f58aa44",
   "title": "Persol Men's Polarized & Non-Polarized Sunglasses (Various Styles) $75 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
+  "url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -27191,13 +27189,12 @@
   "source_url": "https://slickdeals.net/e/13714370-persol-men-s-polarized-non-polarized-sunglasses-various-styles-75-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Polarized+%26+Non-Polarized+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "430cac3d4fc3549b",
   "title": "Persol PO3059S Sunglasses - $80 (or less w/ $10 off for New Users) + $2.75 Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Persol+PO3059S+Sunglasses+-",
+  "url": "https://slickdeals.net/e/12992425-persol-po3059s-sunglasses-80-or-less-w-10-off-for-new-users-2-75-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -27209,13 +27206,12 @@
   "source_url": "https://slickdeals.net/e/12992425-persol-po3059s-sunglasses-80-or-less-w-10-off-for-new-users-2-75-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+PO3059S+Sunglasses+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5e1cd3136ac8635b",
   "title": "Persol Polarized Aviator Sunglasses - Jomashop $100",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
+  "url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -27227,13 +27223,12 @@
   "source_url": "https://slickdeals.net/e/11842499-persol-polarized-aviator-sunglasses-jomashop-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Persol+Polarized+Aviator+Sunglasses+-+Jomashop",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "b73ec195be552eeb",
   "title": "Prada,Persol premium brand sunglasses@$94.99+fs",
-  "url": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
+  "url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -27245,13 +27240,12 @@
   "source_url": "https://slickdeals.net/e/11654491-prada-persol-premium-brand-sunglasses-94-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+Persol+premium+brand+sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "68e4551811157e22",
   "title": "Persol Men's Icona Evolution 53mm Sunglasses $99.97",
-  "url": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Icona+Evolution+53mm+Sunglasses",
+  "url": "https://slickdeals.net/e/11644355-persol-men-s-icona-evolution-53mm-sunglasses-99-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Persol sale",
@@ -27263,8 +27257,7 @@
   "source_url": "https://slickdeals.net/e/11644355-persol-men-s-icona-evolution-53mm-sunglasses-99-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Persol+Men%27s+Icona+Evolution+53mm+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "55bcb67d9526f04a",
@@ -34315,7 +34308,9 @@
   "hot": false,
   "pct": null,
   "price": 26.6,
-  "found_at": "2026-11-06T17:52:32Z"
+  "found_at": "2026-11-06T17:52:32Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee13df991c4b7f94c2085f7d03dbf6&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
+  "exact": false
  },
  {
   "id": "16ff7e7c34839ce0",
@@ -34328,12 +34323,15 @@
   "hot": false,
   "pct": null,
   "price": 11.52,
-  "found_at": "2026-11-06T17:52:36Z"
+  "found_at": "2026-11-06T17:52:36Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "233f6648d18c8015",
   "title": "90-Count Sports Research Triple Strength Omega-3 Fish Oil Softgels $17.58 w/ S&S & More + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20265624-90-count-sports-research-triple-strength-omega-3-fish-oil-softgels-17-58-w-s-s-more-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=90-Count+Sports+Research+Triple+Strength+Omega-3+Fish+Oil+Softgels",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -34341,25 +34339,17 @@
   "hot": false,
   "pct": 30,
   "price": 17.58,
-  "found_at": "2026-11-06T17:52:36Z"
- },
- {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Web search: Omega price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-06T17:52:37Z"
+  "found_at": "2026-11-06T17:52:36Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20265624-90-count-sports-research-triple-strength-omega-3-fish-oil-softgels-17-58-w-s-s-more-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=90-Count+Sports+Research+Triple+Strength+Omega-3+Fish+Oil+Softgels",
+  "exact": false
  },
  {
   "id": "ed7f00d192fa85bf",
   "title": "B. Riley Securities maintains Alpha & Omega at Neutral, lowers price target to $22 from $25 - TradingView",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXZTSGpMUEdqSW96S1JCQlo0aUZoeUNvd1gxdnhteEJQc2VSQTdSUk5jMlN1LS10NThldTdVQjRzb0xoX0ZVSzFkRDVNVlREc2ZrQWlkR1pmNFprM2plN1V2UllZUm5OM3lIanFyRDVuUHFMaDYtX1dqbVRvc0I3RGo3QjZ1U3BYUk9kSjk2SVVDeHNJMTV0NDFQeW9YODJFY3RGX3FSSFdMOWVpbUJfQmpVSFBzbDJyLVQ2d3R4M2x5ZlB6bk9OcVBqVkRVVi1BcUJrSGgyeHFXeFU1Q1pGYQ?oc=5",
+  "url": "https://www.target.com/s?searchTerm=B.+Riley+Securities+maintains+Alpha+%26+Omega+at+Neutral+lowers+price+target+to",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -34367,12 +34357,17 @@
   "hot": false,
   "pct": null,
   "price": 22.0,
-  "found_at": "2026-11-06T17:52:37Z"
+  "found_at": "2026-11-06T17:52:37Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXZTSGpMUEdqSW96S1JCQlo0aUZoeUNvd1gxdnhteEJQc2VSQTdSUk5jMlN1LS10NThldTdVQjRzb0xoX0ZVSzFkRDVNVlREc2ZrQWlkR1pmNFprM2plN1V2UllZUm5OM3lIanFyRDVuUHFMaDYtX1dqbVRvc0I3RGo3QjZ1U3BYUk9kSjk2SVVDeHNJMTV0NDFQeW9YODJFY3RGX3FSSFdMOWVpbUJfQmpVSFBzbDJyLVQ2d3R4M2x5ZlB6bk9OcVBqVkRVVi1BcUJrSGgyeHFXeFU1Q1pGYQ?oc=5",
+  "store": "Target",
+  "similar": "https://www.target.com/s?searchTerm=B.+Riley+Securities+maintains+Alpha+%26+Omega+at+Neutral+lowers+price+target+to",
+  "exact": false
  },
  {
   "id": "3ab89c3e5b355ab6",
   "title": "Needham maintains Buy on Alpha & Omega, cuts price target to $30 - scanx.trade",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0VyVG1lQzZwbWdJY21hQ1ZqOFdQaWZaQV9vOVBaN1JUUW9pODBETE82QmhjSlN4NkdDMFVlV0tKUHkyZkhTcXhrdFM0RUpLVGpvX0JGb25uRkkxbnVTQWRiTjg1TUIzd2dJSXJWd2R3QmZNNF9XODlaQThqSE9GWXFtbm11blowYjc0c1hsS3h6ekQwUEl3MkVuSm83Qm8xSXk3S1dWcjJkSG9fVkZqcw?oc=5",
+  "url": "https://www.target.com/s?searchTerm=Needham+maintains+Buy+on+Alpha+%26+Omega+cuts+price+target+to",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -34380,6 +34375,422 @@
   "hot": false,
   "pct": null,
   "price": 30.0,
-  "found_at": "2026-11-06T17:52:37Z"
+  "found_at": "2026-11-06T17:52:37Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0VyVG1lQzZwbWdJY21hQ1ZqOFdQaWZaQV9vOVBaN1JUUW9pODBETE82QmhjSlN4NkdDMFVlV0tKUHkyZkhTcXhrdFM0RUpLVGpvX0JGb25uRkkxbnVTQWRiTjg1TUIzd2dJSXJWd2R3QmZNNF9XODlaQThqSE9GWXFtbm11blowYjc0c1hsS3h6ekQwUEl3MkVuSm83Qm8xSXk3S1dWcjJkSG9fVkZqcw?oc=5",
+  "store": "Target",
+  "similar": "https://www.target.com/s?searchTerm=Needham+maintains+Buy+on+Alpha+%26+Omega+cuts+price+target+to",
+  "exact": false
+ },
+ {
+  "id": "bd8fe7c89ac57c1f",
+  "title": "DJI Neo 2 4K Motion Fly More Combo w/ Goggles N3 & Strobe Lights $457 or Less + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+4K+Motion+Fly+More+Combo+w+Goggles+N3+%26+Strobe+Lights",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 457.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20256867-dji-neo-2-4k-motion-fly-more-combo-w-goggles-n3-strobe-lights-457-or-less-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+4K+Motion+Fly+More+Combo+w+Goggles+N3+%26+Strobe+Lights",
+  "exact": false
+ },
+ {
+  "id": "3274a36dfc202132",
+  "title": "DJI Mini 5 Pro Fly More Combo w/ DJI RC 2 & 1-Inch CMOS 4K Camera $824.50 & More + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Fly+More+Combo+w+DJI+RC+2+%26+1-Inch+CMOS+4K+Camera",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 824.5,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20256861-dji-mini-5-pro-fly-more-combo-with-dji-rc-2-and-1-inch-cmos-4k-camera-803-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Fly+More+Combo+w+DJI+RC+2+%26+1-Inch+CMOS+4K+Camera",
+  "exact": false
+ },
+ {
+  "id": "165dd3c89dcc0996",
+  "title": "$19.95 | Rokinon Lens Station for Sony E at Amazon",
+  "url": "https://slickdeals.net/f/20266116-19-95-rokinon-lens-station-for-sony-e-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.95,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "b7d37864fafa7d29",
+  "title": "Hisense 43\" Class QD6 Series Hi-QLED 4K UHD Smart Fire TV (2025) - Open Box Excellent $81.99",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Hisense+43+Class+QD6+Series+Hi-QLED+4K+UHD+Smart+Fire+TV+-+Open+Box+Excellent",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 81.99,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20268558-hisense-43-class-qd6-series-hi-qled-4k-uhd-smart-fire-tv-2025-open-box-excellent-81-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Hisense+43+Class+QD6+Series+Hi-QLED+4K+UHD+Smart+Fire+TV+-+Open+Box+Excellent",
+  "exact": false
+ },
+ {
+  "id": "438f7849659344c6",
+  "title": "Refurb Canon EOS Rebel T7 24.1MP DSLR Camera w/ 3 Lens Kit for $400 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+Canon+EOS+Rebel+T7+24.1MP+DSLR+Camera+w+3+Lens+Kit+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 400.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Refurb-Canon-EOS-Rebel-T7-24-1-MP-DSLR-Camera-w-3-Lens-Kit-for-400-free-shipping/22356038.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Canon+EOS+Rebel+T7+24.1MP+DSLR+Camera+w+3+Lens+Kit+for",
+  "exact": false
+ },
+ {
+  "id": "46f3d61864149b31",
+  "title": "Certified Refurb Bose Solo Soundbar Series II for $103 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+Solo+Soundbar+Series+II+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 103.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/products/Bose/Bose-Solo-Soundbar-Series-II/515410.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurb+Bose+Solo+Soundbar+Series+II+for",
+  "exact": false
+ },
+ {
+  "id": "77800b6af15fc66b",
+  "title": "Hisense 55QD5SR 55\" 4K UHD QLED Smart Roku TV for $180 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Hisense+55QD5SR+55+4K+UHD+QLED+Smart+Roku+TV+for",
+  "why": "",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 180.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/products/Hisense/Hisense-55-QD5-SR-55-4-K-UHD-QLED-Smart-Roku-TV/541164.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hisense+55QD5SR+55+4K+UHD+QLED+Smart+Roku+TV+for",
+  "exact": false
+ },
+ {
+  "id": "ad1c19adf22cc17d",
+  "title": "Minyee Christmas Silicone Engraved Bands for Apple Watch Band 38/40/41/42mm STARTING at $4.79 AC",
+  "url": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.79,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269077-minyee-christmas-silicone-engraved-bands-for-apple-watch-band-38-40-41-42mm-starting-at-4-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "exact": false
+ },
+ {
+  "id": "c9fcf831f7129def",
+  "title": "Minyee Christmas Silicone Engraved Bands for Apple Watch Band 38/40/41/42mm STARTING at $4.79 AC",
+  "url": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.79,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269077-minyee-christmas-silicone-engraved-bands-for-apple-watch-band-38-40-41-42mm-starting-at-4-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "exact": false
+ },
+ {
+  "id": "e7cb31652476af93",
+  "title": "Minyee Christmas Silicone Engraved Bands for Apple Watch Band 38/40/41/42mm STARTING at $4.79 AC",
+  "url": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.79,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269077-minyee-christmas-silicone-engraved-bands-for-apple-watch-band-38-40-41-42mm-starting-at-4-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "exact": false
+ },
+ {
+  "id": "c4b818af62fe61cf",
+  "title": "Best early Black Friday Apple deals: HomeView, MacBook Air $250 off, Apple Watch Ultra $250 off, AirPods, more",
+  "url": "https://link.amazon/B07GrYbXR",
+  "why": "Iphone — all-time low",
+  "category": "tech",
+  "source": "9to5Toys",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 250.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://9to5toys.com/2026/11/06/best-early-black-friday-apple-deals/",
+  "store": "Link",
+  "similar": "https://link.amazon/B07GrYbXR",
+  "exact": false
+ },
+ {
+  "id": "5f86adec6937ad16",
+  "title": "Korean Air: New York – Singapore. $872. Roundtrip, including all Taxes",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDRqBRIDTllDcgUSA1NJThoaEgoyMDI3LTAyLTExagUSA1NJTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "The Flight Deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 872.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "window": "February 4th – 11th, 2027",
+  "depart": "2027-02-04",
+  "return": "2027-02-11",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://www.theflightdeal.com/2026/11/06/korean-air-new-york-singapore-872-roundtrip-including-all-taxes/",
+  "fcode": [
+   "NYC",
+   "SIN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SIN&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "259ee7350a87cfa3",
+  "title": "MOSISO 16-inch MacBook Pro case kit for $7.49 (50% off)",
+  "url": "https://www.amazon.com/s?k=MOSISO+16-inch+MacBook+Pro+case+kit+for",
+  "why": "Macbook — 50% off",
+  "category": "tech",
+  "source": "Slickdeals: Macbook",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 7.49,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20268378-mosiso-16-inch-macbook-pro-case-kit-for-7-49-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=MOSISO+16-inch+MacBook+Pro+case+kit+for",
+  "exact": false
+ },
+ {
+  "id": "b03eeabcc862d0d8",
+  "title": "Minyee Christmas Silicone Engraved Bands for Apple Watch Band 38/40/41/42mm STARTING at $4.79 AC",
+  "url": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.79,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269077-minyee-christmas-silicone-engraved-bands-for-apple-watch-band-38-40-41-42mm-starting-at-4-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "exact": false
+ },
+ {
+  "id": "276761f325512a98",
+  "title": "Samsung 55-Inch Class S90H Series, OLED, 4K, Smart TV, 2026 Model $1,197.99",
+  "url": "https://www.amazon.com/s?k=Samsung+55-Inch+Class+S90H+Series+OLED+4K+Smart+TV+2026+Model",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Oled Tv",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1197.99,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20268435-samsung-55-inch-class-s90h-series-oled-4k-smart-tv-2026-model-1-197-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Samsung+55-Inch+Class+S90H+Series+OLED+4K+Smart+TV+2026+Model",
+  "exact": false
+ },
+ {
+  "id": "9814aaba22a4a949",
+  "title": "Minyee Christmas Silicone Engraved Bands for Apple Watch Band 38/40/41/42mm STARTING at $4.79 AC",
+  "url": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Ultra",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.79,
+  "found_at": "2026-11-06T21:49:28Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269077-minyee-christmas-silicone-engraved-bands-for-apple-watch-band-38-40-41-42mm-starting-at-4-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Minyee+Christmas+Silicone+Engraved+Bands+for+Apple+Watch+Band+38+40+41+42mm+STAR",
+  "exact": false
+ },
+ {
+  "id": "874447ff9c732248",
+  "title": "MyFlyYatra Makes New York to Europe Business Class Travel More Affordable with Exclusive Flight Deals - ACCESS Newswire",
+  "url": "https://www.google.com/travel/flights?q=Flights%20MyFlyYatra%20Makes%20New%20York%20to%20Europe%20Business%20Class%20Travel%20More%20Affordable%20with%20Exclusive%20Flight%20Deals%20-%20ACCESS%20Newswire",
+  "why": "premium cabin from NEW YORK",
+  "category": "flights",
+  "source": "Google: business class deal NYC",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-06T21:49:28Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3NqMy15bTVvbnliX2lzbUNmUGJ5QzJ1ZHg3bUIxMkpFcDlScXlBaWgxeGZBc1ZWSmkxQmx6QVplYml1UmFsbFdkdTUyVFVfenRMSW9aVFVNeTRhekhmWFZkRUE1THRkYjAzMTZ4eDJOQjZ3S3Q5Y29mdXduTnh1OGRYQ0FYcWwxZldFZjNDdWZ5VkNZb1U4d21wbmV6dC11WjFaaDFjdVJneFJ5STRvbnVmSFY4bFhtaHpzaWtXbE9Bd3VkYlNTS1JBOHQydFZyN3RJbGwzRUdpdjNvNkdDLXpEVEw?oc=5",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20MyFlyYatra%20Makes%20New%20York%20to%20Europe%20Business%20Class%20Travel%20More%20Affordable%20with%20Exclusive%20Flight%20Deals%20-%20ACCESS%20Newswire",
+  "route_fixed2": true
+ },
+ {
+  "id": "454db073569223c7",
+  "title": "Delta: New York – Nairobi, Kenya. $830. Roundtrip, including all Taxes - The Flight Deal",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDNqBRIDTllDcgUSA05CTxoaEgoyMDI2LTEyLTEwagUSA05CT3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "Google: Flight Deal NYC",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 830.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "dates_tried3": true,
+  "depart": "2026-12-03",
+  "return": "2026-12-10",
+  "window": "December 3rd – 10th",
+  "route_fixed2": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1otR3BqUDZwZ09Rejl0aGsydWl2dzRXRUhhc1VYSWM0YXNqMTc2Z19KcjJkN3REWUVXb3Q5NFFIVFhNUkNZRE5HbHJLdng3djd5eHJuUVNCZWxGZG1uMzZfMGU5MGUtMVNJMGtQODBYc1kxOFlhQk5qSTQwYkZXYjNaN2ZZNnpNVHBGTDBXRFFmZkJiS0RIZGN2eXFpQTRKbmZ6aUI0VDE3dw?oc=5",
+  "fcode": [
+   "NYC",
+   "NBO"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NBO&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "ed90ea6e952e28f6",
+  "title": "Round Trip New York to Cancun Mexico $337 Nonstop Airfares on JetBlue BE (Travel December - February 2027)",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDFqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTA0agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "🌴 NEW YORK → Cancun",
+  "category": "flights",
+  "source": "Slickdeals: flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 337.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "window": "December - February 2027) - 2026-11-06",
+  "depart": "2027-01-01",
+  "return": "2027-01-04",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269053-round-trip-new-york-to-cancun-mexico-337-nonstop-airfares-on-jetblue-be-travel-december-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "fcode": [
+   "NYC",
+   "CUN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "2df849b71a7c1abb",
+  "title": "Round Trip New York to Cancun Mexico $337 Nonstop Airfares on JetBlue BE (Travel December - February 2027)",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDFqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTA0agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "🌴 NEW YORK → Cancun",
+  "category": "flights",
+  "source": "Slickdeals: airfare",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 337.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "window": "December - February 2027) - 2026-11-06",
+  "depart": "2027-01-01",
+  "return": "2027-01-04",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269053-round-trip-new-york-to-cancun-mexico-337-nonstop-airfares-on-jetblue-be-travel-december-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "fcode": [
+   "NYC",
+   "CUN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "0191738ae139fb1e",
+  "title": "Round Trip New York to Cancun Mexico $337 Nonstop Airfares on JetBlue BE (Travel December - February 2027)",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDFqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTA0agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "🌴 NEW YORK → Cancun",
+  "category": "flights",
+  "source": "Slickdeals: JetBlue",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 337.0,
+  "found_at": "2026-11-06T21:49:28Z",
+  "window": "December - February 2027) - 2026-11-06",
+  "depart": "2027-01-01",
+  "return": "2027-01-04",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269053-round-trip-new-york-to-cancun-mexico-337-nonstop-airfares-on-jetblue-be-travel-december-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "fcode": [
+   "NYC",
+   "CUN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
  }
 ]
