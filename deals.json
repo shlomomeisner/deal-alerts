@@ -1,364 +1,5 @@
 [
  {
-  "id": "5d91f1ceaf2df413",
-  "title": "jetBlue: New York – Montego Bay, Jamaica. $327 (Basic Economy) / $377 (Regular Economy). Roundtrip, including all Taxes – The Flight Deal - The Flight Deal",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVBLVkFkaXdsVXhnM191VkpSZ0NPWDVhY2lzdHg1MnpQNnlMcUdWNE91T2JVZEliOEVPSEhSMzVTNWFxSXJBUVVCT3EzVDNaX1ozVXNnMW9iZlp4VlJ5ZGFYU21lZTdSMWVuMFcyVWNkR1BkTlpOazFaTkp3UmVCbi1GUFVyNzBab1BjMjJ3dGM0bHF2ckRSOTRtR0ZfQXNqTTdaQ3B3NUxFNXNfckF0ZnVLdWtQMEtGRy1XSFRmd19wNHBLUFFCZWNTcGR3NU93WjRyNC15bFBPblNYVE1zdWpB?oc=5",
-  "why": "🌴 NEW YORK → Jamaica",
-  "category": "flights",
-  "source": "Google: Flight Deal NYC",
-  "urgent": false,
-  "hot": true,
-  "pct": null,
-  "price": 327.0,
-  "found_at": "2026-11-04T22:49:39Z",
-  "dates_tried3": true,
-  "depart": "2027-01-21",
-  "return": "2027-01-26",
-  "window": "January 21st – 26th, 2027",
-  "route_fixed2": true,
-  "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVBLVkFkaXdsVXhnM191VkpSZ0NPWDVhY2lzdHg1MnpQNnlMcUdWNE91T2JVZEliOEVPSEhSMzVTNWFxSXJBUVVCT3EzVDNaX1ozVXNnMW9iZlp4VlJ5ZGFYU21lZTdSMWVuMFcyVWNkR1BkTlpOazFaTkp3UmVCbi1GUFVyNzBab1BjMjJ3dGM0bHF2ckRSOTRtR0ZfQXNqTTdaQ3B3NUxFNXNfckF0ZnVLdWtQMEtGRy1XSFRmd19wNHBLUFFCZWNTcGR3NU93WjRyNC15bFBPblNYVE1zdWpB?oc=5",
-  "fcode": [
-   "NYC",
-   "MBJ"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-05T23:30:18Z"
- },
- {
-  "id": "8fcd7dbab18fafd3",
-  "title": "NYXI Hyperion 3 Wireless Controller for Nintendo Switch 2 - $34.65 @ AliExpress",
-  "url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Nintendo Switch 2 deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 34.65,
-  "found_at": "2026-11-04T22:53:11Z",
-  "source_url": "https://slickdeals.net/f/20246619-nyxi-hyperion-3-wireless-controller-for-nintendo-switch-2-34-65-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=NYXI+Hyperion+3+Wireless+Controller+for+Nintendo+Switch+2+-",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:20Z"
- },
- {
-  "id": "b1eb156efb36c702",
-  "title": "Logitech G Astro A50 Multi-Platform Wireless Gaming Headset - Black | For PS5, Xbox, PC, Switch - PLAYSYNC Audio Switcher, <16 bit/48kHz (Console), <24 bit/48 kHz (PC), for $198",
-  "url": "https://www.amazon.com/s?k=Logitech+G+Astro+A50+Multi-Platform+Wireless+Gaming+Headset+-+Black+For+PS5+Xbox",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals Popular",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 198.0,
-  "found_at": "2026-11-04T22:58:23Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20243130-logitech-g-astro-a50-multi-platform-wireless-gaming-headset-black-for-ps5-xbox-pc-switch-playsync-audio-switcher-16-bit-48khz-console-24-bit-48-khz-pc-for-198?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=Logitech+G+Astro+A50+Multi-Platform+Wireless+Gaming+Headset+-+Black+For+PS5+Xbox",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:21Z"
- },
- {
-  "id": "c28890b9243354dc",
-  "title": "Off-White Out of Office High Top Sneaker in White/Black at Nordstrom, Size 6Us $271.25",
-  "url": "https://www.nordstrom.com/sr?keyword=Off-White+Out+of+Office+High+Top+Sneaker+in+White+Black",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Nordstrom Designer",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 271.25,
-  "found_at": "2026-11-04T22:58:23Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/17551044-off-white-out-of-office-high-top-sneaker-in-white-black-at-nordstrom-size-6us-271-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Nordstrom",
-  "similar": "https://www.nordstrom.com/sr?keyword=Off-White+Out+of+Office+High+Top+Sneaker+in+White+Black",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:22Z"
- },
- {
-  "id": "0265ede5066f06e7",
-  "title": "Balenciaga Patched Mixed Media Long Sleeve Cotton T-Shirt Dress in Black at Nordstrom, Size 2 $780 + Free Shipping",
-  "url": "https://www.nordstrom.com/sr?keyword=Balenciaga+Patched+Mixed+Media+Long+Sleeve+Cotton+T-Shirt+Dress+in+Black",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Nordstrom Designer",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 780.0,
-  "found_at": "2026-11-04T22:58:23Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/17527008-balenciaga-patched-mixed-media-long-sleeve-cotton-t-shirt-dress-in-black-at-nordstrom-size-2-780-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Nordstrom",
-  "similar": "https://www.nordstrom.com/sr?keyword=Balenciaga+Patched+Mixed+Media+Long+Sleeve+Cotton+T-Shirt+Dress+in+Black",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:24Z"
- },
- {
-  "id": "e7fb0128dd31b861",
-  "title": "Sony BRAVIA Theater Bar 6 3.1.2ch Home Theater Soundbar with Wireless Sub | Dual up-firing speakers, Dolby Atmos & DTS:X Surround Sound $548",
-  "url": "https://www.amazon.com/s?k=Sony+BRAVIA+Theater+Bar+6+3.1.2ch+Home+Theater+Soundbar+with+Wireless+Sub+Dual+u",
-  "why": "",
-  "category": "amazon",
-  "source": "Slickdeals: Amazon",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 548.0,
-  "found_at": "2026-11-04T22:58:23Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20257239-sony-bravia-theater-bar-6-3-1-2ch-home-theater-soundbar-with-wireless-sub-dual-up-firing-speakers-dolby-atmos-dts-x-surround-sound-548?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=Sony+BRAVIA+Theater+Bar+6+3.1.2ch+Home+Theater+Soundbar+with+Wireless+Sub+Dual+u",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:26Z"
- },
- {
-  "id": "0667e26c90f4b18b",
-  "title": "Sony BRAVIA Theater Bar 6 3.1.2ch Home Theater Soundbar with Wireless Sub | Dual up-firing speakers, Dolby Atmos & DTS:X Surround Sound $548",
-  "url": "https://www.amazon.com/s?k=Sony+BRAVIA+Theater+Bar+6+3.1.2ch+Home+Theater+Soundbar+with+Wireless+Sub+Dual+u",
-  "why": "",
-  "category": "amazon",
-  "source": "Slickdeals: Sony Bravia",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 548.0,
-  "found_at": "2026-11-04T22:58:23Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20257239-sony-bravia-theater-bar-6-3-1-2ch-home-theater-soundbar-with-wireless-sub-dual-up-firing-speakers-dolby-atmos-dts-x-surround-sound-548?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=Sony+BRAVIA+Theater+Bar+6+3.1.2ch+Home+Theater+Soundbar+with+Wireless+Sub+Dual+u",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:27Z"
- },
- {
-  "id": "16965c78d33adea4",
-  "title": "DJI Osmo Mobile SE Smartphone Gimbal $29",
-  "url": "https://slickdeals.net/f/20257032-dji-osmo-mobile-se-smartphone-gimbal-29?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 29.0,
-  "found_at": "2026-11-04T23:01:58Z",
-  "source_url": "https://slickdeals.net/f/20257032-dji-osmo-mobile-se-smartphone-gimbal-29?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Mobile+SE+Smartphone+Gimbal",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:28Z"
- },
- {
-  "id": "ae7631e803ff647e",
-  "title": "DJI Osmo Pocket 3 Creator Combo with 1-Inch CMOS and 4K/120fps Video $396 + Free Shipping",
-  "url": "https://slickdeals.net/f/20256870-dji-osmo-pocket-3-creator-combo-with-1-inch-cmos-and-4k-120fps-video-396-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 396.0,
-  "found_at": "2026-11-04T23:01:58Z",
-  "source_url": "https://slickdeals.net/f/20256870-dji-osmo-pocket-3-creator-combo-with-1-inch-cmos-and-4k-120fps-video-396-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+Creator+Combo+with+1-Inch+CMOS+and+4K+120fps+Video",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:29Z"
- },
- {
-  "id": "c9861efb10d7d0c7",
-  "title": "DJI Neo 2 4K Motion Fly More Combo with Goggles N3 and Motion Controller Strobe Light $455 + Free Shipping",
-  "url": "https://slickdeals.net/f/20256867-dji-neo-2-4k-motion-fly-more-combo-with-goggles-n3-and-motion-controller-strobe-light-455-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 455.0,
-  "found_at": "2026-11-04T23:01:58Z",
-  "source_url": "https://slickdeals.net/f/20256867-dji-neo-2-4k-motion-fly-more-combo-with-goggles-n3-and-motion-controller-strobe-light-455-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+4K+Motion+Fly+More+Combo+with+Goggles+N3+and+Motion+Controller+Strobe+",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:30Z"
- },
- {
-  "id": "c47ae094ae004bde",
-  "title": "DJI Mini 5 Pro Fly More Combo with DJI RC 2 and 1-Inch CMOS 4K Camera $803 + Free Shipping",
-  "url": "https://slickdeals.net/f/20256861-dji-mini-5-pro-fly-more-combo-with-dji-rc-2-and-1-inch-cmos-4k-camera-803-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 803.0,
-  "found_at": "2026-11-04T23:01:58Z",
-  "source_url": "https://slickdeals.net/f/20256861-dji-mini-5-pro-fly-more-combo-with-dji-rc-2-and-1-inch-cmos-4k-camera-803-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Fly+More+Combo+with+DJI+RC+2+and+1-Inch+CMOS+4K+Camera",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:32Z"
- },
- {
-  "id": "85ec5b0d9086c2fa",
-  "title": "Ulanzi LM18 Magnetic Mini LED Video Light for DJI Osmo Action Camera 4/5/3 Action Camera $9.59",
-  "url": "https://www.amazon.com/s?k=Ulanzi+LM18+Magnetic+Mini+LED+Video+Light+for+DJI+Osmo+Action+Camera+4+5+3+Actio",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: DJI deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 9.59,
-  "found_at": "2026-11-04T23:01:58Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20256840-ulanzi-lm18-magnetic-mini-led-video-light-for-dji-osmo-action-camera-4-5-3-action-camera-9-59?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=Ulanzi+LM18+Magnetic+Mini+LED+Video+Light+for+DJI+Osmo+Action+Camera+4+5+3+Actio",
-  "exact": false,
-  "checked_at": "2026-11-05T23:30:33Z"
- },
- {
-  "id": "1f0df22d248af86c",
-  "title": "Garmin Venu® 3S, Premium Fitness Smartwatch, 41mm, French Gray | Body Battery™ Energy Monitoring, Sleep Coach $299",
-  "url": "https://www.amazon.com/s?k=Garmin+Venu+3S+Premium+Fitness+Smartwatch+41mm+French+Gray+Body+Battery+Energy+M",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Amazon",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 299.0,
-  "found_at": "2026-11-04T23:07:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20257257-garmin-venu-3s-premium-fitness-smartwatch-41mm-french-gray-body-battery-energy-monitoring-sleep-coach-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=Garmin+Venu+3S+Premium+Fitness+Smartwatch+41mm+French+Gray+Body+Battery+Energy+M",
-  "exact": false,
-  "checked_at": "2026-11-05T23:38:26Z"
- },
- {
-  "id": "e3b93caa05fe27f0",
-  "title": "COLONIA PURA BY ACQUA DI PARMA...L/ 6.0 OZ EAU DE COLOGNE SPRAY - down 9.25% ($10.64) to $104.36 from $115.00",
-  "url": "https://www.amazon.com/dp/B075JM6RKM",
-  "why": "",
-  "category": "fragrance",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 10.64,
-  "found_at": "2026-11-04T23:07:13Z",
-  "source_url": "https://camelcamelcamel.com/product/B075JM6RKM",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=COLONIA+PURA+BY+ACQUA+DI+PARMA...L+6.0+OZ+EAU+DE+COLOGNE+SPRAY+-+down+9.25",
-  "checked_at": "2026-11-05T23:38:26Z"
- },
- {
-  "id": "11d69ac142b7e306",
-  "title": "Garmin Venu® 3S, Premium Fitness Smartwatch, 41mm, French Gray | Body Battery™ Energy Monitoring, Sleep Coach $299",
-  "url": "https://www.amazon.com/s?k=Garmin+Venu+3S+Premium+Fitness+Smartwatch+41mm+French+Gray+Body+Battery+Energy+M",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Garmin",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 299.0,
-  "found_at": "2026-11-04T23:07:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20257257-garmin-venu-3s-premium-fitness-smartwatch-41mm-french-gray-body-battery-energy-monitoring-sleep-coach-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Amazon",
-  "similar": "https://www.amazon.com/s?k=Garmin+Venu+3S+Premium+Fitness+Smartwatch+41mm+French+Gray+Body+Battery+Energy+M",
-  "exact": false,
-  "checked_at": "2026-11-05T23:38:27Z"
- },
- {
-  "id": "9467f72f5aad1d1d",
-  "title": "Patagonia Men's Re-Tool High-Pile Fleece Jacket $99.49 + Free Shipping w/ REI Membership",
-  "url": "https://www.rei.com/search?q=Patagonia+Men%27s+Re-Tool+High-Pile+Fleece+Jacket",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Patagonia",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 99.49,
-  "found_at": "2026-11-04T23:07:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20233035-patagonia-men-s-re-tool-high-pile-fleece-jacket-99-49-free-shipping-w-rei-membership?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Rei",
-  "similar": "https://www.rei.com/search?q=Patagonia+Men%27s+Re-Tool+High-Pile+Fleece+Jacket",
-  "exact": false,
-  "checked_at": "2026-11-05T23:38:29Z"
- },
- {
-  "id": "eb319404536f7672",
-  "title": "Patagonia Men's Snowdrifter Jacket (Molasses Brown) $169.99 + Free Shipping",
-  "url": "https://www.rei.com/search?q=Patagonia+Men%27s+Snowdrifter+Jacket",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Patagonia",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 169.99,
-  "found_at": "2026-11-04T23:07:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20226483-patagonia-men-s-snowdrifter-jacket-molasses-brown-169-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Rei",
-  "similar": "https://www.rei.com/search?q=Patagonia+Men%27s+Snowdrifter+Jacket",
-  "exact": false,
-  "checked_at": "2026-11-05T23:38:30Z"
- },
- {
-  "id": "21b62d88555b343d",
-  "title": "Patagonia Down Sweater for $231.20 or Down Sweater Hoody for $276.00 at Sports Basement",
-  "url": "https://slickdeals.net/f/20194731-patagonia-down-sweater-for-231-20-or-down-sweater-hoody-for-276-00-at-sports-basement?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Patagonia",
-  "urgent": false,
-  "hot": false,
-  "pct": 20,
-  "price": 231.2,
-  "found_at": "2026-11-04T23:07:13Z",
-  "source_url": "https://slickdeals.net/f/20194731-patagonia-down-sweater-for-231-20-or-down-sweater-hoody-for-276-00-at-sports-basement?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=Patagonia+Down+Sweater+for",
-  "exact": false,
-  "checked_at": "2026-11-05T23:38:32Z"
- },
- {
-  "id": "9cc8bd9a4b9f2d46",
-  "title": "32L Patagonia Fieldsmith Roll-Top Pack Backpack (Thermal Blue) $73.73 + Free Shipping $100+",
-  "url": "https://slickdeals.net/f/20164821-32l-patagonia-fieldsmith-roll-top-pack-backpack-thermal-blue-73-73-free-shipping-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Slickdeals: Patagonia",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 73.73,
-  "found_at": "2026-11-04T23:07:13Z",
-  "source_url": "https://slickdeals.net/f/20164821-32l-patagonia-fieldsmith-roll-top-pack-backpack-thermal-blue-73-73-free-shipping-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=32L+Patagonia+Fieldsmith+Roll-Top+Pack+Backpack",
-  "exact": false,
-  "checked_at": "2026-11-05T23:38:33Z"
- },
- {
   "id": "d88ea13f3f4e0442",
   "title": "Patagonia Men's Strataspire Uprisal Hoodie (2 Colors) $47.99 + Free Shipping $75+",
   "url": "https://slickdeals.net/f/20164542-patagonia-men-s-strataspire-uprisal-hoodie-2-colors-47-99-free-shipping-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -2118,7 +1759,8 @@
   "found_at": "2026-11-05T00:19:25Z",
   "source_url": "https://camelcamelcamel.com/product/B01HIR13US",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Creed+What+Christians+Believe+and+Why+-+down+13.31"
+  "similar": "https://www.google.com/search?tbm=shop&q=Creed+What+Christians+Believe+and+Why+-+down+13.31",
+  "checked_at": "2026-11-06T03:08:50Z"
  },
  {
   "id": "3e86341293d124b9",
@@ -2136,7 +1778,8 @@
   "source_url": "https://slickdeals.net/f/20252097-toveen-trendy-photochromic-multifocal-reading-glasses-black-green-blue-1-5-16-49-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=TOVEEN+Trendy+Photochromic+Multifocal+Reading+Glasses+Black+Green+Blue+%2B1.5",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:08:52Z"
  },
  {
   "id": "8edbbf4f17f93267",
@@ -2154,7 +1797,8 @@
   "source_url": "https://slickdeals.net/f/20257482-open-box-4-pack-apple-airtag-location-tracker-silver-white-mx542am-a-62-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+4+Pack+Apple+AirTag+Location+Tracker+Silver+White+MX542AM+A",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:08:53Z"
  },
  {
   "id": "49f13273ebda294a",
@@ -2172,7 +1816,8 @@
   "source_url": "https://www.dealnews.com/Apple-Ear-Pods-w-3-5-mm-Plug-for-15-free-shipping/22347160.html?iref=rss",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20EarPods%20w%203.5mm%20Plug%20for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:08:54Z"
  },
  {
   "id": "0222f7e6310ca67e",
@@ -2190,7 +1835,8 @@
   "source_url": "https://slickdeals.net/f/20252214-refurbished-citizen-men-s-chronograph-date-window-silver-eco-drive-watch-43mm-ca4600-89a-222-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Chronograph+Date+Window+Silver+Eco-Drive+Watch+43MM+CA",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:08:55Z"
  },
  {
   "id": "3d7ce439ec260828",
@@ -2208,7 +1854,8 @@
   "source_url": "https://slickdeals.net/f/20252172-refurbished-citizen-men-s-tsuyosa-calendar-automatic-yellow-watch-40mm-nj0150-56z-180-99-at-officialwatchdeals-via-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men%27s+Tsuyosa+Calendar+Automatic+Yellow+Watch+40MM+NJ0150-56",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:08:56Z"
  },
  {
   "id": "f1bb3e39567234b7",
@@ -2226,7 +1873,8 @@
   "source_url": "https://slickdeals.net/f/20252121-refurbished-citizen-men-s-sport-luxury-day-date-eco-drive-titanium-watch-39-mm-aw0130-85x-231-at-officialwatchdeals-via-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=REFURBISHED+Citizen+Men+%27s+Sport+Luxury+Day+Date+Eco-Drive+Titanium+Watch+39+MM+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:08:57Z"
  },
  {
   "id": "0ead3f25b95ce9b1",
@@ -2244,7 +1892,8 @@
   "source_url": "https://slickdeals.net/f/20094486-yves-saint-laurent-y-l-elixir-concentr-2-oz-parfum-spray-for-men-100-68-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Yves+Saint+Laurent+Y+L%27Elixir+Concentr+2-Oz+Parfum+Spray+for+Men",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:08:59Z"
  },
  {
   "id": "6f30ff9b01ece394",
@@ -2261,7 +1910,8 @@
   "source_url": "https://slickdeals.net/f/20084511-men-s-3-3oz-0-34oz-yves-saint-laurent-y-edp-fragrance-travel-gift-set-99-75-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Men%27s+3.3oz+%2B+0.34oz.+Yves+Saint+Laurent+Y+EDP+Fragrance+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:09:02Z"
  },
  {
   "id": "339694c5278b2076",
@@ -2278,7 +1928,8 @@
   "source_url": "https://slickdeals.net/f/19972869-mon-paris-eau-de-parfum-3-piece-gift-set-207-value-129-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Mon+Paris+Eau+de+Parfum+3-Piece+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:09:03Z"
  },
  {
   "id": "6b1fe69044db4e3a",
@@ -2296,7 +1947,8 @@
   "source_url": "https://slickdeals.net/f/19939128-yves-saint-laurent-libre-l-eau-nue-alcohol-free-perfume-with-green-mandarin-bergamot-1-7-oz-50-ml-parfum-spray-77-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Sephora",
   "similar": "https://www.sephora.com/search?keyword=Yves+Saint+Laurent+Libre+L%27eau+Nue+Alcohol-free+perfume+with+Green+Mandarin+%26+Be",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:09:05Z"
  },
  {
   "id": "96b2aa244740fa2f",
@@ -2313,7 +1965,8 @@
   "source_url": "https://slickdeals.net/f/19908648-3-piece-juicy-couture-just-moi-amber-vanilla-eau-de-parfum-gift-set-57-74-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3-Piece+Juicy+Couture+Just+Moi+Amber+Vanilla+Eau+de+Parfum+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:09:07Z"
  },
  {
   "id": "f63839b8ba692bac",
@@ -2330,7 +1983,8 @@
   "source_url": "https://slickdeals.net/f/19883823-3-4-oz-yves-saint-laurent-ysl-myslf-eau-de-parfum-spray-for-men-60-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Yves+Saint+Laurent+YSL+Myslf+Eau+de+Parfum+Spray+for+Men",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:09:09Z"
  },
  {
   "id": "7621d27e9d0a325c",
@@ -2348,7 +2002,8 @@
   "source_url": "https://slickdeals.net/f/19805403-sam-s-club-men-s-cologne-3-4-oz-prada-luna-rossa-black-eau-de-parfum-68-80-more-f-s-50-plus-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsclub",
   "similar": "https://www.samsclub.com/s/Sam%27s%20Club%20Men%27s%20Cologne%203.4-oz%20Prada%20Luna%20Rossa%20Black%20Eau%20De%20Parfum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-06T03:09:11Z"
  },
  {
   "id": "94f3ee2a1a7271fb",
@@ -2364,7 +2019,8 @@
   "found_at": "2026-11-05T00:46:39Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-06T03:09:13Z"
  },
  {
   "id": "b3bb82ca8808ad30",
@@ -27607,7 +27263,7 @@
  {
   "id": "017d8ab365a4085a",
   "title": "68% off Loro Piana Maglia Inglese Cashmere Beanie - $1147.47",
-  "url": "https://slickdeals.net/f/17038360-68-off-loro-piana-maglia-inglese-cashmere-beanie-1147-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=68+off+Loro+Piana+Maglia+Inglese+Cashmere+Beanie+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Loro Piana sale",
@@ -27619,12 +27275,13 @@
   "source_url": "https://slickdeals.net/f/17038360-68-off-loro-piana-maglia-inglese-cashmere-beanie-1147-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=68+off+Loro+Piana+Maglia+Inglese+Cashmere+Beanie+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5864593803c1278f",
   "title": "DJI Neo 2 Motion Fly More Combo w/ RC Motion 3 & Goggles N3 $464.50 or less + Free S&H",
-  "url": "https://slickdeals.net/f/20255661-dji-neo-2-motion-fly-more-combo-with-goggles-n3-455-420-w-paypal?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+Motion+Fly+More+Combo+w+RC+Motion+3+%26+Goggles+N3",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -27636,12 +27293,13 @@
   "source_url": "https://slickdeals.net/f/20255661-dji-neo-2-motion-fly-more-combo-with-goggles-n3-455-420-w-paypal?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+Motion+Fly+More+Combo+w+RC+Motion+3+%26+Goggles+N3",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a6d6ccb6c9de835b",
   "title": "ASUS Zenbook 14: 14\" OLED, AMD Ryzen AI 7 445, 32GB LPDDR5, 1TB SSD UM3406 Laptop -$999.99",
-  "url": "https://slickdeals.net/f/20262252-asus-zenbook-14-14-oled-amd-ryzen-ai-7-445-32gb-lpddr5-1tb-ssd-um3406-laptop-999-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=ASUS+Zenbook+14+14+OLED+AMD+Ryzen+AI+7+445+32GB+LPDDR5+1TB+SSD+UM3406+Laptop+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -27653,7 +27311,8 @@
   "source_url": "https://slickdeals.net/f/20262252-asus-zenbook-14-14-oled-amd-ryzen-ai-7-445-32gb-lpddr5-1tb-ssd-um3406-laptop-999-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=ASUS+Zenbook+14+14+OLED+AMD+Ryzen+AI+7+445+32GB+LPDDR5+1TB+SSD+UM3406+Laptop+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "92558eed5b2c9ce6",
@@ -27676,7 +27335,7 @@
  {
   "id": "f567d0bda300ce98",
   "title": "Refurb: DJI Osmo Nano 128GB Action Camera Combo with 1/1.3-Inch Sensor and 4K/60fps Video $141.2 + Free Shipping",
-  "url": "https://slickdeals.net/f/20261451-refurb-dji-osmo-nano-128gb-action-camera-combo-with-1-1-3-inch-sensor-and-4k-60fps-video-141-2-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Nano+128GB+Action+Camera+Combo+with+1+1.3-Inch+Sensor+and+4K+60f",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -27688,7 +27347,8 @@
   "source_url": "https://slickdeals.net/f/20261451-refurb-dji-osmo-nano-128gb-action-camera-combo-with-1-1-3-inch-sensor-and-4k-60fps-video-141-2-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+DJI+Osmo+Nano+128GB+Action+Camera+Combo+with+1+1.3-Inch+Sensor+and+4K+60f",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a14ce4fc692184ae",
@@ -27763,7 +27423,7 @@
  {
   "id": "c1731546d66a4073",
   "title": "Christian Louboutin Women's Fifi 100 Pumps (various) $375 & More + Free Shipping",
-  "url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27775,12 +27435,13 @@
   "source_url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3b09a10dad338139",
   "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
-  "url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27792,12 +27453,13 @@
   "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d92e4bb554b19a86",
   "title": "Christian Louboutin Palais Royal Peep Toe Platform Pumps (various colors) $450 & More + Free S/H",
-  "url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27809,12 +27471,13 @@
   "source_url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dcb15ec738a4e6e9",
   "title": "Christian Louboutin Fifi pumps (various) - $359.99 (AC)",
-  "url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27826,12 +27489,13 @@
   "source_url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e69c9d1888824553",
   "title": "Christian Louboutin Pumps Leather Fifi Pumps (Pink) $345 + Free S/H",
-  "url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27843,12 +27507,13 @@
   "source_url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d20ef466dd6fb8e9",
   "title": "Christian Louboutin Pumps: Leather Fifi Pumps $360, Leather Pigalle Pumps $387 + free shipping",
-  "url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27860,12 +27525,13 @@
   "source_url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "01bb67bf95794c00",
   "title": "Christian Louboutin Fifi Leather Pumps (Various) $385 + Free Shipping",
-  "url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27877,12 +27543,13 @@
   "source_url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "06bc1cdb25bf3453",
   "title": "Christian Louboutins on sale again 👠 👠 $395",
-  "url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutins+on+again",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27894,12 +27561,13 @@
   "source_url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutins+on+again",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3a54c04ab5c156f6",
   "title": "Century 21 Christian Louboutin Palais Peep Toe Platform Pumps $449.99, Pigalle Pointed Toe Pumps $429.99 & More+ Free S/H",
-  "url": "https://slickdeals.net/e/12300319-century-21-christian-louboutin-palais-peep-toe-platform-pumps-449-99-pigalle-pointed-toe-pumps-429-99-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27911,12 +27579,13 @@
   "source_url": "https://slickdeals.net/e/12300319-century-21-christian-louboutin-palais-peep-toe-platform-pumps-449-99-pigalle-pointed-toe-pumps-429-99-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0237ab11b41a4676",
   "title": "Century 21 Christian Louboutin Palais Peep Toe Platform Pumps $429.99 (various colors) & More+ Free S/H",
-  "url": "https://slickdeals.net/e/12160363-century-21-christian-louboutin-palais-peep-toe-platform-pumps-429-99-various-colors-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -27928,7 +27597,8 @@
   "source_url": "https://slickdeals.net/e/12160363-century-21-christian-louboutin-palais-peep-toe-platform-pumps-429-99-various-colors-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "df36a46bfa8ecbb9",
@@ -28031,7 +27701,7 @@
  {
   "id": "6b1a06d794da5015",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -28043,12 +27713,13 @@
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8b827833236ed77b",
   "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
-  "url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -28060,12 +27731,13 @@
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "065802b90c6ea678",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $74.93",
-  "url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -28077,12 +27749,13 @@
   "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7775ec090470d5b0",
   "title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
-  "url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -28094,7 +27767,8 @@
   "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ca86c9619d808fc7",
@@ -28115,7 +27789,7 @@
  {
   "id": "64a68267c3ffe1b8",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -28127,7 +27801,8 @@
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "25e2fdf0d896e8d0",
@@ -28196,7 +27871,7 @@
  {
   "id": "ad1120f9790d15a0",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
-  "url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -28208,7 +27883,8 @@
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c55d867834b05277",
@@ -28231,7 +27907,7 @@
  {
   "id": "0bfe2f3c5149b816",
   "title": "Versace Man Eau Fraiche/Versace EDT Spray (Blue) Unboxed 3.3 Oz (M) Blue Bottle $47.99",
-  "url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
   "why": "",
   "category": "fashion",
   "source": "Web search: Versace sale",
@@ -28243,7 +27919,8 @@
   "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0bd57abc7605d976",
@@ -28298,7 +27975,7 @@
  {
   "id": "086c925615199da9",
   "title": "VERSACE Medusa Stud Icon Gold Dial Ladies Watches - $299.99 + Free Shipping",
-  "url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
   "why": "",
   "category": "watches",
   "source": "Web search: Versace price drop",
@@ -28310,7 +27987,8 @@
   "source_url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "36b588ec9adb0d55",
@@ -28657,7 +28335,7 @@
  {
   "id": "784b945e49f62e6a",
   "title": "Fendi Brown Gradient Square Sunglasses with Turquoise Studs - $69.99 Shipped",
-  "url": "https://slickdeals.net/e/14458217-fendi-brown-gradient-square-sunglasses-with-turquoise-studs-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Brown+Gradient+Square+Sunglasses+with+Turquoise+Studs+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28669,12 +28347,13 @@
   "source_url": "https://slickdeals.net/e/14458217-fendi-brown-gradient-square-sunglasses-with-turquoise-studs-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Brown+Gradient+Square+Sunglasses+with+Turquoise+Studs+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c8349ddd9eb1ec8a",
   "title": "Fendi Karligraphy Rimless Butterfly Shield Sunglasses (Red Opal Peach or Beige Violet) $99 + Free Shipping",
-  "url": "https://slickdeals.net/e/14386052-fendi-karligraphy-rimless-butterfly-shield-sunglasses-red-opal-peach-or-beige-violet-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Karligraphy+Rimless+Butterfly+Shield+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28686,7 +28365,8 @@
   "source_url": "https://slickdeals.net/e/14386052-fendi-karligraphy-rimless-butterfly-shield-sunglasses-red-opal-peach-or-beige-violet-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Karligraphy+Rimless+Butterfly+Shield+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f2801f55e46bf54f",
@@ -34349,11 +34029,11 @@
   "pct": null,
   "price": 158.5,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping-at-nexwear-store-via-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+Sports+Smartwatch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7f5fcbfe0cd2230f",
@@ -34367,11 +34047,11 @@
   "pct": null,
   "price": 203.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6964559054fcf823",
@@ -34421,11 +34101,11 @@
   "pct": null,
   "price": 599.99,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e85c3a9afc85d927",
@@ -34625,11 +34305,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20165736-govx-garmin-forerunner-970-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+970+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c052cf7adba2f2a0",
@@ -34659,11 +34339,11 @@
   "pct": null,
   "price": 52.01,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18399106-jomashop-men-s-women-s-designer-shoes-reebok-ltd-club-c-low-top-sneakers-limted-sizes-52-01-more-free-s-h-on-100?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Men%27s+%26+Women%27s+Designer+Shoes+Reebok+LTD+Club+C+Low-Top+Sneakers",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a7fb32df0ebfff0d",
@@ -34677,11 +34357,11 @@
   "pct": null,
   "price": 246.4,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4e497a2808cac284",
@@ -34695,11 +34375,11 @@
   "pct": null,
   "price": 89.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5017-50E",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae0a07438fb250a4",
@@ -34713,11 +34393,11 @@
   "pct": null,
   "price": 232.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+TISSOT+PR+100+Quartz+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "45df2ba49bed52e6",
@@ -34783,11 +34463,11 @@
   "pct": null,
   "price": 272.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154366-40mm-tissot-carson-men-s-automatic-powermatic-80-watch-272-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Automatic+Powermatic+80+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b14ee3293ec625d7",
@@ -34801,11 +34481,11 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=41mm+Tissot+Men%27s+T-Sport+Sideral+Powermatic+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b65cb90e89c4965f",
@@ -34819,11 +34499,11 @@
   "pct": null,
   "price": 227.5,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20141586-seiko-38mm-watch-model-srpk35k1-orange-dial-hard-to-find-227-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+38mm+watch+model+SRPK35K1+Orange+dial-+hard+to+find",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a2dd08b475f0088c",
@@ -34853,11 +34533,11 @@
   "pct": 15,
   "price": 956.25,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20125365-tissot-seastar-2000-professional-powermatic-80-automatic-watch-44mm-956-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Seastar+2000+Professional+Powermatic+80+Automatic+Watch+-+44mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "50fac1eff7593dc0",
@@ -34887,11 +34567,11 @@
   "pct": null,
   "price": 598.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20108631-tissot-t-touch-connect-sport-swiss-quartz-solar-tactile-43mm-black-dial-for-598?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+T-Touch+Connect+Sport+Swiss+Quartz+Solar+Tactile+43mm+Black+Dial+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7e054745147896d5",
@@ -34923,11 +34603,11 @@
   "pct": null,
   "price": 796.25,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20096721-tissot-prx-powermatic-80-carbon-40mm-automatic-watch-796-25-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+PRX+Powermatic+80+Carbon+40mm+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b4f8f5668a3fd866",
@@ -34941,11 +34621,11 @@
   "pct": null,
   "price": 2899.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20084490-oris-propilot-x-titanium-gray-dial-automatic-watch-2899-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oris+ProPilot+X+Titanium+Gray+Dial+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4b8aa1144a0fc982",
@@ -34959,11 +34639,11 @@
   "pct": null,
   "price": 379.0,
   "found_at": "2026-11-06T02:56:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20068209-bulova-super-seville-262-khz-sweeper-blue-dial-item-no-96b440-379-jomashop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+BULOVA+Super+Seville+262+kHz+sweeper+Blue+Dial+Item+No.+96B440",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0ed8498ed723d2b8",
@@ -35036,19 +34716,6 @@
   "exact": false
  },
  {
-  "id": "f7aca872efb67ba3",
-  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
-  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "amazon",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 36.99,
-  "found_at": "2026-11-06T03:00:20Z"
- },
- {
   "id": "0d44dfed856e954f",
   "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed42c8cc3d4f90b3d7d4476abdd330&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
@@ -35059,25 +34726,14 @@
   "hot": false,
   "pct": null,
   "price": 26.6,
-  "found_at": "2026-11-06T03:00:24Z"
- },
- {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Web search: Omega price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-06T03:00:30Z"
+  "found_at": "2026-11-06T03:00:24Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed42c8cc3d4f90b3d7d4476abdd330&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
+  "exact": false
  },
  {
   "id": "d39df79d125d8f10",
   "title": "Alpha & Omega Semiconductor Q1FY27 Results: Revenue dips 2.6% YoY to $177.8 million - scanx.trade",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZG5kTGJCamtzTUpkNU0xSXdGSHQwS2xRblhZcFZnMWx3OW1XbjFaNzFVNzB0OUdqZmdEczJhTnpHNTNzVVk0SDUzdEJCaEhIVTBkbi1aRnVSR3JIb3NPc2RBQzVVTFhaakR4NjdyVktvV2FXYllKamZkcUVaVktYaUpHcHdFUE0zRHZFLV90b0k1Z3h0TFJkQU9YUGlNQ1NfLVN2czVhcW1oR1pOSjBPUmpaMEswQi1vTVoyYWxsQV9BUQ?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Alpha+%26+Omega+Semiconductor+Q1FY27+Results+Revenue+dips+2.6+YoY+to",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega price drop",
@@ -35085,7 +34741,12 @@
   "hot": false,
   "pct": null,
   "price": 177.8,
-  "found_at": "2026-11-06T03:00:30Z"
+  "found_at": "2026-11-06T03:00:30Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZG5kTGJCamtzTUpkNU0xSXdGSHQwS2xRblhZcFZnMWx3OW1XbjFaNzFVNzB0OUdqZmdEczJhTnpHNTNzVVk0SDUzdEJCaEhIVTBkbi1aRnVSR3JIb3NPc2RBQzVVTFhaakR4NjdyVktvV2FXYllKamZkcUVaVktYaUpHcHdFUE0zRHZFLV90b0k1Z3h0TFJkQU9YUGlNQ1NfLVN2czVhcW1oR1pOSjBPUmpaMEswQi1vTVoyYWxsQV9BUQ?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Alpha+%26+Omega+Semiconductor+Q1FY27+Results+Revenue+dips+2.6+YoY+to",
+  "exact": false
  },
  {
   "id": "e3581216d41b2c7d",
@@ -35098,6 +34759,24 @@
   "hot": false,
   "pct": null,
   "price": 9.0,
-  "found_at": "2026-11-06T03:00:32Z"
+  "found_at": "2026-11-06T03:00:32Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed42d00f83469cbf2dbf07d26dcd8c&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4661875-tudor-backed-hedge-fund-xantium-plans-record-9b-spinout-ft&c=9578000527434395329&mkt=en-us",
+  "exact": false
+ },
+ {
+  "id": "966a11ebbba98d7d",
+  "title": "NACON Revolution X Pro Controller for Xbox Series X | S - down 15.60% ($15.16) to $81.99 from $97.15",
+  "url": "https://www.amazon.com/dp/B09GPMCYYN",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.16,
+  "found_at": "2026-11-06T03:05:56Z",
+  "source_url": "https://camelcamelcamel.com/product/B09GPMCYYN",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=NACON+Revolution+X+Pro+Controller+for+Xbox+Series+X+S+-+down+15.60"
  }
 ]
