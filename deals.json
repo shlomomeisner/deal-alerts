@@ -290,7 +290,8 @@
   "source_url": "https://slickdeals.net/f/19512639-tom-ford-noir-extreme-men-eau-de-parfum-spray-5-0-ounce-150ml-208-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Tom+Ford+Noir+Extreme+Men+Eau+De+Parfum+Spray+5.0+Ounce+150ml",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:39:58Z"
  },
  {
   "id": "6fafb743bfa9a1d6",
@@ -306,7 +307,8 @@
   "found_at": "2026-11-06T09:59:18Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-07T22:40:00Z"
  },
  {
   "id": "b2557d982da30f08",
@@ -323,7 +325,8 @@
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:02Z"
  },
  {
   "id": "d3a8ce236e51ad33",
@@ -340,7 +343,8 @@
   "source_url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+Eau+de+Parfum+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:04Z"
  },
  {
   "id": "a0b5b2729d136e9a",
@@ -357,7 +361,8 @@
   "source_url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Carolina+Herrera+Bad+Boy+Cobalt+Eau+de+Parfum+3.4fl+oz+-+96.99+%2B+free+ship+w+Pri",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:05Z"
  },
  {
   "id": "4d13cc315dd48493",
@@ -374,7 +379,8 @@
   "source_url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+EDP+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:07Z"
  },
  {
   "id": "9da7d1c217c4e1b7",
@@ -391,7 +397,8 @@
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:08Z"
  },
  {
   "id": "ebb00a9c5129d9a3",
@@ -416,7 +423,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20ICN&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-07T22:40:08Z"
  },
  {
   "id": "091b78066110c6fa",
@@ -433,7 +441,8 @@
   "source_url": "https://slickdeals.net/e/13360432-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:09Z"
  },
  {
   "id": "c7c25f4522cc2567",
@@ -450,7 +459,8 @@
   "source_url": "https://slickdeals.net/e/13360300-ugg-women-s-w-bailey-bow-ii-fashion-boot-for-just-49-95-huge-price-drop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+W+Bailey+Bow+Ii+Fashion+Boot+for+just",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:10Z"
  },
  {
   "id": "c259de3fd306fe4c",
@@ -467,7 +477,8 @@
   "source_url": "https://slickdeals.net/e/13238179-ugg-clearance-sale-up-to-60-off-plus-extra-10-off-with-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Clearance+Up+to+60+off+plus+extra+10+off+with+code",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:10Z"
  },
  {
   "id": "c9a57d5e29a9684a",
@@ -484,7 +495,8 @@
   "source_url": "https://slickdeals.net/e/11204599-ugg-classic-unlined-mini-ankle-boot-women-s-reg-120-now-48-71-f-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Classic+Unlined+Mini+Ankle+Boot+Reg.",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:11Z"
  },
  {
   "id": "2aee6462d501d0dd",
@@ -501,7 +513,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZUFxNlJ5QmJ2amdCd2JUS0VGR2VwWU5vLXZmMngzbVJncFhyRklySWJJaTl0LXRiV1A1TDBEN3ZJcXdVeHBnakxTQ1FyMDdYUjYwRUV1ZTgzZ0xpeTVXWXlqQTl6OWJiOHhkV01qT0h0YjRkQk43TjB4RlpVSFgta3QtZFVma3YzRVZkdG5ST3VBQQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+dropped+8+cozy+styles+in+the+perfect+earthy+neutral+and+they+re+all+30+off+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:11Z"
  },
  {
   "id": "b98d92312dc9a424",
@@ -516,7 +529,8 @@
   "price": null,
   "found_at": "2026-11-06T10:01:59Z",
   "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeda597436046d4a3ad721c0bd1cfca&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fit-s-happening-amazon-just-dropped-its-black-friday-sale-early-ugg-levi-s-and-adidas-are-up-to-73-off%2far-AA2gOCOF&c=13378981587879602106&mkt=en-us",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:11Z"
  },
  {
   "id": "6867f8025ec4dda9",
@@ -531,7 +545,8 @@
   "price": 72.0,
   "found_at": "2026-11-06T10:01:59Z",
   "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeda597436046d4a3ad721c0bd1cfca&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwe-found-classic-ugg-styles-and-ones-you-won-t-see-everyone-wearing-for-fall-shop-pairs-now-from-72%2far-AA2gI9ie&c=6918530792822542007&mkt=en-us",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-07T22:40:11Z"
  },
  {
   "id": "93607ca6f45292de",
@@ -29138,7 +29153,7 @@
  {
   "id": "377783726d8910a3",
   "title": "[WTS][WTT] declutter (bottle)",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xqclul/wtswtt_declutter_bottle/",
+  "url": "https://www.google.com/search?tbm=shop&q=declutter",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -29150,12 +29165,13 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xqclul/wtswtt_declutter_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=declutter",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1bfd86e6239c42db",
   "title": "[WTS][WTT] vanilla powder edp, full 100ml",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xqah72/wtswtt_vanilla_powder_edp_full_100ml/",
+  "url": "https://www.google.com/search?tbm=shop&q=vanilla+powder+edp+full+100ml",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -29167,7 +29183,8 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xqah72/wtswtt_vanilla_powder_edp_full_100ml/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=vanilla+powder+edp+full+100ml",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e9e07ea0d7d71115",
@@ -29422,7 +29439,7 @@
  {
   "id": "77503fd7c4cea3a8",
   "title": "[AC w max SS, Limit 5] Campbell's Condensed Cream of Mushroom Soup, 10.5 oz Can YMMV $0.35",
-  "url": "https://slickdeals.net/f/20254323-ac-w-max-ss-limit-5-campbell-s-condensed-cream-of-mushroom-soup-10-5-oz-can-ymmv-0-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Campbell%27s+Condensed+Cream+of+Mushroom+Soup+10.5+oz+Can",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Beats",
@@ -29434,7 +29451,8 @@
   "source_url": "https://slickdeals.net/f/20254323-ac-w-max-ss-limit-5-campbell-s-condensed-cream-of-mushroom-soup-10-5-oz-can-ymmv-0-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Campbell%27s+Condensed+Cream+of+Mushroom+Soup+10.5+oz+Can",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "781ec16453b7a03b",
@@ -29545,7 +29563,7 @@
  {
   "id": "0d89744ca7e378e1",
   "title": "Open Box: Beats by Dre Solo Buds In-Ear Headphones (Matte Black) $24.84 + Free Shipping",
-  "url": "https://slickdeals.net/f/20190105-open-box-beats-by-dre-solo-buds-in-ear-headphones-matte-black-24-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+by+Dre+Solo+Buds+In-Ear+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Beats",
@@ -29557,12 +29575,13 @@
   "source_url": "https://slickdeals.net/f/20190105-open-box-beats-by-dre-solo-buds-in-ear-headphones-matte-black-24-84-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+Beats+by+Dre+Solo+Buds+In-Ear+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a331d88064257105",
   "title": "[MILITARY / VETERANS] LG 65 in. Class C6 Series OLED evo 4K Smart TV OLED65C6AUA",
-  "url": "https://slickdeals.net/f/20184003-military-veterans-lg-65-in-class-c6-series-oled-evo-4k-smart-tv-oled65c6aua?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+65+in.+Class+C6+Series+OLED+evo+4K+Smart+TV+OLED65C6AUA",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Beats",
@@ -29574,7 +29593,8 @@
   "source_url": "https://slickdeals.net/f/20184003-military-veterans-lg-65-in-class-c6-series-oled-evo-4k-smart-tv-oled65c6aua?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+65+in.+Class+C6+Series+OLED+evo+4K+Smart+TV+OLED65C6AUA",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "df9280e19aa77f92",
@@ -29612,7 +29632,7 @@
  {
   "id": "c1731546d66a4073",
   "title": "Christian Louboutin Women's Fifi 100 Pumps (various) $375 & More + Free Shipping",
-  "url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29624,12 +29644,13 @@
   "source_url": "https://slickdeals.net/e/13944425-christian-louboutin-women-s-fifi-100-pumps-various-375-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Women%27s+Fifi+100+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3b09a10dad338139",
   "title": "Century 21: Over 40% Off Gucci, Saint Laurent, and Christian Louboutin",
-  "url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29641,12 +29662,13 @@
   "source_url": "https://slickdeals.net/e/13638124-century-21-over-40-off-gucci-saint-laurent-and-christian-louboutin?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Over+40+Off+Gucci+Saint+Laurent+and+Christian+Louboutin",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d92e4bb554b19a86",
   "title": "Christian Louboutin Palais Royal Peep Toe Platform Pumps (various colors) $450 & More + Free S/H",
-  "url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29658,12 +29680,13 @@
   "source_url": "https://slickdeals.net/e/13407787-christian-louboutin-palais-royal-peep-toe-platform-pumps-various-colors-450-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Palais+Royal+Peep+Toe+Platform+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dcb15ec738a4e6e9",
   "title": "Christian Louboutin Fifi pumps (various) - $359.99 (AC)",
-  "url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29675,12 +29698,13 @@
   "source_url": "https://slickdeals.net/e/13146034-christian-louboutin-fifi-pumps-various-359-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+pumps+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e69c9d1888824553",
   "title": "Christian Louboutin Pumps Leather Fifi Pumps (Pink) $345 + Free S/H",
-  "url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29692,12 +29716,13 @@
   "source_url": "https://slickdeals.net/e/13070902-christian-louboutin-pumps-leather-fifi-pumps-pink-345-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d20ef466dd6fb8e9",
   "title": "Christian Louboutin Pumps: Leather Fifi Pumps $360, Leather Pigalle Pumps $387 + free shipping",
-  "url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29709,12 +29734,13 @@
   "source_url": "https://slickdeals.net/e/13025014-christian-louboutin-pumps-leather-fifi-pumps-360-leather-pigalle-pumps-387-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Pumps+Leather+Fifi+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "01bb67bf95794c00",
   "title": "Christian Louboutin Fifi Leather Pumps (Various) $385 + Free Shipping",
-  "url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29726,12 +29752,13 @@
   "source_url": "https://slickdeals.net/e/12923296-christian-louboutin-fifi-leather-pumps-various-385-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutin+Fifi+Leather+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "06bc1cdb25bf3453",
   "title": "Christian Louboutins on sale again 👠 👠 $395",
-  "url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Christian+Louboutins+on+again",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29743,12 +29770,13 @@
   "source_url": "https://slickdeals.net/e/12300562-christian-louboutins-on-sale-again-395?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Christian+Louboutins+on+again",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3a54c04ab5c156f6",
   "title": "Century 21 Christian Louboutin Palais Peep Toe Platform Pumps $449.99, Pigalle Pointed Toe Pumps $429.99 & More+ Free S/H",
-  "url": "https://slickdeals.net/e/12300319-century-21-christian-louboutin-palais-peep-toe-platform-pumps-449-99-pigalle-pointed-toe-pumps-429-99-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29760,12 +29788,13 @@
   "source_url": "https://slickdeals.net/e/12300319-century-21-christian-louboutin-palais-peep-toe-platform-pumps-449-99-pigalle-pointed-toe-pumps-429-99-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0237ab11b41a4676",
   "title": "Century 21 Christian Louboutin Palais Peep Toe Platform Pumps $429.99 (various colors) & More+ Free S/H",
-  "url": "https://slickdeals.net/e/12160363-century-21-christian-louboutin-palais-peep-toe-platform-pumps-429-99-various-colors-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
   "why": "",
   "category": "fashion",
   "source": "Web search: Louboutin sale",
@@ -29777,7 +29806,8 @@
   "source_url": "https://slickdeals.net/e/12160363-century-21-christian-louboutin-palais-peep-toe-platform-pumps-429-99-various-colors-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Century+21+Christian+Louboutin+Palais+Peep+Toe+Platform+Pumps",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "df36a46bfa8ecbb9",
@@ -29880,7 +29910,7 @@
  {
   "id": "6b1a06d794da5015",
   "title": "6.7-oz Versace Pour Homme Dylan Blue for Men Eau de Toilette Spray $72.85 + Free S&H",
-  "url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29892,12 +29922,13 @@
   "source_url": "https://slickdeals.net/f/20126115-6-7-oz-versace-pour-homme-dylan-blue-for-men-eau-de-toilette-spray-72-85-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7-oz+Versace+Pour+Homme+Dylan+Blue+for+Men+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8b827833236ed77b",
   "title": "3.4 oz Versace Eros for Men Parfum Spray $69 + Free S&H",
-  "url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29909,12 +29940,13 @@
   "source_url": "https://slickdeals.net/f/20098365-3-4-oz-versace-eros-for-men-parfum-spray-69-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4+oz+Versace+Eros+for+Men+Parfum+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "065802b90c6ea678",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $74.93",
-  "url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29926,12 +29958,13 @@
   "source_url": "https://slickdeals.net/f/20045001-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-74-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7775ec090470d5b0",
   "title": "3.4-Oz Versace Pour Homme Dylan Blue Eau de Toilette Spray $47.36 + Free Shipping",
-  "url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29943,7 +29976,8 @@
   "source_url": "https://slickdeals.net/f/20016222-3-4-oz-versace-pour-homme-dylan-blue-eau-de-toilette-spray-47-36-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Versace+Pour+Homme+Dylan+Blue+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ca86c9619d808fc7",
@@ -29964,7 +29998,7 @@
  {
   "id": "64a68267c3ffe1b8",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -29976,7 +30010,8 @@
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "25e2fdf0d896e8d0",
@@ -30045,7 +30080,7 @@
  {
   "id": "ad1120f9790d15a0",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
-  "url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Versace sale",
@@ -30057,7 +30092,8 @@
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c55d867834b05277",
@@ -30080,7 +30116,7 @@
  {
   "id": "0bfe2f3c5149b816",
   "title": "Versace Man Eau Fraiche/Versace EDT Spray (Blue) Unboxed 3.3 Oz (M) Blue Bottle $47.99",
-  "url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
   "why": "",
   "category": "fashion",
   "source": "Web search: Versace sale",
@@ -30092,7 +30128,8 @@
   "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0bd57abc7605d976",
@@ -30147,7 +30184,7 @@
  {
   "id": "086c925615199da9",
   "title": "VERSACE Medusa Stud Icon Gold Dial Ladies Watches - $299.99 + Free Shipping",
-  "url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
   "why": "",
   "category": "watches",
   "source": "Web search: Versace price drop",
@@ -30159,7 +30196,8 @@
   "source_url": "https://slickdeals.net/e/14228099-versace-medusa-stud-icon-gold-dial-ladies-watches-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=VERSACE+Medusa+Stud+Icon+Gold+Dial+Ladies+Watches+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "36b588ec9adb0d55",
@@ -30362,7 +30400,7 @@
  {
   "id": "ea703a10fcd5f907",
   "title": "Designer Sunglasses Sale: Ray-Ban Arista Green Square Sunglasses $48, Dior Pink Aviator Ladies Sunglasses $70, Gucci, Fendi, Oakley, Salvatore Ferragamo, & More",
-  "url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Sunglasses+Ray-Ban+Arista+Green+Square+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30374,12 +30412,13 @@
   "source_url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Sunglasses+Ray-Ban+Arista+Green+Square+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "669ac36d3c43d001",
   "title": "FENDI Gray Rose Gold Ladies Sunglasses FF 0382/S 35J 99 - $84.99",
-  "url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Gray+Rose+Gold+Ladies+Sunglasses+FF+0382+S+35J+99+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30391,12 +30430,13 @@
   "source_url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Gray+Rose+Gold+Ladies+Sunglasses+FF+0382+S+35J+99+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "741d2e8a18f406a6",
   "title": "Fendi Designer Sunglasses (various styles) $60 + Free Shipping",
-  "url": "https://slickdeals.net/e/14734733-fendi-designer-sunglasses-various-styles-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Designer+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30408,12 +30448,13 @@
   "source_url": "https://slickdeals.net/e/14734733-fendi-designer-sunglasses-various-styles-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Designer+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2a40d423744ea896",
   "title": "Fendi Sunglasses (various styles/colors) from $69 + Free Shipping",
-  "url": "https://slickdeals.net/e/14666480-fendi-sunglasses-various-styles-colors-from-69-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Sunglasses+from",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30425,12 +30466,13 @@
   "source_url": "https://slickdeals.net/e/14666480-fendi-sunglasses-various-styles-colors-from-69-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Sunglasses+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2f64f552801d2a5b",
   "title": "FENDI Pink Gradient Round Sunglasses for $69.99 Shipped",
-  "url": "https://slickdeals.net/e/14652575-fendi-pink-gradient-round-sunglasses-for-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Pink+Gradient+Round+Sunglasses+for",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30442,12 +30484,13 @@
   "source_url": "https://slickdeals.net/e/14652575-fendi-pink-gradient-round-sunglasses-for-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Pink+Gradient+Round+Sunglasses+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b6cea7f4e3fa5b38",
   "title": "Fendi Rimless Shield Wrap w/ Mirror Lens Sunglasses $89 + Free Shipping",
-  "url": "https://slickdeals.net/e/14559029-fendi-rimless-shield-wrap-w-mirror-lens-sunglasses-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Rimless+Shield+Wrap+w+Mirror+Lens+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30459,12 +30502,13 @@
   "source_url": "https://slickdeals.net/e/14559029-fendi-rimless-shield-wrap-w-mirror-lens-sunglasses-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Rimless+Shield+Wrap+w+Mirror+Lens+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1cd3e42d712bf43e",
   "title": "Men's FENDI SILVER-TONE/AZURE RIMLESS AVIATOR $79",
-  "url": "https://slickdeals.net/e/14507138-men-s-fendi-silver-tone-azure-rimless-aviator-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+FENDI+SILVER-TONE+AZURE+RIMLESS+AVIATOR",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30476,12 +30520,13 @@
   "source_url": "https://slickdeals.net/e/14507138-men-s-fendi-silver-tone-azure-rimless-aviator-79?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+FENDI+SILVER-TONE+AZURE+RIMLESS+AVIATOR",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6b55c236eae91816",
   "title": "Designer Eyewear Flash Sale: Dior, Fendi, Armani - Up To 80% Off: Starting At $19",
-  "url": "https://slickdeals.net/e/14459456-designer-eyewear-flash-sale-dior-fendi-armani-up-to-80-off-starting-at-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Eyewear+Flash+Dior+Fendi+Armani+-+Up+To+80+Off+Starting+At",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Fendi sale",
@@ -30493,12 +30538,13 @@
   "source_url": "https://slickdeals.net/e/14459456-designer-eyewear-flash-sale-dior-fendi-armani-up-to-80-off-starting-at-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Eyewear+Flash+Dior+Fendi+Armani+-+Up+To+80+Off+Starting+At",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "784b945e49f62e6a",
   "title": "Fendi Brown Gradient Square Sunglasses with Turquoise Studs - $69.99 Shipped",
-  "url": "https://slickdeals.net/e/14458217-fendi-brown-gradient-square-sunglasses-with-turquoise-studs-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Brown+Gradient+Square+Sunglasses+with+Turquoise+Studs+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30510,12 +30556,13 @@
   "source_url": "https://slickdeals.net/e/14458217-fendi-brown-gradient-square-sunglasses-with-turquoise-studs-69-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Brown+Gradient+Square+Sunglasses+with+Turquoise+Studs+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c8349ddd9eb1ec8a",
   "title": "Fendi Karligraphy Rimless Butterfly Shield Sunglasses (Red Opal Peach or Beige Violet) $99 + Free Shipping",
-  "url": "https://slickdeals.net/e/14386052-fendi-karligraphy-rimless-butterfly-shield-sunglasses-red-opal-peach-or-beige-violet-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Karligraphy+Rimless+Butterfly+Shield+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -30527,7 +30574,8 @@
   "source_url": "https://slickdeals.net/e/14386052-fendi-karligraphy-rimless-butterfly-shield-sunglasses-red-opal-peach-or-beige-violet-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Karligraphy+Rimless+Butterfly+Shield+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f2801f55e46bf54f",
@@ -33215,11 +33263,11 @@
   "pct": 20,
   "price": 64.99,
   "found_at": "2026-11-07T22:22:54Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20271921-hoka-shoes-various-extra-20-off-hoka-women-s-kawana-2-shoes-64-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Shoes+Extra+20+Off+HOKA+Women%27s+Kawana+2+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8c6135aa1428e961",
@@ -33233,11 +33281,11 @@
   "pct": null,
   "price": 77.49,
   "found_at": "2026-11-07T22:22:54Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20255034-hoka-women-s-clifton-10-shoes-black-white-77-49-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Clifton+10+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "547647baa5a489c6",
@@ -33267,11 +33315,11 @@
   "pct": null,
   "price": 304.0,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20271972-citizen-promaster-navihawk-chronograph-khaki-green-dial-men-s-watch-304?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Navihawk+Chronograph+Khaki+Green+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "70765179920fef2a",
@@ -33285,11 +33333,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xqh4xe/wtswtt_xerjoff_ouverture/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Xerjoff+Ouverture",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9edf467dad0723ed",
@@ -33303,11 +33351,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xqfy07/wts_dupesafnanahmed_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=dupes.Afnan+Ahmed",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f5551236c92451a5",
@@ -33321,11 +33369,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xqfwd2/wts_amouage_jubilation_epic_man_2021_interlude/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Amouage+Jubilation+Epic+Man+2021+Interlude+Man+Opus+VIII+Woods+Symphony+Overture",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "861abd54574234d1",
@@ -33339,11 +33387,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xqf3yg/wts_aaron_terence_hughes_discounts_and_sale_below/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Aaron+Terence+Hughes+discounts+and+below+all+sizes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fc40d5dcc4ee9ca6",
@@ -33481,11 +33529,11 @@
   "pct": null,
   "price": 2799.0,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20261787-macbook-pro-14in-m5-pro-18-20-1tb-ssd-48gb-2799?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=MacBook+pro+14in+m5+pro+18+20+1TB+SSD+48GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0fa37808d2ed2430",
@@ -33499,11 +33547,11 @@
   "pct": null,
   "price": 13.79,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20256765-kloium-ipad-a16-case-ipad-11th-10th-generation-case-13-79-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Kloium+iPad+A16+Case+iPad+11th+10th+Generation+Case+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c4acf129b8efadc1",
@@ -33677,11 +33725,11 @@
   "pct": null,
   "price": 854.99,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20264448-select-areas-lg-partner-42-c6-oled-evo-4k-tv-receive-two-free-m5-wireless-speakers-854-99-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+42+C6+OLED+evo+4K+TV+%2B+Receive+two+free+M5+Wireless+Spea",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f8dc0e90aeaf9ca5",
@@ -33821,11 +33869,11 @@
   "pct": null,
   "price": 533.49,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20256135-new-unlocked-galaxy-s25-edge-533-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Unlocked+Galaxy+S25+Edge",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "49beac18d9dc7b45",
@@ -33875,11 +33923,11 @@
   "pct": null,
   "price": 219.99,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20252739-restored-dyson-supersonic-nural-hair-dryer-219-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Restored+Dyson+Supersonic+Nural+Hair+Dryer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bcc63a9d73d7e302",
@@ -33911,11 +33959,11 @@
   "pct": null,
   "price": 49.99,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20251215-dyson-hushjet-portable-mini-cool-fan-stone-blush-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+HushJet+Portable+Mini+Cool+Fan",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cf29e717664a1ffa",
@@ -33983,11 +34031,11 @@
   "pct": null,
   "price": 179.99,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20247807-factory-reconditioned-dyson-ball-animal-2-upright-vacuum-purple-179-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Dyson+Ball+Animal+2+Upright+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c1979fa8e67f2738",
@@ -34069,11 +34117,11 @@
   "pct": null,
   "price": 372.49,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20229585-dyson-supersonic-nural-hair-dryer-in-strawberry-bronze-and-blush-pink-with-dyson-designed-presentation-372-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Supersonic+Nural+Hair+Dryer+in+Strawberry+Bronze+and+Blush+Pink+with+Dyson",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "93c16bc18edd28c2",
@@ -34105,11 +34153,11 @@
   "pct": null,
   "price": 114.0,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20263800-tissot-prx-digital-quartz-dial-watch-sale-35mm-tissot-prx-digital-quartz-silver-dial-114-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Tissot+PRX+Digital+Quartz+Dial+Watch+35mm+Tissot+PRX+Digital+Quartz+Silver+Dial",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a7fb32df0ebfff0d",
@@ -34123,11 +34171,11 @@
   "pct": null,
   "price": 246.4,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4e497a2808cac284",
@@ -34141,11 +34189,11 @@
   "pct": null,
   "price": 89.0,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5017-50E",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae0a07438fb250a4",
@@ -34159,11 +34207,11 @@
   "pct": null,
   "price": 232.0,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+TISSOT+PR+100+Quartz+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "45df2ba49bed52e6",
@@ -34229,11 +34277,11 @@
   "pct": null,
   "price": 272.0,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154366-40mm-tissot-carson-men-s-automatic-powermatic-80-watch-272-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Automatic+Powermatic+80+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b14ee3293ec625d7",
@@ -34247,11 +34295,11 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=41mm+Tissot+Men%27s+T-Sport+Sideral+Powermatic+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b65cb90e89c4965f",
@@ -34265,11 +34313,11 @@
   "pct": null,
   "price": 227.5,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20141586-seiko-38mm-watch-model-srpk35k1-orange-dial-hard-to-find-227-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+38mm+watch+model+SRPK35K1+Orange+dial-+hard+to+find",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a2dd08b475f0088c",
@@ -34299,11 +34347,11 @@
   "pct": 15,
   "price": 956.25,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20125365-tissot-seastar-2000-professional-powermatic-80-automatic-watch-44mm-956-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Seastar+2000+Professional+Powermatic+80+Automatic+Watch+-+44mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "50fac1eff7593dc0",
@@ -34351,11 +34399,11 @@
   "pct": null,
   "price": 11.99,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20272620-nubwo-hg04l-gaming-headset-for-ps5-ps4-xbox-series-x-s-xbox-one-11-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NUBWO+HG04L+Gaming+Headset+for+PS5+PS4+Xbox+Series+X+S+Xbox+One+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "316b159b3fa0f659",
@@ -34369,11 +34417,11 @@
   "pct": null,
   "price": 11.99,
   "found_at": "2026-11-07T22:28:37Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20272614-nubwo-hg04l-gaming-headset-for-ps5-ps4-xbox-series-x-s-xbox-one-11-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NUBWO+HG04L+Gaming+Headset+for+PS5+PS4+Xbox+Series+X+S+Xbox+One+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6c07a54cb8b517d1",
@@ -34558,7 +34606,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "fc4883f3c67e3472",
@@ -34583,7 +34632,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BKK&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "31e8d1f069265e5c",
@@ -34608,7 +34658,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Monterey%2C%20California%20%28and%20vice%20versa%29&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "7120eb4993e27c5a",
@@ -34633,7 +34684,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "117ae045e4d4e882",
@@ -34654,12 +34706,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249298-round-trip-new-jersey-to-aruba-267-nonstop-airfares-on-united-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Aruba",
+  "link_tried3": true
  },
  {
   "id": "708c1be3c1860abe",
   "title": "Lululemon is selling an 'excellent' $88 bag for just $54 right now — plus 14 more We Made Too Much finds, from $29 - Yahoo Lifestyle Canada",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWktLZkQ4R0w0bm5qYzF4WUcwdUROUlNvdVB2Z2ZicDFmOHUtRGE4Mll4VEdFYnlOd0VqT1NNbThJekhJb3FiV05oZU5LdFdUa1hoZjIxSmRwajNrbUJCVmx4bHcxR3gtdEdMQTl4SmFCelJBaUtuSmlGdFBXa0hEaThwWWJiZ3dBdFRjalM5T3YyWU43a2V3UmJxVFBSZHFWN2QyX081UF9GOVFBbkU0Rml4U3dzWHFVSVVGeC01VWxNVlFiNDVpWVM4VmJjd3JPMlhWS0JXQzhQazl5dnFlSWpQZw?oc=5",
+  "url": "https://shop.lululemon.com/search?Ntt=Lululemon+is+selling+an+%27excellent%27",
   "why": "",
   "category": "fashion",
   "source": "Web search: Lululemon price drop",
@@ -34667,71 +34720,125 @@
   "hot": false,
   "pct": null,
   "price": 88.0,
-  "found_at": "2026-11-07T22:31:50Z"
+  "found_at": "2026-11-07T22:31:50Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWktLZkQ4R0w0bm5qYzF4WUcwdUROUlNvdVB2Z2ZicDFmOHUtRGE4Mll4VEdFYnlOd0VqT1NNbThJekhJb3FiV05oZU5LdFdUa1hoZjIxSmRwajNrbUJCVmx4bHcxR3gtdEdMQTl4SmFCelJBaUtuSmlGdFBXa0hEaThwWWJiZ3dBdFRjalM5T3YyWU43a2V3UmJxVFBSZHFWN2QyX081UF9GOVFBbkU0Rml4U3dzWHFVSVVGeC01VWxNVlFiNDVpWVM4VmJjd3JPMlhWS0JXQzhQazl5dnFlSWpQZw?oc=5",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=Lululemon+is+selling+an+%27excellent%27",
+  "exact": false
  },
  {
-  "id": "90aaf7ef7d047890",
-  "title": "Assassin's Creed Mirage (PlayStation 5) - $14.97 @ Walmart",
-  "url": "https://slickdeals.net/f/20247888-assassin-s-creed-mirage-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "5ae30d5140eeb798",
+  "title": "Rare deal hits 2026 Sonos Play AirPlay portable/home speaker at $90 off (Amazon all-time low) - 9to5Toys",
+  "url": "https://www.amazon.com/s?k=Rare+hits+2026+Sonos+Play+AirPlay+portable+home+speaker+at",
+  "why": "Sonos — all-time low",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 90.0,
+  "found_at": "2026-11-07T22:37:16Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UWtLc0Z6RWxFbmFJaVlsYU94LU02ajdMaTZqLTczeWZONDZXZENnMkhSMFF3LTRaTnlUVVUyNzhCUHZGai1xSXg1Z00wYjZiY0MwOUNsdHBHNFlFUlVxamFsRnpJVnVRSmU4UFJJOHltbTJMTlZSTC1pVENXX00?oc=5",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Rare+hits+2026+Sonos+Play+AirPlay+portable+home+speaker+at",
+  "exact": false
+ },
+ {
+  "id": "3c350b8e250cb2e8",
+  "title": "Black Friday Sonos deals: Era 300, Ace, Beam at record lows - Mashable",
+  "url": "https://www.google.com/search?tbm=shop&q=Black+Friday+Sonos+deals+Era+300+Ace+Beam+at+record+lows+-+Mashable",
+  "why": "Sonos — record low",
+  "category": "tech",
+  "source": "Google: Samsung deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-07T22:37:16Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55NGxhOGRBT2lFSmg1TklxVHIwVXlka0h4a01mNDF0SjFoNGJ6Q3BxY21XN0tXbEoxNjN1ZzhpaFpQeF8zSXNwYkUyclEtdjhBS1BSRkl6WF8xLWd6U1doVDVuTWNYem4xREE?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Black+Friday+Sonos+deals+Era+300+Ace+Beam+at+record+lows+-+Mashable",
+  "exact": false
+ },
+ {
+  "id": "c5c667bae1423d65",
+  "title": "$319.13 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
+  "url": "https://slickdeals.net/f/20229237-319-13-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "tech",
+  "source": "Web search: AirPods Max deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 14.97,
-  "found_at": "2026-11-07T22:31:55Z"
+  "price": 319.13,
+  "found_at": "2026-11-07T22:40:23Z"
  },
  {
-  "id": "4f0a1c4bc4a70083",
-  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $30 + Free Shipping w/ Prime or on orders over $35",
-  "url": "https://slickdeals.net/f/20197020-assassin-s-creed-shadows-nintendo-switch-2-30-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "29894435d7fc5d03",
+  "title": "iPhone 17e 5G From $399.99, $60 plan required.",
+  "url": "https://slickdeals.net/f/20272689-iphone-17e-5g-from-399-99-60-plan-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 30.0,
-  "found_at": "2026-11-07T22:31:55Z"
+  "price": 399.99,
+  "found_at": "2026-11-07T22:40:27Z"
  },
  {
-  "id": "369670327d50bde8",
-  "title": "Assassin's Creed Valhalla (PC Game) $7.19",
-  "url": "https://slickdeals.net/f/20178888-assassin-s-creed-valhalla-pc-game-7-19?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "73230b823694ed3f",
+  "title": "INIU - Magnetic Power Bank, Qi2 10000mAh Ultra Compact Portable Charger with Foldable Stand for iPhone 17/16/15/14/13/12 Series - Black $27.99 Bestbuy.com",
+  "url": "https://slickdeals.net/f/20265276-iniu-magnetic-power-bank-qi2-10000mah-ultra-compact-portable-charger-with-foldable-stand-for-iphone-17-16-15-14-13-12-series-black-27-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed sale",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 7.19,
-  "found_at": "2026-11-07T22:31:55Z"
+  "price": 27.99,
+  "found_at": "2026-11-07T22:40:27Z"
  },
  {
-  "id": "54c78884a6741a29",
-  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
-  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "102a425b763d66fb",
+  "title": "INIU - Portable Charger, Compact 20000mAh PD Power Bank with Built-in Cable & Digital Display for iPhone, Samsung etc - Black $27.99 Bestbuy.com",
+  "url": "https://slickdeals.net/f/20265255-iniu-portable-charger-compact-20000mah-pd-power-bank-with-built-in-cable-digital-display-for-iphone-samsung-etc-black-27-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 49.99,
-  "found_at": "2026-11-07T22:31:56Z"
+  "price": 27.99,
+  "found_at": "2026-11-07T22:40:27Z"
  },
  {
-  "id": "4316bff61d09c558",
-  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
-  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "f1e86f923f304724",
+  "title": "$799 | 256GB Apple iPhone Air (Refurbished - Premium) + 10% Back w/ Prime Visa Card at Amazon",
+  "url": "https://slickdeals.net/f/20263305-799-256gb-apple-iphone-air-refurbished-premium-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "fragrance",
-  "source": "Web search: Creed price drop",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 15.49,
-  "found_at": "2026-11-07T22:31:56Z"
+  "price": 799.0,
+  "found_at": "2026-11-07T22:40:27Z"
+ },
+ {
+  "id": "bc25f6184178c853",
+  "title": "Prime Members: Anker Nano 45W USB-C Smart Display Charger for iPhones $26 + Free S&H",
+  "url": "https://slickdeals.net/f/20256759-prime-members-anker-nano-45w-usb-c-smart-display-charger-for-iphones-26-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: iPhone deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 26.0,
+  "found_at": "2026-11-07T22:40:27Z"
  }
 ]
