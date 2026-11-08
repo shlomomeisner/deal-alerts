@@ -526,7 +526,8 @@
   "source_url": "https://slickdeals.net/f/20119851-prime-guy-laroche-drakkar-noir-eau-de-toilette-1-7-oz-25-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Guy+Laroche+Drakkar+Noir+Eau+de+Toilette",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T01:50:37Z"
  },
  {
   "id": "28d116bea0bee7f8",
@@ -542,7 +543,8 @@
   "found_at": "2026-11-06T10:07:27Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-08T01:50:39Z"
  },
  {
   "id": "dc4444e1460b684e",
@@ -558,7 +560,8 @@
   "found_at": "2026-11-06T10:07:27Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-08T01:50:40Z"
  },
  {
   "id": "13a052c75f305aeb",
@@ -576,7 +579,8 @@
   "source_url": "https://slickdeals.net/f/20225760-8-4-oz-versace-eros-men-s-shower-gel-27-38-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=8.4-Oz+Versace+Eros+Men%27s+Shower+Gel",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T01:50:42Z"
  },
  {
   "id": "6d58cbeebd2f65d5",
@@ -592,7 +596,8 @@
   "found_at": "2026-11-06T10:07:27Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-08T01:50:43Z"
  },
  {
   "id": "598778e20fba8e4e",
@@ -608,7 +613,8 @@
   "found_at": "2026-11-06T10:07:27Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-08T01:50:45Z"
  },
  {
   "id": "f4a9b2b49c1d6169",
@@ -624,7 +630,8 @@
   "found_at": "2026-11-06T10:07:27Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-08T01:50:47Z"
  },
  {
   "id": "0c397b625fbc7a96",
@@ -28594,7 +28601,7 @@
  {
   "id": "be68edbf7906a4ea",
   "title": "FENDI Sky Blue Mirror Square Sunglasses FF 0216/S $94.04",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Sky+Blue+Mirror+Square+Sunglasses+FF+0216+S",
+  "url": "https://slickdeals.net/f/15190891-fendi-sky-blue-mirror-square-sunglasses-ff-0216-s-94-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28606,13 +28613,12 @@
   "source_url": "https://slickdeals.net/f/15190891-fendi-sky-blue-mirror-square-sunglasses-ff-0216-s-94-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Sky+Blue+Mirror+Square+Sunglasses+FF+0216+S",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "f0ed8f1e5d04d474",
   "title": "Woot! Eyewear & Sunglasses Sale on Brand Names: Ray-Ban, Oakley, Tiffany, Nike, Gucci, Fendi and more. $32 - $115 + FS with PRIME",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+Eyewear+%26+Sunglasses+on+Brand+Names+Ray-Ban+Oakley+Tiffany+Nike+Gucci+Fendi",
+  "url": "https://slickdeals.net/f/14962061-woot-eyewear-sunglasses-sale-on-brand-names-ray-ban-oakley-tiffany-nike-gucci-fendi-and-more-32-115-fs-with-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28624,13 +28630,12 @@
   "source_url": "https://slickdeals.net/f/14962061-woot-eyewear-sunglasses-sale-on-brand-names-ray-ban-oakley-tiffany-nike-gucci-fendi-and-more-32-115-fs-with-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+Eyewear+%26+Sunglasses+on+Brand+Names+Ray-Ban+Oakley+Tiffany+Nike+Gucci+Fendi",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0fc021baea1bfbfb",
   "title": "Fendi Geometric Rimless Aviator Sunglasses (Gold) $89 + Free Shipping",
-  "url": "https://www.google.com/search?tbm=shop&q=Fendi+Geometric+Rimless+Aviator+Sunglasses",
+  "url": "https://slickdeals.net/e/14954456-fendi-geometric-rimless-aviator-sunglasses-gold-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28642,13 +28647,12 @@
   "source_url": "https://slickdeals.net/e/14954456-fendi-geometric-rimless-aviator-sunglasses-gold-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fendi+Geometric+Rimless+Aviator+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6f7169dba762984c",
   "title": "FENDIBrown Gradient Square Sunglasses with Turquoise Studs FF 0260/S 3H2/53 52 for $74.99 Shipped",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDIBrown+Gradient+Square+Sunglasses+with+Turquoise+Studs+FF+0260+S+3H2+53+52+f",
+  "url": "https://slickdeals.net/f/14948321-fendibrown-gradient-square-sunglasses-with-turquoise-studs-ff-0260-s-3h2-53-52-for-74-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28660,13 +28664,12 @@
   "source_url": "https://slickdeals.net/f/14948321-fendibrown-gradient-square-sunglasses-with-turquoise-studs-ff-0260-s-3h2-53-52-for-74-99-shipped?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDIBrown+Gradient+Square+Sunglasses+with+Turquoise+Studs+FF+0260+S+3H2+53+52+f",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "ea703a10fcd5f907",
   "title": "Designer Sunglasses Sale: Ray-Ban Arista Green Square Sunglasses $48, Dior Pink Aviator Ladies Sunglasses $70, Gucci, Fendi, Oakley, Salvatore Ferragamo, & More",
-  "url": "https://www.google.com/search?tbm=shop&q=Designer+Sunglasses+Ray-Ban+Arista+Green+Square+Sunglasses",
+  "url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28678,13 +28681,12 @@
   "source_url": "https://slickdeals.net/f/14902345-designer-sunglasses-sale-ray-ban-arista-green-square-sunglasses-48-dior-pink-aviator-ladies-sunglasses-70-gucci-fendi-oakley-salvatore-ferragamo-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Sunglasses+Ray-Ban+Arista+Green+Square+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "669ac36d3c43d001",
   "title": "FENDI Gray Rose Gold Ladies Sunglasses FF 0382/S 35J 99 - $84.99",
-  "url": "https://www.google.com/search?tbm=shop&q=FENDI+Gray+Rose+Gold+Ladies+Sunglasses+FF+0382+S+35J+99+-",
+  "url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Web search: Fendi sale",
@@ -28696,8 +28698,7 @@
   "source_url": "https://slickdeals.net/e/14783011-fendi-gray-rose-gold-ladies-sunglasses-ff-0382-s-35j-99-84-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=FENDI+Gray+Rose+Gold+Ladies+Sunglasses+FF+0382+S+35J+99+-",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "741d2e8a18f406a6",
@@ -35041,7 +35042,8 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "7ddba9efd8e849d9",
@@ -35078,7 +35080,7 @@
  {
   "id": "6baf9cf95fcd83bc",
   "title": "Round Trip New Orleans to Liberia Costa Rica $287 Airfares on American, Southwest or United Airlines BE (Travel January 2027)",
-  "url": "https://slickdeals.net/f/20272470-round-trip-new-orleans-to-liberia-costa-rica-287-airfares-on-american-southwest-or-united-airlines-be-travel-january-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20New%20Orleans%20to%20Liberia%20Costa%20Rica",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Costa Rica flight deal",
@@ -35086,6 +35088,175 @@
   "hot": false,
   "pct": null,
   "price": 287.0,
-  "found_at": "2026-11-08T01:41:51Z"
+  "found_at": "2026-11-08T01:41:51Z",
+  "window": "January 2027) - 2026-11-07",
+  "depart": "2027-01-03",
+  "return": "2027-01-05",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20272470-round-trip-new-orleans-to-liberia-costa-rica-287-airfares-on-american-southwest-or-united-airlines-be-travel-january-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Orleans%20to%20Liberia%20Costa%20Rica"
+ },
+ {
+  "id": "85d5c275ec71f22c",
+  "title": "Refurb/Used: DJI Osmo Action 6 8K Action Camera Combo from $200 or Less + Free S&H",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+Used+DJI+Osmo+Action+6+8K+Action+Camera+Combo+from",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 200.0,
+  "found_at": "2026-11-08T01:47:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20271843-refurb-dji-osmo-action-6-8k-camera-combo-1-1-1-inch-sensor-f-2-f-4-variable-aperture-200-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Used+DJI+Osmo+Action+6+8K+Action+Camera+Combo+from",
+  "exact": false
+ },
+ {
+  "id": "ccbe3d55035f1d4b",
+  "title": "lululemon We Made Too Much Event: Up to 84% off + free shipping",
+  "url": "https://shop.lululemon.com/search?Ntt=lululemon+We+Made+Too+Much+Event+Up+to+84+off+%2B",
+  "why": "Lululemon 84% off",
+  "category": "fashion",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 84,
+  "price": null,
+  "found_at": "2026-11-08T01:47:26Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/lululemon-We-Made-Too-Much-Event-Up-to-84-off-free-shipping/22355415.html?iref=rss",
+  "store": "Lululemon",
+  "similar": "https://shop.lululemon.com/search?Ntt=lululemon+We+Made+Too+Much+Event+Up+to+84+off+%2B",
+  "exact": false
+ },
+ {
+  "id": "5b9a8416eb428277",
+  "title": "Carrera Unisex FLAGLAB 14 Square Sunglasses - down 6.55% ($7.94) to $113.21 from $121.15",
+  "url": "https://www.amazon.com/dp/B0BVKJNPS3",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.94,
+  "found_at": "2026-11-08T01:47:26Z",
+  "source_url": "https://camelcamelcamel.com/product/B0BVKJNPS3",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Carrera+Unisex+FLAGLAB+14+Square+Sunglasses+-+down+6.55"
+ },
+ {
+  "id": "50ae309953662083",
+  "title": "Garmin New OEM U.S. & Coastal ...ear Subscription, 010-C1287-20 - down 4.49% ($7.75) to $165.00 from $172.75",
+  "url": "https://www.amazon.com/dp/B0C2SCTWPG",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.75,
+  "found_at": "2026-11-08T01:47:26Z",
+  "source_url": "https://camelcamelcamel.com/product/B0C2SCTWPG",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+OEM+U.S.+%26+Coastal+...ear+Subscription+010-C1287-20+-+down+4.49"
+ },
+ {
+  "id": "1e49c26f43bfa146",
+  "title": "Official Ray-Ban Clearance Sale: Up to 50% Off Select Sunglasses Styles (Wayfarer, Aviator, Clubmaster & More) + Free Shipping $133",
+  "url": "https://www.google.com/search?tbm=shop&q=Official+Ray-Ban+Clearance+Up+to+50+Off+Select+Sunglasses+Styles+%2B",
+  "why": "Ray-Ban 50% off",
+  "category": "fashion",
+  "source": "Slickdeals: Sunglasses",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 133.0,
+  "found_at": "2026-11-08T01:47:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20273427-official-ray-ban-clearance-sale-up-to-50-off-select-sunglasses-styles-wayfarer-aviator-clubmaster-more-free-shipping-133?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Official+Ray-Ban+Clearance+Up+to+50+Off+Select+Sunglasses+Styles+%2B",
+  "exact": false
+ },
+ {
+  "id": "6f78d5279c85dd47",
+  "title": "Official Ray-Ban Clearance Sale: Up to 50% Off Select Sunglasses Styles (Wayfarer, Aviator, Clubmaster & More) + Free Shipping $133",
+  "url": "https://www.google.com/search?tbm=shop&q=Official+Ray-Ban+Clearance+Up+to+50+Off+Select+Sunglasses+Styles+%2B",
+  "why": "Ray-Ban 50% off",
+  "category": "fashion",
+  "source": "Slickdeals: Ray-Ban",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 133.0,
+  "found_at": "2026-11-08T01:47:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20273427-official-ray-ban-clearance-sale-up-to-50-off-select-sunglasses-styles-wayfarer-aviator-clubmaster-more-free-shipping-133?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Official+Ray-Ban+Clearance+Up+to+50+Off+Select+Sunglasses+Styles+%2B",
+  "exact": false
+ },
+ {
+  "id": "92a6caf779708ade",
+  "title": "MONGERY Carrying Case for Nintendo Switch 2, Hard Shell Storage for Console, Charger & Accessories, 10 Game Card Slots – Black - $9.50",
+  "url": "https://www.amazon.com/s?k=MONGERY+Carrying+Case+for+Nintendo+Switch+2+Hard+Shell+Storage+for+Console+Charg",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch 2",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.5,
+  "found_at": "2026-11-08T01:47:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20273361-mongery-carrying-case-for-nintendo-switch-2-hard-shell-storage-for-console-charger-accessories-10-game-card-slots-black-9-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=MONGERY+Carrying+Case+for+Nintendo+Switch+2+Hard+Shell+Storage+for+Console+Charg",
+  "exact": false
+ },
+ {
+  "id": "f7aca872efb67ba3",
+  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
+  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.99,
+  "found_at": "2026-11-08T01:50:51Z"
+ },
+ {
+  "id": "4cd84445e6c28ca7",
+  "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aefd57e110a4735a98ac9ce8bd794b7&url=https%3a%2f%2frobbreport.com%2fstyle%2fwatch-collector%2frolex-patek-audemars-piguet-secondary-watch-market-1238794281%2f&c=12461164986070000086&mkt=en-us",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Rolex price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 26.6,
+  "found_at": "2026-11-08T01:50:55Z"
+ },
+ {
+  "id": "ef5054aea0ef0b7c",
+  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
+  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Omega price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-08T01:51:00Z"
  }
 ]
