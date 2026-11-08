@@ -157,7 +157,8 @@
   "source_url": "https://slickdeals.net/f/20248227-gopro-max2-360-action-camera-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo",
   "similar": "https://www.bhphotovideo.com/c/search?q=GoPro+MAX2+360+Action+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T23:35:11Z"
  },
  {
   "id": "a5d54370830403a6",
@@ -173,7 +174,8 @@
   "found_at": "2026-11-07T01:53:55Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-08T23:35:13Z"
  },
  {
   "id": "415602531dc62e65",
@@ -189,7 +191,8 @@
   "found_at": "2026-11-07T01:53:55Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-08T23:35:14Z"
  },
  {
   "id": "547663ac9a886e17",
@@ -207,7 +210,8 @@
   "source_url": "https://slickdeals.net/f/20114910-prime-day-gopro-lit-hero-lightweight-compact-waterproof-action-camera-with-built-in-light-4k60-ultra-hd-video-12mp-photo-touch-screen-hypersmooth-stabilization-179-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=GoPro+LIT+Hero+-+Lightweight+Compact+Waterproof+Action+Camera+with+Built-in+Ligh",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T23:35:17Z"
  },
  {
   "id": "6d2820065d1e06a6",
@@ -225,7 +229,8 @@
   "source_url": "https://slickdeals.net/f/20080080-gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-easy-replaceable-lenses-hypersmooth-stabilization-for-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=GoPro+MAX2+-+Waterproof+360+%2B+Traditional+Action+Camera+with+Touch+Screen+Spheri",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T23:35:18Z"
  },
  {
   "id": "09e17c9f77b81a46",
@@ -243,7 +248,8 @@
   "source_url": "https://slickdeals.net/f/20050281-open-box-gopro-max-2-8k-360-action-camera-261-or-less-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open-Box+GoPro+MAX+2+8K+360+Action+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T23:35:20Z"
  },
  {
   "id": "c5f774423e3b927a",
@@ -260,7 +266,8 @@
   "source_url": "https://slickdeals.net/f/20035095-telesin-waterproof-selfie-stick-buoyancy-bar-wireless-remote-control-for-gopro-hero-free-s-h-16-42?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TELESIN+Waterproof+Selfie+Stick+Buoyancy+Bar+%26+Wireless+Remote+Control+For+GoPro",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T23:35:22Z"
  },
  {
   "id": "762777ce9384d966",
@@ -278,7 +285,8 @@
   "source_url": "https://slickdeals.net/f/20002146-gopro-max2-8k-360-action-camera-bundle-free-shipping-299-99-costco?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=GoPro+MAX2+8K+360+Action+Camera+Bundle+%2B",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-08T23:35:23Z"
  },
  {
   "id": "941ab71b17deee48",
@@ -34826,5 +34834,49 @@
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Striker+4+3.5+GPS+Fishfinder+w+CHIRP+Sonar+%26+Transducer",
   "exact": false
+ },
+ {
+  "id": "2d673002807db8c4",
+  "title": "[WTS] Amouage Purpose Full Presentation CONUS [Bottle]",
+  "url": "https://www.google.com/search?tbm=shop&q=Amouage+Purpose+Full+Presentation+CONUS",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-08T23:32:03Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xrc7ni/wts_amouage_purpose_full_presentation_conus_bottle/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Amouage+Purpose+Full+Presentation+CONUS",
+  "exact": false
+ },
+ {
+  "id": "f7aca872efb67ba3",
+  "title": "$36.99: Apple 35W Dual USB-C Port Compact Power Adapter at Woot!",
+  "url": "https://slickdeals.net/f/20238438-36-99-apple-35w-dual-usb-c-port-compact-power-adapter-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.99,
+  "found_at": "2026-11-08T23:35:37Z"
+ },
+ {
+  "id": "dca386305d97ba99",
+  "title": "Why Rolex, Audemars Piguet, and Patek Philippe Dominate the $26.6 Billion Secondary Watch Market",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af1074d112b48ac862392d3e39247fb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fwhy-rolex-audemars-piguet-patek-170000359.html&c=712941805569690447&mkt=en-us",
+  "why": "",
+  "category": "watches",
+  "source": "Web search: Rolex price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 26.6,
+  "found_at": "2026-11-08T23:35:41Z"
  }
 ]
