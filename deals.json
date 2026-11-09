@@ -1,31 +1,5 @@
 [
  {
-  "id": "dc9d3e0de5994284",
-  "title": "RT New York to Oahu Hawaii or Vice Versa $397 Airfares on Delta Air Lines BE (Travel January - February 2026)",
-  "url": "https://slickdeals.net/f/18831613-rt-new-york-to-oahu-hawaii-or-vice-versa-397-airfares-on-delta-air-lines-be-travel-january-february-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Hawaii flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 397.0,
-  "found_at": "2026-11-07T15:01:27Z",
-  "window": "January - February 2026) - 2025-11-19",
-  "depart": "2027-02-03",
-  "return": "2027-02-12",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/18831613-rt-new-york-to-oahu-hawaii-or-vice-versa-397-airfares-on-delta-air-lines-be-travel-january-february-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "HNL"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-09T20:12:21Z"
- },
- {
   "id": "b2038ef05dfc9c5e",
   "title": "RT Buffalo or Rochester NY to Oahu Honolulu Hawaii or Vice Versa $465 Airfares on United or Delta Air Lines BE (Travel October - December 2025)",
   "url": "https://slickdeals.net/f/18644908-rt-buffalo-or-rochester-ny-to-oahu-honolulu-hawaii-or-vice-versa-465-airfares-on-united-or-delta-air-lines-be-travel-october-december-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -675,7 +649,8 @@
   "source_url": "https://slickdeals.net/f/19649586-nordstrom-designer-clearance-extra-25-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Nordstrom",
   "similar": "https://www.nordstrom.com/sr?keyword=Nordstrom+Designer+Clearance+Extra+25+Off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:28:55Z"
  },
  {
   "id": "d16ac2aa6323a149",
@@ -692,7 +667,8 @@
   "source_url": "https://slickdeals.net/e/13137808-saks-fifth-avenue-designer-sale-up-to-75-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+75+Off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:28:55Z"
  },
  {
   "id": "d6f92ee0241d87f1",
@@ -709,7 +685,8 @@
   "source_url": "https://slickdeals.net/e/13096699-saks-fifth-avenue-designer-sale-up-to-50-off-women-s-ready-to-wear-up-to-40-off-accessories-and-men-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+50+Off+Women%27s+Ready+to+Wear+%26+Up+to+40+Off+A",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:28:56Z"
  },
  {
   "id": "010f770f92ed8629",
@@ -726,7 +703,8 @@
   "source_url": "https://slickdeals.net/e/13026310-saks-50-off-every-200-works-on-designer-bags?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:28:57Z"
  },
  {
   "id": "9de8242cb24fed57",
@@ -743,7 +721,8 @@
   "source_url": "https://slickdeals.net/f/20246235-refurbished-32gb-10-2-apple-ipad-8th-gen-2020-87-47-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Refurbished+32GB+10.2+Apple+iPad+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:28:59Z"
  },
  {
   "id": "c4c31e2fc9eceb08",
@@ -759,7 +738,8 @@
   "found_at": "2026-11-07T18:43:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T20:29:00Z"
  },
  {
   "id": "bdb6df4c06297934",
@@ -777,7 +757,8 @@
   "source_url": "https://slickdeals.net/f/20170179-select-costco-stores-49mm-apple-watch-ultra-3-gps-cellular-m-l-black-500-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Select+Costco+Stores+49mm+Apple+Watch+Ultra+3+GPS+%2B+Cellular",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:03Z"
  },
  {
   "id": "cfefb33a24b384d2",
@@ -795,7 +776,8 @@
   "source_url": "https://slickdeals.net/f/20137506-costco-apple-watch-ultra-3-49mm-smartwatch-gps-cellular-499-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Apple+Watch+Ultra+3+49mm+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:05Z"
  },
  {
   "id": "58a3b73aa92c4071",
@@ -813,7 +795,8 @@
   "source_url": "https://slickdeals.net/f/20099820-costco-members-apple-watch-ultra-4-gps-cellular-49mm-black-titanium-case-with-5g-and-satellite-communications-size-m-l-various-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+-+Apple+Watch+Ultra+4+49mm+Black+Titanium+Case+with+5G+and+Satell",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:07Z"
  },
  {
   "id": "0d9c6cf117597087",
@@ -831,7 +814,8 @@
   "source_url": "https://slickdeals.net/f/20099733-costco-members-apple-watch-series-12-gps-42mm-size-s-m-349-99-46mm-size-m-l-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+-+Apple+Watch+Series+12+42mm+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:08Z"
  },
  {
   "id": "ab8a86d542e5a7d6",
@@ -849,7 +833,8 @@
   "source_url": "https://slickdeals.net/f/19976526-invicta-bolt-stainless-steel-women-s-quartz-watch-36-5mm-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Invicta+Bolt+Stainless+Steel+Women%27s+Quartz+Watch+36.5mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:10Z"
  },
  {
   "id": "b154e5945aa9cb15",
@@ -867,7 +852,8 @@
   "source_url": "https://slickdeals.net/f/19971759-costco-members-buy-2-apple-watch-ultra-3-save-360-1199-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Buy+2+Apple+Watch+Ultra+3+-+Save",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:12Z"
  },
  {
   "id": "92f617da051f98a3",
@@ -885,7 +871,8 @@
   "source_url": "https://slickdeals.net/f/19971687-costco-members-buy-2-apple-watch-series-11-save-240-599-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Buy+2+Apple+Watch+Series+11+-+Save",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:14Z"
  },
  {
   "id": "7bfa2c43d1447d5f",
@@ -903,7 +890,8 @@
   "source_url": "https://slickdeals.net/f/19940100-costco-apple-watch-se-3-gps-40mm-case-with-sport-band-size-s-m-189?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Apple+Watch+SE+3+40mm+Case+with+Sport+Band",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:16Z"
  },
  {
   "id": "c93d3319fc227a4d",
@@ -921,7 +909,8 @@
   "source_url": "https://slickdeals.net/f/19894173-invicta-bolt-stainless-steel-chronograph-men-s-quartz-watch-51mm-84-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Invicta+Bolt+Stainless+Steel+Chronograph+Men%27s+Quartz+Watch+51mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:29:17Z"
  },
  {
   "id": "cf2e46e66fdf4edf",
@@ -28078,7 +28067,7 @@
  {
   "id": "ef25ae4baaddc548",
   "title": "LensCrafters - Burberry Frame + Lenses $330.6",
-  "url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Burberry",
@@ -28090,7 +28079,8 @@
   "source_url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "951d8fea22be41b5",
@@ -28113,7 +28103,7 @@
  {
   "id": "14cc80cc4d9b5c3d",
   "title": "Designer Fragrances - Versace, Chloe, Marc Jacobs, Mugler, Carolina Herrera, etc... $59.99",
-  "url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Burberry",
@@ -28125,7 +28115,8 @@
   "source_url": "https://slickdeals.net/f/20009682-designer-fragrances-versace-chloe-marc-jacobs-mugler-carolina-herrera-etc-59-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Designer+Fragrances+-+Versace+Chloe+Marc+Jacobs+Mugler+Carolina+Herrera+etc...",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2a5475cd4085f609",
@@ -35072,11 +35063,11 @@
   "pct": null,
   "price": 60.0,
   "found_at": "2026-11-09T20:18:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19010416-12-days-of-luxury-beauty-advent-calendar-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=12+Days+Of+Luxury+Beauty+Advent+Calendar",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a222464102e82f09",
@@ -35090,11 +35081,11 @@
   "pct": null,
   "price": 24.0,
   "found_at": "2026-11-09T20:18:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5efc9b6d0e0dc4b0",
@@ -35162,11 +35153,11 @@
   "pct": null,
   "price": 8999.99,
   "found_at": "2026-11-09T20:18:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/14990246-jomashop-com-cartier-cle-18kt-rose-gold-automatic-flinque-sunray-dial-ladies-watch-wjcl0031-8999-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+CARTIER+Cle+18kt+Rose+Gold+Automatic+Flinque+Sunray+Dial+Ladies+Wat",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "186b04c715c9be4c",
@@ -35180,11 +35171,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-09T20:18:16Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14801593-free-cartier-la-panth-re-parfum-sample?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Free+Cartier+La+Panth+re+Parfum+Sample",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "18ba02fd7dff5cf8",
@@ -35201,5 +35192,23 @@
   "source_url": "https://camelcamelcamel.com/product/B0GMHJVLKC",
   "exact": true,
   "similar": "https://www.google.com/search?tbm=shop&q=Maison+Alhambra+Jean+Lowe+Summer+Vibes+Eau+de+Parfum+Spray+-+down+23.55"
+ },
+ {
+  "id": "5bca98ace1113cbc",
+  "title": "Louis Vuitton Sur La Route 100/200ml bottles",
+  "url": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+Sur+La+Route+100+200ml+bottles",
+  "why": "",
+  "category": "fashion",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-09T20:26:34Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xs2brs/louis_vuitton_sur_la_route_100200ml_bottles/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Louis+Vuitton+Sur+La+Route+100+200ml+bottles",
+  "exact": false
  }
 ]
