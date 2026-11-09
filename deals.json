@@ -1239,22 +1239,6 @@
   "checked_at": "2026-11-09T09:50:10Z"
  },
  {
-  "id": "246f6ff194f28b88",
-  "title": "Bose Smart Ultra Dolby Atmos Soundbar (Alexa, HDMI eARC) $649",
-  "url": "https://www.amazon.com/gp/product/B0C547BMQZ/ref=ox_sc_act_title_1?smid=A13BNE3P7C8THK&psc=1",
-  "why": "",
-  "category": "tech",
-  "source": "TechBargains",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 649.0,
-  "found_at": "2026-11-07T07:40:59Z",
-  "store_url": "https://www.amazon.com/gp/product/B0C547BMQZ/ref=ox_sc_act_title_1?smid=A13BNE3P7C8THK&psc=1",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+Smart+Ultra+Dolby+Atmos+Soundbar"
- },
- {
   "id": "3a8ea7523b0e4560",
   "title": "Bose QuietComfort ANC Wireless Bluetooth Over Ear Headphones $169.00",
   "url": "https://www.amazon.com/gp/product/B0CCZ1SQ8G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
@@ -1268,7 +1252,8 @@
   "found_at": "2026-11-07T07:40:59Z",
   "store_url": "https://www.amazon.com/gp/product/B0CCZ1SQ8G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+ANC+Wireless+Bluetooth+Over+Ear+Headphones"
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+ANC+Wireless+Bluetooth+Over+Ear+Headphones",
+  "checked_at": "2026-11-09T09:58:42Z"
  },
  {
   "id": "39201ac13d2b132b",
@@ -1284,7 +1269,8 @@
   "found_at": "2026-11-07T07:40:59Z",
   "store_url": "https://www.amazon.com/gp/product/B0F7HVC62G/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+SoundLink+Plus+Waterproof+and+Dustproof+Portable+Bluetooth+Speaker"
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+SoundLink+Plus+Waterproof+and+Dustproof+Portable+Bluetooth+Speaker",
+  "checked_at": "2026-11-09T09:58:42Z"
  },
  {
   "id": "32bc3ee64cc0bafb",
@@ -1300,7 +1286,8 @@
   "found_at": "2026-11-07T07:40:59Z",
   "store_url": "https://www.amazon.com/gp/product/B0H7X6SX6R/ref=ox_sc_act_title_1?ie=UTF8&smid=ATVPDKIKX0DER&redirect=true&psc=1&s=psc&ASIN=B0H7X6SX6R",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+Watch+5+41mm+Android+Smartwatch"
+  "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+Watch+5+41mm+Android+Smartwatch",
+  "checked_at": "2026-11-09T09:58:42Z"
  },
  {
   "id": "abd452cc18aff63f",
@@ -1316,7 +1303,8 @@
   "found_at": "2026-11-07T07:40:59Z",
   "store_url": "https://www.amazon.com/gp/product/B0DYQR8R98/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=LG+65+OLED+evo+AI+4K+120Hz+G5+Series+Smart+TV+with+Dolby+Atmos"
+  "similar": "https://www.google.com/search?tbm=shop&q=LG+65+OLED+evo+AI+4K+120Hz+G5+Series+Smart+TV+with+Dolby+Atmos",
+  "checked_at": "2026-11-09T09:58:42Z"
  },
  {
   "id": "56b88083c4b7550b",
@@ -1332,7 +1320,8 @@
   "found_at": "2026-11-07T07:40:59Z",
   "store_url": "https://www.amazon.com/gp/product/B0FKTFMH2F/ref=ox_sc_act_title_1?smid=A2NDWLXVU4D9RN&psc=1",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Nubwo+HG04L+Wired+Gaming+Headset"
+  "similar": "https://www.google.com/search?tbm=shop&q=Nubwo+HG04L+Wired+Gaming+Headset",
+  "checked_at": "2026-11-09T09:58:42Z"
  },
  {
   "id": "26d74ac2cc1a5b53",
@@ -1348,7 +1337,8 @@
   "found_at": "2026-11-07T07:40:59Z",
   "store_url": "https://www.amazon.com/gp/product/B0FWD623D1/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.apple.com/us/search/Apple%20MacBook%20Pro%2014.2%20M5%2010-Core%20CPU%2010-Core%20GPU%203024x1964%20Mini-LED%20Laptop"
+  "similar": "https://www.apple.com/us/search/Apple%20MacBook%20Pro%2014.2%20M5%2010-Core%20CPU%2010-Core%20GPU%203024x1964%20Mini-LED%20Laptop",
+  "checked_at": "2026-11-09T09:58:42Z"
  },
  {
   "id": "de29baf426cf61bb",
@@ -1366,7 +1356,8 @@
   "source_url": "https://slickdeals.net/f/20267970-apple-iphone-18-pro-silicone-case-with-magsafe-olive-29-33?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+iPhone+18+Pro+Silicone+Case+with+MagSafe+-+Olive",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T09:58:43Z"
  },
  {
   "id": "7700bc5bfffa9c20",
@@ -1382,7 +1373,8 @@
   "found_at": "2026-11-07T07:56:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T09:58:45Z"
  },
  {
   "id": "b52144a7577f108f",
@@ -1398,7 +1390,8 @@
   "found_at": "2026-11-07T07:56:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T09:58:47Z"
  },
  {
   "id": "7212783b5e5eaa1a",
@@ -1414,7 +1407,8 @@
   "found_at": "2026-11-07T07:56:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T09:58:48Z"
  },
  {
   "id": "04fef40c432144ad",
@@ -1430,7 +1424,8 @@
   "found_at": "2026-11-07T07:56:10Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T09:58:49Z"
  },
  {
   "id": "7ec99d825e2c78cf",
@@ -1448,7 +1443,8 @@
   "source_url": "https://slickdeals.net/f/20261715-galaxy-watch-ultra2-199-on-samsung-app-with-trade-could-be-targeted?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Galaxy+Watch+Ultra2",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T09:58:50Z"
  },
  {
   "id": "bab8704cd0d7a6c5",
@@ -1466,7 +1462,8 @@
   "source_url": "https://slickdeals.net/f/20260188-refurbished-excellentsamsung-galaxy-z-flip7-5g-sm-f766u-512gb-unlocked-with-code-save20tech-569-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Refurbished+-+ExcellentSamsung+Galaxy+Z+Flip7+5G+-+SM-F766U+-+512GB+-+Unlocked+w",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T09:58:52Z"
  },
  {
   "id": "2bc83dd56b39bec2",
@@ -1483,7 +1480,8 @@
   "source_url": "https://slickdeals.net/f/20008227-omega-seamaster-olympic-timekeeper-automatic-black-dial-men-s-watch-3750?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Omega+Seamaster+Olympic+Timekeeper+Automatic+Black+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T09:58:53Z"
  },
  {
   "id": "4b88ae3f7a7d8797",
@@ -28012,7 +28010,7 @@
  {
   "id": "c7508eec913502e0",
   "title": "Montblanc Watches: 41MM TimeWalker Automatic Black Dial Men's Watch $1250, 47MM 1858 Automatic Black Dial Men's Watch​ $1450 & More+ Free Shipping",
-  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Watches+41MM+TimeWalker+Automatic+Black+Dial+Men%27s+Watch",
+  "url": "https://slickdeals.net/f/18192610-montblanc-watches-41mm-timewalker-automatic-black-dial-men-s-watch-1250-47mm-1858-automatic-black-dial-men-s-watch-1450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Montblanc",
@@ -28024,8 +28022,7 @@
   "source_url": "https://slickdeals.net/f/18192610-montblanc-watches-41mm-timewalker-automatic-black-dial-men-s-watch-1250-47mm-1858-automatic-black-dial-men-s-watch-1450-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Montblanc+Watches+41MM+TimeWalker+Automatic+Black+Dial+Men%27s+Watch",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "e7108167ed341cfb",
@@ -28048,7 +28045,7 @@
  {
   "id": "68e0cd11a3af08b7",
   "title": "(NEW) Apple AirPods 5 Wireless Earbuds with ANC $119",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+AirPods+5+Wireless+Earbuds+with+ANC",
+  "url": "https://slickdeals.net/f/20259027-new-apple-airpods-5-wireless-earbuds-with-anc-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods",
@@ -28060,13 +28057,12 @@
   "source_url": "https://slickdeals.net/f/20259027-new-apple-airpods-5-wireless-earbuds-with-anc-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+AirPods+5+Wireless+Earbuds+with+ANC",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "8ff3a06f8d9a5585",
   "title": "LG Partners Store 55\" Class LG OLED evo AI C6 4K Smart TV 2026 $809.99 (plus tax)",
-  "url": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
+  "url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -28078,8 +28074,7 @@
   "source_url": "https://slickdeals.net/f/20252028-lg-partners-store-55-class-lg-oled-evo-ai-c6-4k-smart-tv-2026-809-99-plus-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partners+Store+55+Class+LG+OLED+evo+AI+C6+4K+Smart+TV+2026",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "be74fbdaa9318aff",
@@ -28136,7 +28131,7 @@
  {
   "id": "40d02f40b2459ebe",
   "title": "83\" LG C6 OLED evo AI 4K 120Hz HDR Smart TV $2387 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
+  "url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -28148,8 +28143,7 @@
   "source_url": "https://slickdeals.net/f/20245233-83-lg-c6-oled-evo-ai-4k-120hz-hdr-smart-tv-2387-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=83+LG+C6+OLED+evo+AI+4K+120Hz+HDR+Smart+TV",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "6ba69ddb70d46a46",
@@ -28238,7 +28232,7 @@
  {
   "id": "f3eb42180a125b6c",
   "title": "Active Military - Sony WH1000XM6 Wireless Bluetooth Noise Canceling Over-Ear Headphones $289.00",
-  "url": "https://www.google.com/search?tbm=shop&q=Active+Military+-+Sony+WH1000XM6+Wireless+Bluetooth+Noise+Canceling+Over-Ear+Hea",
+  "url": "https://slickdeals.net/f/20269188-active-military-sony-wh1000xm6-wireless-bluetooth-noise-canceling-over-ear-headphones-289-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Headphones",
@@ -28250,8 +28244,7 @@
   "source_url": "https://slickdeals.net/f/20269188-active-military-sony-wh1000xm6-wireless-bluetooth-noise-canceling-over-ear-headphones-289-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Active+Military+-+Sony+WH1000XM6+Wireless+Bluetooth+Noise+Canceling+Over-Ear+Hea",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "481eb6254fc92a7d",
@@ -28274,7 +28267,7 @@
  {
   "id": "bacfdcad24d1cd9c",
   "title": "Refurb: Sony WH-1000XM5 Wireless Noise Canceling Headphones (Black) $128 + Free S&H",
-  "url": "https://www.google.com/search?tbm=shop&q=Refurb+Sony+WH-1000XM5+Wireless+Noise+Canceling+Headphones",
+  "url": "https://slickdeals.net/f/20246793-refurb-sony-wh-1000xm5-wireless-noise-canceling-headphones-black-128-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Headphones",
@@ -28286,8 +28279,7 @@
   "source_url": "https://slickdeals.net/f/20246793-refurb-sony-wh-1000xm5-wireless-noise-canceling-headphones-black-128-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Sony+WH-1000XM5+Wireless+Noise+Canceling+Headphones",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "4c7e8b4807d3c32d",
@@ -28496,7 +28488,7 @@
  {
   "id": "771be4914b18987c",
   "title": "Sony WH-1000XM4C headphones for $248+ tax",
-  "url": "https://www.google.com/search?tbm=shop&q=Sony+WH-1000XM4C+headphones+for",
+  "url": "https://slickdeals.net/f/20180940-sony-wh-1000xm4c-headphones-for-248-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Headphones",
@@ -28508,8 +28500,7 @@
   "source_url": "https://slickdeals.net/f/20180940-sony-wh-1000xm4c-headphones-for-248-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+WH-1000XM4C+headphones+for",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "9b651cc28ac06138",
@@ -34330,11 +34321,11 @@
   "pct": null,
   "price": 2450.0,
   "found_at": "2026-11-09T09:47:08Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20269659-sony-77-class-bravia-xr-a95l-qd-oled-4k-hdr-smart-tv-with-google-tv-xr77a95l-2023-model-2450?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+77+Class+BRAVIA+XR+A95L+QD-OLED+4K+HDR+Smart+TV+with+Google+TV+XR77A95L+-20",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7dc7b16ed37ad01a",
@@ -34463,7 +34454,7 @@
  {
   "id": "c118aca8af4e847e",
   "title": "Maledan Clear MagSafe Case for iPhone [18 Pro / 17 Pro] for $5.99 - $7.79 (Reg. $9.99 - $12.99) + Free Shipping w/ Prime or on $35+ w/ Promo Code",
-  "url": "https://slickdeals.net/f/20267646-maledan-clear-magsafe-case-for-iphone-18-pro-17-pro-for-5-99-7-79-reg-9-99-12-99-free-shipping-w-prime-or-on-35-w-promo-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Maledan+Clear+MagSafe+Case+for+iPhone+for",
   "why": "",
   "category": "tech",
   "source": "Web search: iPhone deal",
@@ -34471,38 +34462,17 @@
   "hot": false,
   "pct": 40,
   "price": 5.99,
-  "found_at": "2026-11-09T09:50:15Z"
- },
- {
-  "id": "73230b823694ed3f",
-  "title": "INIU - Magnetic Power Bank, Qi2 10000mAh Ultra Compact Portable Charger with Foldable Stand for iPhone 17/16/15/14/13/12 Series - Black $27.99 Bestbuy.com",
-  "url": "https://slickdeals.net/f/20265276-iniu-magnetic-power-bank-qi2-10000mah-ultra-compact-portable-charger-with-foldable-stand-for-iphone-17-16-15-14-13-12-series-black-27-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 27.99,
-  "found_at": "2026-11-09T09:50:15Z"
- },
- {
-  "id": "102a425b763d66fb",
-  "title": "INIU - Portable Charger, Compact 20000mAh PD Power Bank with Built-in Cable & Digital Display for iPhone, Samsung etc - Black $27.99 Bestbuy.com",
-  "url": "https://slickdeals.net/f/20265255-iniu-portable-charger-compact-20000mah-pd-power-bank-with-built-in-cable-digital-display-for-iphone-samsung-etc-black-27-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 27.99,
-  "found_at": "2026-11-09T09:50:15Z"
+  "found_at": "2026-11-09T09:50:15Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20267646-maledan-clear-magsafe-case-for-iphone-18-pro-17-pro-for-5-99-7-79-reg-9-99-12-99-free-shipping-w-prime-or-on-35-w-promo-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Maledan+Clear+MagSafe+Case+for+iPhone+for",
+  "exact": false
  },
  {
   "id": "9e7e80c4278c1c73",
   "title": "Open box Apple Macbook Air 13\" M5 Chip 1TB SSD 16GB RAM 10-core GPU Midnight $1169.1",
-  "url": "https://slickdeals.net/f/20258823-open-box-apple-macbook-air-13-m5-chip-1tb-ssd-16gb-ram-10-core-gpu-midnight-1169-1?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Open+box+Apple+Macbook+Air+13+M5+Chip+1TB+SSD+16GB+RAM+10-core+GPU+Midnight",
   "why": "",
   "category": "tech",
   "source": "Web search: MacBook Air deal",
@@ -34510,12 +34480,17 @@
   "hot": false,
   "pct": null,
   "price": 1169.1,
-  "found_at": "2026-11-09T09:50:21Z"
+  "found_at": "2026-11-09T09:50:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258823-open-box-apple-macbook-air-13-m5-chip-1tb-ssd-16gb-ram-10-core-gpu-midnight-1169-1?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Open+box+Apple+Macbook+Air+13+M5+Chip+1TB+SSD+16GB+RAM+10-core+GPU+Midnight",
+  "exact": false
  },
  {
   "id": "bb8e52955ca4b9a5",
   "title": "MOSISO 16-inch MacBook Pro case kit for $7.49 (50% off)",
-  "url": "https://slickdeals.net/f/20268378-mosiso-16-inch-macbook-pro-case-kit-for-7-49-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=MOSISO+16-inch+MacBook+Pro+case+kit+for",
   "why": "",
   "category": "tech",
   "source": "Web search: MacBook Pro deal",
@@ -34523,12 +34498,17 @@
   "hot": false,
   "pct": 50,
   "price": 7.49,
-  "found_at": "2026-11-09T09:50:25Z"
+  "found_at": "2026-11-09T09:50:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20268378-mosiso-16-inch-macbook-pro-case-kit-for-7-49-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=MOSISO+16-inch+MacBook+Pro+case+kit+for",
+  "exact": false
  },
  {
   "id": "5194582e54e75e8a",
   "title": "Open Box Apple MacBook Pro 16\" M5 Max Chip 36GB RAM 2TB SSD 32-core GPU Silver MGE74LL/A $3449",
-  "url": "https://slickdeals.net/f/20258814-open-box-apple-macbook-pro-16-m5-max-chip-36gb-ram-2tb-ssd-32-core-gpu-silver-mge74ll-a-3449?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+Apple+MacBook+Pro+16+M5+Max+Chip+36GB+RAM+2TB+SSD+32-core+GPU+Silver+MG",
   "why": "",
   "category": "tech",
   "source": "Web search: MacBook Pro deal",
@@ -34536,32 +34516,547 @@
   "hot": false,
   "pct": null,
   "price": 3449.0,
-  "found_at": "2026-11-09T09:50:25Z"
+  "found_at": "2026-11-09T09:50:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20258814-open-box-apple-macbook-pro-16-m5-max-chip-36gb-ram-2tb-ssd-32-core-gpu-silver-mge74ll-a-3449?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+Apple+MacBook+Pro+16+M5+Max+Chip+36GB+RAM+2TB+SSD+32-core+GPU+Silver+MG",
+  "exact": false
  },
  {
-  "id": "61d42184338e60e2",
-  "title": "$13.29 | Beats 240W USB-C to USB-C Braided Cable (3 m/10 ft) at Amazon",
-  "url": "https://slickdeals.net/f/20272521-13-29-beats-240w-usb-c-to-usb-c-braided-cable-3-m-10-ft-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "97d25ca3ee7fbdc7",
+  "title": "[WTT] Dolce Gabbana King EDT-D&G Light Blue Love in Capri-Dior Sauvage",
+  "url": "https://www.google.com/search?tbm=shop&q=Dolce+Gabbana+King+EDT-D%26G+Light+Blue+Love+in+Capri-Dior+Sauvage",
   "why": "",
-  "category": "amazon",
-  "source": "Web search: Beats deal",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 13.29,
-  "found_at": "2026-11-09T09:50:33Z"
+  "price": null,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xrk2fy/wtt_dolce_gabbana_king_edtdg_light_blue_love_in/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Dolce+Gabbana+King+EDT-D%26G+Light+Blue+Love+in+Capri-Dior+Sauvage",
+  "exact": false
  },
  {
-  "id": "a54b5b98aa549e29",
-  "title": "Beats 240W USB-C to USB-C Braided Cable, Fast Charging, Durable/Tangle Free, Compatible with Apple and Android Devices (3 m/10 ft) – Bolt Black $12.62",
-  "url": "https://slickdeals.net/f/20269878-beats-240w-usb-c-to-usb-c-braided-cable-fast-charging-durable-tangle-free-compatible-with-apple-and-android-devices-3-m-10-ft-bolt-black-12-62?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "f36b843135873ad2",
+  "title": "PowerA Slim Travel Pro Case for Nintendo Switch (Kirby Power) - $12.99 @ Best Buy",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=PowerA+Slim+Travel+Pro+Case+for+Nintendo+Switch+-",
   "why": "",
-  "category": "amazon",
-  "source": "Web search: Beats deal",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 12.62,
-  "found_at": "2026-11-09T09:50:33Z"
+  "price": 12.99,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20278020-powera-slim-travel-pro-case-for-nintendo-switch-kirby-power-12-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=PowerA+Slim+Travel+Pro+Case+for+Nintendo+Switch+-",
+  "exact": false
+ },
+ {
+  "id": "c25ba5f191c8f24c",
+  "title": "30% off Designer Persol Sunglasses $255",
+  "url": "https://www.amazon.com/s?k=30+off+Designer+Persol+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 255.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19415868-30-off-designer-persol-sunglasses-255?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=30+off+Designer+Persol+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "c0bd0729330bcd36",
+  "title": "Persol Steve McQueen Folding Sunglasses $235",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Steve+McQueen+Folding+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 235.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18828877-persol-steve-mcqueen-folding-sunglasses-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Persol+Steve+McQueen+Folding+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "cc6e454d2174f1b1",
+  "title": "Polarized Sunglasses: Spy, adidas, Persol (Various Styles) from $28 & More + Free Shipping",
+  "url": "https://www.adidas.com/us/search?q=Polarized+Sunglasses+Spy+adidas+Persol+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 28.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16588580-polarized-sunglasses-spy-adidas-persol-various-styles-from-28-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Adidas",
+  "similar": "https://www.adidas.com/us/search?q=Polarized+Sunglasses+Spy+adidas+Persol+from",
+  "exact": false
+ },
+ {
+  "id": "e260fc73b2ab3eae",
+  "title": "Sunglasses Sale: Men's Sperry Striper Polarized Brow Bar Pilot Sunglasses $20 & More + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=Sunglasses+Men%27s+Sperry+Striper+Polarized+Brow+Bar+Pilot+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16284724-sunglasses-sale-men-s-sperry-striper-polarized-brow-bar-pilot-sunglasses-20-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Sunglasses+Men%27s+Sperry+Striper+Polarized+Brow+Bar+Pilot+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "3c23b03af0ab10b1",
+  "title": "Persol Sunglasses: Caffe Handmade Flat Top Square w/ Glass Lens $84 & More + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+Caffe+Handmade+Flat+Top+Square+w+Glass+Lens",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 84.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16028041-persol-sunglasses-caffe-handmade-flat-top-square-w-glass-lens-84-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+Caffe+Handmade+Flat+Top+Square+w+Glass+Lens",
+  "exact": false
+ },
+ {
+  "id": "071baa73e2215300",
+  "title": "Persol Sunglasses (Polarized and Non Polarized) from $99 + Free Ship",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 99.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15954541-persol-sunglasses-polarized-and-non-polarized-from-99-free-ship?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Persol+Sunglasses+from",
+  "exact": false
+ },
+ {
+  "id": "488bb96ca1a49587",
+  "title": "Sale Polarized and Non Polarized Sunglasses (various styles) from $39.99 +FS w/Prime or $6",
+  "url": "https://www.google.com/search?tbm=shop&q=Polarized+and+Non+Polarized+Sunglasses+from",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 39.99,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15889267-sale-polarized-and-non-polarized-sunglasses-various-styles-from-39-99-fs-w-prime-or-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Polarized+and+Non+Polarized+Sunglasses+from",
+  "exact": false
+ },
+ {
+  "id": "65d8bc3037cf36d2",
+  "title": "Ray-Ban, Oakley, and Costa del Mar Sunglasses, $54.99 - $222.99 + Free Shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+and+Costa+del+Mar+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.99,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15850138-ray-ban-oakley-and-costa-del-mar-sunglasses-54-99-222-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+and+Costa+del+Mar+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "6be530ed63504b64",
+  "title": "Ray-Ban, Oakley, & Persol Sunglasses, $48 - $222 + Free Shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 48.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15692881-ray-ban-oakley-persol-sunglasses-48-222-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+%26+Persol+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "6cf1cdacbd5ae2dd",
+  "title": "Persol Eyewear Sitewide Promotion of 25% Off with Free Delivery",
+  "url": "https://www.google.com/search?tbm=shop&q=Persol+Eyewear+Sitewide+Promotion+of+25+Off+with+Free+Delivery",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": null,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/14971931-persol-eyewear-sitewide-promotion-of-25-off-with-free-delivery?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Persol+Eyewear+Sitewide+Promotion+of+25+Off+with+Free+Delivery",
+  "exact": false
+ },
+ {
+  "id": "0871b57753a4a9af",
+  "title": "Polarized, Glass Persol Sunglasses $89 - Free shipping, no tax",
+  "url": "https://www.google.com/search?tbm=shop&q=Polarized+Glass+Persol+Sunglasses",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 89.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14787991-polarized-glass-persol-sunglasses-89-free-shipping-no-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Polarized+Glass+Persol+Sunglasses",
+  "exact": false
+ },
+ {
+  "id": "d91303d817a639ba",
+  "title": "Men's Persol Polarized Grey Prince of Wales Aviator w/ Glass Lens $84 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+Persol+Polarized+Grey+Prince+of+Wales+Aviator+w+Glass+Lens",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Persol",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 84.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14507618-men-s-persol-polarized-grey-prince-of-wales-aviator-w-glass-lens-84-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+Persol+Polarized+Grey+Prince+of+Wales+Aviator+w+Glass+Lens",
+  "exact": false
+ },
+ {
+  "id": "45da1ea05efa060b",
+  "title": "Popular Bose Smart Ultra soundbar drops to its lowest price ever, as Amazon deal knocks 35% off - PC Guide",
+  "url": "https://www.amazon.com/s?k=Popular+Bose+Smart+Ultra+soundbar+drops+to+its+lowest+price+ever+as+Amazon+knock",
+  "why": "Bose — lowest price ever",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 35,
+  "price": null,
+  "found_at": "2026-11-09T09:55:40Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUpOeWtLdkt4Z3ZvQ2JvRFNaOWJGMHI1MWwwQktJV1BlQ1lKSUFSRWFDaS0yeG5CWjRnVi1kMlpPWkJidmdoN2E1UjJyU2lLZ1g0cWtfZVg4dWlxYjdEUkttTnNMUEZucWwwZ2VHMzA1ZjktN1ZHNU1xQnBMZUgyUS01S1J0TFlYc1NYUUlxRWEtOWFtUy1iaC10MDdrYlBybWZRSTA1NUI5YVVzMFRJU1R1TmpFaVVBNUpybzdBSGRmZw?oc=5",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Popular+Bose+Smart+Ultra+soundbar+drops+to+its+lowest+price+ever+as+Amazon+knock",
+  "exact": false
+ },
+ {
+  "id": "af6d88a14644871e",
+  "title": "DJI Osmo Action 4K/120fps 1770mAh Camera w/ 4 Essential Combo $189.00",
+  "url": "https://www.amazon.com/gp/product/B0DS2B3P2B/ref=ox_sc_act_title_1?smid=A1TQCX1P8WQSDY&th=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 189.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "store_url": "https://www.amazon.com/gp/product/B0DS2B3P2B/ref=ox_sc_act_title_1?smid=A1TQCX1P8WQSDY&th=1",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+4K+120fps+1770mAh+Camera+w+4+Essential+Combo"
+ },
+ {
+  "id": "8a52fd4a2a197c49",
+  "title": "Apple Mac Mini M6 Desktop (16GB RAM, 256GB SSD) $779.00 | M5 Pro $1549",
+  "url": "https://www.amazon.com/gp/product/B0HGGJZ92H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "why": "",
+  "category": "tech",
+  "source": "TechBargains",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 779.0,
+  "found_at": "2026-11-09T09:55:40Z",
+  "store_url": "https://www.amazon.com/gp/product/B0HGGJZ92H/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Apple%20Mac%20Mini%20M6%20Desktop"
+ },
+ {
+  "id": "7e71511667672020",
+  "title": "Verizon Shine Rewards Weekly Daily Drops Nov 9 - Nov 15 $5 Sephora Gift Card, JBL PartyBox On-The-Go Essential Portable Party Speaker, Free Pizza or Salad...",
+  "url": "https://slickdeals.net/f/20277627-verizon-shine-rewards-weekly-daily-drops-nov-9-nov-15-5-sephora-gift-card-jbl-partybox-on-the-go-essential-portable-party-speaker-free-pizza-or-salad?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: JBL deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 5.0,
+  "found_at": "2026-11-09T09:58:56Z"
+ },
+ {
+  "id": "3a53ec2071ae121f",
+  "title": "$239* | Sonos Ace Noise Cancelling Wireless Over-Ear Headphones (Black) at Amazon",
+  "url": "https://slickdeals.net/f/20106261-239-sonos-ace-noise-cancelling-wireless-over-ear-headphones-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 239.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "79735d0d4eac5992",
+  "title": "$149 | Sonos Era 100 SL Compact, Microphone-Free Speaker at Amazon",
+  "url": "https://slickdeals.net/f/20106150-149-sonos-era-100-sl-compact-microphone-free-speaker-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "d8ee583c14cfac79",
+  "title": "$359 | Sonos Beam Gen 2 Soundbar with Dolby Atmos (Black or White) at Amazon",
+  "url": "https://slickdeals.net/f/20106147-359-sonos-beam-gen-2-soundbar-with-dolby-atmos-black-or-white-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 359.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "306ee420bb34d0f6",
+  "title": "Sonos Ultimate Immersive Set with Arc Ultra $2,446 $2446",
+  "url": "https://slickdeals.net/f/20102760-sonos-ultimate-immersive-set-with-arc-ultra-2-446-2446?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2446.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "91b2b15c1245d280",
+  "title": "Sonos Sub Mini - White - Compact Wireless Subwoofer $399",
+  "url": "https://slickdeals.net/f/20050569-sonos-sub-mini-white-compact-wireless-subwoofer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "69e97d9438ac05bc",
+  "title": "resale Sonos Era 300 Wireless Smart Speaker with Dolby Atmos - White $244.92",
+  "url": "https://slickdeals.net/f/19991547-resale-sonos-era-300-wireless-smart-speaker-with-dolby-atmos-white-244-92?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 244.92,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "67ab271e577deb41",
+  "title": "[Resale] Sonos Era 100 SL ($92) or Era 100 ($109) White",
+  "url": "https://slickdeals.net/f/19989513-resale-sonos-era-100-sl-92-or-era-100-109-white?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 92.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "be88995812bc2822",
+  "title": "Sonos Arc Ultra Soundbar + SUB 4 Subwoofer (2 colors) $1398 + Free S&H",
+  "url": "https://slickdeals.net/f/19973247-sonos-arc-ultra-soundbar-sub-4-subwoofer-2-colors-1398-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1398.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "ca12593bca2ba180",
+  "title": "2-Count Sonos Five: Wireless Speakers (Black or White) $799 + Free S/H",
+  "url": "https://slickdeals.net/f/19973244-2-count-sonos-five-wireless-speakers-black-or-white-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 799.0,
+  "found_at": "2026-11-09T09:59:03Z"
+ },
+ {
+  "id": "d9ee908f184da0d8",
+  "title": "Sonos Play 1: $114, Play 3: $204, Play 5: $454 @ The Exchange (Military and Veterans Only)",
+  "url": "https://slickdeals.net/e/11408171-sonos-play-1-114-play-3-204-play-5-454-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 114.0,
+  "found_at": "2026-11-09T09:59:04Z"
+ },
+ {
+  "id": "68ab3d0e3d57a040",
+  "title": "Sonos Play 1 Wireless Speaker $109; Play 3 $209; Play 5 $459.95 @ The Exchange (Military and Veterans Only)",
+  "url": "https://slickdeals.net/e/11009487-sonos-play-1-wireless-speaker-109-play-3-209-play-5-459-95-the-exchange-military-and-veterans-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: Sonos record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 109.0,
+  "found_at": "2026-11-09T09:59:04Z"
+ },
+ {
+  "id": "1f0f8911b9fff3b6",
+  "title": "Avatar: Frontiers of Pandora From the Ashes Edition - PlayStation 5 $15.49",
+  "url": "https://slickdeals.net/f/20273301-avatar-frontiers-of-pandora-from-the-ashes-edition-playstation-5-15-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-09T09:59:09Z"
+ },
+ {
+  "id": "74a061560cbdbbca",
+  "title": "[AC] $30.22 | Disciples: Domination - Deluxe Edition (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/20271531-ac-30-22-disciples-domination-deluxe-edition-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.22,
+  "found_at": "2026-11-09T09:59:09Z"
+ },
+ {
+  "id": "f0f38b3fad85548d",
+  "title": "Beast of Reincarnation - PlayStation 5 (Physical) $46.02 + Free Shipping",
+  "url": "https://slickdeals.net/f/20260389-beast-of-reincarnation-playstation-5-physical-46-02-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 46.02,
+  "found_at": "2026-11-09T09:59:09Z"
+ },
+ {
+  "id": "f97bf0da4297216b",
+  "title": "$41.03 | BRIGANDINE ABYSS: Deluxe Edition (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/20259582-41-03-brigandine-abyss-deluxe-edition-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 41.03,
+  "found_at": "2026-11-09T09:59:09Z"
+ },
+ {
+  "id": "202f6f8b001706a1",
+  "title": "$24.99 | Mouse: P.I. For Hire (PlayStation 5) at Amazon",
+  "url": "https://slickdeals.net/f/20258517-24-99-mouse-p-i-for-hire-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.99,
+  "found_at": "2026-11-09T09:59:09Z"
+ },
+ {
+  "id": "e4ddfbadc854407b",
+  "title": "Need For Speed: Unbound (PlayStation 5) - $14.97 @ Walmart",
+  "url": "https://slickdeals.net/f/20258310-need-for-speed-unbound-playstation-5-14-97-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Web search: PlayStation 5 deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-09T09:59:09Z"
  }
 ]
