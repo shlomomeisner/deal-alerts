@@ -1506,7 +1506,8 @@
   "source_url": "https://slickdeals.net/f/20270091-dyson-v15-detect-yellow-nickel-refurbished-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Dyson+V15+Detect+Yellow+Nickel+Refurbished",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:04Z"
  },
  {
   "id": "d18af49eda3ba82b",
@@ -1524,7 +1525,8 @@
   "source_url": "https://slickdeals.net/f/20270007-garmin-drive-53-5-gps-navigator-w-glass-touchscreen-driver-alerts-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Drive+53+5+GPS+Navigator+w+Glass+Touchscreen+%26+Driver+Alerts",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:07Z"
  },
  {
   "id": "7f83c35c67938ef7",
@@ -1542,7 +1544,8 @@
   "source_url": "https://slickdeals.net/f/20140920-select-belkin-accessories-for-phone-and-airtag-as-low-as-5-99-bestbuy-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Select+Belkin+accessories+for+phone+and+AirTag+as+low+as",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:09Z"
  },
  {
   "id": "e82de4d835673ba1",
@@ -1558,7 +1561,8 @@
   "found_at": "2026-11-07T07:17:03Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T02:49:11Z"
  },
  {
   "id": "f046382d91856f8f",
@@ -1583,7 +1587,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20SDQ&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-09T02:49:11Z"
  },
  {
   "id": "378e50cfc25d27b5",
@@ -1601,7 +1606,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "checked_at": "2026-11-09T02:49:12Z"
  },
  {
   "id": "e2206c76542ec122",
@@ -1619,7 +1625,8 @@
   "source_url": "https://slickdeals.net/f/20259075-90-count-qunol-advanced-omega-3-krill-fish-oil-complex-250mg-epa-dha-softgels-16-49-0-18-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=90-Count+Qunol+Advanced+Omega-3+Krill+%26+Fish+Oil+Complex+250mg+EPA+%26+DHA+Softgel",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:14Z"
  },
  {
   "id": "65826bd0e22b6d2f",
@@ -1637,7 +1644,8 @@
   "source_url": "https://slickdeals.net/f/20261715-galaxy-watch-ultra2-199-on-samsung-app-with-trade-could-be-targeted?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Galaxy+Watch+Ultra2",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:15Z"
  },
  {
   "id": "383354657ae2ed6e",
@@ -1655,7 +1663,8 @@
   "source_url": "https://slickdeals.net/f/20261373-o-sen-silicone-magnetic-apple-watch-sport-band-various-5-free-shipping-w-prime-or-orders-35-4-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=O-SEN+Silicone+Magnetic+Apple+Watch+Sport+Band",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:17Z"
  },
  {
   "id": "250fdde30a602a5b",
@@ -1672,7 +1681,8 @@
   "source_url": "https://slickdeals.net/e/12172666-seiko-men-s-le-grand-solar-chronograph-watch-w-leather-strap-149-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+Men%27s+Le+Grand+Solar+Chronograph+Watch+w+Leather+Strap",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:18Z"
  },
  {
   "id": "394879e905c63d5a",
@@ -1689,7 +1699,8 @@
   "source_url": "https://slickdeals.net/e/10341520-seiko-5-snkk27-for-57-free-shipping-with-prime-prime-day-deal?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+5+SNKK27+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:19Z"
  },
  {
   "id": "2e02109781a86d57",
@@ -1707,7 +1718,8 @@
   "source_url": "https://slickdeals.net/f/20261373-o-sen-silicone-magnetic-apple-watch-sport-band-various-5-free-shipping-w-prime-or-orders-35-4-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=O-SEN+Silicone+Magnetic+Apple+Watch+Sport+Band",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:20Z"
  },
  {
   "id": "7a59b9ac8d1840c9",
@@ -1723,7 +1735,8 @@
   "found_at": "2026-11-07T07:25:18Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T02:49:22Z"
  },
  {
   "id": "032c4b6059073dd4",
@@ -1741,7 +1754,8 @@
   "source_url": "https://slickdeals.net/f/20255007-apple-watch-ultra-3-gps-cellular-49mm-anchor-blue-ocean-549-00-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%203",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:24Z"
  },
  {
   "id": "73d2b84afbf4a613",
@@ -1759,7 +1773,8 @@
   "source_url": "https://slickdeals.net/f/20254128-49mm-apple-watch-ultra-3-gps-cellular-titanium-watch-w-titanium-milanese-loop-649-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=49mm+Apple+Watch+Ultra+3+GPS%2BCellular+Titanium+Watch+w+Titanium+Milanese+Loop",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T02:49:25Z"
  },
  {
   "id": "3209f13b43689068",
@@ -28744,7 +28759,7 @@
  {
   "id": "3cc0b0b46950abef",
   "title": "Serengeti, Maui Jim, & More Sunglasses! at Woot!",
-  "url": "https://www.google.com/search?q=site%3Awoot.com+Serengeti+Maui+Jim+%26+More+Sunglasses",
+  "url": "https://slickdeals.net/f/19848660-serengeti-maui-jim-more-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -28756,13 +28771,12 @@
   "source_url": "https://slickdeals.net/f/19848660-serengeti-maui-jim-more-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Serengeti+Maui+Jim+%26+More+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "84e8976b29cfd82f",
   "title": "Maui Jim Lighthouse Men's Polarized Black Sunglasses $94.50 + Free S/H",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
+  "url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -28774,13 +28788,12 @@
   "source_url": "https://slickdeals.net/f/19822806-maui-jim-lighthouse-men-s-polarized-black-sunglasses-94-50-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim+Lighthouse+Men%27s+Polarized+Black+Sunglasses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "a1d65816b42f67c0",
   "title": "Maui Jim $50 off",
-  "url": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
+  "url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Maui Jim",
@@ -28792,8 +28805,7 @@
   "source_url": "https://slickdeals.net/f/19805703-maui-jim-50-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Maui+Jim",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "5056c82321becc5c",
@@ -34782,6 +34794,101 @@
   "hot": false,
   "pct": null,
   "price": 72.0,
-  "found_at": "2026-11-09T02:40:48Z"
+  "found_at": "2026-11-09T02:40:48Z",
+  "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af132b03aae4f9e89fd67b254b04ee3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwe-found-classic-ugg-styles-and-ones-you-won-t-see-everyone-wearing-for-fall-shop-pairs-now-from-72%2far-AA2gI9ie&c=6918530792822542007&mkt=en-us",
+  "exact": false
+ },
+ {
+  "id": "74aaf855234b9c80",
+  "title": "Dyson W1 PencilWash™ wet and dry cleaner + Dok™ cordless wet floor cleaner | Ultra slim, maneuverable, cleans wet and dry messes, for hard floors. Grab-and-go docking, for $280",
+  "url": "https://www.amazon.com/s?k=Dyson+W1+PencilWash+wet+and+dry+cleaner+%2B+Dok+cordless+wet+floor+cleaner+Ultra+s",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 280.0,
+  "found_at": "2026-11-09T02:46:05Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20276265-dyson-w1-pencilwash-wet-and-dry-cleaner-dok-cordless-wet-floor-cleaner-ultra-slim-maneuverable-cleans-wet-and-dry-messes-for-hard-floors-grab-and-go-docking-for-280?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Dyson+W1+PencilWash+wet+and+dry+cleaner+%2B+Dok+cordless+wet+floor+cleaner+Ultra+s",
+  "exact": false
+ },
+ {
+  "id": "6e736d641edbb825",
+  "title": "*PRICE DROPS* Decluttering some frags (Tom Ford, Sphinx, Mancera, Vilhelm)",
+  "url": "https://www.google.com/search?tbm=shop&q=PRICE+DROPS+Decluttering+some+frags",
+  "why": "",
+  "category": "fragrance",
+  "source": "r/fragrancedeals",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-09T02:46:05Z",
+  "link_tried3": true,
+  "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xrg5vv/price_drops_decluttering_some_frags_tom_ford/",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=PRICE+DROPS+Decluttering+some+frags",
+  "exact": false
+ },
+ {
+  "id": "fdb69b84494ffbdd",
+  "title": "Dyson V16 Piston Animal cordless vacuum + Floor Dok™",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+V16+Piston+Animal+cordless+vacuum+%2B+Floor+Dok",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-09T02:46:05Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20277072-dyson-v16-piston-animal-cordless-vacuum-floor-dok?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Dyson+V16+Piston+Animal+cordless+vacuum+%2B+Floor+Dok",
+  "exact": false
+ },
+ {
+  "id": "b51d820d5513cd2f",
+  "title": "Melissa & Doug Wooden Chef's Pretend Play Toy Kitchen (cloud white) $84 + Free S&H",
+  "url": "https://slickdeals.net/f/20276952-melissa-doug-wooden-chef-s-pretend-play-toy-kitchen-cloud-white-84-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: On Cloud sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 84.0,
+  "found_at": "2026-11-09T02:49:30Z"
+ },
+ {
+  "id": "e578edb83ae2deed",
+  "title": "Rock Cloud Bicycle Top Tube Bag w/ Phone Touchscreen Cover (Black) $7.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20276511-rock-cloud-bicycle-top-tube-bag-w-phone-touchscreen-cover-black-7-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: On Cloud sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.99,
+  "found_at": "2026-11-09T02:49:30Z"
+ },
+ {
+  "id": "c52a114f38f2bbae",
+  "title": "16\" x 11\" Rock Cloud Aluminum Folding Portable Camping Table (Black) $10.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20276481-16-x-11-rock-cloud-aluminum-folding-portable-camping-table-black-10-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: On Cloud sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 10.99,
+  "found_at": "2026-11-09T02:49:30Z"
  }
 ]
