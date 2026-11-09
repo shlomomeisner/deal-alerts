@@ -366,7 +366,8 @@
   "source_url": "https://slickdeals.net/f/20272434-gihen-floral-scent-perfume-spray-fluorescent-nectar-eau-de-parfum-100ml-8-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Gihen+Floral+Scent+Perfume+Spray+Fluorescent+Nectar+Eau+de+Parfum+100ml+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:20:57Z"
  },
  {
   "id": "208e3bcfd20c79a5",
@@ -382,7 +383,8 @@
   "found_at": "2026-11-07T18:40:48Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T20:20:59Z"
  },
  {
   "id": "a8e733b0c4b01421",
@@ -400,7 +402,8 @@
   "source_url": "https://slickdeals.net/f/20272125-twelve-south-bookarc-for-macbook-vertical-desktop-stand-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Twelve+South+BookArc+for+MacBook+Vertical+Desktop+Stand",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:00Z"
  },
  {
   "id": "5ee89ba7ab54bf4e",
@@ -418,7 +421,8 @@
   "source_url": "https://slickdeals.net/f/20272035-sonos-play-portable-wifi-and-bluetooth-speaker-white-24-hr-battery-with-power-bank-stereo-pairing-multi-room-wifi-airplay-2-ip67-waterproof-carrying-loop-210?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Sonos+Play+Portable+WiFi+and+Bluetooth+Speaker+-+White+24-Hr+Battery+with+Power+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:02Z"
  },
  {
   "id": "c34348a9f470842b",
@@ -436,7 +440,8 @@
   "source_url": "https://9to5toys.com/2026/11/07/rare-deal-2026-sonos-play-airplay-speaker/",
   "store": "Link",
   "similar": "https://link.amazon/B0cCeLnIv",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:02Z"
  },
  {
   "id": "6e5072247de80c39",
@@ -461,7 +466,8 @@
    "DXB"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20DXB&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20DXB&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-09T20:21:02Z"
  },
  {
   "id": "099c78eb88a26444",
@@ -479,7 +485,8 @@
   "source_url": "https://slickdeals.net/f/20272125-twelve-south-bookarc-for-macbook-vertical-desktop-stand-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Twelve+South+BookArc+for+MacBook+Vertical+Desktop+Stand",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:04Z"
  },
  {
   "id": "f5755c5e39ba6ea6",
@@ -497,7 +504,8 @@
   "source_url": "https://slickdeals.net/f/20271768-apple-airpods-4-aafes-military-veteran-deal-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20AirPods%204%20AAFES%20Military%20Veteran",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:05Z"
  },
  {
   "id": "7c73ffa6e6c37f5b",
@@ -515,7 +523,8 @@
   "source_url": "https://slickdeals.net/f/20272053-save-450-on-samsung-galaxy-s26-ultra-doorbuster-25-in-rewards-for-members-949-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Save",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:07Z"
  },
  {
   "id": "cfad019c3ff28b27",
@@ -531,7 +540,8 @@
   "found_at": "2026-11-07T18:40:48Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-09T20:21:08Z"
  },
  {
   "id": "9ab10b1bf94a86ab",
@@ -549,7 +559,8 @@
   "source_url": "https://slickdeals.net/f/20272053-save-450-on-samsung-galaxy-s26-ultra-doorbuster-25-in-rewards-for-members-949-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Save",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:09Z"
  },
  {
   "id": "0ea72728afcee856",
@@ -567,7 +578,8 @@
   "source_url": "https://slickdeals.net/f/20272434-gihen-floral-scent-perfume-spray-fluorescent-nectar-eau-de-parfum-100ml-8-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Gihen+Floral+Scent+Perfume+Spray+Fluorescent+Nectar+Eau+de+Parfum+100ml+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-09T20:21:10Z"
  },
  {
   "id": "8f4e213e943fc7c6",
@@ -592,7 +604,8 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-09T20:21:11Z"
  },
  {
   "id": "357c470a8b96b989",
@@ -617,7 +630,8 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-09T20:21:12Z"
  },
  {
   "id": "760886f253b86bfe",
@@ -642,7 +656,8 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-09T20:21:13Z"
  },
  {
   "id": "0fa37717e965f87a",
@@ -28063,7 +28078,7 @@
  {
   "id": "ef25ae4baaddc548",
   "title": "LensCrafters - Burberry Frame + Lenses $330.6",
-  "url": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
+  "url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Burberry",
@@ -28075,8 +28090,7 @@
   "source_url": "https://slickdeals.net/f/20041962-lenscrafters-burberry-frame-lenses-330-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LensCrafters+-+Burberry+Frame+%2B+Lenses",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "951d8fea22be41b5",
@@ -34749,7 +34763,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "link_tried3": true
  },
  {
   "id": "e2206c76542ec122",
@@ -34781,11 +34796,11 @@
   "pct": null,
   "price": 600.0,
   "found_at": "2026-11-09T20:09:47Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xs1iwo/wts_200ml_angels_share_paradis_600_500ml_angels/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=200ml+Angel%27s+Share+Paradis+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5425a2000f445ff2",
@@ -34799,11 +34814,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-09T20:09:47Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xs0ool/wts_discovery_sets/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Discovery+sets",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7de7616bc3646a96",
@@ -34817,11 +34832,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-09T20:09:47Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xrz2bu/wts_wtt_xerjoff_erba_pura_50_ml_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Xerjoff+Erba+Pura+50+mL",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9d174fc24a308eff",
@@ -34835,11 +34850,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-09T20:09:47Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xry65q/wts_bvlgari_byredo_vintage_and_current_creeds_pdm/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bvlgari+Byredo+Vintage+and+Current+Creeds+PDM+Zoologist",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d84b5c90d13eae68",
@@ -34853,11 +34868,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-09T20:09:47Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xrsoa5/wts_amouage_argos_boadicea_the_victorious_dior/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Amouage+Argos+Boadicea+the+Victorious+Dior+Essential+Parfums+Ex+Nihilo+Byredo+Ki",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0b773210ce26ec5e",
@@ -34871,11 +34886,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-09T20:09:47Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xrqam2/pls_read_description/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Pls+read+description",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "67a2b8c7c6efe0a0",
@@ -34995,11 +35010,11 @@
   "pct": null,
   "price": 64.99,
   "found_at": "2026-11-09T20:09:47Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20278257-ugreen-nexode-pro-160w-5-port-usb-c-charger-block-with-smart-display-fast-gan-charger-for-macbook-pro-laptops-iphone-series-starlight-gray-64-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGREEN+-+Nexode+Pro+160W+5-Port+USB-C+Charger+Block+with+Smart+Display+Fast+GaN+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "38924daa3a774af7",
@@ -35042,6 +35057,149 @@
    null
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Chiang%20Mai%2C%20Thailand&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Chiang%20Mai%2C%20Thailand&hl=en&gl=us&curr=USD",
+  "link_tried3": true
+ },
+ {
+  "id": "5351878bcee3a949",
+  "title": "12 Days Of Luxury Beauty Advent Calendar $60 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=12+Days+Of+Luxury+Beauty+Advent+Calendar",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Cartier",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 60.0,
+  "found_at": "2026-11-09T20:18:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19010416-12-days-of-luxury-beauty-advent-calendar-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=12+Days+Of+Luxury+Beauty+Advent+Calendar",
+  "exact": false
+ },
+ {
+  "id": "a222464102e82f09",
+  "title": "26-Piece Men's Fragrance Cologne Sampler Set $24 + Free Store Pickup",
+  "url": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Cartier",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-09T20:18:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
+  "exact": false
+ },
+ {
+  "id": "5efc9b6d0e0dc4b0",
+  "title": "26-Piece Men's Fragrance Cologne Sampler Set $34 + Free In-Store Pickup at Macys or Free Shipping on $25+",
+  "url": "https://www.macys.com/shop/featured/26-Piece%20Men%27s%20Fragrance%20Cologne%20Sampler%20Set",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Cartier",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.0,
+  "found_at": "2026-11-09T20:18:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18284560-26-piece-men-s-fragrance-cologne-sampler-set-34-free-in-store-pickup-at-macys-or-free-shipping-on-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/26-Piece%20Men%27s%20Fragrance%20Cologne%20Sampler%20Set",
+  "exact": false
+ },
+ {
+  "id": "1f01c3b6dc5176ca",
+  "title": "Enjoy up to 25% off Cartier | eBay. It’s classic. It’s Cartier. It’s yours.",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Enjoy+up+to+25+off+Cartier+eBay.+It+s+classic.+It+s+Cartier.+It+s+yours.",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Cartier",
+  "urgent": false,
+  "hot": false,
+  "pct": 25,
+  "price": null,
+  "found_at": "2026-11-09T20:18:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18251134-enjoy-up-to-25-off-cartier-ebay-it-s-classic-it-s-cartier-it-s-yours?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Enjoy+up+to+25+off+Cartier+eBay.+It+s+classic.+It+s+Cartier.+It+s+yours.",
+  "exact": false
+ },
+ {
+  "id": "03f4cf4f55406bac",
+  "title": "Cartier Womens 18KT White Gold Small Diamond Pave Love Bracelet Size 18 | eBay $20000",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Cartier+Womens+18KT+White+Gold+Small+Diamond+Pave+Love+Bracelet+Size+18+eBay",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Cartier",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": 20000.0,
+  "found_at": "2026-11-09T20:18:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15690796-cartier-womens-18kt-white-gold-small-diamond-pave-love-bracelet-size-18-ebay-20000?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Cartier+Womens+18KT+White+Gold+Small+Diamond+Pave+Love+Bracelet+Size+18+eBay",
+  "exact": false
+ },
+ {
+  "id": "2b430c350c4955e8",
+  "title": "Jomashop.com: CARTIER Cle 18kt Rose Gold Automatic Flinque Sunray Dial Ladies Watch WJCL0031 $8999.99 + FS",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+CARTIER+Cle+18kt+Rose+Gold+Automatic+Flinque+Sunray+Dial+Ladies+Wat",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Cartier",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8999.99,
+  "found_at": "2026-11-09T20:18:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/14990246-jomashop-com-cartier-cle-18kt-rose-gold-automatic-flinque-sunray-dial-ladies-watch-wjcl0031-8999-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+CARTIER+Cle+18kt+Rose+Gold+Automatic+Flinque+Sunray+Dial+Ladies+Wat",
+  "exact": false
+ },
+ {
+  "id": "186b04c715c9be4c",
+  "title": "Free Cartier La Panthère Parfum Sample",
+  "url": "https://www.google.com/search?tbm=shop&q=Free+Cartier+La+Panth+re+Parfum+Sample",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Cartier",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-09T20:18:16Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14801593-free-cartier-la-panth-re-parfum-sample?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Free+Cartier+La+Panth+re+Parfum+Sample",
+  "exact": false
+ },
+ {
+  "id": "18ba02fd7dff5cf8",
+  "title": "Maison Alhambra Jean Lowe Summer Vibes Eau de Parfum Spray - down 23.55% ($7.70) to $25.00 from $32.70",
+  "url": "https://www.amazon.com/dp/B0GMHJVLKC",
+  "why": "",
+  "category": "fragrance",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 7.7,
+  "found_at": "2026-11-09T20:18:16Z",
+  "source_url": "https://camelcamelcamel.com/product/B0GMHJVLKC",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Maison+Alhambra+Jean+Lowe+Summer+Vibes+Eau+de+Parfum+Spray+-+down+23.55"
  }
 ]
