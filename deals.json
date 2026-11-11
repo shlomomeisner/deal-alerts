@@ -74,7 +74,8 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-11T10:22:11Z"
  },
  {
   "id": "e6017c660e6dc146",
@@ -91,7 +92,8 @@
   "source_url": "https://slickdeals.net/f/17931810-allen-edmonds-up-to-50-off-black-friday-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+up+to+50+off+Black+Friday",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:13Z"
  },
  {
   "id": "5fc866ebb30636d6",
@@ -108,7 +110,8 @@
   "source_url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Strand+Leather+Oxfords+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:15Z"
  },
  {
   "id": "770ed84fcf49fe2f",
@@ -125,7 +128,8 @@
   "source_url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+Allen+Edmonds+Park+Avenue+Leather+Oxford+Shoes+-+Walnut+color",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:16Z"
  },
  {
   "id": "dde59d55c8a2dbd4",
@@ -142,7 +146,8 @@
   "source_url": "https://slickdeals.net/f/17339421-allen-edmonds-men-s-shoes-round-toe-oxford-119-99-hendrix-leather-brogue-oxfords-149-99-eli-leather-penny-loafers-149-99-more-free-shipping-on-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Men%27s+Shoes+Round+Toe+Oxford",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:18Z"
  },
  {
   "id": "ca5ad046fa98432a",
@@ -157,7 +162,8 @@
   "price": 88.0,
   "found_at": "2026-11-10T02:50:55Z",
   "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2868f3a19493998c1fc638a4a9c09&url=https%3a%2f%2fca.style.yahoo.com%2flululemon-is-selling-an-excellent-88-bag-for-just-54-right-now--plus-14-more-we-made-too-much-finds-from-29-152553131.html&c=11860704262978210703&mkt=en-us",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:18Z"
  },
  {
   "id": "c6aec68604718072",
@@ -174,7 +180,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWpEMXFZYUNPYjdmNnZVdlVWMU1LOHNFeldVRTJaa0xWUkdUU28wbjJGemt2NzZiZHYyX2RFU3RQNG5BbS1NLU9UV3I0OHpwUXJOQ1hQQ25idWtWQTlTeDZyaUZNOWVSVjNnSWFMT1RsZ3pPWWxSNnRQalFVV2owMUdtaFdwMmp3SlBlNlFGbXBvbW5LRTRLVmQwMFg?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Alo+Yoga+s+Singles+Day+Just+Dropped+Take+30+off+Nearly+Everything+Ahead+of+Black",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:18Z"
  },
  {
   "id": "acb0cf4fcef84ee5",
@@ -190,7 +197,8 @@
   "found_at": "2026-11-10T02:56:36Z",
   "source_url": "https://camelcamelcamel.com/product/B0F63N2GC6",
   "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium...ter+Spray+for+Women+3.0+Ounce+-+down+6.71"
+  "similar": "https://www.google.com/search?tbm=shop&q=Yves+Saint+Laurent+Black+Opium...ter+Spray+for+Women+3.0+Ounce+-+down+6.71",
+  "checked_at": "2026-11-11T10:22:18Z"
  },
  {
   "id": "17e1afd0246e14f9",
@@ -208,7 +216,8 @@
   "source_url": "https://slickdeals.net/f/20278890-apple-iphone-16-pro-refurb-very-good-570?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20iPhone%2016%20Pro%20refurb%20very%20good",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:19Z"
  },
  {
   "id": "5f3cdb2cad41a200",
@@ -226,7 +235,8 @@
   "source_url": "https://slickdeals.net/f/20267970-apple-iphone-18-pro-silicone-case-with-magsafe-olive-29-33?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+iPhone+18+Pro+Silicone+Case+with+MagSafe+-+Olive",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:21Z"
  },
  {
   "id": "b27f079243d0f202",
@@ -244,7 +254,8 @@
   "source_url": "https://slickdeals.net/f/20267646-maledan-clear-magsafe-case-for-iphone-18-pro-17-pro-for-5-99-7-79-reg-9-99-12-99-free-shipping-w-prime-or-on-35-w-promo-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Maledan+Clear+MagSafe+Case+for+iPhone+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:22Z"
  },
  {
   "id": "58513e3c2a13ad23",
@@ -262,7 +273,8 @@
   "source_url": "https://slickdeals.net/f/20255643-official-apple-iphone-duo-cases-at-around-20-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Official%20Apple%20iPhone%20Duo%20Cases%20at%20around%2020%20Off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:24Z"
  },
  {
   "id": "71a71f8528d1426f",
@@ -279,7 +291,8 @@
   "source_url": "https://slickdeals.net/f/20253930-pinlisheng-magsafe-iphone-17-pro-max-18-pro-max-case-orange-2-94-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PinLiSheng+MagSafe+iPhone+17+Pro+Max+18+Pro+Max+Case",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:25Z"
  },
  {
   "id": "3395ca1f82431dd2",
@@ -295,7 +308,8 @@
   "found_at": "2026-11-10T02:56:36Z",
   "store_url": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-16-inch-gaming-laptop-pc-16-ah1731nr",
   "similar": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-16-inch-gaming-laptop-pc-16-ah1731nr",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-11T10:22:33Z"
  },
  {
   "id": "26d74ac2cc1a5b53",
@@ -311,7 +325,8 @@
   "found_at": "2026-11-10T02:56:36Z",
   "store_url": "https://www.amazon.com/gp/product/B0FWD623D1/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
   "exact": true,
-  "similar": "https://www.apple.com/us/search/Apple%20MacBook%20Pro%2014.2%20M5%2010-Core%20CPU%2010-Core%20GPU%203024x1964%20Mini-LED%20Laptop"
+  "similar": "https://www.apple.com/us/search/Apple%20MacBook%20Pro%2014.2%20M5%2010-Core%20CPU%2010-Core%20GPU%203024x1964%20Mini-LED%20Laptop",
+  "checked_at": "2026-11-11T10:22:34Z"
  },
  {
   "id": "6f1b10bec9996733",
@@ -28795,7 +28810,7 @@
  {
   "id": "95d49c3d18fc716c",
   "title": "DJI Mini 5 Pro 1-Inch Large CMOS Camera Nightscape Omnidirectional Obstacle Sensing Lightweight and Portable $692.64",
-  "url": "https://slickdeals.net/f/20134569-dji-mini-5-pro-1-inch-large-cmos-camera-nightscape-omnidirectional-obstacle-sensing-lightweight-and-portable-692-64?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+1-Inch+Large+CMOS+Camera+Nightscape+Omnidirectional+Obstacle+Sens",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28807,12 +28822,13 @@
   "source_url": "https://slickdeals.net/f/20134569-dji-mini-5-pro-1-inch-large-cmos-camera-nightscape-omnidirectional-obstacle-sensing-lightweight-and-portable-692-64?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+1-Inch+Large+CMOS+Camera+Nightscape+Omnidirectional+Obstacle+Sens",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "642d5f05f1b7b411",
   "title": "DJI Osmo Pocket 4 1\" CMOS 4K/240fps 3-Axis Gimbal 107GB $393.30 + Free Shipping",
-  "url": "https://slickdeals.net/f/19959870-dji-osmo-pocket-4-1-cmos-4k-240fps-3-axis-gimbal-107gb-393-30-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+1+CMOS+4K+240fps+3-Axis+Gimbal+107GB",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28824,12 +28840,13 @@
   "source_url": "https://slickdeals.net/f/19959870-dji-osmo-pocket-4-1-cmos-4k-240fps-3-axis-gimbal-107gb-393-30-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+1+CMOS+4K+240fps+3-Axis+Gimbal+107GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6127f0a0190dac0f",
   "title": "DJI Osmo Pocket 4 3-Axis Gimbal 4K Vlog Camera Creator Combo $544.20 + Free S&H",
-  "url": "https://slickdeals.net/f/19886910-dji-osmo-pocket-4-3-axis-gimbal-4k-vlog-camera-creator-combo-544-20-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+3-Axis+Gimbal+4K+Vlog+Camera+Creator+Combo",
   "why": "",
   "category": "tech",
   "source": "Web search: DJI record low",
@@ -28841,7 +28858,8 @@
   "source_url": "https://slickdeals.net/f/19886910-dji-osmo-pocket-4-3-axis-gimbal-4k-vlog-camera-creator-combo-544-20-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+4+3-Axis+Gimbal+4K+Vlog+Camera+Creator+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0e338a1e352c94b5",
@@ -29270,7 +29288,7 @@
  {
   "id": "c5f774423e3b927a",
   "title": "TELESIN Waterproof Selfie Stick Buoyancy Bar & Wireless Remote Control For GoPro Hero; free s&h $16.42",
-  "url": "https://slickdeals.net/f/20035095-telesin-waterproof-selfie-stick-buoyancy-bar-wireless-remote-control-for-gopro-hero-free-s-h-16-42?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=TELESIN+Waterproof+Selfie+Stick+Buoyancy+Bar+%26+Wireless+Remote+Control+For+GoPro",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro deal",
@@ -29282,7 +29300,8 @@
   "source_url": "https://slickdeals.net/f/20035095-telesin-waterproof-selfie-stick-buoyancy-bar-wireless-remote-control-for-gopro-hero-free-s-h-16-42?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TELESIN+Waterproof+Selfie+Stick+Buoyancy+Bar+%26+Wireless+Remote+Control+For+GoPro",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "762777ce9384d966",
@@ -29323,7 +29342,7 @@
  {
   "id": "379d505b845a891d",
   "title": "GoPro MAX2 Ski Bundle $379.99",
-  "url": "https://slickdeals.net/f/19934535-gopro-max2-ski-bundle-379-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+MAX2+Ski+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro deal",
@@ -29335,12 +29354,13 @@
   "source_url": "https://slickdeals.net/f/19934535-gopro-max2-ski-bundle-379-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+MAX2+Ski+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "45c02736c32d4af1",
   "title": "GoPro MAX2 + Accessories Bundle $369.99",
-  "url": "https://slickdeals.net/f/19934523-gopro-max2-accessories-bundle-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+MAX2+%2B+Accessories+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro deal",
@@ -29352,12 +29372,13 @@
   "source_url": "https://slickdeals.net/f/19934523-gopro-max2-accessories-bundle-369-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+MAX2+%2B+Accessories+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1c0c0d12ff82a5b2",
   "title": "GoPro MAX2 - Waterproof 360 + Traditional Action Camera with Touch Screen, Spherical 8K Video, 29MP 360 Photos $299",
-  "url": "https://slickdeals.net/f/19934487-gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+MAX2+-+Waterproof+360+%2B+Traditional+Action+Camera+with+Touch+Screen+Spheri",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro deal",
@@ -29369,12 +29390,13 @@
   "source_url": "https://slickdeals.net/f/19934487-gopro-max2-waterproof-360-traditional-action-camera-with-touch-screen-spherical-8k-video-29mp-360-photos-299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+MAX2+-+Waterproof+360+%2B+Traditional+Action+Camera+with+Touch+Screen+Spheri",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d2b891618afee911",
   "title": "Pre-Order(Ships on or before Wednesday, Sep 2) GoPro MISSION 1 PRO ILS Camera with Micro Four Thirds Lens Mount $699.99",
-  "url": "https://slickdeals.net/f/19934472-pre-order-ships-on-or-before-wednesday-sep-2-gopro-mission-1-pro-ils-camera-with-micro-four-thirds-lens-mount-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Pre-Order+GoPro+MISSION+1+PRO+ILS+Camera+with+Micro+Four+Thirds+Lens+Mount",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -29386,7 +29408,8 @@
   "source_url": "https://slickdeals.net/f/19934472-pre-order-ships-on-or-before-wednesday-sep-2-gopro-mission-1-pro-ils-camera-with-micro-four-thirds-lens-mount-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Pre-Order+GoPro+MISSION+1+PRO+ILS+Camera+with+Micro+Four+Thirds+Lens+Mount",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e1ad05263c94e23e",
@@ -29409,7 +29432,7 @@
  {
   "id": "2978397555e9e9e0",
   "title": "GoPro HERO11 Black 5.3K UHD Action Camera Bundle (Open Box) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/18023772-gopro-hero11-black-5-3k-uhd-action-camera-bundle-open-box-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+5.3K+UHD+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -29421,12 +29444,13 @@
   "source_url": "https://slickdeals.net/f/18023772-gopro-hero11-black-5-3k-uhd-action-camera-bundle-open-box-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+5.3K+UHD+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0d5c0c42fae0d915",
   "title": "GoPro HERO11 Black Action Camera Bundle (Open Box) $199 + Free Shipping",
-  "url": "https://slickdeals.net/f/17777010-gopro-hero11-black-action-camera-bundle-open-box-199-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -29438,12 +29462,13 @@
   "source_url": "https://slickdeals.net/f/17777010-gopro-hero11-black-action-camera-bundle-open-box-199-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f59ea039087434fc",
   "title": "GoPro HERO11 Black Action Camera Bundle (Open Box) $220 + Free Shipping",
-  "url": "https://slickdeals.net/f/17324907-gopro-hero11-black-action-camera-bundle-open-box-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -29455,12 +29480,13 @@
   "source_url": "https://slickdeals.net/f/17324907-gopro-hero11-black-action-camera-bundle-open-box-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7a9a69cb66f107e2",
   "title": "GoPro HERO11 5.4K UHD Black Action Camera Bundle w/ Case (Open Box, CHDCB-111-CN) $220 + Free Shipping",
-  "url": "https://slickdeals.net/f/17276989-gopro-hero11-5-4k-uhd-black-action-camera-bundle-w-case-open-box-chdcb-111-cn-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+5.4K+UHD+Black+Action+Camera+Bundle+w+Case",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -29472,7 +29498,8 @@
   "source_url": "https://slickdeals.net/f/17276989-gopro-hero11-5-4k-uhd-black-action-camera-bundle-w-case-open-box-chdcb-111-cn-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+5.4K+UHD+Black+Action+Camera+Bundle+w+Case",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e9ad25f580e5ae48",
@@ -29495,7 +29522,7 @@
  {
   "id": "8e1743ee04e87182",
   "title": "GoPro HERO 11 Black Bundle - $219 + Free Shipping - Open Box - It's Back - Limited Qty",
-  "url": "https://slickdeals.net/f/17244892-gopro-hero-11-black-bundle-219-free-shipping-open-box-it-s-back-limited-qty?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO+11+Black+Bundle+-",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -29507,7 +29534,8 @@
   "source_url": "https://slickdeals.net/f/17244892-gopro-hero-11-black-bundle-219-free-shipping-open-box-it-s-back-limited-qty?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO+11+Black+Bundle+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7fbbeb6c0ecbd10d",
@@ -29584,7 +29612,7 @@
  {
   "id": "ea4389cf99cfc688",
   "title": "GoPro - HERO8 Black 4K Waterproof Action Camera Special Bundle - Black $349.99",
-  "url": "https://slickdeals.net/e/13728374-gopro-hero8-black-4k-waterproof-action-camera-special-bundle-black-349-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+-+HERO8+Black+4K+Waterproof+Action+Camera+Special+Bundle+-+Black",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -29596,7 +29624,8 @@
   "source_url": "https://slickdeals.net/e/13728374-gopro-hero8-black-4k-waterproof-action-camera-special-bundle-black-349-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+-+HERO8+Black+4K+Waterproof+Action+Camera+Special+Bundle+-+Black",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7700bc5bfffa9c20",
@@ -29669,7 +29698,7 @@
  {
   "id": "c596fda9a715611e",
   "title": "Charger 140W 4-Port PD 3.2/AVS USB C Fast Charger, Smart Display Charger, GaN Laptop Power Adapter for MacBook, iPhone 18/17 Pro Max (5ft 240W Cable Included)",
-  "url": "https://slickdeals.net/f/20289108-charger-140w-4-port-pd-3-2-avs-usb-c-fast-charger-smart-display-charger-gan-laptop-power-adapter-for-macbook-iphone-18-17-pro-max-5ft-240w-cable-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Charger+140W+4-Port+PD+3.2+AVS+USB+C+Fast+Charger+Smart+Display+Charger+GaN+Lapt",
   "why": "Iphone — 45% off",
   "category": "tech",
   "source": "Slickdeals: Iphone 16",
@@ -29681,12 +29710,13 @@
   "source_url": "https://slickdeals.net/f/20289108-charger-140w-4-port-pd-3-2-avs-usb-c-fast-charger-smart-display-charger-gan-laptop-power-adapter-for-macbook-iphone-18-17-pro-max-5ft-240w-cable-included?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Charger+140W+4-Port+PD+3.2+AVS+USB+C+Fast+Charger+Smart+Display+Charger+GaN+Lapt",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "05d46d593c80a073",
   "title": "3-in-1 Ucomx Nano Foldable Wireless Charging Station for iPhone, Apple Watch & AirPods (White) $7.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20287995-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+3-in-1+Ucomx+Nano+Foldable+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+Ai",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone 16",
@@ -29698,12 +29728,13 @@
   "source_url": "https://slickdeals.net/f/20287995-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+3-in-1+Ucomx+Nano+Foldable+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+Ai",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2d4fee40a7ad1894",
   "title": "3-in-1 Ucomx Nano Foldable Wireless Charging Station for iPhone, Apple Watch & AirPods (White) $7.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20287995-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+3-in-1+Ucomx+Nano+Foldable+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+Ai",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -29715,12 +29746,13 @@
   "source_url": "https://slickdeals.net/f/20287995-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+3-in-1+Ucomx+Nano+Foldable+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+Ai",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e5e68955d26ac6ab",
   "title": "(NEW) Apple AirPods 5 Wireless Earbuds with ANC $119",
-  "url": "https://slickdeals.net/f/20259027-new-apple-airpods-5-wireless-earbuds-with-anc-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+AirPods+5+Wireless+Earbuds+with+ANC",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -29732,12 +29764,13 @@
   "source_url": "https://slickdeals.net/f/20259027-new-apple-airpods-5-wireless-earbuds-with-anc-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+AirPods+5+Wireless+Earbuds+with+ANC",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3c4ee87772373e3e",
   "title": "3-in-1 Ucomx Nano Foldable Wireless Charging Station for iPhone, Apple Watch & AirPods (White) $7.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20287995-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+3-in-1+Ucomx+Nano+Foldable+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+Ai",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch Series",
@@ -29749,7 +29782,8 @@
   "source_url": "https://slickdeals.net/f/20287995-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+3-in-1+Ucomx+Nano+Foldable+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+Ai",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4ce12784216b3e00",
@@ -29772,7 +29806,7 @@
  {
   "id": "cc99240cc9884b02",
   "title": "Unlocked Pixel 11 256 GB from $399 for Google Fi new user | 120 days service required",
-  "url": "https://slickdeals.net/f/20285793-unlocked-pixel-11-256-gb-from-399-for-google-fi-new-user-120-days-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Unlocked+Pixel+11+256+GB+from",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -29784,7 +29818,8 @@
   "source_url": "https://slickdeals.net/f/20285793-unlocked-pixel-11-256-gb-from-399-for-google-fi-new-user-120-days-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Unlocked+Pixel+11+256+GB+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "528c9e5c66544d5b",
@@ -29823,7 +29858,7 @@
  {
   "id": "0d674ae8872caaa8",
   "title": "DJI Osmo 360 8K 360° Camera (Standard Combo) $280, Adventure Combo $372 + Free S/H",
-  "url": "https://slickdeals.net/f/20289051-dji-osmo-360-8k-360-camera-standard-combo-280-adventure-combo-372-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: B&H Deal",
@@ -29835,12 +29870,13 @@
   "source_url": "https://slickdeals.net/f/20289051-dji-osmo-360-8k-360-camera-standard-combo-280-adventure-combo-372-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9dc4178d0b0fe68b",
   "title": "DJI Air 3S Drone with RC 2/RC-N3 Remote Controller $727 + Free S/H",
-  "url": "https://slickdeals.net/f/20288886-dji-air-3s-drone-with-rc-2-rc-n3-remote-controller-727-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+with+RC+2+RC-N3+Remote+Controller",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: B&H Deal",
@@ -29852,7 +29888,8 @@
   "source_url": "https://slickdeals.net/f/20288886-dji-air-3s-drone-with-rc-2-rc-n3-remote-controller-727-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+with+RC+2+RC-N3+Remote+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "543c73f0f38efefa",
@@ -29925,7 +29962,7 @@
  {
   "id": "58a05b2686fb423f",
   "title": "Garmin Edge 540 GPS Cycling Computer $205 + Free S/H",
-  "url": "https://slickdeals.net/f/20289012-garmin-edge-540-gps-cycling-computer-205-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+540+GPS+Cycling+Computer",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin deal",
@@ -29937,12 +29974,13 @@
   "source_url": "https://slickdeals.net/f/20289012-garmin-edge-540-gps-cycling-computer-205-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+540+GPS+Cycling+Computer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "143dd7e58fd5c85e",
   "title": "Garmin Striker 4 3.5\" GPS Fishfinder w/ CHIRP Sonar & Transducer (010-01550-00) $130 + Free Shipping",
-  "url": "https://slickdeals.net/f/20275440-garmin-striker-4-3-5-gps-fishfinder-w-chirp-sonar-transducer-010-01550-00-130-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Striker+4+3.5+GPS+Fishfinder+w+CHIRP+Sonar+%26+Transducer",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin deal",
@@ -29954,12 +29992,13 @@
   "source_url": "https://slickdeals.net/f/20275440-garmin-striker-4-3-5-gps-fishfinder-w-chirp-sonar-transducer-010-01550-00-130-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Striker+4+3.5+GPS+Fishfinder+w+CHIRP+Sonar+%26+Transducer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e7201b3978e37872",
   "title": "Garmin Forerunner 255 46mm Sports Smartwatch $158.5 + Free Shipping at NexWear Store via AliExpress",
-  "url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping-at-nexwear-store-via-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+Sports+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin deal",
@@ -29971,12 +30010,13 @@
   "source_url": "https://slickdeals.net/f/20240106-garmin-forerunner-255-46mm-sports-smartwatch-158-5-free-shipping-at-nexwear-store-via-aliexpress?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+255+46mm+Sports+Smartwatch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ba72579c3fba093b",
   "title": "Garmin Forerunner 265 46mm GPS Smartwatch with AMOLED Display $203 + Free Shipping $203.3",
-  "url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin deal",
@@ -29988,7 +30028,8 @@
   "source_url": "https://slickdeals.net/f/20238651-garmin-forerunner-265-46mm-gps-smartwatch-with-amoled-display-203-free-shipping-203-3?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+265+46mm+GPS+Smartwatch+with+AMOLED+Display",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9f9cc2a1eca94698",
@@ -30029,7 +30070,7 @@
  {
   "id": "4486b75c74ab025e",
   "title": "Garmin Fenix 8 AMOLED 51mm $599.99 at Bass Pro Shop",
-  "url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin deal",
@@ -30041,7 +30082,8 @@
   "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "688436c7d04a185c",
@@ -30198,7 +30240,7 @@
  {
   "id": "277232de07bdcc45",
   "title": "Garmin Vivoactive 5 smartwatch drops to its lowest price ever with 44% off - Neowin",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGFYVVBMUy02RENIYVo1bGxLUWhVaXdOVWplQ3FjWGtpWkdlRzZqbVBuVGgxMXdlbkZnQVlzQVdIckduOFlFQTdoMW9lRHpmb3hUWExDR2xmZ0VoUkpQTzR3blNuTUJleHZFem0tRERtb0NadUFTVXFUU3dQQ1BRTXFfbDVTTXVHTHdpZ0dlaUNyc3d0NGF6T2ZsRHM5b3l5TTFfN2VR?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+smartwatch+drops+to+its+lowest+price+ever+with+44+off+-+Neow",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -30210,12 +30252,13 @@
   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGFYVVBMUy02RENIYVo1bGxLUWhVaXdOVWplQ3FjWGtpWkdlRzZqbVBuVGgxMXdlbkZnQVlzQVdIckduOFlFQTdoMW9lRHpmb3hUWExDR2xmZ0VoUkpQTzR3blNuTUJleHZFem0tRERtb0NadUFTVXFUU3dQQ1BRTXFfbDVTTXVHTHdpZ0dlaUNyc3d0NGF6T2ZsRHM5b3l5TTFfN2VR?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Vivoactive+5+smartwatch+drops+to+its+lowest+price+ever+with+44+off+-+Neow",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1dcaebb98db57b9d",
   "title": "DJI Air 3S Drone with RC 2/RC-N3 Remote Controller $727 + Free S/H",
-  "url": "https://slickdeals.net/f/20288886-dji-air-3s-drone-with-rc-2-rc-n3-remote-controller-727-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+with+RC+2+RC-N3+Remote+Controller",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -30227,12 +30270,13 @@
   "source_url": "https://slickdeals.net/f/20288886-dji-air-3s-drone-with-rc-2-rc-n3-remote-controller-727-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Drone+with+RC+2+RC-N3+Remote+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "623636f1f74d0e6c",
   "title": "RT New York to Nassau Bahamas $220 Nonstop Airfares on JetBlue BE (Travel January - March 2026)",
-  "url": "https://slickdeals.net/f/18978778-rt-new-york-to-nassau-bahamas-220-nonstop-airfares-on-jetblue-be-travel-january-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDZqBRIDTllDcgUSA05BUxoaEgoyMDI3LTAxLTExagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30252,12 +30296,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "831894177b06a361",
   "title": "RT New York to Nassau Bahamas $288 Nonstop Airfares on JetBlue & Delta Air Lines BE (Travel December - June 2025)",
-  "url": "https://slickdeals.net/f/17741511-rt-new-york-to-nassau-bahamas-288-nonstop-airfares-on-jetblue-delta-air-lines-be-travel-december-june-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDFqBRIDTllDcgUSA05BUxoaEgoyMDI2LTEyLTA0agUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30277,12 +30322,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "c260a7d58134c98f",
   "title": "RT New York to Nassau Bahamas $226 Nonstop Airfares on Delta Air Lines BE (Travel April - February 2025, Including SUMMER)",
-  "url": "https://slickdeals.net/f/17393742-rt-new-york-to-nassau-bahamas-226-nonstop-airfares-on-delta-air-lines-be-travel-april-february-2025-including-summer?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDctMDVqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA3LTEyagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30302,12 +30348,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "16eaf8de538cf6e5",
   "title": "RT New York to Nassau Bahamas $226 Nonstop Airfares on JetBlue & Delta Air Lines BE (Travel April - September 2024)",
-  "url": "https://slickdeals.net/f/17368695-rt-new-york-to-nassau-bahamas-226-nonstop-airfares-on-jetblue-delta-air-lines-be-travel-april-september-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDQtMDJqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA0LTEwagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30327,12 +30374,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "6104edd228f64ec4",
   "title": "RT New York to Nassau Bahamas $236 Nonstop Airfares on JetBlue, United or Delta Air Lines BE (Travel November - February 2024)",
-  "url": "https://slickdeals.net/f/16987621-rt-new-york-to-nassau-bahamas-236-nonstop-airfares-on-jetblue-united-or-delta-air-lines-be-travel-november-february-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA05BUxoaEgoyMDI2LTEyLTEzagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30353,12 +30401,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "7aeeb030cdbea5f6",
   "title": "New York to Nassau Bahamas $236 RT Nonstop Airfares on JetBlue Basic (Travel July - October 2023)",
-  "url": "https://slickdeals.net/f/16784363-new-york-to-nassau-bahamas-236-rt-nonstop-airfares-on-jetblue-basic-travel-july-october-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDctMjZqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA3LTMxagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30378,12 +30427,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "efec9c897194bfae",
   "title": "New York to Nassau Bahamas $272 RT Nonstop Airfares on JetBlue or Delta Air Lines BE (Travel August - November 2023)",
-  "url": "https://slickdeals.net/f/16704554-new-york-to-nassau-bahamas-272-rt-nonstop-airfares-on-jetblue-or-delta-air-lines-be-travel-august-november-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDgtMDJqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA4LTA3agUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30403,12 +30453,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "9b18ba97c10d83e8",
   "title": "RT Flights to Nassau, Bahamas, from different cities, Starting at $235",
-  "url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30422,12 +30473,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at",
+  "link_tried3": true
  },
  {
   "id": "a7b53356a8236536",
   "title": "New York to Paradise Island Bahamas $325 RT Nonstop Airfares on JetBlue Airways (Limited Travel Sept-Oct 2019)",
-  "url": "https://slickdeals.net/e/13174879-new-york-to-paradise-island-bahamas-325-rt-nonstop-airfares-on-jetblue-airways-limited-travel-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDktMDNqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA5LTA4agUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -30447,7 +30499,8 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "f2f9af7f44779547",
@@ -30609,7 +30662,7 @@
  {
   "id": "8d5326530eb955fb",
   "title": "New York to Cancun Mexico $316 RT Nonstop Airfares on Jetblue Basic (Travel September - November 2022)",
-  "url": "https://slickdeals.net/f/15810079-new-york-to-cancun-mexico-316-rt-nonstop-airfares-on-jetblue-basic-travel-september-november-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDktMDZqBRIDTllDcgUSA0NVThoaEgoyMDI3LTA5LTExagUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -30629,12 +30682,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "5e308e66b34d1a8d",
   "title": "NYC to Cancun, Mexico non stop, roundtrip (January-March dates) $141",
-  "url": "https://slickdeals.net/e/14717390-nyc-to-cancun-mexico-non-stop-roundtrip-january-march-dates-141?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDhqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTE2agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -30654,12 +30708,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "67f8969f825d4068",
   "title": "New York to Cancun Mexico $230 RT Nonstop Airfares on Several Airlines (Travel December - March 2021)",
-  "url": "https://slickdeals.net/e/14459639-new-york-to-cancun-mexico-230-rt-nonstop-airfares-on-several-airlines-travel-december-march-2021?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDFqBRIDTllDcgUSA0NVThoaEgoyMDI2LTEyLTE0agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -30679,12 +30734,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "d3fbc542a9a0868e",
   "title": "New York to Cancun Mexico $242 RT Nonstop Airfares on Delta, American or Jetblue Airways (Travel January - April 2021)",
-  "url": "https://slickdeals.net/e/14370344-new-york-to-cancun-mexico-242-rt-nonstop-airfares-on-delta-american-or-jetblue-airways-travel-january-april-2021?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDFqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTMxagUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -30704,12 +30760,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "c8da8e07535214ee",
   "title": "New Jersey to Cancun MX $258 RT Nonstop Airfares on VivaAerobus Airlines (Limited Travel April-May 2019)",
-  "url": "https://slickdeals.net/e/12781312-new-jersey-to-cancun-mx-258-rt-nonstop-airfares-on-vivaaerobus-airlines-limited-travel-april-may-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -30723,7 +30780,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/12781312-new-jersey-to-cancun-mx-258-rt-nonstop-airfares-on-vivaaerobus-airlines-limited-travel-april-may-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX",
+  "link_tried3": true
  },
  {
   "id": "2f1f16ed0a8a0f46",
@@ -32668,11 +32726,11 @@
   "pct": null,
   "price": 344.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20278953-new-samsung-galaxy-watch-ultra-smart-watch-2024-gps-cellular-344-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+Watch+Ultra+Smart+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "aaf992f967cae864",
@@ -32758,11 +32816,11 @@
   "pct": null,
   "price": 15.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20267913-3-4-oz-michael-jordan-by-michael-jordan-cologne-for-men-15-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.4-Oz+Michael+Jordan+by+Michael+Jordan+Cologne+for+Men",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "086d606fed2b3349",
@@ -32812,11 +32870,11 @@
   "pct": null,
   "price": 67.49,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20228787-air-jordan-1-retro-low-og-banned-mens-lifestyle-shoe-67-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Air+Jordan+1+Retro+Low+OG+Banned+Mens+Lifestyle+Shoe",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "697c66e68fe1fe78",
@@ -32830,11 +32888,11 @@
   "pct": null,
   "price": 44.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20171109-air-jordan-men-s-1-low-se-sneaker-chile-red-black-summit-white-44-99-free-shipping-on-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Air+Jordan+Men%27s+1+Low+SE+Sneaker",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "47de0233a174d892",
@@ -32848,11 +32906,11 @@
   "pct": null,
   "price": 53.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20150061-air-jordan-women-s-skyline-low-le-sneaker-53-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Air+Jordan+Women%27s+Skyline+Low+LE+Sneaker",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d9345f50bd656bde",
@@ -32866,11 +32924,11 @@
   "pct": null,
   "price": 29.97,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20101680-air-jordan-mvp-92-men-s-shoes-black-blue-size-8-8-5-10-11-5-13-29-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Air+Jordan+MVP+92+Men%27s+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ca43320341d0e29c",
@@ -32884,11 +32942,11 @@
   "pct": null,
   "price": 56.97,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20089548-air-jordan-mvp-92-shoes-black-gamma-blue-56-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Air+Jordan+MVP+92+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3a55ffb9f748fe43",
@@ -32902,11 +32960,11 @@
   "pct": null,
   "price": 114.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20263800-tissot-prx-digital-quartz-dial-watch-sale-35mm-tissot-prx-digital-quartz-silver-dial-114-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Tissot+PRX+Digital+Quartz+Dial+Watch+35mm+Tissot+PRX+Digital+Quartz+Silver+Dial",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "49d6e69c9dab00bb",
@@ -32920,11 +32978,11 @@
   "pct": null,
   "price": 470.4,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20263368-tissot-seastar-1000-automatic-graded-grey-black-dial-automatic-watch-jomashop-470-40?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Tissot+Seastar+1000+Automatic+Graded+Grey-Black+Dial+Automatic+Watch+Jomashop",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a7fb32df0ebfff0d",
@@ -32938,11 +32996,11 @@
   "pct": null,
   "price": 246.4,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242614-40mm-tissot-carson-men-s-black-dial-automatic-watch-246-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Black+Dial+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4e497a2808cac284",
@@ -32956,11 +33014,11 @@
   "pct": null,
   "price": 89.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20231373-citizen-analog-black-dial-men-s-watch-bi5017-50e-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5017-50E",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ae0a07438fb250a4",
@@ -32974,11 +33032,11 @@
   "pct": null,
   "price": 232.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224758-tissot-pr-100-quartz-men-s-watch-232?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+TISSOT+PR+100+Quartz+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "45df2ba49bed52e6",
@@ -33044,11 +33102,11 @@
   "pct": null,
   "price": 272.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154366-40mm-tissot-carson-men-s-automatic-powermatic-80-watch-272-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=40mm+Tissot+Carson+Men%27s+Automatic+Powermatic+80+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b14ee3293ec625d7",
@@ -33062,11 +33120,11 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20154339-41mm-tissot-men-s-t-sport-sideral-powermatic-automatic-watch-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=41mm+Tissot+Men%27s+T-Sport+Sideral+Powermatic+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b65cb90e89c4965f",
@@ -33080,11 +33138,11 @@
   "pct": null,
   "price": 227.5,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20141586-seiko-38mm-watch-model-srpk35k1-orange-dial-hard-to-find-227-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+38mm+watch+model+SRPK35K1+Orange+dial-+hard+to+find",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a2dd08b475f0088c",
@@ -33114,11 +33172,11 @@
   "pct": 15,
   "price": 956.25,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20125365-tissot-seastar-2000-professional-powermatic-80-automatic-watch-44mm-956-25?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Seastar+2000+Professional+Powermatic+80+Automatic+Watch+-+44mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "50fac1eff7593dc0",
@@ -33148,11 +33206,11 @@
   "pct": null,
   "price": 598.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20108631-tissot-t-touch-connect-sport-swiss-quartz-solar-tactile-43mm-black-dial-for-598?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+T-Touch+Connect+Sport+Swiss+Quartz+Solar+Tactile+43mm+Black+Dial+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7e054745147896d5",
@@ -33184,11 +33242,11 @@
   "pct": null,
   "price": 796.25,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20096721-tissot-prx-powermatic-80-carbon-40mm-automatic-watch-796-25-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+PRX+Powermatic+80+Carbon+40mm+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "059994254ad6cbf5",
@@ -33238,11 +33296,11 @@
   "pct": null,
   "price": 599.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20255295-garmin-fenix-8-amoled-47mm-grey-black-or-silver-whitestone-599-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+47MM+Grey+Black+or+Silver+Whitestone",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "049551dd3b0ac561",
@@ -33256,11 +33314,11 @@
   "pct": null,
   "price": 599.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20219331-garmin-fenix-8-amoled-51mm-599-99-at-bass-pro-shop?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+51mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "499fda72edd40b11",
@@ -33274,11 +33332,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20144025-garmin-51mm-fenix-8-smartwatch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+51mm+Fenix+8+Smartwatch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fdbcb52e94c9b2e6",
@@ -33326,11 +33384,11 @@
   "pct": null,
   "price": 699.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20088267-garmin-fenix-8-amoled-slate-gray-black-51mm-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Fenix+8+AMOLED+Slate+Gray+Black+51mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a3ebf11896c7157b",
@@ -33344,11 +33402,11 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20051241-garmin-edge-840-solar-cycling-computer-399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+840+Solar+Cycling+Computer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cd11ebe07696911b",
@@ -33452,11 +33510,11 @@
   "pct": null,
   "price": 250.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20010492-garmin-edge-540-gps-cycling-computer-250?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+540+GPS+Cycling+Computer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3dca07f4de700745",
@@ -33570,11 +33628,11 @@
   "pct": null,
   "price": 399.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19962918-garmin-edge-1040-solar-premium-bike-computer-399-expertvoice-member-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Edge+1040+Solar+Premium+Bike+Computer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d0fdf4de75cdd5d8",
@@ -33838,11 +33896,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20214429-spooky-good-apple-iphone-watches-refurbished-s-d-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Spooky+Good+Apple+iPhone+%26+Watches",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d497233e3176304b",
@@ -33856,11 +33914,11 @@
   "pct": null,
   "price": 325.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20212818-apple-watch-series-10-gps-cellular-smartwatch-46mm-325-42mm-300-free-s-h-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+Watch+Series+10+GPS+%2B+Cellular+Smartwatch+46mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "442514ea53d5cdf6",
@@ -33910,11 +33968,11 @@
   "pct": null,
   "price": 376.35,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20272143-open-box-unlocked-google-pixel-fold-256-gb-376-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+box+Unlocked+Google+pixel+fold+256+GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d0bc7d88499ae207",
@@ -33998,11 +34056,11 @@
   "pct": null,
   "price": 799.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20230722-google-pixel-11-unlocked-smartphone-pixel-11-pro-from-799-pixel-11-from-699-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Google+Pixel+11+Unlocked+Smartphone+Pixel+11+Pro+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a94d4c1165479474",
@@ -34016,11 +34074,11 @@
   "pct": null,
   "price": 695.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20218746-google-pixel-10-pro-xl-256gb-unlocked-obsidian-open-box-excellent-695-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Google+-+Pixel+10+Pro+XL+256GB+-+Obsidian+-+Open+Box+-+Excellent",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1db20685730e12f9",
@@ -34034,11 +34092,11 @@
   "pct": 25,
   "price": 674.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20191638-check-emails-member-benefit-save-25-on-pixel-11-series-phones-674?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Check+emails+Member+benefit+Save+25+on+Pixel+11+series+phones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "53642ae383a8fcef",
@@ -34052,11 +34110,11 @@
   "pct": null,
   "price": 599.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20189790-unlocked-pixel-10-pro-128-gb-599-120-days-of-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Unlocked+Pixel+10+Pro+128+GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "860a4ac09ea38593",
@@ -34088,11 +34146,11 @@
   "pct": null,
   "price": 299.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20279403-thrustmaster-formula-wheel-add-on-ferrari-sf1000-edition-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Thrustmaster+Formula+Wheel+Add-On+Ferrari+SF1000+Edition",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7528de924470c96a",
@@ -34124,11 +34182,11 @@
   "pct": null,
   "price": 11.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20272620-nubwo-hg04l-gaming-headset-for-ps5-ps4-xbox-series-x-s-xbox-one-11-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NUBWO+HG04L+Gaming+Headset+for+PS5+PS4+Xbox+Series+X+S+Xbox+One+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "316b159b3fa0f659",
@@ -34142,11 +34200,11 @@
   "pct": null,
   "price": 11.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20272614-nubwo-hg04l-gaming-headset-for-ps5-ps4-xbox-series-x-s-xbox-one-11-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=NUBWO+HG04L+Gaming+Headset+for+PS5+PS4+Xbox+Series+X+S+Xbox+One+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5023ae24901cbf68",
@@ -34176,11 +34234,11 @@
   "pct": 20,
   "price": null,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20261271-meta-quest-3s-128gb-refurbished?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Meta+Quest+3S+128GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7f01876093f015dd",
@@ -34194,11 +34252,11 @@
   "pct": null,
   "price": 248.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249910-meta-quest-3s-128gb-all-in-one-vr-headset-248-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Meta+Quest+3S+128GB+All-in-One+VR+Headset",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4dae748e09cea1e4",
@@ -34260,11 +34318,11 @@
   "pct": null,
   "price": 439.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20105577-refurb-meta-quest-3-512gb-439-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3+512GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3b40410a7bd38a73",
@@ -34278,11 +34336,11 @@
   "pct": null,
   "price": 255.99,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20105574-refurb-meta-quest-3s-128gb-255-99-256gb-327-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3S+128GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7a46de79fe210a6a",
@@ -34296,11 +34354,11 @@
   "pct": null,
   "price": 6.24,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20105511-amzdm-silicone-controller-grip-cover-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-24-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Cover+w+Knuckle+Straps+%26+Thumbstick+Covers+for+Me",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "16b6c5c0fb1c733d",
@@ -34330,11 +34388,11 @@
   "pct": null,
   "price": 6.95,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20070912-amzdm-silicone-controller-grip-covers-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-95-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Covers+w+Knuckle+Straps+%26+Thumbstick+Covers+for+M",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "141ad93fed849505",
@@ -34368,7 +34426,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20271441-refurb-dji-mini-3-4k-hdr-3-axis-gimbal-drone-w-rc-n1-controller-203-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Refurb%3A%20DJI%20Mini%203%204K%20HDR%203-Axis%20Gimbal%20Drone%20w/%20RC-N1%20Controller"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Refurb%3A%20DJI%20Mini%203%204K%20HDR%203-Axis%20Gimbal%20Drone%20w/%20RC-N1%20Controller",
+  "link_tried3": true
  },
  {
   "id": "c77ebb44c6b6d531",
@@ -34382,11 +34441,11 @@
   "pct": null,
   "price": 899.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20270466-new-dji-mini-5-pro-drone-with-rc-2-899?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Drone+with+RC+2",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2109bab735839e7d",
@@ -34400,11 +34459,11 @@
   "pct": null,
   "price": 824.5,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20256861-dji-mini-5-pro-fly-more-combo-w-dji-rc-2-1-inch-cmos-4k-camera-824-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Fly+More+Combo+w+DJI+RC+2+%26+1-Inch+CMOS+4K+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "78be052e1c9a1755",
@@ -34440,7 +34499,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20249853-open-box-dji-mavic-4-pro-fly-more-combo-with-dji-rc-2-1516-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Open%20Box%3A%20DJI%20Mavic%204%20Pro%20Fly%20More%20Combo%20with%20DJI%20RC%202",
+  "link_tried3": true
  },
  {
   "id": "317686df405ffdaf",
@@ -34454,11 +34514,11 @@
   "pct": null,
   "price": 696.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20249409-dji-mini-5-pro-4k-camera-drone-fly-more-combo-w-rc-n3-controller-696-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+Fly+More+Combo+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "704d59a7dd7e2ea1",
@@ -34472,11 +34532,11 @@
   "pct": null,
   "price": 65.4,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20248839-used-condition-dji-neo-mini-drone-w-4k-uhd-camera-neo-controller-free-65-40-or-less-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Used+Condition+DJI+Neo+Mini+Drone+w+4K+UHD+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ad0181f67fb01982",
@@ -34490,11 +34550,11 @@
   "pct": null,
   "price": 954.28,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20245572-dji-air-3s-fly-more-combo-rc-n3-used-drone-with-1-cmos-wide-angle-medium-tele-camera-954-28?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Air+3S+Fly+More+Combo+Used+Drone+with+1+CMOS+Wide-Angle+%26+Medium+Tele+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "95766edcf0d2ece3",
@@ -34508,11 +34568,11 @@
   "pct": null,
   "price": 773.5,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20242593-dji-mini-5-pro-4k-camera-drone-rc2-fly-more-combo-773-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+4k+Camera+Drone+RC2+Fly+More+Combo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a2991d6347391d57",
@@ -34526,11 +34586,11 @@
   "pct": null,
   "price": 1367.54,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20241096-refurb-used-dji-mavic-4-pro-flagship-drone-with-controller-100mp-4-3-cmos-hasselblad-camera-charging-hub-included-1367-54-or-lower?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Used+DJI+Mavic+4+Pro+Flagship+Drone+with+Controller+100MP+4+3+CMOS+Hassel",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1a5b334ba9724e9e",
@@ -34544,11 +34604,11 @@
   "pct": null,
   "price": 37.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238825-dji-mic-mini-1-tx-1-rx-wireless-microphone-37-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mic+Mini+Wireless+Microphone",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "26c60ee2121fe9c3",
@@ -34562,11 +34622,11 @@
   "pct": null,
   "price": 519.0,
   "found_at": "2026-11-11T10:10:30Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238324-dji-avata-360-8k-camera-drone-with-dual-shooting-modes-519-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Avata+360+8K+Camera+Drone+with+Dual+Shooting+Modes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "74b2b07b3c072e9c",
@@ -34587,7 +34647,7 @@
  {
   "id": "378e50cfc25d27b5",
   "title": "Jomashop Christmas in July Deals: Breitling Colt Auto $2035; Tudor Heritage $2467; RW Maestro Auto $469; Omega DeVille Auto $2176; Seiko Flight Chrono $204",
-  "url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
   "why": "",
   "category": "flights",
   "source": "Web search: Breitling price drop",
@@ -34595,12 +34655,17 @@
   "hot": false,
   "pct": null,
   "price": 2035.0,
-  "found_at": "2026-11-11T10:13:52Z"
+  "found_at": "2026-11-11T10:13:52Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
  },
  {
   "id": "e2206c76542ec122",
   "title": "90-Count Qunol Advanced Omega-3 Krill & Fish Oil Complex 250mg EPA & DHA Softgels $16.49 ($0.18) w/ S&S + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20259075-90-count-qunol-advanced-omega-3-krill-fish-oil-complex-250mg-epa-dha-softgels-16-49-0-18-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=90-Count+Qunol+Advanced+Omega-3+Krill+%26+Fish+Oil+Complex+250mg+EPA+%26+DHA+Softgel",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -34608,19 +34673,320 @@
   "hot": false,
   "pct": 40,
   "price": 16.49,
-  "found_at": "2026-11-11T10:13:53Z"
+  "found_at": "2026-11-11T10:13:53Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20259075-90-count-qunol-advanced-omega-3-krill-fish-oil-complex-250mg-epa-dha-softgels-16-49-0-18-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=90-Count+Qunol+Advanced+Omega-3+Krill+%26+Fish+Oil+Complex+250mg+EPA+%26+DHA+Softgel",
+  "exact": false
  },
  {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "ee2e14917fdd3f25",
+  "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic $111.95",
+  "url": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic",
   "why": "",
   "category": "watches",
-  "source": "Web search: Omega price drop",
+  "source": "Slickdeals: Amazon watch",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-11T10:13:54Z"
+  "price": 111.95,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20281479-citizen-quartz-mens-watch-stainless-steel-classic-111-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic",
+  "exact": false
+ },
+ {
+  "id": "9ec227d0a1052369",
+  "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic, Two-Tone (Model: BI5054-53L) $136.95",
+  "url": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic+Two-Tone",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 136.95,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20280450-citizen-quartz-mens-watch-stainless-steel-classic-two-tone-model-bi5054-53l-136-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic+Two-Tone",
+  "exact": false
+ },
+ {
+  "id": "93ef6d18eb908c2c",
+  "title": "Citizen Analog Black Dial Men's Watch-BI5010-59E $106.95 @Amazon",
+  "url": "https://www.amazon.com/s?k=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5010-59E",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 106.95,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20279469-citizen-analog-black-dial-men-s-watch-bi5010-59e-106-95-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Analog+Black+Dial+Men%27s+Watch-BI5010-59E",
+  "exact": false
+ },
+ {
+  "id": "7f3b9f55d262e495",
+  "title": "Citizen Quartz Mens Watch, Stainless Steel, Classic, Silver-Tone (Model: BI1030-53A) $106.95 @Amazon",
+  "url": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic+Silver-Tone",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Amazon watch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 106.95,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20279460-citizen-quartz-mens-watch-stainless-steel-classic-silver-tone-model-bi1030-53a-106-95-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Citizen+Quartz+Mens+Watch+Stainless+Steel+Classic+Silver-Tone",
+  "exact": false
+ },
+ {
+  "id": "0b7cd927b8fc2cc2",
+  "title": "Open Box Excellent: Insignia 45W USB-C Wall Charger for MacBook Pro, iPad, iPhone, Apple Watch, Samsung Smartphones & More - White - $8.99 + Free Shipping",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Box+Excellent+Insignia+45W+USB-C+Wall+Charger+for+MacBook+Pro+iPad+iPhone+A",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.99,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20282187-open-box-excellent-insignia-45w-usb-c-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-samsung-smartphones-more-white-8-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Box+Excellent+Insignia+45W+USB-C+Wall+Charger+for+MacBook+Pro+iPad+iPhone+A",
+  "exact": false
+ },
+ {
+  "id": "01ff77e1f258b2b8",
+  "title": "Gydom Smart Watch for Women, 40mm HD Fitness Tracker, Answer & Make Call | for iPhone/Android/Samsung, Heart Rate/Stress/Sleep Monitor, 7 Day Battery, 110+ Sports Modes $20.99",
+  "url": "https://www.amazon.com/s?k=Gydom+Smart+Watch+for+Women+40mm+HD+Fitness+Tracker+Answer+%26+Make+Call+for+iPhon",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.99,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20282034-gydom-smart-watch-for-women-40mm-hd-fitness-tracker-answer-make-call-for-iphone-android-samsung-heart-rate-stress-sleep-monitor-7-day-battery-110-sports-modes-20-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Gydom+Smart+Watch+for+Women+40mm+HD+Fitness+Tracker+Answer+%26+Make+Call+for+iPhon",
+  "exact": false
+ },
+ {
+  "id": "8fec0c5336be2c7e",
+  "title": "Apple - iPhone 17 Silicone Case with MagSafe - Purple Fog",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+iPhone+17+Silicone+Case+with+MagSafe+-+Purple+Fog",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20281719-apple-iphone-17-silicone-case-with-magsafe-purple-fog?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+-+iPhone+17+Silicone+Case+with+MagSafe+-+Purple+Fog",
+  "exact": false
+ },
+ {
+  "id": "1ce6391cc4a7ff59",
+  "title": "Apple iPhone 17/17 Pro Silicone Case w/ MagSafe (Various) from $18",
+  "url": "https://www.amazon.com/s?k=Apple+iPhone+17+17+Pro+Silicone+Case+w+MagSafe+from",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 18.0,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20279859-apple-iphone-17-17-pro-silicone-case-w-magsafe-various-from-18?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Apple+iPhone+17+17+Pro+Silicone+Case+w+MagSafe+from",
+  "exact": false
+ },
+ {
+  "id": "c5c4efbb24f7fcc6",
+  "title": "Best Buy essentials™ - Silicone Case for Apple AirPods Pro 3 - Black $4.99 + Free Shipping (Or less)",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+-+Silicone+Case+for+Apple+AirPods+Pro+3+-+Black",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 4.99,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20282205-best-buy-essentials-silicone-case-for-apple-airpods-pro-3-black-4-99-free-shipping-or-less?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+essentials+-+Silicone+Case+for+Apple+AirPods+Pro+3+-+Black",
+  "exact": false
+ },
+ {
+  "id": "2cee97060c85f1b0",
+  "title": "Apple AirPods Pro Wireless Noise Cancelling Earbuds (3rd Gen, Refurbished) $123.29 + Free Shipping",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Apple+AirPods+Pro+Wireless+Noise+Cancelling+Earbuds",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 123.29,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20281506-apple-airpods-pro-wireless-noise-cancelling-earbuds-3rd-gen-refurbished-123-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Apple+AirPods+Pro+Wireless+Noise+Cancelling+Earbuds",
+  "exact": false
+ },
+ {
+  "id": "930a1aa5a01f1931",
+  "title": "Energizer - 3-in-1 15W Magnetic MagSafe/Qi2 Fast 15W, Universal Charging Station/Stand for Phones + AirPods + Apple Watch - Black - Open Box - Excellent $16.99",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Energizer+-+3-in-1+15W+Magnetic+MagSafe+Qi2+Fast+15W+Universal+Charging+Station+",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 16.99,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20279256-energizer-3-in-1-15w-magnetic-magsafe-qi2-fast-15w-universal-charging-station-stand-for-phones-airpods-apple-watch-black-open-box-excellent-16-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Energizer+-+3-in-1+15W+Magnetic+MagSafe+Qi2+Fast+15W+Universal+Charging+Station+",
+  "exact": false
+ },
+ {
+  "id": "f5755c5e39ba6ea6",
+  "title": "Apple AirPods 4 AAFES Military Veteran Deal $69",
+  "url": "https://www.apple.com/us/search/Apple%20AirPods%204%20AAFES%20Military%20Veteran",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 69.0,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20271768-apple-airpods-4-aafes-military-veteran-deal-69?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20AirPods%204%20AAFES%20Military%20Veteran",
+  "exact": false
+ },
+ {
+  "id": "634c12a7d168ff32",
+  "title": "Turtle Beach - Airlite Fit Wired Over-Ear Gaming Headset for Nintendo Switch, Nintendo Switch Lite & Nintendo Switch - OLED Model - Neon Blue & Red $14.99",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Turtle+Beach+-+Airlite+Fit+Wired+Over-Ear+Gaming+Headset+for+Nintendo+Switch+Nin",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.99,
+  "found_at": "2026-11-11T10:19:26Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20278947-turtle-beach-airlite-fit-wired-over-ear-gaming-headset-for-nintendo-switch-nintendo-switch-lite-nintendo-switch-oled-model-neon-blue-red-14-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Turtle+Beach+-+Airlite+Fit+Wired+Over-Ear+Gaming+Headset+for+Nintendo+Switch+Nin",
+  "exact": false
+ },
+ {
+  "id": "dcd818b64678bb18",
+  "title": "Korean Air: New York – Ho Chi Minh City, Vietnam. $830. Roundtrip, including all Taxes - The Flight Deal",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDhqBRIDTllDcgUSA1NHThoaEgoyMDI2LTEyLTEzagUSA1NHTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "Google: Flight Deal NYC",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 830.0,
+  "found_at": "2026-11-11T10:19:26Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenpUNVJ1Uk1mSzk2dmJyNUhtQ2JEU1o5bHRyWWpNeENxX0l4Z2txSVhLR05yUng4NGMtSTlJYlNhTWxneFd0NjRxWFNRN093dVVteThrN29WOTVXZ3IwTVhZclFtbFhkMTJMa3pUcWIwSTRZSGlhaTFTSmJPWktGUE1xenFZWE9wcTJvWkNXOHNxZldJNXgxUF9UbEVvYWNWam9MTmZFVjlkc3FMOVN5UFI0MFMwVXFSR2pwOA?oc=5",
+  "picked": true,
+  "depart": "2026-12-08",
+  "return": "2026-12-13",
+  "fcode": [
+   "NYC",
+   "SGN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SGN&hl=en&gl=us&curr=USD",
+  "route_fixed2": true
+ },
+ {
+  "id": "28c9a3c4191bb2c4",
+  "title": "Korean Air: New York – Chiang Mai, Thailand. $820. Roundtrip, including all Taxes - The Flight Deal",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Chiang%20Mai%2C%20Thailand%20on%202026-12-08%20through%202026-12-13&hl=en&gl=us&curr=USD",
+  "why": "🌴 NEW YORK → Thailand",
+  "category": "flights",
+  "source": "Google: Flight Deal NYC",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 820.0,
+  "found_at": "2026-11-11T10:19:26Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXJ0cGRQQ3hxUmE1RFI4YUlKMnhYU3B1Vlc3ZEViX01aQk9tWHlHOXFrdXBWODVYV2M5OGVBRVVPeUNKRW51MW5iVFZPU21IYjZUeHV3SXVKYXM1WXZLeFJUd0tud2RnMXVrckxPWWhxdDNWN3lQSFVfSGg0S3hUOWFnNHdWd2hfc0ZsLWJ3bUk1c1VzNlNSQ2lFRVR3ZmtuZXNLYy1aOWJZZlg3d3J4NnlwZF80dDJq?oc=5",
+  "picked": true,
+  "depart": "2026-12-08",
+  "return": "2026-12-13",
+  "fcode": [
+   "NYC",
+   null
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Chiang%20Mai%2C%20Thailand&hl=en&gl=us&curr=USD",
+  "route_fixed2": true
+ },
+ {
+  "id": "55575121bbe1ee7f",
+  "title": "Round Trip New York to Stockholm Sweden $432 Airfares on Icelandair BE (Travel January - February 2027)",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDFqBRIDTllDcgUSA0FSThoaEgoyMDI3LTAyLTAzagUSA0FSTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "",
+  "category": "flights",
+  "source": "Slickdeals: airfare",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 432.0,
+  "found_at": "2026-11-11T10:19:26Z",
+  "window": "January - February 2027) - 2026-11-05",
+  "depart": "2027-02-01",
+  "return": "2027-02-03",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20261736-round-trip-new-york-to-stockholm-sweden-432-airfares-on-icelandair-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "fcode": [
+   "NYC",
+   "ARN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20ARN&hl=en&gl=us&curr=USD"
  }
 ]
