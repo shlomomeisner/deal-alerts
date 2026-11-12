@@ -287,7 +287,8 @@
   "found_at": "2026-11-11T10:01:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-12T20:59:43Z"
  },
  {
   "id": "993a6aca4d811ae8",
@@ -305,7 +306,8 @@
   "source_url": "https://slickdeals.net/f/20219820-3-in-1-esr-magsafe-wireless-charging-station-for-iphone-apple-watch-airpods-blk-grey-or-white-12-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=3-in-1+Esr+MagSafe+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+AirPods",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:44Z"
  },
  {
   "id": "72ed15003d7469ae",
@@ -323,7 +325,8 @@
   "source_url": "https://slickdeals.net/f/20218311-apple-airpods-max-2-wireless-over-ear-headphones-various-colors-449-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirPods+Max+2+Wireless+Over-Ear+Headphones+various+colors",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:45Z"
  },
  {
   "id": "9137002afe90c117",
@@ -341,7 +344,8 @@
   "source_url": "https://slickdeals.net/f/20181198-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/3-in-1%20Ucomx%20Nano%20Foldable%20Wireless%20Charging%20Station%20for%20iPhone%20Apple%20Watch%20%26%20Ai",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:46Z"
  },
  {
   "id": "d36eb1defafb3101",
@@ -357,7 +361,8 @@
   "found_at": "2026-11-11T10:01:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-12T20:59:48Z"
  },
  {
   "id": "bdb425b298de6f48",
@@ -375,7 +380,8 @@
   "source_url": "https://slickdeals.net/f/20286810-lg-55-inch-class-oled-evo-c4-series-smart-tv-4k-processor-flat-screen-with-magic-remote-ai-powered-with-alexa-built-in-oled55c4pua-2024-1029?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=LG+55-Inch+Class+OLED+evo+C4+Series+Smart+TV+4K+Processor+Flat+Screen+with+Magic",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:50Z"
  },
  {
   "id": "82aa5d68f020d9f5",
@@ -393,7 +399,8 @@
   "source_url": "https://slickdeals.net/f/20282844-open-box-lg-65-c6-4k-oled-evo-ai-smart-tv-2026-1084-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Open+Box+LG+65+C6+4K+OLED+evo+AI+Smart+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:51Z"
  },
  {
   "id": "9fe6692d4c5025a7",
@@ -410,7 +417,8 @@
   "source_url": "https://slickdeals.net/f/20281224-buydig-save-up-to-500-on-select-lg-oled-tvs-from-949-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Buydig+Save+up+to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:52Z"
  },
  {
   "id": "21ed4738b33c957b",
@@ -427,7 +435,8 @@
   "source_url": "https://slickdeals.net/f/20280723-42-lg-c6-oled-evo-ai-4k-smart-webos-tv-2026-719-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=42+LG+C6+OLED+evo+AI+4K+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:53Z"
  },
  {
   "id": "854b2feeeeee890b",
@@ -445,7 +454,8 @@
   "source_url": "https://slickdeals.net/f/20278497-lg-ultragear-27-qhd-glossy-oled-240hz-gaming-monitor-0-03ms-nvidia-g-sync-amd-freesync-premium-pro-displayhdr-trueblack400-349-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+UltraGear+27+QHD+Glossy+OLED+240Hz+Gaming+Monitor+0.03ms+NVIDIA+G-SYNC+AMD+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:54Z"
  },
  {
   "id": "5257bc6d4c19b56c",
@@ -463,7 +473,8 @@
   "source_url": "https://slickdeals.net/f/20276079-lg-77-class-b6e-oled-ai-4k-smart-webos-tv-with-perfect-black-and-vivid-color-2026-1499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+-+77+Class+B6E+OLED+AI+4K+Smart+webOS+TV+with+Perfect+Black+and+Vivid+Color",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:55Z"
  },
  {
   "id": "c9e55b4b2cb09ecd",
@@ -479,7 +490,8 @@
   "found_at": "2026-11-11T10:01:32Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-12T20:59:56Z"
  },
  {
   "id": "4a9ef64e368b6e1d",
@@ -497,7 +509,8 @@
   "source_url": "https://slickdeals.net/f/20269344-lg-ultragear-45-oled-qhd-240hz-gaming-monitor-open-box-fair-695-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=LG+UltraGear+45+OLED+QHD+240Hz+Gaming+Monitor",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:58Z"
  },
  {
   "id": "46ddcf4ae6089c93",
@@ -515,7 +528,8 @@
   "source_url": "https://slickdeals.net/f/20268150-best-buy-lg-65-class-c6-series-oled-evo-ai-4k-smart-webos-tv-2026-1-499-99-44-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+LG+65+Class+C6+Series+OLED+evo+AI+4K+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T20:59:59Z"
  },
  {
   "id": "7d4f52f25edff06b",
@@ -532,7 +546,8 @@
   "source_url": "https://slickdeals.net/f/20264448-select-areas-lg-partner-42-c6-oled-evo-4k-tv-receive-two-free-m5-wireless-speakers-854-99-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Areas+LG+Partner+42+C6+OLED+evo+4K+TV+%2B+Receive+two+free+M5+Wireless+Spea",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-12T21:00:01Z"
  },
  {
   "id": "6879d1d9b5ec26e5",
@@ -24841,7 +24856,7 @@
  {
   "id": "67a22a42ec4b3e3a",
   "title": "Samsung Galaxy SmartTag3 Bluetooth Tracker (International Model, 2 Colors) from $23 + Free S/H for Prime Members",
-  "url": "https://slickdeals.net/f/20295399-samsung-galaxy-smarttag3-bluetooth-tracker-international-model-2-colors-from-23-free-s-h-for-prime-members?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+SmartTag3+Bluetooth+Tracker+from",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Frontpage",
@@ -24853,7 +24868,8 @@
   "source_url": "https://slickdeals.net/f/20295399-samsung-galaxy-smarttag3-bluetooth-tracker-international-model-2-colors-from-23-free-s-h-for-prime-members?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+SmartTag3+Bluetooth+Tracker+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7f996757fd77de65",
@@ -24912,7 +24928,7 @@
  {
   "id": "c21851ea76df619c",
   "title": "(New) DJI Avata 360 Drone w/ RC2 Remote $509 + Free Shipping",
-  "url": "https://slickdeals.net/f/20295129-new-dji-avata-360-drone-w-rc2-remote-509-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Avata+360+Drone+w+RC2+Remote",
   "why": "",
   "category": "tech",
   "source": "Slickdeals Popular",
@@ -24924,7 +24940,8 @@
   "source_url": "https://slickdeals.net/f/20295129-new-dji-avata-360-drone-w-rc2-remote-509-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Avata+360+Drone+w+RC2+Remote",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f0930a2e6557d632",
@@ -24947,7 +24964,7 @@
  {
   "id": "ab40dc05134097ab",
   "title": "Ecozy Lumo Ultra Smart Sunrise Alarm Clock for $50 + free shipping w/ Prime",
-  "url": "https://www.dealnews.com/Ecozy-Lumo-Ultra-Smart-Sunrise-Alarm-Clock-for-50-free-shipping-w-Prime/22384302.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Ecozy+Lumo+Ultra+Smart+Sunrise+Alarm+Clock+for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -24959,7 +24976,8 @@
   "source_url": "https://www.dealnews.com/Ecozy-Lumo-Ultra-Smart-Sunrise-Alarm-Clock-for-50-free-shipping-w-Prime/22384302.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ecozy+Lumo+Ultra+Smart+Sunrise+Alarm+Clock+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1ed3ac84b8d3b7fb",
@@ -24982,7 +25000,7 @@
  {
   "id": "19c1f7b319275c70",
   "title": "DJI Osmo Nano 64GB 4K Camera for $204 + free shipping",
-  "url": "https://www.dealnews.com/DJI-Osmo-Nano-64-GB-4-K-Camera-for-204-free-shipping/22346494.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+64GB+4K+Camera+for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -24994,12 +25012,13 @@
   "source_url": "https://www.dealnews.com/DJI-Osmo-Nano-64-GB-4-K-Camera-for-204-free-shipping/22346494.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Nano+64GB+4K+Camera+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d67dcce82e969d43",
   "title": "For sale",
-  "url": "https://www.reddit.com/r/fragrancedeals/comments/1xu5bq5/for_sale/",
+  "url": "https://www.google.com/search?tbm=shop&q=For",
   "why": "",
   "category": "fragrance",
   "source": "r/fragrancedeals",
@@ -25011,7 +25030,8 @@
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xu5bq5/for_sale/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=For",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "84e5a08832cb008c",
@@ -25066,7 +25086,7 @@
  {
   "id": "db21983fa2981465",
   "title": "Oceaneva Men's OceanTrek GMT Automatic NH34 200m watch $222",
-  "url": "https://slickdeals.net/f/20286702-oceaneva-men-s-oceantrek-gmt-automatic-nh34-200m-watch-222?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oceaneva+Men%27s+OceanTrek+GMT+Automatic+NH34+200m+watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Omega",
@@ -25078,7 +25098,8 @@
   "source_url": "https://slickdeals.net/f/20286702-oceaneva-men-s-oceantrek-gmt-automatic-nh34-200m-watch-222?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oceaneva+Men%27s+OceanTrek+GMT+Automatic+NH34+200m+watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9d8473c312944105",
@@ -25257,7 +25278,7 @@
  {
   "id": "64a4894557300bec",
   "title": "(NEW) Samsung Galaxy Watch Ultra Smart Watch (2024) [GPS + Cellular] $344.99",
-  "url": "https://slickdeals.net/f/20278953-new-samsung-galaxy-watch-ultra-smart-watch-2024-gps-cellular-344-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+Watch+Ultra+Smart+Watch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Apple Watch",
@@ -25269,7 +25290,8 @@
   "source_url": "https://slickdeals.net/f/20278953-new-samsung-galaxy-watch-ultra-smart-watch-2024-gps-cellular-344-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+Watch+Ultra+Smart+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7bec13ced8354b5a",
@@ -25382,7 +25404,7 @@
  {
   "id": "5641d0e8c0f46ec6",
   "title": "Samsung Galaxy SmartTag3 Bluetooth Tracker (International Model, 2 Colors) from $23 + Free S/H for Prime Members",
-  "url": "https://slickdeals.net/f/20295399-samsung-galaxy-smarttag3-bluetooth-tracker-international-model-2-colors-from-23-free-s-h-for-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+SmartTag3+Bluetooth+Tracker+from",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -25394,7 +25416,8 @@
   "source_url": "https://slickdeals.net/f/20295399-samsung-galaxy-smarttag3-bluetooth-tracker-international-model-2-colors-from-23-free-s-h-for-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Samsung+Galaxy+SmartTag3+Bluetooth+Tracker+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b561fe3bbf33dafc",
@@ -25501,7 +25524,7 @@
  {
   "id": "147d5f87479c653d",
   "title": "Ray-Ban, Oakley, Costa, Under Armour Sunglasses (Non & Polarized) Up to 60% Off + Free Shipping",
-  "url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
   "why": "Ray-Ban 60% off",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25513,12 +25536,13 @@
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a95e2f9d52be0c48",
   "title": "Oakley Tincan Men's 6-Panel Cap (Large, Nile Green) $18.99 + Free Shipping w/ Prime or $6 Fee per Order",
-  "url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25530,12 +25554,13 @@
   "source_url": "https://slickdeals.net/f/20186025-oakley-tincan-men-s-6-panel-cap-large-nile-green-18-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Tincan+Men%27s+6-Panel+Cap",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "84be02714a03d73d",
   "title": "Oakley & Ray-Ban Sunglasses Deals at Zulily $56.99",
-  "url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25547,12 +25572,13 @@
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2053beb34eadd1f1",
   "title": "[Prime] Oakley Men's SI Cotton Cap (Various) LG/XL from $16 + Free Shipping $16.04",
-  "url": "https://slickdeals.net/f/20116122-prime-oakley-men-s-si-cotton-cap-various-lg-xl-from-16-free-shipping-16-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+SI+Cotton+Cap+LG+XL+from",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25564,12 +25590,13 @@
   "source_url": "https://slickdeals.net/f/20116122-prime-oakley-men-s-si-cotton-cap-various-lg-xl-from-16-free-shipping-16-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+SI+Cotton+Cap+LG+XL+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7c8a146ea7325dec",
   "title": "Extra 20% off on Ray-Ban & Oakley Sunglasses at Woot!",
-  "url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25581,12 +25608,13 @@
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8fffa76aeec20a14",
   "title": "Oakley Men's Valve Polarized Sunglasses $69.99",
-  "url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25598,12 +25626,13 @@
   "source_url": "https://slickdeals.net/f/19993722-oakley-men-s-valve-polarized-sunglasses-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Men%27s+Valve+Polarized+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a1b0e0ab61b0901e",
   "title": "Oakley Mens Sub Temp Recycled Gore-Tex Jacket 2.0, Army Green, X-Large $100.4",
-  "url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25615,12 +25644,13 @@
   "source_url": "https://slickdeals.net/f/19805472-oakley-mens-sub-temp-recycled-gore-tex-jacket-2-0-army-green-x-large-100-4?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Mens+Sub+Temp+Recycled+Gore-Tex+Jacket+2.0+Army+Green+X-Large",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "98ee2219db3a0988",
   "title": "Extra 22% off on Shade Parade: Oakley, Ray-Ban, & More! at Woot!",
-  "url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25632,12 +25662,13 @@
   "source_url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6016dba37bf94473",
   "title": "Oakley O Frame MX Jet Black Ski/Snowboard Goggles $29.06 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25649,7 +25680,8 @@
   "source_url": "https://slickdeals.net/f/19725924-oakley-o-frame-mx-jet-black-ski-snowboard-goggles-29-06-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+O+Frame+MX+Jet+Black+Ski+Snowboard+Goggles",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "79c9b49b804bbd7d",
@@ -25672,7 +25704,7 @@
  {
   "id": "49bb29d9e325df2a",
   "title": "Oakley Enduro 20L 3.0 Backpack (Army Green/Pebble) $30.00 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25684,12 +25716,13 @@
   "source_url": "https://slickdeals.net/f/19680570-oakley-enduro-20l-3-0-backpack-army-green-pebble-30-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Enduro+20L+3.0+Backpack",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b2d271285c69e4ac",
   "title": "Extra 20% off on Ray-Ban, Oakley, & More! at Woot!",
-  "url": "https://slickdeals.net/f/19652295-extra-20-off-on-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+Oakley+%26+More",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25701,12 +25734,13 @@
   "source_url": "https://slickdeals.net/f/19652295-extra-20-off-on-ray-ban-oakley-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+Oakley+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0311a434f8a74583",
   "title": "Men's & Women's Ray-Ban, Oakley, & More Sunglasses: Extra 20% Off: Oakley Men's Sutro Rectangular Sunglasses $79.99 & More + FS w/ Prime",
-  "url": "https://slickdeals.net/f/19651938-men-s-women-s-ray-ban-oakley-more-sunglasses-extra-20-off-oakley-men-s-sutro-rectangular-sunglasses-79-99-more-fs-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+%26+Women%27s+Ray-Ban+Oakley+%26+More+Sunglasses+Extra+20+Off+Oakley+Men%27s+Sutro",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25718,7 +25752,8 @@
   "source_url": "https://slickdeals.net/f/19651938-men-s-women-s-ray-ban-oakley-more-sunglasses-extra-20-off-oakley-men-s-sutro-rectangular-sunglasses-79-99-more-fs-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+%26+Women%27s+Ray-Ban+Oakley+%26+More+Sunglasses+Extra+20+Off+Oakley+Men%27s+Sutro",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e2a621ddb574b853",
@@ -25739,7 +25774,7 @@
  {
   "id": "fa10c2d1f418f801",
   "title": "30L Oakley Blade Backpack (Blackout) $40 + Free Shipping",
-  "url": "https://slickdeals.net/f/19608867-30l-oakley-blade-backpack-blackout-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=30L+Oakley+Blade+Backpack",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Oakley",
@@ -25751,7 +25786,8 @@
   "source_url": "https://slickdeals.net/f/19608867-30l-oakley-blade-backpack-blackout-40-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=30L+Oakley+Blade+Backpack",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8512cf5aad1ad8ca",
@@ -25838,7 +25874,7 @@
  {
   "id": "50cdaa20b44b6ea0",
   "title": "HyperDrive iPad Pro USB-C Hub $24.99",
-  "url": "https://slickdeals.net/f/20274267-hyperdrive-ipad-pro-usb-c-hub-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HyperDrive+iPad+Pro+USB-C+Hub",
   "why": "",
   "category": "tech",
   "source": "Web search: iPad Pro deal",
@@ -25850,7 +25886,8 @@
   "source_url": "https://slickdeals.net/f/20274267-hyperdrive-ipad-pro-usb-c-hub-24-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HyperDrive+iPad+Pro+USB-C+Hub",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "648e0e29f5d7a5d9",
@@ -25873,7 +25910,7 @@
  {
   "id": "f08b788f69b521d2",
   "title": "(Refurb/Good) MacBook Air: 13.3\", M1, 8GB RAM, 256GB SSD, Space Gray $299.99",
-  "url": "https://slickdeals.net/f/20267157-refurb-good-macbook-air-13-3-m1-8gb-ram-256gb-ssd-space-gray-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=MacBook+Air+13.3+M1+8GB+RAM+256GB+SSD+Space+Gray",
   "why": "",
   "category": "tech",
   "source": "Web search: MacBook Air deal",
@@ -25885,7 +25922,8 @@
   "source_url": "https://slickdeals.net/f/20267157-refurb-good-macbook-air-13-3-m1-8gb-ram-256gb-ssd-space-gray-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=MacBook+Air+13.3+M1+8GB+RAM+256GB+SSD+Space+Gray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "200ce7aea908004a",
@@ -26370,7 +26408,7 @@
  {
   "id": "d2036810ceb52321",
   "title": "JBL 305P MKII Super White 5\" Powered Studio Monitor $89 (Each) FS",
-  "url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
   "why": "",
   "category": "tech",
   "source": "Web search: JBL record low",
@@ -26382,12 +26420,13 @@
   "source_url": "https://slickdeals.net/f/15694162-jbl-305p-mkii-super-white-5-powered-studio-monitor-89-each-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+305P+MKII+Super+White+5+Powered+Studio+Monitor",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "afa09cd57ece6e51",
   "title": "JBL SUB 550PBK $189.95 (back ordered Dec. 14)",
-  "url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -26399,12 +26438,13 @@
   "source_url": "https://slickdeals.net/e/13653563-jbl-sub-550pbk-189-95-back-ordered-dec-14?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+SUB+550PBK",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "878820e264ac6595",
   "title": "JBL M-Patch Active-1 - $49.99 +free shipping",
-  "url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -26416,12 +26456,13 @@
   "source_url": "https://slickdeals.net/e/12050395-jbl-m-patch-active-1-49-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+M-Patch+Active-1+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d34c6a37e47d5d01",
   "title": "JBL Live 680NC (2026) are $81 off at an all-time low - Android Authority",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vSlYxVXNsaGhBYXhjRVFiZC0wcFJwRGViQ29WczNyemZMLU1yUWlxSUhRd1dOTmczUEZiYjE2dkpMUWdpcWtCYlNtSk1VWXk1djRZeW15RkxWVjlwd1JQb0FlOW11ZGZteGpySG5B?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+Live+680NC+are",
   "why": "",
   "category": "everything",
   "source": "Web search: JBL record low",
@@ -26433,7 +26474,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vSlYxVXNsaGhBYXhjRVFiZC0wcFJwRGViQ29WczNyemZMLU1yUWlxSUhRd1dOTmczUEZiYjE2dkpMUWdpcWtCYlNtSk1VWXk1djRZeW15RkxWVjlwd1JQb0FlOW11ZGZteGpySG5B?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+Live+680NC+are",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "39070fd95a65a3d7",
@@ -26486,7 +26528,7 @@
  {
   "id": "b6b31c71d3084847",
   "title": "PerfumeGiants Clearance Sale: Up to 35% off + free shipping",
-  "url": "https://www.dealnews.com/Perfume-Giants-Clearance-Sale-Up-to-35-off-free-shipping/22383963.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=PerfumeGiants+Clearance+Up+to+35+off+%2B",
   "why": "Cologne 35% off",
   "category": "fragrance",
   "source": "DealNews",
@@ -26498,7 +26540,8 @@
   "source_url": "https://www.dealnews.com/Perfume-Giants-Clearance-Sale-Up-to-35-off-free-shipping/22383963.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=PerfumeGiants+Clearance+Up+to+35+off+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "795dc73baaf10a26",
@@ -26557,7 +26600,7 @@
  {
   "id": "cfb988b71afec828",
   "title": "Buydig: Save up to $500 on select LG OLED TVs. From $949.99",
-  "url": "https://slickdeals.net/f/20281224-buydig-save-up-to-500-on-select-lg-oled-tvs-from-949-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Buydig+Save+up+to",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -26569,7 +26612,8 @@
   "source_url": "https://slickdeals.net/f/20281224-buydig-save-up-to-500-on-select-lg-oled-tvs-from-949-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Buydig+Save+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5c76dbcfb6f7fca4",
@@ -26592,7 +26636,7 @@
  {
   "id": "efc73516d7b70a2e",
   "title": "Buydig: Panasonics Big Screens. Bigger savings. From $379.99",
-  "url": "https://slickdeals.net/f/20281146-buydig-panasonics-big-screens-bigger-savings-from-379-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Buydig+Panasonics+Big+Screens.+Bigger+savings.+From",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -26604,12 +26648,13 @@
   "source_url": "https://slickdeals.net/f/20281146-buydig-panasonics-big-screens-bigger-savings-from-379-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Buydig+Panasonics+Big+Screens.+Bigger+savings.+From",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f5c891e0ea68f425",
   "title": "42\" LG C6 OLED evo AI 4K Smart webOS TV (2026) $719.99",
-  "url": "https://slickdeals.net/f/20280723-42-lg-c6-oled-evo-ai-4k-smart-webos-tv-2026-719-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=42+LG+C6+OLED+evo+AI+4K+Smart+webOS+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -26621,12 +26666,13 @@
   "source_url": "https://slickdeals.net/f/20280723-42-lg-c6-oled-evo-ai-4k-smart-webos-tv-2026-719-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=42+LG+C6+OLED+evo+AI+4K+Smart+webOS+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1d2c9abc0d270b02",
   "title": "Sony 55 Inch BRAVIA XR8B OLED 4K HDR Smart Google TV (K-55XR8B) | XR Processor with AI Technology, Dolby Vision/Atmos, Exclusive Features for PlayStation®5 $1049.99",
-  "url": "https://slickdeals.net/f/20273358-sony-55-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-55xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1049-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+55+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -26638,7 +26684,8 @@
   "source_url": "https://slickdeals.net/f/20273358-sony-55-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-55xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1049-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+55+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9a3a241914b4e721",
@@ -26691,7 +26738,7 @@
  {
   "id": "138e1cdb81c1eb14",
   "title": "(Factory Reconditioned) Samsung S90H Series 4K OLED TVs (2026): 42\" & More $799.99",
-  "url": "https://slickdeals.net/f/20270502-factory-reconditioned-samsung-s90h-series-4k-oled-tvs-2026-42-more-799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Samsung+S90H+Series+4K+OLED+TVs+42+%26+More",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -26703,7 +26750,8 @@
   "source_url": "https://slickdeals.net/f/20270502-factory-reconditioned-samsung-s90h-series-4k-oled-tvs-2026-42-more-799-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Samsung+S90H+Series+4K+OLED+TVs+42+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2b05bbf7920a17f6",
@@ -26796,7 +26844,7 @@
  {
   "id": "df3bcd158f277b93",
   "title": "OtterBox Defender Series Pro XT Case for Samsung Galaxy S26 Ultra, Military Grade Drop Protection, Black + Free Shipping w/ Prime $9.99",
-  "url": "https://slickdeals.net/f/20285892-otterbox-defender-series-pro-xt-case-for-samsung-galaxy-s26-ultra-military-grade-drop-protection-black-free-shipping-w-prime-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+OtterBox+Defender+Series+Pro+XT+Case+for+Samsung+Galaxy+S26+Ultra+Military+Grade",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -26808,7 +26856,8 @@
   "source_url": "https://slickdeals.net/f/20285892-otterbox-defender-series-pro-xt-case-for-samsung-galaxy-s26-ultra-military-grade-drop-protection-black-free-shipping-w-prime-9-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+OtterBox+Defender+Series+Pro+XT+Case+for+Samsung+Galaxy+S26+Ultra+Military+Grade",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "86d44dd59f694736",
@@ -26867,7 +26916,7 @@
  {
   "id": "d62acb5606fc8b7e",
   "title": "Save 60% for two days only! Bose QuietComfort Headphones - Refurbished $129 ( All colors except White Smoke) Bose.com",
-  "url": "https://slickdeals.net/f/20278929-save-60-for-two-days-only-bose-quietcomfort-headphones-refurbished-129-all-colors-except-white-smoke-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Save+60+for+two+days+only+Bose+QuietComfort+Headphones+-+Refurbished",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -26879,7 +26928,8 @@
   "source_url": "https://slickdeals.net/f/20278929-save-60-for-two-days-only-bose-quietcomfort-headphones-refurbished-129-all-colors-except-white-smoke-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Save+60+for+two+days+only+Bose+QuietComfort+Headphones+-+Refurbished",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "36541b50e31c4135",
@@ -27008,7 +27058,7 @@
  {
   "id": "39d13dbfbfa46554",
   "title": "Bose x Kendra Scott Ultra Open Earbuds (3 Colors) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20248923-bose-x-kendra-scott-ultra-open-earbuds-3-colors-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+x+Kendra+Scott+Ultra+Open+Earbuds",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -27020,7 +27070,8 @@
   "source_url": "https://slickdeals.net/f/20248923-bose-x-kendra-scott-ultra-open-earbuds-3-colors-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+x+Kendra+Scott+Ultra+Open+Earbuds",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "07e1caea0ccbca76",
@@ -27043,7 +27094,7 @@
  {
   "id": "145859179e2e7e70",
   "title": "Baseus Inspire XP1 Adaptive Noise Cancelling Earbuds, Sound by Bose (Black) $40.61 + Free Shipping",
-  "url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -27055,7 +27106,8 @@
   "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "93e6990d6954de5f",
@@ -27078,7 +27130,7 @@
  {
   "id": "d355af4d7911ce6c",
   "title": "Bose lifestyle ultra soundbar $809 or $734 with AMEX coupon",
-  "url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+lifestyle+ultra+soundbar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -27090,7 +27142,8 @@
   "source_url": "https://slickdeals.net/f/20236971-bose-lifestyle-ultra-soundbar-809-or-734-with-amex-coupon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+lifestyle+ultra+soundbar",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8e38002f772deb56",
@@ -27193,7 +27246,7 @@
  {
   "id": "5b0b7759c6aeb062",
   "title": "Dyson V10 Konical Cordless Stick Vacuum with Car Cleaning Kit $329",
-  "url": "https://slickdeals.net/f/20273547-dyson-v10-konical-cordless-stick-vacuum-with-car-cleaning-kit-329?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+V10+Konical+Cordless+Stick+Vacuum+with+Car+Cleaning+Kit",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dyson",
@@ -27205,7 +27258,8 @@
   "source_url": "https://slickdeals.net/f/20273547-dyson-v10-konical-cordless-stick-vacuum-with-car-cleaning-kit-329?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+V10+Konical+Cordless+Stick+Vacuum+with+Car+Cleaning+Kit",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "830264c6b3cf5feb",
@@ -27348,7 +27402,7 @@
  {
   "id": "db6b43ce08afc843",
   "title": "(NEW) Google Pixel 10a 128GB (Unlocked) $449.99",
-  "url": "https://slickdeals.net/f/20274051-new-google-pixel-10a-128gb-unlocked-449-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Google+Pixel+10a+128GB",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -27360,12 +27414,13 @@
   "source_url": "https://slickdeals.net/f/20274051-new-google-pixel-10a-128gb-unlocked-449-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Google+Pixel+10a+128GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e942de46497dfd2b",
   "title": "FREE Pixel 11 Pro 512GB for select Verizon customers. No line upgrade or trade-in required.",
-  "url": "https://slickdeals.net/f/20272215-free-pixel-11-pro-512gb-for-select-verizon-customers-no-line-upgrade-or-trade-in-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Averizon.com+FREE+Pixel+11+Pro+512GB+for+select+Verizon+customers.+No+line+upgrade+or+trade-i",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 9",
@@ -27377,12 +27432,13 @@
   "source_url": "https://slickdeals.net/f/20272215-free-pixel-11-pro-512gb-for-select-verizon-customers-no-line-upgrade-or-trade-in-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Averizon.com+FREE+Pixel+11+Pro+512GB+for+select+Verizon+customers.+No+line+upgrade+or+trade-i",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "13e6d93beb0994ab",
   "title": "Bose x Kendra Scott Ultra Open Earbuds (3 Colors) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20248923-bose-x-kendra-scott-ultra-open-earbuds-3-colors-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+x+Kendra+Scott+Ultra+Open+Earbuds",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -27394,12 +27450,13 @@
   "source_url": "https://slickdeals.net/f/20248923-bose-x-kendra-scott-ultra-open-earbuds-3-colors-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+x+Kendra+Scott+Ultra+Open+Earbuds",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "772a32998977ed52",
   "title": "Baseus Inspire XP1 Adaptive Noise Cancelling Earbuds, Sound by Bose (Black) $40.61 + Free Shipping",
-  "url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -27411,7 +27468,8 @@
   "source_url": "https://slickdeals.net/f/20238381-baseus-inspire-xp1-adaptive-noise-cancelling-earbuds-sound-by-bose-black-40-61-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Baseus+Inspire+XP1+Adaptive+Noise+Cancelling+Earbuds+Sound+by+Bose",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5c1153df22c18a82",
@@ -27468,7 +27526,7 @@
  {
   "id": "95bf18149ce8b0ff",
   "title": "Bose QuietComfort ANC Over Ear Headphones (Various) $169 + Free S&H",
-  "url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+ANC+Over+Ear+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -27480,12 +27538,13 @@
   "source_url": "https://slickdeals.net/f/20234175-bose-quietcomfort-anc-over-ear-headphones-various-169-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+ANC+Over+Ear+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a2a4fa7178389ad2",
   "title": "Bose QuietComfort Headphones (2nd Gen) $199 ( Dewdrop Mint, Eucalyptus Green or Hazelnut Taupe) Bose.com",
-  "url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -27497,12 +27556,13 @@
   "source_url": "https://slickdeals.net/f/20232813-bose-quietcomfort-headphones-2nd-gen-199-dewdrop-mint-eucalyptus-green-or-hazelnut-taupe-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "10590acc59694253",
   "title": "Bose QuietComfort 2nd Gen Over-Ear Noise Cancelling Wireless Headphones (Rosewood Mauve) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -27514,7 +27574,8 @@
   "source_url": "https://slickdeals.net/f/20231442-bose-quietcomfort-2nd-gen-over-ear-noise-cancelling-wireless-headphones-rosewood-mauve-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+2nd+Gen+Over-Ear+Noise+Cancelling+Wireless+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5246f79f9da2202c",
@@ -27621,7 +27682,7 @@
  {
   "id": "6365c7c6f70ca302",
   "title": "Sony 55 Inch BRAVIA XR8B OLED 4K HDR Smart Google TV (K-55XR8B) | XR Processor with AI Technology, Dolby Vision/Atmos, Exclusive Features for PlayStation®5 $1049.99",
-  "url": "https://slickdeals.net/f/20273358-sony-55-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-55xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1049-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+55+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27633,7 +27694,8 @@
   "source_url": "https://slickdeals.net/f/20273358-sony-55-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-55xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1049-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+55+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a00ef687a7993599",
@@ -27672,7 +27734,7 @@
  {
   "id": "ec76e76fe4a682e9",
   "title": "Sony 77” Class BRAVIA XR A95L QD-OLED 4K HDR Smart TV with Google TV XR77A95L -2023 Model $2450",
-  "url": "https://slickdeals.net/f/20269659-sony-77-class-bravia-xr-a95l-qd-oled-4k-hdr-smart-tv-with-google-tv-xr77a95l-2023-model-2450?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sony+77+Class+BRAVIA+XR+A95L+QD-OLED+4K+HDR+Smart+TV+with+Google+TV+XR77A95L+-20",
   "why": "Oled — all time low",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27684,7 +27746,8 @@
   "source_url": "https://slickdeals.net/f/20269659-sony-77-class-bravia-xr-a95l-qd-oled-4k-hdr-smart-tv-with-google-tv-xr77a95l-2023-model-2450?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+77+Class+BRAVIA+XR+A95L+QD-OLED+4K+HDR+Smart+TV+with+Google+TV+XR77A95L+-20",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8299c985ca93d41f",
@@ -27759,7 +27822,7 @@
  {
   "id": "c656f0aa2d998d42",
   "title": "Sony BRAVIA 9 II 85\" 4K HDR Smart True RGB Mini-LED TV 15% off $6499.99",
-  "url": "https://slickdeals.net/f/20247177-sony-bravia-9-ii-85-4k-hdr-smart-true-rgb-mini-led-tv-15-off-6499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sony+BRAVIA+9+II+85+4K+HDR+Smart+True+RGB+Mini-LED+TV+15+off",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27771,12 +27834,13 @@
   "source_url": "https://slickdeals.net/f/20247177-sony-bravia-9-ii-85-4k-hdr-smart-true-rgb-mini-led-tv-15-off-6499-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+BRAVIA+9+II+85+4K+HDR+Smart+True+RGB+Mini-LED+TV+15+off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f2f264283c4d51db",
   "title": "Sony BRAVIA 9 II 85\" 4K HDR Smart True RGB Mini-LED TV $5532.05",
-  "url": "https://slickdeals.net/f/20247168-sony-bravia-9-ii-85-4k-hdr-smart-true-rgb-mini-led-tv-5532-05?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sony+BRAVIA+9+II+85+4K+HDR+Smart+True+RGB+Mini-LED+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27788,7 +27852,8 @@
   "source_url": "https://slickdeals.net/f/20247168-sony-bravia-9-ii-85-4k-hdr-smart-true-rgb-mini-led-tv-5532-05?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+BRAVIA+9+II+85+4K+HDR+Smart+True+RGB+Mini-LED+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e05a177b91c2cbdb",
@@ -27857,7 +27922,7 @@
  {
   "id": "33b05eb1d74cf952",
   "title": "Open Box: Sony 77\" BRAVIA XR A95L OLED 4K UHD Smart Google TV (2023) as low as $1,124.99 - YMMV",
-  "url": "https://slickdeals.net/f/20179578-open-box-sony-77-bravia-xr-a95l-oled-4k-uhd-smart-google-tv-2023-as-low-as-1-124-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+Sony+77+BRAVIA+XR+A95L+OLED+4K+UHD+Smart+Google+TV+as+low+as",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27869,12 +27934,13 @@
   "source_url": "https://slickdeals.net/f/20179578-open-box-sony-77-bravia-xr-a95l-oled-4k-uhd-smart-google-tv-2023-as-low-as-1-124-99-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+Sony+77+BRAVIA+XR+A95L+OLED+4K+UHD+Smart+Google+TV+as+low+as",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4686dde79e4be5a3",
   "title": "Sony 65 Inch BRAVIA XR8B OLED 4K HDR Smart Google TV (K-65XR8B) | XR Processor with AI Technology, Dolby Vision/Atmos, Exclusive Features for PlayStation®5 $1414.8",
-  "url": "https://slickdeals.net/f/20177262-sony-65-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-65xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1414-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+65+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27886,12 +27952,13 @@
   "source_url": "https://slickdeals.net/f/20177262-sony-65-inch-bravia-xr8b-oled-4k-hdr-smart-google-tv-k-65xr8b-xr-processor-with-ai-technology-dolby-vision-atmos-exclusive-features-for-playstation-5-1414-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Sony+65+Inch+BRAVIA+XR8B+OLED+4K+HDR+Smart+Google+TV+XR+Processor+with+AI+Techno",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "96406b539b934fcd",
   "title": "Sony 85 Inch BRAVIA 5 Mini LED",
-  "url": "https://slickdeals.net/f/20157456-sony-85-inch-bravia-5-mini-led?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sony+85+Inch+BRAVIA+5+Mini+LED",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Sony Bravia",
@@ -27903,7 +27970,8 @@
   "source_url": "https://slickdeals.net/f/20157456-sony-85-inch-bravia-5-mini-led?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+85+Inch+BRAVIA+5+Mini+LED",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d0293188fc503bbf",
@@ -27926,7 +27994,7 @@
  {
   "id": "e25cfee81f74967e",
   "title": "85\" Sony Bravia 5 Mini LED 4K HDR Google TV (2025) $1300 + Free S&H",
-  "url": "https://slickdeals.net/f/20143902-85-sony-bravia-5-mini-led-4k-hdr-google-tv-2025-1300-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=85+Sony+Bravia+5+Mini+LED+4K+HDR+Google+TV",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27938,12 +28006,13 @@
   "source_url": "https://slickdeals.net/f/20143902-85-sony-bravia-5-mini-led-4k-hdr-google-tv-2025-1300-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=85+Sony+Bravia+5+Mini+LED+4K+HDR+Google+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "01c216626b93ed4d",
   "title": "Sony 85 Inch BRAVIA 5 Mini LED 4K HDR Smart Google TV (K-85XR50) $1300",
-  "url": "https://slickdeals.net/f/20143467-sony-85-inch-bravia-5-mini-led-4k-hdr-smart-google-tv-k-85xr50-1300?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sony+85+Inch+BRAVIA+5+Mini+LED+4K+HDR+Smart+Google+TV",
   "why": "Tv — all time low",
   "category": "tech",
   "source": "Slickdeals: Sony Bravia",
@@ -27955,7 +28024,8 @@
   "source_url": "https://slickdeals.net/f/20143467-sony-85-inch-bravia-5-mini-led-4k-hdr-smart-google-tv-k-85xr50-1300?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+85+Inch+BRAVIA+5+Mini+LED+4K+HDR+Smart+Google+TV",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1dd3fcbc3b04833b",
@@ -33711,11 +33781,11 @@
   "pct": null,
   "price": 7.99,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20287995-3-in-1-ucomx-nano-foldable-wireless-charging-station-for-iphone-apple-watch-airpods-white-7-99-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+3-in-1+Ucomx+Nano+Foldable+Wireless+Charging+Station+for+iPhone+Apple+Watch+%26+Ai",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0cd2515d47cf9b1a",
@@ -33765,11 +33835,11 @@
   "pct": null,
   "price": 39.99,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20282217-ivanky-fusiondock-3-for-mac-mini-compatible-with-mac-mini-m6-m5-pro-m4-and-m4-pro-39-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=iVANKY+FusionDock+3+for+Mac+mini",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1cc7f8a9e89727d3",
@@ -34241,11 +34311,11 @@
   "pct": null,
   "price": 49.0,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20237973-apple-airtag-1st-gen-bluetooth-tracker-4-pack-mx542am-a-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Astaples.com+Apple+AirTag+1st+Gen+Bluetooth+Tracker+4+Pack",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1f93e19421ee2d6a",
@@ -34399,11 +34469,11 @@
   "pct": 45,
   "price": 5.49,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20195016-hawanik-men-s-rfid-minimalist-wallet-w-airtag-holder-various-colors-from-5-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hawanik+Men%27s+RFID+Minimalist+Wallet+w+Airtag+Holder+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c67b0de94df54006",
@@ -34489,11 +34559,11 @@
   "pct": null,
   "price": 459.0,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20291907-woot-app-459-nintendo-switch-2-console-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6d38ccacc850462e",
@@ -34543,11 +34613,11 @@
   "pct": null,
   "price": 519.0,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20285496-switch-2-zelda-console-519?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Switch+2+Zelda+Console",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5350999e1949f211",
@@ -34561,11 +34631,11 @@
   "pct": null,
   "price": 479.0,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20283801-nintendo-switch-2-console-only-479-no-tax?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Nintendo+Switch+2+Console+Only",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "74cf878c5225795e",
@@ -34633,11 +34703,11 @@
   "pct": null,
   "price": 280.0,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20289051-dji-osmo-360-8k-360-camera-standard-combo-280-adventure-combo-372-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+360+8K+360+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "479d59e2e6780e10",
@@ -34651,11 +34721,11 @@
   "pct": null,
   "price": 245.0,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20289009-dji-osmo-action-5-pro-4k-action-camera-with-1-1-3-inch-sensor-245-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Action+5+Pro+4K+Action+Camera+with+1+1.3-Inch+Sensor",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "552843cf4c72f71a",
@@ -34759,11 +34829,11 @@
   "pct": null,
   "price": 479.99,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20270934-hisense-65-class-u6-miniled-qled-uhd-4k-hdr-glare-free-smart-fire-tv-with-alexa-2026-479-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hisense+-+65+Class+U6+MiniLED+QLED+UHD+4K+HDR+Glare-Free+Smart+Fire+TV+with+Alex",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "68e68d6b92ef304e",
@@ -34795,11 +34865,11 @@
   "pct": null,
   "price": 299.99,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20267157-refurb-good-macbook-air-13-3-m1-8gb-ram-256gb-ssd-space-gray-299-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=MacBook+Air+13.3+M1+8GB+RAM+256GB+SSD+Space+Gray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e88cbbc85a826d5e",
@@ -34867,10 +34937,121 @@
   "pct": null,
   "price": 180.0,
   "found_at": "2026-11-12T20:48:35Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20265435-55-hisense-qd5-series-hi-qled-4k-smart-roku-tv-2026-55qd5sr-180-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=55+Hisense+QD5+Series+Hi-QLED+4K+Smart+Roku+TV",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "661c41a381a1b87b",
+  "title": "DJI Avata 2 4K FPV Drone (Fly More Combo) w/ DJI Goggles 3 + 1 Battery $650 + Free S/H",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Avata+2+4K+FPV+Drone+w+DJI+Goggles+3+%2B+1+Battery",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 650.0,
+  "found_at": "2026-11-12T20:57:04Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20296791-dji-avata-2-4k-fpv-drone-fly-more-combo-w-dji-goggles-3-1-battery-650-free-s-h?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=DJI+Avata+2+4K+FPV+Drone+w+DJI+Goggles+3+%2B+1+Battery",
   "exact": false
+ },
+ {
+  "id": "8698e32f627fe956",
+  "title": "Stbands Astronaut Galaxy Star Projector Night Light w/ Remote & 17 Modes $9.99 + Free Shipping w/ Prime or order $35+",
+  "url": "https://www.amazon.com/s?k=Stbands+Astronaut+Galaxy+Star+Projector+Night+Light+w+Remote+%26+17+Modes",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.99,
+  "found_at": "2026-11-12T20:57:04Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20299446-stbands-astronaut-galaxy-star-projector-night-light-w-remote-17-modes-9-99-free-shipping-w-prime-or-order-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Stbands+Astronaut+Galaxy+Star+Projector+Night+Light+w+Remote+%26+17+Modes",
+  "exact": false
+ },
+ {
+  "id": "9a80c495314dedfb",
+  "title": "🌏✈️ The world’s longest flight in premium economy! One-way flights from New York to Singapore from €484",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDgtMTBqBRIDTllDcgUSA1NJThoaEgoyMDI3LTA4LTE5agUSA1NJTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "premium cabin from NEW YORK",
+  "category": "flights",
+  "source": "Fly4free USA",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-12T20:57:04Z",
+  "window": "between August 16 and September 2, 2027",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://www.fly4free.com/flight-deals/europe/longest-flight-in-the-world-new-york-to-singapore/",
+  "picked": true,
+  "depart": "2027-08-10",
+  "return": "2027-08-19",
+  "fcode": [
+   "NYC",
+   "SIN"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SIN&hl=en&gl=us&curr=USD"
+ },
+ {
+  "id": "ce310f9bd6e31531",
+  "title": "EXOTIC! 2 in 1 trip from Berlin to New York and Bermuda 🌴 for €684",
+  "url": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Berlin%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC684",
+  "why": "🌴 NEW YORK → Bermuda",
+  "category": "flights",
+  "source": "Fly4free USA",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-12T20:57:04Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://www.fly4free.com/flight-deals/europe/flights-from-berlin-new-york-and-bermuda/",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20EXOTIC%21%202%20in%201%20trip%20from%20Berlin%20to%20New%20York%20and%20Bermuda%20%F0%9F%8C%B4%20for%20%E2%82%AC684"
+ },
+ {
+  "id": "4d5714611ec8d8a7",
+  "title": "JSX brings semi-private flights to Boston with 2 new routes",
+  "url": "https://www.google.com/travel/flights?q=Flights%20JSX%20brings%20semi-private%20flights%20to%20Boston%20with%202%20new%20routes",
+  "why": "🌴 NEW YORK → Miami",
+  "category": "flights",
+  "source": "The Points Guy deals",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-12T20:57:04Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://thepointsguy.com/news/jsx-boston-semi-private-new-york-miami/",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20JSX%20brings%20semi-private%20flights%20to%20Boston%20with%202%20new%20routes"
+ },
+ {
+  "id": "f6ee93d8a62d2121",
+  "title": "ZHC tests an $11,400 Montblanc Imperial Dragon pencil",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af628d85d5a446c97d140eb0096f58c&url=https%3a%2f%2fwww.msn.com%2fen-in%2flifestyle%2fother%2fzhc-tests-an-11-400-montblanc-imperial-dragon-pencil%2fvi-AA1WUkFb&c=3375782772778022865&mkt=en-us",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Montblanc price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11400.0,
+  "found_at": "2026-11-12T21:00:08Z"
  }
 ]
