@@ -1666,7 +1666,8 @@
   "source_url": "https://slickdeals.net/f/20302059-garmin-instinct-3-50mm-amoled-rugged-gps-smartwatch-w-built-in-flashlight-fern-green-299-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Garmin+Instinct+3+50mm+AMOLED+Rugged+GPS+Smartwatch+w+Built-in+Flashlight",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:44:36Z"
  },
  {
   "id": "90c2c5d7d5489283",
@@ -1684,7 +1685,8 @@
   "source_url": "https://slickdeals.net/f/20293014-47mm-garmin-f-nix-e-multisport-gps-smartwatch-slate-gray-steel-w-black-band-399-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=47mm+Garmin+f+nix+E+Multisport+GPS+Smartwatch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:44:37Z"
  },
  {
   "id": "8c41c24f3b2c16bf",
@@ -1709,7 +1711,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Kuala%20Lumpur%2C%20Malaysia&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-15T03:44:37Z"
  },
  {
   "id": "357c470a8b96b989",
@@ -1734,7 +1737,8 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-15T03:44:38Z"
  },
  {
   "id": "760886f253b86bfe",
@@ -1759,7 +1763,8 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-15T03:44:39Z"
  },
  {
   "id": "42aa2bb9dc1c55f1",
@@ -1774,7 +1779,8 @@
   "price": 11400.0,
   "found_at": "2026-11-13T08:52:08Z",
   "similar": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6cfb8aec049c9ada88ed2917dfc51&url=https%3a%2f%2fwww.msn.com%2fen-in%2flifestyle%2fother%2fzhc-tests-an-11-400-montblanc-imperial-dragon-pencil%2fvi-AA1WUkFb&c=3375782772778022865&mkt=en-us",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:44:39Z"
  },
  {
   "id": "a4ef2c92c780c435",
@@ -1791,7 +1797,8 @@
   "source_url": "https://slickdeals.net/f/20291112-ugg-women-s-tazzette-genuine-shearling-collar-slipper-various-69-99-free-shipping-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+Tazzette+Genuine+Shearling+Collar+Slipper",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:44:40Z"
  },
  {
   "id": "eecc88151910bae7",
@@ -1809,7 +1816,8 @@
   "source_url": "https://www.dealnews.com/Samsung-Galaxy-Z-Fold8-Ultra-Smartphone-Up-to-1-400-off-w-trade-in-free-shipping/22389500.html?iref=rss",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+Z+Fold8+Ultra+Smartphone+Up+to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:44:41Z"
  },
  {
   "id": "5c46e92e18282574",
@@ -1826,7 +1834,8 @@
   "source_url": "https://www.dealnews.com/Supersonic-Vision-EDGE-SC-601-G-Smart-AI-Glasses-for-60-free-shipping/22389499.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Supersonic+VisionEDGE+SC-601G+Smart+AI+Glasses+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:44:41Z"
  },
  {
   "id": "86c54b2a23e7f054",
@@ -1842,7 +1851,8 @@
   "found_at": "2026-11-13T08:57:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:44:44Z"
  },
  {
   "id": "3cc5a81badfe0728",
@@ -1858,7 +1868,8 @@
   "found_at": "2026-11-13T08:57:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:44:45Z"
  },
  {
   "id": "52b347355d4f1495",
@@ -1874,7 +1885,8 @@
   "found_at": "2026-11-13T08:57:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:44:47Z"
  },
  {
   "id": "072a95d85da38fd1",
@@ -1890,7 +1902,8 @@
   "found_at": "2026-11-13T08:57:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:44:50Z"
  },
  {
   "id": "93a5f64a68f07884",
@@ -1906,7 +1919,8 @@
   "found_at": "2026-11-13T08:57:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:44:51Z"
  },
  {
   "id": "f01d716cd117904f",
@@ -1922,7 +1936,8 @@
   "found_at": "2026-11-13T08:57:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:44:53Z"
  },
  {
   "id": "df741dad3f14b394",
@@ -28939,7 +28954,7 @@
  {
   "id": "25add22c091bf895",
   "title": "PlayStation 5 Slim Console – Ghost of Yōtei Gold Limited Edition Bundle - Open Box - Excellent $424.99",
-  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+PlayStation+5+Slim+Console+Ghost+of+Y+tei+Gold+Limited+Edition+Bundle+-+Open+Box",
+  "url": "https://slickdeals.net/f/20308380-playstation-5-slim-console-ghost-of-y-tei-gold-limited-edition-bundle-open-box-excellent-424-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Playstation 5",
@@ -28951,8 +28966,7 @@
   "source_url": "https://slickdeals.net/f/20308380-playstation-5-slim-console-ghost-of-y-tei-gold-limited-edition-bundle-open-box-excellent-424-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+PlayStation+5+Slim+Console+Ghost+of+Y+tei+Gold+Limited+Edition+Bundle+-+Open+Box",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "0234bc9fbe07fa54",
@@ -29081,7 +29095,7 @@
  {
   "id": "9330420a00c4f618",
   "title": "Beats Solo 4 Bluetooth Wireless On-Ear Headphones - Bright Pink or Warm White $69.99",
-  "url": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Bluetooth+Wireless+On-Ear+Headphones+-+Bright+Pink+or+Warm+White",
+  "url": "https://slickdeals.net/f/20300016-beats-solo-4-bluetooth-wireless-on-ear-headphones-bright-pink-or-warm-white-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -29093,8 +29107,7 @@
   "source_url": "https://slickdeals.net/f/20300016-beats-solo-4-bluetooth-wireless-on-ear-headphones-bright-pink-or-warm-white-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Bluetooth+Wireless+On-Ear+Headphones+-+Bright+Pink+or+Warm+White",
-  "exact": false,
-  "link_tried3": true
+  "exact": false
  },
  {
   "id": "60eb1c36c29f7786",
@@ -34908,11 +34921,11 @@
   "pct": null,
   "price": 100.0,
   "found_at": "2026-11-15T03:28:32Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhdnJNanBZb0prUEdDSDBfTXN2TGZFVk5xWllUUllmbmNzbGNfbWhneU85bnhUamFaNVRrcUFyb2RpNXNpaHJOSUNQUGFqcDV0N1pEbjRzVHp3bXJaUFdPcXNBWXZpUlhUT01wZ3U1V1VHQlhyMG5mM05R?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Early+Black+Friday+Garmin+Venu+4+is",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cdc26389744a6194",
@@ -34926,10 +34939,106 @@
   "pct": null,
   "price": 119.98,
   "found_at": "2026-11-15T03:34:11Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20307510-roku-50-qled-4k-smart-tv-with-4-year-coverage-bjs-com-free-shipping-or-pickup-119-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Abjs.com+ROKU+50+QLED+4K+Smart+TV+with+4-Year+Coverage+-+Bjs.com+Or+Pickup",
+  "exact": false,
+  "link_tried3": true
+ },
+ {
+  "id": "5e9f5a19430a56ef",
+  "title": "DJI Neo 2 4K Camera Drone w/ Palm Takeoff & Gesture Tracking $212.15 + Free S&H",
+  "url": "https://www.google.com/travel/flights?q=Flights%20DJI%20Neo%202%204K%20Camera%20Drone%20w/%20Palm%20Takeoff%20%26%20Gesture%20Tracking",
+  "why": "",
+  "category": "flights",
+  "source": "Slickdeals Frontpage",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 212.15,
+  "found_at": "2026-11-15T03:42:32Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20310303-dji-neo-2-drones-4k-with-camera-palm-takeoff-landing-gesture-control-smooth-reliable-tracking-212?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20DJI%20Neo%202%204K%20Camera%20Drone%20w/%20Palm%20Takeoff%20%26%20Gesture%20Tracking"
+ },
+ {
+  "id": "4dba2bda17592077",
+  "title": "Casdon Dyson Cordless Toy Vacuum for Kids 3+ $16.49 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=Casdon+Dyson+Cordless+Toy+Vacuum+for+Kids+3%2B",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 16.49,
+  "found_at": "2026-11-15T03:42:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20311761-casdon-dyson-cordless-toy-vacuum-for-kids-3-16-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Casdon+Dyson+Cordless+Toy+Vacuum+for+Kids+3%2B",
   "exact": false
+ },
+ {
+  "id": "a8df98dfc5d0fedc",
+  "title": "OtterBox Samsung Galaxy S25 Ul...er Series Case - Foxberry Pink - down 6.27% ($2.73) to $40.81 from $43.54",
+  "url": "https://www.amazon.com/dp/B0DP3FW1FY",
+  "why": "",
+  "category": "tech",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 2.73,
+  "found_at": "2026-11-15T03:42:32Z",
+  "source_url": "https://camelcamelcamel.com/product/B0DP3FW1FY",
+  "exact": true,
+  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=OtterBox+Samsung+Galaxy+S25+Ul...er+Series+Case+-+Foxberry+Pink+-+down+6.27"
+ },
+ {
+  "id": "bcbcc0ef24a5094f",
+  "title": "Casdon Dyson Cordless Toy Vacuum for Kids 3+ $16.49 + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=Casdon+Dyson+Cordless+Toy+Vacuum+for+Kids+3%2B",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 16.49,
+  "found_at": "2026-11-15T03:42:32Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20311761-casdon-dyson-cordless-toy-vacuum-for-kids-3-16-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Casdon+Dyson+Cordless+Toy+Vacuum+for+Kids+3%2B",
+  "exact": false
+ },
+ {
+  "id": "52b39cd91e517717",
+  "title": "Round Trip New York - Kauai Hawaii (The Garden Isle) or Vice Versa $435 Airfares on Alaska/Hawaiian Airlines BE (Travel October - March 2027)",
+  "url": "https://slickdeals.net/f/20111397-round-trip-new-york-kauai-hawaii-the-garden-isle-or-vice-versa-435-airfares-on-alaska-hawaiian-airlines-be-travel-october-march-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "flights",
+  "source": "Web search: New York to Hawaii flight deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 435.0,
+  "found_at": "2026-11-15T03:44:56Z"
+ },
+ {
+  "id": "a3ef6a9ed25b279c",
+  "title": "Woot! App: $6.39 | UCOMX 3-in-1 Foldable Magnetic Wireless Charging Station for Apple Devices at Woot!",
+  "url": "https://slickdeals.net/f/20290308-woot-app-6-39-ucomx-3-in-1-foldable-magnetic-wireless-charging-station-for-apple-devices-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: Woot Apple deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6.39,
+  "found_at": "2026-11-15T03:45:10Z"
  }
 ]
