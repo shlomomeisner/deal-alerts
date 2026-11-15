@@ -289,7 +289,8 @@
   "found_at": "2026-11-13T22:03:14Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T21:44:45Z"
  },
  {
   "id": "dbb1aaec58591a56",
@@ -305,7 +306,8 @@
   "found_at": "2026-11-13T22:03:14Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T21:44:47Z"
  },
  {
   "id": "575ac0d945277e20",
@@ -323,7 +325,8 @@
   "source_url": "https://slickdeals.net/f/20255259-180-count-amorning-omega-3-fish-oil-small-softgels-5-99-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=180-Count+AMORNING+Omega-3+Fish+Oil+Small+Softgels",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:49Z"
  },
  {
   "id": "6b4c3cf60ecd6413",
@@ -341,7 +344,8 @@
   "source_url": "https://slickdeals.net/f/20193222-300-count-arofum-2000mg-omega-3-fish-oil-softgels-w-1100mg-dha-700mg-epa-200mg-phosphatidylserine-8-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=300-Count+Arofum+2000mg+Omega-3+Fish+Oil+Softgels+w+1100mg+DHA+700mg+EPA+%26+200mg",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:50Z"
  },
  {
   "id": "69e7e8167573f466",
@@ -359,7 +363,8 @@
   "source_url": "https://slickdeals.net/f/20163840-amazon-omega-3-5-6-7-9-softgels-1600mg-9-60-w-code?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Amazon+Omega+3-5-6-7-9+Softgels+1600mg+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:52Z"
  },
  {
   "id": "c67c03450cf61721",
@@ -377,7 +382,8 @@
   "source_url": "https://slickdeals.net/f/20158245-fish-oil-omega-3-supplements-small-softgels-1440mg-180count-easy-to-swallow-7-49-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Fish+Oil+Omega-3+Supplements+Small+Softgels+1440mg+180Count+Easy+to+Swallow+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:53Z"
  },
  {
   "id": "d83aec114199f65e",
@@ -395,7 +401,8 @@
   "source_url": "https://slickdeals.net/f/20140278-fish-oil-omega-3-supplements-small-softgels-1440mg-180count-easy-to-swallow-high-epa-dha-fish-oil-for-men-women-brain-heart-eye-health-7-49-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Fish+Oil+Omega-3+Supplements+Small+Softgels+1440mg+180Count+Easy+to+Swallow+High",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:55Z"
  },
  {
   "id": "23dd3af85364f100",
@@ -412,7 +419,8 @@
   "source_url": "https://slickdeals.net/f/16525855-omega-railmaster-automatic-blue-jeans-dial-men-s-watch-220-12-40-20-03-001-2825?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Railmaster+Automatic+Blue+Jeans+Dial+Men%27s+Watch+220.12.40.20.03.001+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:56Z"
  },
  {
   "id": "20e8c73891081d90",
@@ -429,7 +437,8 @@
   "source_url": "https://slickdeals.net/e/12247003-omega-planet-ocean-co-axial-blue-dial-mid-size-titanium-watch-3795-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Planet+Ocean+Co-Axial+Blue+Dial+Mid-size+Titanium+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:57Z"
  },
  {
   "id": "3594b719e856442a",
@@ -446,7 +455,8 @@
   "source_url": "https://slickdeals.net/e/11504223-wipeout-omega-collection-playstation-store-price-drop-19-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Wipeout+Omega+Collection+PlayStation+Store",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:58Z"
  },
  {
   "id": "b2b8ba1d33b5bb0a",
@@ -464,7 +474,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcURmVWJkUHRwa3gzeHBoeW9uSzdEc3B1UWRUdnp0TEY5ZldFU2lBSGZ0WGhlSThLTlBuMV9FR2E2Z2FNY0dfSjFrbmwzY19JbEwzdzVJRHBjcWx1VVctOTRONjRCVDRIZTVNMW9mY1hBUjlBbEJSUlQyOGpaVHBaaWk5bUpVSy02MmNLQWNueVR0OWdoRDRadlBxMGd0UnhPV2JwcF9nampkWURoRXNIX2VKbC0tUF8xZl9DNHRwaWFOR0k?oc=5",
   "store": "Target",
   "similar": "https://www.target.com/s?searchTerm=Omega+Healthcare+Investors+Price+Target+Raised+to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:44:59Z"
  },
  {
   "id": "c4085ed443bee8fd",
@@ -480,7 +491,8 @@
   "found_at": "2026-11-13T22:03:17Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T21:45:00Z"
  },
  {
   "id": "ce7dad55e1db6dc5",
@@ -496,7 +508,8 @@
   "found_at": "2026-11-13T22:03:17Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T21:45:03Z"
  },
  {
   "id": "89edb04438e0194a",
@@ -513,7 +526,8 @@
   "source_url": "https://slickdeals.net/f/19790256-squishmallows-original-8in-tudor-the-maroon-leatherback-turtle-5-02-free-s-h-w-prime-or-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Squishmallows+Original+8in+Tudor+The+Maroon+Leatherback+Turtle",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:45:04Z"
  },
  {
   "id": "b08ad405bffc4ff8",
@@ -530,7 +544,8 @@
   "source_url": "https://slickdeals.net/f/19764048-tudor-s-biscuit-world-2-50-chili-dogs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tudor%27s+Biscuit+World-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T21:45:06Z"
  },
  {
   "id": "3475b1d7c207c804",
@@ -27031,7 +27046,7 @@
  {
   "id": "b2557d982da30f08",
   "title": "Jomashop Spring Sunglasses Blowout Sale Extra 40% Off (Up to 90% Off some items) Gucci, Prada, Oakley, Tom Ford, Ferragamo, Saint Laurent",
-  "url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
   "why": "Gucci 90% off",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -27043,12 +27058,13 @@
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d3a8ce236e51ad33",
   "title": "Tom Ford Black Orchid Eau de Parfum, 3.4 fl oz $129.99",
-  "url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+Eau+de+Parfum+3.4+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -27060,12 +27076,13 @@
   "source_url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+Eau+de+Parfum+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a0b5b2729d136e9a",
   "title": "Carolina Herrera Bad Boy Cobalt Eau de Parfum, 3.4fl oz - 96.99 + free ship w/ Prime $96.99",
-  "url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Carolina+Herrera+Bad+Boy+Cobalt+Eau+de+Parfum+3.4fl+oz+-+96.99+%2B+free+ship+w+Pri",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -27077,12 +27094,13 @@
   "source_url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Carolina+Herrera+Bad+Boy+Cobalt+Eau+de+Parfum+3.4fl+oz+-+96.99+%2B+free+ship+w+Pri",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4d13cc315dd48493",
   "title": "Tom Ford Black Orchid EDP, 3.4 fl oz $99.99",
-  "url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+EDP+3.4+fl+oz",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -27094,12 +27112,13 @@
   "source_url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+EDP+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9da7d1c217c4e1b7",
   "title": "2-Piece Valentino Donna Born In Roma Eau de Parfum Travel Gift Set $25 + Free Store Pickup at Ulta or FS $35+",
-  "url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
   "why": "Valentino 50% off",
   "category": "fragrance",
   "source": "Slickdeals: Tom Ford",
@@ -27111,7 +27130,8 @@
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "681503701533b759",
@@ -27608,7 +27628,7 @@
  {
   "id": "d23e0eaf9ef03b93",
   "title": "Versace Pour Homme Dylan Blue for Men 6.7 oz Eau de Toilette Spray $69.99",
-  "url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Versace",
@@ -27620,7 +27640,8 @@
   "source_url": "https://slickdeals.net/f/19917957-versace-pour-homme-dylan-blue-for-men-6-7-oz-eau-de-toilette-spray-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Pour+Homme+Dylan+Blue+for+Men+6.7+oz+Eau+de+Toilette+Spray",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "062ef7128435712d",
@@ -27643,7 +27664,7 @@
  {
   "id": "7fe6c13207a7ab33",
   "title": "Versace Man Eau Fraiche/Versace EDT Spray (Blue) Unboxed 3.3 Oz (M) Blue Bottle $47.99",
-  "url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Versace",
@@ -27655,7 +27676,8 @@
   "source_url": "https://slickdeals.net/f/19865808-versace-man-eau-fraiche-versace-edt-spray-blue-unboxed-3-3-oz-m-blue-bottle-47-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Versace+Man+Eau+Fraiche+Versace+EDT+Spray+Unboxed+3.3+Oz+Blue+Bottle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4f32b57721b0bc60",
@@ -34301,11 +34323,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xx7bvy/wts_vanilla_powder_extrait_100ml_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Vanilla+Powder+Extrait+100ml+bottle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "19a8171f846ecebb",
@@ -34319,11 +34341,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xx717x/wts_creed_git_and_creed_viking_cologne_bottle/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Creed+GIT+and+Creed+Viking+Cologne",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c48b4a4866cc3b25",
@@ -34337,11 +34359,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xx5q57/wtt_67_oz_gucci_guilty_parfum_bnib_sealed_best/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=6.7+OZ+Gucci+Guilty+Parfum+BNIB+Sealed+BEST+ON+THE+MARKET",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e0b3084d44aa2428",
@@ -34355,11 +34377,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xx2ups/wts_xerjoff_bdk_dg_goldfield_and_banks/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Xerjoff+BDK+D%26G+Goldfield+and+Banks",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ab2ec993babfb574",
@@ -34373,11 +34395,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xx2af3/creed_mi_tom_ford_bois_pacifique/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Creed+MI+Tom+Ford+Bois+Pacifique",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6c05d65ba29de0b2",
@@ -34391,11 +34413,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://www.reddit.com/r/fragrancedeals/comments/1xx22yb/wts_creed_viking_cologne_tester_wcap_97100ml/",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Creed+Viking+Cologne+Tester+Cap+97+100ml",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c882081f9524beee",
@@ -34409,11 +34431,11 @@
   "pct": null,
   "price": 3750.0,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20008227-omega-seamaster-olympic-timekeeper-automatic-black-dial-men-s-watch-3750?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Omega+Seamaster+Olympic+Timekeeper+Automatic+Black+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a81ab9a53458a429",
@@ -34445,11 +34467,11 @@
   "pct": null,
   "price": 8539.55,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19782225-new-omega-speedmaster-pilot-chronograph-black-men-s-watch-8539-55?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Speedmaster+Pilot+Chronograph+Black+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b4383349ff3c5910",
@@ -34463,11 +34485,11 @@
   "pct": 48,
   "price": 859.0,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19456020-bulova-lunar-pilot-timascus-limited-edition-for-859?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Bulova+Lunar+Pilot+Timascus+Limited+Edition+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b5ab8e3087c7e8f0",
@@ -34481,11 +34503,11 @@
   "pct": null,
   "price": 6350.0,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18569047-43mm-omega-men-s-seamaster-automatic-chronometer-watch-w-ceramic-case-6350-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=43mm+Omega+Men%27s+Seamaster+Automatic+Chronometer+Watch+w+Ceramic+Case",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3d2e2a405415e0c5",
@@ -34499,11 +34521,11 @@
   "pct": null,
   "price": 11440.0,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18132910-omega-speedmaster-dark-side-of-the-moon-apollo-8-11440?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Speedmaster+Dark+Side+of+the+Moon+Apollo+8",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c9774110a01dadd2",
@@ -34517,11 +34539,11 @@
   "pct": null,
   "price": 3195.0,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18132142-omega-speedmaster-racing-chronometer-automatic-chronograph-ss-watch-3195-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Omega+Speedmaster+Racing+Chronometer+Automatic+Chronograph+SS+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1122b265d607f767",
@@ -34535,11 +34557,11 @@
   "pct": null,
   "price": 2050.0,
   "found_at": "2026-11-15T21:35:13Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17415204-omega-watches-sale-omega-de-ville-automatic-watch-2050-seamaster-railmaster-automatic-chronometer-blue-dial-watch-2995-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Omega+Watches+OMEGA+De+Ville+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e1f0cd32acc194e4",
