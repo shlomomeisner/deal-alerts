@@ -1,59 +1,5 @@
 [
  {
-  "id": "8d027885918aa418",
-  "title": "$1349* | 13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD at Amazon",
-  "url": "https://slickdeals.net/f/20265741-1349-13-6-apple-macbook-air-2026-m5-chip-16gb-ram-1tb-ssd-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 1349.0,
-  "found_at": "2026-11-13T08:40:40Z",
-  "link_tried3": true,
-  "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=",
-  "checked_at": "2026-11-15T00:15:45Z"
- },
- {
-  "id": "914635757fcdbb04",
-  "title": "AAFES: Apple MacBook Air (2026) $999: Nov 6 - 12",
-  "url": "https://www.apple.com/us/search/AAFES%20Apple%20MacBook%20Air",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Macbook Air",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 999.0,
-  "found_at": "2026-11-13T08:40:40Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20264439-aafes-apple-macbook-air-2026-999-nov-6-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Apple",
-  "similar": "https://www.apple.com/us/search/AAFES%20Apple%20MacBook%20Air",
-  "exact": false,
-  "checked_at": "2026-11-15T00:15:46Z"
- },
- {
-  "id": "cc99240cc9884b02",
-  "title": "Unlocked Pixel 11 256 GB from $399 for Google Fi new user | 120 days service required",
-  "url": "https://slickdeals.net/f/20285793-unlocked-pixel-11-256-gb-from-399-for-google-fi-new-user-120-days-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Pixel 9",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 399.0,
-  "found_at": "2026-11-13T08:40:40Z",
-  "source_url": "https://slickdeals.net/f/20285793-unlocked-pixel-11-256-gb-from-399-for-google-fi-new-user-120-days-service-required?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=Unlocked+Pixel+11+256+GB+from",
-  "exact": false,
-  "checked_at": "2026-11-15T00:15:47Z"
- },
- {
   "id": "442514ea53d5cdf6",
   "title": "Google - Pixel 11 Pro 256GB (Unlocked) - Canyon $955.99",
   "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Google+-+Pixel+11+Pro+256GB+-+Canyon",
@@ -1450,22 +1396,6 @@
   "checked_at": "2026-11-15T03:28:25Z"
  },
  {
-  "id": "be032c6328e96c74",
-  "title": "Bose SoundLink Flex Bluetooth ...o 12 Hours Battery Life, Black - down 37.74% ($60.00) to $99.00 from $159.00",
-  "url": "https://www.amazon.com/dp/B0D6WD2QSQ",
-  "why": "",
-  "category": "tech",
-  "source": "camelcamelcamel Amazon drops",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 60.0,
-  "found_at": "2026-11-13T08:49:34Z",
-  "source_url": "https://camelcamelcamel.com/product/B0D6WD2QSQ",
-  "exact": true,
-  "similar": "https://www.google.com/search?tbm=shop&q=Bose+SoundLink+Flex+Bluetooth+...o+12+Hours+Battery+Life+Black+-+down+37.74"
- },
- {
   "id": "83017cbc86fc8115",
   "title": "Woot! App: $11.99 | Apple Watch Sports Loops & Bands (Various) at Woot!",
   "url": "https://slickdeals.net/f/20292042-woot-app-11-99-apple-watch-sports-loops-bands-various-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -1480,7 +1410,8 @@
   "source_url": "https://slickdeals.net/f/20292042-woot-app-11-99-apple-watch-sports-loops-bands-various-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:36Z"
  },
  {
   "id": "745decd79d653ebe",
@@ -1497,7 +1428,8 @@
   "source_url": "https://slickdeals.net/f/20291958-woot-app-259-99-42mm-apple-watch-series-10-gps-cellular-smartwatch-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:37Z"
  },
  {
   "id": "85b03f38e29a62ee",
@@ -1515,7 +1447,8 @@
   "source_url": "https://slickdeals.net/f/20289810-app-required-apple-airpods-5-anc-free-shipping-with-amazon-prime-or-6-95-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirPods+5+ANC+with+Amazon+Prime+or",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:38Z"
  },
  {
   "id": "a60bfafa668dca11",
@@ -1533,7 +1466,8 @@
   "source_url": "https://slickdeals.net/f/20292624-13-apple-macbook-air-w-m5-10-core-16gb-ram-1tb-ssd-silver-1399?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo",
   "similar": "https://www.bhphotovideo.com/c/search?q=13+Apple+MacBook+Air+w+M5+10-Core+16GB+RAM+%26+1TB+SSD",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:40Z"
  },
  {
   "id": "54312aa97859342e",
@@ -1551,7 +1485,8 @@
   "source_url": "https://slickdeals.net/f/20291832-b-h-photo-has-15-3-apple-macbook-air-m5-laptops-16gb-ram-512gb-ssd-silver-or-starlight-on-sale-for-1299?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo",
   "similar": "https://www.bhphotovideo.com/c/search?q=B%26H+Photo+has+15.3+Apple+MacBook+Air+M5+Laptops+on+for",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:41Z"
  },
  {
   "id": "38cb4ef38527b6f9",
@@ -1569,7 +1504,8 @@
   "source_url": "https://slickdeals.net/f/20282187-open-box-excellent-insignia-45w-usb-c-wall-charger-for-macbook-pro-ipad-iphone-apple-watch-samsung-smartphones-more-white-8-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Open+Box+Excellent+Insignia+45W+USB-C+Wall+Charger+for+MacBook+Pro+iPad+iPhone+A",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:42Z"
  },
  {
   "id": "d5f28ecc1d5ea597",
@@ -1586,7 +1522,8 @@
   "source_url": "https://slickdeals.net/f/20280228-anker-usb-c-hub-7-in-1-multi-port-usbc-hub-4k-hdmi-usb-c-adapter-1-usb-c-and-2-usb-a-5gbps-ports-85w-max-pd-sd-tf-for-macbook-air-macbook-pro-25-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Anker+USB+C+Hub+7-in-1+Multi-Port+USBC+Hub+4K+HDMI+USB-C+Adapter+1+USB-C+and+2+U",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:44Z"
  },
  {
   "id": "03bc1565d7f08640",
@@ -1603,7 +1540,8 @@
   "source_url": "https://slickdeals.net/f/20278257-ugreen-nexode-pro-160w-5-port-usb-c-charger-block-with-smart-display-fast-gan-charger-for-macbook-pro-laptops-iphone-series-starlight-gray-64-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGREEN+-+Nexode+Pro+160W+5-Port+USB-C+Charger+Block+with+Smart+Display+Fast+GaN+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:45Z"
  },
  {
   "id": "ab2049e71db1213c",
@@ -1620,7 +1558,8 @@
   "source_url": "https://slickdeals.net/f/20292042-woot-app-11-99-apple-watch-sports-loops-bands-various-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:45Z"
  },
  {
   "id": "e9d5b7a9d8d843c1",
@@ -1637,7 +1576,8 @@
   "source_url": "https://slickdeals.net/f/20291958-woot-app-259-99-42mm-apple-watch-series-10-gps-cellular-smartwatch-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:46Z"
  },
  {
   "id": "f06c2abf515d6961",
@@ -1654,7 +1594,8 @@
   "source_url": "https://slickdeals.net/f/20291907-woot-app-459-nintendo-switch-2-console-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:47Z"
  },
  {
   "id": "09e25807fbeda75c",
@@ -1672,7 +1613,8 @@
   "source_url": "https://slickdeals.net/f/20281197-samsung-edu-epp-galaxy-tab-s11-128-gb-599?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+EDU+EPP+Galaxy+Tab+S11+128+GB",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:36:49Z"
  },
  {
   "id": "52d0cc3f0ccf0062",
@@ -1688,7 +1630,8 @@
   "found_at": "2026-11-13T08:49:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:36:51Z"
  },
  {
   "id": "99872f27b92b8576",
@@ -1704,7 +1647,8 @@
   "found_at": "2026-11-13T08:49:34Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:36:53Z"
  },
  {
   "id": "f4d23b0a3107bc4b",
@@ -28995,7 +28939,7 @@
  {
   "id": "25add22c091bf895",
   "title": "PlayStation 5 Slim Console – Ghost of Yōtei Gold Limited Edition Bundle - Open Box - Excellent $424.99",
-  "url": "https://slickdeals.net/f/20308380-playstation-5-slim-console-ghost-of-y-tei-gold-limited-edition-bundle-open-box-excellent-424-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+PlayStation+5+Slim+Console+Ghost+of+Y+tei+Gold+Limited+Edition+Bundle+-+Open+Box",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Playstation 5",
@@ -29007,7 +28951,8 @@
   "source_url": "https://slickdeals.net/f/20308380-playstation-5-slim-console-ghost-of-y-tei-gold-limited-edition-bundle-open-box-excellent-424-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+PlayStation+5+Slim+Console+Ghost+of+Y+tei+Gold+Limited+Edition+Bundle+-+Open+Box",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0234bc9fbe07fa54",
@@ -29136,7 +29081,7 @@
  {
   "id": "9330420a00c4f618",
   "title": "Beats Solo 4 Bluetooth Wireless On-Ear Headphones - Bright Pink or Warm White $69.99",
-  "url": "https://slickdeals.net/f/20300016-beats-solo-4-bluetooth-wireless-on-ear-headphones-bright-pink-or-warm-white-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Bluetooth+Wireless+On-Ear+Headphones+-+Bright+Pink+or+Warm+White",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -29148,7 +29093,8 @@
   "source_url": "https://slickdeals.net/f/20300016-beats-solo-4-bluetooth-wireless-on-ear-headphones-bright-pink-or-warm-white-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Bluetooth+Wireless+On-Ear+Headphones+-+Bright+Pink+or+Warm+White",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "60eb1c36c29f7786",
@@ -34951,22 +34897,9 @@
   "exact": false
  },
  {
-  "id": "b043bad2b6f283e1",
-  "title": "LC-dolida Fence Mount w/ Sun & Rain Visor for GoPro, DJI, Insta360 & Smartphones $9.97 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/19987707-lc-dolida-fence-mount-w-sun-rain-visor-for-gopro-dji-insta360-smartphones-9-97-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: GoPro deal",
-  "urgent": false,
-  "hot": false,
-  "pct": 50,
-  "price": 9.97,
-  "found_at": "2026-11-15T03:28:28Z"
- },
- {
   "id": "67e89bc7e052a421",
   "title": "Early Black Friday deal: Garmin Venu 4 is $100 off - Mashable",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhdnJNanBZb0prUEdDSDBfTXN2TGZFVk5xWllUUllmbmNzbGNfbWhneU85bnhUamFaNVRrcUFyb2RpNXNpaHJOSUNQUGFqcDV0N1pEbjRzVHp3bXJaUFdPcXNBWXZpUlhUT01wZ3U1V1VHQlhyMG5mM05R?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Early+Black+Friday+Garmin+Venu+4+is",
   "why": "",
   "category": "tech",
   "source": "Web search: Garmin record low",
@@ -34974,6 +34907,29 @@
   "hot": false,
   "pct": null,
   "price": 100.0,
-  "found_at": "2026-11-15T03:28:32Z"
+  "found_at": "2026-11-15T03:28:32Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhdnJNanBZb0prUEdDSDBfTXN2TGZFVk5xWllUUllmbmNzbGNfbWhneU85bnhUamFaNVRrcUFyb2RpNXNpaHJOSUNQUGFqcDV0N1pEbjRzVHp3bXJaUFdPcXNBWXZpUlhUT01wZ3U1V1VHQlhyMG5mM05R?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Early+Black+Friday+Garmin+Venu+4+is",
+  "exact": false
+ },
+ {
+  "id": "cdc26389744a6194",
+  "title": "ROKU 50\" QLED 4K Smart TV with 4-Year Coverage - Bjs.com Free Shipping Or Pickup $119.98",
+  "url": "https://www.google.com/search?q=site%3Abjs.com+ROKU+50+QLED+4K+Smart+TV+with+4-Year+Coverage+-+Bjs.com+Or+Pickup",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 119.98,
+  "found_at": "2026-11-15T03:34:11Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20307510-roku-50-qled-4k-smart-tv-with-4-year-coverage-bjs-com-free-shipping-or-pickup-119-98?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Abjs.com+ROKU+50+QLED+4K+Smart+TV+with+4-Year+Coverage+-+Bjs.com+Or+Pickup",
+  "exact": false
  }
 ]
