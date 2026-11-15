@@ -523,7 +523,8 @@
   "found_at": "2026-11-13T08:40:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:03:31Z"
  },
  {
   "id": "56bb15fc3bf4c049",
@@ -540,7 +541,8 @@
   "source_url": "https://slickdeals.net/f/20105577-refurb-meta-quest-3-512gb-439-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3+512GB",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:33Z"
  },
  {
   "id": "3b40410a7bd38a73",
@@ -557,7 +559,8 @@
   "source_url": "https://slickdeals.net/f/20105574-refurb-meta-quest-3s-128gb-255-99-256gb-327-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+Meta+Quest+3S+128GB",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:34Z"
  },
  {
   "id": "7a46de79fe210a6a",
@@ -574,7 +577,8 @@
   "source_url": "https://slickdeals.net/f/20105511-amzdm-silicone-controller-grip-cover-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-24-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Cover+w+Knuckle+Straps+%26+Thumbstick+Covers+for+Me",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:36Z"
  },
  {
   "id": "16b6c5c0fb1c733d",
@@ -590,7 +594,8 @@
   "found_at": "2026-11-13T08:40:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:03:38Z"
  },
  {
   "id": "7beaed91c60e601f",
@@ -607,7 +612,8 @@
   "source_url": "https://slickdeals.net/f/20070912-amzdm-silicone-controller-grip-covers-w-knuckle-straps-thumbstick-covers-for-meta-quest-3-3s-6-95-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=AMZDM+Silicone+Controller+Grip+Covers+w+Knuckle+Straps+%26+Thumbstick+Covers+for+M",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:41Z"
  },
  {
   "id": "141ad93fed849505",
@@ -623,7 +629,8 @@
   "found_at": "2026-11-13T08:40:40Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-15T03:03:43Z"
  },
  {
   "id": "eaa211f73504166e",
@@ -640,7 +647,8 @@
   "source_url": "https://slickdeals.net/f/20299020-sony-bravia-7-mark-ii-85inch-2999-99-from-sony-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+Bravia+7+Mark+II+85inch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:44Z"
  },
  {
   "id": "d29eae96df74f60f",
@@ -658,7 +666,8 @@
   "source_url": "https://slickdeals.net/f/20290554-best-buy-sony-85-bravia-9-ii-true-rgb-4k-tv-4-224-99-4-874-99-open-box-ymmv-4224-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bestbuy",
   "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Best+Buy+Sony+85+BRAVIA+9+II+True+RGB+4K+TV+-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:47Z"
  },
  {
   "id": "f242dd19aecc951a",
@@ -676,7 +685,8 @@
   "source_url": "https://slickdeals.net/f/20288271-sony-48-inch-bravia-6-oled-4k-hdr-smart-google-tv-with-gemini-k-48a60-898?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Sony+48+Inch+BRAVIA+6+OLED+4K+HDR+Smart+Google+TV+with+Gemini",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:49Z"
  },
  {
   "id": "52fdd81fe992fbf0",
@@ -693,7 +703,8 @@
   "source_url": "https://slickdeals.net/f/20297316-refurbished-dji-mini-5-pro-w-fly-more-combo-plus-amp-rc2?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=REFURBISHED+DJI+Mini+5+Pro+w+Fly+More+Combo+Plus+%26+RC2",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:49Z"
  },
  {
   "id": "4766dbcba1aba840",
@@ -711,7 +722,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20291172-refurb-dji-mini-3-with-dji-rc-4k-hdr-camera-drone-under-249g-255-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Refurb%3A%20DJI%20Mini%203%20with%20DJI%20RC%204K%20HDR%20Camera%20Drone%20Under%20249g"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Refurb%3A%20DJI%20Mini%203%20with%20DJI%20RC%204K%20HDR%20Camera%20Drone%20Under%20249g",
+  "checked_at": "2026-11-15T03:03:51Z"
  },
  {
   "id": "50c4e1a2a0721654",
@@ -729,7 +741,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20271441-refurb-dji-mini-3-4k-hdr-3-axis-gimbal-drone-w-rc-n1-controller-203-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Refurb%3A%20DJI%20Mini%203%204K%20HDR%203-Axis%20Gimbal%20Drone%20w/%20RC-N1%20Controller"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Refurb%3A%20DJI%20Mini%203%204K%20HDR%203-Axis%20Gimbal%20Drone%20w/%20RC-N1%20Controller",
+  "checked_at": "2026-11-15T03:03:52Z"
  },
  {
   "id": "c77ebb44c6b6d531",
@@ -746,7 +759,8 @@
   "source_url": "https://slickdeals.net/f/20270466-new-dji-mini-5-pro-drone-with-rc-2-899?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Drone+with+RC+2",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:53Z"
  },
  {
   "id": "2109bab735839e7d",
@@ -763,7 +777,8 @@
   "source_url": "https://slickdeals.net/f/20256861-dji-mini-5-pro-fly-more-combo-w-dji-rc-2-1-inch-cmos-4k-camera-824-50-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Mini+5+Pro+Fly+More+Combo+w+DJI+RC+2+%26+1-Inch+CMOS+4K+Camera",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-15T03:03:55Z"
  },
  {
   "id": "78be052e1c9a1755",
@@ -29064,7 +29079,7 @@
  {
   "id": "25add22c091bf895",
   "title": "PlayStation 5 Slim Console – Ghost of Yōtei Gold Limited Edition Bundle - Open Box - Excellent $424.99",
-  "url": "https://slickdeals.net/f/20308380-playstation-5-slim-console-ghost-of-y-tei-gold-limited-edition-bundle-open-box-excellent-424-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+PlayStation+5+Slim+Console+Ghost+of+Y+tei+Gold+Limited+Edition+Bundle+-+Open+Box",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Playstation 5",
@@ -29076,7 +29091,8 @@
   "source_url": "https://slickdeals.net/f/20308380-playstation-5-slim-console-ghost-of-y-tei-gold-limited-edition-bundle-open-box-excellent-424-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+PlayStation+5+Slim+Console+Ghost+of+Y+tei+Gold+Limited+Edition+Bundle+-+Open+Box",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0234bc9fbe07fa54",
@@ -29205,7 +29221,7 @@
  {
   "id": "9330420a00c4f618",
   "title": "Beats Solo 4 Bluetooth Wireless On-Ear Headphones - Bright Pink or Warm White $69.99",
-  "url": "https://slickdeals.net/f/20300016-beats-solo-4-bluetooth-wireless-on-ear-headphones-bright-pink-or-warm-white-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Bluetooth+Wireless+On-Ear+Headphones+-+Bright+Pink+or+Warm+White",
   "why": "",
   "category": "everything",
   "source": "Web search: Beats deal",
@@ -29217,7 +29233,8 @@
   "source_url": "https://slickdeals.net/f/20300016-beats-solo-4-bluetooth-wireless-on-ear-headphones-bright-pink-or-warm-white-69-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+Solo+4+Bluetooth+Wireless+On-Ear+Headphones+-+Bright+Pink+or+Warm+White",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "60eb1c36c29f7786",
@@ -29276,7 +29293,7 @@
  {
   "id": "6e9b9868a2ed7ffa",
   "title": "JBL Boombox 4 Portable Bluetooth Speaker (Blue) $399.95 + Free Shipping",
-  "url": "https://slickdeals.net/f/20275392-jbl-boombox-4-portable-bluetooth-speaker-blue-399-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=JBL+Boombox+4+Portable+Bluetooth+Speaker",
   "why": "",
   "category": "amazon",
   "source": "Web search: JBL deal",
@@ -29288,7 +29305,8 @@
   "source_url": "https://slickdeals.net/f/20275392-jbl-boombox-4-portable-bluetooth-speaker-blue-399-95-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=JBL+Boombox+4+Portable+Bluetooth+Speaker",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "739af9b409fd8d6e",
@@ -29431,7 +29449,7 @@
  {
   "id": "a1844ee84150a264",
   "title": "American: Newark – Guadalajara, Mexico. $330 (Basic Economy) / $360 (Regular Economy). Roundtrip, including all Taxes",
-  "url": "https://www.theflightdeal.com/2026/11/14/american-newark-guadalajara-mexico-330-basic-economy-360-regular-economy-roundtrip-including-all-taxes/",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20Guadalajara%2C%20Mexico%20on%202027-02-03%20through%202027-02-11&hl=en&gl=us&curr=USD",
   "why": "$330 from NEWARK",
   "category": "flights",
   "source": "The Flight Deal",
@@ -29451,12 +29469,13 @@
    null
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20Guadalajara%2C%20Mexico&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20Guadalajara%2C%20Mexico&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "38a74b20f8b8d586",
   "title": "Cathay Pacific: New York – Penang, Malaysia. $891. Roundtrip, including all Taxes",
-  "url": "https://www.theflightdeal.com/2026/11/14/cathay-pacific-new-york-penang-malaysia-891-roundtrip-including-all-taxes-3/",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Penang%2C%20Malaysia%20on%202027-02-09%20through%202027-02-14&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "The Flight Deal",
@@ -29477,7 +29496,8 @@
    null
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Penang%2C%20Malaysia&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Penang%2C%20Malaysia&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "f6543d11482f93f0",
@@ -34567,11 +34587,11 @@
   "pct": null,
   "price": 28.0,
   "found_at": "2026-11-15T00:15:57Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnRhVTE3b1lSRGZnVFlUNk5SS0Y2OGVnM2Q2bFZEUEN2czhFbEtwXzFWRGpJc3M3TUVRYzRtVDAyRzdHVTJRNU9Qekd0dnc2ejNaMzl1anhydGVnUFRKS0RQeVV5Y2gzeGk0Vi00YnZBV1h4TWRIUy10OWdJcm9rRXBB?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Assassin+s+Creed+Shadows+drops+60+on+Steam+bringing+its+Japan+adventure+below",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b112e020d5baee59",
@@ -34655,11 +34675,11 @@
   "pct": null,
   "price": 33.0,
   "found_at": "2026-11-15T02:52:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dd280a8fc1f60f57",
@@ -34673,11 +34693,11 @@
   "pct": null,
   "price": 33.0,
   "found_at": "2026-11-15T02:52:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3f18109d9ec0d2e1",
@@ -34691,11 +34711,11 @@
   "pct": null,
   "price": 33.0,
   "found_at": "2026-11-15T02:52:56Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "42ce158329b441f3",
@@ -34810,45 +34830,139 @@
    null
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20Guadalajara%2C%20Mexico&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20Guadalajara%2C%20Mexico&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
-  "id": "6fc1456957fc993f",
-  "title": "Nepagz MagSafe 5-Card RFID iPhone Wallet w/ Adjustable Stand (Black) $6.18 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20311008-nepagz-magsafe-5-card-rfid-iphone-wallet-w-adjustable-stand-black-6-18-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "0690464ea6a56969",
+  "title": "6 Pack Solid Cologne Gifts for Men $4.99",
+  "url": "https://www.amazon.com/s?k=6+Pack+Solid+Cologne+Gifts+for+Men",
+  "why": "Cologne 50% off",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": true,
+  "pct": 50,
+  "price": 4.99,
+  "found_at": "2026-11-15T03:01:11Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20290431-6-pack-solid-cologne-gifts-for-men-4-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=6+Pack+Solid+Cologne+Gifts+for+Men",
+  "exact": false
+ },
+ {
+  "id": "f7d3441a63e068b2",
+  "title": "3-Piece Davidoff Cool Water Men's Cologne Gift Set $31.19, Davidoff Cool Water Women's 3-Piece Gift Set $33.59 + Free Shipping w/ Prime or $6 Fee per Order",
+  "url": "https://www.google.com/search?tbm=shop&q=3-Piece+Davidoff+Cool+Water+Men%27s+Cologne+Gift+Set",
   "why": "",
-  "category": "fashion",
-  "source": "Web search: iPhone deal",
+  "category": "fragrance",
+  "source": "Slickdeals: cologne",
+  "urgent": false,
+  "hot": false,
+  "pct": 20,
+  "price": 31.19,
+  "found_at": "2026-11-15T03:01:11Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20269884-3-piece-davidoff-cool-water-men-s-cologne-gift-set-31-19-davidoff-cool-water-women-s-3-piece-gift-set-33-59-free-shipping-w-prime-or-6-fee-per-order?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=3-Piece+Davidoff+Cool+Water+Men%27s+Cologne+Gift+Set",
+  "exact": false
+ },
+ {
+  "id": "0c70a49fd65f8508",
+  "title": "4-Piece Dolce & Gabbana Eau de Parfum Mini Gift Set $35, Gucci $68 & More + Free Store Pickup at Macy's or Free Shipping on $39+",
+  "url": "https://www.macys.com/shop/featured/4-Piece%20Dolce%20%26%20Gabbana%20Eau%20de%20Parfum%20Mini%20Gift%20Set",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 6.18,
-  "found_at": "2026-11-15T02:55:49Z"
+  "price": 35.0,
+  "found_at": "2026-11-15T03:01:11Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20291130-4-piece-dolce-gabbana-eau-de-parfum-mini-gift-set-35-gucci-68-more-free-store-pickup-at-macy-s-or-free-shipping-on-39?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/4-Piece%20Dolce%20%26%20Gabbana%20Eau%20de%20Parfum%20Mini%20Gift%20Set",
+  "exact": false
  },
  {
-  "id": "fd2f9f7481429509",
-  "title": "JOYROOM 15W Magsafe Car Mount Charger with 360° Rotating Base for iPhone $13.99 AC",
-  "url": "https://slickdeals.net/f/20306007-joyroom-15w-magsafe-car-mount-charger-with-360-rotating-base-for-iphone-13-99-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "61d42184338e60e2",
+  "title": "$13.29 | Beats 240W USB-C to USB-C Braided Cable (3 m/10 ft) at Amazon",
+  "url": "https://slickdeals.net/f/20272521-13-29-beats-240w-usb-c-to-usb-c-braided-cable-3-m-10-ft-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 13.99,
-  "found_at": "2026-11-15T02:55:49Z"
+  "price": 13.29,
+  "found_at": "2026-11-15T03:04:06Z"
  },
  {
-  "id": "8a7f87ce42eca68f",
-  "title": "EUCOS 62\" Tripod for iPhone, Sturdy Selfie Stick Tripod with Remote & Lightweight Phone Stand, Solidest Portable Cell Phone Tripod, Compatible iPhone Pro Max/Android [White] $15.49",
-  "url": "https://slickdeals.net/f/20299314-eucos-62-tripod-for-iphone-sturdy-selfie-stick-tripod-with-remote-lightweight-phone-stand-solidest-portable-cell-phone-tripod-compatible-iphone-pro-max-android-white-15-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "id": "a54b5b98aa549e29",
+  "title": "Beats 240W USB-C to USB-C Braided Cable, Fast Charging, Durable/Tangle Free, Compatible with Apple and Android Devices (3 m/10 ft) – Bolt Black $12.62",
+  "url": "https://slickdeals.net/f/20269878-beats-240w-usb-c-to-usb-c-braided-cable-fast-charging-durable-tangle-free-compatible-with-apple-and-android-devices-3-m-10-ft-bolt-black-12-62?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "why": "",
-  "category": "tech",
-  "source": "Web search: iPhone deal",
+  "category": "amazon",
+  "source": "Web search: Beats deal",
   "urgent": false,
   "hot": false,
   "pct": null,
-  "price": 15.49,
-  "found_at": "2026-11-15T02:55:49Z"
+  "price": 12.62,
+  "found_at": "2026-11-15T03:04:06Z"
+ },
+ {
+  "id": "36bb0c22ce6a958c",
+  "title": "JBL PartyBox Encore 2 Portable Party Speaker with 2 Mics $199",
+  "url": "https://slickdeals.net/f/20310621-jbl-partybox-encore-2-portable-party-speaker-with-2-mics-199?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: JBL deal",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.0,
+  "found_at": "2026-11-15T03:04:08Z"
+ },
+ {
+  "id": "c09a63cc63019683",
+  "title": "JBL Bar 500 Hits an All-Time Low, Now Just $20 More Than a Used Model for a Brand-New Dolby Atmos Soundbar",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9212922334ca785c06d591e403f12&url=https%3a%2f%2fkotaku.com%2fjbl-bar-500-hits-an-all-time-low-now-just-20-more-than-a-used-model-for-a-brand-new-dolby-atmos-soundbar-2000754908&c=16521490580070972634&mkt=en-us",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: JBL record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.0,
+  "found_at": "2026-11-15T03:04:09Z"
+ },
+ {
+  "id": "925acdedb67c5153",
+  "title": "JBL's Latest Portable Party Speaker Is $150 Off in This Early Black Friday Deal",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9212922334ca785c06d591e403f12&url=https%3a%2f%2flifehacker.com%2ftech%2fjbl-partybox-330-speaker-sale-early-black-friday-2026&c=2238195618791887008&mkt=en-us",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: JBL record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 150.0,
+  "found_at": "2026-11-15T03:04:09Z"
+ },
+ {
+  "id": "4cbaa09c4b4a9659",
+  "title": "Our favorite JBL Bluetooth speaker is $50 off for Black Friday – an all-time low price",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9212922334ca785c06d591e403f12&url=https%3a%2f%2fwww.zdnet.com%2fhome-and-office%2fjbl-charge-6-speaker-black-friday-deal%2f&c=14350993282446533472&mkt=en-us",
+  "why": "",
+  "category": "amazon",
+  "source": "Web search: JBL record low",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 50.0,
+  "found_at": "2026-11-15T03:04:09Z"
  }
 ]
