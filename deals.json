@@ -1,58 +1,5 @@
 [
  {
-  "id": "89224b9524b4bda1",
-  "title": "Sony - WH-1000XM6- Best Wireless Noise Cancelling Headphones - All Colors $348",
-  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Sony+-+WH-1000XM6-+Best+Wireless+Noise+Cancelling+Headphones+-+All+Colors",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Sony Headphones",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 348.0,
-  "found_at": "2026-11-21T16:07:44Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20340822-sony-wh-1000xm6-best-wireless-noise-cancelling-headphones-all-colors-348?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Bestbuy",
-  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Sony+-+WH-1000XM6-+Best+Wireless+Noise+Cancelling+Headphones+-+All+Colors",
-  "exact": false,
-  "checked_at": "2026-11-22T07:59:36Z"
- },
- {
-  "id": "905045a153b87879",
-  "title": "[AC] $188 | Sony WH-1000XM4C (M4 2nd Gen) Wireless Noise Cancelling Headphones, Black at Amazon",
-  "url": "https://slickdeals.net/f/20340492-ac-188-sony-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Sony Headphones",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 188.0,
-  "found_at": "2026-11-21T16:07:44Z",
-  "link_tried3": true,
-  "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=",
-  "checked_at": "2026-11-22T07:59:38Z"
- },
- {
-  "id": "665bc2cf465ee68d",
-  "title": "[AC] $149.99 | Sony WH-1000XM4C (M4 2nd Gen) Wireless Noise Cancelling Headphones, Black at Amazon",
-  "url": "https://slickdeals.net/f/20339511-ac-149-99-sony-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-black-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Sony Headphones",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 149.99,
-  "found_at": "2026-11-21T16:07:44Z",
-  "link_tried3": true,
-  "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=",
-  "checked_at": "2026-11-22T07:59:39Z"
- },
- {
   "id": "1904544b377d3753",
   "title": "$548 | Sony 1000X THE COLLEXION Wireless Noise Cancelling Headphones at Amazon",
   "url": "https://slickdeals.net/f/20339073-548-sony-1000x-the-collexion-wireless-noise-cancelling-headphones-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
@@ -283,7 +230,8 @@
   "source_url": "https://slickdeals.net/f/19419156-certified-refurbished-sony-16mm-f-2-8-wide-angle-lens-for-nex-series-cameras-161?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Certified+Refurbished+Sony+16mm+f+2.8+Wide-Angle+Lens+for+NEX+Series+Cameras",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:05Z"
  },
  {
   "id": "240617761bcc1f65",
@@ -300,7 +248,8 @@
   "source_url": "https://slickdeals.net/f/19415043-sony-alpha-a6400-mirrorless-camera-ilce-6400-b-body-848-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+Alpha+a6400+Mirrorless+Camera+ILCE-6400+B+Body",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:07Z"
  },
  {
   "id": "b7ceb4ad02468d92",
@@ -317,7 +266,8 @@
   "source_url": "https://slickdeals.net/f/20273337-tcl-85-inch-class-x11l-sqd-mini-led-85x11l-2026-model-144hz-ultimate-brightness-contrast-dolby-vision-gemini-ai-smart-google-tv-3848-6?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TCL+85+Inch+Class+X11L+SQD-Mini+LED+85X11L+2026+Model+144HZ+Ultimate+Brightness+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:09Z"
  },
  {
   "id": "3b39066567ce0d2d",
@@ -335,7 +285,8 @@
   "source_url": "https://slickdeals.net/f/20245872-tcl-q85k-7-1-2-channel-dolby-atmos-soundbar-with-wireless-subwoofer-audio-by-bang-olufsen-dts-x-hdmi-2-1-4k-144hz-pass-through-apple-airplay-2-google-cast-999-99-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=TCL+Q85K+7.1.2-Channel+Dolby+Atmos+Soundbar+with+Wireless+Subwoofer+Audio+by+Ban",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:11Z"
  },
  {
   "id": "714c830c94d14ad6",
@@ -353,7 +304,8 @@
   "source_url": "https://slickdeals.net/f/20160051-tcl-q85k-7-1-2-channel-dolby-atmos-soundbar-with-wireless-subwoofer-audio-by-bang-olufsen-dts-x-hdmi-2-1-4k-144hz-pass-through-apple-airplay-2-google-cast-1050-77?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=TCL+Q85K+7.1.2-Channel+Dolby+Atmos+Soundbar+with+Wireless+Subwoofer+Audio+by+Ban",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:12Z"
  },
  {
   "id": "3e5f4bc8dc7dad27",
@@ -371,7 +323,8 @@
   "source_url": "https://slickdeals.net/f/20114142-65-tcl-qm8l-144hz-4k-qled-mini-led-smart-tv-10-back-w-prime-visa-1078-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=65+TCL+QM8L+144Hz+4K+QLED+Mini+LED+Smart+TV+%2B+10+Back+w+Prime+Visa",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:14Z"
  },
  {
   "id": "d1a978edb9925e31",
@@ -387,7 +340,8 @@
   "found_at": "2026-11-21T16:07:44Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-22T08:07:15Z"
  },
  {
   "id": "b1101d6eb1f361a5",
@@ -404,7 +358,8 @@
   "source_url": "https://slickdeals.net/f/20101152-tcl-75-qm7l-series-sqd-mini-led-qled-smart-google-tv-new-2026-998?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TCL+75+QM7L+Series+SQD-Mini+LED+QLED+Smart+Google+TV",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:17Z"
  },
  {
   "id": "ec1ffb5dd3f31654",
@@ -421,7 +376,8 @@
   "source_url": "https://slickdeals.net/f/20100990-tcl-98-inch-class-qm7l-series-sqd-mini-led-qled-smart-tv-98qm7l-2197-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=TCL+98+Inch+Class+QM7L+Series+SQD-Mini-LED+QLED+Smart+TV+98QM7L",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:18Z"
  },
  {
   "id": "bc2449e7ba9c9125",
@@ -439,7 +395,8 @@
   "source_url": "https://slickdeals.net/f/20058426-tcl-65-inch-class-qm8l-series-sqd-mini-led-qled-smart-tv-65qm8l-2026-model-144hz-1497-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=TCL+65+Inch+Class+QM8L+Series+SQD-Mini-LED+QLED+Smart+TV+65QM8L+2026+Model+144Hz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:20Z"
  },
  {
   "id": "6d57136e8b5357db",
@@ -457,7 +414,8 @@
   "source_url": "https://9to5mac.com/2026/11/20/black-friday-airpods-max-2-airpods-pro-3-macbook-air/",
   "store": "Link",
   "similar": "https://link.amazon/B0f5M9hKp",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:20Z"
  },
  {
   "id": "5b43baa772dedc63",
@@ -475,7 +433,8 @@
   "source_url": "https://9to5mac.com/2026/11/20/beats-black-friday-deals-100-off-new-beats-360-powerbeats-more-up-to-53-off/",
   "store": "Link",
   "similar": "https://link.amazon/B0f0l4IWA",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:20Z"
  },
  {
   "id": "bb08a63dd3786266",
@@ -493,7 +452,8 @@
   "source_url": "https://9to5mac.com/2026/11/20/best-apple-black-friday-deals-now-live/",
   "store": "Link",
   "similar": "https://link.amazon/B08nZyOmA",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:21Z"
  },
  {
   "id": "8ddcaa646d281151",
@@ -511,7 +471,8 @@
   "source_url": "https://9to5mac.com/2026/11/19/black-friday-week-deals-macbook-neo-m6-pro-proled/",
   "store": "Link",
   "similar": "https://link.amazon/B0fvR7vL0",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:21Z"
  },
  {
   "id": "02b581038db5a502",
@@ -529,7 +490,8 @@
   "source_url": "https://9to5mac.com/2026/11/19/macbook-pro-proled-macbook-neo-more-the-best-amazon-black-friday-deals-on-macs/",
   "store": "Link",
   "similar": "https://link.amazon/B0hSeWyx8",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-22T08:07:22Z"
  },
  {
   "id": "77f5f7466f25b96e",
@@ -28029,7 +27991,7 @@
  {
   "id": "8d5326530eb955fb",
   "title": "New York to Cancun Mexico $316 RT Nonstop Airfares on Jetblue Basic (Travel September - November 2022)",
-  "url": "https://slickdeals.net/f/15810079-new-york-to-cancun-mexico-316-rt-nonstop-airfares-on-jetblue-basic-travel-september-november-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDktMDZqBRIDTllDcgUSA0NVThoaEgoyMDI3LTA5LTExagUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -28049,12 +28011,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "5e308e66b34d1a8d",
   "title": "NYC to Cancun, Mexico non stop, roundtrip (January-March dates) $141",
-  "url": "https://slickdeals.net/e/14717390-nyc-to-cancun-mexico-non-stop-roundtrip-january-march-dates-141?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDhqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTE2agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -28074,7 +28037,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "67f8969f825d4068",
@@ -34674,6 +34638,88 @@
   "hot": false,
   "pct": null,
   "price": 58.42,
-  "found_at": "2026-11-22T08:00:11Z"
+  "found_at": "2026-11-22T08:00:11Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "707f9dbc04f49b13",
+  "title": "5-Oz Kristin Ess Hair Weightless Shine Air Dry Cream for Curl Definition & Frizz Control $7.98 w/ S&S + Free Shipping w/ Prime or on $35+",
+  "url": "https://www.amazon.com/s?k=5-Oz+Kristin+Ess+Hair+Weightless+Shine+Air+Dry+Cream+for+Curl+Definition+%26+Frizz",
+  "why": "",
+  "category": "amazon",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": 5,
+  "price": 7.98,
+  "found_at": "2026-11-22T08:05:22Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20366991-5-oz-kristin-ess-hair-weightless-shine-air-dry-cream-for-curl-definition-frizz-control-7-98-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=5-Oz+Kristin+Ess+Hair+Weightless+Shine+Air+Dry+Cream+for+Curl+Definition+%26+Frizz",
+  "exact": false
+ },
+ {
+  "id": "ff35cdc4a36c5811",
+  "title": "$998 AMAZON Hisense 75\" U7 Mini-LED ULED 4K UHD Best Premium Gaming HDR Smart Google TV (75U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+",
+  "url": "https://slickdeals.net/f/20367813-998-amazon-hisense-75-u7-mini-led-uled-4k-uhd-best-premium-gaming-hdr-smart-google-tv-75u7sg-2026-new-hi-qled-native-165hz-vrr-330-hdr10?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 998.0,
+  "found_at": "2026-11-22T08:05:22Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "8addac4bd2e9f72d",
+  "title": "$499.99 FS AMAZON Nintendo Switch 2 + Mario Kart World Bundle (includes 3-month NSO Individual Membership)",
+  "url": "https://slickdeals.net/f/20367801-499-99-fs-amazon-nintendo-switch-2-mario-kart-world-bundle-includes-3-month-nso-individual-membership?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 499.99,
+  "found_at": "2026-11-22T08:05:22Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "564bee80e92fc7fc",
+  "title": "$499.99 FS AMAZON Nintendo Switch 2 + Mario Kart World Bundle (includes 3-month NSO Individual Membership)",
+  "url": "https://slickdeals.net/f/20367801-499-99-fs-amazon-nintendo-switch-2-mario-kart-world-bundle-includes-3-month-nso-individual-membership?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Nintendo Switch",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 499.99,
+  "found_at": "2026-11-22T08:05:22Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "95106c6191926ed3",
+  "title": "$54.98 FS AMAZON Versace Pour Homme Dylan Blue for Men 3.4 oz Eau de Toilette Spray",
+  "url": "https://slickdeals.net/f/20323377-54-98-fs-amazon-versace-pour-homme-dylan-blue-for-men-3-4-oz-eau-de-toilette-spray?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Versace sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.98,
+  "found_at": "2026-11-22T08:07:37Z"
  }
 ]
