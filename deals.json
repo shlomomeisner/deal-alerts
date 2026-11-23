@@ -1,778 +1,5 @@
 [
  {
-  "id": "65073b73202f9837",
-  "title": "Cathay Pacific: New York – Da Nang, Vietnam. $896. Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGI2VFpDLXZuMHFPb3hkVHlpQmhmUGdVdk4td2JPRVVXaDdCYmJPY3JmeThJaFA1Y0hhV2NQZUJDRnBVcFVMMUxnNjJ1TjJLOHEwM0dVRExUcWtlREdXNTFxTkVmNGM3UDYxSTRlamliaDM0ZUhvVVQ5UHBuRld3N0RnWUtGNGR0S2twWnNsX3ljQkxqM2xtdnNYaEtjSmN2UEJLejF4NWEyMlZpZUlJSXJLYVljUQ?oc=5",
-  "why": "",
-  "category": "flights",
-  "source": "Google: Flight Deal NYC",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 896.0,
-  "found_at": "2026-11-22T21:13:17Z",
-  "dates_tried3": true,
-  "depart": "2027-09-06",
-  "return": "2027-09-14",
-  "window": "September 6th – 14th, 2027",
-  "route_fixed2": true,
-  "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGI2VFpDLXZuMHFPb3hkVHlpQmhmUGdVdk4td2JPRVVXaDdCYmJPY3JmeThJaFA1Y0hhV2NQZUJDRnBVcFVMMUxnNjJ1TjJLOHEwM0dVRExUcWtlREdXNTFxTkVmNGM3UDYxSTRlamliaDM0ZUhvVVQ5UHBuRld3N0RnWUtGNGR0S2twWnNsX3ljQkxqM2xtdnNYaEtjSmN2UEJLejF4NWEyMlZpZUlJSXJLYVljUQ?oc=5",
-  "fcode": [
-   "NYC",
-   null
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Da%20Nang%2C%20Vietnam&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:11:53Z"
- },
- {
-  "id": "ea4bacfc08829019",
-  "title": "Round Trip New York to Aruba $351 Nonstop Airfares on JetBlue BE (Travel November - February 2027)",
-  "url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 351.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "November - February 2027) - 2026-10-14",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/20157429-round-trip-new-york-to-aruba-351-nonstop-airfares-on-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "picked": true,
-  "depart": "2027-02-09",
-  "return": "2027-02-14",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:11:54Z"
- },
- {
-  "id": "e90d9eeb8b392d4b",
-  "title": "Round Trip New York to Aruba $357 Nonstop Airfares on JetBlue BE (Travel October - December 2026)",
-  "url": "https://slickdeals.net/f/19941606-round-trip-new-york-to-aruba-357-nonstop-airfares-on-jetblue-be-travel-october-december-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 357.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "October - December 2026) - 2026-08-29",
-  "depart": "2027-10-12",
-  "return": "2027-10-17",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/19941606-round-trip-new-york-to-aruba-357-nonstop-airfares-on-jetblue-be-travel-october-december-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:11:56Z"
- },
- {
-  "id": "fd36e3551f518473",
-  "title": "Round Trip New York to Aruba $347 Nonstop Airfares on Delta Air Lines BE (Travel September - October 2026)",
-  "url": "https://slickdeals.net/f/19631607-round-trip-new-york-to-aruba-347-nonstop-airfares-on-delta-air-lines-be-travel-september-october-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 347.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September - October 2026) - 2026-06-15",
-  "depart": "2027-09-01",
-  "return": "2027-09-06",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/19631607-round-trip-new-york-to-aruba-347-nonstop-airfares-on-delta-air-lines-be-travel-september-october-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:11:57Z"
- },
- {
-  "id": "232d1739ea0b1dd9",
-  "title": "Round Trip New York to Aruba $336 Nonstop Airfares on JetBlue BE (Travel September 2026)",
-  "url": "https://slickdeals.net/f/19590948-round-trip-new-york-to-aruba-336-nonstop-airfares-on-jetblue-be-travel-september-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 336.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September 2026) - 2026-06-03",
-  "depart": "2027-08-25",
-  "return": "2027-08-31",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/19590948-round-trip-new-york-to-aruba-336-nonstop-airfares-on-jetblue-be-travel-september-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:00Z"
- },
- {
-  "id": "38bb16710f66f153",
-  "title": "RT New York to Aruba $281 Nonstop Airfares on JetBlue or Delta Air Lines BE (Travel September - November 2025)",
-  "url": "https://slickdeals.net/f/18593878-rt-new-york-to-aruba-281-nonstop-airfares-on-jetblue-or-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 281.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September - November 2025) - 2025-09-09",
-  "depart": "2027-10-06",
-  "return": "2027-10-11",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/18593878-rt-new-york-to-aruba-281-nonstop-airfares-on-jetblue-or-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:01Z"
- },
- {
-  "id": "8f6df73708afcb2b",
-  "title": "RT New York to Aruba $281 Nonstop Airfares on JetBlue or Delta Air Lines BE (Travel September - November 2025)",
-  "url": "https://slickdeals.net/f/18491425-rt-new-york-to-aruba-281-nonstop-airfares-on-jetblue-or-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 281.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September - November 2025) - 2025-07-29",
-  "depart": "2027-09-01",
-  "return": "2027-09-05",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/18491425-rt-new-york-to-aruba-281-nonstop-airfares-on-jetblue-or-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:04Z"
- },
- {
-  "id": "472862f5ba3511e9",
-  "title": "RT New York to Aruba $281 Nonstop Airfares on Delta Air Lines BE (Travel September - November 2025)",
-  "url": "https://slickdeals.net/f/18382405-rt-new-york-to-aruba-281-nonstop-airfares-on-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 281.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September - November 2025) - 2025-06-15",
-  "depart": "2027-09-01",
-  "return": "2027-09-03",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/18382405-rt-new-york-to-aruba-281-nonstop-airfares-on-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:06Z"
- },
- {
-  "id": "9d3bb5e4ad68c68c",
-  "title": "RT New York to Aruba $317 Nonstop Airfares on Delta Air Lines BE (Travel September - November 2025)",
-  "url": "https://slickdeals.net/f/18349393-rt-new-york-to-aruba-317-nonstop-airfares-on-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 317.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September - November 2025) - 2025-05-30",
-  "depart": "2027-09-03",
-  "return": "2027-09-05",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/18349393-rt-new-york-to-aruba-317-nonstop-airfares-on-delta-air-lines-be-travel-september-november-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:07Z"
- },
- {
-  "id": "d1dd3a07bf3543d8",
-  "title": "RT New York to Aruba $254 Nonstop Airfares on JetBlue BE (Travel October - December 2024)",
-  "url": "https://slickdeals.net/f/17779137-rt-new-york-to-aruba-254-nonstop-airfares-on-jetblue-be-travel-october-december-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 254.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "October - December 2024) - 2024-09-25",
-  "depart": "2027-10-14",
-  "return": "2027-10-16",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/17779137-rt-new-york-to-aruba-254-nonstop-airfares-on-jetblue-be-travel-october-december-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:09Z"
- },
- {
-  "id": "4787fad9178f4e21",
-  "title": "RT New York to Aruba $252 Nonstop Airfares on Delta Air Lines BE (Travel September - October 2024)",
-  "url": "https://slickdeals.net/f/17470728-rt-new-york-to-aruba-252-nonstop-airfares-on-delta-air-lines-be-travel-september-october-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 252.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September - October 2024) - 2024-05-03",
-  "depart": "2027-09-02",
-  "return": "2027-09-05",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/17470728-rt-new-york-to-aruba-252-nonstop-airfares-on-delta-air-lines-be-travel-september-october-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:11Z"
- },
- {
-  "id": "4a279f840b46fe31",
-  "title": "RT New York to Aruba $294 Nonstop Airfares on Delta or JetBlue BE (Travel August-March 2025)",
-  "url": "https://slickdeals.net/f/17453607-rt-new-york-to-aruba-294-nonstop-airfares-on-delta-or-jetblue-be-travel-august-march-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 294.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "August-March 2025) - 2024-04-25",
-  "depart": "2027-08-27",
-  "return": "2027-09-01",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/17453607-rt-new-york-to-aruba-294-nonstop-airfares-on-delta-or-jetblue-be-travel-august-march-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:13Z"
- },
- {
-  "id": "34cfd23e7e5cbe28",
-  "title": "RT New York to Aruba $293 Nonstop Airfares on Delta or JetBlue BE (Travel March-June; September-December 2024)",
-  "url": "https://slickdeals.net/f/17322076-rt-new-york-to-aruba-293-nonstop-airfares-on-delta-or-jetblue-be-travel-march-june-september-december-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 293.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "March-June; September-December 2024) - 2024-02-28",
-  "depart": "2027-04-08",
-  "return": "2027-04-13",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/17322076-rt-new-york-to-aruba-293-nonstop-airfares-on-delta-or-jetblue-be-travel-march-june-september-december-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:14Z"
- },
- {
-  "id": "57706a2fa60e3879",
-  "title": "New York to Aruba $368 RT Nonstop Airfares on JetBlue Basic (Travel September - December 2023)",
-  "url": "https://slickdeals.net/f/16827833-new-york-to-aruba-368-rt-nonstop-airfares-on-jetblue-basic-travel-september-december-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 368.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "September - December 2023) - 2023-07-30",
-  "depart": "2027-09-01",
-  "return": "2027-09-16",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/16827833-new-york-to-aruba-368-rt-nonstop-airfares-on-jetblue-basic-travel-september-december-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:16Z"
- },
- {
-  "id": "ad4fbf618ca39487",
-  "title": "New York to Aruba $290 RT Nonstop Airfares on JetBlue Basic (Travel November - January 2023)",
-  "url": "https://slickdeals.net/f/16102573-new-york-to-aruba-290-rt-nonstop-airfares-on-jetblue-basic-travel-november-january-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 290.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "November - January 2023) - 2022-10-13",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/16102573-new-york-to-aruba-290-rt-nonstop-airfares-on-jetblue-basic-travel-november-january-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "picked": true,
-  "depart": "2026-12-08",
-  "return": "2026-12-13",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD",
-  "checked_at": "2026-11-23T22:12:18Z"
- },
- {
-  "id": "a14d99b73c433ddf",
-  "title": "New York to Aruba $330 RT Nonstop Airfares on JetBlue Basic (Travel November - March 2023)",
-  "url": "https://slickdeals.net/f/15979762-new-york-to-aruba-330-rt-nonstop-airfares-on-jetblue-basic-travel-november-march-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 330.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "November - March 2023) - 2022-08-15",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/15979762-new-york-to-aruba-330-rt-nonstop-airfares-on-jetblue-basic-travel-november-march-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "picked": true,
-  "depart": "2026-12-08",
-  "return": "2026-12-13",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "b31779647905586a",
-  "title": "New York to Aruba $310 RT Nonstop Airfares on JetBlue Basic (Limited Travel August - October 2022)",
-  "url": "https://slickdeals.net/f/15867952-new-york-to-aruba-310-rt-nonstop-airfares-on-jetblue-basic-limited-travel-august-october-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 310.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "August - October 2022) - 2022-06-25",
-  "depart": "2027-09-07",
-  "return": "2027-09-09",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/15867952-new-york-to-aruba-310-rt-nonstop-airfares-on-jetblue-basic-limited-travel-august-october-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "1c781b794a8e6051",
-  "title": "New York to Aruba $315 RT Nonstop on JetBlue or Delta Airlines BE (Travel October-November 2019)",
-  "url": "https://slickdeals.net/e/13429603-new-york-to-aruba-315-rt-nonstop-on-jetblue-or-delta-airlines-be-travel-october-november-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Aruba flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 315.0,
-  "found_at": "2026-11-22T21:16:46Z",
-  "window": "October-November 2019)",
-  "depart": "2027-10-21",
-  "return": "2027-10-26",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/e/13429603-new-york-to-aruba-315-rt-nonstop-on-jetblue-or-delta-airlines-be-travel-october-november-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "AUA"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AUA&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "fadcf7f081cb49b0",
-  "title": "Round Trip New York to Montego Bay Jamaica $318 Nonstop Airfares on JetBlue or American Airlines BE (Travel September - February 2027)",
-  "url": "https://slickdeals.net/f/19353576-round-trip-new-york-to-montego-bay-jamaica-318-nonstop-airfares-on-jetblue-or-american-airlines-be-travel-september-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Jamaica flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 318.0,
-  "found_at": "2026-11-22T21:16:49Z",
-  "window": "September - February 2027) - 2026-03-27",
-  "depart": "2027-10-03",
-  "return": "2027-10-06",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/19353576-round-trip-new-york-to-montego-bay-jamaica-318-nonstop-airfares-on-jetblue-or-american-airlines-be-travel-september-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "MBJ"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "56a3c69114c95be4",
-  "title": "RT New York or New Jersey to Montego Bay Jamaica $299 Nonstop Airfares on American JetBlue or United Airlines BE (Travel January - March 2025)",
-  "url": "https://slickdeals.net/f/17977851-rt-new-york-or-new-jersey-to-montego-bay-jamaica-299-nonstop-airfares-on-american-jetblue-or-united-airlines-be-travel-january-march-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Jamaica flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 299.0,
-  "found_at": "2026-11-22T21:16:49Z",
-  "window": "January - March 2025) - 2024-12-09",
-  "depart": "2027-01-10",
-  "return": "2027-01-14",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/17977851-rt-new-york-or-new-jersey-to-montego-bay-jamaica-299-nonstop-airfares-on-american-jetblue-or-united-airlines-be-travel-january-march-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20York%20or%20New%20Jersey%20to%20Montego%20Bay%20Jamaica"
- },
- {
-  "id": "32d0c48c7bf43039",
-  "title": "RT New York to Montego Bay Jamaica $297 Nonstop Airfares on Delta or American Airlines BE (Travel January - March 2024)",
-  "url": "https://slickdeals.net/f/17214064-rt-new-york-to-montego-bay-jamaica-297-nonstop-airfares-on-delta-or-american-airlines-be-travel-january-march-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Jamaica flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 297.0,
-  "found_at": "2026-11-22T21:16:49Z",
-  "window": "January - March 2024) - 2024-01-04",
-  "depart": "2027-02-04",
-  "return": "2027-02-07",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/17214064-rt-new-york-to-montego-bay-jamaica-297-nonstop-airfares-on-delta-or-american-airlines-be-travel-january-march-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "MBJ"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "608f6e9e30b58710",
-  "title": "New York to Montego Bay Jamaica $270 RT Nonstop Airfares on Delta Air Lines BE (Travel September - October 2023)",
-  "url": "https://slickdeals.net/f/16651661-new-york-to-montego-bay-jamaica-270-rt-nonstop-airfares-on-delta-air-lines-be-travel-september-october-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Jamaica flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 270.0,
-  "found_at": "2026-11-22T21:16:49Z",
-  "window": "September - October 2023) - 2023-05-15",
-  "depart": "2027-09-20",
-  "return": "2027-09-22",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/16651661-new-york-to-montego-bay-jamaica-270-rt-nonstop-airfares-on-delta-air-lines-be-travel-september-october-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "MBJ"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "f14fd0b9a8f9c1db",
-  "title": "New York to Kingston Jamaica $366 RT Nonstop Airfares on Caribbean Airlines (Travel January 2024)",
-  "url": "https://slickdeals.net/f/16621265-new-york-to-kingston-jamaica-366-rt-nonstop-airfares-on-caribbean-airlines-travel-january-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Jamaica flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 366.0,
-  "found_at": "2026-11-22T21:16:49Z",
-  "window": "January 2024) - 2023-05-01",
-  "depart": "2027-01-01",
-  "return": "2027-01-03",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/16621265-new-york-to-kingston-jamaica-366-rt-nonstop-airfares-on-caribbean-airlines-travel-january-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "KIN"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20KIN&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "10c0aac5031db827",
-  "title": "New York to Montego Bay Jamaica $326 RT Airfares on JetBlue and Delta Air Lines BE (Travel September - October 2022)",
-  "url": "https://slickdeals.net/f/15708862-new-york-to-montego-bay-jamaica-326-rt-airfares-on-jetblue-and-delta-air-lines-be-travel-september-october-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Jamaica flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 326.0,
-  "found_at": "2026-11-22T21:16:49Z",
-  "window": "September - October 2022) - 2022-04-04",
-  "depart": "2027-09-06",
-  "return": "2027-09-09",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/15708862-new-york-to-montego-bay-jamaica-326-rt-airfares-on-jetblue-and-delta-air-lines-be-travel-september-october-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "fcode": [
-   "NYC",
-   "MBJ"
-  ],
-  "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
- },
- {
-  "id": "a33c81c48277fe20",
-  "title": "Houston to Montego Bay Jamaica $297 RT Airfares on Delta Airlines BE (Travel January - May 2022)",
-  "url": "https://slickdeals.net/f/15175531-houston-to-montego-bay-jamaica-297-rt-airfares-on-delta-airlines-be-travel-january-may-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "flights",
-  "source": "Web search: New York to Jamaica flight deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 297.0,
-  "found_at": "2026-11-22T21:16:49Z",
-  "window": "January - May 2022) - 2021-07-21",
-  "depart": "2027-02-01",
-  "return": "2027-02-02",
-  "route_fixed2": true,
-  "dates_tried3": true,
-  "source_url": "https://slickdeals.net/f/15175531-houston-to-montego-bay-jamaica-297-rt-airfares-on-delta-airlines-be-travel-january-may-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Houston%20to%20Montego%20Bay%20Jamaica"
- },
- {
-  "id": "7fb9b844427fdbaa",
-  "title": "Citizen Classic Mens Brown Leather Strap Watch Ca4632-07e $210",
-  "url": "https://slickdeals.net/f/20324286-citizen-classic-mens-brown-leather-strap-watch-ca4632-07e-210?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals Popular",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 210.0,
-  "found_at": "2026-11-22T21:22:25Z",
-  "source_url": "https://slickdeals.net/f/20324286-citizen-classic-mens-brown-leather-strap-watch-ca4632-07e-210?utm_source=rss&utm_content=ht&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Classic+Mens+Brown+Leather+Strap+Watch+Ca4632-07e",
-  "exact": false
- },
- {
-  "id": "9b32c6fa2caa0924",
-  "title": "Up to 50% Off Breitling Men's Watch Clearance at eBay",
-  "url": "https://www.ebay.com/sch/i.html?_nkw=Up+to+50+Off+Breitling+Men%27s+Watch+Clearance",
-  "why": "Breitling 50% off",
-  "category": "watches",
-  "source": "Slickdeals: Breitling",
-  "urgent": false,
-  "hot": true,
-  "pct": 50,
-  "price": null,
-  "found_at": "2026-11-22T21:22:25Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/19523064-up-to-50-off-breitling-men-s-watch-clearance-at-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Ebay",
-  "similar": "https://www.ebay.com/sch/i.html?_nkw=Up+to+50+Off+Breitling+Men%27s+Watch+Clearance",
-  "exact": false
- },
- {
-  "id": "661380e1eb51beef",
-  "title": "Breitling Men's Navitimer Automatic 41 Blue Dial Watch $4037.5",
-  "url": "https://www.ebay.com/sch/i.html?_nkw=Breitling+Men%27s+Navitimer+Automatic+41+Blue+Dial+Watch",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Breitling",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 4037.5,
-  "found_at": "2026-11-22T21:22:25Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/19521936-breitling-men-s-navitimer-automatic-41-blue-dial-watch-4037-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Ebay",
-  "similar": "https://www.ebay.com/sch/i.html?_nkw=Breitling+Men%27s+Navitimer+Automatic+41+Blue+Dial+Watch",
-  "exact": false
- },
- {
-  "id": "88b8745da58fdcea",
-  "title": "Deep Blue Daynight diver tritium automatic watch $150",
-  "url": "https://slickdeals.net/f/19516425-deep-blue-daynight-diver-tritium-automatic-watch-150?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Breitling",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 150.0,
-  "found_at": "2026-11-22T21:22:25Z",
-  "source_url": "https://slickdeals.net/f/19516425-deep-blue-daynight-diver-tritium-automatic-watch-150?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=Deep+Blue+Daynight+diver+tritium+automatic+watch",
-  "exact": false
- },
- {
-  "id": "92f39eddb85189d2",
-  "title": "Citizen Promaster Sky Perpetual World Time Brown Dial Men's Watch $234",
-  "url": "https://slickdeals.net/f/19501602-citizen-promaster-sky-perpetual-world-time-brown-dial-men-s-watch-234?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Breitling",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 234.0,
-  "found_at": "2026-11-22T21:22:25Z",
-  "source_url": "https://slickdeals.net/f/19501602-citizen-promaster-sky-perpetual-world-time-brown-dial-men-s-watch-234?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Promaster+Sky+Perpetual+World+Time+Brown+Dial+Men%27s+Watch",
-  "exact": false
- },
- {
-  "id": "93714543a93cd437",
-  "title": "Breitling Men's Navitimer Automatic 41 Watch $3695",
-  "url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Breitling",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 3695.0,
-  "found_at": "2026-11-22T21:22:25Z",
-  "source_url": "https://slickdeals.net/f/19478916-breitling-men-s-navitimer-automatic-41-watch-3695?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=Breitling+Men%27s+Navitimer+Automatic+41+Watch",
-  "exact": false
- },
- {
-  "id": "061b45677e00c2c8",
-  "title": "44mm Citizen Weekender Chronograph Blue Dial Men's Watch $164 + free s/h + more",
-  "url": "https://slickdeals.net/f/19191505-44mm-citizen-weekender-chronograph-blue-dial-men-s-watch-164-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Slickdeals: Breitling",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 164.0,
-  "found_at": "2026-11-22T21:22:25Z",
-  "source_url": "https://slickdeals.net/f/19191505-44mm-citizen-weekender-chronograph-blue-dial-men-s-watch-164-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Ajomashop.com+44mm+Citizen+Weekender+Chronograph+Blue+Dial+Men%27s+Watch",
-  "exact": false
- },
- {
-  "id": "5041633e89760d94",
-  "title": "Cricket wireless- iPhone 17e- New- $280 with 3 month plan",
-  "url": "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Slickdeals: Iphone",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 280.0,
-  "found_at": "2026-11-22T21:22:25Z",
-  "source_url": "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?tbm=shop&q=Cricket+wireless-+iPhone+17e-+-",
-  "exact": false
- },
- {
   "id": "8f071e1ac54fc747",
   "title": "Apple Gift Card up to $300 w/ Eligible Purchase - Apple",
   "url": "https://www.apple.com/us/search/Apple%20Gift%20Card%20up%20to",
@@ -788,7 +15,8 @@
   "source_url": "https://slickdeals.net/f/20358906-apple-gift-card-up-to-300-w-eligible-purchase-apple?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Gift%20Card%20up%20to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:00Z"
  },
  {
   "id": "e9d0869db2c4b4f5",
@@ -806,7 +34,8 @@
   "source_url": "https://slickdeals.net/f/20360223-starting-11-21-2026-4-50-pm-cst-apple-14-macbook-pro-w-m6-12-core-24gb-ram-1tb-ssd-space-black-1999?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo",
   "similar": "https://www.bhphotovideo.com/c/search?q=Apple+14+MacBook+Pro+w+M6+12-Core+24GB+RAM+%26+1TB+SSD",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:02Z"
  },
  {
   "id": "f0e5a3d19673baf6",
@@ -824,7 +53,8 @@
   "source_url": "https://slickdeals.net/f/20360187-starting-11-21-2026-4-50-pm-cst-apple-14-macbook-pro-w-m6-12-core-16gb-ram-1tb-ssd-space-black-1799-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Bhphotovideo",
   "similar": "https://www.bhphotovideo.com/c/search?q=Apple+14+MacBook+Pro+w+M6+12-Core+16GB+RAM+%26+1TB+SSD",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:03Z"
  },
  {
   "id": "18f383d3c3b9e17d",
@@ -842,7 +72,8 @@
   "source_url": "https://slickdeals.net/f/20358906-apple-gift-card-up-to-300-w-eligible-purchase-apple?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Gift%20Card%20up%20to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:04Z"
  },
  {
   "id": "4a4471e2474b39c2",
@@ -860,7 +91,8 @@
   "source_url": "https://slickdeals.net/f/20358906-apple-gift-card-up-to-300-w-eligible-purchase-apple?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Gift%20Card%20up%20to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:05Z"
  },
  {
   "id": "2a7a83c0d5281e90",
@@ -878,7 +110,8 @@
   "source_url": "https://slickdeals.net/f/20358906-apple-gift-card-up-to-300-w-eligible-purchase-apple?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Gift%20Card%20up%20to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:06Z"
  },
  {
   "id": "bf56de49544d7939",
@@ -896,7 +129,8 @@
   "source_url": "https://slickdeals.net/f/20358906-apple-gift-card-up-to-300-w-eligible-purchase-apple?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Apple",
   "similar": "https://www.apple.com/us/search/Apple%20Gift%20Card%20up%20to",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:07Z"
  },
  {
   "id": "d78fb4569ac4ec44",
@@ -914,7 +148,8 @@
   "source_url": "https://slickdeals.net/f/20358801-pugo-top-women-s-slim-stainless-steel-apple-watch-band-38-49mm-two-tone-8-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=PUGO+TOP+Women%27s+Slim+Stainless+Steel+Apple+Watch+Band",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:08Z"
  },
  {
   "id": "99b0f70fe4d1a182",
@@ -932,7 +167,8 @@
   "source_url": "https://slickdeals.net/f/20344617-gulikit-4k-tv-dock-station-for-nintendo-switch-2-switch-switch-oled-ns35-23-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=GuliKit+4K+TV+Dock+Station+for+Nintendo+Switch+2+Switch+Switch+OLED",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:10Z"
  },
  {
   "id": "dcfe625cc09bfd66",
@@ -950,7 +186,8 @@
   "source_url": "https://slickdeals.net/f/20332341-samsung-class-s90h-series-oled-4k-smart-tv-2026-model-samsung-vision-ai-glare-free-with-real-black-real-color-oled-hdr-various-sizes-1897-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Samsung+Class+S90H+Series+OLED+4K+Smart+TV+2026+Model+Samsung+Vision+AI+Glare+Fr",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:11Z"
  },
  {
   "id": "547c9f0f80e10eb6",
@@ -968,7 +205,8 @@
   "source_url": "https://slickdeals.net/f/20364759-skechers-women-s-squad-chaos-in-color-slip-ins-sneakers-select-sizes-5-6-5-24-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Skechers+Women%27s+Squad+Chaos+in+Color+Slip-ins+Sneakers",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-23T22:21:13Z"
  },
  {
   "id": "cba97fdc90b9f08b",
@@ -984,7 +222,8 @@
   "found_at": "2026-11-22T21:22:25Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-23T22:21:15Z"
  },
  {
   "id": "e78937a424ee3c8f",
@@ -23491,7 +22730,7 @@
  {
   "id": "ed9f385ed2f11c94",
   "title": "Cricket Galaxy S26 FE + 3 Months Service $230",
-  "url": "https://slickdeals.net/f/20363124-cricket-galaxy-s26-fe-3-months-service-230?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Cricket+Galaxy+S26+FE+%2B+3+Months+Service",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Samsung Galaxy",
@@ -23503,7 +22742,8 @@
   "source_url": "https://slickdeals.net/f/20363124-cricket-galaxy-s26-fe-3-months-service-230?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Cricket+Galaxy+S26+FE+%2B+3+Months+Service",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "18baea95be88ec15",
@@ -23560,7 +22800,7 @@
  {
   "id": "4f6358a047d72368",
   "title": "YMMV Bose QuietComfort Ultra 2nd generation headphones for $312 taxes included in MA ONLY till tomorrow on Bose website",
-  "url": "https://slickdeals.net/f/20330379-ymmv-bose-quietcomfort-ultra-2nd-generation-headphones-for-312-taxes-included-in-ma-only-till-tomorrow-on-bose-website?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+2nd+generation+headphones+for",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -23572,12 +22812,13 @@
   "source_url": "https://slickdeals.net/f/20330379-ymmv-bose-quietcomfort-ultra-2nd-generation-headphones-for-312-taxes-included-in-ma-only-till-tomorrow-on-bose-website?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+2nd+generation+headphones+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4d42024b4fd11668",
   "title": "Bose.com Extra 10% Off Black Friday Deals (Need to be signed In)",
-  "url": "https://slickdeals.net/f/20330151-bose-com-extra-10-off-black-friday-deals-need-to-be-signed-in?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose.com+Extra+10+Off+Black+Friday+Deals",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -23589,12 +22830,13 @@
   "source_url": "https://slickdeals.net/f/20330151-bose-com-extra-10-off-black-friday-deals-need-to-be-signed-in?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose.com+Extra+10+Off+Black+Friday+Deals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c337563ae8a291ee",
   "title": "Bose smart soundbar - As low as $274 after TAX with stacked discounts and Amex offer.",
-  "url": "https://slickdeals.net/f/20329617-bose-smart-soundbar-as-low-as-274-after-tax-with-stacked-discounts-and-amex-offer?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+smart+soundbar+-+As+low+as",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -23606,12 +22848,13 @@
   "source_url": "https://slickdeals.net/f/20329617-bose-smart-soundbar-as-low-as-274-after-tax-with-stacked-discounts-and-amex-offer?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+smart+soundbar+-+As+low+as",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5a3665f2e8ca7606",
   "title": "Bose SoundLink Flex 2nd Gen Portable Bluetooth Speaker (Blue Dusk) $89 + Free Shipping",
-  "url": "https://slickdeals.net/f/20327061-bose-soundlink-flex-2nd-gen-portable-bluetooth-speaker-blue-dusk-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+SoundLink+Flex+2nd+Gen+Portable+Bluetooth+Speaker",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -23623,12 +22866,13 @@
   "source_url": "https://slickdeals.net/f/20327061-bose-soundlink-flex-2nd-gen-portable-bluetooth-speaker-blue-dusk-89-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+SoundLink+Flex+2nd+Gen+Portable+Bluetooth+Speaker",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1ac652f282f4ae23",
   "title": "Scheels - 11/22-11/30 Garmin fēnix 8 AMOLED Smartwatch (White or Grey)",
-  "url": "https://slickdeals.net/f/20353560-scheels-11-22-11-30-garmin-f-nix-8-amoled-smartwatch-white-or-grey?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Scheels+-+11+22-11+30+Garmin+f+nix+8+AMOLED+Smartwatch",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Garmin",
@@ -23640,7 +22884,8 @@
   "source_url": "https://slickdeals.net/f/20353560-scheels-11-22-11-30-garmin-f-nix-8-amoled-smartwatch-white-or-grey?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Scheels+-+11+22-11+30+Garmin+f+nix+8+AMOLED+Smartwatch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8eb059af34e38c68",
@@ -23997,7 +23242,7 @@
  {
   "id": "b3b1be900fd8688b",
   "title": "Serengeti Men’s Masten Oval Sunglasses",
-  "url": "https://slickdeals.net/f/20351127-serengeti-men-s-masten-oval-sunglasses?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Serengeti+Men+s+Masten+Oval+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglasses",
@@ -24009,12 +23254,13 @@
   "source_url": "https://slickdeals.net/f/20351127-serengeti-men-s-masten-oval-sunglasses?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Serengeti+Men+s+Masten+Oval+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "24356c1a62af896f",
   "title": "Ray-Ban Clubmaster Classic Crystal Green Lens Sunglasses $91.99 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/20338131-ray-ban-clubmaster-classic-crystal-green-lens-sunglasses-91-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clubmaster+Classic+Crystal+Green+Lens+Sunglasses",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Sunglasses",
@@ -24026,12 +23272,13 @@
   "source_url": "https://slickdeals.net/f/20338131-ray-ban-clubmaster-classic-crystal-green-lens-sunglasses-91-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clubmaster+Classic+Crystal+Green+Lens+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1f608fa8cbbefa42",
   "title": "Under Armour Men's & Women's Sunglasses 60% Off from $31.85 + Free Shipping",
-  "url": "https://slickdeals.net/f/20335278-under-armour-men-s-women-s-sunglasses-60-off-from-31-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Under+Armour+Men%27s+%26+Women%27s+Sunglasses+60+Off+from",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglasses",
@@ -24043,12 +23290,13 @@
   "source_url": "https://slickdeals.net/f/20335278-under-armour-men-s-women-s-sunglasses-60-off-from-31-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Under+Armour+Men%27s+%26+Women%27s+Sunglasses+60+Off+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a3f7a7668bea7cc6",
   "title": "Ray-Ban Clearance Sale (Various Styles)",
-  "url": "https://slickdeals.net/f/20335173-ray-ban-clearance-sale-various-styles?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clearance",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglasses",
@@ -24060,7 +23308,8 @@
   "source_url": "https://slickdeals.net/f/20335173-ray-ban-clearance-sale-various-styles?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clearance",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fe601de85d5bf63f",
@@ -24101,7 +23350,7 @@
  {
   "id": "81a94940dac52c01",
   "title": "Oakley Youth Inverter Gaming Collection Glasses (Various Colors) $44 + Free Shipping on $50+",
-  "url": "https://slickdeals.net/f/20307750-oakley-youth-inverter-gaming-collection-glasses-various-colors-44-free-shipping-on-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Youth+Inverter+Gaming+Collection+Glasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglasses",
@@ -24113,7 +23362,8 @@
   "source_url": "https://slickdeals.net/f/20307750-oakley-youth-inverter-gaming-collection-glasses-various-colors-44-free-shipping-on-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Youth+Inverter+Gaming+Collection+Glasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7bd11b8c7e0e2e64",
@@ -24136,7 +23386,7 @@
  {
   "id": "143aaa1fac0b382e",
   "title": "Hugo Boss Sunglasses (Various Styles) $38 + Free Shipping",
-  "url": "https://slickdeals.net/f/20299233-hugo-boss-sunglasses-various-styles-38-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Sunglasses",
@@ -24148,12 +23398,13 @@
   "source_url": "https://slickdeals.net/f/20299233-hugo-boss-sunglasses-various-styles-38-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hugo+Boss+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dd2dbc7895812e49",
   "title": "Prada & Miu Miu Glasses / Sunglasses + Free Shipping $149",
-  "url": "https://slickdeals.net/f/18439933-prada-miu-miu-glasses-sunglasses-free-shipping-149?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Prada+%26+Miu+Miu+Glasses+Sunglasses+%2B",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Miu Miu",
@@ -24165,7 +23416,8 @@
   "source_url": "https://slickdeals.net/f/18439933-prada-miu-miu-glasses-sunglasses-free-shipping-149?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Prada+%26+Miu+Miu+Glasses+Sunglasses+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "02d6d5c0f08d2184",
@@ -24188,7 +23440,7 @@
  {
   "id": "0978b792dac7451a",
   "title": "CITIZEN Promaster Dive Eco-Drive Blue Dial 41mm Watch Jomashop App Req’d $274",
-  "url": "https://slickdeals.net/f/20370126-citizen-promaster-dive-eco-drive-blue-dial-41mm-watch-jomashop-app-req-d-274?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Dive+Eco-Drive+Blue+Dial+41mm+Watch+Jomashop+App+Req+d",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -24200,12 +23452,13 @@
   "source_url": "https://slickdeals.net/f/20370126-citizen-promaster-dive-eco-drive-blue-dial-41mm-watch-jomashop-app-req-d-274?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Dive+Eco-Drive+Blue+Dial+41mm+Watch+Jomashop+App+Req+d",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0a86b1c51135b37c",
   "title": "44mm Citizen Men's Eco-Drive Promaster Diver Stainless Steel Watch from $194 + Free S&H",
-  "url": "https://slickdeals.net/f/20366688-44mm-citizen-men-s-eco-drive-promaster-diver-stainless-steel-watch-from-194-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+44mm+Citizen+Men%27s+Eco-Drive+Promaster+Diver+Stainless+Steel+Watch+from",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -24217,7 +23470,8 @@
   "source_url": "https://slickdeals.net/f/20366688-44mm-citizen-men-s-eco-drive-promaster-diver-stainless-steel-watch-from-194-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+44mm+Citizen+Men%27s+Eco-Drive+Promaster+Diver+Stainless+Steel+Watch+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8cd886877a516338",
@@ -24240,7 +23494,7 @@
  {
   "id": "444e58ad83c2ed28",
   "title": "REFURBISHED Citizen Eco-Drive Men's Atomic Chronograph Calendar Watch 48MM $270.99",
-  "url": "https://slickdeals.net/f/20360157-refurbished-citizen-eco-drive-men-s-atomic-chronograph-calendar-watch-48mm-270-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=REFURBISHED+Citizen+Eco-Drive+Men%27s+Atomic+Chronograph+Calendar+Watch+48MM",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -24252,12 +23506,13 @@
   "source_url": "https://slickdeals.net/f/20360157-refurbished-citizen-eco-drive-men-s-atomic-chronograph-calendar-watch-48mm-270-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=REFURBISHED+Citizen+Eco-Drive+Men%27s+Atomic+Chronograph+Calendar+Watch+48MM",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a0530d0347e94596",
   "title": "Seller Refurb: 42.5mm Citizen Men's Zenshin Chrono Eco-Drive Super Titanium Watch $221 + Free S&H",
-  "url": "https://slickdeals.net/f/20360133-seller-refurb-42-5mm-citizen-men-s-zenshin-chrono-eco-drive-super-titanium-watch-221-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seller+Refurb+42.5mm+Citizen+Men%27s+Zenshin+Chrono+Eco-Drive+Super+Titanium+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -24269,12 +23524,13 @@
   "source_url": "https://slickdeals.net/f/20360133-seller-refurb-42-5mm-citizen-men-s-zenshin-chrono-eco-drive-super-titanium-watch-221-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seller+Refurb+42.5mm+Citizen+Men%27s+Zenshin+Chrono+Eco-Drive+Super+Titanium+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6cbc109ca5bd5d3a",
   "title": "REFURBISHED Citizen Men's Promaster Dive Eco-Drive Date Watch 44MM $152.99",
-  "url": "https://slickdeals.net/f/20360124-refurbished-citizen-men-s-promaster-dive-eco-drive-date-watch-44mm-152-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=REFURBISHED+Citizen+Men%27s+Promaster+Dive+Eco-Drive+Date+Watch+44MM",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -24286,7 +23542,8 @@
   "source_url": "https://slickdeals.net/f/20360124-refurbished-citizen-men-s-promaster-dive-eco-drive-date-watch-44mm-152-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=REFURBISHED+Citizen+Men%27s+Promaster+Dive+Eco-Drive+Date+Watch+44MM",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dfd6013559485a0a",
@@ -25920,7 +25177,7 @@
  {
   "id": "e3a37f7d2a3fbe48",
   "title": "Woot! App: $269.56 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
-  "url": "https://slickdeals.net/f/20290884-woot-app-269-56-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
   "why": "",
   "category": "tech",
   "source": "Web search: Woot Apple deal",
@@ -25932,7 +25189,8 @@
   "source_url": "https://slickdeals.net/f/20290884-woot-app-269-56-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7f9e3e63d0c83b65",
@@ -26023,7 +25281,7 @@
  {
   "id": "0eee1938e41e0337",
   "title": "Sannce 5MP 20x Zoom Pan and Tilt Security Camera for $80 + free shipping",
-  "url": "https://www.dealnews.com/products/Sannce/Sannce-5-MP-20-x-Zoom-Pan-and-Tilt-Security-Camera/562712.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Sannce+5MP+20x+Zoom+Pan+and+Tilt+Security+Camera+for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -26035,7 +25293,8 @@
   "source_url": "https://www.dealnews.com/products/Sannce/Sannce-5-MP-20-x-Zoom-Pan-and-Tilt-Security-Camera/562712.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sannce+5MP+20x+Zoom+Pan+and+Tilt+Security+Camera+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c87fe23cf9d79d11",
@@ -26212,7 +25471,7 @@
  {
   "id": "3fcde88b6666f327",
   "title": "Up to $500 Off select Sony A Full Frame Cameras w/ Trade-in & More:",
-  "url": "https://slickdeals.net/f/20244780-up-to-500-off-select-sony-a-full-frame-cameras-w-trade-in-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Up+to",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony A7",
@@ -26224,7 +25483,8 @@
   "source_url": "https://slickdeals.net/f/20244780-up-to-500-off-select-sony-a-full-frame-cameras-w-trade-in-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2eec4d9f0cf71e2d",
@@ -26297,7 +25557,7 @@
  {
   "id": "5c3c07f10a66786b",
   "title": "Sony VCL-R2037S 2x Tele Conversion Lens for Some Sony Camcorders $47.18",
-  "url": "https://slickdeals.net/f/19851354-sony-vcl-r2037s-2x-tele-conversion-lens-for-some-sony-camcorders-47-18?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sony+VCL-R2037S+2x+Tele+Conversion+Lens+for+Some+Sony+Camcorders",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Sony A7",
@@ -26309,7 +25569,8 @@
   "source_url": "https://slickdeals.net/f/19851354-sony-vcl-r2037s-2x-tele-conversion-lens-for-some-sony-camcorders-47-18?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+VCL-R2037S+2x+Tele+Conversion+Lens+for+Some+Sony+Camcorders",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ebf763b498f6618b",
@@ -26346,7 +25607,7 @@
  {
   "id": "a2ad644ac4e898a5",
   "title": "Resale Sony Alpha a6100 w/ 16-50mm + 55-210mm,Black $798.7",
-  "url": "https://slickdeals.net/f/19667064-resale-sony-alpha-a6100-w-16-50mm-55-210mm-black-798-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Resale+Sony+Alpha+a6100+w+16-50mm+%2B+55-210mm+Black",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Sony A7",
@@ -26358,12 +25619,13 @@
   "source_url": "https://slickdeals.net/f/19667064-resale-sony-alpha-a6100-w-16-50mm-55-210mm-black-798-7?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Resale+Sony+Alpha+a6100+w+16-50mm+%2B+55-210mm+Black",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4ff7335b9c4f7a1d",
   "title": "Resale Sony Alpha 7R V Full-Frame Mirrorless Interchangeable Lens Camera Body $2415.33",
-  "url": "https://slickdeals.net/f/19666845-resale-sony-alpha-7r-v-full-frame-mirrorless-interchangeable-lens-camera-body-2415-33?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Resale+Sony+Alpha+7R+V+Full-Frame+Mirrorless+Interchangeable+Lens+Camera+Body",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Sony A7",
@@ -26375,12 +25637,13 @@
   "source_url": "https://slickdeals.net/f/19666845-resale-sony-alpha-7r-v-full-frame-mirrorless-interchangeable-lens-camera-body-2415-33?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Resale+Sony+Alpha+7R+V+Full-Frame+Mirrorless+Interchangeable+Lens+Camera+Body",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "669f9d908948921e",
   "title": "Resale Sony a7 III Full-Frame Mirrorless Interchangeable-Lens Camera with 28-70mm Lens with 3-Inch LCD (Black) $1189.43",
-  "url": "https://slickdeals.net/f/19666797-resale-sony-a7-iii-full-frame-mirrorless-interchangeable-lens-camera-with-28-70mm-lens-with-3-inch-lcd-black-1189-43?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Resale+Sony+a7+III+Full-Frame+Mirrorless+Interchangeable-Lens+Camera+with+28-70m",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Sony A7",
@@ -26392,12 +25655,13 @@
   "source_url": "https://slickdeals.net/f/19666797-resale-sony-a7-iii-full-frame-mirrorless-interchangeable-lens-camera-with-28-70mm-lens-with-3-inch-lcd-black-1189-43?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Resale+Sony+a7+III+Full-Frame+Mirrorless+Interchangeable-Lens+Camera+with+28-70m",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5ca22c52b31173a5",
   "title": "Resale Sony Alpha 7 IV Full-frame Mirrorless Interchangeable Lens Camera $1613.38",
-  "url": "https://slickdeals.net/f/19666734-resale-sony-alpha-7-iv-full-frame-mirrorless-interchangeable-lens-camera-1613-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Resale+Sony+Alpha+7+IV+Full-frame+Mirrorless+Interchangeable+Lens+Camera",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Sony A7",
@@ -26409,12 +25673,13 @@
   "source_url": "https://slickdeals.net/f/19666734-resale-sony-alpha-7-iv-full-frame-mirrorless-interchangeable-lens-camera-1613-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Resale+Sony+Alpha+7+IV+Full-frame+Mirrorless+Interchangeable+Lens+Camera",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6cfa066db70699f4",
   "title": "Sony Alpha a6400 APS-C 4K Mirrorless Camera w/ Flip Screen & Fast AF $848 + Free Shipping",
-  "url": "https://slickdeals.net/f/19656186-sony-alpha-a6400-aps-c-4k-mirrorless-camera-w-flip-screen-fast-af-848-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Sony+Alpha+a6400+APS-C+4K+Mirrorless+Camera+w+Flip+Screen+%26+Fast+AF",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Sony A7",
@@ -26426,7 +25691,8 @@
   "source_url": "https://slickdeals.net/f/19656186-sony-alpha-a6400-aps-c-4k-mirrorless-camera-w-flip-screen-fast-af-848-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+Alpha+a6400+APS-C+4K+Mirrorless+Camera+w+Flip+Screen+%26+Fast+AF",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "020fde7167f93df6",
@@ -26467,7 +25733,7 @@
  {
   "id": "cbef9a7a5201a6b4",
   "title": "Woot! App: $58.49 | Sony NPFZ100 Z-Series Rechargeable Battery Pack for Alpha A7 Iii, A7R, A9 Digital Cameras, 7.2V at Woot!",
-  "url": "https://slickdeals.net/f/19501866-woot-app-58-49-sony-npfz100-z-series-rechargeable-battery-pack-for-alpha-a7-iii-a7r-a9-digital-cameras-7-2v-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Sony A7",
@@ -26479,7 +25745,8 @@
   "source_url": "https://slickdeals.net/f/19501866-woot-app-58-49-sony-npfz100-z-series-rechargeable-battery-pack-for-alpha-a7-iii-a7r-a9-digital-cameras-7-2v-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "611f8bb414748ec8",
@@ -26534,7 +25801,7 @@
  {
   "id": "378e50cfc25d27b5",
   "title": "Jomashop Christmas in July Deals: Breitling Colt Auto $2035; Tudor Heritage $2467; RW Maestro Auto $469; Omega DeVille Auto $2176; Seiko Flight Chrono $204",
-  "url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
   "why": "",
   "category": "flights",
   "source": "Web search: Breitling price drop",
@@ -26547,7 +25814,8 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
+  "link_tried3": true
  },
  {
   "id": "6083b296584b91e4",
@@ -26622,7 +25890,7 @@
  {
   "id": "233f6648d18c8015",
   "title": "Select Accts: 120-ct Sports Research Triple Strength Omega-3 Fish Oil Softgels $15.95 & More w/ S&S",
-  "url": "https://slickdeals.net/f/20265624-select-accts-120-ct-sports-research-triple-strength-omega-3-fish-oil-softgels-15-95-more-w-s-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Select+Accts+120-ct+Sports+Research+Triple+Strength+Omega-3+Fish+Oil+Softgels",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -26634,7 +25902,8 @@
   "source_url": "https://slickdeals.net/f/20265624-select-accts-120-ct-sports-research-triple-strength-omega-3-fish-oil-softgels-15-95-more-w-s-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accts+120-ct+Sports+Research+Triple+Strength+Omega-3+Fish+Oil+Softgels",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e2206c76542ec122",
@@ -26727,7 +25996,7 @@
  {
   "id": "3d1426cedf9b2667",
   "title": "Fanatics Black Friday Sale: Up to an extra 50% off",
-  "url": "https://www.dealnews.com/Fanatics-Black-Friday-Sale-Up-to-an-extra-50-off/22420669.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Fanatics+Black+Friday+Up+to+an+extra+50+off",
   "why": "Lululemon 50% off",
   "category": "fashion",
   "source": "DealNews",
@@ -26739,7 +26008,8 @@
   "source_url": "https://www.dealnews.com/Fanatics-Black-Friday-Sale-Up-to-an-extra-50-off/22420669.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Fanatics+Black+Friday+Up+to+an+extra+50+off",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9be8d7c15bc0339e",
@@ -26884,7 +26154,7 @@
  {
   "id": "1a986a71c1e1690b",
   "title": "Open Box DJI Mic Mini (1 TX + 1 RX), Ultralight, Detail-Rich Audio Noise Cancelling, Automatic Limiting, Wireless Microphone for Camera/iPhone/Android, Vlog, Streaming $39.84",
-  "url": "https://slickdeals.net/f/20358432-open-box-dji-mic-mini-1-tx-1-rx-ultralight-detail-rich-audio-noise-cancelling-automatic-limiting-wireless-microphone-for-camera-iphone-android-vlog-streaming-39-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Mic+Mini+Ultralight+Detail-Rich+Audio+Noise+Cancelling+Automatic+Li",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone",
@@ -26896,7 +26166,8 @@
   "source_url": "https://slickdeals.net/f/20358432-open-box-dji-mic-mini-1-tx-1-rx-ultralight-detail-rich-audio-noise-cancelling-automatic-limiting-wireless-microphone-for-camera-iphone-android-vlog-streaming-39-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Open+Box+DJI+Mic+Mini+Ultralight+Detail-Rich+Audio+Noise+Cancelling+Automatic+Li",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c0fedd2060783275",
@@ -27579,7 +26850,7 @@
  {
   "id": "75ec97a481977b45",
   "title": "LG B6E OLED55B6EUA 55\" 4K Dolby Vision HDR OLED Smart TV for $700 + free shipping",
-  "url": "https://www.dealnews.com/products/LG/LG-B6-E-OLED55-B6-EUA-55-4-K-Dolby-Vision-HDR-OLED-Smart-TV/562947.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=LG+B6E+OLED55B6EUA+55+4K+Dolby+Vision+HDR+OLED+Smart+TV+for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -27591,12 +26862,13 @@
   "source_url": "https://www.dealnews.com/products/LG/LG-B6-E-OLED55-B6-EUA-55-4-K-Dolby-Vision-HDR-OLED-Smart-TV/562947.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+B6E+OLED55B6EUA+55+4K+Dolby+Vision+HDR+OLED+Smart+TV+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "44edab04f461318a",
   "title": "Canon EOS Rebel T7 DSLR Camera w/ 2 Lenses for $499 + free shipping",
-  "url": "https://www.dealnews.com/products/Canon-Inc/Canon-EOS-Rebel-T7-DSLR-Camera-w-2-Lenses/81247.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Canon+EOS+Rebel+T7+DSLR+Camera+w+2+Lenses+for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -27608,7 +26880,8 @@
   "source_url": "https://www.dealnews.com/products/Canon-Inc/Canon-EOS-Rebel-T7-DSLR-Camera-w-2-Lenses/81247.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canon+EOS+Rebel+T7+DSLR+Camera+w+2+Lenses+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e3c5bd5a8f914a7d",
@@ -27631,7 +26904,7 @@
  {
   "id": "d91ffdb5fa13baba",
   "title": "Life360 Tile Bluetooth Tracker 4-Pack for $40 + free shipping",
-  "url": "https://www.dealnews.com/products/Life360/Life360-Tile-Bluetooth-Tracker-4-Pack/560036.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Life360+Tile+Bluetooth+Tracker+4-Pack+for",
   "why": "Iphone — all-time low",
   "category": "tech",
   "source": "DealNews",
@@ -27643,7 +26916,8 @@
   "source_url": "https://www.dealnews.com/products/Life360/Life360-Tile-Bluetooth-Tracker-4-Pack/560036.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Life360+Tile+Bluetooth+Tracker+4-Pack+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "71aede06f617601a",
@@ -27720,7 +26994,7 @@
  {
   "id": "3e46a7152641126a",
   "title": "Tissot-Classic Blue dial Mens watch 40MM $595.68",
-  "url": "https://slickdeals.net/f/20379816-tissot-classic-blue-dial-mens-watch-40mm-595-68?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+Tissot-Classic+Blue+dial+Mens+watch+40MM",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -27732,7 +27006,8 @@
   "source_url": "https://slickdeals.net/f/20379816-tissot-classic-blue-dial-mens-watch-40mm-595-68?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Tissot-Classic+Blue+dial+Mens+watch+40MM",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e78a5dadb5eae44a",
@@ -27755,7 +27030,7 @@
  {
   "id": "21901eefd0e52fa9",
   "title": "Casio Master of G Land Mudman G-Shock 45mm Digital Watch $84.99 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/20378850-casio-master-of-g-land-mudman-g-shock-45mm-digital-watch-84-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Casio+Master+of+G+Land+Mudman+G-Shock+45mm+Digital+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -27767,7 +27042,8 @@
   "source_url": "https://slickdeals.net/f/20378850-casio-master-of-g-land-mudman-g-shock-45mm-digital-watch-84-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Casio+Master+of+G+Land+Mudman+G-Shock+45mm+Digital+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b12b88ca80b20ae1",
@@ -27826,7 +27102,7 @@
  {
   "id": "b48eabb774deb4c9",
   "title": "Seiko 5 Sports SKX Series SRPL87K1 42.5mm Yellow Dial / Black Silicone Strap Automatic Watch $249 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/20336214-seiko-5-sports-skx-series-srpl87k1-42-5mm-yellow-dial-black-silicone-strap-automatic-watch-249-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+5+Sports+SKX+Series+SRPL87K1+42.5mm+Yellow+Dial+Black+Silicone+Strap+Autom",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: watch",
@@ -27838,7 +27114,8 @@
   "source_url": "https://slickdeals.net/f/20336214-seiko-5-sports-skx-series-srpl87k1-42-5mm-yellow-dial-black-silicone-strap-automatic-watch-249-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+5+Sports+SKX+Series+SRPL87K1+42.5mm+Yellow+Dial+Black+Silicone+Strap+Autom",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9aa7680167bfa765",
@@ -28255,7 +27532,7 @@
  {
   "id": "4965275d13495de6",
   "title": "Scandinavian Airlines: New York – Amsterdam, Netherlands. $466 (Basic Economy) / $566 (Regular Economy). Roundtrip, including all Taxes",
-  "url": "https://www.theflightdeal.com/2026/11/23/scandinavian-airlines-new-york-amsterdam-netherlands-466-basic-economy-566-regular-economy-roundtrip-including-all-taxes/",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDQtMjFqBRIDTllDcgUSA0FNUxoaEgoyMDI3LTA0LTI4agUSA0FNU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "The Flight Deal",
@@ -28275,12 +27552,13 @@
    "AMS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AMS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20AMS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "2da7c7efcaa12175",
   "title": "Scandinavian Airlines: Newark – Stockholm, Sweden. $459 (Basic Economy) / $559 (Regular Economy). Roundtrip, including all Taxes",
-  "url": "https://www.theflightdeal.com/2026/11/23/scandinavian-airlines-newark-stockholm-sweden-459-basic-economy-559-regular-economy-roundtrip-including-all-taxes/",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDUtMjFqBRIDRVdScgUSA0FSThoaEgoyMDI3LTA1LTI4agUSA0FSTnIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "The Flight Deal",
@@ -28300,7 +27578,8 @@
    "ARN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20ARN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20ARN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "df368aa2b0f8d734",
@@ -28447,7 +27726,7 @@
  {
   "id": "150098fc08e73d8f",
   "title": "Macbook Pro 14\" PROLED Silver or Black - $2599 now at Microcenter - in store pick up only",
-  "url": "https://slickdeals.net/f/20369958-macbook-pro-14-proled-silver-or-black-2599-now-at-microcenter-in-store-pick-up-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Macbook+Pro+14+PROLED+Silver+or+Black+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook",
@@ -28459,7 +27738,8 @@
   "source_url": "https://slickdeals.net/f/20369958-macbook-pro-14-proled-silver-or-black-2599-now-at-microcenter-in-store-pick-up-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Macbook+Pro+14+PROLED+Silver+or+Black+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "064b201c9fde5af8",
@@ -28742,7 +28022,7 @@
  {
   "id": "fcbfdb324561aa36",
   "title": "Refurb: LG C6 55\" Class 4K OLED HDR10 120Hz Smart TV webOS 26 (2026) $714.24",
-  "url": "https://slickdeals.net/f/20377599-refurb-lg-c6-55-class-4k-oled-hdr10-120hz-smart-tv-webos-26-2026-714-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurb+LG+C6+55+Class+4K+OLED+HDR10+120Hz+Smart+TV+webOS+26",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Oled Tv",
@@ -28754,7 +28034,8 @@
   "source_url": "https://slickdeals.net/f/20377599-refurb-lg-c6-55-class-4k-oled-hdr10-120hz-smart-tv-webos-26-2026-714-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurb+LG+C6+55+Class+4K+OLED+HDR10+120Hz+Smart+TV+webOS+26",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3c35358ef5efcaeb",
@@ -29271,7 +28552,7 @@
  {
   "id": "c4367cb518c17d3b",
   "title": "Staples: In-Store Only Airpods 3 ANC $169.99, Airpods 5 $89",
-  "url": "https://slickdeals.net/f/20374611-staples-in-store-only-airpods-3-anc-169-99-airpods-5-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Astaples.com+Staples+Only+Airpods+3+ANC",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods Pro",
@@ -29283,7 +28564,8 @@
   "source_url": "https://slickdeals.net/f/20374611-staples-in-store-only-airpods-3-anc-169-99-airpods-5-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Astaples.com+Staples+Only+Airpods+3+ANC",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a074bcc5ff2f2597",
@@ -29446,7 +28728,7 @@
  {
   "id": "adc3b7a4d54d6336",
   "title": "Beats By Dr. Dre Solo Buds True Wireless Earbuds in Storm $34.00 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20376054-beats-by-dr-dre-solo-buds-true-wireless-earbuds-in-storm-34-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Beats+By+Dr.+Dre+Solo+Buds+True+Wireless+Earbuds+in+Storm",
   "why": "",
   "category": "amazon",
   "source": "Slickdeals: Beats",
@@ -29458,7 +28740,8 @@
   "source_url": "https://slickdeals.net/f/20376054-beats-by-dr-dre-solo-buds-true-wireless-earbuds-in-storm-34-00-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Beats+By+Dr.+Dre+Solo+Buds+True+Wireless+Earbuds+in+Storm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "fcd16d76d91ea37f",
@@ -29517,7 +28800,7 @@
  {
   "id": "d2c87e63104fb04c",
   "title": "Best Black Friday TV deal: Take 46% off the 85-inch LG QLED Mini LED TV - Mashable",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZlZLdGNwZ1hUVEtUX1BMMnJBR01HUmZNS0RibHFKS050c2tKUVU0U2cxc3gwTnZYeFFMbWZMeWtCd0Y2RGxRNlRRSVdRREFfclhTQ0p4bWdPWUxFWER5T1AyYmdIQVRibDN1cXdzQ3JDdFRXaTZINQ?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Best+Black+Friday+TV+Take+46+off+the+85-inch+LG+QLED+Mini+LED+TV+-+Mashable",
   "why": "Qled — 46% off",
   "category": "tech",
   "source": "Google: OLED TV deal",
@@ -29529,7 +28812,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZlZLdGNwZ1hUVEtUX1BMMnJBR01HUmZNS0RibHFKS050c2tKUVU0U2cxc3gwTnZYeFFMbWZMeWtCd0Y2RGxRNlRRSVdRREFfclhTQ0p4bWdPWUxFWER5T1AyYmdIQVRibDN1cXdzQ3JDdFRXaTZINQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Best+Black+Friday+TV+Take+46+off+the+85-inch+LG+QLED+Mini+LED+TV+-+Mashable",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2301fbfe83396810",
@@ -29840,7 +29124,7 @@
  {
   "id": "283ce2989f661913",
   "title": "New York or Miami to Casablanca, Morocco from only $475 roundtrip - Secret Flying",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalIxbHJXdEM4Uk5LSy1jNEltUmdmS1JNZy1ySHVrNjJZdmJPd25tcTRvOUJUdDBKcTlRTENlM2pfODc0TG5jS1lZYUZhWjB4dFJqaEhjeU9qUm5HTENDTUpwMDZVVFlJa1VESFBqeVBfSy0xUzdwc2o4bjVKLURiTTdGR2JEclozWjFIbWtlLUVIVGZIUXNfMTNLRGVMNkx3?oc=5",
+  "url": "https://www.google.com/travel/flights?q=Flights%20New%20York%20or%20Miami%20to%20Casablanca%2C%20Morocco",
   "why": "🌴 NEW YORK → Miami",
   "category": "flights",
   "source": "Google: Secret Flying NYC",
@@ -29853,7 +29137,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalIxbHJXdEM4Uk5LSy1jNEltUmdmS1JNZy1ySHVrNjJZdmJPd25tcTRvOUJUdDBKcTlRTENlM2pfODc0TG5jS1lZYUZhWjB4dFJqaEhjeU9qUm5HTENDTUpwMDZVVFlJa1VESFBqeVBfSy0xUzdwc2o4bjVKLURiTTdGR2JEclozWjFIbWtlLUVIVGZIUXNfMTNLRGVMNkx3?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20New%20York%20or%20Miami%20to%20Casablanca%2C%20Morocco",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "95106c6191926ed3",
@@ -29874,7 +29159,7 @@
  {
   "id": "5184d64ae3e1bd2c",
   "title": "3.3 fl. oz. Givenchy Pi Men's Eau De Toilette Spray - $33 + Shipping $7 or Free S&H on $69+ at AuraFragrance $32.98",
-  "url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray+-",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Givenchy sale",
@@ -29886,7 +29171,8 @@
   "source_url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7d628e8c0ef04a2d",
@@ -29909,7 +29195,7 @@
  {
   "id": "e2203042920bcca6",
   "title": "olden goose super-star sneakers - $284",
-  "url": "https://slickdeals.net/f/16611830-olden-goose-super-star-sneakers-284?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=olden+goose+super-star+sneakers+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Golden Goose",
@@ -29921,12 +29207,13 @@
   "source_url": "https://slickdeals.net/f/16611830-olden-goose-super-star-sneakers-284?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=olden+goose+super-star+sneakers+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "685526111e8d914f",
   "title": "Golden Goose Superstar Glitter Trim Leather Sneakers on SALE - $489",
-  "url": "https://slickdeals.net/f/16325941-golden-goose-superstar-glitter-trim-leather-sneakers-on-sale-489?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Superstar+Glitter+Trim+Leather+Sneakers+on+-",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Golden Goose",
@@ -29938,12 +29225,13 @@
   "source_url": "https://slickdeals.net/f/16325941-golden-goose-superstar-glitter-trim-leather-sneakers-on-sale-489?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Golden+Goose+Superstar+Glitter+Trim+Leather+Sneakers+on+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "abd90c7231de0393",
   "title": "Dyson V16 Piston Animal Submarine Cordless Wet & Dry Vacuum (New) $579.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/20354037-dyson-v16-piston-animal-submarine-cordless-wet-dry-vacuum-new-579-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+V16+Piston+Animal+Submarine+Cordless+Wet+%26+Dry+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dyson",
@@ -29955,12 +29243,13 @@
   "source_url": "https://slickdeals.net/f/20354037-dyson-v16-piston-animal-submarine-cordless-wet-dry-vacuum-new-579-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+V16+Piston+Animal+Submarine+Cordless+Wet+%26+Dry+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "306f6c68ba1ee64d",
   "title": "Dyson V15 Detect Cordless Stick Vacuum (New) $449.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/20353920-dyson-v15-detect-cordless-stick-vacuum-new-449-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+V15+Detect+Cordless+Stick+Vacuum",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dyson",
@@ -29972,7 +29261,8 @@
   "source_url": "https://slickdeals.net/f/20353920-dyson-v15-detect-cordless-stick-vacuum-new-449-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+V15+Detect+Cordless+Stick+Vacuum",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3db712e8f284fdc9",
@@ -30099,7 +29389,7 @@
  {
   "id": "393ca3d122a8a839",
   "title": "Dyson Animal Ball 3 w/free attachment",
-  "url": "https://slickdeals.net/f/20330547-dyson-animal-ball-3-w-free-attachment?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+Animal+Ball+3+free+attachment",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dyson",
@@ -30111,7 +29401,8 @@
   "source_url": "https://slickdeals.net/f/20330547-dyson-animal-ball-3-w-free-attachment?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Animal+Ball+3+free+attachment",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b32e3bf71d702a75",
@@ -30170,7 +29461,7 @@
  {
   "id": "60b58f153b20e7c9",
   "title": "Meta Gen 2 $284",
-  "url": "https://slickdeals.net/f/20361351-meta-gen-2-284?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Meta+Gen+2",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30182,7 +29473,8 @@
   "source_url": "https://slickdeals.net/f/20361351-meta-gen-2-284?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Meta+Gen+2",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "54fa63892e4f2e10",
@@ -30221,7 +29513,7 @@
  {
   "id": "d308631ae0206408",
   "title": "Ray-Ban Clubmaster Classic Crystal Green Lens Sunglasses $91.99 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/20338131-ray-ban-clubmaster-classic-crystal-green-lens-sunglasses-91-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clubmaster+Classic+Crystal+Green+Lens+Sunglasses",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ray-Ban",
@@ -30233,12 +29525,13 @@
   "source_url": "https://slickdeals.net/f/20338131-ray-ban-clubmaster-classic-crystal-green-lens-sunglasses-91-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clubmaster+Classic+Crystal+Green+Lens+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3d2ddac687c2a198",
   "title": "Ray-Ban Clearance Sale (Various Styles)",
-  "url": "https://slickdeals.net/f/20335173-ray-ban-clearance-sale-various-styles?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clearance",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30250,7 +29543,8 @@
   "source_url": "https://slickdeals.net/f/20335173-ray-ban-clearance-sale-various-styles?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Clearance",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6c1cd7b74d51075f",
@@ -30273,7 +29567,7 @@
  {
   "id": "15206647075fd132",
   "title": "Ray-Ban Original Wayfarer Classic (Black-Crystal Green) $104.99 + $9.82 Shipping at Watch Gang",
-  "url": "https://slickdeals.net/f/20282667-ray-ban-original-wayfarer-classic-black-crystal-green-104-99-9-82-shipping-at-watch-gang?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Original+Wayfarer+Classic",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ray-Ban",
@@ -30285,12 +29579,13 @@
   "source_url": "https://slickdeals.net/f/20282667-ray-ban-original-wayfarer-classic-black-crystal-green-104-99-9-82-shipping-at-watch-gang?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Original+Wayfarer+Classic",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6f78d5279c85dd47",
   "title": "Official Ray-Ban Clearance Sale: Up to 50% Off Select Sunglasses Styles (Wayfarer, Aviator, Clubmaster & More) + Free Shipping $133",
-  "url": "https://slickdeals.net/f/20273427-official-ray-ban-clearance-sale-up-to-50-off-select-sunglasses-styles-wayfarer-aviator-clubmaster-more-free-shipping-133?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Official+Ray-Ban+Clearance+Up+to+50+Off+Select+Sunglasses+Styles+%2B",
   "why": "Ray-Ban 50% off",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30302,12 +29597,13 @@
   "source_url": "https://slickdeals.net/f/20273427-official-ray-ban-clearance-sale-up-to-50-off-select-sunglasses-styles-wayfarer-aviator-clubmaster-more-free-shipping-133?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Official+Ray-Ban+Clearance+Up+to+50+Off+Select+Sunglasses+Styles+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "491db60451a746bf",
   "title": "Ray-Ban, Oakley, Costa, Under Armour Sunglasses (Non & Polarized) Up to 60% Off + Free Shipping",
-  "url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
   "why": "Ray-Ban 60% off",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30319,12 +29615,13 @@
   "source_url": "https://slickdeals.net/f/20228913-ray-ban-oakley-costa-under-armour-sunglasses-non-polarized-up-to-60-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Oakley+Costa+Under+Armour+Sunglasses+Up+to+60+Off+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6d5daa3095692fc4",
   "title": "Oakley & Ray-Ban Sunglasses Deals at Zulily $56.99",
-  "url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30336,12 +29633,13 @@
   "source_url": "https://slickdeals.net/f/20184294-oakley-ray-ban-sunglasses-deals-at-zulily-56-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oakley+%26+Ray-Ban+Sunglasses+Deals+at+Zulily",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9888344cfba5abdd",
   "title": "Ray-Ban Sunglasses (Non & Polarized) Up to 50% Off + Free Shipping",
-  "url": "https://slickdeals.net/f/20153862-ray-ban-sunglasses-non-polarized-up-to-50-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Sunglasses+Up+to+50+Off+%2B",
   "why": "Ray-Ban 50% off",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30353,7 +29651,8 @@
   "source_url": "https://slickdeals.net/f/20153862-ray-ban-sunglasses-non-polarized-up-to-50-off-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Sunglasses+Up+to+50+Off+%2B",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7a74d6d41d53c075",
@@ -30374,7 +29673,7 @@
  {
   "id": "061ebe7e9be1e22b",
   "title": "Extra 20% off on Ray-Ban & Oakley Sunglasses at Woot!",
-  "url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30386,12 +29685,13 @@
   "source_url": "https://slickdeals.net/f/20068377-extra-20-off-on-ray-ban-oakley-sunglasses-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+20+off+on+Ray-Ban+%26+Oakley+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "172b7cd005d28cd2",
   "title": "Refurbished Meta Ray-ban Wayfarer (Gen 1) $197.00",
-  "url": "https://slickdeals.net/f/20062158-refurbished-meta-ray-ban-wayfarer-gen-1-197-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Refurbished+Meta+Ray-ban+Wayfarer",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30403,7 +29703,8 @@
   "source_url": "https://slickdeals.net/f/20062158-refurbished-meta-ray-ban-wayfarer-gen-1-197-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurbished+Meta+Ray-ban+Wayfarer",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "123fe5e6fccbe958",
@@ -30426,7 +29727,7 @@
  {
   "id": "6409cf98052b3c83",
   "title": "Ray-Ban RB3016 Clubmaster Classic Square Sunglasses(Open Box)",
-  "url": "https://slickdeals.net/f/19968951-ray-ban-rb3016-clubmaster-classic-square-sunglasses-open-box?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+RB3016+Clubmaster+Classic+Square+Sunglasses",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30438,7 +29739,8 @@
   "source_url": "https://slickdeals.net/f/19968951-ray-ban-rb3016-clubmaster-classic-square-sunglasses-open-box?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+RB3016+Clubmaster+Classic+Square+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4f0aff800c20a512",
@@ -30461,7 +29763,7 @@
  {
   "id": "fca0b13426a01b3b",
   "title": "Ray-Ban Justin Classic Sunglasses (Men's, Rubber Black/Grey Gradient) $89 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/19880088-ray-ban-justin-classic-sunglasses-men-s-rubber-black-grey-gradient-89-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Justin+Classic+Sunglasses",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Ray-Ban",
@@ -30473,12 +29775,13 @@
   "source_url": "https://slickdeals.net/f/19880088-ray-ban-justin-classic-sunglasses-men-s-rubber-black-grey-gradient-89-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ray-Ban+Justin+Classic+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6cac3b90326bc125",
   "title": "Extra 22% off on Shade Parade: Oakley, Ray-Ban, & More! at Woot!",
-  "url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ray-Ban",
@@ -30490,12 +29793,13 @@
   "source_url": "https://slickdeals.net/f/19779384-extra-22-off-on-shade-parade-oakley-ray-ban-more-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Extra+22+off+on+Shade+Parade+Oakley+Ray-Ban+%26+More",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cbf54c00cf7848fa",
   "title": "Seiko 5 Sports SKX Series SRPL87K1 42.5mm Yellow Dial / Black Silicone Strap Automatic Watch $249 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/20336214-seiko-5-sports-skx-series-srpl87k1-42-5mm-yellow-dial-black-silicone-strap-automatic-watch-249-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Seiko+5+Sports+SKX+Series+SRPL87K1+42.5mm+Yellow+Dial+Black+Silicone+Strap+Autom",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Crown And Caliber",
@@ -30507,12 +29811,13 @@
   "source_url": "https://slickdeals.net/f/20336214-seiko-5-sports-skx-series-srpl87k1-42-5mm-yellow-dial-black-silicone-strap-automatic-watch-249-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+5+Sports+SKX+Series+SRPL87K1+42.5mm+Yellow+Dial+Black+Silicone+Strap+Autom",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b55fd35e5d4c150b",
   "title": "Citizen Sport EcoDrive AW1571-76X Military Watch $115",
-  "url": "https://slickdeals.net/f/20375364-citizen-sport-ecodrive-aw1571-76x-military-watch-115?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Citizen+Sport+EcoDrive+AW1571-76X+Military+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Crown And Caliber",
@@ -30524,12 +29829,13 @@
   "source_url": "https://slickdeals.net/f/20375364-citizen-sport-ecodrive-aw1571-76x-military-watch-115?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Sport+EcoDrive+AW1571-76X+Military+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1a2fba3f36dbdaf9",
   "title": "CITIZEN Promaster Dive Eco-Drive Blue Dial 41mm Watch Jomashop App Req’d $274",
-  "url": "https://slickdeals.net/f/20370126-citizen-promaster-dive-eco-drive-blue-dial-41mm-watch-jomashop-app-req-d-274?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Dive+Eco-Drive+Blue+Dial+41mm+Watch+Jomashop+App+Req+d",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Crown And Caliber",
@@ -30541,12 +29847,13 @@
   "source_url": "https://slickdeals.net/f/20370126-citizen-promaster-dive-eco-drive-blue-dial-41mm-watch-jomashop-app-req-d-274?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Dive+Eco-Drive+Blue+Dial+41mm+Watch+Jomashop+App+Req+d",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "654902a2f5d5bae5",
   "title": "BULOVA Marine Star Automatic Blue Dial Men's Watch Jomashop App Req’d $300",
-  "url": "https://slickdeals.net/f/20369922-bulova-marine-star-automatic-blue-dial-men-s-watch-jomashop-app-req-d-300?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+BULOVA+Marine+Star+Automatic+Blue+Dial+Men%27s+Watch+Jomashop+App+Req+d",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Crown And Caliber",
@@ -30558,12 +29865,13 @@
   "source_url": "https://slickdeals.net/f/20369922-bulova-marine-star-automatic-blue-dial-men-s-watch-jomashop-app-req-d-300?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+BULOVA+Marine+Star+Automatic+Blue+Dial+Men%27s+Watch+Jomashop+App+Req+d",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d55d21121e18e5ca",
   "title": "CITIZEN Tsuyosa Automatic 40mm Blue Dial Men's Watch / Jomashop App required $254",
-  "url": "https://slickdeals.net/f/20366718-citizen-tsuyosa-automatic-40mm-blue-dial-men-s-watch-jomashop-app-required-254?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Tsuyosa+Automatic+40mm+Blue+Dial+Men%27s+Watch+Jomashop+App+required",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Crown And Caliber",
@@ -30575,12 +29883,13 @@
   "source_url": "https://slickdeals.net/f/20366718-citizen-tsuyosa-automatic-40mm-blue-dial-men-s-watch-jomashop-app-required-254?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Tsuyosa+Automatic+40mm+Blue+Dial+Men%27s+Watch+Jomashop+App+required",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "73b30762c8f91938",
   "title": "44mm Citizen Men's Eco-Drive Promaster Diver Stainless Steel Watch from $194 + Free S&H",
-  "url": "https://slickdeals.net/f/20366688-44mm-citizen-men-s-eco-drive-promaster-diver-stainless-steel-watch-from-194-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+44mm+Citizen+Men%27s+Eco-Drive+Promaster+Diver+Stainless+Steel+Watch+from",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Crown And Caliber",
@@ -30592,12 +29901,13 @@
   "source_url": "https://slickdeals.net/f/20366688-44mm-citizen-men-s-eco-drive-promaster-diver-stainless-steel-watch-from-194-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+44mm+Citizen+Men%27s+Eco-Drive+Promaster+Diver+Stainless+Steel+Watch+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "968cfb84e1dcfe3b",
   "title": "SEIKO 5 Automatic Champagne Dial Automatic Watch SNXL72 $179",
-  "url": "https://slickdeals.net/f/20316177-seiko-5-automatic-champagne-dial-automatic-watch-snxl72-179?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Ajomashop.com+SEIKO+5+Automatic+Champagne+Dial+Automatic+Watch+SNXL72",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Crown And Caliber",
@@ -30609,12 +29919,13 @@
   "source_url": "https://slickdeals.net/f/20316177-seiko-5-automatic-champagne-dial-automatic-watch-snxl72-179?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+SEIKO+5+Automatic+Champagne+Dial+Automatic+Watch+SNXL72",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5cfc503942ff4de6",
   "title": "Casio Master of G Land Mudman G-Shock 45mm Digital Watch $84.99 + $9.82 Shipping",
-  "url": "https://slickdeals.net/f/20378850-casio-master-of-g-land-mudman-g-shock-45mm-digital-watch-84-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Casio+Master+of+G+Land+Mudman+G-Shock+45mm+Digital+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: G-Shock",
@@ -30626,7 +29937,8 @@
   "source_url": "https://slickdeals.net/f/20378850-casio-master-of-g-land-mudman-g-shock-45mm-digital-watch-84-99-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Casio+Master+of+G+Land+Mudman+G-Shock+45mm+Digital+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "760c55e16e1b8255",
@@ -30719,7 +30031,7 @@
  {
   "id": "8a953626d8128a7b",
   "title": "Macbook Pro 14\" PROLED Silver or Black - $2599 now at Microcenter - in store pick up only",
-  "url": "https://slickdeals.net/f/20369958-macbook-pro-14-proled-silver-or-black-2599-now-at-microcenter-in-store-pick-up-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Macbook+Pro+14+PROLED+Silver+or+Black+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Macbook Pro",
@@ -30731,7 +30043,8 @@
   "source_url": "https://slickdeals.net/f/20369958-macbook-pro-14-proled-silver-or-black-2599-now-at-microcenter-in-store-pick-up-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Macbook+Pro+14+PROLED+Silver+or+Black+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2b4836ec482c0901",
@@ -30808,7 +30121,7 @@
  {
   "id": "c7b7f574fa71e0af",
   "title": "Mint Mobile Google Pixel 11 512GB ($365) + 1 Year Unlimited Service ($180) - $545",
-  "url": "https://slickdeals.net/f/20379819-mint-mobile-google-pixel-11-512gb-365-1-year-unlimited-service-180-545?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Mint+Mobile+Google+Pixel+11+512GB",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Pixel 10",
@@ -30820,7 +30133,8 @@
   "source_url": "https://slickdeals.net/f/20379819-mint-mobile-google-pixel-11-512gb-365-1-year-unlimited-service-180-545?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Mint+Mobile+Google+Pixel+11+512GB",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "280913d2aaddbbe5",
@@ -30879,7 +30193,7 @@
  {
   "id": "cc4d5e5d53eb0b31",
   "title": "Dyson Goes All In on Cordless, V10 Origin (150AW, 60-Minute Battery, 3 Modes) Drops to a Record Low - Gizmodo",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTRuUVk2MW5nTGVvUDdFMHZJRFJxU2F6enJ5OW55WDBUVkJGc2VYVGdXZ0VXNmphUERYZFVmcDFlYkZkdTlGeFR1X1VPWDB1bkc3ZF85LWItQURPTU1IV1FQdFNWSm51VndQQW5waHdWelZ5YkN0T3ZVRVRBUGg5MGw3dEpDZGN6WjdOTTAtTUVZMWJGa0tZWXVZd3Awa0c5MV9JWGFzbjFrTVU1ZTNJc2dPWXZicmoxeFVpSHlkaFlzbG8?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Dyson+Goes+All+In+on+Cordless+V10+Origin+Drops+to+a+Record+Low+-+Gizmodo",
   "why": "Dyson — record low",
   "category": "tech",
   "source": "Google: Dyson deal",
@@ -30891,7 +30205,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTRuUVk2MW5nTGVvUDdFMHZJRFJxU2F6enJ5OW55WDBUVkJGc2VYVGdXZ0VXNmphUERYZFVmcDFlYkZkdTlGeFR1X1VPWDB1bkc3ZF85LWItQURPTU1IV1FQdFNWSm51VndQQW5waHdWelZ5YkN0T3ZVRVRBUGg5MGw3dEpDZGN6WjdOTTAtTUVZMWJGa0tZWXVZd3Awa0c5MV9JWGFzbjFrTVU1ZTNJc2dPWXZicmoxeFVpSHlkaFlzbG8?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dyson+Goes+All+In+on+Cordless+V10+Origin+Drops+to+a+Record+Low+-+Gizmodo",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "51a370d54b42d58a",
@@ -31274,7 +30589,7 @@
  {
   "id": "f8754e3f8baaa9f0",
   "title": "Round Trip New York to St Maarten $260 Nonstop Airfares on Delta or JetBlue BE (Travel November - February 2027)",
-  "url": "https://slickdeals.net/f/20223756-round-trip-new-york-to-st-maarten-260-nonstop-airfares-on-delta-or-jetblue-be-travel-november-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDlqBRIDTllDcgUSA1NYTRoaEgoyMDI3LTAyLTE0agUSA1NYTXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "🌴 NEW YORK → St Maarten",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -31295,12 +30610,13 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "2e5e365e63c67976",
   "title": "Chanel 2025 Results: $19.3 Billion Revenue, Growth with Blazy and New Price Increases - nss magazine",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
   "why": "",
   "category": "fashion",
   "source": "Web search: Chanel price drop",
@@ -31312,7 +30628,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ee9617e3dc64e580",
@@ -31353,7 +30670,7 @@
  {
   "id": "5351878bcee3a949",
   "title": "12 Days Of Luxury Beauty Advent Calendar $60 + Free Shipping",
-  "url": "https://slickdeals.net/f/19010416-12-days-of-luxury-beauty-advent-calendar-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=12+Days+Of+Luxury+Beauty+Advent+Calendar",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Cartier",
@@ -31365,12 +30682,13 @@
   "source_url": "https://slickdeals.net/f/19010416-12-days-of-luxury-beauty-advent-calendar-60-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=12+Days+Of+Luxury+Beauty+Advent+Calendar",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a222464102e82f09",
   "title": "26-Piece Men's Fragrance Cologne Sampler Set $24 + Free Store Pickup",
-  "url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
   "why": "",
   "category": "fragrance",
   "source": "Slickdeals: Cartier",
@@ -31382,7 +30700,8 @@
   "source_url": "https://slickdeals.net/f/18319231-26-piece-men-s-fragrance-cologne-sampler-set-24-free-store-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=26-Piece+Men%27s+Fragrance+Cologne+Sampler+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5efc9b6d0e0dc4b0",
@@ -31423,7 +30742,7 @@
  {
   "id": "2a6314b0037fd8a8",
   "title": "Certified Refurbished Sony PS5 Pro PlayStation5 Pro Gaming Console at PS Direct $850",
-  "url": "https://slickdeals.net/f/20380989-certified-refurbished-sony-ps5-pro-playstation5-pro-gaming-console-at-ps-direct-850?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Certified+Refurbished+Sony+PS5+Pro+PlayStation5+Pro+Gaming+Console+at+PS+Direct",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ps5",
@@ -31435,12 +30754,13 @@
   "source_url": "https://slickdeals.net/f/20380989-certified-refurbished-sony-ps5-pro-playstation5-pro-gaming-console-at-ps-direct-850?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Certified+Refurbished+Sony+PS5+Pro+PlayStation5+Pro+Gaming+Console+at+PS+Direct",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "85d17aa0d70508d8",
   "title": "Citizen Sport EcoDrive AW1571-76X Military Watch $115",
-  "url": "https://slickdeals.net/f/20375364-citizen-sport-ecodrive-aw1571-76x-military-watch-115?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Citizen+Sport+EcoDrive+AW1571-76X+Military+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Citizen Eco-Drive",
@@ -31452,7 +30772,8 @@
   "source_url": "https://slickdeals.net/f/20375364-citizen-sport-ecodrive-aw1571-76x-military-watch-115?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Sport+EcoDrive+AW1571-76X+Military+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ad84b7c22873bea0",
@@ -31547,7 +30868,7 @@
  {
   "id": "1d64549abbc8ed16",
   "title": "WM | ATT or Verizon iPhone 17 Pro - $1099 | $500 gift card | Postpaid connection require",
-  "url": "https://slickdeals.net/f/20370426-wm-att-or-verizon-iphone-17-pro-1099-500-gift-card-postpaid-connection-require?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Averizon.com+WM+ATT+or+Verizon+iPhone+17+Pro+-",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Iphone Pro",
@@ -31559,7 +30880,8 @@
   "source_url": "https://slickdeals.net/f/20370426-wm-att-or-verizon-iphone-17-pro-1099-500-gift-card-postpaid-connection-require?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Averizon.com+WM+ATT+or+Verizon+iPhone+17+Pro+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0b56b67535433100",
@@ -31600,7 +30922,7 @@
  {
   "id": "aa8176ceceac320a",
   "title": "Certified Refurbished Sony PS5 Pro PlayStation5 Pro Gaming Console at PS Direct $850",
-  "url": "https://slickdeals.net/f/20380989-certified-refurbished-sony-ps5-pro-playstation5-pro-gaming-console-at-ps-direct-850?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+Certified+Refurbished+Sony+PS5+Pro+PlayStation5+Pro+Gaming+Console+at+PS+Direct",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Ps5 Pro",
@@ -31612,7 +30934,8 @@
   "source_url": "https://slickdeals.net/f/20380989-certified-refurbished-sony-ps5-pro-playstation5-pro-gaming-console-at-ps-direct-850?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Certified+Refurbished+Sony+PS5+Pro+PlayStation5+Pro+Gaming+Console+at+PS+Direct",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "eeef862c7f621ae0",
@@ -31671,7 +30994,7 @@
  {
   "id": "668181cf928c5cb4",
   "title": "The AirPods Pro 3 just hit $149 for Black Friday – the lowest price ever - ZDNET",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lVG1EUVVyMERfaG9ubDlnQWIxbU9FdFd1UDF6eGRsV2RKWGVCREVDUFdHU1B6LUp2RTgzWWYtX1lTbE9uVVdVMEpIdzlOTFJNbURIRndDYTJvR1RSSFFXQ0Yya0JMMWhaejBjb1JXY2ZJLUE?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=The+AirPods+Pro+3+just+hit",
   "why": "Airpods — lowest price ever",
   "category": "tech",
   "source": "Google: Apple deal",
@@ -31683,7 +31006,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lVG1EUVVyMERfaG9ubDlnQWIxbU9FdFd1UDF6eGRsV2RKWGVCREVDUFdHU1B6LUp2RTgzWWYtX1lTbE9uVVdVMEpIdzlOTFJNbURIRndDYTJvR1RSSFFXQ0Yya0JMMWhaejBjb1JXY2ZJLUE?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=The+AirPods+Pro+3+just+hit",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "da48a36f8a8b1a7b",
@@ -31724,7 +31048,7 @@
  {
   "id": "69c4bb2c7641fe80",
   "title": "MacBook Neo Sees Record Low $599 Price in Latest Black Friday Sale ($100 Off) - MacRumors",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYQjFxUHhGWlppcHljNmVVVDdyXzlzVjAtT1ZQMXlrYjI3UWQzNTR2c05QZWpsXzAtcHpjbExUUFVLSWdiQ1lfRVlSYlBiNXRPUW02eW9HYU80WFdPQzRFUHVhUGh3c3Et?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=MacBook+Neo+Sees+Record+Low",
   "why": "Macbook — record low",
   "category": "tech",
   "source": "Google: Apple deal",
@@ -31736,7 +31060,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYQjFxUHhGWlppcHljNmVVVDdyXzlzVjAtT1ZQMXlrYjI3UWQzNTR2c05QZWpsXzAtcHpjbExUUFVLSWdiQ1lfRVlSYlBiNXRPUW02eW9HYU80WFdPQzRFUHVhUGh3c3Et?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=MacBook+Neo+Sees+Record+Low",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a21bf78ba7eea6f7",
@@ -31867,7 +31192,7 @@
  {
   "id": "1e8f1d4267d6cb4e",
   "title": "AirPods Pro 3 Drop to $149, a New All-Time Low ($100 Off) [Deal] - iClarified",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUd4ejNzZklvRkhDSHlyWl9qWTJ2SHozZldHbVkycWdfSU11VFpmaHNrWTZPYVVJTm5jSFVxRDZHYTlLY0hnOEFwanJYcVQ3T2VGVFRUZWNIcDRtbmJ1YlZfQ2NkTTRnalp2bXZqdTFhZzNxa3RQS01BUWZheWVsXzlkNDhZMzdLNHBlRXpydw?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=AirPods+Pro+3+Drop+to",
   "why": "Airpods — all-time low",
   "category": "tech",
   "source": "Google: Apple deal",
@@ -31879,7 +31204,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUd4ejNzZklvRkhDSHlyWl9qWTJ2SHozZldHbVkycWdfSU11VFpmaHNrWTZPYVVJTm5jSFVxRDZHYTlLY0hnOEFwanJYcVQ3T2VGVFRUZWNIcDRtbmJ1YlZfQ2NkTTRnalp2bXZqdTFhZzNxa3RQS01BUWZheWVsXzlkNDhZMzdLNHBlRXpydw?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=AirPods+Pro+3+Drop+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8c12fc984be2f769",
@@ -31983,11 +31309,11 @@
   "pct": null,
   "price": 69.99,
   "found_at": "2026-11-23T22:03:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20291112-ugg-women-s-tazzette-genuine-shearling-collar-slipper-various-69-99-free-shipping-89?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=UGG+Women%27s+Tazzette+Genuine+Shearling+Collar+Slipper",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9dc86f7616febdfd",
@@ -32001,11 +31327,11 @@
   "pct": null,
   "price": 25.0,
   "found_at": "2026-11-23T22:03:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20274609-ugg-classic-uggfluff-throw-50-x-70-various-25-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ugg+Classic+UGGfluff+Throw+50+x+70+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b7758e54c7d515de",
@@ -32019,11 +31345,11 @@
   "pct": null,
   "price": 25.0,
   "found_at": "2026-11-23T22:03:42Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20274600-ugg-avery-reversible-throw-50-x-70-various-25-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Ugg+Avery+Reversible+Throw+50+x+70+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3178444f5250a295",
@@ -32037,11 +31363,11 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-11-23T22:03:43Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PWFI1dkhkM3dmOXpXMzZGMVNYSDA1a2NLZWNLdlRxQWVDSnRoX2tBQVl4LVROR3Z6QjJXZVNENnRWTTRoYWhqaEtZQ1NqdVNYUjdEcm04ZXlEdEQ0MlNxandZNlFFakU1YUoyWWR2S214MnEyM0FqTkhmNA?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Iconic+UGG+shearling+boots+are+up+to+50+off+for+Black+Friday+shop+the+cosiest+gi",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "10ecaccaf96e43b3",
@@ -32106,11 +31432,11 @@
   "pct": null,
   "price": 21.97,
   "found_at": "2026-11-23T22:03:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20358849-birkenstock-women-s-madrid-big-buckle-eva-sandals-pure-sage-21-97-free-pickup-at-dick-s-sporting-goods?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cc79c5a774c308e9",
@@ -32124,11 +31450,11 @@
   "pct": null,
   "price": 21.97,
   "found_at": "2026-11-23T22:03:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20319174-birkenstock-women-s-madrid-big-buckle-eva-sandals-pure-sage-21-97-free-pickup-at-dick-s-sporting-goods?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Women%27s+Madrid+Big+Buckle+EVA+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "95b33f9e934094fb",
@@ -32142,11 +31468,11 @@
   "pct": null,
   "price": 42.97,
   "found_at": "2026-11-23T22:03:44Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20319153-birkenstock-papillio-women-s-arizona-platform-sandals-blue-42-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Birkenstock+Papillio+Women%27s+Arizona+Platform+Sandals",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8045bd0477cbfca9",
@@ -32175,11 +31501,11 @@
   "pct": null,
   "price": 69.97,
   "found_at": "2026-11-23T22:03:46Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18057483-allen-edmonds-miles-boat-shoe-69-97-clearance-final-sale-two-colors-most-sizes-available?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Miles+Boat+Shoe",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "659fb19e8d2c9c82",
@@ -32193,11 +31519,11 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-11-23T22:03:46Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17931810-allen-edmonds-up-to-50-off-black-friday-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+up+to+50+off+Black+Friday",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5acf3e4e86b6b84e",
@@ -32211,11 +31537,11 @@
   "pct": null,
   "price": 166.4,
   "found_at": "2026-11-23T22:03:46Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17682213-allen-edmonds-strand-leather-oxfords-black-166-40-in-cart?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Strand+Leather+Oxfords+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "bbc602e695b47dc1",
@@ -32229,11 +31555,11 @@
   "pct": null,
   "price": 166.38,
   "found_at": "2026-11-23T22:03:46Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17682129-neiman-marcus-allen-edmonds-park-avenue-leather-oxford-shoes-walnut-color-166-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Neiman+Marcus+Allen+Edmonds+Park+Avenue+Leather+Oxford+Shoes+-+Walnut+color",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ad5da88654be335c",
@@ -32247,11 +31573,11 @@
   "pct": 25,
   "price": 119.99,
   "found_at": "2026-11-23T22:03:46Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/17339421-allen-edmonds-men-s-shoes-round-toe-oxford-119-99-hendrix-leather-brogue-oxfords-149-99-eli-leather-penny-loafers-149-99-more-free-shipping-on-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Allen+Edmonds+Men%27s+Shoes+Round+Toe+Oxford",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "03f4cf4f55406bac",
@@ -32283,11 +31609,11 @@
   "pct": null,
   "price": 8999.99,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/14990246-jomashop-com-cartier-cle-18kt-rose-gold-automatic-flinque-sunray-dial-ladies-watch-wjcl0031-8999-99-fs?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop.com+CARTIER+Cle+18kt+Rose+Gold+Automatic+Flinque+Sunray+Dial+Ladies+Wat",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "186b04c715c9be4c",
@@ -32301,11 +31627,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/e/14801593-free-cartier-la-panth-re-parfum-sample?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Free+Cartier+La+Panth+re+Parfum+Sample",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e8018ff629331754",
@@ -32495,11 +31821,11 @@
   "pct": null,
   "price": 169.99,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20381073-sony-wh-1000xm5-wireless-noise-cancelling-over-the-ear-headphones-black-169-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+-+WH-1000XM5+Wireless+Noise+Cancelling+Over-the-Ear+Headphones+-+Black",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "11fa0accb4731d20",
@@ -32513,11 +31839,11 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20316159-citizen-automatic-yellow-dial-men-s-watch-43mm-169?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CITIZEN+Automatic+Yellow+Dial+Men%27s+Watch+43mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ee27fe93eb58655b",
@@ -32531,11 +31857,11 @@
   "pct": null,
   "price": 222.0,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20286702-oceaneva-men-s-oceantrek-gmt-automatic-nh34-200m-watch-222?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oceaneva+Men%27s+OceanTrek+GMT+Automatic+NH34+200m+watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0d67484da183c909",
@@ -32549,11 +31875,11 @@
   "pct": null,
   "price": 304.0,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20271972-citizen-promaster-navihawk-chronograph-khaki-green-dial-men-s-watch-304?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Navihawk+Chronograph+Khaki+Green+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9a589017b967422f",
@@ -32567,11 +31893,11 @@
   "pct": null,
   "price": 179.0,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20224686-jomashop-app-seiko-5-38mm-automatic-blue-dial-stainless-steel-men-s-watch-179-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+JomaShop+App+Seiko+5+38mm+Automatic+Blue+Dial+Stainless+Steel+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1770f0c04ed2debd",
@@ -32585,11 +31911,11 @@
   "pct": null,
   "price": 193.35,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20131314-seiko-5-sports-skx-42-5mm-black-gradient-dial-men-s-watch-w-black-silicone-strap-srpd73k2-193-35-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+5+Sports+SKX+42.5mm+Black+Gradient+Dial+Men%27s+Watch+w+Black+Silicone+Strap",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dcf4800ea1c64b9b",
@@ -32603,11 +31929,11 @@
   "pct": null,
   "price": 615.1,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20089467-42mm-hamilton-american-classic-black-dial-men-s-automatic-watch-615-10-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=42mm+Hamilton+American+Classic+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6e8ab5e4aa6ad444",
@@ -32943,11 +32269,11 @@
   "pct": 50,
   "price": 13.99,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20334495-2-pack-tagzilo-25w-qi2-magnetic-wireless-charging-pad-for-iphone-airpods-white-13-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2-Pack+TAGZILO+25W+Qi2+Magnetic+Wireless+Charging+Pad+for+iPhone+%26+AirPods",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5717f50bee387540",
@@ -32977,11 +32303,11 @@
   "pct": null,
   "price": 10.49,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20324721-2-pack-25w-tagzilo-qi2-2-magnetic-wireless-charging-pad-for-iphone-airpods-6-6-cord-white-10-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=2-Pack+25W+Tagzilo+Qi2.2+Magnetic+Wireless+Charging+Pad+for+iPhone+%26+AirPods",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c6ab84dba49e6df5",
@@ -33171,11 +32497,11 @@
   "pct": null,
   "price": 569.24,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20260188-refurbished-excellentsamsung-galaxy-z-flip7-5g-sm-f766u-512gb-unlocked-with-code-save20tech-569-24?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Refurbished+-+ExcellentSamsung+Galaxy+Z+Flip7+5G+-+SM-F766U+-+512GB+-+Unlocked+w",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "503f44cfc380a553",
@@ -33225,11 +32551,11 @@
   "pct": null,
   "price": 580.0,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20093487-mint-mobile-pixel-11-1-year-unlimited-plan-580-taxes?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Mint+Mobile+Pixel+11+%2B+1+Year+Unlimited+Plan",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "79373c4b600224e9",
@@ -33351,11 +32677,11 @@
   "pct": null,
   "price": 930.0,
   "found_at": "2026-11-23T22:09:09Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20006088-t-mobile-free-iphone-17-or-pixel-11-on-us-or-get-up-to-930-off-any-trade-in-on-most-plans-including-legacy-plans-through-24-or-36-monthly-bill-credits-ymmv?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=T-Mobile+Free+iPhone+17+or+Pixel+11+On+Us+or+Get+up+to",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c257057ee827a9b3",
@@ -34620,7 +33946,7 @@
  {
   "id": "9f3ee02b729ac633",
   "title": "Terrex Tracefinder Plus Trail Running Shoes (Core Black / Cloud White / Grey Five) $51",
-  "url": "https://slickdeals.net/f/20379795-terrex-tracefinder-plus-trail-running-shoes-core-black-cloud-white-grey-five-51?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.adidas.com/us/search?q=Terrex+Tracefinder+Plus+Trail+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud sale",
@@ -34628,12 +33954,17 @@
   "hot": false,
   "pct": null,
   "price": 51.0,
-  "found_at": "2026-11-23T22:12:21Z"
+  "found_at": "2026-11-23T22:12:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20379795-terrex-tracefinder-plus-trail-running-shoes-core-black-cloud-white-grey-five-51?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Adidas",
+  "similar": "https://www.adidas.com/us/search?q=Terrex+Tracefinder+Plus+Trail+Running+Shoes",
+  "exact": false
  },
  {
   "id": "4149ddf237ccf6a7",
   "title": "adidas Women's Ultraboost 5X Running Shoes (cloud white / glow blue / yellow) $53.50 + Free Shipping",
-  "url": "https://slickdeals.net/f/20379633-adidas-women-s-ultraboost-5x-running-shoes-cloud-white-glow-blue-yellow-53-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.adidas.com/us/search?q=adidas+Women%27s+Ultraboost+5X+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud sale",
@@ -34641,12 +33972,17 @@
   "hot": false,
   "pct": 50,
   "price": 53.5,
-  "found_at": "2026-11-23T22:12:21Z"
+  "found_at": "2026-11-23T22:12:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20379633-adidas-women-s-ultraboost-5x-running-shoes-cloud-white-glow-blue-yellow-53-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Adidas",
+  "similar": "https://www.adidas.com/us/search?q=adidas+Women%27s+Ultraboost+5X+Running+Shoes",
+  "exact": false
  },
  {
   "id": "4c56bd872f4e925a",
   "title": "adidas Women's Duramo SL Wide Running Shoes (cloud white / cloud white / grey five) $21 + Free Shipping",
-  "url": "https://slickdeals.net/f/20379570-adidas-women-s-duramo-sl-wide-running-shoes-cloud-white-cloud-white-grey-five-21-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.adidas.com/us/search?q=adidas+Women%27s+Duramo+SL+Wide+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud sale",
@@ -34654,12 +33990,17 @@
   "hot": false,
   "pct": 50,
   "price": 21.0,
-  "found_at": "2026-11-23T22:12:21Z"
+  "found_at": "2026-11-23T22:12:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20379570-adidas-women-s-duramo-sl-wide-running-shoes-cloud-white-cloud-white-grey-five-21-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Adidas",
+  "similar": "https://www.adidas.com/us/search?q=adidas+Women%27s+Duramo+SL+Wide+Running+Shoes",
+  "exact": false
  },
  {
   "id": "3ad0d88bb3593482",
   "title": "85-Oz CamelBak Cloud Walker 18 Hiking Hydration Pack (Navy) $29 + Free Shipping w/ Walmart+ or on $35+",
-  "url": "https://slickdeals.net/f/20374497-85-oz-camelbak-cloud-walker-18-hiking-hydration-pack-navy-29-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=85-Oz+CamelBak+Cloud+Walker+18+Hiking+Hydration+Pack",
   "why": "",
   "category": "everything",
   "source": "Web search: On Cloud sale",
@@ -34667,12 +34008,17 @@
   "hot": false,
   "pct": null,
   "price": 29.0,
-  "found_at": "2026-11-23T22:12:21Z"
+  "found_at": "2026-11-23T22:12:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20374497-85-oz-camelbak-cloud-walker-18-hiking-hydration-pack-navy-29-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=85-Oz+CamelBak+Cloud+Walker+18+Hiking+Hydration+Pack",
+  "exact": false
  },
  {
   "id": "a91f7364896820b5",
   "title": "HyperX Cloud Jet Wireless Gaming Headset (Black) $29.99 + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20368050-hyperx-cloud-jet-wireless-gaming-headset-black-29-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=HyperX+Cloud+Jet+Wireless+Gaming+Headset",
   "why": "",
   "category": "amazon",
   "source": "Web search: On Cloud sale",
@@ -34680,12 +34026,17 @@
   "hot": false,
   "pct": null,
   "price": 29.99,
-  "found_at": "2026-11-23T22:12:21Z"
+  "found_at": "2026-11-23T22:12:21Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20368050-hyperx-cloud-jet-wireless-gaming-headset-black-29-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=HyperX+Cloud+Jet+Wireless+Gaming+Headset",
+  "exact": false
  },
  {
   "id": "f5de1ab693eb736f",
   "title": "On Women's Cloudspike Citius 2 Track and Field Shoes (Yellow/White) $29.97 + Free Shipping on $49",
-  "url": "https://slickdeals.net/f/20215719-on-women-s-cloudspike-citius-2-track-and-field-shoes-yellow-white-29-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=On+Women%27s+Cloudspike+Citius+2+Track+and+Field+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: On Cloud price drop",
@@ -34693,12 +34044,17 @@
   "hot": false,
   "pct": null,
   "price": 29.97,
-  "found_at": "2026-11-23T22:12:23Z"
+  "found_at": "2026-11-23T22:12:23Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20215719-on-women-s-cloudspike-citius-2-track-and-field-shoes-yellow-white-29-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=On+Women%27s+Cloudspike+Citius+2+Track+and+Field+Shoes",
+  "exact": false
  },
  {
   "id": "ff0535ee7bc94690",
   "title": "Mainstays Boucle Cloud Storage Ottoman, Cream $49.94",
-  "url": "https://slickdeals.net/f/19595940-mainstays-boucle-cloud-storage-ottoman-cream-49-94?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Mainstays+Boucle+Cloud+Storage+Ottoman+Cream",
   "why": "",
   "category": "everything",
   "source": "Web search: On Cloud price drop",
@@ -34706,12 +34062,17 @@
   "hot": false,
   "pct": 17,
   "price": 49.94,
-  "found_at": "2026-11-23T22:12:23Z"
+  "found_at": "2026-11-23T22:12:23Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19595940-mainstays-boucle-cloud-storage-ottoman-cream-49-94?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=Mainstays+Boucle+Cloud+Storage+Ottoman+Cream",
+  "exact": false
  },
  {
   "id": "1879c019d6f0049a",
   "title": "HOKA Women's Arahi 8 Running Shoes (Black/Black) $86.97 + Free Shipping on $49+",
-  "url": "https://slickdeals.net/f/20362167-hoka-women-s-arahi-8-running-shoes-black-black-86-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Arahi+8+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34719,12 +34080,17 @@
   "hot": false,
   "pct": null,
   "price": 86.97,
-  "found_at": "2026-11-23T22:12:24Z"
+  "found_at": "2026-11-23T22:12:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20362167-hoka-women-s-arahi-8-running-shoes-black-black-86-97-free-shipping-on-49?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Arahi+8+Running+Shoes",
+  "exact": false
  },
  {
   "id": "f42c189b9269c5b9",
   "title": "Hoka Bondi 9 Men’s or Women’s Shoes $140",
-  "url": "https://slickdeals.net/f/20347281-hoka-bondi-9-men-s-or-women-s-shoes-140?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.zappos.com/search?term=Hoka+Bondi+9+Men+s+or+Women+s+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34732,12 +34098,17 @@
   "hot": false,
   "pct": null,
   "price": 140.0,
-  "found_at": "2026-11-23T22:12:24Z"
+  "found_at": "2026-11-23T22:12:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20347281-hoka-bondi-9-men-s-or-women-s-shoes-140?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Zappos",
+  "similar": "https://www.zappos.com/search?term=Hoka+Bondi+9+Men+s+or+Women+s+Shoes",
+  "exact": false
  },
  {
   "id": "0090be655304aeca",
   "title": "Hoka Arahi 8 - Mens $97.50",
-  "url": "https://slickdeals.net/f/20268282-hoka-arahi-8-mens-97-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.zappos.com/search?term=Hoka+Arahi+8+-+Mens",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34745,12 +34116,17 @@
   "hot": false,
   "pct": null,
   "price": 97.5,
-  "found_at": "2026-11-23T22:12:24Z"
+  "found_at": "2026-11-23T22:12:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20268282-hoka-arahi-8-mens-97-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Zappos",
+  "similar": "https://www.zappos.com/search?term=Hoka+Arahi+8+-+Mens",
+  "exact": false
  },
  {
   "id": "e575cc6fec61365c",
   "title": "HOKA Women's Arahi 8 Shoes (Various Colors, Sizes: 6-12) $97.50 + Free Shipping",
-  "url": "https://slickdeals.net/f/20251503-hoka-women-s-arahi-8-shoes-various-colors-sizes-6-12-97-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Arahi+8+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka sale",
@@ -34758,12 +34134,17 @@
   "hot": false,
   "pct": null,
   "price": 97.5,
-  "found_at": "2026-11-23T22:12:24Z"
+  "found_at": "2026-11-23T22:12:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20251503-hoka-women-s-arahi-8-shoes-various-colors-sizes-6-12-97-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Women%27s+Arahi+8+Shoes",
+  "exact": false
  },
  {
   "id": "227324f1cdc23e64",
   "title": "HOKA Men's & Women's Clifton 10 Running Shoes (All Colors/Sizes) $105 + Free Shipping @ JD Sports",
-  "url": "https://slickdeals.net/f/19659207-hoka-men-s-women-s-clifton-10-running-shoes-all-colors-sizes-105-free-shipping-jd-sports?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+%26+Women%27s+Clifton+10+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34771,12 +34152,17 @@
   "hot": false,
   "pct": null,
   "price": 105.0,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/19659207-hoka-men-s-women-s-clifton-10-running-shoes-all-colors-sizes-105-free-shipping-jd-sports?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Men%27s+%26+Women%27s+Clifton+10+Running+Shoes",
+  "exact": false
  },
  {
   "id": "baaa995c2bd8094c",
   "title": "Hoka Women's Bondi 8 Shoes (Harbor Mist/Lunar Rock, Limited Sizes) $100.80 + Free Shipping",
-  "url": "https://slickdeals.net/f/18031665-hoka-women-s-bondi-8-shoes-harbor-mist-lunar-rock-limited-sizes-100-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Bondi+8+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34784,12 +34170,17 @@
   "hot": false,
   "pct": null,
   "price": 100.8,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/18031665-hoka-women-s-bondi-8-shoes-harbor-mist-lunar-rock-limited-sizes-100-80-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Women%27s+Bondi+8+Shoes",
+  "exact": false
  },
  {
   "id": "4819a4fe84afd9a7",
   "title": "Hoka Men and Women's Clifton 9 $95.99, On Running Men's Roger Centre Court $99.99 & More + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/17938059-hoka-men-and-women-s-clifton-9-95-99-on-running-men-s-roger-centre-court-99-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Men+and+Women%27s+Clifton+9",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34797,12 +34188,17 @@
   "hot": false,
   "pct": 20,
   "price": 95.99,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17938059-hoka-men-and-women-s-clifton-9-95-99-on-running-men-s-roger-centre-court-99-99-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Men+and+Women%27s+Clifton+9",
+  "exact": false
  },
  {
   "id": "2489f5490038f3fc",
   "title": "Hoka Men's & Women's Running Shoes: Women's Hoka Speedgoat 5 Running Shoes $100 & More + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/17620104-hoka-men-s-women-s-running-shoes-women-s-hoka-speedgoat-5-running-shoes-100-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Men%27s+%26+Women%27s+Running+Shoes+Women%27s+Hoka+Speedgoat+5+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34810,12 +34206,17 @@
   "hot": false,
   "pct": 10,
   "price": 100.0,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17620104-hoka-men-s-women-s-running-shoes-women-s-hoka-speedgoat-5-running-shoes-100-more-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Men%27s+%26+Women%27s+Running+Shoes+Women%27s+Hoka+Speedgoat+5+Running+Shoes",
+  "exact": false
  },
  {
   "id": "27bdf079d6bae139",
   "title": "Men's/Women's Hoka Mach 5 Everyday Training Shoes (various colors/sizes) $112 + Free S/H",
-  "url": "https://slickdeals.net/f/17292562-men-s-women-s-hoka-mach-5-everyday-training-shoes-various-colors-sizes-112-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Men%27s+Women%27s+Hoka+Mach+5+Everyday+Training+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34823,12 +34224,17 @@
   "hot": false,
   "pct": null,
   "price": 112.0,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/17292562-men-s-women-s-hoka-mach-5-everyday-training-shoes-various-colors-sizes-112-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Men%27s+Women%27s+Hoka+Mach+5+Everyday+Training+Shoes",
+  "exact": false
  },
  {
   "id": "191863365cef9d1c",
   "title": "HOKA Anacapa Men's Mid GTX Hiking Boots (Real Teal/Outer Space) $91.85 + Free Shipping",
-  "url": "https://slickdeals.net/f/16482631-hoka-anacapa-men-s-mid-gtx-hiking-boots-real-teal-outer-space-91-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Anacapa+Men%27s+Mid+GTX+Hiking+Boots",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34836,12 +34242,17 @@
   "hot": false,
   "pct": null,
   "price": 91.85,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16482631-hoka-anacapa-men-s-mid-gtx-hiking-boots-real-teal-outer-space-91-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Anacapa+Men%27s+Mid+GTX+Hiking+Boots",
+  "exact": false
  },
  {
   "id": "77c1ffced5901f1b",
   "title": "HOKA Clifton 8 Running Shoes - $111.95",
-  "url": "https://slickdeals.net/f/16340587-hoka-clifton-8-running-shoes-111-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+Clifton+8+Running+Shoes+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34849,12 +34260,17 @@
   "hot": false,
   "pct": null,
   "price": 111.95,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/16340587-hoka-clifton-8-running-shoes-111-95?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+Clifton+8+Running+Shoes+-",
+  "exact": false
  },
  {
   "id": "4a146ad3cc85c832",
   "title": "HOKA ONE ONE Men's Arahi 5 Road-Running Shoes (Size 10, 12, or 12.5) $89.85 + Free Shipping",
-  "url": "https://slickdeals.net/f/15819712-hoka-one-one-men-s-arahi-5-road-running-shoes-size-10-12-or-12-5-89-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HOKA+ONE+ONE+Men%27s+Arahi+5+Road-Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34862,12 +34278,17 @@
   "hot": false,
   "pct": null,
   "price": 89.85,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15819712-hoka-one-one-men-s-arahi-5-road-running-shoes-size-10-12-or-12-5-89-85-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=HOKA+ONE+ONE+Men%27s+Arahi+5+Road-Running+Shoes",
+  "exact": false
  },
  {
   "id": "4fb80a26fae47cfd",
   "title": "Mens Hoka Toa Gore Tex Boot $119 w/ Free Shipping @ Nordstrom Rack",
-  "url": "https://slickdeals.net/f/15600445-mens-hoka-toa-gore-tex-boot-119-w-free-shipping-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.nordstromrack.com/sr?keyword=Mens+Hoka+Toa+Gore+Tex+Boot",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34875,12 +34296,17 @@
   "hot": false,
   "pct": null,
   "price": 119.0,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/15600445-mens-hoka-toa-gore-tex-boot-119-w-free-shipping-nordstrom-rack?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstromrack",
+  "similar": "https://www.nordstromrack.com/sr?keyword=Mens+Hoka+Toa+Gore+Tex+Boot",
+  "exact": false
  },
  {
   "id": "df50776cf836f77a",
   "title": "Hoka One One Mens and Womens Torrent Shoe 25% off w/ code No Tax $67.50",
-  "url": "https://slickdeals.net/e/14330561-hoka-one-one-mens-and-womens-torrent-shoe-25-off-w-code-no-tax-67-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+One+One+Mens+and+Womens+Torrent+Shoe+25+off+w+code+No+Tax",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34888,12 +34314,17 @@
   "hot": false,
   "pct": 25,
   "price": 67.5,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14330561-hoka-one-one-mens-and-womens-torrent-shoe-25-off-w-code-no-tax-67-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+One+One+Mens+and+Womens+Torrent+Shoe+25+off+w+code+No+Tax",
+  "exact": false
  },
  {
   "id": "1b12ef17c72339d3",
   "title": "hoka Clifton 6 $104 and Rincons $91 on sale!",
-  "url": "https://slickdeals.net/e/14170469-hoka-clifton-6-104-and-rincons-91-on-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=hoka+Clifton+6",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34901,12 +34332,17 @@
   "hot": false,
   "pct": null,
   "price": 104.0,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14170469-hoka-clifton-6-104-and-rincons-91-on-sale?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=hoka+Clifton+6",
+  "exact": false
  },
  {
   "id": "6bb7bcb660b18488",
   "title": "Hoka Clifton 6 $104. Rincons also on sale for $91",
-  "url": "https://slickdeals.net/e/14169143-hoka-clifton-6-104-rincons-also-on-sale-for-91?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+Clifton+6",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34914,12 +34350,17 @@
   "hot": false,
   "pct": null,
   "price": 104.0,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14169143-hoka-clifton-6-104-rincons-also-on-sale-for-91?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+Clifton+6",
+  "exact": false
  },
  {
   "id": "528ba96ef00c479b",
   "title": "Hoka One One Bondi 6 20% off $119.93",
-  "url": "https://slickdeals.net/e/13779554-hoka-one-one-bondi-6-20-off-119-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Hoka+One+One+Bondi+6+20+off",
   "why": "",
   "category": "fashion",
   "source": "Web search: Hoka price drop",
@@ -34927,12 +34368,17 @@
   "hot": false,
   "pct": 20,
   "price": 119.93,
-  "found_at": "2026-11-23T22:12:25Z"
+  "found_at": "2026-11-23T22:12:25Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/13779554-hoka-one-one-bondi-6-20-off-119-93?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Hoka+One+One+Bondi+6+20+off",
+  "exact": false
  },
  {
   "id": "793e078a394bc15d",
   "title": "Oakley Men's Icon TN Protect RC Polo (New Jade, S, L, XL) - $18.16",
-  "url": "https://slickdeals.net/f/20351667-oakley-men-s-icon-tn-protect-rc-polo-new-jade-s-l-xl-18-16?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=Oakley+Men%27s+Icon+TN+Protect+RC+Polo+-",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -34940,12 +34386,17 @@
   "hot": false,
   "pct": null,
   "price": 18.16,
-  "found_at": "2026-11-23T22:12:29Z"
+  "found_at": "2026-11-23T22:12:29Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20351667-oakley-men-s-icon-tn-protect-rc-polo-new-jade-s-l-xl-18-16?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Oakley+Men%27s+Icon+TN+Protect+RC+Polo+-",
+  "exact": false
  },
  {
   "id": "0b34166e13877b93",
   "title": "Oakley Youth Inverter Gaming Collection Glasses (Various Colors) $44 + Free Shipping on $50+",
-  "url": "https://slickdeals.net/f/20307750-oakley-youth-inverter-gaming-collection-glasses-various-colors-44-free-shipping-on-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Oakley+Youth+Inverter+Gaming+Collection+Glasses",
   "why": "",
   "category": "fashion",
   "source": "Web search: Oakley sale",
@@ -34953,6 +34404,612 @@
   "hot": false,
   "pct": null,
   "price": 44.0,
-  "found_at": "2026-11-23T22:12:29Z"
+  "found_at": "2026-11-23T22:12:29Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20307750-oakley-youth-inverter-gaming-collection-glasses-various-colors-44-free-shipping-on-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Oakley+Youth+Inverter+Gaming+Collection+Glasses",
+  "exact": false
+ },
+ {
+  "id": "bcfb9533197efa8b",
+  "title": "Macys (BLACK FRIDAY DEAL) - Bvlgari 3-Piece Pour Homme Eau de Parfum Gift Set - $129.50",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Bvlgari%203-Piece%20Pour%20Homme%20Eau%20de%20Parfum%20Gift%20Set%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 129.5,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20365068-macys-black-friday-deal-bvlgari-3-piece-pour-homme-eau-de-parfum-gift-set-129-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Bvlgari%203-Piece%20Pour%20Homme%20Eau%20de%20Parfum%20Gift%20Set%20-",
+  "exact": false
+ },
+ {
+  "id": "1b68dee785bea11a",
+  "title": "Macys (BLACK FRIDAY DEAL) - Issey Miyake L'Eau d'Issey Pour Homme Eau de Fragrance Gift Set - $98.00",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Issey%20Miyake%20L%27Eau%20d%27Issey%20Pour%20Homme%20Eau%20de%20Fragrance%20Gift%20Set%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 98.0,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20365050-macys-black-friday-deal-issey-miyake-l-eau-d-issey-pour-homme-eau-de-fragrance-gift-set-98-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Issey%20Miyake%20L%27Eau%20d%27Issey%20Pour%20Homme%20Eau%20de%20Fragrance%20Gift%20Set%20-",
+  "exact": false
+ },
+ {
+  "id": "abf71c41adffd84c",
+  "title": "Macys (BLACK FRIDAY DEAL) - Bvlgari 2-Piece Man Rain Essence Eau de Parfum Gift Set - $122.50",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Bvlgari%202-Piece%20Man%20Rain%20Essence%20Eau%20de%20Parfum%20Gift%20Set%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 122.5,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20365032-macys-black-friday-deal-bvlgari-2-piece-man-rain-essence-eau-de-parfum-gift-set-122-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Bvlgari%202-Piece%20Man%20Rain%20Essence%20Eau%20de%20Parfum%20Gift%20Set%20-",
+  "exact": false
+ },
+ {
+  "id": "c7035e385c5a41d3",
+  "title": "Macys (BLACK FRIDAY DEAL) - Gucci Men's Guilty Love Edition Pour Homme, 3 oz. - $102.00",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Gucci%20Men%27s%20Guilty%20Love%20Edition%20Pour%20Homme%203%20oz.%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 102.0,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20365005-macys-black-friday-deal-gucci-men-s-guilty-love-edition-pour-homme-3-oz-102-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Gucci%20Men%27s%20Guilty%20Love%20Edition%20Pour%20Homme%203%20oz.%20-",
+  "exact": false
+ },
+ {
+  "id": "18bee3bc378b14f8",
+  "title": "Macys (BLACK FRIDAY DEAL) - Montblanc Explorer Platinum Eau de Parfum Spray, 3.3 oz. - $68.00",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Montblanc%20Explorer%20Platinum%20Eau%20de%20Parfum%20Spray%203.3%20oz.%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 68.0,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20364987-macys-black-friday-deal-montblanc-explorer-platinum-eau-de-parfum-spray-3-3-oz-68-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Montblanc%20Explorer%20Platinum%20Eau%20de%20Parfum%20Spray%203.3%20oz.%20-",
+  "exact": false
+ },
+ {
+  "id": "f7a08ac12529cd1d",
+  "title": "Macys (BLACK FRIDAY DEAL) - Bvlgari 2-Piece Man Wood Essence Eau de Parfum Gift Set - $122.50",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Bvlgari%202-Piece%20Man%20Wood%20Essence%20Eau%20de%20Parfum%20Gift%20Set%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: fragrance",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 122.5,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20364966-macys-black-friday-deal-bvlgari-2-piece-man-wood-essence-eau-de-parfum-gift-set-122-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Bvlgari%202-Piece%20Man%20Wood%20Essence%20Eau%20de%20Parfum%20Gift%20Set%20-",
+  "exact": false
+ },
+ {
+  "id": "1efa3a0100e5030f",
+  "title": "Macys (BLACK FRIDAY DEAL) - Gucci Men's Guilty Love Edition Pour Homme, 3 oz. - $102.00",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Gucci%20Men%27s%20Guilty%20Love%20Edition%20Pour%20Homme%203%20oz.%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Gucci",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 102.0,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20365005-macys-black-friday-deal-gucci-men-s-guilty-love-edition-pour-homme-3-oz-102-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Gucci%20Men%27s%20Guilty%20Love%20Edition%20Pour%20Homme%203%20oz.%20-",
+  "exact": false
+ },
+ {
+  "id": "5bed978bceeb7cdc",
+  "title": "Black Friday Electronics Deals at Newegg: Up to 51% off + free shipping",
+  "url": "https://www.newegg.com/p/pl?d=Black+Friday+Electronics+Deals",
+  "why": "Oled — all-time low",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": 51,
+  "price": null,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Black-Friday-Electronics-Deals-at-Newegg-Up-to-51-off-free-shipping/22425467.html?iref=rss",
+  "store": "Newegg",
+  "similar": "https://www.newegg.com/p/pl?d=Black+Friday+Electronics+Deals",
+  "exact": false
+ },
+ {
+  "id": "a1a6173bc40e64ca",
+  "title": "Macys [BLACK FRIDAY DEAL] - Azzaro Forever Wanted Absolu Eau De Parfum 3.38 oz - $93.00",
+  "url": "https://www.macys.com/shop/featured/Macys%20-%20Azzaro%20Forever%20Wanted%20Absolu%20Eau%20De%20Parfum%203.38%20oz%20-",
+  "why": "",
+  "category": "fragrance",
+  "source": "Slickdeals: Creed",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 93.0,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20328540-macys-black-friday-deal-azzaro-forever-wanted-absolu-eau-de-parfum-3-38-oz-93-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Macys",
+  "similar": "https://www.macys.com/shop/featured/Macys%20-%20Azzaro%20Forever%20Wanted%20Absolu%20Eau%20De%20Parfum%203.38%20oz%20-",
+  "exact": false
+ },
+ {
+  "id": "2faae6baba939164",
+  "title": "Wow! AirPods Pro 3 drop to lowest price ever (just $149). - Cult of Mac",
+  "url": "https://www.google.com/search?tbm=shop&q=Wow+AirPods+Pro+3+drop+to+lowest+price+ever+just",
+  "why": "Airpods — lowest price ever",
+  "category": "tech",
+  "source": "Google: Apple deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 149.0,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOFFIaVNJYS1kVndNaTI2bGZtalhCWllzcENNOXEyY1J3V1MwRm51aUJvVllRUlUtak9PRlVvNW4tUDNaaG1mRzAtSlVPUjM0UnFZWEdNMTJLYXM4?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Wow+AirPods+Pro+3+drop+to+lowest+price+ever+just",
+  "exact": false
+ },
+ {
+  "id": "11c298c192df725d",
+  "title": "PS5 Pro-Enhanced Spider-Man Game Is 60% Off on PlayStation Store - PlayStation LifeStyle",
+  "url": "https://www.google.com/search?q=site%3Adirect.playstation.com+PS5+Pro-Enhanced+Spider-Man+Game+Is+60+Off+on+PlayStation+Store+-+PlayStation+Li",
+  "why": "Ps5 — 60% off",
+  "category": "tech",
+  "source": "Google: PS5 deal",
+  "urgent": false,
+  "hot": true,
+  "pct": 60,
+  "price": null,
+  "found_at": "2026-11-23T22:17:54Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGFQQUYwWVgyUWRwaW5IQ18tcWRidEdQa2FPa2VWa05GSjB6VWJnZVRZWmQtUzZjMzhxcmRtT09uZEdnT0tMUnhQYlFpMWFRZkpSX1pYeEliby1aM0haNGlIY0VRSlNYVEg4aWQ0eXdUT1hIT3RTTmRqb3dBTWc5c1g2RVo0bXkwQm9HQkJ6YTI3akdObHVFZnJWbndmcm44NFRvb3FfLTl5TnM?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+PS5+Pro-Enhanced+Spider-Man+Game+Is+60+Off+on+PlayStation+Store+-+PlayStation+Li",
+  "exact": false
+ },
+ {
+  "id": "9ae48c0a004c3640",
+  "title": "Maui Jim Men's Lighthouse Polarized Sunglasses $90 & More + Free S&H",
+  "url": "https://slickdeals.net/f/20286294-maui-jim-men-s-lighthouse-polarized-sunglasses-90-more-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Maui Jim sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 90.0,
+  "found_at": "2026-11-23T22:21:18Z"
+ },
+ {
+  "id": "9b68f780b3cd8783",
+  "title": "lululemon Wordmark Canvas Pouch Mini (4 Colors) or Everywhere Belt Bag Nano (3 Colors) $14 + Free Shipping",
+  "url": "https://slickdeals.net/f/20370003-lululemon-wordmark-canvas-pouch-mini-4-colors-or-everywhere-belt-bag-nano-3-colors-14-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "80efc2492204d625",
+  "title": "lululemon 32L Scuba Backpack (Black, Navy, Rose) $64 + Free Shipping",
+  "url": "https://slickdeals.net/f/20345301-lululemon-32l-scuba-backpack-black-navy-rose-64-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 64.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "2fcac8980d0fcc97",
+  "title": "lululemon 1L City Essentials Mini Shoulder Bag (Toasted Pink/Silver) $34 + Free Shipping",
+  "url": "https://slickdeals.net/f/20345046-lululemon-1l-city-essentials-mini-shoulder-bag-toasted-pink-silver-34-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "04f6917b304cda0d",
+  "title": "5L lululemon On My Level Small Tote Bag ( 3 Colors) $34 + Free S&H",
+  "url": "https://slickdeals.net/f/20345010-5l-lululemon-on-my-level-small-tote-bag-3-colors-34-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 34.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "c861924d81f06e77",
+  "title": "lululemon Dual Pouch Wristlet (Various) $24 + Free Shipping",
+  "url": "https://slickdeals.net/f/20344914-lululemon-dual-pouch-wristlet-various-24-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "94fe9cadcc9859da",
+  "title": "lululemon 3.5L Travel Toiletry Bag (Burgundy) $24 + Free Shipping",
+  "url": "https://slickdeals.net/f/20344878-lululemon-3-5l-travel-toiletry-bag-burgundy-24-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "58b13b7f33e664af",
+  "title": "lululemon 2L Everywhere Sling Bag (Raspberry or Pink) $29 + Free Shipping",
+  "url": "https://slickdeals.net/f/20344833-lululemon-2l-everywhere-sling-bag-raspberry-or-pink-29-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 29.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "9f682235cef2b7a9",
+  "title": "3L lululemon Small Slouchy Sling Bag (3 Colors) $29 + Free S&H",
+  "url": "https://slickdeals.net/f/20344809-3l-lululemon-small-slouchy-sling-bag-3-colors-29-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 29.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "c29a623ae69ac4fe",
+  "title": "lululemon 1L Everywhere Belt Bag (3 Colors) $19 + Free Shipping",
+  "url": "https://slickdeals.net/f/20344776-lululemon-1l-everywhere-belt-bag-3-colors-19-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 19.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "6e9d9bbf397d0be4",
+  "title": "1.2L lululemon Leather Alternative Mini Bag + Pouch (Black) $54 + Free Shipping",
+  "url": "https://slickdeals.net/f/20333307-1-2l-lululemon-leather-alternative-mini-bag-pouch-black-54-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.0,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "80fa5d40a120a5ae",
+  "title": "The Algorithm: The Hypergrowth Formula That Transformed Tesla, Lululemon, General Motors, and SpaceX $1.99",
+  "url": "https://slickdeals.net/f/20300097-the-algorithm-the-hypergrowth-formula-that-transformed-tesla-lululemon-general-motors-and-spacex-1-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 1.99,
+  "found_at": "2026-11-23T22:21:21Z"
+ },
+ {
+  "id": "5dddbc6a22e64b4d",
+  "title": "Yes, Lululemon Dropped Its Black Friday Sale Early — Our Picks Start at $9 - TODAY.com",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84aVJHRW1rcVY1SDNPaWFuTWtMSGJxNDZLTVRTRzZ2N0pRRDVzam11NlhGMFRidUNhMHFLTjYxcFBmMXVueGxJUTc0dHZzalhjbUJpdy1DamVkMnk4VVdWaHdoZ1Z0aGpWTlBDNkJfRW1OYVFhNXZadzNR?oc=5",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Lululemon price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 9.0,
+  "found_at": "2026-11-23T22:21:22Z"
+ },
+ {
+  "id": "dc626b341ec6539f",
+  "title": "Alo Yoga plans Union Square store in building cofounder bought for $48.5M - The San Francisco Standard",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Sb2ViaU4tUzYtUFJVbUFpNzNHRmZYblNaZGhIWXQ0elk0MnFHYUprS1psX1QzMHQ5ZElzSTN0aDE1eVRtTkRva1pqMnlCTDlYcy1YWUJiNklydHpZN21SZG9hRDl5Z1hxazgxeWhydw?oc=5",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Alo Yoga sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 48.5,
+  "found_at": "2026-11-23T22:21:23Z"
+ },
+ {
+  "id": "05b75eb083643d5b",
+  "title": "Alo Yoga’s Black Friday Sale Just Started — Save 30% off the Everything (Plus, What’s Already Selling Out) - Yahoo",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUNSM3R0NndBOWtqTVRLZkVnQWxBQkFQR2dhRlNzQXlSTjhyVk1lclJKU1NXMGRfYmV2dnlVUUFaMHgyQ1hPcWRPMU0wOGZFRkZyLWtPYVpILVZtOXVUeFJVcU4xamJkd0tKWDcyN3k0c2p3anR3RDk4Y3JVci1tUldpaGppR0lfeWNPM3RCdVAxYktFc2Nj?oc=5",
+  "why": "",
+  "category": "everything",
+  "source": "Web search: Alo Yoga sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": null,
+  "found_at": "2026-11-23T22:21:23Z"
+ },
+ {
+  "id": "19a5d7e03278483b",
+  "title": "Assassin’s Creed Shadows (Nintendo Switch 2) $15 + Free Shipping w/ Prime or on orders over $35",
+  "url": "https://slickdeals.net/f/20375874-assassin-s-creed-shadows-nintendo-switch-2-15-free-shipping-w-prime-or-on-orders-over-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.0,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "9c6cc0a725cb8ec6",
+  "title": "$15: Assassin's Creed Shadows Standard Edition for Playstation 5 at Amazon",
+  "url": "https://slickdeals.net/f/20375502-15-assassin-s-creed-shadows-standard-edition-for-playstation-5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.0,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "f81013ba52d07a24",
+  "title": "Assassin's Creed Black Flag Resynced (Walmart Edition) - $30 @ Walmart",
+  "url": "https://slickdeals.net/f/20374902-assassin-s-creed-black-flag-resynced-walmart-edition-30-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "d361f6c8ce5d3e52",
+  "title": "Assassin's Creed: Shadows (PS5) $15 + Free Pickup",
+  "url": "https://slickdeals.net/f/20374314-assassin-s-creed-shadows-ps5-15-free-pickup?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.0,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "ec8afe72d28c8b5b",
+  "title": "$15 | Assassins Creed Shadows (Game-Key Card) (Nintendo Switch 2) at Walmart",
+  "url": "https://slickdeals.net/f/20373825-15-assassins-creed-shadows-game-key-card-nintendo-switch-2-at-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 57,
+  "price": 15.0,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "42c8b5b011bcc23e",
+  "title": "$14.97 Assassin's Creed The Ezio Collection, Nintendo Switch",
+  "url": "https://slickdeals.net/f/20356005-14-97-assassin-s-creed-the-ezio-collection-nintendo-switch?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "dcf859b781249c4a",
+  "title": "Assassin's Creed Shadows Standard Edition - Key Card - Nintendo Switch 2 $8.99",
+  "url": "https://slickdeals.net/f/20352807-assassin-s-creed-shadows-standard-edition-key-card-nintendo-switch-2-8-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 8.99,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "344dfb25e27615ff",
+  "title": "Assassin’s Creed Shadows - Standard Edition, Nintendo Switch 2 $20.8",
+  "url": "https://slickdeals.net/f/20346498-assassin-s-creed-shadows-standard-edition-nintendo-switch-2-20-8?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.8,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "07b07bd136f7cb1f",
+  "title": "Assassin's Creed Shadows - PlayStation 5 YMMV $10.5",
+  "url": "https://slickdeals.net/f/20345733-assassin-s-creed-shadows-playstation-5-ymmv-10-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 70,
+  "price": 10.5,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "7e0ed8e547d7e9c8",
+  "title": "$24.99* | Assassin's Creed Shadows (PS5) at Amazon",
+  "url": "https://slickdeals.net/f/20342079-24-99-assassin-s-creed-shadows-ps5-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.99,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "bf36438d75f3ba8d",
+  "title": "Assassin's Creed Shadows Limited Edition (PS5) $24.99 + Free Shipping w/ Prime or on $35+",
+  "url": "https://slickdeals.net/f/20340330-assassin-s-creed-shadows-limited-edition-ps5-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 24.99,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "2a613392c015d7e0",
+  "title": "[Ubisoft Store] Assassin's Creed Black Flag Resynced: Standard $36; Deluxe $42 (Digital PC Game)",
+  "url": "https://slickdeals.net/f/20334597-ubisoft-store-assassin-s-creed-black-flag-resynced-standard-36-deluxe-42-digital-pc-game?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 36.0,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "33537927aad8b835",
+  "title": "$14.97 Assassin's Creed Mirage - PlayStation 5",
+  "url": "https://slickdeals.net/f/20333688-14-97-assassin-s-creed-mirage-playstation-5?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.97,
+  "found_at": "2026-11-23T22:21:26Z"
+ },
+ {
+  "id": "54c78884a6741a29",
+  "title": "Assassin's creed mirage - standard edition, playstation 5 (preorder) $49.99",
+  "url": "https://slickdeals.net/f/16321510-assassin-s-creed-mirage-standard-edition-playstation-5-preorder-49-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 49.99,
+  "found_at": "2026-11-23T22:21:27Z"
+ },
+ {
+  "id": "4316bff61d09c558",
+  "title": "PlayerUnknowns Battlegrounds (XBOX ONLINE CODE) PUBG $15.49 PRICE DROP + FREE ASSASSINS CREED UNITY",
+  "url": "https://slickdeals.net/e/11951687-playerunknowns-battlegrounds-xbox-online-code-pubg-15-49-price-drop-free-assassins-creed-unity?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 15.49,
+  "found_at": "2026-11-23T22:21:27Z"
+ },
+ {
+  "id": "85ce16427a1bad65",
+  "title": "Assassin's Creed: Black Flag Resynced Drops to $30 on PS5 at Walmart for Black Friday - IGN",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTlqb2podWNQc1ZWSnVjOThHc2w2QnJJUktUVER3OEtsQ29MYjFTVEJXTGFFMHVHNnRMclRFRWpnblItT3ZSbEI2bjFIUzFmd3hfQUxGZFZyd1FERFAxWW15WUpIRmJUVl9VWHlTYlJoVU1iTWt4SXEzQ3dNNVpVZ2FzbHRwVUNKVWlmZjhXRGVYWEtKanc3U0kzQldpNV9MdjhjWkktWTZTY3V2cFdvRQ?oc=5",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Creed price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 30.0,
+  "found_at": "2026-11-23T22:21:27Z"
  }
 ]
