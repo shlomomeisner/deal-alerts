@@ -574,7 +574,8 @@
    "OGG"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-25T09:58:25Z"
  },
  {
   "id": "8c18a5c0fb447963",
@@ -599,7 +600,8 @@
    "OGG"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-25T09:58:26Z"
  },
  {
   "id": "8ff303958f86bea5",
@@ -624,7 +626,8 @@
    "OGG"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20OGG&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-25T09:58:28Z"
  },
  {
   "id": "273e297a022efcb1",
@@ -650,7 +653,8 @@
    "HNL"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD",
+  "checked_at": "2026-11-25T09:58:29Z"
  },
  {
   "id": "7934c851bb926bbc",
@@ -668,7 +672,8 @@
   "source_url": "https://slickdeals.net/f/20380095-refurb-dyson-v8-absolute-cordless-vacuum-silver-black-refurbished-179-99-free-shipping?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Refurb+Dyson+V8+Absolute+Cordless+Vacuum",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:30Z"
  },
  {
   "id": "ce6cfd5001b21775",
@@ -686,7 +691,8 @@
   "source_url": "https://slickdeals.net/f/20383974-casio-men-s-g-shock-solar-atomic-stainless-steel-watch-114-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Casio+Men%27s+G-Shock+Solar+Atomic+Stainless+Steel+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:31Z"
  },
  {
   "id": "60a50f1522c4b865",
@@ -704,7 +710,8 @@
   "source_url": "https://slickdeals.net/f/20383974-casio-men-s-g-shock-solar-atomic-stainless-steel-watch-114-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Casio+Men%27s+G-Shock+Solar+Atomic+Stainless+Steel+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:32Z"
  },
  {
   "id": "79395bb6caa66392",
@@ -722,7 +729,8 @@
   "source_url": "https://slickdeals.net/f/20383956-gopro-max2-waterproof-360-traditional-action-camera-w-touch-screen-275-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=GoPro+MAX2+Waterproof+360+%2B+Traditional+Action+Camera+w+Touch+Screen",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:33Z"
  },
  {
   "id": "8007e5c1421ad001",
@@ -740,7 +748,8 @@
   "source_url": "https://slickdeals.net/f/20383974-casio-men-s-g-shock-solar-atomic-stainless-steel-watch-114-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Casio+Men%27s+G-Shock+Solar+Atomic+Stainless+Steel+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:34Z"
  },
  {
   "id": "3b6f194155458248",
@@ -758,7 +767,8 @@
   "source_url": "https://slickdeals.net/f/20383983-iniu-portable-charger-10000mah-30w-fast-charging-power-bank-built-in-usb-c-cable-and-foldable-ac-plug-travel-essentials-battery-pack-for-iphone-16-15-samsung-macbook?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=INIU+Portable+Charger+10000mAh+30W+Fast+Charging+Power+Bank+Built-in+USB+C+Cable",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:35Z"
  },
  {
   "id": "7f1d3348caa63cfa",
@@ -776,7 +786,8 @@
   "source_url": "https://slickdeals.net/f/20383983-iniu-portable-charger-10000mah-30w-fast-charging-power-bank-built-in-usb-c-cable-and-foldable-ac-plug-travel-essentials-battery-pack-for-iphone-16-15-samsung-macbook?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Samsung",
   "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=INIU+Portable+Charger+10000mAh+30W+Fast+Charging+Power+Bank+Built-in+USB+C+Cable",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:36Z"
  },
  {
   "id": "0fa37717e965f87a",
@@ -794,7 +805,8 @@
   "source_url": "https://slickdeals.net/f/19649586-nordstrom-designer-clearance-extra-25-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Nordstrom",
   "similar": "https://www.nordstrom.com/sr?keyword=Nordstrom+Designer+Clearance+Extra+25+Off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:38Z"
  },
  {
   "id": "d16ac2aa6323a149",
@@ -811,7 +823,8 @@
   "source_url": "https://slickdeals.net/e/13137808-saks-fifth-avenue-designer-sale-up-to-75-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+75+Off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:38Z"
  },
  {
   "id": "d6f92ee0241d87f1",
@@ -828,7 +841,8 @@
   "source_url": "https://slickdeals.net/e/13096699-saks-fifth-avenue-designer-sale-up-to-50-off-women-s-ready-to-wear-up-to-40-off-accessories-and-men-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+50+Off+Women%27s+Ready+to+Wear+%26+Up+to+40+Off+A",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:39Z"
  },
  {
   "id": "010f770f92ed8629",
@@ -845,7 +859,8 @@
   "source_url": "https://slickdeals.net/e/13026310-saks-50-off-every-200-works-on-designer-bags?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-25T09:58:39Z"
  },
  {
   "id": "9bf6bde449a62018",
@@ -27250,7 +27265,7 @@
  {
   "id": "eac3575a7464ef55",
   "title": "DJI Osmo Pocket 3 Vlogging Camera Osmo Pocket 3 Vlog Bundle w/ 3-Axis Stabilization, DJI Mic Mini Included $398",
-  "url": "https://slickdeals.net/f/20339712-dji-osmo-pocket-3-vlogging-camera-osmo-pocket-3-vlog-bundle-w-3-axis-stabilization-dji-mic-mini-included-398?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+Vlogging+Camera+Osmo+Pocket+3+Vlog+Bundle+w+3-Axis+Stabilizati",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -27262,7 +27277,8 @@
   "source_url": "https://slickdeals.net/f/20339712-dji-osmo-pocket-3-vlogging-camera-osmo-pocket-3-vlog-bundle-w-3-axis-stabilization-dji-mic-mini-included-398?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+Vlogging+Camera+Osmo+Pocket+3+Vlog+Bundle+w+3-Axis+Stabilizati",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9d39eb164caccbd3",
@@ -27375,7 +27391,7 @@
  {
   "id": "d0f6d9df917cd49a",
   "title": "DJI Osmo Pocket 3 3-Axis 4K Vlogging Gimbal Camera w/ Rotatable Touchscreen $264.35 + Free S&H",
-  "url": "https://slickdeals.net/f/20330043-dji-osmo-pocket-3-3-axis-4k-vlogging-gimbal-camera-w-rotatable-touchscreen-264-35-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+3-Axis+4K+Vlogging+Gimbal+Camera+w+Rotatable+Touchscreen",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Dji Osmo",
@@ -27387,7 +27403,8 @@
   "exact": false,
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Osmo+Pocket+3+3-Axis+4K+Vlogging+Gimbal+Camera+w+Rotatable+Touchscreen",
   "source_url": "https://slickdeals.net/f/20330043-dji-osmo-pocket-3-3-axis-4k-vlogging-gimbal-camera-w-rotatable-touchscreen-264-35-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google"
+  "store": "Google",
+  "link_tried3": true
  },
  {
   "id": "aa737167ae1979a2",
@@ -34044,11 +34061,11 @@
   "pct": null,
   "price": 135.0,
   "found_at": "2026-11-25T09:48:27Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Dalstrong-Game-of-Thrones-Nights-Watch-8-Chef-Knife-for-135-free-shipping/22430546.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Dalstrong+Game+of+Thrones+Night%27s+Watch+8+Chef+Knife+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "c8b792f4a503c64a",
@@ -34091,12 +34108,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Palm%20Springs%2C%20California%20%28%26%20vice%20versa%29&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "5184d64ae3e1bd2c",
   "title": "3.3 fl. oz. Givenchy Pi Men's Eau De Toilette Spray - $33 + Shipping $7 or Free S&H on $69+ at AuraFragrance $32.98",
-  "url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray+-",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Givenchy sale",
@@ -34104,12 +34122,17 @@
   "hot": false,
   "pct": null,
   "price": 33.0,
-  "found_at": "2026-11-25T09:51:01Z"
+  "found_at": "2026-11-25T09:51:01Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=3.3+fl.+oz.+Givenchy+Pi+Men%27s+Eau+De+Toilette+Spray+-",
+  "exact": false
  },
  {
   "id": "2e5e365e63c67976",
   "title": "Chanel 2025 Results: $19.3 Billion Revenue, Growth with Blazy and New Price Increases - nss magazine",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
   "why": "",
   "category": "fashion",
   "source": "Web search: Chanel price drop",
@@ -34117,6 +34140,71 @@
   "hot": false,
   "pct": null,
   "price": 19.3,
-  "found_at": "2026-11-25T09:51:07Z"
+  "found_at": "2026-11-25T09:51:07Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldxNDNnX1pjRkxRUlpsd0ozR1ZCVVMtbEdBY0xJM0Z3anVZVU5tYzJhOXYwTDk4RnEtU3BaQTdwYVlLMnJ0ZV82WGxPMTg5OWtRam9fMmhlaUN1ODRhVlhxMzFyNlluUXlnUGI4bnZOQnpabTBxb0Y5ME9ZZmVxQzZsUGZUSnBtNzNEWklVVS1LQQ?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Chanel+2025+Results",
+  "exact": false
+ },
+ {
+  "id": "ac6ecea887f768b3",
+  "title": "The Bible Promise Book for Wom... Barbour Simplified KJV Prayer - down 7.08% ($0.86) to $11.28 from $12.14",
+  "url": "https://www.amazon.com/dp/1636097790",
+  "why": "",
+  "category": "fashion",
+  "source": "camelcamelcamel Amazon drops",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 0.86,
+  "found_at": "2026-11-25T09:56:15Z",
+  "source_url": "https://camelcamelcamel.com/product/1636097790",
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=The+Bible+Promise+Book+for+Wom...+Barbour+Simplified+KJV+Prayer+-+down+7.08"
+ },
+ {
+  "id": "b6abe28d8aa5b1b5",
+  "title": "New PROLED XDR MacBook Pro with touch drops even lower, now up to $290 off for Black Friday",
+  "url": "https://link.amazon/B0bzjzmzU",
+  "why": "Macbook — all-time low",
+  "category": "watches",
+  "source": "9to5Toys",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 290.0,
+  "found_at": "2026-11-25T09:56:15Z",
+  "link_tried3": true,
+  "source_url": "https://9to5toys.com/2026/11/25/new-proled-xdr-macbook-pro-touch-black-friday/",
+  "store": "Link",
+  "similar": "https://link.amazon/B0bzjzmzU",
+  "exact": false
+ },
+ {
+  "id": "1f1d4117852cca00",
+  "title": "6.7-Oz Ralph Lauren Men's Polo 67 Eau de Parfum $84",
+  "url": "https://slickdeals.net/f/20391330-6-7-oz-ralph-lauren-men-s-polo-67-eau-de-parfum-84?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Ralph Lauren sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 84.0,
+  "found_at": "2026-11-25T09:58:55Z"
+ },
+ {
+  "id": "bf629e28adf0da7b",
+  "title": "Ralph Lauren Black Friday - 30% off most items $140",
+  "url": "https://slickdeals.net/f/20388585-ralph-lauren-black-friday-30-off-most-items-140?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Ralph Lauren sale",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": 140.0,
+  "found_at": "2026-11-25T09:58:55Z"
  }
 ]
