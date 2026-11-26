@@ -1,264 +1,5 @@
 [
  {
-  "id": "0fa37717e965f87a",
-  "title": "Nordstrom Designer Clearance Extra 25% Off",
-  "url": "https://www.nordstrom.com/sr?keyword=Nordstrom+Designer+Clearance+Extra+25+Off",
-  "why": "",
-  "category": "fashion",
-  "source": "Web search: Nordstrom designer sale",
-  "urgent": false,
-  "hot": false,
-  "pct": 25,
-  "price": null,
-  "found_at": "2026-11-26T02:18:09Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/19649586-nordstrom-designer-clearance-extra-25-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Nordstrom",
-  "similar": "https://www.nordstrom.com/sr?keyword=Nordstrom+Designer+Clearance+Extra+25+Off",
-  "exact": false,
-  "checked_at": "2026-11-26T20:22:56Z"
- },
- {
-  "id": "d16ac2aa6323a149",
-  "title": "Saks Fifth Avenue: Designer Sale - Up to 75% Off",
-  "url": "https://slickdeals.net/e/13137808-saks-fifth-avenue-designer-sale-up-to-75-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Web search: Saks designer sale",
-  "urgent": false,
-  "hot": false,
-  "pct": 75,
-  "price": null,
-  "found_at": "2026-11-26T02:18:10Z",
-  "source_url": "https://slickdeals.net/e/13137808-saks-fifth-avenue-designer-sale-up-to-75-off?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+75+Off",
-  "exact": false,
-  "checked_at": "2026-11-26T20:22:57Z"
- },
- {
-  "id": "d6f92ee0241d87f1",
-  "title": "Saks Fifth Avenue: Designer Sale - Up to 50% Off Women's Ready to Wear & Up to 40% Off Accessories and Men's",
-  "url": "https://slickdeals.net/e/13096699-saks-fifth-avenue-designer-sale-up-to-50-off-women-s-ready-to-wear-up-to-40-off-accessories-and-men-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Web search: Saks designer sale",
-  "urgent": false,
-  "hot": false,
-  "pct": 50,
-  "price": null,
-  "found_at": "2026-11-26T02:18:10Z",
-  "source_url": "https://slickdeals.net/e/13096699-saks-fifth-avenue-designer-sale-up-to-50-off-women-s-ready-to-wear-up-to-40-off-accessories-and-men-s?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks+Fifth+Avenue+Designer+-+Up+to+50+Off+Women%27s+Ready+to+Wear+%26+Up+to+40+Off+A",
-  "exact": false,
-  "checked_at": "2026-11-26T20:22:58Z"
- },
- {
-  "id": "010f770f92ed8629",
-  "title": "Saks $50 off every $200 - works on designer bags",
-  "url": "https://slickdeals.net/e/13026310-saks-50-off-every-200-works-on-designer-bags?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "fashion",
-  "source": "Web search: Saks designer sale",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 50.0,
-  "found_at": "2026-11-26T02:18:10Z",
-  "source_url": "https://slickdeals.net/e/13026310-saks-50-off-every-200-works-on-designer-bags?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Asaksfifthavenue.com+Saks",
-  "exact": false,
-  "checked_at": "2026-11-26T20:22:59Z"
- },
- {
-  "id": "9bf6bde449a62018",
-  "title": "Apple MacBooks, iPads, and Much More Extra 10% off at Woot!",
-  "url": "https://slickdeals.net/f/20362194-apple-macbooks-ipads-and-much-more-extra-10-off-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": 10,
-  "price": null,
-  "found_at": "2026-11-26T02:18:12Z",
-  "source_url": "https://slickdeals.net/f/20362194-apple-macbooks-ipads-and-much-more-extra-10-off-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+MacBooks+iPads+and+Much+More+Extra+10+off",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:01Z"
- },
- {
-  "id": "65e9c93d54db1110",
-  "title": "Woot! App: $41.59 | Apple iPhone Air MagSafe Battery at Woot!",
-  "url": "https://slickdeals.net/f/20292585-woot-app-41-59-apple-iphone-air-magsafe-battery-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 41.59,
-  "found_at": "2026-11-26T02:18:12Z",
-  "source_url": "https://slickdeals.net/f/20292585-woot-app-41-59-apple-iphone-air-magsafe-battery-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:04Z"
- },
- {
-  "id": "bc2d333f9b8abcb9",
-  "title": "Woot! App: $11.99 | Apple Watch Sports Loops & Bands (Various) at Woot!",
-  "url": "https://slickdeals.net/f/20292042-woot-app-11-99-apple-watch-sports-loops-bands-various-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 11.99,
-  "found_at": "2026-11-26T02:18:12Z",
-  "source_url": "https://slickdeals.net/f/20292042-woot-app-11-99-apple-watch-sports-loops-bands-various-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:05Z"
- },
- {
-  "id": "7cee70e3580e90b4",
-  "title": "Woot! App: $259.99 | 42mm Apple Watch Series 10 GPS + Cellular Smartwatch at Woot!",
-  "url": "https://slickdeals.net/f/20291958-woot-app-259-99-42mm-apple-watch-series-10-gps-cellular-smartwatch-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Woot Apple deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 259.99,
-  "found_at": "2026-11-26T02:18:12Z",
-  "source_url": "https://slickdeals.net/f/20291958-woot-app-259-99-42mm-apple-watch-series-10-gps-cellular-smartwatch-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Google",
-  "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:07Z"
- },
- {
-  "id": "80eade140e539b52",
-  "title": "Samsung Galaxy Watch9 44mm Smartwatch $309.99 Graphite or Silver Free shipping Costco.com",
-  "url": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+Watch9+44mm+Smartwatch",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Costco watch deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 309.99,
-  "found_at": "2026-11-26T02:18:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20325156-samsung-galaxy-watch9-44mm-smartwatch-309-99-graphite-or-silver-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Samsung",
-  "similar": "https://www.samsung.com/us/search/searchMain/?searchTerm=Samsung+Galaxy+Watch9+44mm+Smartwatch",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:08Z"
- },
- {
-  "id": "dc7ee953e2881ac2",
-  "title": "Costco Members: Apple Watch Series 12 (GPS or GPS + Cellular, 42mm/46mm) from $330",
-  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Apple+Watch+Series+12+from",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Costco watch deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 330.0,
-  "found_at": "2026-11-26T02:18:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20314398-costco-members-apple-watch-series-12-gps-or-gps-cellular-42mm-46mm-from-330?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco",
-  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Apple+Watch+Series+12+from",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:09Z"
- },
- {
-  "id": "c4e24ddea1402c59",
-  "title": "Costco Members: Apple Watch SE 3 w/ Sport Band (GPS): 44mm $230, 40mm $200",
-  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Apple+Watch+SE+3+w+Sport+Band+44mm",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Costco watch deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 230.0,
-  "found_at": "2026-11-26T02:18:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20314224-costco-members-apple-watch-se-3-w-sport-band-gps-44mm-230-40mm-200?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco",
-  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+Apple+Watch+SE+3+w+Sport+Band+44mm",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:11Z"
- },
- {
-  "id": "bdb6df4c06297934",
-  "title": "Select Costco Stores: 49mm Apple Watch Ultra 3 GPS + Cellular (M/L, Black) $500 (In-Store Only)",
-  "url": "https://www.costco.com/CatalogSearch?keyword=Select+Costco+Stores+49mm+Apple+Watch+Ultra+3+GPS+%2B+Cellular",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Costco watch deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 500.0,
-  "found_at": "2026-11-26T02:18:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20170179-select-costco-stores-49mm-apple-watch-ultra-3-gps-cellular-m-l-black-500-in-store-only?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco",
-  "similar": "https://www.costco.com/CatalogSearch?keyword=Select+Costco+Stores+49mm+Apple+Watch+Ultra+3+GPS+%2B+Cellular",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:12Z"
- },
- {
-  "id": "cfefb33a24b384d2",
-  "title": "Costco : Apple Watch Ultra 3 49mm Smartwatch (GPS + Cellular) $499.97",
-  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Apple+Watch+Ultra+3+49mm+Smartwatch",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Costco watch deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 499.97,
-  "found_at": "2026-11-26T02:18:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20137506-costco-apple-watch-ultra-3-49mm-smartwatch-gps-cellular-499-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco",
-  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Apple+Watch+Ultra+3+49mm+Smartwatch",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:14Z"
- },
- {
-  "id": "58a3b73aa92c4071",
-  "title": "Costco Members - Apple Watch Ultra 4 (GPS + Cellular) 49mm Black Titanium Case with 5G and Satellite Communications (Size M/L), Various - $699.99",
-  "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+-+Apple+Watch+Ultra+4+49mm+Black+Titanium+Case+with+5G+and+Satell",
-  "why": "",
-  "category": "tech",
-  "source": "Web search: Costco watch deal",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 699.99,
-  "found_at": "2026-11-26T02:18:13Z",
-  "link_tried3": true,
-  "source_url": "https://slickdeals.net/f/20099820-costco-members-apple-watch-ultra-4-gps-cellular-49mm-black-titanium-case-with-5g-and-satellite-communications-size-m-l-various-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "store": "Costco",
-  "similar": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+-+Apple+Watch+Ultra+4+49mm+Black+Titanium+Case+with+5G+and+Satell",
-  "exact": false,
-  "checked_at": "2026-11-26T20:23:15Z"
- },
- {
   "id": "0d9c6cf117597087",
   "title": "Costco Members - Apple Watch Series 12 (GPS), 42mm (Size S/M) - $349.99, 46mm (Size M/L) - $399.99",
   "url": "https://www.costco.com/CatalogSearch?keyword=Costco+Members+-+Apple+Watch+Series+12+42mm+-",
@@ -293,7 +34,8 @@
   "source_url": "https://slickdeals.net/f/19976526-invicta-bolt-stainless-steel-women-s-quartz-watch-36-5mm-74-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Costco",
   "similar": "https://www.costco.com/CatalogSearch?keyword=Invicta+Bolt+Stainless+Steel+Women%27s+Quartz+Watch+36.5mm",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:22Z"
  },
  {
   "id": "b5086db828ea081b",
@@ -311,7 +53,8 @@
   "source_url": "https://slickdeals.net/f/20399649-maui-jim-nuu-landing-polarized-wrap-sunglasses-114-99-at-amazon?utm_source=rss&utm_content=ht&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Maui+Jim+Nuu+Landing+Polarized+Wrap+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:23Z"
  },
  {
   "id": "5919823865272593",
@@ -329,7 +72,8 @@
   "source_url": "https://slickdeals.net/f/20358798-macys-black-friday-deal-viktor-rolf-spicebomb-metallic-musk-eau-de-parfum-3-04-oz-93-00?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Macys",
   "similar": "https://www.macys.com/shop/featured/Macys%20-%20Viktor%20%26%20Rolf%20Spicebomb%20Metallic%20Musk%20Eau%20de%20Parfum%203.04%20oz.%20-",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:24Z"
  },
  {
   "id": "a64f55a172ebbbb4",
@@ -347,7 +91,8 @@
   "source_url": "https://slickdeals.net/f/20353329-viktor-rolf-tiger-lily-eau-de-parfum-ambery-perfume-for-women-3-4-fl-oz-109-2?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Viktor%26Rolf+Tiger+Lily+Eau+de+Parfum+Ambery+Perfume+for+Women+-+3.4+Fl+Oz",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:27Z"
  },
  {
   "id": "85bc5372e53bea2b",
@@ -365,7 +110,8 @@
   "source_url": "https://slickdeals.net/f/20351049-tissot-t-race-motogp-2026-swiss-automatic-chronograph-45mm-men-s-watch-1733-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Tissot+T-Race+MotoGP+2026+Swiss+Automatic+Chronograph+45mm+Men+s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:29Z"
  },
  {
   "id": "db21983fa2981465",
@@ -382,7 +128,8 @@
   "source_url": "https://slickdeals.net/f/20286702-oceaneva-men-s-oceantrek-gmt-automatic-nh34-200m-watch-222?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oceaneva+Men%27s+OceanTrek+GMT+Automatic+NH34+200m+watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:29Z"
  },
  {
   "id": "a014e220068b0d08",
@@ -400,7 +147,8 @@
   "source_url": "https://slickdeals.net/f/20219175-tissot-chemin-des-tourelles-swiss-powermatic-80-39-mm-blue-dial-men-s-watch-686-38?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Tissot+Chemin+des+Tourelles+Swiss+Powermatic+80+39+mm+Blue+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:31Z"
  },
  {
   "id": "3696e93a0738a0bd",
@@ -418,7 +166,8 @@
   "source_url": "https://slickdeals.net/f/20097441-tissot-carson-premium-swiss-automatic-40mm-silver-dial-men-s-watch-454-94-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Tissot+Carson+Premium+Swiss+Automatic+40mm+Silver+Dial+Men+s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:33Z"
  },
  {
   "id": "7c01268a297164e3",
@@ -434,7 +183,8 @@
   "found_at": "2026-11-26T02:23:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-26T20:31:35Z"
  },
  {
   "id": "1b5a1df4c35f2780",
@@ -451,7 +201,8 @@
   "source_url": "https://slickdeals.net/f/20008266-tissot-chemin-des-tourelles-swiss-powermatic-80-42-mm-silver-dial-men-s-watch-525?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Chemin+des+Tourelles+Swiss+Powermatic+80+42+mm+Silver+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:36Z"
  },
  {
   "id": "3abb51bd3c7dbb2b",
@@ -468,7 +219,8 @@
   "source_url": "https://slickdeals.net/f/20008227-omega-seamaster-olympic-timekeeper-automatic-black-dial-men-s-watch-3750?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Omega+Seamaster+Olympic+Timekeeper+Automatic+Black+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:38Z"
  },
  {
   "id": "b1429d650fc6e7b0",
@@ -484,7 +236,8 @@
   "found_at": "2026-11-26T02:23:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-26T20:31:40Z"
  },
  {
   "id": "81e36fbd85f68e37",
@@ -501,7 +254,8 @@
   "source_url": "https://slickdeals.net/f/19978239-tissot-chemin-des-tourelles-swiss-powermatic-80-42-mm-silver-dial-men-s-watch-568-75?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Chemin+des+Tourelles+Swiss+Powermatic+80+42+mm+Silver+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:41Z"
  },
  {
   "id": "ff3d1fe6cd0b300f",
@@ -518,7 +272,8 @@
   "source_url": "https://slickdeals.net/f/20032959-select-accounts-1-6-oz-prada-paradoxe-men-eau-de-parfum-refillable-spray-59-46-w-s-s-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Select+Accounts+1.6-Oz+Prada+Paradoxe+Men+Eau+de+Parfum+Refillable+Spray",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:31:44Z"
  },
  {
   "id": "74b2008d9f2b632c",
@@ -534,7 +289,8 @@
   "found_at": "2026-11-26T02:23:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-26T20:31:46Z"
  },
  {
   "id": "e134b83c53511510",
@@ -28449,7 +28205,7 @@
  {
   "id": "aab5a5c710a92392",
   "title": "RingConn Gen 2 Smart Ring for $200 + free shipping",
-  "url": "https://www.dealnews.com/Ring-Conn-Gen-2-Smart-Ring-for-200-free-shipping/22434835.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=RingConn+Gen+2+Smart+Ring+for",
   "why": "Iphone — all-time low",
   "category": "tech",
   "source": "DealNews",
@@ -28461,7 +28217,8 @@
   "source_url": "https://www.dealnews.com/Ring-Conn-Gen-2-Smart-Ring-for-200-free-shipping/22434835.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=RingConn+Gen+2+Smart+Ring+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8703c9f04ecf67ae",
@@ -28484,7 +28241,7 @@
  {
   "id": "6097c012dc2802ba",
   "title": "Sonos Ray Compact Soundbar for $169 + free shipping",
-  "url": "https://www.dealnews.com/products/Sonos/Sonos-Ray-Compact-Soundbar/467508.html?iref=rss",
+  "url": "https://www.google.com/search?tbm=shop&q=Sonos+Ray+Compact+Soundbar+for",
   "why": "",
   "category": "tech",
   "source": "DealNews",
@@ -28496,7 +28253,8 @@
   "source_url": "https://www.dealnews.com/products/Sonos/Sonos-Ray-Compact-Soundbar/467508.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sonos+Ray+Compact+Soundbar+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "04a0282d5dfc71af",
@@ -28535,7 +28293,7 @@
  {
   "id": "4a1af2c8600eb8c8",
   "title": "Hoka Women's Clifton 10 Running Shoes (Various) $99.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/20407506-hoka-women-s-clifton-10-running-shoes-various-99-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Hoka+Women%27s+Clifton+10+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: On Running",
@@ -28547,7 +28305,8 @@
   "source_url": "https://slickdeals.net/f/20407506-hoka-women-s-clifton-10-running-shoes-various-99-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Hoka+Women%27s+Clifton+10+Running+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d16919e52b803936",
@@ -28906,7 +28665,7 @@
  {
   "id": "f466f2ce77e8c830",
   "title": "Round Trip New York to Montego Bay Jamaica $347-$352 Nonstop Airfares on JetBlue or American Airlines BE (Travel January - February 2027)",
-  "url": "https://slickdeals.net/f/20272257-round-trip-new-york-to-montego-bay-jamaica-347-352-nonstop-airfares-on-jetblue-or-american-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDdqBRIDTllDcgUSA01CShoaEgoyMDI3LTAxLTA5agUSA01CSnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Jamaica flight deal",
@@ -28926,12 +28685,13 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "e49c8ce94b0fca32",
   "title": "Frontier’s $399 Unlimited Flight Pass Covers St Thomas, Aruba, Jamaica, Puerto Rico, St Maarten and Punta Cana - Caribbean Journal",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGZMcldiSnVraFR4TWtOSmRyMzZZbUhxeGNucF9ucTZzeGJrdW1YZGhicVM5anZtTUdiX2hTR29QN0NRQWdYaFUtQWFqengzQUMxYnRwYmN4MFFiVkRfWXRTcW9LbFNGeVJHd2MyLWZMeUdPZUNlTnMzVGpmX0huRHRrZnVYVmVN?oc=5",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Frontier%E2%80%99s",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Jamaica flight deal",
@@ -28944,12 +28704,13 @@
   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGZMcldiSnVraFR4TWtOSmRyMzZZbUhxeGNucF9ucTZzeGJrdW1YZGhicVM5anZtTUdiX2hTR29QN0NRQWdYaFUtQWFqengzQUMxYnRwYmN4MFFiVkRfWXRTcW9LbFNGeVJHd2MyLWZMeUdPZUNlTnMzVGpmX0huRHRrZnVYVmVN?oc=5",
   "exact": false,
   "similar": "https://www.google.com/travel/flights?q=Flights%20Frontier%E2%80%99s",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "623636f1f74d0e6c",
   "title": "RT New York to Nassau Bahamas $220 Nonstop Airfares on JetBlue BE (Travel January - March 2026)",
-  "url": "https://slickdeals.net/f/18978778-rt-new-york-to-nassau-bahamas-220-nonstop-airfares-on-jetblue-be-travel-january-march-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDZqBRIDTllDcgUSA05BUxoaEgoyMDI3LTAxLTExagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -28969,12 +28730,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "831894177b06a361",
   "title": "RT New York to Nassau Bahamas $288 Nonstop Airfares on JetBlue & Delta Air Lines BE (Travel December - June 2025)",
-  "url": "https://slickdeals.net/f/17741511-rt-new-york-to-nassau-bahamas-288-nonstop-airfares-on-jetblue-delta-air-lines-be-travel-december-june-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDFqBRIDTllDcgUSA05BUxoaEgoyMDI2LTEyLTA0agUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -28994,12 +28756,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "c260a7d58134c98f",
   "title": "RT New York to Nassau Bahamas $226 Nonstop Airfares on Delta Air Lines BE (Travel April - February 2025, Including SUMMER)",
-  "url": "https://slickdeals.net/f/17393742-rt-new-york-to-nassau-bahamas-226-nonstop-airfares-on-delta-air-lines-be-travel-april-february-2025-including-summer?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDctMDVqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA3LTEyagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -29019,12 +28782,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "16eaf8de538cf6e5",
   "title": "RT New York to Nassau Bahamas $226 Nonstop Airfares on JetBlue & Delta Air Lines BE (Travel April - September 2024)",
-  "url": "https://slickdeals.net/f/17368695-rt-new-york-to-nassau-bahamas-226-nonstop-airfares-on-jetblue-delta-air-lines-be-travel-april-september-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDQtMDJqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA0LTEwagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -29044,12 +28808,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "6104edd228f64ec4",
   "title": "RT New York to Nassau Bahamas $236 Nonstop Airfares on JetBlue, United or Delta Air Lines BE (Travel November - February 2024)",
-  "url": "https://slickdeals.net/f/16987621-rt-new-york-to-nassau-bahamas-236-nonstop-airfares-on-jetblue-united-or-delta-air-lines-be-travel-november-february-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMTVqBRIDTllDcgUSA05BUxoaEgoyMDI2LTEyLTIwagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -29070,12 +28835,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "7aeeb030cdbea5f6",
   "title": "New York to Nassau Bahamas $236 RT Nonstop Airfares on JetBlue Basic (Travel July - October 2023)",
-  "url": "https://slickdeals.net/f/16784363-new-york-to-nassau-bahamas-236-rt-nonstop-airfares-on-jetblue-basic-travel-july-october-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDctMjZqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA3LTMxagUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -29095,12 +28861,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "efec9c897194bfae",
   "title": "New York to Nassau Bahamas $272 RT Nonstop Airfares on JetBlue or Delta Air Lines BE (Travel August - November 2023)",
-  "url": "https://slickdeals.net/f/16704554-new-york-to-nassau-bahamas-272-rt-nonstop-airfares-on-jetblue-or-delta-air-lines-be-travel-august-november-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDgtMDJqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA4LTA3agUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -29120,12 +28887,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "9b18ba97c10d83e8",
   "title": "RT Flights to Nassau, Bahamas, from different cities, Starting at $235",
-  "url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -29139,12 +28907,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13494151-rt-flights-to-nassau-bahamas-from-different-cities-starting-at-235?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Flights%20to%20Nassau%2C%20Bahamas%2C%20from%20different%20cities%2C%20Starting%20at",
+  "link_tried3": true
  },
  {
   "id": "a7b53356a8236536",
   "title": "New York to Paradise Island Bahamas $325 RT Nonstop Airfares on JetBlue Airways (Limited Travel Sept-Oct 2019)",
-  "url": "https://slickdeals.net/e/13174879-new-york-to-paradise-island-bahamas-325-rt-nonstop-airfares-on-jetblue-airways-limited-travel-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDktMDNqBRIDTllDcgUSA05BUxoaEgoyMDI3LTA5LTA4agUSA05BU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Bahamas flight deal",
@@ -29164,12 +28933,13 @@
    "NAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20NAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "f2f9af7f44779547",
   "title": "Round Trip New York to Cancun Mexico $337 Nonstop Airfares on JetBlue BE (Travel December - February 2027)",
-  "url": "https://slickdeals.net/f/20269053-round-trip-new-york-to-cancun-mexico-337-nonstop-airfares-on-jetblue-be-travel-december-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDFqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTA0agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29189,12 +28959,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "8a42b4c269eca5af",
   "title": "RT New York to Cancun Mexico $286 Nonstop Airfares on JetBlue, American or Delta Air Lines BE (Travel October - December 2025)",
-  "url": "https://slickdeals.net/f/18676018-rt-new-york-to-cancun-mexico-286-nonstop-airfares-on-jetblue-american-or-delta-air-lines-be-travel-october-december-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMTAtMTRqBRIDTllDcgUSA0NVThoaEgoyMDI3LTEwLTE5agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29214,12 +28985,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "efab93a1a7e6e926",
   "title": "RT New York to Cancun Mexico $255-$259 Nonstop Airfares on Delta or JetBlue BE (Travel January - July 2024) SUMMER DATES!",
-  "url": "https://slickdeals.net/f/17183581-rt-new-york-to-cancun-mexico-255-259-nonstop-airfares-on-delta-or-jetblue-be-travel-january-july-2024-summer-dates?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMTRqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTE2agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29239,12 +29011,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "7eadae4bb125be0e",
   "title": "New York to Cancun Mexico $253 RT Nonstop Airfares on JetBlue (Travel September - October 2023)",
-  "url": "https://slickdeals.net/f/16851812-new-york-to-cancun-mexico-253-rt-nonstop-airfares-on-jetblue-travel-september-october-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMTAtMDNqBRIDTllDcgUSA0NVThoaEgoyMDI3LTEwLTA4agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29264,12 +29037,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "327bede70e069e22",
   "title": "New York to Cancun Mexico $268 RT Nonstop Airfares on American Airlines BE (Travel November - December 2022)",
-  "url": "https://slickdeals.net/f/16125016-new-york-to-cancun-mexico-268-rt-nonstop-airfares-on-american-airlines-be-travel-november-december-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMTVqBRIDTllDcgUSA0NVThoaEgoyMDI2LTEyLTIwagUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29290,12 +29064,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "6a312f352542d7b6",
   "title": "New York to Cancun Mexico $242 RT Nonstop Airfares on Jetblue Basic (Travel November - February 2023)",
-  "url": "https://slickdeals.net/f/16099741-new-york-to-cancun-mexico-242-rt-nonstop-airfares-on-jetblue-basic-travel-november-february-2023?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMTVqBRIDTllDcgUSA0NVThoaEgoyMDI2LTEyLTIwagUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29316,12 +29091,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "8d5326530eb955fb",
   "title": "New York to Cancun Mexico $316 RT Nonstop Airfares on Jetblue Basic (Travel September - November 2022)",
-  "url": "https://slickdeals.net/f/15810079-new-york-to-cancun-mexico-316-rt-nonstop-airfares-on-jetblue-basic-travel-september-november-2022?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDktMDZqBRIDTllDcgUSA0NVThoaEgoyMDI3LTA5LTExagUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29341,12 +29117,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "5e308e66b34d1a8d",
   "title": "NYC to Cancun, Mexico non stop, roundtrip (January-March dates) $141",
-  "url": "https://slickdeals.net/e/14717390-nyc-to-cancun-mexico-non-stop-roundtrip-january-march-dates-141?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDhqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTE2agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29366,12 +29143,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "67f8969f825d4068",
   "title": "New York to Cancun Mexico $230 RT Nonstop Airfares on Several Airlines (Travel December - March 2021)",
-  "url": "https://slickdeals.net/e/14459639-new-york-to-cancun-mexico-230-rt-nonstop-airfares-on-several-airlines-travel-december-march-2021?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMDFqBRIDTllDcgUSA0NVThoaEgoyMDI2LTEyLTE0agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29391,12 +29169,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "d3fbc542a9a0868e",
   "title": "New York to Cancun Mexico $242 RT Nonstop Airfares on Delta, American or Jetblue Airways (Travel January - April 2021)",
-  "url": "https://slickdeals.net/e/14370344-new-york-to-cancun-mexico-242-rt-nonstop-airfares-on-delta-american-or-jetblue-airways-travel-january-april-2021?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDFqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTMxagUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29416,12 +29195,13 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "c8da8e07535214ee",
   "title": "New Jersey to Cancun MX $258 RT Nonstop Airfares on VivaAerobus Airlines (Limited Travel April-May 2019)",
-  "url": "https://slickdeals.net/e/12781312-new-jersey-to-cancun-mx-258-rt-nonstop-airfares-on-vivaaerobus-airlines-limited-travel-april-may-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Cancun flight deal",
@@ -29435,12 +29215,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/12781312-new-jersey-to-cancun-mx-258-rt-nonstop-airfares-on-vivaaerobus-airlines-limited-travel-april-may-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20to%20Cancun%20MX",
+  "link_tried3": true
  },
  {
   "id": "2f1f16ed0a8a0f46",
   "title": "RT New York to Bridgetown Barbados Caribbean $265 Nonstop Airfares on Jetblue or American Airlines BE (Travel February - June 2025)",
-  "url": "https://slickdeals.net/f/18117607-rt-new-york-to-bridgetown-barbados-caribbean-265-nonstop-airfares-on-jetblue-or-american-airlines-be-travel-february-june-2025?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMjVqBRIDTllDcgUSA0JHSRoaEgoyMDI3LTAzLTAyagUSA0JHSXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Barbados flight deal",
@@ -29460,12 +29241,13 @@
    "BGI"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "3b971db850b45e83",
   "title": "RT Boston or New York to Bridgetown Barbados $322 Nonstop Airfares on JetBlue BE (Travel Upcoming Months)",
-  "url": "https://slickdeals.net/f/17793522-rt-boston-or-new-york-to-bridgetown-barbados-322-nonstop-airfares-on-jetblue-be-travel-upcoming-months?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMTAtMjVqBRIDTllDcgUSA0JHSRoaEgoyMDI3LTEwLTMwagUSA0JHSXIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Barbados flight deal",
@@ -29484,12 +29266,13 @@
    "BGI"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20BGI&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "a5fc0dc017a4b00e",
   "title": "New York / New Jersey to Bridgetown Barbados $320 RT Nonstop Airfares on JetBlue Airways (Very Few Dates in Sept-Oct 2019)",
-  "url": "https://slickdeals.net/e/13197742-new-york-new-jersey-to-bridgetown-barbados-320-rt-nonstop-airfares-on-jetblue-airways-very-few-dates-in-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20New%20York%20/%20New%20Jersey%20to%20Bridgetown%20Barbados",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Barbados flight deal",
@@ -29503,12 +29286,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13197742-new-york-new-jersey-to-bridgetown-barbados-320-rt-nonstop-airfares-on-jetblue-airways-very-few-dates-in-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20York%20/%20New%20Jersey%20to%20Bridgetown%20Barbados"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20York%20/%20New%20Jersey%20to%20Bridgetown%20Barbados",
+  "link_tried3": true
  },
  {
   "id": "84849ff0b6b2b095",
   "title": "RT New York to Curacao $248 Airfares on American Airlines BE (Limited Travel February - March 2024)",
-  "url": "https://slickdeals.net/f/17257120-rt-new-york-to-curacao-248-airfares-on-american-airlines-be-limited-travel-february-march-2024?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMTRqBRIDTllDcgUSA0NVUhoaEgoyMDI3LTAyLTE2agUSA0NVUnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Curacao flight deal",
@@ -29528,12 +29312,13 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "5933a0fecfb01a75",
   "title": "New York to Willemstad Curacao (Dutch Caribbean) $280 RT Nonstop AIrfares on JetBlue Basic (Limited Travel April - June 2022) $290",
-  "url": "https://slickdeals.net/f/15680785-new-york-to-willemstad-curacao-dutch-caribbean-280-rt-nonstop-airfares-on-jetblue-basic-limited-travel-april-june-2022-290?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDQtMTNqBRIDTllDcgUSA0NVUhoaEgoyMDI3LTA0LTE4agUSA0NVUnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Curacao flight deal",
@@ -29554,12 +29339,13 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "0f79e1d3b34e4494",
   "title": "New York to Curacao (The Caribbean) $311 RT Airfares on American Airlines BE (Travel Sept 2019)",
-  "url": "https://slickdeals.net/e/13190284-new-york-to-curacao-the-caribbean-311-rt-airfares-on-american-airlines-be-travel-sept-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDktMTRqBRIDTllDcgUSA0NVUhoaEgoyMDI3LTA5LTE5agUSA0NVUnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Curacao flight deal",
@@ -29580,12 +29366,13 @@
    "CUR"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUR&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "f70ce9fee1c4364a",
   "title": "San Francisco to Curacao $424 RT on Jetblue Airways (Very Few Dates Sept-Oct 2019)",
-  "url": "https://slickdeals.net/e/13154440-san-francisco-to-curacao-424-rt-on-jetblue-airways-very-few-dates-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20San%20Francisco%20to%20Curacao",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Curacao flight deal",
@@ -29599,12 +29386,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/e/13154440-san-francisco-to-curacao-424-rt-on-jetblue-airways-very-few-dates-sept-oct-2019?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20San%20Francisco%20to%20Curacao"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20San%20Francisco%20to%20Curacao",
+  "link_tried3": true
  },
  {
   "id": "52b39cd91e517717",
   "title": "Round Trip New York - Kauai Hawaii (The Garden Isle) or Vice Versa $435 Airfares on Alaska/Hawaiian Airlines BE (Travel October - March 2027)",
-  "url": "https://slickdeals.net/f/20111397-round-trip-new-york-kauai-hawaii-the-garden-isle-or-vice-versa-435-airfares-on-alaska-hawaiian-airlines-be-travel-october-march-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMTAtMThqBRIDTllDcgUSA0hOTBoaEgoyMDI3LTEwLTI3agUSA0hOTHIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "Web search: New York to Hawaii flight deal",
@@ -29624,7 +29412,8 @@
    "HNL"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20HNL&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "69679ea73cdfca38",
@@ -29771,7 +29560,7 @@
  {
   "id": "895c5ddeeb8d81d1",
   "title": "Bang & Olufsen Beoplay H9 Wireless Over the Ear Headphones (3rd Gen) $300",
-  "url": "https://slickdeals.net/f/15532738-bang-olufsen-beoplay-h9-wireless-over-the-ear-headphones-3rd-gen-300?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bang+%26+Olufsen+Beoplay+H9+Wireless+Over+the+Ear+Headphones",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Ssense Sale",
@@ -29783,7 +29572,8 @@
   "source_url": "https://slickdeals.net/f/15532738-bang-olufsen-beoplay-h9-wireless-over-the-ear-headphones-3rd-gen-300?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bang+%26+Olufsen+Beoplay+H9+Wireless+Over+the+Ear+Headphones",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f4316556828afff8",
@@ -29946,7 +29736,7 @@
  {
   "id": "23d92247f0e5bab5",
   "title": "Bose QuietComfort Headphones (all colors) - Refurbished $139 &more",
-  "url": "https://slickdeals.net/f/20405100-bose-quietcomfort-headphones-all-colors-refurbished-139-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones+-+Refurbished",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose Quietcomfort",
@@ -29958,7 +29748,8 @@
   "source_url": "https://slickdeals.net/f/20405100-bose-quietcomfort-headphones-all-colors-refurbished-139-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones+-+Refurbished",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2293221b1340c611",
@@ -29981,7 +29772,7 @@
  {
   "id": "77f09348abfeb7fd",
   "title": "Bose Lifestyle Ultra Soundbar $799 + Free S/H",
-  "url": "https://slickdeals.net/f/20407644-bose-lifestyle-ultra-soundbar-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+Lifestyle+Ultra+Soundbar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: B&H Deal",
@@ -29993,12 +29784,13 @@
   "source_url": "https://slickdeals.net/f/20407644-bose-lifestyle-ultra-soundbar-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+Lifestyle+Ultra+Soundbar",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a23ac7c9bbde4e70",
   "title": "Bose TV Speaker 2nd Gen $219 + Free S/H",
-  "url": "https://slickdeals.net/f/20405931-bose-tv-speaker-2nd-gen-219-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+TV+Speaker+2nd+Gen",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: B&H Deal",
@@ -30010,7 +29802,8 @@
   "source_url": "https://slickdeals.net/f/20405931-bose-tv-speaker-2nd-gen-219-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+TV+Speaker+2nd+Gen",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cfde0a0021945364",
@@ -30033,7 +29826,7 @@
  {
   "id": "757a579c122a12ad",
   "title": "Lowest price ever on 83-inch LG C6H 4K OLED TV in Black Friday deal - PC Guide",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29sUFZjc3BFT2txQlpTTG8yQmdaSFdYMENUV256cHpQYnYtUEE1YjFxVUduUm1jVjhhTjZvZHZJbEZ6N1l4bXNtcDRsUVpaSnd6UmNOZUQ5NGdKNG1hejFMSDBSTFRBVEhCLUdJSm5LWXVzQVhUVERGSUhDMUFBcmZNUUdDVUFVMUloSF9nbFlBV3lkREI4NWJUYTlDTGs?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Lowest+price+ever+on+83-inch+LG+C6H+4K+OLED+TV+in+Black+Friday+-+PC+Guide",
   "why": "Oled — lowest price ever",
   "category": "tech",
   "source": "Google: OLED TV deal",
@@ -30045,12 +29838,13 @@
   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29sUFZjc3BFT2txQlpTTG8yQmdaSFdYMENUV256cHpQYnYtUEE1YjFxVUduUm1jVjhhTjZvZHZJbEZ6N1l4bXNtcDRsUVpaSnd6UmNOZUQ5NGdKNG1hejFMSDBSTFRBVEhCLUdJSm5LWXVzQVhUVERGSUhDMUFBcmZNUUdDVUFVMUloSF9nbFlBV3lkREI4NWJUYTlDTGs?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Lowest+price+ever+on+83-inch+LG+C6H+4K+OLED+TV+in+Black+Friday+-+PC+Guide",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2eb70fb7bebfa97e",
   "title": "This Black Friday Deal Knocks 50% Off LG’s 65-Inch OLED C6 TV - CNET",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2NDV1ZJWDhZc2JqbjBpM0N4RDNZaURTYUVMTHpZSVFBRm1ZSVdaTjN6TVdLN0I1YmwtajNpT0xzV1gzNGwwWW9nMFJRczlLVUdTUi1tZEhfLVZRYWlER2E1OF95N2lBTmo3UFBMZERWZ0RlZkpjUmdScE9HUXE0bTJ3?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=This+Black+Friday+Knocks+50+Off+LG+s+65-Inch+OLED+C6+TV+-+CNET",
   "why": "Oled — 50% off",
   "category": "tech",
   "source": "Google: OLED TV deal",
@@ -30062,7 +29856,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2NDV1ZJWDhZc2JqbjBpM0N4RDNZaURTYUVMTHpZSVFBRm1ZSVdaTjN6TVdLN0I1YmwtajNpT0xzV1gzNGwwWW9nMFJRczlLVUdTUi1tZEhfLVZRYWlER2E1OF95N2lBTmo3UFBMZERWZ0RlZkpjUmdScE9HUXE0bTJ3?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+Black+Friday+Knocks+50+Off+LG+s+65-Inch+OLED+C6+TV+-+CNET",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a0b57de3e3b6e41e",
@@ -30755,7 +30550,7 @@
  {
   "id": "e3a37f7d2a3fbe48",
   "title": "Woot! App: $269.56 | Apple AirPods Max (1st Gen) Wireless Headphones (Factory Reconditioned, Open Box) at Woot!",
-  "url": "https://slickdeals.net/f/20290884-woot-app-269-56-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
   "why": "",
   "category": "tech",
   "source": "Web search: Woot Apple deal",
@@ -30765,7 +30560,10 @@
   "price": 269.56,
   "found_at": "2026-11-26T20:15:11Z",
   "exact": false,
-  "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App"
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Woot+App",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20290884-woot-app-269-56-apple-airpods-max-1st-gen-wireless-headphones-factory-reconditioned-open-box-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google"
  },
  {
   "id": "7f9e3e63d0c83b65",
@@ -30780,12 +30578,13 @@
   "price": 349.97,
   "found_at": "2026-11-26T20:15:13Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "link_tried3": true
  },
  {
   "id": "2f7a8c77378f0ab3",
   "title": "Breitling Top Time B01 Chevrolet Corvette 41mm Red Dial Men's Watch AB01761A1K1A $6456",
-  "url": "https://slickdeals.net/f/20365059-breitling-top-time-b01-chevrolet-corvette-41mm-red-dial-men-s-watch-ab01761a1k1a-6456?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Breitling+Top+Time+B01+Chevrolet+Corvette+41mm+Red+Dial+Men%27s+Watch+AB01761A1K1A",
   "why": "",
   "category": "watches",
   "source": "Web search: Breitling sale",
@@ -30795,7 +30594,10 @@
   "price": 6456.0,
   "found_at": "2026-11-26T20:15:16Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Breitling+Top+Time+B01+Chevrolet+Corvette+41mm+Red+Dial+Men%27s+Watch+AB01761A1K1A"
+  "similar": "https://www.google.com/search?tbm=shop&q=Breitling+Top+Time+B01+Chevrolet+Corvette+41mm+Red+Dial+Men%27s+Watch+AB01761A1K1A",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20365059-breitling-top-time-b01-chevrolet-corvette-41mm-red-dial-men-s-watch-ab01761a1k1a-6456?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay"
  },
  {
   "id": "16a43c53459362b9",
@@ -30953,11 +30755,11 @@
   "pct": 20,
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20246877-ombre-leather-eau-de-parfum-spray-3-4-oz?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Ombre+Leather+Eau+de+Parfum+Spray+3.4+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7295333c0a81b9f9",
@@ -30971,11 +30773,11 @@
   "pct": null,
   "price": 169.97,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19766439-tom-ford-55mm-rectangular-sunglasses-169-97-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+55mm+Rectangular+Sunglasses",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "edcc968bf4f30a0c",
@@ -31007,11 +30809,11 @@
   "pct": 30,
   "price": 119.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19552665-marc-jacobs-daisy-wild-eau-de-parfum-3-pc-set-spring-fy26-119?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Marc+Jacobs+Daisy+Wild+Eau+de+Parfum+3-pc+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1cb93830d67d71b3",
@@ -31025,11 +30827,11 @@
   "pct": null,
   "price": 208.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19512639-tom-ford-noir-extreme-men-eau-de-parfum-spray-5-0-ounce-150ml-208-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Noir+Extreme+Men+Eau+De+Parfum+Spray+5.0+Ounce+150ml",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6fafb743bfa9a1d6",
@@ -31059,11 +30861,11 @@
   "pct": 90,
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19275045-jomashop-spring-sunglasses-blowout-sale-extra-40-off-up-to-90-off-some-items-gucci-prada-oakley-tom-ford-ferragamo-saint-laurent?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Jomashop+Spring+Sunglasses+Blowout+Extra+40+Off+Gucci+Prada+Oakley+Tom+Ford+Ferr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d3a8ce236e51ad33",
@@ -31077,11 +30879,11 @@
   "pct": null,
   "price": 129.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19225009-tom-ford-black-orchid-eau-de-parfum-3-4-fl-oz-129-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+Eau+de+Parfum+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a0b5b2729d136e9a",
@@ -31095,11 +30897,11 @@
   "pct": null,
   "price": 96.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19198285-carolina-herrera-bad-boy-cobalt-eau-de-parfum-3-4fl-oz-96-99-free-ship-w-prime-96-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Carolina+Herrera+Bad+Boy+Cobalt+Eau+de+Parfum+3.4fl+oz+-+96.99+%2B+free+ship+w+Pri",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4d13cc315dd48493",
@@ -31113,11 +30915,11 @@
   "pct": null,
   "price": 99.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19186129-tom-ford-black-orchid-edp-3-4-fl-oz-99-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+Black+Orchid+EDP+3.4+fl+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9da7d1c217c4e1b7",
@@ -31131,11 +30933,11 @@
   "pct": 50,
   "price": 25.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19125388-2-piece-valentino-donna-born-in-roma-eau-de-parfum-travel-gift-set-25-free-store-pickup-at-ulta-or-fs-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Aulta.com+2-Piece+Valentino+Donna+Born+In+Roma+Eau+de+Parfum+Travel+Gift+Set",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "681503701533b759",
@@ -31149,11 +30951,11 @@
   "pct": null,
   "price": 139.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18954397-tom-ford-ombre-leather-eau-de-parfum-3-4-oz-139-99-woot-com-free-shipping-prime-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Tom+Ford+Ombre+Leather+Eau+de+Parfum+3.4+oz",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3f3072efe11d3559",
@@ -31309,11 +31111,11 @@
   "pct": null,
   "price": 1619.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20360583-lg-partner-77-c6h-oled-evo-4k-tv-27-ultragear-g5-ips-fhd-200hz-1ms-monitor-1619-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+Partner+77+C6H+OLED+evo+4K+TV+%2B+27+UltraGear+G5+IPS+FHD+200Hz+1ms+Monitor",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "be4f8704143cfdbe",
@@ -31327,11 +31129,11 @@
   "pct": 10,
   "price": 229.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20408202-bose-soundlink-max-citrus-yellow-229-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+Soundlink+Max+-+Citrus+Yellow+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2d39af57521f428f",
@@ -31345,11 +31147,11 @@
   "pct": null,
   "price": 407.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20403375-hamilton-khaki-navy-scuba-40mm-black-dial-men-s-automatic-watch-407?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+40mm+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "acbe1f6e8ff45be8",
@@ -31363,11 +31165,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20311326-hamilton-khaki-field-mechanical-38-white-dial-on-bracelet?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Field+Mechanical+38+White+Dial+on+Bracelet",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f377afa9814b120b",
@@ -31381,11 +31183,11 @@
   "pct": null,
   "price": 304.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20271972-citizen-promaster-navihawk-chronograph-khaki-green-dial-men-s-watch-304?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Navihawk+Chronograph+Khaki+Green+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b4e2c023027daec5",
@@ -31399,11 +31201,11 @@
   "pct": null,
   "price": 923.12,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20159652-hamilton-khaki-aviation-45mm-black-dial-men-s-automatic-watch-923-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Aviation+45mm+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4a9b98cb681e2ad8",
@@ -31435,11 +31237,11 @@
   "pct": null,
   "price": 799.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20083566-hamilton-khaki-38mm-automatic-field-watch-w-black-dial-leather-strap-799-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+38mm+Automatic+Field+Watch+w+Black+Dial+%26+Leather+Strap",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "94072a5aed8c3909",
@@ -31453,11 +31255,11 @@
   "pct": null,
   "price": 569.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20059062-hamilton-khaki-navy-frogman-black-dial-men-s-automatic-watch-various-569-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5cf1c0a1cb1cd863",
@@ -31471,11 +31273,11 @@
   "pct": null,
   "price": 367.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20024529-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cd1bdc7be6b8caf1",
@@ -31489,11 +31291,11 @@
   "pct": null,
   "price": 367.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20024511-hamilton-american-classic-intra-matic-38mm-black-and-brown-dial-men-s-automatic-watch-367?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+American+Classic+Intra-Matic+38mm+Black+and+Brown+Dial+Men%27s+Automatic+",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1f4e48017a84a658",
@@ -31523,11 +31325,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19932573-hamilton-khaki-navy-frogman-46mm-black-dial-men-s-automatic-watch?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Khaki+Navy+Frogman+46mm+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e0fe981eb4d4cb63",
@@ -31541,11 +31343,11 @@
   "pct": null,
   "price": 549.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19879521-hamilton-men-s-khaki-aviation-x-wind-46mm-quartz-watch-549?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Khaki+Aviation+X-Wind+46mm+Quartz+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0935d1275902f678",
@@ -31559,11 +31361,11 @@
   "pct": null,
   "price": 569.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19878093-hamilton-men-s-khaki-navy-41mm-black-dial-automatic-watch-569?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Khaki+Navy+41mm+Black+Dial+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6de368c66e3721e1",
@@ -31577,11 +31379,11 @@
   "pct": null,
   "price": 579.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19792779-hamilton-jazzmaster-automatic-white-dial-men-s-watch-579?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Jazzmaster+Automatic+White+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ab223f1b858124e4",
@@ -31595,11 +31397,11 @@
   "pct": 73,
   "price": 442.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19591560-hamilton-men-s-automatic-watch-36mm-jazzmaster-442-38mm-42mm-american-classic-from-351-10-free-s-h-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Automatic+Watch+36mm+Jazzmaster",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3f29bc8403f5b638",
@@ -31613,11 +31415,11 @@
   "pct": null,
   "price": 499.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19494378-hamilton-men-s-jazzmaster-automatic-watch-499?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Jazzmaster+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5d241c6d0f6bb9cb",
@@ -31631,11 +31433,11 @@
   "pct": null,
   "price": 351.12,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19459029-hamilton-men-s-american-classic-watch-351-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+American+Classic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f54977912b551faa",
@@ -31649,11 +31451,11 @@
   "pct": null,
   "price": 579.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19366911-hamilton-men-s-khaki-navy-automatic-watch-579-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+Men%27s+Khaki+Navy+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "6f2da1271cfdbc03",
@@ -31667,11 +31469,11 @@
   "pct": null,
   "price": 492.15,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/19172281-hamilton-american-classic-men-s-automatic-silver-dial-watch-492-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Hamilton+American+Classic+Men%27s+Automatic+Silver+Dial+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1150a0dbb818d6b4",
@@ -31685,11 +31487,11 @@
   "pct": null,
   "price": 493.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/18732838-hamilton-khaki-field-mechanical-black-dial-493?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Field+Mechanical+Black+Dial",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "3fc10cc5732ca23d",
@@ -31703,11 +31505,11 @@
   "pct": null,
   "price": 537.5,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20390634-tissot-ballade-swiss-automatic-cosc-32mm-mother-of-pearl-women-s-watch-537-50?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Ballade+Swiss+Automatic+COSC+32mm+Mother-of-Pearl+Women+s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b3f3ec735ab15aaa",
@@ -31721,11 +31523,11 @@
   "pct": null,
   "price": 407.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20403375-hamilton-khaki-navy-scuba-40mm-black-dial-men-s-automatic-watch-407?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+40mm+Black+Dial+Men%27s+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cbf54c00cf7848fa",
@@ -31739,11 +31541,11 @@
   "pct": null,
   "price": 249.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20336214-seiko-5-sports-skx-series-srpl87k1-42-5mm-yellow-dial-black-silicone-strap-automatic-watch-249-9-82-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Seiko+5+Sports+SKX+Series+SRPL87K1+42.5mm+Yellow+Dial+Black+Silicone+Strap+Autom",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "b55fd35e5d4c150b",
@@ -31757,11 +31559,11 @@
   "pct": null,
   "price": 115.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20375364-citizen-sport-ecodrive-aw1571-76x-military-watch-115?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Citizen+Sport+EcoDrive+AW1571-76X+Military+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1a2fba3f36dbdaf9",
@@ -31775,11 +31577,11 @@
   "pct": null,
   "price": 274.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20370126-citizen-promaster-dive-eco-drive-blue-dial-41mm-watch-jomashop-app-req-d-274?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Dive+Eco-Drive+Blue+Dial+41mm+Watch+Jomashop+App+Req+d",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "654902a2f5d5bae5",
@@ -31793,11 +31595,11 @@
   "pct": null,
   "price": 300.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20369922-bulova-marine-star-automatic-blue-dial-men-s-watch-jomashop-app-req-d-300?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+BULOVA+Marine+Star+Automatic+Blue+Dial+Men%27s+Watch+Jomashop+App+Req+d",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d55d21121e18e5ca",
@@ -31811,11 +31613,11 @@
   "pct": null,
   "price": 254.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20366718-citizen-tsuyosa-automatic-40mm-blue-dial-men-s-watch-jomashop-app-required-254?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Tsuyosa+Automatic+40mm+Blue+Dial+Men%27s+Watch+Jomashop+App+required",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "73b30762c8f91938",
@@ -31829,11 +31631,11 @@
   "pct": null,
   "price": 194.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20366688-44mm-citizen-men-s-eco-drive-promaster-diver-stainless-steel-watch-from-194-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+44mm+Citizen+Men%27s+Eco-Drive+Promaster+Diver+Stainless+Steel+Watch+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a9a98ffc3fd2586e",
@@ -31847,11 +31649,11 @@
   "pct": null,
   "price": 299.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20348904-42-5mm-seiko-5-sports-skx-series-automatic-watch-299-9-80-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=42.5mm+Seiko+5+Sports+SKX+Series+Automatic+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "968cfb84e1dcfe3b",
@@ -31865,11 +31667,11 @@
   "pct": null,
   "price": 179.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20316177-seiko-5-automatic-champagne-dial-automatic-watch-snxl72-179?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+SEIKO+5+Automatic+Champagne+Dial+Automatic+Watch+SNXL72",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "11fa0accb4731d20",
@@ -31883,11 +31685,11 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20316159-citizen-automatic-yellow-dial-men-s-watch-43mm-169?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=CITIZEN+Automatic+Yellow+Dial+Men%27s+Watch+43mm",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ee27fe93eb58655b",
@@ -31901,11 +31703,11 @@
   "pct": null,
   "price": 222.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20286702-oceaneva-men-s-oceantrek-gmt-automatic-nh34-200m-watch-222?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Oceaneva+Men%27s+OceanTrek+GMT+Automatic+NH34+200m+watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0d67484da183c909",
@@ -31919,11 +31721,11 @@
   "pct": null,
   "price": 304.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20271972-citizen-promaster-navihawk-chronograph-khaki-green-dial-men-s-watch-304?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+CITIZEN+Promaster+Navihawk+Chronograph+Khaki+Green+Dial+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "ac6ee8b83f6f71e2",
@@ -31955,11 +31757,11 @@
   "pct": null,
   "price": 39.99,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20392431-playstation-5-dualsense-wireless-controller-white-grade-a-refurbished-39-99-free-s-h-w-prime-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Playstation+5+DualSense+Wireless+Controller+-+White",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "a07b8b15443c5aa0",
@@ -31973,11 +31775,11 @@
   "pct": null,
   "price": 849.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20387619-certified-refurbished-playstation-5-pro-console-849-playstation-direct?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Adirect.playstation.com+Certified+Refurbished+PlayStation+5+Pro+Console+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "2e00489674378217",
@@ -31991,11 +31793,11 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20386251-menards-ship-to-store-ps5-dual-controller-charging-dock-after-33-cent-store-credit-rebate?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Menards+ship+to+store+-+PS5+dual+controller+charging+dock+after+33+cent+store+cr",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "cdf352fb9d5b267a",
@@ -32045,11 +31847,11 @@
   "pct": 50,
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
-  "link_tried3": true,
   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2NDV1ZJWDhZc2JqbjBpM0N4RDNZaURTYUVMTHpZSVFBRm1ZSVdaTjN6TVdLN0I1YmwtajNpT0xzV1gzNGwwWW9nMFJRczlLVUdTUi1tZEhfLVZRYWlER2E1OF95N2lBTmo3UFBMZERWZ0RlZkpjUmdScE9HUXE0bTJ3?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=This+Black+Friday+Knocks+50+Off+LG+s+65-Inch+OLED+C6+TV+-+CNET",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "799f49ae41a123e6",
@@ -33494,7 +33296,7 @@
  {
   "id": "1d2cdcf96af24549",
   "title": "Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more",
-  "url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
+  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
   "why": "Iphone — all-time low",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33504,12 +33306,15 @@
   "price": 500.0,
   "found_at": "2026-11-26T20:20:34Z",
   "exact": false,
-  "similar": "https://www.apple.com/us/search/Deals%20AirPods%20Apple%202026%20Studio%20Displays%20up%20to"
+  "similar": "https://www.apple.com/us/search/Deals%20AirPods%20Apple%202026%20Studio%20Displays%20up%20to",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/",
+  "store": "Amazon"
  },
  {
   "id": "1db29fb40cb772df",
   "title": "Deals: AirPods Pro 3, 2026 Apple Studio Display XDR $329+ off, iPad Air $100 off, charging gear, more",
-  "url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
+  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
   "why": "Ipad — all-time low",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33519,12 +33324,15 @@
   "price": 329.0,
   "found_at": "2026-11-26T20:20:34Z",
   "exact": false,
-  "similar": "https://www.apple.com/us/search/Deals%20AirPods%20Pro%203%202026%20Apple%20Studio%20Display%20XDR"
+  "similar": "https://www.apple.com/us/search/Deals%20AirPods%20Pro%203%202026%20Apple%20Studio%20Display%20XDR",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/09/03/deals-airpods-pro-3-2026-apple-studio-display-ipad-air/",
+  "store": "Amazon"
  },
  {
   "id": "6d30cf3d0e2864d5",
   "title": "Apple Labor Day 2026 deals now live: AirPods Pro 3, M6 Mac mini, AirTag 2, iPhone, more [Updated]",
-  "url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
+  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
   "why": "Apple Watch deal",
   "category": "fragrance",
   "source": "9to5Mac deals",
@@ -33533,13 +33341,16 @@
   "pct": null,
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
-  "exact": false,
-  "similar": "https://www.apple.com/us/search/Apple%20Labor%20Day%202026%20deals%20now%20live%20AirPods%20Pro%203%20M6%20Mac%20mini%20AirTag%202%20iPhone%20mo"
+  "exact": true,
+  "similar": "https://www.apple.com/us/search/Apple%20Labor%20Day%202026%20deals%20now%20live%20AirPods%20Pro%203%20M6%20Mac%20mini%20AirTag%202%20iPhone%20mo",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/09/02/apple-labor-day-2026-deals-live/",
+  "store": "Amazon"
  },
  {
   "id": "5101ee1597b50994",
   "title": "Deals: iPhone Air up to $359 off, iPhone 17 Pro, M5 MacBook Air $240 off, AirTag 2, more",
-  "url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
+  "url": "https://bestbuycreators.7tiv.net/MAMazN",
   "why": "Iphone — all-time low",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33549,12 +33360,15 @@
   "price": 359.0,
   "found_at": "2026-11-26T20:20:34Z",
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Deals+iPhone+Air+up+to"
+  "similar": "https://www.google.com/search?tbm=shop&q=Deals+iPhone+Air+up+to",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/09/01/deals-iphone-air-iphone-17-pro-m5-macbook-air/",
+  "store": "7Tiv"
  },
  {
   "id": "b83a2a5fedf5c880",
   "title": "Deals: AirPods from $80, MagSafe Battery up to 60% off, AirTag 2 $20 each, Apple Pencil, more",
-  "url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
+  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
   "why": "Mac Mini — all-time low",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33564,12 +33378,15 @@
   "price": 80.0,
   "found_at": "2026-11-26T20:20:34Z",
   "exact": false,
-  "similar": "https://www.apple.com/us/search/Deals%20AirPods%20from"
+  "similar": "https://www.apple.com/us/search/Deals%20AirPods%20from",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/08/31/deals-airpods-magsafe-battery-airtag-2-apple-pencil/",
+  "store": "Amazon"
  },
  {
   "id": "f304b3a0cd722b46",
   "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
-  "url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
   "why": "Iphone — all-time low",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33579,12 +33396,15 @@
   "price": null,
   "found_at": "2026-11-26T20:20:34Z",
   "exact": false,
-  "similar": "https://www.apple.com/us/search/Apple%20weekend%20deals%20M6%20Mac%20mini%20AirPods%20Pro%203%20AirTag%202%20iPhone%2017%20Pro%20more"
+  "similar": "https://www.apple.com/us/search/Apple%20weekend%20deals%20M6%20Mac%20mini%20AirPods%20Pro%203%20AirTag%202%20iPhone%2017%20Pro%20more",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
+  "store": "Amazon"
  },
  {
   "id": "c3b89974d4557c47",
   "title": "Deals: Amazon Labor Day sale, AirPods Pro 3, M6 Mac mini, Apple Watch $200, AirTag 2, more",
-  "url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
+  "url": "https://www.amazon.com/events/labordaysale?language=en_US",
   "why": "Apple Watch 42% off",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33594,12 +33414,15 @@
   "price": 200.0,
   "found_at": "2026-11-26T20:20:34Z",
   "exact": false,
-  "similar": "https://www.amazon.com/s?k=Deals+Amazon+Labor+Day+AirPods+Pro+3+M6+Mac+mini+Apple+Watch"
+  "similar": "https://www.amazon.com/s?k=Deals+Amazon+Labor+Day+AirPods+Pro+3+M6+Mac+mini+Apple+Watch",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
+  "store": "Amazon"
  },
  {
   "id": "34e263b723a4d2aa",
   "title": "Deals: iPhone 17 Pro up to $285 off, AirTag 2, AirPods Pro 3, Anker MagSafe Nano power bank, more",
-  "url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
+  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
   "why": "",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33608,13 +33431,16 @@
   "pct": null,
   "price": 285.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Deals+iPhone+17+Pro+up+to"
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Deals+iPhone+17+Pro+up+to",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/08/27/deals-iphone-17-pro-airtag-2-airpods-pro-3-power-bank/",
+  "store": "Amazon"
  },
  {
   "id": "8deb623d0fc9ebdf",
   "title": "Deals: AirPods, AirTag 2, M6 Mac mini trades up to $500 off, iPhone 17 Pro $290 off, Anker Smart Display power bank, more",
-  "url": "https://9to5mac.com/2026/08/26/deals-airpods-airtag-2-m6-mac-mini-iphone-17-pro/",
+  "url": "https://www.amazon.com/dp/B0FQFB8FMG",
   "why": "Iphone — all-time low",
   "category": "tech",
   "source": "9to5Mac deals",
@@ -33623,8 +33449,11 @@
   "pct": null,
   "price": 500.0,
   "found_at": "2026-11-26T20:20:34Z",
-  "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q=Deals+AirPods+AirTag+2+M6+Mac+mini+trades+up+to"
+  "exact": true,
+  "similar": "https://www.google.com/search?tbm=shop&q=Deals+AirPods+AirTag+2+M6+Mac+mini+trades+up+to",
+  "link_tried3": true,
+  "source_url": "https://9to5mac.com/2026/08/26/deals-airpods-airtag-2-m6-mac-mini-iphone-17-pro/",
+  "store": "Amazon"
  },
  {
   "id": "bbe1d32ee93857be",
@@ -33649,7 +33478,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Newsday&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "f8754e3f8baaa9f0",
@@ -33675,12 +33505,13 @@
    "SXM"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20SXM&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "378e50cfc25d27b5",
   "title": "Jomashop Christmas in July Deals: Breitling Colt Auto $2035; Tudor Heritage $2467; RW Maestro Auto $469; Omega DeVille Auto $2176; Seiko Flight Chrono $204",
-  "url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto",
   "why": "",
   "category": "flights",
   "source": "Web search: Breitling price drop",
@@ -33688,12 +33519,17 @@
   "hot": false,
   "pct": null,
   "price": 2035.0,
-  "found_at": "2026-11-26T20:23:18Z"
+  "found_at": "2026-11-26T20:23:18Z",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/e/13224637-jomashop-christmas-in-july-deals-breitling-colt-auto-2035-tudor-heritage-2467-rw-maestro-auto-469-omega-deville-auto-2176-seiko-flight-chrono-204?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20Jomashop%20Christmas%20in%20July%20Deals%3A%20Breitling%20Colt%20Auto"
  },
  {
   "id": "cc190ca7ad723438",
   "title": "90-Count Sports Research Vegan Omega 3-6-7-9 Complex 1635mg Veggie Softgels $15.65 w/ S&S + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20407344-90-count-sports-research-vegan-omega-3-6-7-9-complex-1635mg-veggie-softgels-15-65-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=90-Count+Sports+Research+Vegan+Omega+3-6-7-9+Complex+1635mg+Veggie+Softgels",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -33701,7 +33537,12 @@
   "hot": false,
   "pct": 20,
   "price": 15.65,
-  "found_at": "2026-11-26T20:23:20Z"
+  "found_at": "2026-11-26T20:23:20Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20407344-90-count-sports-research-vegan-omega-3-6-7-9-complex-1635mg-veggie-softgels-15-65-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=90-Count+Sports+Research+Vegan+Omega+3-6-7-9+Complex+1635mg+Veggie+Softgels",
+  "exact": false
  },
  {
   "id": "5c48018d4472e0b5",
@@ -33714,12 +33555,15 @@
   "hot": false,
   "pct": null,
   "price": 17.33,
-  "found_at": "2026-11-26T20:23:20Z"
+  "found_at": "2026-11-26T20:23:20Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "41c9da122605ca4e",
   "title": "Bumble Bee Solid White Albacore Tuna in Water, 5 oz (Pack of 24) | Wild Caught Tuna, 29g Protein per Can, High in Omega-3s, Non-GMO, Gluten Free, Kosher $27.51",
-  "url": "https://slickdeals.net/f/20392029-bumble-bee-solid-white-albacore-tuna-in-water-5-oz-pack-of-24-wild-caught-tuna-29g-protein-per-can-high-in-omega-3s-non-gmo-gluten-free-kosher-27-51?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bumble+Bee+Solid+White+Albacore+Tuna+in+Water+5+oz+Wild+Caught+Tuna+29g+Protein+",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -33727,12 +33571,17 @@
   "hot": false,
   "pct": 10,
   "price": 27.51,
-  "found_at": "2026-11-26T20:23:20Z"
+  "found_at": "2026-11-26T20:23:20Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20392029-bumble-bee-solid-white-albacore-tuna-in-water-5-oz-pack-of-24-wild-caught-tuna-29g-protein-per-can-high-in-omega-3s-non-gmo-gluten-free-kosher-27-51?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Bumble+Bee+Solid+White+Albacore+Tuna+in+Water+5+oz+Wild+Caught+Tuna+29g+Protein+",
+  "exact": false
  },
  {
   "id": "7cf55d236ca728fc",
   "title": "90-Count Nature Made Fish Oil 1000mg Omega-3 Softgels $3.18 ($0.04 Each) w/ S&S + Free Shipping w/ Prime or on $35+",
-  "url": "https://slickdeals.net/f/20390553-90-count-nature-made-fish-oil-1000mg-omega-3-softgels-3-18-0-04-each-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=90-Count+Nature+Made+Fish+Oil+1000mg+Omega-3+Softgels",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -33740,12 +33589,17 @@
   "hot": false,
   "pct": 30,
   "price": 3.18,
-  "found_at": "2026-11-26T20:23:20Z"
+  "found_at": "2026-11-26T20:23:20Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20390553-90-count-nature-made-fish-oil-1000mg-omega-3-softgels-3-18-0-04-each-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=90-Count+Nature+Made+Fish+Oil+1000mg+Omega-3+Softgels",
+  "exact": false
  },
  {
   "id": "55d93484996ca861",
   "title": "Omega Effortless Batch Juicer Black or White $319.99 Free Shipping Costco.com",
-  "url": "https://slickdeals.net/f/20330457-omega-effortless-batch-juicer-black-or-white-319-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.costco.com/CatalogSearch?keyword=Omega+Effortless+Batch+Juicer+Black+or+White",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -33753,12 +33607,17 @@
   "hot": false,
   "pct": null,
   "price": 319.99,
-  "found_at": "2026-11-26T20:23:20Z"
+  "found_at": "2026-11-26T20:23:20Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20330457-omega-effortless-batch-juicer-black-or-white-319-99-free-shipping-costco-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=Omega+Effortless+Batch+Juicer+Black+or+White",
+  "exact": false
  },
  {
   "id": "f1facc28de15760c",
   "title": "Restored Premium Corsair SCUF Controllers: Valor Pro Wired (Xbox/PC) $34.37, Envision V2 Hall Effect (PC) $50, Omega Wireless (PS5/PC) $148 & More + Free Shipping",
-  "url": "https://slickdeals.net/f/20324214-restored-premium-corsair-scuf-controllers-valor-pro-wired-xbox-pc-34-37-envision-v2-hall-effect-pc-50-omega-wireless-ps5-pc-148-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.walmart.com/search?q=Restored+Premium+Corsair+SCUF+Controllers+Valor+Pro+Wired",
   "why": "",
   "category": "watches",
   "source": "Web search: Omega sale",
@@ -33766,7 +33625,12 @@
   "hot": false,
   "pct": null,
   "price": 34.37,
-  "found_at": "2026-11-26T20:23:20Z"
+  "found_at": "2026-11-26T20:23:20Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20324214-restored-premium-corsair-scuf-controllers-valor-pro-wired-xbox-pc-34-37-envision-v2-hall-effect-pc-50-omega-wireless-ps5-pc-148-more-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=Restored+Premium+Corsair+SCUF+Controllers+Valor+Pro+Wired",
+  "exact": false
  },
  {
   "id": "16ff7e7c34839ce0",
@@ -33779,25 +33643,15 @@
   "hot": false,
   "pct": null,
   "price": 11.52,
-  "found_at": "2026-11-26T20:23:20Z"
- },
- {
-  "id": "ef5054aea0ef0b7c",
-  "title": "Wipeout Omega Collection (PS4) $24 + Free Store Pick-up",
-  "url": "https://slickdeals.net/e/11380003-wipeout-omega-collection-ps4-24-free-store-pick-up?utm_source=rss&utm_content=def&utm_medium=RSS2",
-  "why": "",
-  "category": "watches",
-  "source": "Web search: Omega price drop",
-  "urgent": false,
-  "hot": false,
-  "pct": null,
-  "price": 24.0,
-  "found_at": "2026-11-26T20:23:21Z"
+  "found_at": "2026-11-26T20:23:20Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "90715b4b2ec073b4",
   "title": "Tudor Investment doubles its iShares Bitcoin Trust stake to $64.6 million - TradingView",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzh0eFUtUG1PandsUXBrYkVJM2Jpd016eEYwTG5WeFpHU1hxMkpGeXdpcUktNldWdEU3YVY1X25nVm5CZkNKOW92ZDVERDd3ODlIR3BZeVdlSzdncVhVUjVYbmMzWHFhbGdjMkVqbl9HR3dWTnEzNmlGTzRZa2dBTHJzUS1Oc1ZUNUgtTzZDQW9fS2ZqTERyV1p2ckJMWEFrTUlxSFNiR29KNU1xaE9xM0FZdnREX3F4dzVrMzVtOUotU1liWE1XSjRDNHgwWkU4TVpj?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Tudor+Investment+doubles+its+iShares+Bitcoin+Trust+stake+to",
   "why": "",
   "category": "watches",
   "source": "Web search: Tudor price drop",
@@ -33805,12 +33659,17 @@
   "hot": false,
   "pct": null,
   "price": 64.6,
-  "found_at": "2026-11-26T20:23:23Z"
+  "found_at": "2026-11-26T20:23:23Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzh0eFUtUG1PandsUXBrYkVJM2Jpd016eEYwTG5WeFpHU1hxMkpGeXdpcUktNldWdEU3YVY1X25nVm5CZkNKOW92ZDVERDd3ODlIR3BZeVdlSzdncVhVUjVYbmMzWHFhbGdjMkVqbl9HR3dWTnEzNmlGTzRZa2dBTHJzUS1Oc1ZUNUgtTzZDQW9fS2ZqTERyV1p2ckJMWEFrTUlxSFNiR29KNU1xaE9xM0FZdnREX3F4dzVrMzVtOUotU1liWE1XSjRDNHgwWkU4TVpj?oc=5",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Tudor+Investment+doubles+its+iShares+Bitcoin+Trust+stake+to",
+  "exact": false
  },
  {
   "id": "66c983cab1c7f185",
   "title": "3.3-Oz Cartier Declaration Men's Refillable EDP Spray $96.65 + Free Shipping",
-  "url": "https://slickdeals.net/f/20332431-3-3-oz-cartier-declaration-men-s-refillable-edp-spray-96-65-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.amazon.com/s?k=3.3-Oz+Cartier+Declaration+Men%27s+Refillable+EDP+Spray",
   "why": "",
   "category": "watches",
   "source": "Web search: Cartier sale",
@@ -33818,12 +33677,17 @@
   "hot": false,
   "pct": null,
   "price": 96.65,
-  "found_at": "2026-11-26T20:23:24Z"
+  "found_at": "2026-11-26T20:23:24Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20332431-3-3-oz-cartier-declaration-men-s-refillable-edp-spray-96-65-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=3.3-Oz+Cartier+Declaration+Men%27s+Refillable+EDP+Spray",
+  "exact": false
  },
  {
   "id": "3dcd94da7cdd37e2",
   "title": "Nordstrom Rack [BLACK FRIDAY DEAL] - Valentino Born in Roma Uomo Eau de Toilette Set - $84.97",
-  "url": "https://slickdeals.net/f/20345787-nordstrom-rack-black-friday-deal-valentino-born-in-roma-uomo-eau-de-toilette-set-84-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.nordstromrack.com/sr?keyword=Nordstrom+Rack+-+Valentino+Born+in+Roma+Uomo+Eau+de+Toilette+Set+-",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -33831,12 +33695,17 @@
   "hot": false,
   "pct": null,
   "price": 84.97,
-  "found_at": "2026-11-26T20:23:31Z"
+  "found_at": "2026-11-26T20:23:31Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20345787-nordstrom-rack-black-friday-deal-valentino-born-in-roma-uomo-eau-de-toilette-set-84-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstromrack",
+  "similar": "https://www.nordstromrack.com/sr?keyword=Nordstrom+Rack+-+Valentino+Born+in+Roma+Uomo+Eau+de+Toilette+Set+-",
+  "exact": false
  },
  {
   "id": "c7c4d7134f99edb1",
   "title": "Nordstrom Rack [BLACK FRIDAY DEAL] - Valentino Uomo Born in Roma Eau de Parfum Intense Gift Set - $109.97",
-  "url": "https://slickdeals.net/f/20345727-nordstrom-rack-black-friday-deal-valentino-uomo-born-in-roma-eau-de-parfum-intense-gift-set-109-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.nordstromrack.com/sr?keyword=Nordstrom+Rack+-+Valentino+Uomo+Born+in+Roma+Eau+de+Parfum+Intense+Gift+Set+-",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Valentino sale",
@@ -33844,6 +33713,821 @@
   "hot": false,
   "pct": null,
   "price": 109.97,
-  "found_at": "2026-11-26T20:23:31Z"
+  "found_at": "2026-11-26T20:23:31Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20345727-nordstrom-rack-black-friday-deal-valentino-uomo-born-in-roma-eau-de-parfum-intense-gift-set-109-97?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Nordstromrack",
+  "similar": "https://www.nordstromrack.com/sr?keyword=Nordstrom+Rack+-+Valentino+Uomo+Born+in+Roma+Eau+de+Parfum+Intense+Gift+Set+-",
+  "exact": false
+ },
+ {
+  "id": "cfc10c3520bbc91e",
+  "title": "Tissot Carson T0854071105100 40mm Automatic Men's Watch for $224 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Tissot+Carson+T0854071105100+40mm+Automatic+Men%27s+Watch+for",
+  "why": "Tissot deal",
+  "category": "watches",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 224.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Tissot-Carson-T0854071105100-40-mm-Automatic-Mens-Watch-for-224-free-shipping/22434887.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Tissot+Carson+T0854071105100+40mm+Automatic+Men%27s+Watch+for",
+  "exact": false
+ },
+ {
+  "id": "7c7ba93690fd0c62",
+  "title": "Anker Q20i Hybrid Active Noise Cancelling Bluetooth Headphones for $60 + free shipping w/ Prime",
+  "url": "https://www.google.com/search?tbm=shop&q=Anker+Q20i+Hybrid+Active+Noise+Cancelling+Bluetooth+Headphones+for",
+  "why": "",
+  "category": "amazon",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 60.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Anker-Q20-i-Hybrid-Active-Noise-Cancelling-Bluetooth-Headphones-for-60-free-shipping-w-Prime/22434885.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Anker+Q20i+Hybrid+Active+Noise+Cancelling+Bluetooth+Headphones+for",
+  "exact": false
+ },
+ {
+  "id": "8f1d55bf8798131f",
+  "title": "Breitling Top Time B01 Chevrolet Corvette 41mm Red Dial Men's Watch AB01761A1K1A $6456",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Breitling+Top+Time+B01+Chevrolet+Corvette+41mm+Red+Dial+Men%27s+Watch+AB01761A1K1A",
+  "why": "",
+  "category": "watches",
+  "source": "Slickdeals: Tudor",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 6456.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20365059-breitling-top-time-b01-chevrolet-corvette-41mm-red-dial-men-s-watch-ab01761a1k1a-6456?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Breitling+Top+Time+B01+Chevrolet+Corvette+41mm+Red+Dial+Men%27s+Watch+AB01761A1K1A",
+  "exact": false
+ },
+ {
+  "id": "784ce4dde3ad406a",
+  "title": "ORICO Magnetic M.2 2230/2242 NVMe SSD Enclosure for iPhone $20.15",
+  "url": "https://www.amazon.com/s?k=ORICO+Magnetic+M.2+2230+2242+NVMe+SSD+Enclosure+for+iPhone",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ipad",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.15,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20387493-orico-magnetic-m-2-2230-2242-nvme-ssd-enclosure-for-iphone-20-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=ORICO+Magnetic+M.2+2230+2242+NVMe+SSD+Enclosure+for+iPhone",
+  "exact": false
+ },
+ {
+  "id": "e3635aa880db083f",
+  "title": "Apple iPad Pro 13 M4 512GB Cellular - Space Gray $1142",
+  "url": "https://www.apple.com/us/search/Apple%20iPad%20Pro%2013%20M4%20512GB%20Cellular%20-%20Space%20Gray",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ipad",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": 1142.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20386575-apple-ipad-pro-13-m4-512gb-cellular-space-gray-1142?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20iPad%20Pro%2013%20M4%20512GB%20Cellular%20-%20Space%20Gray",
+  "exact": false
+ },
+ {
+  "id": "02b1f1410aa67196",
+  "title": "Apple AirPods Pro 3 Wireless Earbuds w/ Active Noise Cancellation $149 + Free S&H",
+  "url": "https://www.amazon.com/s?k=Apple+AirPods+Pro+3+Wireless+Earbuds+w+Active+Noise+Cancellation",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20387043-apple-airpods-pro-3-wireless-earbuds-w-active-noise-cancellation-149-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Apple+AirPods+Pro+3+Wireless+Earbuds+w+Active+Noise+Cancellation",
+  "exact": false
+ },
+ {
+  "id": "e947fba9d2e84481",
+  "title": "$899.99* | 65\" Samsung Class S85H Series OLED 4K 120Hz Smart TV (2026 Model) at Amazon",
+  "url": "https://slickdeals.net/f/20386461-899-99-65-samsung-class-s85h-series-oled-4k-120hz-smart-tv-2026-model-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Oled Tv",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 899.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "ad24b3d9d5117607",
+  "title": "Bose QuietComfort Ultra 2nd Gen Wireless Over-Ear Noise Cancelling Headphones (Midnight Violet) $335 + Free Shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+2nd+Gen+Wireless+Over-Ear+Noise+Cancelling+Headphones",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Bose",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 335.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20384184-bose-quietcomfort-ultra-2nd-gen-wireless-over-ear-noise-cancelling-headphones-midnight-violet-335-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Ultra+2nd+Gen+Wireless+Over-Ear+Noise+Cancelling+Headphones",
+  "exact": false
+ },
+ {
+  "id": "f1107ec8d1b8f1a8",
+  "title": "Dyson Hot+Cool™ HF1 Rapid React Heater Fan $299.99 + Free S&H at Walmart",
+  "url": "https://www.walmart.com/search?q=Dyson+Hot%2BCool+HF1+Rapid+React+Heater+Fan",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 299.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20386566-dyson-hot-cool-hf1-rapid-react-heater-fan-299-99-free-s-h-at-walmart?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Walmart",
+  "similar": "https://www.walmart.com/search?q=Dyson+Hot%2BCool+HF1+Rapid+React+Heater+Fan",
+  "exact": false
+ },
+ {
+  "id": "fe9fa60e61401543",
+  "title": "[AC] $178.96: Dyson PencilWash™ Cordless Wet Cleaner | Bright Copper | New | Latest Technology at Walmart.com",
+  "url": "https://slickdeals.net/f/20385771-ac-178-96-dyson-pencilwash-cordless-wet-cleaner-bright-copper-new-latest-technology-at-walmart-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 178.96,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "fc1fd6c6c75178d8",
+  "title": "$151.99, FS, 2 yr warranty, REFURB Dyson V8 Origin Cordless Vacuum Cleaner | Red/Black",
+  "url": "https://slickdeals.net/f/20384910-151-99-fs-2-yr-warranty-refurb-dyson-v8-origin-cordless-vacuum-cleaner-red-black?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 151.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "22276bc1705034c7",
+  "title": "$199.99, FS, 2 yr warranty, REFURB Dyson V9 Motorbar™ Vacuum | Dark Nickel/Gloss Nickel, ebay",
+  "url": "https://slickdeals.net/f/20384907-199-99-fs-2-yr-warranty-refurb-dyson-v9-motorbar-vacuum-dark-nickel-gloss-nickel-ebay?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "cb885e565d16f105",
+  "title": "$291.99, FS, 2 yr warr, REFURB Dyson V15 Detect Total Clean Extra | Yellow/Nickel",
+  "url": "https://slickdeals.net/f/20384886-291-99-fs-2-yr-warr-refurb-dyson-v15-detect-total-clean-extra-yellow-nickel?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 291.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "ef51f7258409ab95",
+  "title": "$351.99, FS, 2 yr warr, REFURB Dyson V15s Detect Submarine™ Wet and Dry Vacuum Cleaner | Yellow/Nickel |",
+  "url": "https://slickdeals.net/f/20384880-351-99-fs-2-yr-warr-refurb-dyson-v15s-detect-submarine-wet-and-dry-vacuum-cleaner-yellow-nickel?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 351.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "f394da2ace42e4b7",
+  "title": "Cert. Refurb: Dyson Purifier Hot+Cool Formaldehyde™ HP09 White/Gold $252 + Free S&H",
+  "url": "https://www.ebay.com/sch/i.html?_nkw=Cert.+Refurb+Dyson+Purifier+Hot%2BCool+Formaldehyde+HP09+White+Gold",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Dyson",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 252.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20384409-cert-refurb-dyson-purifier-hot-cool-formaldehyde-hp09-white-gold-252-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Ebay",
+  "similar": "https://www.ebay.com/sch/i.html?_nkw=Cert.+Refurb+Dyson+Purifier+Hot%2BCool+Formaldehyde+HP09+White+Gold",
+  "exact": false
+ },
+ {
+  "id": "7cb8408649baf87c",
+  "title": "Garmin vivoactive 5 42mm Health & Fitness GPS Smartwatch (Orchid) $152.09",
+  "url": "https://www.amazon.com/s?k=Garmin+vivoactive+5+42mm+Health+%26+Fitness+GPS+Smartwatch",
+  "why": "Watch deal",
+  "category": "tech",
+  "source": "Slickdeals: Garmin",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 152.09,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20384697-garmin-vivoactive-5-42mm-health-fitness-gps-smartwatch-orchid-152-09?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Garmin+vivoactive+5+42mm+Health+%26+Fitness+GPS+Smartwatch",
+  "exact": false
+ },
+ {
+  "id": "46afb106dc0cb29d",
+  "title": "Common Projects - Black Original Achilles Low Sneakers",
+  "url": "https://www.google.com/search?tbm=shop&q=Common+Projects+-+Black+Original+Achilles+Low+Sneakers",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Ssense Sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/e/14670281-common-projects-black-original-achilles-low-sneakers?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Common+Projects+-+Black+Original+Achilles+Low+Sneakers",
+  "exact": false
+ },
+ {
+  "id": "a1c5dc9c8b47e225",
+  "title": "Orlian 128GB USB C Flash Drive, Dual USB 3.0 Type-C & USB-A Thumb Drive $18.04",
+  "url": "https://www.amazon.com/s?k=Orlian+128GB+USB+C+Flash+Drive+Dual+USB+3.0+Type-C+%26+USB-A+Thumb+Drive",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 18.04,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20398233-orlian-128gb-usb-c-flash-drive-dual-usb-3-0-type-c-usb-a-thumb-drive-18-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Orlian+128GB+USB+C+Flash+Drive+Dual+USB+3.0+Type-C+%26+USB-A+Thumb+Drive",
+  "exact": false
+ },
+ {
+  "id": "30b217de3e44e3a2",
+  "title": "ORICO Magnetic M.2 2230/2242 NVMe SSD Enclosure for iPhone $20.15",
+  "url": "https://www.amazon.com/s?k=ORICO+Magnetic+M.2+2230+2242+NVMe+SSD+Enclosure+for+iPhone",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 20.15,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20387493-orico-magnetic-m-2-2230-2242-nvme-ssd-enclosure-for-iphone-20-15?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=ORICO+Magnetic+M.2+2230+2242+NVMe+SSD+Enclosure+for+iPhone",
+  "exact": false
+ },
+ {
+  "id": "0f88ec678fa78037",
+  "title": "Amazon - Smart Watch for Men Women, 1.8\" Fitness Tracker for Android & iPhone, Answer/Make Calls - $22.47",
+  "url": "https://www.amazon.com/s?k=Amazon+-+Smart+Watch+for+Men+Women+1.8+Fitness+Tracker+for+Android+%26+iPhone+Answ",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 22.47,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20386947-amazon-smart-watch-for-men-women-1-8-fitness-tracker-for-android-iphone-answer-make-calls-22-47?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Amazon+-+Smart+Watch+for+Men+Women+1.8+Fitness+Tracker+for+Android+%26+iPhone+Answ",
+  "exact": false
+ },
+ {
+  "id": "8d03f438ada30127",
+  "title": "INIU Portable Charger, 10000mAh 30W Fast Charging Power Bank, Built-in USB C Cable and Foldable AC Plug, Travel Essentials Battery Pack for iPhone 16 15, Samsung, MacBook",
+  "url": "https://www.amazon.com/s?k=INIU+Portable+Charger+10000mAh+30W+Fast+Charging+Power+Bank+Built-in+USB+C+Cable",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20383983-iniu-portable-charger-10000mah-30w-fast-charging-power-bank-built-in-usb-c-cable-and-foldable-ac-plug-travel-essentials-battery-pack-for-iphone-16-15-samsung-macbook?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=INIU+Portable+Charger+10000mAh+30W+Fast+Charging+Power+Bank+Built-in+USB+C+Cable",
+  "exact": false
+ },
+ {
+  "id": "78eae76db9b68388",
+  "title": "Prime Members:TELESIN Zoom Master Grip Magnetic Phone Camera Grip w/ 3200mAh Battery & Graphene Case $37.50 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=Prime+Members+TELESIN+Zoom+Master+Grip+Magnetic+Phone+Camera+Grip+w+3200mAh+Batt",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Iphone 16",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 37.5,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20383746-prime-members-telesin-zoom-master-grip-magnetic-phone-camera-grip-w-3200mah-battery-graphene-case-37-50-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Prime+Members+TELESIN+Zoom+Master+Grip+Magnetic+Phone+Camera+Grip+w+3200mAh+Batt",
+  "exact": false
+ },
+ {
+  "id": "adb8d3a617d284ce",
+  "title": "Apple iPad Air: 11\", M3, 1TB, Wi-Fi Only (Space Gray) $949",
+  "url": "https://www.bhphotovideo.com/c/search?q=Apple+iPad+Air+11+M3+1TB+Wi-Fi+Only",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ipad Air",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 949.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20384985-apple-ipad-air-11-m3-1tb-wi-fi-only-space-gray-949?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bhphotovideo",
+  "similar": "https://www.bhphotovideo.com/c/search?q=Apple+iPad+Air+11+M3+1TB+Wi-Fi+Only",
+  "exact": false
+ },
+ {
+  "id": "38df2aa72a7c2bba",
+  "title": "Apple Magic Keyboard: Keyboard and Case — White | For iPad Air 11-inch (M2, M3, and M4) and iPad Air (4th and 5th generation), US English $199.99",
+  "url": "https://www.amazon.com/s?k=Apple+Magic+Keyboard+Keyboard+and+Case+White+For+iPad+Air+11-inch+and+iPad+Air+U",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ipad Air",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 199.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20382948-apple-magic-keyboard-keyboard-and-case-white-for-ipad-air-11-inch-m2-m3-and-m4-and-ipad-air-4th-and-5th-generation-us-english-199-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Apple+Magic+Keyboard+Keyboard+and+Case+White+For+iPad+Air+11-inch+and+iPad+Air+U",
+  "exact": false
+ },
+ {
+  "id": "bb08e771d42ebb67",
+  "title": "Apple MacBooks, iPads, and Much More Extra 10% off at Woot!",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Apple+MacBooks+iPads+and+Much+More+Extra+10+off",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Ipad Air",
+  "urgent": false,
+  "hot": false,
+  "pct": 10,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20362194-apple-macbooks-ipads-and-much-more-extra-10-off-at-woot?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?q=site%3Awoot.com+Apple+MacBooks+iPads+and+Much+More+Extra+10+off",
+  "exact": false
+ },
+ {
+  "id": "eb3ccd97922e7d39",
+  "title": "Active Military/Veterans: Apple MacBook Air 13.6\" Laptop (2026): M5 10-Core Chip, 16GB RAM, 512GB SSD $999",
+  "url": "https://www.apple.com/us/search/Active%20Military%20Veterans%20Apple%20MacBook%20Air%2013.6%20Laptop%20M5%2010-Core%20Chip%2016GB%20RAM%20",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Air",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 999.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20384628-active-military-veterans-apple-macbook-air-13-6-laptop-2026-m5-10-core-chip-16gb-ram-512gb-ssd-999?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Active%20Military%20Veterans%20Apple%20MacBook%20Air%2013.6%20Laptop%20M5%2010-Core%20Chip%2016GB%20RAM%20",
+  "exact": false
+ },
+ {
+  "id": "1a882ab6719d0f66",
+  "title": "*GEEK SQUAD REFURBISHED* Apple - MacBook Air 15-inch Laptop - M5 chip with 10-core CPU and 10-core GPU - 24GB Memory - 1TB SSD - Silver",
+  "url": "https://www.apple.com/us/search/GEEK%20SQUAD%20REFURBISHED%20Apple%20-%20MacBook%20Air%2015-inch%20Laptop%20-%20M5%20chip%20with%2010-core",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Macbook Air",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20383749-geek-squad-refurbished-apple-macbook-air-15-inch-laptop-m5-chip-with-10-core-cpu-and-10-core-gpu-24gb-memory-1tb-ssd-silver?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/GEEK%20SQUAD%20REFURBISHED%20Apple%20-%20MacBook%20Air%2015-inch%20Laptop%20-%20M5%20chip%20with%2010-core",
+  "exact": false
+ },
+ {
+  "id": "b8e6baeaf8a6a6f9",
+  "title": "[Prime] UGREEN MagFlow Foldable Magnetic Wireless Charging Station for iPhone & AirPods (Slate Gray) $14.99 + Free Shipping",
+  "url": "https://www.amazon.com/s?k=UGREEN+MagFlow+Foldable+Magnetic+Wireless+Charging+Station+for+iPhone+%26+AirPods",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 14.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20392359-prime-ugreen-magflow-foldable-magnetic-wireless-charging-station-for-iphone-airpods-slate-gray-14-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=UGREEN+MagFlow+Foldable+Magnetic+Wireless+Charging+Station+for+iPhone+%26+AirPods",
+  "exact": false
+ },
+ {
+  "id": "ca485da6d6d555fa",
+  "title": "Apple AirPods Pro 3 Wireless Earbuds w/ Active Noise Cancellation $149 + Free S&H",
+  "url": "https://www.amazon.com/s?k=Apple+AirPods+Pro+3+Wireless+Earbuds+w+Active+Noise+Cancellation",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 149.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20387043-apple-airpods-pro-3-wireless-earbuds-w-active-noise-cancellation-149-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Apple+AirPods+Pro+3+Wireless+Earbuds+w+Active+Noise+Cancellation",
+  "exact": false
+ },
+ {
+  "id": "dd0a26626274ce94",
+  "title": "[Prime] 15W Esr 3-in-1 MagSafe Wireless Compact Charging Station Stand for iPhone, Apple Watch & AirPods (Brown) $11 + Free Shipping",
+  "url": "https://www.apple.com/us/search/15W%20Esr%203-in-1%20MagSafe%20Wireless%20Compact%20Charging%20Station%20Stand%20for%20iPhone%20Apple%20",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20383617-prime-15w-esr-3-in-1-magsafe-wireless-compact-charging-station-stand-for-iphone-apple-watch-airpods-brown-11-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/15W%20Esr%203-in-1%20MagSafe%20Wireless%20Compact%20Charging%20Station%20Stand%20for%20iPhone%20Apple%20",
+  "exact": false
+ },
+ {
+  "id": "c3f623c717d8380b",
+  "title": "Apple Airpods Pro 3 Wireless Earbuds $169.99 @Best Buy",
+  "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+Airpods+Pro+3+Wireless+Earbuds",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20370804-apple-airpods-pro-3-wireless-earbuds-169-99-best-buy?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Bestbuy",
+  "similar": "https://www.bestbuy.com/site/searchpage.jsp?st=Apple+Airpods+Pro+3+Wireless+Earbuds",
+  "exact": false
+ },
+ {
+  "id": "dd78ed1ac249c387",
+  "title": "$169.99: Apple AirPods Pro 3 Wireless Earbuds with Active Noise Cancellation at Amazon",
+  "url": "https://slickdeals.net/f/20368056-169-99-apple-airpods-pro-3-wireless-earbuds-with-active-noise-cancellation-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Airpods Pro",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 169.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
+ },
+ {
+  "id": "404f5c797587bade",
+  "title": "W-RARA Two-Tone Christmas Engraved Silicone Band for Apple Watch $5.49 AC",
+  "url": "https://www.amazon.com/s?k=W-RARA+Two-Tone+Christmas+Engraved+Silicone+Band+for+Apple+Watch",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Series",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 5.49,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20398353-w-rara-two-tone-christmas-engraved-silicone-band-for-apple-watch-5-49-ac?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=W-RARA+Two-Tone+Christmas+Engraved+Silicone+Band+for+Apple+Watch",
+  "exact": false
+ },
+ {
+  "id": "db18ab0faac8edd7",
+  "title": "Refurbished Apple Watch Series 11 GPS 42mm Jet Black Aluminum Case with Black Sport Band - S/M - Target Certified Refurbished $209.99",
+  "url": "https://www.target.com/s?searchTerm=Refurbished+Apple+Watch+Series+11+GPS+42mm+Jet+Black+Aluminum+Case+with+Black+Sp",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Series",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 209.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20397867-refurbished-apple-watch-series-11-gps-42mm-jet-black-aluminum-case-with-black-sport-band-s-m-target-certified-refurbished-209-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Target",
+  "similar": "https://www.target.com/s?searchTerm=Refurbished+Apple+Watch+Series+11+GPS+42mm+Jet+Black+Aluminum+Case+with+Black+Sp",
+  "exact": false
+ },
+ {
+  "id": "76a873e59c1f7c79",
+  "title": "costco apple watch series 12",
+  "url": "https://www.costco.com/CatalogSearch?keyword=costco+apple+watch+series+12",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Series",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20384784-costco-apple-watch-series-12?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Costco",
+  "similar": "https://www.costco.com/CatalogSearch?keyword=costco+apple+watch+series+12",
+  "exact": false
+ },
+ {
+  "id": "6544a509204a32e5",
+  "title": "[Prime] 15W Esr 3-in-1 MagSafe Wireless Compact Charging Station Stand for iPhone, Apple Watch & AirPods (Brown) $11 + Free Shipping",
+  "url": "https://www.apple.com/us/search/15W%20Esr%203-in-1%20MagSafe%20Wireless%20Compact%20Charging%20Station%20Stand%20for%20iPhone%20Apple%20",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Series",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 11.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20383617-prime-15w-esr-3-in-1-magsafe-wireless-compact-charging-station-stand-for-iphone-apple-watch-airpods-brown-11-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/15W%20Esr%203-in-1%20MagSafe%20Wireless%20Compact%20Charging%20Station%20Stand%20for%20iPhone%20Apple%20",
+  "exact": false
+ },
+ {
+  "id": "db81493014b3dcde",
+  "title": "Apple Watch Series 11 GPS + Cellular 42mm Natural Titanium Case with Natural Milanese Loop $399.99",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Series%2011%20GPS%20%2B%20Cellular%2042mm%20Natural%20Titanium%20Case%20with%20Natural%20Mil",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Series",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20382042-apple-watch-series-11-gps-cellular-42mm-natural-titanium-case-with-natural-milanese-loop-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Series%2011%20GPS%20%2B%20Cellular%2042mm%20Natural%20Titanium%20Case%20with%20Natural%20Mil",
+  "exact": false
+ },
+ {
+  "id": "94893d2478f7616c",
+  "title": "Apple Watch Series 11 GPS + Cellular 46mm Natural Titanium Case with Stone Gray Sport Band - S/M $399.99",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Series%2011%20GPS%20%2B%20Cellular%2046mm%20Natural%20Titanium%20Case%20with%20Stone%20Gray%20",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals: Apple Watch Series",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 399.99,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20382012-apple-watch-series-11-gps-cellular-46mm-natural-titanium-case-with-stone-gray-sport-band-s-m-399-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Series%2011%20GPS%20%2B%20Cellular%2046mm%20Natural%20Titanium%20Case%20with%20Stone%20Gray%20",
+  "exact": false
+ },
+ {
+  "id": "d6e4fd96352ec1b8",
+  "title": "Premium Garmin smartwatch price slashed by hundreds to new low in Amazon Black Friday deal - PC Guide",
+  "url": "https://www.amazon.com/s?k=Premium+Garmin+smartwatch+price+slashed+by+hundreds+to+low+in+Amazon+Black+Frida",
+  "why": "Watch deal",
+  "category": "tech",
+  "source": "Google: OLED TV deal",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "link_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1NRemRzOVVUUXdvUkJqZms4M0RTUHcycEtJX0FtelBKVXJVRzdkejd3bmlJcFNhN3pCblJUSXg5ZWUydXFiYVI5MklZZHliTXZYYzAxakpneEp6ZHpzUHBLLUpLdWU3Y0RPbkFMUzE5RXpRU1ZySF80ZDkzVVVYRldaVGxvX2g2MGNQTGlOaUZFR25KOFktTm4yWVhBRHAxYVVydENGYnpveDlwbXBN?oc=5",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Premium+Garmin+smartwatch+price+slashed+by+hundreds+to+low+in+Amazon+Black+Frida",
+  "exact": false
+ },
+ {
+  "id": "47829dde74d182df",
+  "title": "Avianca Launching Nonstop Flights From New York to This City on the Caribbean Coast of Colombia, Just in Time for Carnival - Caribbean Journal",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20This%20City%20on%202026-12-15%20through%202026-12-20&hl=en&gl=us&curr=USD",
+  "why": "🌴 NEW YORK → Caribbean",
+  "category": "flights",
+  "source": "Google: NYC Caribbean flights",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uSVktajlpVXFFMEpnNmtLX21yaEdMX3JuYmFneThaVWY5MnZ2RzZRamx4MXJCT1BJMEtYUlpkS3lUeHJQckYtNnc2U0xOcVZWUExsSHI0a0I1WjNTNUpFQkZxWWpZaE1kNTNraUdXdHRrUENrXzd4RjlnZGk?oc=5",
+  "picked": true,
+  "depart": "2026-12-15",
+  "return": "2026-12-20",
+  "fcode": [
+   "NYC",
+   null
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20This%20City&hl=en&gl=us&curr=USD",
+  "route_fixed2": true
+ },
+ {
+  "id": "8ee3244dc3b46158",
+  "title": "Avianca Launching Nonstop Flights From New York to This City on the Caribbean Coast of Colombia, Just in Time for Carnival - Caribbean Journal",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20This%20City%20on%202026-12-15%20through%202026-12-20&hl=en&gl=us&curr=USD",
+  "why": "🌴 NEW YORK → Caribbean",
+  "category": "flights",
+  "source": "Google: NYC tropical fares",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": null,
+  "found_at": "2026-11-26T20:28:49Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uSVktajlpVXFFMEpnNmtLX21yaEdMX3JuYmFneThaVWY5MnZ2RzZRamx4MXJCT1BJMEtYUlpkS3lUeHJQckYtNnc2U0xOcVZWUExsSHI0a0I1WjNTNUpFQkZxWWpZaE1kNTNraUdXdHRrUENrXzd4RjlnZGk?oc=5",
+  "picked": true,
+  "depart": "2026-12-15",
+  "return": "2026-12-20",
+  "fcode": [
+   "NYC",
+   null
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20This%20City&hl=en&gl=us&curr=USD",
+  "route_fixed2": true
+ },
+ {
+  "id": "4ddf5e145578ec71",
+  "title": "🚨 PRICE DROP 🚨 New York to Las Vegas (& vice versa) for only $161 roundtrip - Secret Flying",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMTVqBRIDTllDcgUSA0xBUxoaEgoyMDI2LTEyLTIwagUSA0xBU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
+  "why": "$161 from NEW YORK",
+  "category": "flights",
+  "source": "Google: Secret Flying NYC",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 161.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "dates_tried3": true,
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjQ1SUlmQ3JXdFFWeU9tYlhyNU1RdjZ4OUVCMTF1WTM4VFQ4VlBWT2NlVEpqb3ZYbEVOMmJadTVjdGcxNmlxZ1ZFMm02Tm5oWXhqQTNOOUVaWG5UN3hwTmI1UG9EOS1ET0R5XzN5YnRyNzVSalZhV1R5U2FCbXVpTElqZk5Ub21JcVAtTmdlTzdwc2RSN1E?oc=5",
+  "picked": true,
+  "depart": "2026-12-15",
+  "return": "2026-12-20",
+  "fcode": [
+   "NYC",
+   "LAS"
+  ],
+  "exact": true,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20LAS&hl=en&gl=us&curr=USD",
+  "route_fixed2": true
+ },
+ {
+  "id": "ddabd20cae61f6b8",
+  "title": "Round Trip New Jersey - Santa Ana CA (Anaheim) or Vice Versa $161 Airfares on American Airlines BE (Travel January - May 2027)",
+  "url": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20-%20Santa%20Ana%20CA%20%28Anaheim%29%20or%20Vice%20Versa",
+  "why": "$161 from EWR",
+  "category": "flights",
+  "source": "Slickdeals: airfare",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 161.0,
+  "found_at": "2026-11-26T20:28:49Z",
+  "window": "January - May 2027) - 2026-11-25",
+  "depart": "2027-01-05",
+  "return": "2027-01-06",
+  "route_fixed2": true,
+  "dates_tried3": true,
+  "source_url": "https://slickdeals.net/f/20395824-round-trip-new-jersey-santa-ana-ca-anaheim-or-vice-versa-161-airfares-on-american-airlines-be-travel-january-may-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "exact": false,
+  "similar": "https://www.google.com/travel/flights?q=Flights%20New%20Jersey%20-%20Santa%20Ana%20CA%20%28Anaheim%29%20or%20Vice%20Versa"
+ },
+ {
+  "id": "43c0c15d0053e599",
+  "title": "Gucci is 30% off. But the champagne tower won't be discounted—The price tags of luxury",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b089735bf9d4b1c883b19b8ca9fb002&url=https%3a%2f%2fnote.com%2fdamatsucon%2fn%2fnf5a98a3fcbd5%3fhl%3den&c=4980103286331445567&mkt=en-us",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Gucci price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": 30,
+  "price": null,
+  "found_at": "2026-11-26T20:31:49Z"
+ },
+ {
+  "id": "ab1c74d707eff02f",
+  "title": "From Prada Sunglasses to Viral Reformation Silk Pants, Nordstrom’s Black Friday Sale Has Plenty to Covet — Including Finds Under $100",
+  "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0897372dcd40b5a8d3f78722ccc3d9&url=https%3a%2f%2fshopping.yahoo.com%2fstyle%2fclothing%2farticles%2fprada-sunglasses-viral-reformation-silk-182030900.html&c=11791356520420173307&mkt=en-us",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Prada price drop",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 100.0,
+  "found_at": "2026-11-26T20:31:52Z"
  }
 ]
