@@ -289,7 +289,8 @@
   "source_url": "https://slickdeals.net/f/20398233-orlian-128gb-usb-c-flash-drive-dual-usb-3-0-type-c-usb-a-thumb-drive-18-04?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Orlian+128GB+USB+C+Flash+Drive+Dual+USB+3.0+Type-C+%26+USB-A+Thumb+Drive",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:16Z"
  },
  {
   "id": "5faaa2c346d1abdf",
@@ -305,7 +306,8 @@
   "found_at": "2026-11-26T02:23:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-26T20:47:18Z"
  },
  {
   "id": "e8ff781352baedc4",
@@ -321,7 +323,8 @@
   "found_at": "2026-11-26T02:23:33Z",
   "link_tried3": true,
   "exact": false,
-  "similar": "https://www.google.com/search?tbm=shop&q="
+  "similar": "https://www.google.com/search?tbm=shop&q=",
+  "checked_at": "2026-11-26T20:47:19Z"
  },
  {
   "id": "00241b61b194a6e0",
@@ -339,7 +342,8 @@
   "source_url": "https://slickdeals.net/f/20399070-tcl-98-inch-class-x11l-sqd-mini-led-98x11l-2026-model-144hz-ultimate-brightness-contrast-dolby-vision-up-to-ld20k-precise-dimming-6997-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=TCL+98+Inch+Class+X11L+SQD-Mini+LED+98X11L+2026+Model+144HZ+Ultimate+Brightness+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:20Z"
  },
  {
   "id": "4eb5a95044c9647b",
@@ -356,7 +360,8 @@
   "source_url": "https://slickdeals.net/f/20397870-canon-eos-r6-mark-iii-refurbished?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Canon+EOS+R6+Mark+III+Refurbished",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:22Z"
  },
  {
   "id": "19e28a6573055662",
@@ -374,7 +379,8 @@
   "source_url": "https://slickdeals.net/f/20399649-maui-jim-nuu-landing-polarized-wrap-sunglasses-114-99-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Maui+Jim+Nuu+Landing+Polarized+Wrap+Sunglasses",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:23Z"
  },
  {
   "id": "e7bc8718ee787484",
@@ -392,7 +398,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjd3QnpGLWZJdVJJXzh1bmJUSnlUdjhHV0VYM1d3M2MwakU4S0lDbW05WF9zNXZYbjYwWGcwa1hDVGQ3ZzBIdTJhZG11ZHhUOVdxQlFtUXNxazRsVC16S2pEdHNPZTYtcnBGSHVIV0hENzB1NE9rdHpTZ0VmdlRVTGZKc1htcFFLQVl4N1FXNmJ4QmZpN1ZJektSckdoOGtuaDhGZ0pYX0tLUVZuc1hEd0Y1MFFkbmRz?oc=5",
   "store": "Amazon",
   "similar": "https://www.amazon.com/s?k=Apple+AirPods+Pro+3+drop+to+lowest+price+ever+for+Black+Friday+as+Amazon+shaves+",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:23Z"
  },
  {
   "id": "71c66cd7e583d347",
@@ -409,7 +416,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vb0NnNERQRkJQbWtKNktaS3FKVXIzN3ZXcFNneGFSekN2eUExOWtpWDFrQTk3T0x3d3E4a0lMZ1hEcGw3Sm5OVHNUV2piMlI2YnVNWk15dzVBT0lTaFc0YkVlbHRHRHVM?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Galaxy+Buds+4+Pro+Are+Now+42+Off",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:23Z"
  },
  {
   "id": "43eb7916f9dcec2e",
@@ -434,7 +442,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Newsday&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "checked_at": "2026-11-26T20:47:23Z"
  },
  {
   "id": "f8e881b0b6057491",
@@ -451,7 +460,8 @@
   "source_url": "https://slickdeals.net/f/20071143-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-124500?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:24Z"
  },
  {
   "id": "b6d7587d079637b6",
@@ -469,7 +479,8 @@
   "source_url": "https://slickdeals.net/f/19974882-rolex-datejust-boiler-dial-gold-steel-36mm-automatic-men-s-watch-6495?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Ebay",
   "similar": "https://www.ebay.com/sch/i.html?_nkw=Rolex+Datejust+Boiler+Dial+Gold+%26+Steel+36mm+Automatic+Men+s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:26Z"
  },
  {
   "id": "c67e43810069d647",
@@ -486,7 +497,8 @@
   "source_url": "https://slickdeals.net/f/18697057-rolex-day-date-40-meteorite-diamond-automatic-diamond-men-s-watch-4-600-coupon-129-950?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Rolex+Day-Date+40+Meteorite+Diamond+Automatic+Diamond+Men%27s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:27Z"
  },
  {
   "id": "f60abaab7a989325",
@@ -503,7 +515,8 @@
   "source_url": "https://slickdeals.net/f/18570373-rolex-datejust-41-blue-dial-men-s-watch-10-650-free-shipping-10650?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Ajomashop.com+Rolex+Datejust+41+Blue+Dial+Men+s+Watch",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:29Z"
  },
  {
   "id": "bcc3172a156976c6",
@@ -521,7 +534,8 @@
   "source_url": "https://slickdeals.net/f/18273667-pre-owned-rolex-16013-men-s-36mm-datejust-watch-custom-black-diamond-dial-bezel-3-year-warranty-good-walmart-com-7150?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Pre-Owned+Rolex+16013+Men%27s+36mm+Datejust+Watch+Custom+Black+Diamond+Dial+%26+Beze",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:30Z"
  },
  {
   "id": "3c0df05f6f5c6b00",
@@ -539,7 +553,8 @@
   "source_url": "https://slickdeals.net/f/17928477-rolex-black-friday-special-6-850?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Walmart",
   "similar": "https://www.walmart.com/search?q=Rolex+-+Black+Friday+Special",
-  "exact": false
+  "exact": false,
+  "checked_at": "2026-11-26T20:47:32Z"
  },
  {
   "id": "e8d218339b8a86ef",
@@ -25972,7 +25987,7 @@
  {
   "id": "d2b891618afee911",
   "title": "Pre-Order(Ships on or before Wednesday, Sep 2) GoPro MISSION 1 PRO ILS Camera with Micro Four Thirds Lens Mount $699.99",
-  "url": "https://slickdeals.net/f/19934472-pre-order-ships-on-or-before-wednesday-sep-2-gopro-mission-1-pro-ils-camera-with-micro-four-thirds-lens-mount-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Pre-Order+GoPro+MISSION+1+PRO+ILS+Camera+with+Micro+Four+Thirds+Lens+Mount",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -25984,7 +25999,8 @@
   "source_url": "https://slickdeals.net/f/19934472-pre-order-ships-on-or-before-wednesday-sep-2-gopro-mission-1-pro-ils-camera-with-micro-four-thirds-lens-mount-699-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Pre-Order+GoPro+MISSION+1+PRO+ILS+Camera+with+Micro+Four+Thirds+Lens+Mount",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e1ad05263c94e23e",
@@ -26007,7 +26023,7 @@
  {
   "id": "2978397555e9e9e0",
   "title": "GoPro HERO11 Black 5.3K UHD Action Camera Bundle (Open Box) $179.99 + Free Shipping",
-  "url": "https://slickdeals.net/f/18023772-gopro-hero11-black-5-3k-uhd-action-camera-bundle-open-box-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+5.3K+UHD+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -26019,12 +26035,13 @@
   "source_url": "https://slickdeals.net/f/18023772-gopro-hero11-black-5-3k-uhd-action-camera-bundle-open-box-179-99-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+5.3K+UHD+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "0d5c0c42fae0d915",
   "title": "GoPro HERO11 Black Action Camera Bundle (Open Box) $199 + Free Shipping",
-  "url": "https://slickdeals.net/f/17777010-gopro-hero11-black-action-camera-bundle-open-box-199-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -26036,12 +26053,13 @@
   "source_url": "https://slickdeals.net/f/17777010-gopro-hero11-black-action-camera-bundle-open-box-199-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f59ea039087434fc",
   "title": "GoPro HERO11 Black Action Camera Bundle (Open Box) $220 + Free Shipping",
-  "url": "https://slickdeals.net/f/17324907-gopro-hero11-black-action-camera-bundle-open-box-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -26053,12 +26071,13 @@
   "source_url": "https://slickdeals.net/f/17324907-gopro-hero11-black-action-camera-bundle-open-box-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+Black+Action+Camera+Bundle",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7a9a69cb66f107e2",
   "title": "GoPro HERO11 5.4K UHD Black Action Camera Bundle w/ Case (Open Box, CHDCB-111-CN) $220 + Free Shipping",
-  "url": "https://slickdeals.net/f/17276989-gopro-hero11-5-4k-uhd-black-action-camera-bundle-w-case-open-box-chdcb-111-cn-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+5.4K+UHD+Black+Action+Camera+Bundle+w+Case",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -26070,7 +26089,8 @@
   "source_url": "https://slickdeals.net/f/17276989-gopro-hero11-5-4k-uhd-black-action-camera-bundle-w-case-open-box-chdcb-111-cn-220-free-shipping?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO11+5.4K+UHD+Black+Action+Camera+Bundle+w+Case",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "e9ad25f580e5ae48",
@@ -26093,7 +26113,7 @@
  {
   "id": "8e1743ee04e87182",
   "title": "GoPro HERO 11 Black Bundle - $219 + Free Shipping - Open Box - It's Back - Limited Qty",
-  "url": "https://slickdeals.net/f/17244892-gopro-hero-11-black-bundle-219-free-shipping-open-box-it-s-back-limited-qty?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+HERO+11+Black+Bundle+-",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -26105,7 +26125,8 @@
   "source_url": "https://slickdeals.net/f/17244892-gopro-hero-11-black-bundle-219-free-shipping-open-box-it-s-back-limited-qty?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+HERO+11+Black+Bundle+-",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7fbbeb6c0ecbd10d",
@@ -26182,7 +26203,7 @@
  {
   "id": "ea4389cf99cfc688",
   "title": "GoPro - HERO8 Black 4K Waterproof Action Camera Special Bundle - Black $349.99",
-  "url": "https://slickdeals.net/e/13728374-gopro-hero8-black-4k-waterproof-action-camera-special-bundle-black-349-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=GoPro+-+HERO8+Black+4K+Waterproof+Action+Camera+Special+Bundle+-+Black",
   "why": "",
   "category": "tech",
   "source": "Web search: GoPro record low",
@@ -26194,7 +26215,8 @@
   "source_url": "https://slickdeals.net/e/13728374-gopro-hero8-black-4k-waterproof-action-camera-special-bundle-black-349-99?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=GoPro+-+HERO8+Black+4K+Waterproof+Action+Camera+Special+Bundle+-+Black",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5d7b4ac3603e899d",
@@ -26577,7 +26599,7 @@
  {
   "id": "100ec22ab94a0501",
   "title": "United: Newark – Athens, Greece. $548 (Basic Economy) / $788 (Regular Economy). Roundtrip, including all Taxes",
-  "url": "https://www.theflightdeal.com/2026/11/26/united-newark-athens-greece-548-basic-economy-788-regular-economy-roundtrip-including-all-taxes/",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDMtMDlqBRIDRVdScgUSA0FUSBoaEgoyMDI3LTAzLTE4agUSA0FUSHIFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "",
   "category": "flights",
   "source": "The Flight Deal",
@@ -26598,7 +26620,8 @@
    "ATH"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20ATH&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20ATH&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "bd29bbb88ac418b1",
@@ -26673,7 +26696,7 @@
  {
   "id": "32fa883f2d7a015d",
   "title": "YMMV airpods 5 with wireless charging and applecare for $103",
-  "url": "https://slickdeals.net/f/20405727-ymmv-airpods-5-with-wireless-charging-and-applecare-for-103?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=airpods+5+with+wireless+charging+and+applecare+for",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Airpods",
@@ -26685,7 +26708,8 @@
   "source_url": "https://slickdeals.net/f/20405727-ymmv-airpods-5-with-wireless-charging-and-applecare-for-103?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=airpods+5+with+wireless+charging+and+applecare+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d10a6f34f1da2808",
@@ -26866,7 +26890,7 @@
  {
   "id": "487b1a6598a5f916",
   "title": "Bose Lifestyle Ultra Soundbar $799 + Free S/H",
-  "url": "https://slickdeals.net/f/20407644-bose-lifestyle-ultra-soundbar-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+Lifestyle+Ultra+Soundbar",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -26878,12 +26902,13 @@
   "source_url": "https://slickdeals.net/f/20407644-bose-lifestyle-ultra-soundbar-799-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+Lifestyle+Ultra+Soundbar",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "88dff2fb011ae14f",
   "title": "Bose TV Speaker 2nd Gen $219 + Free S/H",
-  "url": "https://slickdeals.net/f/20405931-bose-tv-speaker-2nd-gen-219-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+TV+Speaker+2nd+Gen",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -26895,12 +26920,13 @@
   "source_url": "https://slickdeals.net/f/20405931-bose-tv-speaker-2nd-gen-219-free-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+TV+Speaker+2nd+Gen",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "21c9eb300882cf37",
   "title": "Bose QuietComfort Headphones (all colors) - Refurbished $139 &more",
-  "url": "https://slickdeals.net/f/20405100-bose-quietcomfort-headphones-all-colors-refurbished-139-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones+-+Refurbished",
   "why": "",
   "category": "tech",
   "source": "Slickdeals: Bose",
@@ -26912,7 +26938,8 @@
   "source_url": "https://slickdeals.net/f/20405100-bose-quietcomfort-headphones-all-colors-refurbished-139-more?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones+-+Refurbished",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "4df5dea5fec9f3d7",
@@ -26987,7 +27014,7 @@
  {
   "id": "3fa86d7d119a8925",
   "title": "Hoka Women's Clifton 10 Running Shoes (Various) $99.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/20407506-hoka-women-s-clifton-10-running-shoes-various-99-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Hoka+Women%27s+Clifton+10+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Hoka",
@@ -26999,12 +27026,13 @@
   "source_url": "https://slickdeals.net/f/20407506-hoka-women-s-clifton-10-running-shoes-various-99-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Hoka+Women%27s+Clifton+10+Running+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f96208fd6441dde8",
   "title": "Hoka Women's Rincon 4 Running Shoes $79.99 + Free Shipping w/ Prime",
-  "url": "https://slickdeals.net/f/20405580-hoka-women-s-rincon-4-running-shoes-79-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?q=site%3Awoot.com+Hoka+Women%27s+Rincon+4+Running+Shoes",
   "why": "",
   "category": "fashion",
   "source": "Slickdeals: Hoka",
@@ -27016,12 +27044,13 @@
   "source_url": "https://slickdeals.net/f/20405580-hoka-women-s-rincon-4-running-shoes-79-99-free-shipping-w-prime?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?q=site%3Awoot.com+Hoka+Women%27s+Rincon+4+Running+Shoes",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5b2da89b621ad0e8",
   "title": "HAMILTON Khaki Navy Scuba 37mm White Dial Unisex Quartz Watch $335",
-  "url": "https://slickdeals.net/f/20403465-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-335?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
   "why": "",
   "category": "watches",
   "source": "Slickdeals: Hamilton Khaki",
@@ -27033,7 +27062,8 @@
   "source_url": "https://slickdeals.net/f/20403465-hamilton-khaki-navy-scuba-37mm-white-dial-unisex-quartz-watch-335?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=HAMILTON+Khaki+Navy+Scuba+37mm+White+Dial+Unisex+Quartz+Watch",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "5e7d8aa3dba5c232",
@@ -27074,7 +27104,7 @@
  {
   "id": "737853a49e86f320",
   "title": "Galaxy S26 FE drops to a record low with $200 off - Android Authority",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15aC1HTzEwRGlJam1YY3pzUVpheGI0cDZiaVFKRjFRUC1ib1RJd3BVUFJ6TWM3QzEwSy1ldUpsOEFrdXJUVGlmR3NXQTVkRkpDazA5b2swV0VLaDBKZmdPMFR1M2Z6X2g4MTU3bFhiOEp6ODIxdVBjVmRycw?oc=5",
+  "url": "https://www.google.com/search?tbm=shop&q=Galaxy+S26+FE+drops+to+a+record+low+with",
   "why": "Galaxy — record low",
   "category": "tech",
   "source": "Google: Samsung deal",
@@ -27086,7 +27116,8 @@
   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15aC1HTzEwRGlJam1YY3pzUVpheGI0cDZiaVFKRjFRUC1ib1RJd3BVUFJ6TWM3QzEwSy1ldUpsOEFrdXJUVGlmR3NXQTVkRkpDazA5b2swV0VLaDBKZmdPMFR1M2Z6X2g4MTU3bFhiOEp6ODIxdVBjVmRycw?oc=5",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Galaxy+S26+FE+drops+to+a+record+low+with",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "8f059a7bffb13c14",
@@ -27127,7 +27158,7 @@
  {
   "id": "3519bccb248f4a84",
   "title": "New York to Palm Springs, California (& vice versa) for only $161 roundtrip - Secret Flying",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHB2dHU5b0I2NUxxcGhIeTVwZnVhNEpqY2lRWmlZYmVEUjI0cWxRTVlxcEpLNkxtdlJ5UWtCSEV2UlNTaWV6V1dBQUJtWFY4SUg1UmN0RmxsVnlqWHdwaURQUEE5WUtMemZHUjZqSkRSYXZFc2dGMHN3YlZPemV1MkN2LWVTeGx0aTRZUGR3?oc=5",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Palm%20Springs%2C%20California%20%28%26%20vice%20versa%29%20on%202026-12-15%20through%202026-12-20&hl=en&gl=us&curr=USD",
   "why": "$161 from NEW YORK",
   "category": "flights",
   "source": "Google: Secret Flying NYC",
@@ -27147,12 +27178,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Palm%20Springs%2C%20California%20%28%26%20vice%20versa%29&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "1780e3b2012e0b19",
   "title": "🔥 New York to European cities from only $244 roundtrip - Secret Flying",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmUyUFdGYUVTa0NzNDhmVFE5QU5JUG1VZGk0MUowQlhURnQwNFF2OW9CM3JIYTRsUlNEUm1QYmVVaEtkTGw3ZFMxTFNfamJPaExMX0gtOHdGZ2t5SmNnb2pWMzRqazlRMmUtTkN3MFg4YVRvOXcxdTgyY0tCdGdScGRWMWQtQ0pPbzVYVW8xUkM?oc=5",
+  "url": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20European%20cities%20on%202026-12-15%20through%202026-12-20&hl=en&gl=us&curr=USD",
   "why": "$244 from NEW YORK",
   "category": "flights",
   "source": "Google: Secret Flying NYC",
@@ -27172,12 +27204,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20European%20cities&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "8a6a22abf681c153",
   "title": "American: Newark – Las Vegas (and vice versa). $160 (Basic Economy) / $290 (Regular Economy). Roundtrip, including all Taxes – The Flight Deal - The Flight Deal",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY2VmOExGbDlCR3NsZ091OHFVUjhOZ3pXdUpOanI5OVVKSS15Sll0V0FUT2pfZUFDc2dOdDRvdWhiR3N1ODVhU01xanVTMVp2YUM4a1hwbnJjU2ZCWlh0NDFTcWtORFUxUWVFNEdkS1hCS2RjNkpQUGwzd25DSDZZaTRVY1hDTzBMd0RZVXJ2Zm54NmI1NkdDTU9UdFdMMVdvWXdOd0pUeUo5X3BDbU1DVDY0NjFmcjVRT0RkYS02U2FCMmdNNWtKMTA4TWhaLVZEelZiNWFRZWNILWd5RTVSblUtdm0?oc=5",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMTZqBRIDRVdScgUSA0xBUxoaEgoyMDI3LTAxLTE5agUSA0xBU3IFEgNFV1JAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "$160 from NEWARK",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -27197,12 +27230,13 @@
    "LAS"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20LAS&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20EWR%20to%20LAS&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "65b740d331936a06",
   "title": "Korean Air / Asiana: New York – Bali, Indonesia. $844. Roundtrip, including all Taxes - The Flight Deal",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR3lnMEdKRldRcEpQMGVDbjZlcFRrUXJiaU5ldkFIVGcxcGhHY1NtendGbC1qV3NvbDQ3c2hhSFpfNi00NWxwaFpjNFo2a0RBNm9ZRVZMQ3hqSHVmUHZkSVhpbDBuVXNiM2cydE9jbVdQblNnQ1hoNGFoZTFhUkJCZTVXWUF2TUd1Um43cjNQeXFpRmlDSHpHaGxSSmJmU0lGbTY1TDNuTDNGMjF6M21JeF80NUJ1c2lK?oc=5",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjYtMTItMTVqBRIDTllDcgUSA0RQUxoaEgoyMDI2LTEyLTIwagUSA0RQU3IFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "🌴 NEW YORK → Bali",
   "category": "flights",
   "source": "Google: Flight Deal NYC",
@@ -27222,12 +27256,13 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20DPS&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "8cba7cb8ca351e33",
   "title": "La Compagnie (All Business Class Seats) Blue Friday Airfares From New Jersey to Paris, Milan or Nice From $2750 RT - Book by November 27, 2026",
-  "url": "https://slickdeals.net/f/20358456-la-compagnie-all-business-class-seats-blue-friday-airfares-from-new-jersey-to-paris-milan-or-nice-from-2750-rt-book-by-november-27-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights?q=Flights%20La%20Compagnie%20%28All%20Business%20Class%20Seats%29%20Blue%20Friday%20Airfares%20From%20New%20Jersey%20to%20Paris%2C%20Milan%20or%20Nice%20From",
   "why": "premium cabin from EWR",
   "category": "flights",
   "source": "Slickdeals: airfare",
@@ -27241,12 +27276,13 @@
   "dates_tried3": true,
   "source_url": "https://slickdeals.net/f/20358456-la-compagnie-all-business-class-seats-blue-friday-airfares-from-new-jersey-to-paris-milan-or-nice-from-2750-rt-book-by-november-27-2026?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "exact": false,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20La%20Compagnie%20%28All%20Business%20Class%20Seats%29%20Blue%20Friday%20Airfares%20From%20New%20Jersey%20to%20Paris%2C%20Milan%20or%20Nice%20From"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20La%20Compagnie%20%28All%20Business%20Class%20Seats%29%20Blue%20Friday%20Airfares%20From%20New%20Jersey%20to%20Paris%2C%20Milan%20or%20Nice%20From",
+  "link_tried3": true
  },
  {
   "id": "760886f253b86bfe",
   "title": "Round Trip New York to Montego Bay Jamaica $347-$352 Nonstop Airfares on JetBlue or American Airlines BE (Travel January - February 2027)",
-  "url": "https://slickdeals.net/f/20272257-round-trip-new-york-to-montego-bay-jamaica-347-352-nonstop-airfares-on-jetblue-or-american-airlines-be-travel-january-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDdqBRIDTllDcgUSA01CShoaEgoyMDI3LTAxLTA5agUSA01CSnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "🌴 NEW YORK → Jamaica",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -27266,12 +27302,13 @@
    "MBJ"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20MBJ&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "0191738ae139fb1e",
   "title": "Round Trip New York to Cancun Mexico $337 Nonstop Airfares on JetBlue BE (Travel December - February 2027)",
-  "url": "https://slickdeals.net/f/20269053-round-trip-new-york-to-cancun-mexico-337-nonstop-airfares-on-jetblue-be-travel-december-february-2027?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMDFqBRIDTllDcgUSA0NVThoaEgoyMDI3LTAxLTA0agUSA0NVTnIFEgNOWUNAAUgBmAEB&hl=en&gl=us&curr=USD",
   "why": "🌴 NEW YORK → Cancun",
   "category": "flights",
   "source": "Slickdeals: JetBlue",
@@ -27291,7 +27328,8 @@
    "CUN"
   ],
   "exact": true,
-  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD"
+  "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20CUN&hl=en&gl=us&curr=USD",
+  "link_tried3": true
  },
  {
   "id": "2a6c4bb89ef5dd7e",
@@ -33892,11 +33930,11 @@
   "pct": null,
   "price": 300.0,
   "found_at": "2026-11-26T20:37:19Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20238096-dji-neo-2-fly-more-combo-4k-camera-drone-w-rc-n3-controller-300-or-less-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=DJI+Neo+2+Fly+More+Combo+4K+Camera+Drone+w+RC-N3+Controller",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "54c6fbc1c1cbdad0",
@@ -33962,11 +34000,11 @@
   "pct": null,
   "price": 250.0,
   "found_at": "2026-11-26T20:37:19Z",
-  "link_tried3": true,
   "source_url": "https://www.dealnews.com/Garmin-Instinct-3-Solar-45-mm-GPS-Smartwatch-for-250-free-shipping/22434888.html?iref=rss",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Instinct+3+Solar+45mm+GPS+Smartwatch+for",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "9a8c3dc3642c4d7b",
@@ -34318,11 +34356,11 @@
   "pct": null,
   "price": 44.98,
   "found_at": "2026-11-26T20:37:19Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20399679-new-sony-dualsense-wireless-controller-for-ps5-from-44-98-free-standard-s-h?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Sony+DualSense+Wireless+Controller+for+PS5+from",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "1a725dd33ce3b89e",
@@ -34336,11 +34374,11 @@
   "pct": null,
   "price": 1619.99,
   "found_at": "2026-11-26T20:37:19Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20399922-lg-77-c6h-oled-tv-s55tr-5-1-soundbar-1619-99-for-lg-members?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=LG+77+C6H+OLED+TV+%2B+S55TR+5.1+Soundbar",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "7d31ecb02fa66470",
@@ -34424,11 +34462,11 @@
   "pct": null,
   "price": 199.0,
   "found_at": "2026-11-26T20:37:19Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20399571-bose-quietcomfort-headphones-2nd-gen-various-colors-199-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones+Various+Colors",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "f2c29bc9293529f4",
@@ -34442,11 +34480,11 @@
   "pct": null,
   "price": 169.0,
   "found_at": "2026-11-26T20:37:19Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20399544-bose-quietcomfort-headphones-various-colors-169-bose-com?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+QuietComfort+Headphones+Various+Colors",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "dfcc5d8bd8031faf",
@@ -34460,11 +34498,11 @@
   "pct": null,
   "price": 139.0,
   "found_at": "2026-11-26T20:37:19Z",
-  "link_tried3": true,
   "source_url": "https://slickdeals.net/f/20398530-bose-ultra-open-earbuds-2nd-gen-139-military?utm_source=rss&utm_content=def&utm_medium=RSS2",
   "store": "Google",
   "similar": "https://www.google.com/search?tbm=shop&q=Bose+Ultra+Open+Earbuds+2nd+Gen",
-  "exact": false
+  "exact": false,
+  "link_tried3": true
  },
  {
   "id": "d6b3b4a72b45e4b2",
@@ -34543,7 +34581,8 @@
   ],
   "exact": true,
   "similar": "https://www.google.com/travel/flights?q=Flights%20from%20NYC%20to%20Da%20Nang%2C%20Vietnam&hl=en&gl=us&curr=USD",
-  "route_fixed2": true
+  "route_fixed2": true,
+  "link_tried3": true
  },
  {
   "id": "f58f87821123eaab",
@@ -34556,12 +34595,15 @@
   "hot": false,
   "pct": null,
   "price": 58.42,
-  "found_at": "2026-11-26T20:39:55Z"
+  "found_at": "2026-11-26T20:39:55Z",
+  "link_tried3": true,
+  "exact": false,
+  "similar": "https://www.google.com/search?tbm=shop&q="
  },
  {
   "id": "57b96cc8fd59b83e",
   "title": "Tom Ford EDP Ombrea Leather for sale at Belk $168 for 100ml plus travel kit",
-  "url": "https://slickdeals.net/f/20407518-tom-ford-edp-ombrea-leather-for-sale-at-belk-168-for-100ml-plus-travel-kit?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "url": "https://www.google.com/search?tbm=shop&q=Tom+Ford+EDP+Ombrea+Leather+for+at+Belk",
   "why": "",
   "category": "fragrance",
   "source": "Web search: Tom Ford sale",
@@ -34569,6 +34611,104 @@
   "hot": false,
   "pct": null,
   "price": 168.0,
-  "found_at": "2026-11-26T20:39:57Z"
+  "found_at": "2026-11-26T20:39:57Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20407518-tom-ford-edp-ombrea-leather-for-sale-at-belk-168-for-100ml-plus-travel-kit?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Tom+Ford+EDP+Ombrea+Leather+for+at+Belk",
+  "exact": false
+ },
+ {
+  "id": "07480fc9cad793be",
+  "title": "Apple Watch Ultra 4 (GPS + Cellular) 49mm Case with 5G and Satellite Communications $749.99",
+  "url": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%2049mm%20Case%20with%205G%20and%20Satellite%20Communications",
+  "why": "",
+  "category": "tech",
+  "source": "Slickdeals Popular",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 749.99,
+  "found_at": "2026-11-26T20:45:14Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20402100-apple-watch-ultra-4-gps-cellular-49mm-case-with-5g-and-satellite-communications-749-99?utm_source=rss&utm_content=ht&utm_medium=RSS2",
+  "store": "Apple",
+  "similar": "https://www.apple.com/us/search/Apple%20Watch%20Ultra%204%2049mm%20Case%20with%205G%20and%20Satellite%20Communications",
+  "exact": false
+ },
+ {
+  "id": "9a0ff32d0953c12a",
+  "title": "Garmin Forerunner 570 42mm GPS Running Smartwatch for $450 + free shipping",
+  "url": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+570+42mm+GPS+Running+Smartwatch+for",
+  "why": "Watch deal",
+  "category": "tech",
+  "source": "DealNews",
+  "urgent": false,
+  "hot": true,
+  "pct": null,
+  "price": 450.0,
+  "found_at": "2026-11-26T20:45:14Z",
+  "link_tried3": true,
+  "source_url": "https://www.dealnews.com/Garmin-Forerunner-570-42-mm-GPS-Running-Smartwatch-for-450-free-shipping/22434911.html?iref=rss",
+  "store": "Google",
+  "similar": "https://www.google.com/search?tbm=shop&q=Garmin+Forerunner+570+42mm+GPS+Running+Smartwatch+for",
+  "exact": false
+ },
+ {
+  "id": "263eaef030711658",
+  "title": "Allen Edmonds Men's Fifth Avenue Cap Toe Oxford Shoes, Black, Size 9.5 D $229 at Amazon",
+  "url": "https://www.amazon.com/s?k=Allen+Edmonds+Men%27s+Fifth+Avenue+Cap+Toe+Oxford+Shoes+Black+Size+9.5+D",
+  "why": "",
+  "category": "fashion",
+  "source": "Slickdeals: Amazon",
+  "urgent": false,
+  "hot": false,
+  "pct": 49,
+  "price": 229.0,
+  "found_at": "2026-11-26T20:45:14Z",
+  "link_tried3": true,
+  "source_url": "https://slickdeals.net/f/20408397-allen-edmonds-men-s-fifth-avenue-cap-toe-oxford-shoes-black-size-9-5-d-229-at-amazon?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "store": "Amazon",
+  "similar": "https://www.amazon.com/s?k=Allen+Edmonds+Men%27s+Fifth+Avenue+Cap+Toe+Oxford+Shoes+Black+Size+9.5+D",
+  "exact": false
+ },
+ {
+  "id": "6fc06d81c70e9af3",
+  "title": "Versace Dylan Blue for Men 2-Piece Gift Set (3.4oz + 1oz EDT) $97.16",
+  "url": "https://slickdeals.net/f/20389377-versace-dylan-blue-for-men-2-piece-gift-set-3-4oz-1oz-edt-97-16?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fashion",
+  "source": "Web search: Versace sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 97.16,
+  "found_at": "2026-11-26T20:47:39Z"
+ },
+ {
+  "id": "95106c6191926ed3",
+  "title": "$54.98 FS AMAZON Versace Pour Homme Dylan Blue for Men 3.4 oz Eau de Toilette Spray",
+  "url": "https://slickdeals.net/f/20323377-54-98-fs-amazon-versace-pour-homme-dylan-blue-for-men-3-4-oz-eau-de-toilette-spray?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Versace sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 54.98,
+  "found_at": "2026-11-26T20:47:39Z"
+ },
+ {
+  "id": "5184d64ae3e1bd2c",
+  "title": "3.3 fl. oz. Givenchy Pi Men's Eau De Toilette Spray - $33 + Shipping $7 or Free S&H on $69+ at AuraFragrance $32.98",
+  "url": "https://slickdeals.net/f/20311509-3-3-fl-oz-givenchy-pi-men-s-eau-de-toilette-spray-33-shipping-7-or-free-s-h-on-69-at-aurafragrance-32-98?utm_source=rss&utm_content=def&utm_medium=RSS2",
+  "why": "",
+  "category": "fragrance",
+  "source": "Web search: Givenchy sale",
+  "urgent": false,
+  "hot": false,
+  "pct": null,
+  "price": 33.0,
+  "found_at": "2026-11-26T20:47:43Z"
  }
 ]
